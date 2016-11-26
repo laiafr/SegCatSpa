@@ -1,0 +1,93 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;11.12||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	22-OCT-1995
+@Location:	in the dining-room
+@Activities:	MIR is sitting at the table looking at some folding books
+@Comment:	MOT is video-taping
+*MIR:	0 .
+%act:	MIR is looking at the "White Snow" book
+*MOT:	perquè és mala@s (.) què li ha donat la bruixa ?
+*MIR:	una poma .
+*MOT:	una poma (.) com ?
+*MIR:	podrida .
+%exp:	there is a blemish on the apple
+*MOT:	una poma podrida .
+*MIR:	té pupa@c .
+*MOT:	té pupa (.) sí .
+*MIR:	0 .
+%act:	points at a picture on the book
+*MIR:	aquesta ?
+*MIR:	mira aquesta ?
+*MOT:	quí és aquesta (.) és el príncep ?
+*MIR:	sí .
+*MOT:	i què fa el príncep ?
+*MIR:	a Blancaneus .
+*MIR:	Blancaneus ?
+*MOT:	la Blancaneus ?
+*MIR:	Blancaneus .
+*MOT:	què fa la Blancaneus ?
+*MIR:	apetat [= ?despertat] !
+*MOT:	s'ha despertat !
+*MIR:	mama plega .
+%exp:	the book
+*MOT:	mama plega (.) ara te'l plego .
+*MOT:	vols que et plegi el llibre ?
+*MIR:	sí .
+*MOT:	no el vols mirar més ?
+*MIR:	posar aquí a autobús [= tubús] .
+%act:	takes a box with the shape of a bus
+*MOT:	espera que te'l plego (.) espera (.) dona'm que te'l plego (.)
+	dona'm .
+*MIR:	té .
+%act:	gives the book to MOT who folds it
+*MIR:	aquí a autobús [= tubús] .
+*MOT:	aquí a l'autobús ?
+*MIR:	mama va a billar ?
+%exp:	toy-room
+*MOT:	no (.) la mama està escribint (.) la mama vol escriure una miqueta
+	més (.) la mama encara (.) té (.) el llibre .
+%act:	gives the folded book to MIR
+*MIR:	mica més escriure [= eskiure] ?
+*MOT:	mica més escriure (.) sí carinyo .
+*MIR:	a nit tot el rato a billar [= billac] ?
+*MOT:	a la nit ?
+*MIR:	sí .
+*MOT:	tot el rato ?
+*MOT:	ah sí que hi anirem desprès a la nit al billar .
+*MIR:	0 .
+%act:	puts the books in the box
+*MOT:	què fas ?
+*MIR:	posem això ?
+*MIR:	té xxx .
+*MIR:	mama plega [= pega] aquest .
+*MOT:	mama plega aquest (.) dona'm que ho plego .
+*MIR:	0 .
+%act:	gives a book to MOT
+*MIR:	aquest ja guardat (.) aquest ja guardat .
+%act:	touches the books in the box
+*MOT:	aquest ja he guardat (.) molt bé .
+*MOT:	vols que plegi aquest ?
+*MIR:	0 .
+%act:	yawns
+*MOT:	que tens son (.) tens soneta ?
+*MIR:	0 .
+%act:	takes a book out of the box
+*MIR:	ai@i (.) a treure ese@s ?
+*MOT:	a treure ese ?
+*MIR:	sí (.) ara aquest .
+%act:	puts the last book in the box
+*MOT:	ara aquest (.) vale (.) molt bé !
+*MIR:	mama jugem aquí a domino ?
+%act:	opens the box of a domino set
+*MOT:	al domino vols jugar ?
+*MIR:	a mama ?
+*MOT:	amb la mama ?
+*MOT:	la mama escriurà una mica més (.) vale ?
+*MOT:	i tu jugues al domino una mica (.) vale ?
+*MIR:	a mama a autobús [= tubús] .
+*MIR:	a Mimi a domino .
+@End

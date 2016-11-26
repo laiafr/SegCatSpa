@@ -1,0 +1,610 @@
+@UTF8
+@PID:	11312/c-00032010-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Emilio Target_Child , JOS José Father , NAC Nacho Observer
+@ID:	spa|Vila|CHI|1;08.13||||Target_Child|||
+@ID:	spa|Vila|JOS|||||Father|||
+@ID:	spa|Vila|NAC|||||Observer|||
+@Comment:	EMI acaba de despertarse y JOS le pone los zapatos , están en el sofá
+*JOS:	te haces un poquito para allá .
+*JOS:	voy a ponerte los zapatos .
+*JOS:	emilio .
+*JOS:	te pongo los zapatos .
+*JOS:	eh ?
+*CHI:	zapato [% "sapato"] .
+*JOS:	zapatos .
+*CHI:	zapa onne [% quiere decir zapato] .
+*JOS:	qué quieres ?
+*CHI:	oh .
+%com:	EMI ve a sus hermanas comiendo caramelos
+*JOS:	qué quieres ?
+*CHI:	oh .
+*JOS:	qué quieres ?
+*JOS:	eh ?
+*JOS:	bobos@c caramelos [/?] ?
+*JOS:	no caramelos .
+*CHI:	oh .
+*JOS:	caramelos ?
+*JOS:	caramelos no .
+*JOS:	oye desaparecer que no os vea con los caramelos .
+*JOS:	porque ahora no le puedo dar caramelos .
+*JOS:	luego te los daré Emilio .
+*JOS:	vale ?
+*CHI:	bueno .
+*JOS:	bueno .
+*CHI:	0 .
+%act:	balbucea .
+*JOS:	te pongo los zapatos .
+*CHI:	no: .
+*CHI:	0 .
+%act:	sigue pidiendo los caramelos .
+*JOS:	olvídate de los caramelos .
+*CHI:	ah .
+*JOS:	por_favor Emilio no llores que los caramelos +...
+*CHI:	no: .
+*CHI:	oah .
+*JOS:	mira es Nacho .
+%com:	EMI mira hacia el examinador
+*JOS:	emilio .
+*JOS:	te acuerdas de él ?
+*NAC:	emilio .
+*NAC:	hola .
+*NAC:	está dormido ?
+*JOS:	sí .
+*JOS:	todavía sí .
+*JOS:	le has enseñado a Nacho la pupa que tienes ?
+*JOS:	di .
+*JOS:	mira mira .
+*JOS:	pupa .
+%com:	EMI enseña el dedo vendado a NAC
+*NAC:	pupa .
+*NAC:	es pupa .
+*JOS:	bueno: .
+*CHI:	eh .
+*JOS:	ayayay [/?] que estos zapatos están un poco mojados .
+*JOS:	no sé .
+*JOS:	y los pantalones ?
+*JOS:	dónde están ?
+*CHI:	sí .
+*JOS:	sí , dónde estan los pantalones ?
+*CHI:	sí .
+*JOS:	mamá nunca dice dónde deja las cosas .
+*CHI:	0 .
+%act:	balbucea .
+*JOS:	estás durmiendo todavía .
+*JOS:	eh ?
+*JOS:	ya está .
+%com:	JOS acaba de ponerle los zapatos a EMI
+*JOS:	bueno: .
+%com:	JOS quita y aparta cosas que EMI pudiera coger
+*JOS:	quieres que te traiga un cuento ?
+*CHI:	cuento .
+*JOS:	un cuento .
+*JOS:	sí .
+*JOS:	ahora te lo traigo .
+*CHI:	0 .
+%act:	balbucea .
+*JOS:	cuento ?
+*CHI:	ah: sí .
+*JOS:	espera que me voy a llevar esto a la cocina .
+*CHI:	ahy .
+*CHI:	one .
+*JOS:	qué quieres ?
+*CHI:	oah .
+*JOS:	quieres que vaya ?
+*NAC:	quiere el cuento .
+*JOS:	no .
+*JOS:	ahora lo que quería es que me acercara .
+*JOS:	así estaría más cerca de mí que de tí .
+*JOS:	no ves cómo te mira con desconfianza .
+*JOS:	no quieres hablar porque está el Nacho .
+*JOS:	te da verguenza ?
+*JOS:	ya sé lo que te pasa .
+*JOS:	no te acuerdas de Nacho ?
+*JOS:	eh ?
+*JOS:	cómo se llama él ?
+*JOS:	estás durmiendo todavía .
+%com:	EMI se baja del sofá , JOS se levanta a encender la luz , EMI mira con interés cómo se enciende la luz
+*JOS:	ya está .
+%com:	EMI coge el mechero y el tabaco que están encima de la mesa y se los da a JOS
+*CHI:	abue .
+*JOS:	qué ?
+*CHI:	eh oco .
+*CHI:	sí .
+*JOS:	esto es fuego .
+*JOS:	fuego .
+*CHI:	0 .
+%act:	balbucea .
+*JOS:	esto son cigarrillos .
+*JOS:	como los de mamá .
+*CHI:	bueno .
+*JOS:	mechero .
+*NAC:	éso es mío .
+*JOS:	dáselo a Nacho .
+*CHI:	0 .
+%act:	balbucea .
+*NAC:	dame !
+*NAC:	muy bien .
+*CHI:	ea .
+%com:	EMI ve el tabaco
+*NAC:	éso también es mío .
+*NAC:	sí pa(ra) mí .
+%com:	EMI mira con interés el tabaco y el mechero que le enseña NAC
+*NAC:	es mío ésto .
+*NAC:	de quién es ?
+*CHI:	0 .
+%act:	balbucea .
+*NAC:	de Nacho .
+%com:	EMI estira con fuerza del sillón a JOS y le señala a NAC
+*CHI:	0 .
+%act:	balbucea y chilla .
+*JOS:	qué quieres ?
+*JOS:	que le coja el mechero a Nacho ?
+*JOS:	que le coja ésto ?
+*CHI:	sí .
+*NAC:	de quién es Emilio ?
+*CHI:	no: .
+*JOS:	no sabes que quieres .
+%com:	JOS deja el tabaco y el mechero encima la mesa
+*JOS:	bueno se lo dejamos aquí al Nacho .
+*JOS:	quieres que te dé de merendar ?
+*CHI:	sí sí .
+*JOS:	qué quieres de comer ?
+*JOS:	quieres ñam+ñam [% se refiere a 'comida' o 'comer'] ?
+*CHI:	0 .
+%act:	balbucea .
+%com:	van a la cocina y EMI pide agua
+*JOS:	a_ver espérate .
+*CHI:	mamá .
+*JOS:	qué ?
+*CHI:	abua@c agua [/?] abua@c agua [/?] .
+*JOS:	ven ven .
+*CHI:	abua@c agua [/?] aba@c agua [/?] abua@c agua [/?] .
+%com:	después de beber
+*CHI:	abua@c agua [/?] abe .
+*JOS:	quieres más ?
+*CHI:	0 .
+%act:	balbucea .
+%com:	EMI mira el magnetofón y lo señala
+*JOS:	no yo no puedo tocar ahora el magnetofón .
+*CHI:	coco .
+*JOS:	ésto es un mechero .
+*CHI:	ahy .
+*CHI:	bueno .
+*JOS:	bueno si .
+%com:	EMI coge el paquete de cigarrillos sacando uno y se lo ofrece a JOS
+*JOS:	no déjalo .
+*JOS:	mételo dentro otra vez el cigarrillo .
+*CHI:	sí: .
+*CHI:	bueno .
+*JOS:	muy bien .
+*CHI:	<a ve(r)> [/] a ve(r) .
+*JOS:	qué quieres ver ?
+*CHI:	a ve(r) .
+%com:	EMI coge la mano de JOS y le hace apretar los botones del cassette
+*JOS:	quieres que aprete aquí ?
+*CHI:	sí .
+*JOS:	no lo puedo tocar porque entonces no graba .
+*CHI:	<bueno bueno> [/] bueno .
+*JOS:	nacho no me deja .
+*CHI:	no no no no .
+*CHI:	0 .
+%act:	grita .
+*NAC:	no puedo tocar el magnetofón .
+*CHI:	0 .
+%act:	se queja y grita .
+*JOS:	bueno .
+*JOS:	mira .
+*JOS:	toco un poquito .
+*JOS:	ves ves ?
+%com:	JOS pone los dedos en los botones
+*CHI:	bueno .
+*JOS:	no porque si toco mucho se apaga .
+*JOS:	y yo no creía que apretaras tú tanto .
+*CHI:	no no no: .
+*JOS:	toma un poquito más de agua , anda .
+*CHI:	no: .
+*JOS:	bueno mira .
+*JOS:	sabes qué te voy a dar ?
+*CHI:	no: .
+*JOS:	te voy a dar un polvorón .
+*JOS:	mira espera .
+*JOS:	mira .
+*CHI:	amose .
+*JOS:	eh ?
+*CHI:	sí sí sí .
+*CHI:	no no .
+*CHI:	0 .
+%act:	riendo .
+*JOS:	qué bueno , eh ?
+*CHI:	no no .
+*JOS:	qué bueno !
+*CHI:	no no no .
+*JOS:	te lo ha regalado Carles ?
+*CHI:	sí .
+*JOS:	es bueno , eh ?
+*CHI:	oh: .
+*JOS:	oh: papa te lo da eh: .
+*JOS:	porque sino se te caerá todo .
+*JOS:	espera .
+*JOS:	va toma .
+*JOS:	oh: .
+*JOS:	que bueno eh: .
+*JOS:	quieres más ?
+*CHI:	no .
+*JOS:	me lo como yo ?
+*CHI:	ah: .
+*CHI:	0 .
+%act:	protesta .
+*JOS:	quieres más ?
+*CHI:	no .
+*JOS:	no o sí .
+*CHI:	aba@c agua [/?] [% pide agua] .
+*JOS:	agua , toma .
+*CHI:	0 .
+%act:	balbucea .
+*JOS:	estas hijo mío que se te cae .
+*CHI:	aba@c agua [/?] [% quiere decir agua] ?
+*JOS:	yo agua .
+*JOS:	no .
+*JOS:	tú sí .
+*JOS:	agua tú .
+*CHI:	abe .
+*CHI:	va .
+*JOS:	ay !
+*JOS:	válgame !
+*CHI:	ay ay .
+*JOS:	ay que se te ha caído el agua .
+*CHI:	abua@c agua .
+*JOS:	menos mal que había poca .
+*JOS:	menos mal , toma anda .
+%com:	JOS le da los restos de polvorón
+*JOS:	oh: qué bueno !
+%com:	JOS sale un momento de la habitación para buscar un trapo y secar el agua , EMI pone los dedos dentro del charco de agua
+*CHI:	ah ?
+*NAC:	agua .
+*JOS:	más agua ?
+*JOS:	quieres más agua ?
+*CHI:	no .
+*NAC:	has metido la mano eh: ?
+*JOS:	has metido la mano aquí ?
+*NAC:	encima del agua .
+*JOS:	uh la venda .
+*NAC:	no con la otra mano .
+*JOS:	ah , menos mal .
+%com:	JOS se pone a secar el agua , EMI se lo mira atentamente , JOS vuelve a salir a dejar el trapo , EMI va a la mesa tocando el cassette y mirando hacia NAC
+*NAC:	no Emilio no .
+*JOS:	emilio no toques ahí .
+*JOS:	a_ver mira lo que te he traído .
+%com:	JOS tiene un cuento y busca llamar la atención de EMI
+*JOS:	oh: qué es ésto ?
+*CHI:	ah [/] ah: .
+*JOS:	qué es ésto ?
+*CHI:	ah: .
+*JOS:	a_ver ven ven ven .
+*JOS:	toma .
+%com:	JOS le da el cuento con EMI ya sentado en el sofá
+*CHI:	lili .
+%com:	EMI señala un pájaro y lo llama lili , en la casa tienen un pájaro que se llama Emili , EMI "lili"
+*NAC:	lili dice ?
+*JOS:	lili es .
+*JOS:	el lili de allá .
+*JOS:	sabes ?
+*JOS:	con que lili !
+*JOS:	ya te daré yo a tí lili !
+*CHI:	calla .
+*JOS:	calla je je .
+%com:	JOS le acerca la cara y EMI le pega con el cuento
+*JOS:	ay [/?] ay .
+*JOS:	ya vas conociendo un poco más a Nacho .
+%com:	EMI deja de golpearle y mira a NAC , EMI vuelve a golpearle
+*JOS:	ay [/] ay no [/] no .
+%com:	EMI vuelve a mirar el cuento
+*JOS:	a_ver a_ver .
+%com:	JOS señala una niña que está dibujada en el cuento
+*JOS:	oh: quién es ?
+*CHI:	guauguau@o perro [/?] .
+*JOS:	y éste es ?
+%com:	JOS señala un perro
+*CHI:	guauguau@o perro [/?] .
+*JOS:	otro guauguau@o perro [/?] .
+*JOS:	y ésta quién es ?
+%com:	JOS señala otra vez la niña
+*CHI:	no no: .
+%com:	EMI va pasando las páginas y cada vez que ve un perro dice guauguau
+*JOS:	bueno bueno bueno .
+*CHI:	guauguau@o perro [/?] .
+*JOS:	otro guauguau@o perro [/?] .
+*CHI:	guauguau@o perro [/?] .
+%com:	JOS señala un perro igual que los otros
+*JOS:	otro guauguau@o perro [/?] .
+*CHI:	no guauguau@o perro [/?] .
+*JOS:	y éste quién es ?
+%com:	JOS señala un gato dibujado en el cuento
+*CHI:	sí sí .
+*CHI:	un mosino .
+*JOS:	quién es éste ?
+*CHI:	espera .
+*JOS:	qué está haciendo ?
+*CHI:	espera .
+%com:	JOS vuelve a señalar a la niña dibujada
+*JOS:	quién es ésta ?
+*CHI:	bueno .
+*JOS:	quién es ?
+*CHI:	bueno .
+%com:	JOS vuelve a señalar el gato y parece que EMI reclama su nombre pero no lo recuerda en ese momento
+*JOS:	mira .
+*CHI:	sí sí .
+*JOS:	a_ver .
+*CHI:	a_ver .
+*JOS:	a_ver a_ver .
+*CHI:	pota .
+*JOS:	no pota no .
+*CHI:	guauguau@o perro [/?] .
+%com:	EMI señala el perro que está al lado del gato , JOS mantiene la atención sobre el gato
+*CHI:	guauguau@o perro [/?] .
+%com:	JOS señala ahora un cesto
+*JOS:	ésto es un cesto .
+*CHI:	guauguau@o perro [/?] .
+*JOS:	otro .
+*CHI:	é(s)te ?
+*JOS:	ésta es la nena .
+*CHI:	sí sí sí .
+*JOS:	y éste quién es ?
+*CHI:	anethe .
+*JOS:	mira éste es el nene .
+*CHI:	neche .
+*JOS:	nena .
+*CHI:	nena .
+%com:	JOS señala ahora el niño
+*CHI:	bueno sí .
+*CHI:	mamá .
+*JOS:	mamá está trabajando .
+*CHI:	lili .
+*JOS:	lili otra vez .
+*JOS:	a_ver , allí no está lili .
+*JOS:	éste es otro pájaro .
+*JOS:	éste es amarillo .
+*CHI:	gua .
+*JOS:	sí .
+*JOS:	ahora vamos al guauguau@o perro [/?] .
+*CHI:	ya está .
+*JOS:	ya está .
+*CHI:	guauguau@o perro [/?] .
+*CHI:	guauguau@o perro [/?] ?
+*CHI:	0 .
+%act:	señala un oso y dice guauguau .
+*NAC:	es un guauguau@o perro [/?] .
+*CHI:	oh: !
+*NAC:	es un oso .
+*CHI:	no no .
+*JOS:	sabes .
+*JOS:	es que está al lado el guauguau@o perro [/?] .
+*CHI:	guauguau@o perro [/?] .
+%com:	EMI señala ahora a un perro
+*NAC:	sí , ése sí que es un guauguau@o perro [/?] .
+*JOS:	es que había otro al lado .
+*CHI:	guauguau@o perro [/?] .
+%com:	EMI señala a otro perro
+*JOS:	también .
+*CHI:	guauguau@o perro [/?] ?
+%com:	EMI señala a la niña a la vez que mira a NAC y vocaliza en tono interrogador
+*NAC:	no nena .
+*NAC:	nena .
+%com:	el examinador intenta encender un cigarro con un encendedor que no funciona y EMI centra su atención en él
+*NAC:	no lo enciendo .
+*JOS:	ya voy ya .
+%com:	JOS le acerca una caja de cerrillas
+*CHI:	<am am am am> [/?] am@c hambre [/?] +...
+*JOS:	no .
+*JOS:	no te puedo dar de comer .
+*CHI:	am@c comer [/?] .
+*CHI:	0 .
+%act:	lo pide a gritos .
+*JOS:	no hay nada más de comer ahí .
+%com:	EMI deja de gritar
+*JOS:	había sólo un polvorón .
+*CHI:	ay: !
+%com:	JOS levanta a EMI del sofá y lo pone en el sillón
+*JOS:	que te caes .
+*CHI:	<am am> [/?] am@c hambre [/?] .
+*JOS:	am@c comer [/?] .
+*CHI:	am@c hambre [/?] .
+*JOS:	nada de comer .
+*CHI:	am [/?] am@c hambre [/?] .
+*CHI:	0 .
+%act:	llora .
+%com:	al lado del sillón hay un mueble con discos que EMI intenta coger y JOS no le deja
+*CHI:	ama .
+*JOS:	una patata , vale ?
+*CHI:	<ama ama> [/?] ama .
+*NAC:	éso es de la Cecilia .
+*NAC:	pero increíble el tono ése de la voz , eh ?
+*NAC:	0 .
+%act:	se dirige a JOS .
+*JOS:	el que , eh ?
+*CHI:	am amada ama .
+*NAC:	ves ése .
+*JOS:	je je .
+*CHI:	a_ver .
+*JOS:	a_ver no .
+*JOS:	deja los discos , eh !
+*CHI:	a_ver .
+*NAC:	éso también es que es increíble .
+*JOS:	eh ?
+*NAC:	eh: [% imita el tono] ?
+*JOS:	sí sí .
+*JOS:	hum .
+*CHI:	am am am [% en tono exigente] .
+%com:	JOS tiene en brazos a EMI que está de pie encima de sus piernas
+*JOS:	oh !
+*JOS:	hazle guapo a papá .
+*CHI:	am .
+*CHI:	oh .
+%com:	EMI intenta alcanzar los discos
+*JOS:	no le haces guapo ?
+*JOS:	a_ver , guapo a papá .
+*JOS:	haber oh .
+*CHI:	oh .
+%com:	EMI muestra su interés por el mueble
+*JOS:	ahy , qué es éso ?
+*JOS:	te has hecho pipí ?
+%com:	EMI intenta salir de los brazos de JOS
+*CHI:	pipí .
+*JOS:	te has hecho pipí ?
+*CHI:	pipí .
+*JOS:	no pipí no .
+*JOS:	te has hecho pipí ?
+*JOS:	eh ?
+*CHI:	pipí .
+*JOS:	qué es éso ?
+*CHI:	pipí .
+*CHI:	ah: no ! [+ sn]
+*CHI:	miqui .
+*CHI:	piqui .
+*JOS:	piqui ?
+*JOS:	qué es éso de piqui ?
+*CHI:	sí pipi .
+*CHI:	echebe .
+*CHI:	<a ve(r)> [/] a ve(r) .
+%com:	EMI se baja del sillón y se coloca delante de la mesa mirando el cassette
+*JOS:	a_ver ?
+*JOS:	qué ?
+*JOS:	a_ver qué ?
+*CHI:	a_ver .
+*CHI:	así [% "achí"] .
+*CHI:	así [% "echi"] .
+*JOS:	así .
+%com:	EMI hace que JOS se levante y toque el cassette
+*JOS:	sí pero yo no puedo tocar el magnetofón .
+*JOS:	porque sino nos quedamos sin grabar , vale ?
+*CHI:	bueno .
+*JOS:	bueno .
+*CHI:	eche .
+*CHI:	0 .
+%act:	balbucea .
+*JOS:	mira lo toco pero nada más .
+*CHI:	sí sí .
+*CHI:	va va .
+*JOS:	vamos a_ver , vamos a_ver .
+*JOS:	yo no puedo tocar el aparato .
+*JOS:	éste a_ver .
+*JOS:	tú te acuerdas de Nacho ?
+*JOS:	sabes quién es éste ?
+*JOS:	nacho .
+*CHI:	no mano .
+%com:	JOS quiere distraer la atención de EMI del aparato , EMI no se deja distraer
+*CHI:	mano: .
+*JOS:	mano .
+*CHI:	bueno .
+*CHI:	ma sí [/] sí .
+%com:	JOS se levanta para ir a coger un guitarra , EMI le persigue con el encendedor en la mano y diciendo
+*CHI:	ma sí .
+*CHI:	ma sí .
+*JOS:	quieres que toque la guitarra ?
+*JOS:	emilio .
+*CHI:	(e)milio .
+%com:	EMI se acerca a JOS
+*JOS:	toco la guitarra .
+*CHI:	tú sí .
+*CHI:	sí [/] sí . [+ sn]
+*JOS:	sí .
+*CHI:	bueno .
+*JOS:	no la puedes tocar .
+*CHI:	bueno . [+ sn]
+*CHI:	va .
+*CHI:	0 .
+%act:	balbucea .
+*CHI:	eh: em .
+*JOS:	bueno va .
+*JOS:	quieres que toque un poquito la guitarra ?
+*JOS:	las dos acordes que sabe papá ?
+*JOS:	mira .
+*JOS:	oh eh .
+%com:	suena la guitarra y EMI mira atentamente
+*CHI:	no . [+ sn]
+*JOS:	no .
+*CHI:	no . [+ sn]
+%com:	EMI se distrae y vuelve hacia el casette mientras JOS cuelga la guitarra
+*CHI:	ah .
+*JOS:	je je .
+*JOS:	no quieres cantar un poquito Emilio ?
+%com:	EMI va hacia la guitarra Emi intenta tocarla
+*JOS:	no toques no .
+*JOS:	ya está , eh ?
+*JOS:	ya está no la toques .
+*CHI:	sí: .
+%com:	EMI exige tocar la guitarra
+*JOS:	<no no> [/] no . [+ sn]
+*JOS:	<no no> [/] no . [+ sn]
+*CHI:	a_ver .
+*CHI:	0 .
+%act:	va hacia la mesa y dice abe-a_ver .
+*NAC:	qué quieres ver ?
+*CHI:	así [% "achí"] .
+*NAC:	qué quieres ver Emilio ?
+*CHI:	así [% "echí"] .
+*NAC:	hum .
+%com:	EMI vuelve a coger el mechero de encima la mesa y se acerca a NAC
+*NAC:	no me lo das ?
+*CHI:	sí . [+ sn]
+*NAC:	me lo das ?
+*CHI:	sí .
+*NAC:	y el tabaco también ?
+*JOS:	día cuatro de febrero .
+*CHI:	adió(s) .
+%com:	EMI se va hacia la cocina
+*NAC:	me dices adiós Emilio .
+*NAC:	eh ?
+*NAC:	adiós .
+*JOS:	dónde vas ?
+*CHI:	calla: .
+%com:	EMI grita desde la cocina
+*NAC:	a la calle ?
+*JOS:	no , dice que calla .
+*NAC:	que me calle ?
+*JOS:	a_ver Emilio ven .
+*JOS:	emilio .
+*JOS:	emilio .
+*JOS:	emilio ven .
+*JOS:	cuánto dura la cinta ésa ?
+%com:	por los ruidos parece que EMI está encendiendo y apagando interruptores
+*NAC:	media horita .
+*JOS:	emilio .
+*JOS:	qué haces ?
+*CHI:	sí . [+ sn]
+*JOS:	no toques nada .
+*JOS:	no: . [+ sn]
+%com:	JOS va a buscarlo
+*CHI:	ah .
+*JOS:	no aquí te quedas .
+*CHI:	no . [+ sn]
+%com:	EMI no quiere dejar el interruptor , JOS hace que se quede donde está EMI
+*CHI:	eh . [+ alt]
+*JOS:	me ha cerrado la puerta !
+*CHI:	meme .
+%com:	EMI estira la mano a JOS para llevarle a algún sitio
+*JOS:	no , yo no me muevo de aquí guapo .
+*CHI:	eh .
+*JOS:	no , no voy .
+*CHI:	eh . [+ alt]
+*CHI:	0 .
+%act:	gritos en distintos tonos .
+*NAC:	qué quiere que hagas ?
+*JOS:	que le acompañe allí al recibidor .
+*JOS:	y que me esconda con él que ha cerrado la puerta .
+*JOS:	pero ahora se ha interpuesto el reloj .
+*JOS:	y ya se ha olvidado del otro asunto .
+%com:	EMI va manipulando el reloj quitándoselo a JOS y se lo pone
+*JOS:	quieres que te lo ponga bien ?
+*JOS:	ya está .
+*CHI:	no . [+ sn]
+*JOS:	sí hombre que es más fácil !
+*JOS:	ya está .
+*CHI:	a ve(r) .
+*JOS:	a ve(r) .
+*JOS:	hoy la palabra es a ve(r) .
+*CHI:	no .
+*CHI:	bueno .
+@End

@@ -1,0 +1,717 @@
+@UTF8
+@PID:	11312/c-00032014-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Emilio Target_Child , INE Inés Mother , NAC Nacho Observer , MER Merche Adult
+@ID:	spa|Vila|CHI|1;10.19||||Target_Child|||
+@ID:	spa|Vila|INE|||||Mother|||
+@ID:	spa|Vila|NAC|||||Observer|||
+@ID:	spa|Vila|MER|||||Adult|||
+@Comment:	EMI acaba de despertarse estando sentado en un sillón , INE le habla desde la cocina
+*INE:	emilio .
+*CHI:	qué ?
+*INE:	quieres agua ?
+*CHI:	sí .
+*CHI:	mamá .
+%com:	entra INE en la habitación y lleva los zapatos , EMI lloriquea y se agarra a las piernas de INE
+*INE:	qué ?
+*INE:	qué te pasa ?
+*CHI:	0 .
+%act:	balbucea .
+*INE:	no te entiendo .
+*INE:	qué quieres ?
+*CHI:	0 .
+%act:	balbucea .
+*INE:	que sí .
+*INE:	qué hace Nacho ?
+%com:	inés lo coge en brazos y le da un beso
+*INE:	siéntate .
+*INE:	aquí .
+*INE:	me das el pie ?
+*CHI:	sí .
+%com:	inés empieza a ponerle un zapato
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	0 .
+%act:	balbucea .
+*CHI:	mamá .
+%com:	inés le va poniendo el zapato
+*INE:	qué ?
+*CHI:	nacho .
+*INE:	qué hace el Nacho ?
+*INE:	te hace película ?
+*CHI:	mamá .
+%com:	inés continua poniéndole los zapatos
+*INE:	qué ?
+*CHI:	mira .
+%com:	EMI señala a Merche
+*INE:	la Merche .
+*MER:	qué hago ?
+*MER:	estoy leyendo ?
+*INE:	vamos a lavarte las manos .
+*CHI:	no .
+*INE:	por qué ?
+*CHI:	manos no .
+*INE:	sí hombre .
+*INE:	están sucias .
+*CHI:	manos no .
+*CHI:	pupa .
+%com:	EMI señala el dedo
+*INE:	no .
+*INE:	están sucias .
+*INE:	vamos a lavarlas con agua .
+*CHI:	no .
+*CHI:	agua no .
+*CHI:	mamá .
+%com:	inés se levanta y EMI extiende los brazos hacia ella
+*CHI:	ven mamá .
+*CHI:	ven tú .
+*CHI:	mamá .
+*INE:	ven .
+*CHI:	0 .
+%act:	llora .
+*CHI:	mamá .
+%com:	INE coge un objeto que hace ruido pero EMI no se calma
+*INE:	mira .
+*INE:	ya verás .
+*INE:	no te gusta ?
+*CHI:	0 .
+%act:	llora .
+*INE:	mira .
+%com:	EMI lo coge y se va calmando haciendo ruido
+*INE:	qué haces ?
+*CHI:	mira .
+*INE:	haces ruido .
+*INE:	verdad ?
+*CHI:	mira mamá .
+*INE:	qué ?
+*CHI:	mira .
+*CHI:	mamá .
+*INE:	qué ?
+%com:	EMI sigue haciendo ruido
+*MER:	qué tienes ahí ?
+*CHI:	sí .
+%com:	EMI tiene un coche en la mano , EMI mira a MER
+*MER:	qué tienes ?
+*MER:	qué es éso ?
+*CHI:	pupa .
+%com:	EMI se mira el dedo
+*MER:	una pupa tienes .
+*CHI:	pupa .
+*MER:	con qué te lo has hecho .
+*MER:	còmo te has hecho éso ?
+*CHI:	no .
+%com:	MER sostiene el dedo de EMI
+*MER:	no .
+*MER:	y qué más tienes en las manos ?
+*CHI:	sí .
+%com:	EMI en brazos de MER sonríe
+*MER:	tienes un coche ?
+*CHI:	sí .
+*MER:	sí .
+*MER:	a_ver .
+*MER:	enséñame el coche .
+*CHI:	coche .
+%com:	EMI extiende el coche hacia MER
+*MER:	éso es un coche ?
+*CHI:	sí .
+*MER:	y tiene ruedas el coche ?
+*CHI:	no .
+*MER:	no tiene ruedas ?
+*MER:	a_ver .
+*MER:	enséñame las ruedas del coche .
+%com:	EMI extiende el coche hacia Merche
+*MER:	dónde están las ruedas del coche ?
+*CHI:	ten .
+%com:	EMI extiende el coche hacia Merche
+*MER:	me lo das ?
+%com:	merche coge el coche
+*MER:	mira las ruedas .
+*MER:	aquí estan las ruedas .
+*MER:	toma .
+%com:	merche toca las ruedas
+*MER:	dónde están las ruedas del coche ?
+*MER:	están aquí .
+*MER:	mira .
+%com:	MER con el coche extendido hace rodar las ruedas
+*MER:	mira .
+*CHI:	no .
+%com:	EMI extiende el brazo hacia el coche
+*MER:	que no lo rompa ?
+*MER:	toma .
+%com:	EMI coge el coche
+*CHI:	mira .
+*MER:	sí .
+*MER:	y éso qué hace ?
+%com:	EMI enseña el objeto que hace ruido
+*MER:	sí .
+*MER:	hace ruido éso ?
+%com:	EMI se recosta en MER
+*INE:	me lo das ?
+*CHI:	no .
+*CHI:	au mamá .
+*INE:	te has hecho daño ?
+*CHI:	sí .
+*INE:	dónde ?
+*INE:	a_ver .
+*INE:	me lo enseñas ?
+*CHI:	no .
+*INE:	va hombre .
+*INE:	me lo enseñas ?
+*CHI:	no .
+*INE:	no .
+*INE:	mira ésto .
+*INE:	sabes quién lo ha hecho ?
+*INE:	el Nacho .
+%com:	INE coge una construcción
+*CHI:	mira Nacho .
+*CHI:	0 .
+%act:	ríe y mira hacia la cámara .
+*NAC:	ya lo veo .
+*INE:	lo ha hecho el Nacho .
+*INE:	eh ?
+*CHI:	mira Nacho .
+%com:	EMI coge la construcción y la muestra
+*CHI:	mira Nacho .
+*NAC:	qué es éso ?
+*INE:	juguete .
+%com:	inés coge la construcción
+*INE:	qué es ésto ?
+*INE:	ésto qué es ?
+*CHI:	cacallo .
+%com:	la construcción se asemeja a un caballo
+*INE:	qué ?
+*CHI:	cacallo .
+*NAC:	caballo .
+*NAC:	es un caballo ?
+*NAC:	es un caballo Emilio ?
+*INE:	no .
+*INE:	ésto es un juguete .
+*CHI:	por qué ?
+*INE:	juguete .
+%com:	inés deshace la construcción y pone las piezas en la mesa , EMI va a la mesa
+*INE:	te pones allí ?
+*CHI:	sí .
+*INE:	ven yo te aguanto éso .
+*CHI:	no .
+%com:	EMI quiere juntar otra vez las piezas
+*CHI:	ay mama .
+%com:	EMI no puede poner las piezas
+*INE:	qué ha pasado ?
+*CHI:	nacho .
+%com:	EMI va hacia la cámara , inés coge de un puzle un caballo
+*INE:	toma el caballo .
+*CHI:	caballo .
+%com:	EMI va hacia inés
+*INE:	toma .
+*INE:	para tí .
+*CHI:	caballo .
+%com:	EMI coge el caballo y reclama otra pieza
+*CHI:	planta ?
+*INE:	la planta sí .
+*CHI:	planta .
+%com:	EMI coge la planta , EMI ofrece la planta a Merche y ésta la coge
+*MER:	una planta ?
+*MER:	ay qué bonita !
+*MER:	la ponemos aquí ?
+*CHI:	sí .
+%com:	merche pone la planta de pie en la mesa
+*MER:	sí ?
+*CHI:	nacho no .
+%com:	EMI coge un paquete de tabaco de la mesa cuando MER está a punto de cogerlo
+*MER:	qué ?
+*MER:	es de Nacho ?
+*CHI:	nacho ten .
+%com:	EMI da el tabaco a NAC
+*NAC:	gracia Emilio , gracias .
+*MER:	me dejas el caballo ?
+%com:	caballo y planta de pie en la mesa , EMI coge el caballo
+*CHI:	no .
+*MER:	cuál es el caballo ?
+%com:	EMI en brazos de inés
+*INE:	a_ver .
+*INE:	quieres que te haga la cuca ?
+*CHI:	cuca .
+*INE:	sí .
+*INE:	quieres que te haga la cuca ?
+*CHI:	sí .
+*CHI:	cuca mama .
+*INE:	te hago la cuca , eh ?
+*CHI:	sí .
+*INE:	viene .
+*CHI:	espera .
+*CHI:	espera mama .
+%com:	EMI le coge el brazo a inés
+*INE:	que me espere .
+*INE:	viene .
+*CHI:	espera xxx .
+%com:	EMI juega con el objeto ruidoso
+*INE:	ya me espero .
+%com:	EMI en brazos de inés
+*INE:	estaba el señor don gato .
+*INE:	va .
+*CHI:	no gato .
+*INE:	no quieres hacer el gato .
+*CHI:	sí gato .
+%com:	inés pone en alto las palmas de la mano
+*INE:	pués va .
+*INE:	ponte así .
+%com:	EMI pone las palmas en alto
+*INE:	estaba el señor +...
+*CHI:	0 .
+%act:	retira las palmas y ríe .
+*INE:	lo hacemos ?
+*CHI:	merche .
+%com:	EMI se baja de la falda de INE
+*INE:	qué pasa con la Merche ?
+*CHI:	merche .
+%com:	EMI va hacia la MER
+*MER:	qué pasa ?
+*CHI:	eh ?
+%com:	EMI se aparta de MER
+*MER:	qué ?
+*MER:	qué dices ?
+*MER:	toma el coche .
+*MER:	quieres un coche ?
+*MER:	toma .
+%com:	EMI quita a MER un periódico que tiene
+*CHI:	ten xxx xxx .
+*MER:	me lo quitas ?
+*CHI:	ten .
+%com:	EMI da el periódico a Nacho
+*NAC:	gracias Emilio .
+*MER:	dámelo que era mío .
+*MER:	dile a Nacho que te lo dé .
+%com:	EMI quita el periódico a Nacho y va hacia Merche
+*CHI:	sí .
+*MER:	éso .
+*MER:	ahora dile a Nacho que te dé el tabaco .
+*MER:	dile dame el tabaco Nacho .
+%com:	EMI duda
+*MER:	no .
+*NAC:	toma Emilio .
+*MER:	qué es éso Emilio ?
+*MER:	qué es éso que traes ?
+*CHI:	ten .
+*INE:	dáselo a la Merche el tabaco .
+%com:	EMI se da la vuelta y lo ofrece a Merche
+*MER:	dámelo a mí xxx .
+*MER:	ven que no llego .
+%com:	en el camino lo ofrece a inés que no lo coge
+*INE:	es para Merche .
+*MER:	dámelo a mí .
+%com:	EMI lo deja en la falda de inés
+*INE:	el tabaco a mío , eh !
+%com:	inés lo da a Merche
+*MER:	mira para mí .
+*CHI:	merche .
+*MER:	qué ?
+*MER:	qué quieres ?
+*CHI:	eh ?
+%com:	EMI extiende los brazos hacia el tabaco
+*MER:	qué es ésto ?
+*CHI:	hum .
+%com:	EMI se aparta de Merche
+*MER:	toma xxx .
+*MER:	sí te vas a enfadar .
+*CHI:	sí .
+%com:	EMI coge el tabaco , EMI intenta sacar un cigarro del paquete y no puede
+*CHI:	ay .
+*MER:	qué ?
+*CHI:	hum .
+*MER:	no por el otro lado .
+*MER:	por aquí .
+*CHI:	aquí .
+%com:	EMI señala donde Merche le ha dicho
+*MER:	claro .
+*MER:	por ahí .
+*INE:	emilio .
+*CHI:	qué ?
+*INE:	quieres que mamá busque un cuento de Barba papa ?
+*CHI:	barba papá .
+*INE:	el de Barba papá lo quieres ?
+*CHI:	sí papá .
+*INE:	lo busco , eh ?
+%com:	inés sale del cuarto
+*CHI:	mira xxx .
+%com:	EMI consigue sacar un cigarro
+*CHI:	ten .
+*MER:	muy bien .
+*MER:	ya está .
+*CHI:	y aquí .
+*MER:	no me des más .
+*MER:	no quiero más cigarros .
+*CHI:	ten .
+%com:	EMI ofrece un cigarro a Nacho
+*MER:	dámelo a mí .
+*CHI:	sí .
+%com:	EMI lo da a Merche
+*CHI:	mira aquí .
+%com:	EMI da otro a Merche
+*MER:	qué me das ?
+*MER:	no me des más que ya tengo .
+*MER:	tengo muchos .
+%com:	EMI le da otro
+*MER:	otro otro pa(ra) mí .
+*CHI:	pa(ra) mí .
+*INE:	mira Emilio .
+%com:	inés entra con el cuento
+*CHI:	barba papá .
+*INE:	sí .
+*CHI:	bar(ba) papá .
+*INE:	lo coges ?
+*INE:	qué has hecho ?
+*INE:	has quitado los cigarros ?
+*CHI:	sí .
+*MER:	ya está .
+*MER:	me das el paquete ?
+%com:	EMI le da el último cigarro a Merche
+*MER:	muy bien .
+*MER:	me ha dado el paquete Emilio .
+*CHI:	s(e)+ha (a)caba(d)o [% dice "sa cabao"] .
+*MER:	se ha acabado .
+*CHI:	cuento .
+%com:	EMI coge el cuento y lo enseña a Merche
+*MER:	un cuento sí .
+*CHI:	ten mamá .
+*INE:	lo miramos ?
+*INE:	mira .
+%com:	EMI va hacia la mesa y coge el caballo haciéndolo trotar , EMI quiere coger el bolso de MER extendiendo los brazos y mirando a la cámara
+*CHI:	nacho xxx xxx xxx .
+*MER:	no .
+*MER:	éso no se toca .
+*MER:	no se toca .
+%com:	inés le da el cuento a EMI
+*INE:	enséñaselo a Merche .
+*INE:	se lo enseñas ?
+*CHI:	merche .
+%com:	EMI lo da a Merche
+*MER:	me lo enseñas .
+*MER:	ven aquí .
+*MER:	a_ver .
+%com:	merche quiere sentar a EMI a su lado , EMI se aparta
+*MER:	no te quieres sentar ?
+*CHI:	no .
+*CHI:	mira xxx .
+%com:	EMI delante de la cámara , EMI detrás de la cámara
+*INE:	0 .
+%act:	silva .
+*CHI:	qué ?
+*INE:	ven .
+*CHI:	barba papá sí .
+%com:	merche lee el cuento
+*INE:	sí aquí míralo .
+*INE:	mira un pájaro .
+*CHI:	pájaro .
+*MER:	mira Emilio .
+*MER:	mira qué hacen los Barba papas .
+*MER:	ven corre .
+*CHI:	bar papas .
+%com:	EMI va hacia Merche
+*MER:	me lo cuentas tú .
+*MER:	aquí que hacen los Barba papas .
+*CHI:	bar(ba) papas .
+*MER:	sí .
+*CHI:	bar(ba) papas .
+*MER:	éste es el Barba papá .
+*MER:	y qué está haciendo el Barba papá ?
+*MER:	eh ?
+%com:	EMI distante de Merche
+*CHI:	merche .
+*MER:	qué ?
+*CHI:	0 .
+%act:	balbucea .
+*MER:	qué ?
+*CHI:	sí .
+*MER:	qué dices ?
+*CHI:	bar papá .
+%com:	EMI señala el cuento
+*CHI:	bar(ba) papá .
+%com:	EMI Emi inés mirando el cuento
+*INE:	qué es ésto ?
+*INE:	un árbol .
+*CHI:	manzana .
+*INE:	sí las manzanas son buenas .
+*CHI:	mira xxx .
+%com:	EMI señala y se va
+*MER:	emilio mira .
+*CHI:	qué ?
+%com:	EMI jugando con el magnetoscopio
+*MER:	el caballo y la planta .
+*MER:	ven corre ven .
+*CHI:	caballo .
+%com:	EMI delante de la cámara
+*CHI:	nacho .
+*CHI:	a_ver Nacho .
+*INE:	qué hace el Nacho ?
+*CHI:	nacho .
+%com:	inés con el cuento abierto
+*INE:	0 .
+%act:	silva .
+*CHI:	qué ?
+*INE:	ven que te lo enseñaré .
+*INE:	bueno .
+%com:	inés cierra el cuento
+*INE:	pués me lo quedo .
+*INE:	para mí .
+*CHI:	no .
+%com:	EMI va corriendo hacia inés con el brazo extendido
+*INE:	sí , es mío .
+*CHI:	mamá .
+*CHI:	manzana .
+*INE:	quieres ver la manzana ?
+%com:	inés se sube a EMI en la falda , inés y EMI mirando un cuento
+*INE:	éste quién es ?
+*CHI:	bar papá .
+%com:	EMI lo señala
+*INE:	y ésto ?
+*CHI:	bar(ba) papá .
+*INE:	no Bar(ba) mamá .
+*CHI:	mamá ?
+*INE:	un perro .
+*INE:	qué hace este perro ?
+*CHI:	inés .
+%com:	EMI señala otro dibujo
+*INE:	ésta es inés .
+*INE:	mira éstos qué son .
+*INE:	o +...
+*CHI:	inés .
+*INE:	ojos .
+*INE:	dónde están los ojos ?
+*INE:	enséñame .
+*CHI:	ojo .
+*INE:	y la nariz ?
+*CHI:	boca .
+%com:	señala todo bien
+*INE:	boca sí .
+*INE:	y la nariz ?
+*CHI:	nariz .
+*INE:	la nariz .
+*CHI:	nariz ?
+%com:	EMI señala un ojo
+*INE:	no ésto no es la nariz .
+*INE:	ésto son los ojos .
+*INE:	mira ésto es una flor .
+*CHI:	flor .
+*INE:	flor sí es una flor .
+%com:	EMI va hacia Merche en busca del bolso
+*CHI:	merche .
+*MER:	no éso no se toca .
+%com:	EMI coge un coche y se lo da a Merche
+*CHI:	mira .
+%com:	EMI coge el caballo y lo hace trotar
+*CHI:	mira .
+*CHI:	caballo .
+*MER:	es un caballo .
+*CHI:	mira .
+%com:	EMI señala un lápiz
+*CHI:	inés .
+*MER:	es de inés este lápiz .
+*CHI:	inés .
+%com:	EMI se va de la habitación llamándola
+*MER:	no está inés .
+*MER:	está en la calle .
+*CHI:	inés .
+*MER:	se ha ido a la calle .
+*CHI:	sí calle .
+*MER:	sí qué haces ?
+*CHI:	aquí mamá .
+*MER:	qué haces ?
+%com:	inés y EMI entran con un cuento
+*INE:	no se ha roto el cuento .
+*CHI:	roto ?
+*CHI:	sí .
+*INE:	quién es éste ?
+*INE:	es un nene .
+*CHI:	nene .
+*INE:	mira .
+*CHI:	guau^guau@o [% perro] sí .
+%com:	EMI lo señala
+*INE:	perro es un perro .
+*MER:	hay un guau^guau@o [% perro] ahí .
+*MER:	dónde ?
+*CHI:	perro .
+*MER:	un perro .
+*INE:	y una niña .
+*INE:	dónde está la niña ?
+*CHI:	nena .
+*INE:	dónde está ?
+*CHI:	no se nena .
+%com:	EMI señala bien
+*INE:	sí es ésta .
+*INE:	verdad ?
+%com:	EMI se desentiende , EMI se acomoda en el sillón
+*INE:	que estás ?
+*CHI:	ya está .
+*INE:	mira , oh !
+*CHI:	pato .
+*INE:	es un pato .
+*CHI:	pato sí .
+*CHI:	sí .
+*CHI:	no toques .
+*INE:	no lo toque(s) .
+*INE:	por qué ?
+*INE:	cua^cua@o [% pato] .
+*CHI:	cua^cua@o [% pato] .
+*INE:	es un pato .
+*INE:	mira .
+*INE:	un pollito .
+*INE:	un pollo .
+*CHI:	lili xxx .
+*INE:	el Lilí está aquí .
+*INE:	mira .
+*INE:	quieres ver el Lilí ?
+*INE:	está aquí mira .
+*CHI:	mira Lilí .
+*INE:	ésto es un oso .
+*CHI:	oso .
+*CHI:	mira xxx .
+*CHI:	mira .
+*INE:	es una puerta eh ?
+*CHI:	guau^guau@o [% perro] .
+*INE:	sí es un perro .
+*INE:	y teléfono .
+*CHI:	te(lé)fono , eh ?
+*INE:	te^le^fo^no .
+*CHI:	mira .
+*INE:	el reloj .
+*CHI:	mira .
+*INE:	un +...
+%com:	un dibujo está roto
+*CHI:	roto .
+*INE:	está roto .
+*INE:	quién lo ha roto ?
+*CHI:	roto .
+*INE:	lo ha roto Emilio ?
+*INE:	verdad ?
+*CHI:	sí Tere .
+*INE:	no Tere no .
+*INE:	ha sido Emilio .
+*CHI:	inés .
+*INE:	quién lo ha roto ?
+*CHI:	cuento .
+*INE:	emilio .
+*CHI:	mira xxx .
+*INE:	oh qué hay aquí ?
+*INE:	a_ver .
+*INE:	un nino .
+*INE:	eh ?
+*INE:	quieres ver el pájaro ?
+*CHI:	pájaro .
+*INE:	buscamos el pájaro ?
+*CHI:	pájaro .
+*INE:	a_ver pájaro .
+*INE:	aquí a no , aquí no .
+*CHI:	aquí no .
+*INE:	aquí míralo aquí .
+*CHI:	aquí no .
+*INE:	aquí .
+*INE:	me dejas que te lo enseñe .
+%com:	EMI se opone a pasar Merás páginas
+*INE:	aquí mira .
+%com:	inés se lo enseña
+*CHI:	roto .
+*INE:	quién lo ha roto ésto ?
+*CHI:	no sé .
+*INE:	se ha roto , eh ?
+*CHI:	sí mamá .
+*INE:	sí .
+*CHI:	roto .
+*CHI:	mira .
+*INE:	qué es ésto ?
+*CHI:	cua@o [% pato] .
+*INE:	cua no .
+*INE:	es un pato .
+*INE:	y el pato hace cua^cua@o [% pato] .
+*CHI:	cua^cua@o [% pato] .
+*INE:	qué es ésto ?
+*INE:	qué es ?
+*CHI:	cua^cua@o [% pato] .
+*INE:	pato .
+*CHI:	cua^cua@o [% pato] .
+*INE:	y el perro .
+*INE:	qué hace ?
+*INE:	guau^guau@o .
+*CHI:	guau^guau@o .
+*INE:	guau^guau@o .
+*CHI:	mira .
+*INE:	mira el gato .
+*INE:	el gato qué hace ?
+*CHI:	guau^guau@o .
+*INE:	miau^miau@o .
+*CHI:	guau^guau@o .
+*INE:	no ésto es el perro .
+*CHI:	nene .
+%com:	EMI señala bien
+*INE:	sí mira el pájaro que hace pui^pui@o .
+*CHI:	mira .
+*INE:	oh .
+*INE:	mira una mariposa .
+*CHI:	mariposa no .
+*INE:	sí aquí está la mariposa .
+*INE:	mírala .
+*CHI:	no .
+*INE:	dónde está la mariposa ?
+*CHI:	mira .
+*INE:	es un gato .
+*CHI:	mira .
+*INE:	una puerta .
+*CHI:	puerta ?
+*INE:	sí una puerta .
+*CHI:	ya está .
+*INE:	lo has cerrado ?
+*CHI:	mira mamá .
+*INE:	qué ha pasado ?
+*CHI:	nacho .
+%com:	se oye un ruido y ambos miran
+*CHI:	mira .
+*CHI:	cua^cua@o [% pato] .
+*INE:	qué es ésto ?
+*INE:	qué es ésto que has hecho ?
+*CHI:	cua^cua@o [% pato] .
+*INE:	mira una tortuga .
+*CHI:	tortuga aquí .
+*INE:	dónde está la tortuga ?
+*INE:	enséñale la tortuga a Nacho .
+*INE:	aquí .
+*INE:	le enseñas la tortuga a Nacho ?
+%com:	EMI ofrece el cuento a Nacho
+*CHI:	nacho ten .
+*INE:	enséñale la tortuga .
+*CHI:	tortuga no .
+*CHI:	mama .
+*INE:	a_ver la tortuga .
+*INE:	enséñame la tortuga .
+*CHI:	tortuga .
+*INE:	aquí no está .
+*CHI:	tortuga ?
+*INE:	aquí mira .
+*CHI:	tortuga .
+*INE:	sí .
+*CHI:	0 .
+%act:	balbucea .
+*INE:	qué ?
+*INE:	no te entiendo .
+*INE:	qué dices ?
+*CHI:	ay mama .
+*INE:	qué ?
+%com:	EMI cierra el cuento de golpe
+*CHI:	ya está .
+*INE:	ya está .
+*INE:	de quién es este cuento ?
+%com:	EMI se desentiende , EMI tapa la boca de INE con el cuento
+*INE:	me lo das para mí .
+*CHI:	sí .
+*INE:	para mí este cuento .
+%com:	EMI vuelve a abrir el cuento
+*INE:	ésto es la luz .
+*CHI:	luz .
+*CHI:	luz ?
+*INE:	sí dónde está la luz ?
+*INE:	a_ver enséñame la luz .
+*CHI:	luz .
+*INE:	sí aquí muy bien .
+*CHI:	ya está .
+%com:	EMI cierra el cuento
+*INE:	ya está .
+@End

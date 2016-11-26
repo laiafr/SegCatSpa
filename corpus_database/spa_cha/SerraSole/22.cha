@@ -1,0 +1,2561 @@
+@UTF8
+@PID:	11312/c-00031885-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Eduard Target_Child , MAR mare Mother , PAR pare Father , OBS observador Investigator
+@ID:	spa|SerraSole|CHI|2;10.||||Target_Child|||
+@ID:	spa|SerraSole|MAR|||||Mother|||
+@ID:	spa|SerraSole|PAR|||||Father|||
+@ID:	spa|SerraSole|OBS|||||Investigator|||
+@Comment:	e i m hi son al salo , e assegut a la taula i m li dona el berenar
+*MAR:	0 .
+%act:	li dona un tros de pernil
+*CHI:	ya no [= parlant amb la boca plena] .
+%mor:	adv|ya=already adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	0 [= fa no amb el cap] .
+*MAR:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ahora esto y ahora xxx [% "ara eto y ara xxx" , asseñalant el iogurt i el que m te a la ma] .
+%mor:	adv|ahora=now pro:dem|esto=this_one coord|y=and adv|ahora=now .
+%gra:	1|2|JCT 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*MAR:	eso .
+%mor:	pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 [= fa si amb el cap] .
+*CHI:	xxx xxx [% "a bola" , sense referent clar , asseñalant el que te m a les mans] .
+*MAR:	las dos cosas .
+%mor:	det:art|el&f-PL=the det:num|dos=two v|cose-2S&SUB&PRES=sew .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [= mira a la camera somrient mentre mastega] .
+*MAR:	venga , venga tu no mires .
+%mor:	co|venga=come_on cm|cm co|venga=come_on det:poss|tu=your adv|no=no
+	v|mira-2S&SUB&PRES=look .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|SUBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*CHI:	0 .
+%act:	li dona voltes al iogurt amb la cullera
+*MAR:	0 [= se'l mira] .
+*MAR:	venga come , come que no te vas a hacer fuerte .
+%mor:	co|venga=come_on v|come-3S&PRES=eat cm|cm v|come-3S&PRES=eat
+	pro:rel|que=that adv|no=no pro:obj|te=you v|i-2S&PRES=go aprep|a=to
+	inf|hace-INF=do adj|fuerte=strong .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|REL 6|7|JCT 7|8|SUBJ 8|5|CMOD
+	9|10|INF 10|8|COMP 11|10|OBJ 12|4|PUNCT
+*MAR:	0 [= mira e , somrient] .
+*CHI:	0 .
+%act:	es menja el iogurt
+*MAR:	venga .
+%mor:	co|venga=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	menja una cullerada de iogurt
+*CHI:	0 .
+%act:	juga amb la cullera , somrient a la camera
+*MAR:	0 .
+%act:	li dona un tros de pernil
+*CHI:	0 .
+%act:	juga amb la cullera , ficant'la sobre la taula
+*MAR:	0 .
+%com:	sembla que asseñali e , pero no se la sent
+*MAR:	venga coge [= referint'se al menjar] .
+%mor:	co|venga=come_on v|coge-3S&PRES=take .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	ah [= girant'se cap a m] !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 [= asseñala amb el cap el menjar i agafa el pernil del plat] .
+*CHI:	mas yogur [% "ma bu" , mirant m] .
+%mor:	conj|mas=moreover n|yogur&m=yogurt .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MAR:	si , ahora te doy mas yogur [= tallant un tros de pernil] .
+%mor:	conj|si=if cm|cm adv|ahora=now pro:obj|te=you v|da-1S&PRES=give
+	conj|mas=moreover n|yogur&m=yogurt .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|4|COMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*MAR:	corre .
+%mor:	imp|corre-2S&IMP=run .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	donde esta [% "eta" , mirant m] ?
+%mor:	pro:rel|donde=where imp|esta-2S&IMP=be ?
+%gra:	1|0|ROOT 2|1|CMOD 3|1|PUNCT
+*MAR:	allí [= asseñalant amb el cap a un altre costat del salo] .
+%mor:	adv|allí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no hay [= mirant el iogurt] .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MAR:	ya verás como si [= dient si amb el cap , mentre li dona un tros de pernil] .
+%mor:	adv|ya=already v|ve-2S&FUT=see adv|como=like conj|si=if .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|OBJ 5|2|PUNCT
+*CHI:	0 [= mentre menja sembla pensatiu] .
+*MAR:	en que piensas ?
+%mor:	prep|en=in pro:rel|que=that v|pensa-2S&PRES=think ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*CHI:	0 [= riu , mira a la camera asseñalant] .
+*MAR:	venga come .
+%mor:	co|venga=come_on v|come-3S&PRES=eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	a pupa@c [% "a pupa" , perque abans s' ha donat un cop] .
+%mor:	aprep|a=to chi|pupa .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MAR:	no [= agafant pa del plat] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	te has hecho pupa@c , un coscorrón [= tocant'li el cap] .
+%mor:	pro:obj|te=you aux|habe-2S&PRES=have n|hecho&m=action chi|pupa
+	cm|cm det:art|un&m=one n|coscorrón&m=bump_head .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|4|CMOD 6|7|DET 7|5|OBJ 8|1|PUNCT
+*CHI:	silla .
+%mor:	n|silla&f=chair .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	oi@c !
+%mor:	chi|oi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	menja iogurt el sol
+*MAR:	muy bien [= fent si amb el cap] !
+%mor:	adv|muy=very adv|bien=well !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	0 [= mira la camera i somriu] .
+*MAR:	0 .
+%act:	li fica a la boca un tros de pernil
+*CHI:	0 [= gira el cap cap a m , obrint la boca] .
+*CHI:	pan no [= parlant amb la boca plena i mirant m] .
+%mor:	n|pan&m=bread adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MAR:	un poquito , no , eh ?
+%mor:	det:art|un&m=one pro:indef|poquito=little cm|cm adv|no=no cm|cm
+	co|eh ?
+%gra:	1|2|DET 2|0|ROOT 3|2|APP 4|5|JCT 5|6|MOD 6|2|APP 7|2|PUNCT
+*CHI:	0 [= fa no amb el cap] .
+*MAR:	no quieres pan ?
+%mor:	adv|no=no v|quere-2S&PRES=want n|pan&m=bread ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	0 [= fa no amb el cap] .
+*MAR:	bueno , lo dejo .
+%mor:	co|bueno=good cm|cm pro:obj|lo&m=him v|deja-1S&PRES=leave .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	no aquí no [% "no qui no" , traient el pa del plat] .
+%mor:	adv|no=no adv|aquí=here adv|no=no .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MAR:	dejalo ahí encima .
+%mor:	imp|deja-2S&IMP~pro:clit|OBJ&m adv|ahí=there adv|encima=on_top .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|JCT 4|1|JCT 5|1|PUNCT
+*CHI:	aquí [% "qui" , ficant el pa sobre la taula] .
+%mor:	adv|aquí=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%com:	amb la cullera plena de iogurt , a prop de la boca , es queda mirant m
+*MAR:	xxx xxx no ves que se cae [= ficant la ma sota de la cullera] .
+%mor:	adv|no=no v|ve-2S&PRES=see pro:rel|que=that pro:refl|se=itself
+	v|cae-3S&PRES=fall .
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|5|JCT 5|3|ROOT 6|5|PUNCT
+*MAR:	0 .
+%act:	li ofereix pernil a e
+*CHI:	un pelo , pelo [= sense referent clar , asseñalant el iogurt] .
+%mor:	det:art|un&m=one v|pela-1S&PRES=peel cm|cm v|pela-1S&PRES=peel .
+%gra:	1|2|DET 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	0 [= es mira el pitet] .
+*MAR:	eso no es nada , Edu .
+%mor:	pro:dem|eso=that_one adv|no=no cop|se-3S&PRES=be
+	v|nada-3S&PRES=swim cm|cm n:prop|Edu .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*MAR:	toma , abre la boca [= oferint'li pernil] .
+%mor:	v|toma-3S&PRES=take cm|cm v|abri-3S&PRES=open pro:obj|la&f=she
+	n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MAR:	venga [= ficant'li el pernil a la boca] .
+%mor:	co|venga=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 [= aixeca el cap , mira la camera i somriu] .
+*CHI:	0 [= estossega , ajupint el cap] .
+*CHI:	0 .
+%act:	agafa una cullera de iogurt
+*MAR:	así , así , poquito .
+%mor:	adv|así=thus cm|cm adv|así=thus cm|cm pro:indef|poquito=little .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|PUNCT 5|4|ROOT 6|5|PUNCT
+*CHI:	0 [= aixeca el cap i mira m] .
+*CHI:	0 .
+%act:	menja la cullerada de iogurt
+%com:	e es deixa la cullera dintre la boca
+*MAR:	venga , que te vas a comer la cuchara .
+%mor:	co|venga=come_on cm|cm pro:rel|que=that pro:obj|te=you
+	v|i-2S&PRES=go aprep|a=to inf|come-INF=eat pro:obj|la&f=she
+	n|cuchara&f=spoon .
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|5|SUBJ 5|3|CMOD 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*CHI:	0 [= segueix amb la cullera a la boca] .
+*MAR:	venga , Edu .
+%mor:	co|venga=come_on cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	es treu la cullera de la boca
+*MAR:	0 .
+%act:	li ofereix pernil
+*CHI:	no espera , espera [% "no pera , epera" , girant el cap] .
+%mor:	adv|no=no v|espera-3S&PRES=wait cm|cm v|espera-3S&PRES=wait .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	te toca esto , te toca esto , Edu .
+%mor:	pro:obj|te=you v|toca-3S&PRES=touch pro:dem|esto=this_one cm|cm
+	pro:obj|te=you v|toca-3S&PRES=touch pro:dem|esto=this_one cm|cm
+	n:prop|Edu .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|COMP 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*MAR:	no te acuerdas ya ?
+%mor:	adv|no=no pro:obj|te=you v|acorda-2S&PRES=remind adv|ya=already ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	&+pcf [% "do e osa" , sense referent clar] .
+*MAR:	venga [= apartant'li el pernil de la boca] .
+%mor:	co|venga=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	agafa una cullera de iogurt i se la menja
+*MAR:	muy bien [= apropant'li pernil] .
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MAR:	has dicho un poquito y ya esta [= li ofereix pernil] .
+%mor:	aux|habe-2S&PRES=have part|deci-PPART-m=say det:art|un&m=one
+	pro:indef|poquito=little coord|y=and adv|ya=already
+	imp|esta-2S&IMP=be .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|JCT 7|5|COORD 8|2|PUNCT
+*CHI:	0 [= continua amb la boca tancada] .
+*MAR:	venga se bueno .
+%mor:	co|venga=come_on pro:refl|se=itself co|bueno=good .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	vamos al patito , vamos a_ver el pato ?
+%mor:	co|vamos=go aprep|a~det:art|el&m n|pato-DIM-m=duck cm|cm
+	co|vamos=go co|a_ver=see det:art|el&m&SG=the n|pato&m=duck ?
+%gra:	1|0|ROOT 2|1|APREP 3|4|DET 4|2|POBJ 5|4|MOD 6|1|REL 7|6|CMOD 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*CHI:	no [= gremolejant] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	y me llevo el plato [= agafant'lo] .
+%mor:	coord|y=and pro:obj|me=me v|lleva-1S&PRES=carry det:art|el&m&SG=the
+	n|plato&m=dish .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MAR:	me lo llevo [= li ofereix pernil una altra vegada] .
+%mor:	pro:obj|me=me pro:obj|lo&m=him v|lleva-1S&PRES=carry .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [= el rebutja apartant el cap] .
+*MAR:	0 .
+%act:	s' aixeca i li fica el pernil a la boca
+*CHI:	hm: [= es nega a menjar el pernil] !
+%mor:	co|hm !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que feo eres [= mentre se'n va] .
+%mor:	pro:rel|que=that adj|feo-m=ugly cop|se-2S&PRES=be .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%com:	mira la camera somrient i continua menjant'se el iogurt
+*MAR:	0 .
+%act:	torna al salo
+*CHI:	ya he acabado [% "ya a bao" , mostrant'li el iogurt a m] .
+%mor:	adv|ya=already aux|habe-1S&PRES=have part|acaba-PPART-m=finish .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MAR:	ya has acabado , venga límpiate corre .
+%mor:	adv|ya=already aux|habe-2S&PRES=have part|acaba-PPART-m=finish
+	cm|cm co|venga=come_on imp|limpia-2S&IMP~pro:clit|2S
+	v|corre-3S&PRES=run .
+%gra:	1|8|JCT 2|3|AUX 3|8|SUBJ 4|8|SUBJ 5|8|SUBJ 6|8|SUBJ 7|6|OBJ2 8|0|ROOT
+	9|8|PUNCT
+*CHI:	eh [= girant'se cap a m] ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	límpiate y a jugar [= li ofereix un tovallo] .
+%mor:	imp|limpia-2S&IMP~pro:clit|2S coord|y=and aprep|a=to
+	inf|juga-INF=play .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|CONJ 4|5|INF 5|3|COORD 6|1|PUNCT
+*CHI:	0 .
+%act:	es neteja la boca
+*CHI:	0 .
+%act:	deixa el tovallo sobre la taula
+*CHI:	0 .
+%act:	s' aixeca mirant el pitet
+*CHI:	mama esta mojado [% "mama a jao" , tocant'se el pitet] .
+%mor:	v|mama-3S&PRES=suck det:dem|este-f=this part|moja-PPART-m=moisten .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAR:	que ?
+%mor:	pro:rel|que=that ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ven tu [% "me tu"] .
+%mor:	co|ven=come det:poss|tu=your .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	xxx [% "pito" , tocant'se el pitet , podria ser quito] .
+*CHI:	mama xxx [% "mama pito" , agafant el pitet per els costats] .
+%mor:	v|mama-3S&PRES=suck .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que ?
+%mor:	pro:rel|que=that ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx [% "pito" , aixecant'se i dirigint'se cap a la porta] .
+*MAR:	te lo quito [= apropant'se e] .
+%mor:	pro:obj|te=you pro:obj|lo&m=him v|quita-1S&PRES=remove .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	aixeca el pitet , asseñalant'lo
+*MAR:	toma los coches .
+%mor:	imp|toma-2S&IMP=take pro:obj|él&m-PL=he n|coche&m-PL=car .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAR:	no los quieres ?
+%mor:	adv|no=no pro:obj|él&m-PL=he v|quere-2S&PRES=want ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 .
+%act:	li treu el pitet
+*CHI:	0 .
+%act:	va cap al moble bar i s' amaga
+%com:	o el persegueix amb la camera
+*CHI:	0 .
+%act:	quan veu o amaga el cap
+*OBS:	uy , donde esta el Edu ?
+%mor:	co|uy cm|cm pro:rel|donde=where imp|esta-2S&IMP=be
+	det:art|el&m&SG=the n:prop|Edu ?
+%gra:	1|0|ROOT 2|1|REL 3|2|REL 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*OBS:	donde se ha ido ?
+%mor:	pro:rel|donde=where pro:refl|se=itself v|habe-3S&PRES=have
+	part|i-PPART-m=go ?
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|AUX 4|1|CMOD 5|1|PUNCT
+*CHI:	0 [= segueix amagat] .
+*OBS:	Edu [= cridant'lo] .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	donde esta ?
+%mor:	pro:rel|donde=where imp|esta-2S&IMP=be ?
+%gra:	1|0|ROOT 2|1|CMOD 3|1|PUNCT
+*MAR:	voy a buscarlo .
+%mor:	v|i-1S&PRES=go aprep|a=to inf|busca-INF~pro:clit|OBJ&m .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ2 5|1|PUNCT
+*OBS:	ay !
+%mor:	co|ay=ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	treu el cap , somrient
+*OBS:	miralo !
+%mor:	imp|mira-2S&IMP~pro:clit|OBJ&m !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*OBS:	si esta aquí !
+%mor:	conj|si=if imp|esta-2S&IMP=be adv|aquí=here !
+%gra:	1|0|ROOT 2|1|SCL 3|2|JCT 4|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*OBS:	si esta aquí Paula , mira , mira esta aquí .
+%mor:	conj|si=if imp|esta-2S&IMP=be adv|aquí=here n:prop|Paula cm|cm
+	co|mira=look cm|cm co|mira=look imp|esta-2S&IMP=be adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|4|MOD 6|1|SCL 7|6|PRED 8|7|JCT
+	9|8|POBJ 10|9|JCT 11|1|PUNCT
+*CHI:	0 .
+%act:	va sortint
+*OBS:	se ha escondido , miralo .
+%mor:	pro:refl|se=itself v|habe-3S&PRES=have part|esconde-PPART-m=hide
+	cm|cm imp|mira-2S&IMP~pro:clit|OBJ&m .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|3|JCT 5|4|POBJ 6|5|OBJ2 7|1|PUNCT
+*MAR:	0 .
+%act:	s' apropa rient
+*MAR:	ya te veo .
+%mor:	adv|ya=already pro:obj|te=you v|ve-1S&PRES=see .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@Comment:	e i m riuen
+*MAR:	sal .
+%mor:	n|sal&f=salt .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mama esto se rompe [% "mama eto si ompe" , tocant quelcom] .
+%mor:	v|mama-3S&PRES=suck pro:dem|esto=this_one pro:refl|se=itself
+	v|rompe-3S&PRES=break .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	no se rompe cariño .
+%mor:	adv|no=no pro:refl|se=itself v|rompe-3S&PRES=break
+	co:voc|cariño=affection .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	mira [% "mia" , tocant quelcom] .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	dejalo ahí .
+%mor:	imp|deja-2S&IMP~pro:clit|OBJ&m adv|ahí=there .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|1|PUNCT
+*CHI:	0 [= es gira i mira la camera] .
+*MAR:	ves a por un lápiz corre .
+%mor:	v|ve-2S&PRES=see aprep|a=to prep|por=for det:art|un&m=one
+	n|lápiz&m=pencil v|corre-3S&PRES=run .
+%gra:	1|0|ROOT 2|1|APREP 3|6|JCT 4|5|DET 5|3|POBJ 6|2|POBJ 7|1|PUNCT
+*MAR:	para dibujar .
+%mor:	prep|para=for inf|dibuja-INF=draw .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*CHI:	que ?
+%mor:	pro:rel|que=that ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	ves a por un lápiz y dibuja .
+%mor:	v|ve-2S&PRES=see aprep|a=to prep|por=for det:art|un&m=one
+	n|lápiz&m=pencil coord|y=and v|dibuja-3S&PRES=draw .
+%gra:	1|0|ROOT 2|1|APREP 3|2|JCT 4|5|DET 5|3|POBJ 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	ven , mira ven .
+%mor:	co|ven=come cm|cm co|mira=look co|ven=come .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	intenta pujar'se a un tamboret
+*MAR:	eh , no te subas ahí cariño .
+%mor:	co|eh cm|cm adv|no=no pro:obj|te=you v|subi-2S&SUB&PRES=go_up
+	adv|ahí=there co:voc|cariño=affection .
+%gra:	1|5|SUBJ 2|1|JCT 3|4|JCT 4|2|POBJ 5|0|ROOT 6|7|JCT 7|5|OBJ 8|5|PUNCT
+*CHI:	&+pcf [% "po que ete" , sense refent clar , mentre puja] .
+*MAR:	Edu mira .
+%mor:	n:prop|Edu co|mira=look .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MAR:	xxx , oye [% "xut , oye" , al veure com e fica un peu al prestatge] !
+%mor:	cm|cm co|oye=listen !
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MAR:	que te caes [= apropant'se per agafar'lo] .
+%mor:	pro:rel|que=that pro:obj|te=you v|cae-2S&PRES=fall .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+*MAR:	vamos a por un lápiz y dibujamos , eh [= baixant'lo] ?
+%mor:	v|i-1P&PRES=go aprep|a=to prep|por=for det:art|un&m=one
+	n|lápiz&m=pencil coord|y=and v|dibuja-1P&PRES&PRET=draw cm|cm co|eh
+	?
+%gra:	1|0|ROOT 2|1|APREP 3|5|JCT 4|5|DET 5|2|POBJ 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|8|ROOT 10|9|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	le enseñas a la Magda como dibujas .
+%mor:	pro:ind|le=him v|enseña-2S&PRES=teach aprep|a=to pro:obj|la&f=she
+	n:prop|Magda adv|como=like v|dibuja-2S&PRES=draw .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|7|JCT 5|7|SUBJ 6|7|JCT 7|3|POBJ 8|2|PUNCT
+*MAR:	venga [= anant cap al altre costat] .
+%mor:	co|venga=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	es reclina en el tamboret
+*MAR:	mira Edu [= tornant al salo] .
+%mor:	co|mira=look n:prop|Edu .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	que no [% "que o"] .
+%mor:	pro:rel|que=that adv|no=no .
+%gra:	1|0|ROOT 2|3|JCT 3|1|PUNCT
+*CHI:	0 .
+%act:	comenca a saltar pel salo
+*CHI:	0 .
+%act:	es dirigeix cap a la porta de la terrassa i l' obre
+*MAR:	xxx , xxx , xxx <no dejalo , no> [>] [% les xxx volen dir "xu"] .
+%mor:	cm|cm cm|cm adv|no=no imp|deja-2S&IMP~pro:clit|OBJ&m cm|cm
+	adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|4|OBJ2 6|5|POBJ 7|6|JCT 8|1|PUNCT
+*CHI:	<&pcf [% "e pitita"]> [<] .
+*CHI:	&+pcf [% "e pitita" , sense referent clar , asseñalant cap a fora] .
+*MAR:	que esta en la galería .
+%mor:	pro:rel|que=that imp|esta-2S&IMP=be prep|en=in pro:obj|la&f=she
+	n|galería&f=gallery .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	&+pcf [% "va de no" , sense referent clar] .
+*MAR:	están los trastos , verdad que si cariño ?
+%mor:	aux|esta-3P&PRES=be pro:head|él&m-PL=he n|trasto&m-PL=furniture
+	cm|cm co|verdad=right pro:rel|que=that conj|si=if
+	co:voc|cariño=affection ?
+%gra:	1|3|AUX 2|3|DET 3|0|ROOT 4|3|MOD 5|4|CMOD 6|5|REL 7|6|CMOD 8|7|SCL
+	9|3|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	corre cierra .
+%mor:	v|corre-3S&PRES=run v|cerra-3S&PRES=close .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&+pcf [% "ti ta ti tu" , sense referent clar] .
+*MAR:	cierra , toma , mira toma [= li ofereix un paper] .
+%mor:	v|cerra-3S&PRES=close cm|cm v|toma-3S&PRES=take cm|cm co|mira=look
+	v|toma-3S&PRES=take .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|SUBJ 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*MAR:	corre , ven .
+%mor:	v|corre-3S&PRES=run cm|cm co|ven=come .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	a donde vas a dibujar aquí ?
+%mor:	aprep|a=to pro:rel|donde=where v|i-2S&PRES=go aprep|a=to
+	inf|dibuja-INF=draw adv|aquí=here ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|INF 5|3|COMP 6|5|OBJ 7|1|PUNCT
+*CHI:	0 .
+%act:	va saltant cap a m
+*MAR:	toma , ven [= li ofereix un llapis , deixant el paper a terra] .
+%mor:	v|toma-3S&PRES=take cm|cm co|ven=come .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 [= mira la camera i continua saltant] .
+*CHI:	0 .
+%act:	es tira a terra i va arrossegant'se cap al paper
+*MAR:	0 .
+%act:	se va
+*CHI:	0 .
+%act:	agafa el llapis i comenca a dibuixar amb la ma esquerra
+*MAR:	Edu , la otra mano .
+%mor:	n:prop|Edu cm|cm pro:obj|la&f=she pro:indef|otro-f=other
+	n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	mama no , daño [% "mama no , baño" , mirant m , i asseñalant la ma] .
+%mor:	v|mama-3S&PRES=suck adv|no=no cm|cm v|daña-1S&PRES=harm .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	tienes daño en la mano ?
+%mor:	v|tene-2S&PRES=have v|daña-1S&PRES=harm prep|en=in pro:obj|la&f=she
+	n|mano&f=hand ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	&+pcf [% "si pia" , sense referent clar , continua pintant] .
+*MAR:	a_ver que te has hecho ?
+%mor:	co|a_ver=see pro:rel|que=that pro:obj|te=you aux|habe-2S&PRES=have
+	v|hecha-1S&PRES=give ?
+%gra:	1|0|ROOT 2|1|REL 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|1|PUNCT
+*CHI:	0 [= continua pintant] .
+*MAR:	te has hecho daño , a_ver [= intentant cridar'li l' atencio] .
+%mor:	pro:obj|te=you aux|habe-2S&PRES=have v|hecha-1S&PRES=give
+	v|daña-1S&PRES=harm cm|cm co|a_ver=see .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	0 .
+%act:	segueix pintant
+*MAR:	xxx , xxx , a_ver el daño [% les xxx volen dir "xi"] .
+%mor:	cm|cm cm|cm co|a_ver=see det:art|el&m&SG=the v|daña-1S&PRES=harm .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|DET 5|0|ROOT 6|5|PUNCT
+*CHI:	0 [= mira m i li enseña la ma] .
+*MAR:	si no tienes nada .
+%mor:	conj|si=if adv|no=no v|tene-2S&PRES=have v|nada-3S&PRES=swim .
+%gra:	1|3|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	0 [= es mira la ma i deixa el llapis] .
+*CHI:	pupa@c aquí [% "pupa ati" , mostrant el dit] .
+%mor:	chi|pupa adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MAR:	quien te lo ha hecho ?
+%mor:	pro:rel|quien=who pro:obj|te=you pro:obj|lo&m=him
+	aux|habe-3S&PRES=have v|hecha-1S&PRES=give ?
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	pupa@c aquí xxx xxx [% "pupa a ati , e puco"] .
+%mor:	chi|pupa adv|aquí=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	0 [= es mira la ma] .
+*MAR:	de hacer dibujo .
+%mor:	prep|de=of inf|hace-INF=do v|dibuja-1S&PRES=draw .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|OBJ 4|1|PUNCT
+*CHI:	0 [= segueix pintant] .
+*MAR:	con la otra mano , Edu !
+%mor:	prep|con=with pro:obj|la&f=she pro:indef|otro-f=other n|mano&f=hand
+	cm|cm n:prop|Edu !
+%gra:	1|0|ROOT 2|1|POBJ 3|4|DET 4|2|OBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*CHI:	no [= mentre pinta] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	nada [= tirant'se a terra] .
+%mor:	pro:indef|nada=nothing .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	pinta estirat a terra
+*CHI:	uh [= allarga la lletra u , mentre pinta] !
+%mor:	co|uh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	eso que es ?
+%mor:	pro:dem|eso=that_one pro:rel|que=that cop|se-3S&PRES=be ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*CHI:	dibujo [% "buja"] .
+%mor:	v|dibuja-1S&PRES=draw .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	boli [/?] [= pintant] .
+*CHI:	pinta [= mirant m] .
+%mor:	v|pinta-3S&PRES=paint .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	pintar [= rient] ?
+%mor:	inf|pinta-INF=paint ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que cómodo , eh !
+%mor:	pro:rel|que=that adj|cómodo-m=comfortable cm|cm co|eh !
+%gra:	1|0|ROOT 2|3|MOD 3|1|CMOD 4|3|OBJ 5|1|PUNCT
+*CHI:	&+pcf [% sona com "ante" , sense referent clar , mentre dibuixa] .
+*MAR:	Edu , acostado no se escribe !
+%mor:	n:prop|Edu cm|cm part|acosta-PPART-m=put_to_bet adv|no=no
+	pro:refl|se=itself v|escribi-3S&PRES=write !
+%gra:	1|3|SUBJ 2|3|AUX 3|6|SUBJ 4|5|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	0 .
+%act:	s' incorpora una mica
+*CHI:	ay otro ojo [% "ay oto ojo] .
+%mor:	co|ay=ay pro:indef|otro-m=other co|ojo .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	boca [= rebolcant'se per terra] .
+%mor:	n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mira ya esta aquí [% "bira ya ta ti" , aixecant'se] .
+%mor:	co|mira=look adv|ya=already imp|esta-2S&IMP=be adv|aquí=here .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|3|JCT 5|1|PUNCT
+*MAR:	Edu , no , no , no , mira que te haces daño .
+%mor:	n:prop|Edu cm|cm adv|no=no cm|cm adv|no=no cm|cm adv|no=no cm|cm
+	co|mira=look pro:rel|que=that pro:obj|te=you v|hace-2S&PRES=do
+	v|daña-1S&PRES=harm .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|POBJ 5|6|JCT 6|4|JCT 7|8|JCT 8|6|POBJ
+	9|8|JCT 10|9|REL 11|10|COMP 12|11|COMP 13|12|OBJ 14|2|PUNCT
+*CHI:	0 .
+%act:	intenta donar una tombarella a terra
+*MAR:	lo haces en la cama .
+%mor:	pro:obj|lo&m=him v|hace-2S&PRES=do prep|en=in pro:obj|la&f=she
+	n|cama&f=bed .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	eh [= segut a terra i mirant m] ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que te das en la espalda y te haces daño .
+%mor:	pro:rel|que=that pro:obj|te=you v|da-2S&PRES=give prep|en=in
+	det:art|el&f&SG=the n|espalda&f=back coord|y=and pro:obj|te=you
+	v|hace-2S&PRES=do v|daña-1S&PRES=harm .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|6|CONJ 8|7|COORD
+	9|8|COMP 10|9|OBJ 11|1|PUNCT
+*CHI:	cama [% "ama"] ?
+%mor:	n|cama&f=bed ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	cama [% "ama"] ?
+%mor:	n|cama&f=bed ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	no , que esta acostado el papa .
+%mor:	adv|no=no cm|cm pro:rel|que=that imp|esta-2S&IMP=be
+	part|acosta-PPART-m=put_to_bet det:art|el&m&SG=the n|papa&m=pope .
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|CMOD 5|4|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*CHI:	eh ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que esta costado el papa .
+%mor:	pro:rel|que=that imp|esta-2S&IMP=be part|costa-PPART-m=cost
+	det:art|el&m&SG=the n|papa&m=pope .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	0 .
+%act:	s' aixeca
+*MAR:	lo haces en la cama grande .
+%mor:	pro:obj|lo&m=him v|hace-2S&PRES=do prep|en=in pro:obj|la&f=she
+	n|cama&f=bed adj|grande=big .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|2|PUNCT
+*CHI:	0 .
+%act:	es dirigeix cap a la porta
+*CHI:	0 .
+%act:	obre la porta de l' habitacio
+@Comment:	se sent la veu de p
+*CHI:	0 .
+%act:	s' aparta somrient com si s' amagues
+*PAR:	Edu [= cridant'lo] .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	uh [= surt corrent cap a m] !
+%mor:	co|uh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	ven , ven que cierro la puerta .
+%mor:	co|ven=come cm|cm co|ven=come pro:rel|que=that
+	v|cerra-1S&PRES=close pro:obj|la&f=she n|puerta&f=door .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|REL 5|4|CMOD 6|7|DET 7|5|OBJ 8|1|PUNCT
+*CHI:	0 .
+%act:	s' amaga darrera la porta
+*CHI:	&+pcf [% "ouau" , com si jugues a cuit] .
+*CHI:	0 .
+%act:	surt corrent cap al mig del salo
+*CHI:	ay , ay , ay [= saltant pel salo es dirigeix cap a la taula] !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*OBS:	que ha pasado ?
+%mor:	pro:rel|que=that aux|habe-3S&PRES=have part|pasa-PPART-m=pass ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	s' amaga darrera la cadira
+*OBS:	quien había ahí , Edu ?
+%mor:	pro:rel|quien=who v|habe-13S&PAS=have adv|ahí=there cm|cm
+	n:prop|Edu ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	papa .
+%mor:	n|papa&m=pope .
+%gra:	1|0|ROOT 2|1|PUNCT
+*OBS:	el papa , y que hacia ?
+%mor:	det:art|el&m&SG=the n|papa&m=pope cm|cm coord|y=and
+	pro:rel|que=that prep|hacia=towards ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|6|POBJ
+*OBS:	dormir ?
+%mor:	inf|dormi-INF=sleep ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	es va amagant de la camera
+*CHI:	0 .
+%act:	corre cap a la porta del salo
+*CHI:	ay , ay [= es dirigeix una altra vegada corrent cap a la taula] !
+%mor:	co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	ay , ay , ay [= corrent cap al altre canto del salo] !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*CHI:	&+pcf [% "noquo" , sense referent clar , mentre corre un altre cop cap a la taula] .
+*CHI:	&+pcf [% "i pon" , sense referent clar , corrent un altre cop pel salo] .
+*CHI:	&+pcf [% "i noquo" , sense referent clar , corrent] .
+@Comment:	e continua corrent pel salo , m entra al salo
+*PAR:	hola .
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	arriba corrent cap a m
+*CHI:	ay , ay , ay [= agafant'li la cama i amagant'se darrera de ella] !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*MAR:	mira quien viene por ahí , Edu [= tocant'li el mento] .
+%mor:	co|mira=look pro:rel|quien=who v|veni-3S&PRES=come prep|por=for
+	adv|ahí=there cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|4|POBJ 6|5|JCT 7|6|POBJ 8|1|PUNCT
+*CHI:	0 .
+%act:	s' amaga darrera la porta
+*PAR:	0 .
+%act:	entra al salo
+*PAR:	no me das un besito [= mirant darrera de la porta] ?
+%mor:	adv|no=no pro:obj|me=me v|da-2S&PRES=give det:art|un&m=one
+	n|beso-DIM-m=kiss ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	no le das un beso a tu padre ?
+%mor:	adv|no=no pro:ind|le=him v|da-2S&PRES=give det:art|un&m=one
+	n|beso&m aprep|a=to det:poss|tu=your n|padre&m=father ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|APREP 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	mama [= surt corrent cap el rebedor buscant m] .
+%mor:	v|mama-3S&PRES=suck .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	mira amagat darrera la porta del rebedor cap a on esta p
+*CHI:	0 [= mira m amb la ma a la boca] .
+*MAR:	ya se ha ido .
+%mor:	adv|ya=already pro:refl|se=itself v|habe-3S&PRES=have
+	part|i-PPART-m=go .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	eh [= mirant m] ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	se ha ido .
+%mor:	pro:refl|se=itself v|habe-3S&PRES=have part|i-PPART-m=go .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	al lavabo [% "a babo"] .
+%mor:	aprep|a~det:art|el&m n|lavabo&m=wash_stand .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MAR:	ah , al lavabo .
+%mor:	co|ah cm|cm aprep|a~det:art|el&m n|lavabo&m=wash_stand .
+%gra:	1|0|ROOT 2|1|REL 3|2|APREP 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MAR:	que esta haciendo en el lavabo ?
+%mor:	pro:rel|que=that imp|esta-2S&IMP=be ger|hace-PROG=do prep|en=in
+	det:art|el&m&SG=the n|lavabo&m=wash_stand ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*CHI:	0 .
+%act:	mira m i surt corrent cap al lavabo
+*CHI:	0 .
+%act:	intenta obrir la porta del lavabo
+*MAR:	oye , no abras ahora Edu .
+%mor:	co|oye=listen cm|cm adv|no=no v|abri-2S&SUB&PRES=open adv|ahora=now
+	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*MAR:	espera , cariño .
+%mor:	v|espera-3S&PRES=wait cm|cm co:voc|cariño=affection .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 [= mira per la porta que te entretancada] .
+*CHI:	ay , ay , ay [= surt corrent al rebedor] !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*CHI:	0 [= mira cap al lavabo] .
+*CHI:	0 .
+%act:	es dirigeix cap al lavabo
+@Comment:	quan e arriba a la porta , p surt del lavabo
+*CHI:	&+pcf [% "ou , pou" , sense referent clar , va corrent cap al rebedor] .
+*MAR:	que tonto se pone !
+%mor:	pro:rel|que=that adj|tonto-m=stupid pro:refl|se=itself
+	v|pone-3S&PRES=put !
+%gra:	1|4|SUBJ 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	0 .
+%act:	entra al rebedor i va cap al salo per l' altra porta
+*CHI:	&+pcf [% "deto tita" , sense referent clar , caminant cap al salo] .
+*CHI:	0 .
+%act:	comenca a correr pel pis
+@Comment:	m i o parlen
+*CHI:	0 .
+%act:	corrent , s' atura a prop la cortina
+*CHI:	0 .
+%act:	comenca a jugar amb la cortina
+*MAR:	no ahí no , Edu , que te haces daño .
+%mor:	adv|no=no adv|ahí=there adv|no=no cm|cm n:prop|Edu cm|cm
+	pro:rel|que=that pro:obj|te=you v|hace-2S&PRES=do
+	v|daña-1S&PRES=harm .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|MOD 7|6|REL 8|7|COMP
+	9|8|COMP 10|9|OBJ 11|3|PUNCT
+*OBS:	ay , ay , ay !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*MAR:	Edu .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*OBS:	que se va a ahorcar .
+%mor:	pro:rel|que=that pro:refl|se=itself v|i-3S&PRES=go aprep|a=to
+	inf|ahorca-INF=hang .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|INF 5|3|COMP 6|1|PUNCT
+*CHI:	0 .
+%act:	juga amb la cortina
+*MAR:	no , Edu así no , que te vas a hacer daño en la garganta [= dirigint'se cap e] .
+%mor:	adv|no=no cm|cm n:prop|Edu adv|así=thus adv|no=no cm|cm
+	pro:rel|que=that pro:obj|te=you v|i-2S&PRES=go aprep|a=to
+	inf|hace-INF=do v|daña-1S&PRES=harm prep|en=in pro:obj|la&f=she
+	n|garganta&f=throat .
+%gra:	1|2|JCT 2|0|ROOT 3|2|APP 4|6|JCT 5|6|JCT 6|2|COMP 7|6|REL 8|7|COMP
+	9|8|COMP 10|11|INF 11|9|COMP 12|11|OBJ 13|12|JCT 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+*MAR:	que te haces daño en la garganta .
+%mor:	pro:rel|que=that pro:obj|te=you v|hace-2S&PRES=do
+	v|daña-1S&PRES=harm prep|en=in pro:obj|la&f=she n|garganta&f=throat
+	.
+%gra:	1|3|SUBJ 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	lo rompo [% "dompo"] ?
+%mor:	pro:obj|lo&m=him v|rompe-1S&PRES=break ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	es gronxa en un macrame
+*CHI:	ay , ay [= es dirigeix corrent cap a la porta] !
+%mor:	co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	tanca la porta
+@Comment:	e entra en el salo
+*CHI:	ah , ah [= donant voltes pel terra] !
+%mor:	co|ah cm|cm co|ah !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	s' aixeca i es dirigeix cap a la porta del rebedor
+*CHI:	0 .
+%act:	s' atura i comenca a tocar quelcom en un moble
+*CHI:	0 [= mira la camera] .
+*CHI:	0 .
+%act:	es dirigeix una altra vegada al salo , on esta m
+*CHI:	0 .
+%act:	es dirigeix cap al fons del salo
+*CHI:	0 .
+%act:	agafa la cortina i l' intenta correr
+*MAR:	xxx , xxx , deja la cortina , Edu [% la primera xxx vol dir "chi"] .
+%mor:	cm|cm cm|cm v|deja-3S&PRES=leave pro:obj|la&f=she
+	adj|corto-f&AUG-m=short cm|cm n:prop|Edu .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|MOD 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	no [= intentant correr la cortina] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	corre la cortina
+*CHI:	silla pido [% "nilla pido" , retirant la cadira] .
+%mor:	n|silla&f=chair v|pedi-1S&PRES=request .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	arrossega la cadira fins deixar'la tirada a terra
+*MAR:	el bolso de la Magda , Edu .
+%mor:	det:art|el&m&SG=the n|bolso&m=money_bag prep|de=of pro:obj|la&f=she
+	n:prop|Magda cm|cm n:prop|Edu .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	0 .
+%act:	intenta retirar la cadira a on hi es la bossa
+*MAR:	xxx [% "xui" , apropant'se e] !
+*MAR:	no seas malo , eh , eso no se hace cariño .
+%mor:	adv|no=no cop|se-2S&SUB&PRES=be adj|malo-m=bad cm|cm co|eh cm|cm
+	pro:dem|eso=that_one adv|no=no pro:refl|se=itself v|hace-3S&PRES=do
+	co:voc|cariño=affection .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|COMP 5|4|COMP 6|5|PRED 7|6|JCT 8|9|JCT
+	9|7|POBJ 10|9|COMP 11|10|OBJ 12|2|PUNCT
+*CHI:	0 .
+%act:	riu , tirant la cadira a terra
+*CHI:	0 .
+%act:	mira la camera i surt corrent
+*CHI:	0 .
+%act:	s' apropa a la porta i la tanca donant una portada
+*MAR:	ay , ahora el papa !
+%mor:	co|ay=ay cm|cm adv|ahora=now det:art|el&m&SG=the n|papa&m=pope !
+%gra:	1|0|ROOT 2|5|DET 3|2|JCT 4|5|DET 5|1|OBJ 6|1|PUNCT
+*CHI:	0 .
+%act:	corre cap a la porta del salo
+*MAR:	xxx , xxx , no esa no Edu , esa no [% les xxx volen dir "xui"] .
+%mor:	cm|cm cm|cm adv|no=no det:dem|ese-f=that adv|no=no n:prop|Edu cm|cm
+	det:dem|ese-f=that adv|no=no .
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|3|JCT 5|6|JCT 6|4|POBJ 7|6|MOD 8|9|DET
+	9|7|JCT 10|1|PUNCT
+*CHI:	0 .
+%act:	tanca la porta donant una portada
+*CHI:	0 .
+%act:	es dirigeix al tamboret i agafa el paper i el bolígraf que hi ha a sobre
+*MAR:	hale , relajate .
+%mor:	co|hale=lets_go cm|cm imp|relaja-2S&IMP~pro:clit|2S .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|1|PUNCT
+*CHI:	0 .
+%act:	agafa el boligraf i ratlla el terra
+*CHI:	0 .
+%act:	mira m i continua ratllant
+%com:	se li escapa el boligraf
+*CHI:	0 .
+%act:	es gira per agafar el boligraf i seu a terra
+*CHI:	0 .
+%act:	se li escapa un altre cop el boligraf
+*CHI:	boli [/?] tonto [% "butonta" , mirant m] .
+%mor:	adj|tonto-m=stupid .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	agafa el boligraf amb la ma dreta i segueix ratllant el terra mentre mira m
+*MAR:	mira , aquí se dibuja mejor [= apropant'li un full] .
+%mor:	co|mira=look cm|cm adv|aquí=here pro:refl|se=itself
+	v|dibuja-3S&PRES=draw adj|mejor=better .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|4|PRED 6|5|MOD 7|1|PUNCT
+*MAR:	mira , esto que es Edu ?
+%mor:	co|mira=look cm|cm pro:dem|esto=this_one pro:rel|que=that
+	cop|se-3S&PRES=be n:prop|Edu ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|REL 5|4|CMOD 6|5|PRED 7|1|PUNCT
+*MAR:	no has hecho la boca [= asseñalant el paper] .
+%mor:	adv|no=no aux|habe-2S&PRES=have n|hecho&m=action pro:obj|la&f=she
+	n|boca&f=mouth .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MAR:	no le has hecho la boca .
+%mor:	adv|no=no pro:ind|le=him aux|habe-2S&PRES=have n|hecho&m=action
+	pro:obj|la&f=she n|boca&f=mouth .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|4|OBJ 7|2|PUNCT
+*MAR:	donde esta la boca ?
+%mor:	pro:rel|donde=where imp|esta-2S&IMP=be pro:obj|la&f=she
+	n|boca&f=mouth ?
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	s' apropa el paper amb el boligraf i fa una ratlla en el paper
+*MAR:	así !
+%mor:	adv|así=thus !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	ahora otra aquí [= asseñalant el paper] .
+%mor:	adv|ahora=now pro:indef|otro-f=other adv|aquí=here .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	a donde [% "ande"] ?
+%mor:	aprep|a=to pro:rel|donde=where ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	0 .
+%act:	dibuixa en el paper
+*CHI:	ay [% "oi" , aixeca el cap] !
+%mor:	co|ay=ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	comenca a ratllar el terra mirant m
+*MAR:	el papa viene Edu .
+%mor:	det:art|el&m&SG=the n|papa&m=pope v|veni-3S&PRES=come n:prop|Edu .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MAR:	mira ya esta aquí .
+%mor:	co|mira=look adv|ya=already imp|esta-2S&IMP=be adv|aquí=here .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|3|JCT 5|1|PUNCT
+@Comment:	se sent el soroll de una porta que s' obre
+*CHI:	ay [= es gira a mirar i surt a quatre grapes] !
+%mor:	co|ay=ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	que pasa Edu ?
+%mor:	pro:rel|que=that v|pasa-3S&PRES=pass n:prop|Edu ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|1|PUNCT
+*CHI:	ah [= traient'li la llengua a p] !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 [= mira e] .
+*PAR:	que haces ?
+%mor:	pro:rel|que=that v|hace-2S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 [= segueix amb la llengua fora] .
+*PAR:	eh [= ajupint'se al costat de e] ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	dibujando una muñeca .
+%mor:	ger|dibuja-PROG=draw det:art|un-f=one n|muñeco-f=doll .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	s' aparta
+*PAR:	ven aquí , dame un besito va [= obrint els bracos] .
+%mor:	imp|veni-2S&IMP=come adv|aquí=here cm|cm imp|da-2S&IMP~pro:clit|1S
+	det:art|un&m=one n|beso-DIM-m=kiss co|va=go .
+%gra:	1|0|ROOT 2|3|JCT 3|1|REL 4|3|CMOD 5|4|OBJ2 6|7|DET 7|4|OBJ 8|7|MOD
+	9|1|PUNCT
+*CHI:	no [= enf la lletra o , apartant'se] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hoy no me das un beso cariño ?
+%mor:	adv|hoy=today adv|no=no pro:obj|me=me v|da-2S&PRES=give
+	det:art|un&m=one n|beso&m=kiss co:voc|cariño=affection ?
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|MOD 8|4|PUNCT
+*CHI:	0 [= mira el paper ajupit] .
+*PAR:	a_ver que zapatos .
+%mor:	co|a_ver=see pro:rel|que=that n|zapato&m-PL=shoe .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*CHI:	0 .
+%act:	continua ajupit i aixeca un peu cap enrera , asseñalant la sabata
+*PAR:	anda , a_ver !
+%mor:	co|anda=come_on cm|cm co|a_ver=see !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	va aixecant i ajupint el peu
+*PAR:	ay , que zapatitos !
+%mor:	co|ay=ay cm|cm pro:rel|que=that n|zapato-DIM-m-PL=shoe !
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	a_ver , enséñaselos a papa .
+%mor:	co|a_ver=see cm|cm
+	imp|enseña-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&m&PL aprep|a=to
+	n|papa&m=pope .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|3|OBJ2 5|3|OBJ2 6|5|APREP 7|6|POBJ
+	8|1|PUNCT
+*PAR:	venga levanta .
+%mor:	co|venga=come_on v|levanta-3S&PRES=raise .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	ven [= movent la ma] .
+%mor:	co|ven=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	a_ver si son como los del papa .
+%mor:	co|a_ver=see conj|si=if cop|se-3P&PRES=be adv|como=like
+	pro:obj|él&m-PL=he prep|de~det:art|el&m n|papa&m=pope .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	a dibujo [% "a aico" , mentre dibuixa] .
+%mor:	aprep|a=to v|dibuja-1S&PRES=draw .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	que ?
+%mor:	pro:rel|que=that ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dibujo [% "cuco" , dibuixant] .
+%mor:	v|dibuja-1S&PRES=draw .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que esta dibujando .
+%mor:	pro:rel|que=that imp|esta-2S&IMP=be ger|dibuja-PROG=draw .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|CJCT 4|1|PUNCT
+*PAR:	vas a dibujar la muñeca ?
+%mor:	v|i-2S&PRES=go aprep|a=to inf|dibuja-INF=draw pro:obj|la&f=she
+	n|muñeco-f=doll ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	si [= dibuixant] .
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx [>] .
+*PAR:	<me das un> [<] beso o que ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give det:art|un&m=one n|beso&m=kiss
+	coord|o=or pro:rel|que=that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*CHI:	0 .
+%act:	segueix dibuixant
+*PAR:	me das un beso ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give det:art|un&m=one n|beso&m ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	di ?
+%mor:	imp|deci-2S&IMP=say ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	otro ojo [% "oto ojo" , dibuixa aixecant el peu] .
+%mor:	pro:indef|otro-m=other co|ojo .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*PAR:	oye ojo .
+%mor:	co|oye=listen co|ojo .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	0 .
+%act:	segueix dibuixant
+*PAR:	0 .
+%act:	s' ajup i s' apropa al costat de e
+*PAR:	un besito xxx .
+%mor:	det:art|un&m=one n|beso-DIM-m=kiss .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	ay , ay , ay [= rebolcant'se per terra] !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*PAR:	0 .
+%act:	l' agafa com si li fes pessigolles
+*CHI:	ay , ay !
+%mor:	co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	dame un besito , ven [= intentat agafar'lo] .
+%mor:	imp|da-2S&IMP~pro:clit|1S det:art|un&m=one n|beso-DIM-m=kiss cm|cm
+	co|ven=come .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	anda ven , dame un besito .
+%mor:	co|anda=come_on co|ven=come cm|cm imp|da-2S&IMP~pro:clit|1S
+	det:art|un&m=one n|beso-DIM-m=kiss .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|7|DET 5|4|OBJ2 6|7|DET 7|3|OBJ 8|1|PUNCT
+*CHI:	mama , mama , mano [= tirat a terra i mirant m] .
+%mor:	v|mama-3S&PRES=suck cm|cm v|mama-3S&PRES=suck cm|cm n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	mano [= aixecant la ma i mirant'la] .
+%mor:	n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	la mano ?
+%mor:	pro:obj|la&f=she n|mano&f=hand ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	mama mano [= aixecant la ma] .
+%mor:	n|mama&f=mamma n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAR:	dale un besito a tu papa .
+%mor:	imp|da-2S&IMP~pro:clit|3S det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to det:poss|tu=your n|papa&m=pope .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|APREP 6|7|DET 7|5|POBJ 8|1|PUNCT
+*CHI:	mano , ah , ah !
+%mor:	n|mano&f=hand cm|cm co|ah cm|cm co|ah !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	mano , mano [= s' intenta apartar] .
+%mor:	n|mano&f=hand cm|cm n|mano&f=hand .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	0 .
+%act:	l' agafa per una cama
+*PAR:	dame un besito .
+%mor:	imp|da-2S&IMP~pro:clit|1S det:art|un&m=one n|beso-DIM-m=kiss .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	a mano , a mano [% "a mano , a mano"] .
+%mor:	aprep|a=to n|mano&f=hand cm|cm aprep|a=to n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|3|APREP 5|4|POBJ 6|1|PUNCT
+*MAR:	0 .
+%act:	s' apropa cap p i e
+*CHI:	0 [=! riu] .
+*MAR:	0 .
+%act:	intenta aixecar e del terra
+*MAR:	venga dale un besito a papa , corre .
+%mor:	co|venga=come_on imp|da-2S&IMP~pro:clit|3S det:art|un&m=one
+	n|beso-DIM-m=kiss aprep|a=to n|papa&m=pope cm|cm v|corre-3S&PRES=run
+	.
+%gra:	1|9|SUBJ 2|9|SUBJ 3|2|OBJ2 4|5|DET 5|9|SUBJ 6|5|APREP 7|6|POBJ 8|7|MOD
+	9|0|ROOT 10|9|PUNCT
+*CHI:	no [= deixant'se caure] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que tonto estas hoy , eh !
+%mor:	pro:rel|que=that adj|tonto-m=stupid det:dem|este-f-PL=this
+	adv|hoy=today cm|cm co|eh !
+%gra:	1|0|REL 2|5|MOD 3|5|DET 4|5|JCT 5|1|CMOD 6|5|ROOT 7|6|PUNCT
+*CHI:	no , no .
+%mor:	adv|no=no cm|cm adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MAR:	que no le quieres dar un beso , eh ?
+%mor:	pro:rel|que=that adv|no=no pro:ind|le=him v|quere-2S&PRES=want
+	inf|da-INF=give det:art|un&m=one n|beso&m cm|cm co|eh ?
+%gra:	1|0|ROOT 2|3|JCT 3|4|SUBJ 4|1|CMOD 5|4|COMP 6|7|DET 7|5|OBJ 8|7|MOD
+	9|5|OBJ 10|1|PUNCT
+*CHI:	0 .
+%act:	s' aixeca i s' alluña
+*PAR:	si que me lo da .
+%mor:	conj|si=if pro:rel|que=that pro:obj|me=me pro:obj|lo&m=him
+	v|da-3S&PRES=give .
+%gra:	1|0|ROOT 2|1|REL 3|5|SUBJ 4|5|OBJ 5|2|CMOD 6|1|PUNCT
+*CHI:	0 .
+%act:	seu a terra amb el paper i el boligraf
+*PAR:	venga va que me voy .
+%mor:	co|venga=come_on co|va=go pro:rel|que=that pro:obj|me=me
+	v|i-1S&PRES=go .
+%gra:	1|0|ROOT 2|1|PUNCT 3|2|REL 4|5|SUBJ 5|3|ROOT 6|5|PUNCT
+*PAR:	Edu que me voy cariño .
+%mor:	n:prop|Edu pro:rel|que=that pro:obj|me=me v|i-1S&PRES=go
+	co:voc|cariño=affection .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|4|OBJ 6|1|PUNCT
+*CHI:	no [= enf la lletra o , agafant el paper de terra] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no me voy ?
+%mor:	adv|no=no pro:obj|me=me v|i-1S&PRES=go ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	hm: [= jugant amb el boligraf i el paper] !
+%mor:	co|hm !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	eh ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	me voy o que ?
+%mor:	pro:obj|me=me v|i-1S&PRES=go coord|o=or pro:rel|que=that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	di ?
+%mor:	imp|deci-2S&IMP=say ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	ratlla el terra
+*PAR:	0 .
+%act:	s' apropa cap e
+*CHI:	ay , ay , ah [= apartant'se] !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ah !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*CHI:	ay , ay , ay [= inclinat a terra] !
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*PAR:	venga dame un besito , no ?
+%mor:	co|venga=come_on imp|da-2S&IMP~pro:clit|1S det:art|un&m=one
+	n|beso-DIM-m=kiss cm|cm adv|no=no ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ2 4|5|DET 5|2|OBJ 6|5|MOD 7|6|JCT 8|1|PUNCT
+*PAR:	eh ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	me das un besito o que ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give det:art|un&m=one n|beso-DIM-m=kiss
+	coord|o=or pro:rel|que=that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*CHI:	0 .
+%act:	segueix ajupit i pintant
+*PAR:	di ?
+%mor:	imp|deci-2S&IMP=say ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no [= mentre pinta] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no [= pintant] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	pues me voy .
+%mor:	co|pues=well pro:obj|me=me v|i-1S&PRES=go .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	me voy , eh ?
+%mor:	pro:obj|me=me v|i-1S&PRES=go cm|cm co|eh ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|3|PRED 5|1|PUNCT
+*PAR:	me voy o que [= donant'li un cop al cul] ?
+%mor:	pro:obj|me=me v|i-1S&PRES=go coord|o=or pro:rel|que=that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*CHI:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	di [= donant'li en el cul] ?
+%mor:	imp|deci-2S&IMP=say ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ven , ven dame un besito , ven .
+%mor:	co|ven=come cm|cm co|ven=come imp|da-2S&IMP~pro:clit|1S
+	det:art|un&m=one n|beso-DIM-m=kiss cm|cm co|ven=come .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|CMOD 5|4|OBJ2 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|5|POBJ 10|1|PUNCT
+*PAR:	0 .
+%act:	agafa e als bracos , aixecant'lo
+*PAR:	hale , dame un besito .
+%mor:	co|hale=lets_go cm|cm imp|da-2S&IMP~pro:clit|1S det:art|un&m=one
+	n|beso-DIM-m=kiss .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|OBJ2 5|6|DET 6|3|OBJ 7|1|PUNCT
+*CHI:	ah , ah !
+%mor:	co|ah cm|cm co|ah !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	mira la Magda .
+%mor:	co|mira=look pro:obj|la&f=she n:prop|Magda .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	la Magda te va a hacer una foto dándole un besito a papa , venga .
+%mor:	pro:obj|la&f=she n:prop|Magda pro:obj|te=you v|i-3S&PRES=go
+	aprep|a=to inf|hace-INF=do det:art|un-f=one n|foto&m=photo
+	ger|da-PROG~pro:clit|3S det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to n|papa&m=pope cm|cm co|venga=come_on .
+%gra:	1|0|ROOT 2|1|APP 3|1|COMP 4|3|COMP 5|4|COMP 6|5|COMP 7|8|DET 8|6|OBJ
+	9|8|COMP 10|9|OBJ2 11|12|DET 12|9|OBJ 13|12|APREP 14|13|POBJ 15|14|MOD
+	16|12|MOD 17|1|PUNCT
+*PAR:	dando un besito a tu padre [= intenta incorporar e] .
+%mor:	ger|da-PROG=give det:art|un&m=one n|beso-DIM-m=kiss aprep|a=to
+	det:poss|tu=your n|padre&m=father .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|APREP 5|6|DET 6|4|POBJ 7|1|PUNCT
+*CHI:	0 .
+%act:	es deixa caure
+*CHI:	0 [= mira cap m] .
+*CHI:	mama , mama [= allargant les mans cap m i regirant'se] .
+%mor:	v|mama-3S&PRES=suck cm|cm v|mama-3S&PRES=suck .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	mama mano [= allargant les mans cap m] .
+%mor:	n|mama&f=mamma n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAR:	0 .
+%act:	apropa la cara per donar un peto e
+*CHI:	mama mano .
+%mor:	n|mama&f=mamma n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAR:	0 .
+%act:	li dona un peto
+*CHI:	0 .
+%act:	pega p en el cap amb el boligraf
+*CHI:	0 [= mira de reull p] .
+*PAR:	uh !
+%mor:	co|uh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	0 .
+%act:	segueix donant petons e
+*CHI:	0 .
+%act:	pega p
+*PAR:	eso le haces al papa , eh [= agafant'li la cara] ?
+%mor:	pro:dem|eso=that_one pro:ind|le=him v|hace-2S&PRES=do
+	aprep|a~det:art|el&m n|papa&m=pope cm|cm co|eh ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|APREP 5|6|DET 6|4|POBJ 7|6|MOD 8|3|OBJ
+	9|3|PUNCT
+*CHI:	0 [= fa si amb el cap] .
+*PAR:	si , estas enfadado [= agafant'li la cara] ?
+%mor:	conj|si=if cm|cm det:dem|este-f-PL=this adj|enfadado-m=anger ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	estas enfadado , verdad ?
+%mor:	det:dem|este-f-PL=this adj|enfadado-m=anger cm|cm co|verdad=right ?
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*CHI:	0 [= mira el boligraf que te a la ma] .
+*PAR:	a que si .
+%mor:	aprep|a=to pro:rel|que=that conj|si=if .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*PAR:	0 .
+%act:	dona un peto a e
+*PAR:	dame un besito [= posant la cara] .
+%mor:	imp|da-2S&IMP~pro:clit|1S det:art|un&m=one n|beso-DIM-m=kiss .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|2|OBJ 5|1|PUNCT
+*MAR:	no dices que te duele la mano , Edu ?
+%mor:	adv|no=no v|deci-2S&PRES=say pro:rel|que=that pro:obj|te=you
+	v|dole-3S&PRES=hurt pro:obj|la&f=she n|mano&f=hand cm|cm n:prop|Edu
+	?
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|5|SUBJ 5|3|CMOD 6|7|DET 7|5|OBJ 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*MAR:	que tienes daño ?
+%mor:	pro:rel|que=that v|tene-2S&PRES=have v|daña-1S&PRES=harm ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|1|PUNCT
+*PAR:	tienes daño en la manita ?
+%mor:	v|tene-2S&PRES=have v|daña-1S&PRES=harm prep|en=in pro:obj|la&f=she
+	n|mano-DIM-f=hand ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	0 .
+%act:	es mira la ma i comenca a ratllar'se'la
+*PAR:	uy , no te pintes que te ensucias .
+%mor:	co|uy cm|cm adv|no=no pro:obj|te=you v|pinta-2S&SUB&PRES=paint
+	pro:rel|que=that pro:obj|te=you v|ensucia-2S&PRES=dirty .
+%gra:	1|5|SUBJ 2|1|JCT 3|4|JCT 4|2|POBJ 5|0|ROOT 6|5|REL 7|8|SUBJ 8|6|ROOT
+	9|8|PUNCT
+*PAR:	venga , dame un besito .
+%mor:	co|venga=come_on cm|cm imp|da-2S&IMP~pro:clit|1S det:art|un&m=one
+	n|beso-DIM-m=kiss .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|OBJ2 5|6|DET 6|3|OBJ 7|1|PUNCT
+*CHI:	0 .
+%act:	seu a terra i agafa el paper
+*PAR:	no hay manera , cuando dice que no es que no .
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have n|manera&f=manner cm|cm
+	pro:rel|cuando=when v|deci-3S&PRES=say pro:rel|que=that adv|no=no
+	cop|se-3S&PRES=be pro:rel|que=that adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|MOD 5|3|REL 6|5|CMOD 7|6|REL 8|9|MOD
+	9|7|COMP 10|9|REL 11|10|CMOD 12|2|PUNCT
+*CHI:	tu tonta [= mirant cap amunt] .
+%mor:	det:poss|tu=your adj|tonto-f=stupid .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAR:	quien es tonta ?
+%mor:	pro:rel|quien=who cop|se-3S&PRES=be adj|tonto-f=stupid ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|PRED 4|1|PUNCT
+*CHI:	tu [= mirant p i escrivint] .
+%mor:	det:poss|tu=your .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ya no vas a venir conmigo mas al coche .
+%mor:	adv|ya=already adv|no=no v|i-2S&PRES=go aprep|a=to
+	inf|veni-INF=come adv|conmigo=with_me conj|mas=moreover
+	aprep|a~det:art|el&m co|coche .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|7|JCT 7|5|OBJ 8|7|APREP
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*CHI:	&+pcf [% sona com "ii"] .
+*PAR:	anda , vete por ahí .
+%mor:	co|anda=come_on cm|cm imp|i-2S&IMP~pro:clit|2S prep|por=for
+	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|3|JCT 6|5|POBJ 7|1|PUNCT
+*CHI:	rompo [= arrugant el paper] .
+%mor:	v|rompe-1S&PRES=break .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	no le digas eso que se cabrea .
+%mor:	adv|no=no pro:ind|le=him v|deci-2S&SUB&PRES=say
+	pro:dem|eso=that_one pro:rel|que=that pro:refl|se=itself
+	v|cabrea-3S&PRES=annoy .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|REL 6|7|OBJ 7|5|ROOT 8|7|PUNCT
+*CHI:	rompo [= segueix arrugant el paper] .
+%mor:	v|rompe-1S&PRES=break .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	no , no lo rompas cariño , no .
+%mor:	adv|no=no cm|cm adv|no=no pro:obj|lo&m=him
+	v|rompe-2S&SUB&PRES=break co:voc|cariño=affection cm|cm adv|no=no .
+%gra:	1|2|JCT 2|5|SUBJ 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|5|PUNCT
+*PAR:	tu lo quieres ver cabreado ?
+%mor:	det:poss|tu=your pro:obj|lo&m=him v|quere-2S&PRES=want
+	inf|ve-INF=see part|cabrea-PPART-m=annoy ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|3|PUNCT
+*PAR:	lo quieres ver cabreado ?
+%mor:	pro:obj|lo&m=him v|quere-2S&PRES=want inf|ve-INF=see
+	part|cabrea-PPART-m=annoy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ 5|2|PUNCT
+*OBS:	tu mismo .
+%mor:	det:poss|tu=your adj|mismo-m=same .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAR:	oye , xxx , eh [% "oye , txo , eh"] ?
+%mor:	co|oye=listen cm|cm cm|cm co|eh ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	0 [= mira p] .
+*PAR:	yo no te quiero ya , eh !
+%mor:	pro:sub|yo=I adv|no=no pro:obj|te=you v|quere-1S&PRES=want
+	adv|ya=already cm|cm co|eh !
+%gra:	1|4|SUBJ 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PUNCT 7|6|ROOT 8|7|PUNCT
+*PAR:	lo sabes ?
+%mor:	pro:obj|lo&m=him v|sabe-2S&PRES=know ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	ajup el cap i continua arrugant el paper
+*PAR:	te vas por ahí , chaval .
+%mor:	pro:obj|te=you v|i-2S&PRES=go prep|por=for adv|ahí=there cm|cm
+	n|chaval&m=lad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|MOD 5|6|DET 6|3|POBJ 7|2|PUNCT
+*PAR:	venga hombre , quiero a la tata@c .
+%mor:	co|venga=come_on co|hombre cm|cm v|quere-1S&PRES=want aprep|a=to
+	pro:obj|la&f=she chi|tata .
+%gra:	1|0|ROOT 2|1|PUNCT 3|2|SCON 4|3|CMOD 5|4|APREP 6|5|POBJ 7|4|ROOT
+	8|7|PUNCT
+*CHI:	0 .
+%act:	s' aixeca , deixa el paper a terra
+*CHI:	0 .
+%act:	va corrent cap a un moble , se sent un soroll com si li dongues cops
+*PAR:	uy , oye , oye [= cridant] !
+%mor:	co|uy cm|cm co|oye=listen cm|cm co|oye=listen !
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*MAR:	Edu .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	s' atura al costat del moble , mirant p
+*MAR:	si que te quiere cariño , si , que si .
+%mor:	conj|si=if pro:rel|que=that pro:obj|te=you v|quere-3S&PRES=want
+	co:voc|cariño=affection cm|cm conj|si=if cm|cm pro:rel|que=that
+	conj|si=if .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|COMP 5|4|OBJ 6|5|REL 7|6|CMOD 8|7|SCL
+	9|8|REL 10|9|CMOD 11|1|PUNCT
+*CHI:	0 .
+%act:	es tira a terra i comenca a pernejar
+*PAR:	nada .
+%mor:	pro:indef|nada=nothing .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	venga hombre .
+%mor:	co|venga=come_on co|hombre .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*PAR:	no lo quiero ni ver .
+%mor:	adv|no=no pro:obj|lo&m=him v|quere-1S&PRES=want coord|ni=nor
+	inf|ve-INF=see .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*CHI:	0 .
+%act:	segueix pernejant a terra , enutjat
+@Comment:	hi ha un silenci , ningu diu ni fa res
+*PAR:	y me voy .
+%mor:	coord|y=and pro:obj|me=me v|i-1S&PRES=go .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|PUNCT
+*PAR:	feo .
+%mor:	adj|feo-m=ugly .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	venga dame un besito , si quieres que te quiera .
+%mor:	co|venga=come_on imp|da-2S&IMP~pro:clit|1S det:art|un&m=one
+	n|beso-DIM-m=kiss cm|cm conj|si=if v|quere-2S&PRES=want
+	pro:rel|que=that pro:obj|te=you v|quere-13S&SUB&PRES=want .
+%gra:	1|0|ROOT 2|1|PUNCT 3|2|OBJ2 4|5|DET 5|2|SUBJ 6|5|MOD 7|5|MOD 8|7|CMOD
+	9|8|REL 10|11|SUBJ 11|9|ROOT 12|11|PUNCT
+*CHI:	no [= esta a terra i es refrega els ulls] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	venga que yo quiero al niño , ven .
+%mor:	co|venga=come_on pro:rel|que=that pro:sub|yo=I v|quere-1S&PRES=want
+	aprep|a~det:art|el&m co:voc|niño=child cm|cm co|ven=come .
+%gra:	1|0|ROOT 2|1|REL 3|4|OBJ 4|1|PUNCT 5|4|APREP 6|7|DET 7|5|POBJ 8|7|APP
+	9|8|ROOT 10|9|PUNCT
+*PAR:	tu deja al niño tranquilo , eh .
+%mor:	det:poss|tu=your imp|deja-2S&IMP=leave aprep|a~det:art|el&m
+	n|niño-m=child adj|tranquilo-m=calm cm|cm co|eh .
+%gra:	1|0|ROOT 2|1|COMP 3|2|APREP 4|5|DET 5|8|SUBJ 6|5|MOD 7|8|AUX 8|3|POBJ
+	9|1|PUNCT
+*PAR:	ven aquí cariño ven .
+%mor:	imp|veni-2S&IMP=come adv|aquí=here co:voc|cariño=affection
+	co|ven=come .
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	dale un besito a tu papa [= apropant'se e] .
+%mor:	imp|da-2S&IMP~pro:clit|3S det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to det:poss|tu=your n|papa&m=pope .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|APREP 6|7|DET 7|5|POBJ 8|1|PUNCT
+*CHI:	0 .
+%act:	continua tirat a terra
+*PAR:	pobrecito mi niño hombre [= agafant'lo en bracos] .
+%mor:	adj|pobre-DIM-m=poor det:poss|mi=my co:voc|niño=child co|hombre .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	pobrecito el , hombre [= enxovant'lo a la seva falda] .
+%mor:	adj|pobre-DIM-m=poor det:art|el&m&SG=the cm|cm co|hombre .
+%gra:	1|4|MOD 2|3|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	xxx verdad [= mirant e] ?
+%mor:	co|verdad=right ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ya no te enfadas , a que no , eh ?
+%mor:	adv|ya=already adv|no=no pro:obj|te=you v|enfada-2S&PRES=anger
+	cm|cm aprep|a=to pro:rel|que=that adv|no=no cm|cm co|eh ?
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT 6|5|APREP 7|6|REL 8|9|JCT
+	9|7|CMOD 10|9|ROOT 11|10|PUNCT
+*CHI:	0 [= mira p i es refrega els ulls] .
+*PAR:	a que no te enfadas ya ?
+%mor:	aprep|a=to pro:rel|que=that adv|no=no pro:obj|te=you
+	v|enfada-2S&PRES=anger adv|ya=already ?
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|5|SUBJ 5|2|CMOD 6|5|JCT 7|1|PUNCT
+@Comment:	e i p segueixen mirantse
+*PAR:	dame un besito venga , va .
+%mor:	imp|da-2S&IMP~pro:clit|1S det:art|un&m=one n|beso-DIM-m=kiss
+	co|venga=come_on cm|cm co|va=go .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|MOD 6|5|JCT 7|6|POBJ 8|1|PUNCT
+*PAR:	0 .
+%act:	li dona un peto a e
+*PAR:	venga dame un besito tu [= retirant la ma de e dels ulls] .
+%mor:	co|venga=come_on imp|da-2S&IMP~pro:clit|1S det:art|un&m=one
+	n|beso-DIM-m=kiss det:poss|tu=your .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ2 4|5|DET 5|2|OBJ 6|5|MOD 7|1|PUNCT
+*CHI:	0 .
+%act:	ajup el cap
+*PAR:	un besito y un abrazo venga .
+%mor:	det:art|un&m=one n|beso-DIM-m=kiss coord|y=and det:art|un&m=one
+	v|abraza-1S&PRES=embrace co|venga=come_on .
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|5|PRED 7|2|PUNCT
+*CHI:	0 .
+%act:	s' ajup , recolzant'se a la espatlla de p
+*PAR:	venga un abracito a tu papa , venga .
+%mor:	co|venga=come_on det:art|un&m=one n|abrazo-DIM-m=embrace aprep|a=to
+	det:poss|tu=your n|papa&m=pope cm|cm co|venga=come_on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|APREP 5|6|DET 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*PAR:	venga un abrazo , no !
+%mor:	co|venga=come_on det:art|un&m=one v|abraza-1S&PRES=embrace cm|cm
+	adv|no=no !
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	venga ya no te digo mas nada , va .
+%mor:	v|venga-3S&PRES=avenge adv|ya=already adv|no=no pro:obj|te=you
+	v|deci-1S&PRES=say conj|mas=moreover v|nada-3S&PRES=swim cm|cm
+	co|va=go .
+%gra:	1|5|SUBJ 2|3|JCT 3|4|JCT 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|SCL 8|7|JCT
+	9|8|ROOT 10|9|PUNCT
+*PAR:	0 .
+%act:	li acarona el cap
+*PAR:	hale , ya no esta enfadado el papa .
+%mor:	co|hale=lets_go cm|cm adv|ya=already adv|no=no imp|esta-2S&IMP=be
+	adj|enfadado-m=anger det:art|el&m&SG=the n|papa&m=pope .
+%gra:	1|0|ROOT 2|1|COMP 3|4|JCT 4|8|JCT 5|8|DET 6|8|MOD 7|8|DET 8|2|OBJ
+	9|1|PUNCT
+*PAR:	ya te quiere , vale ?
+%mor:	adv|ya=already pro:obj|te=you v|quere-3S&PRES=want cm|cm
+	co|vale=okay ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	eh , me das un besito [= aixecant'lo per mirar'li la cara] ?
+%mor:	co|eh cm|cm pro:obj|me=me v|da-2S&PRES=give det:art|un&m=one
+	n|beso-DIM-m=kiss ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|2|PUNCT
+*PAR:	un besito a tu papa .
+%mor:	det:art|un&m=one n|beso-DIM-m=kiss aprep|a=to det:poss|tu=your
+	n|papa&m=pope .
+%gra:	1|2|DET 2|0|ROOT 3|2|APREP 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	0 .
+%act:	ajup el cap , enxovant'se
+*PAR:	un besito [= tocant'li la cara] ?
+%mor:	det:art|un&m=one n|beso-DIM-m=kiss ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	venga va , que te quiero mas que la tata@c , eh !
+%mor:	co|venga=come_on co|va=go cm|cm pro:rel|que=that pro:obj|te=you
+	v|quere-1S&PRES=want conj|mas=moreover pro:rel|que=that
+	pro:obj|la&f=she chi|tata cm|cm co|eh !
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|REL 5|4|COMP 6|5|COMP 7|6|OBJ 8|7|REL
+	9|8|CMOD 10|9|JCT 11|12|MOD 12|10|POBJ 13|1|PUNCT
+*PAR:	vale [= donant'li un peto] ?
+%mor:	co|vale=okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	me das un besito ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give det:art|un&m=one n|beso-DIM-m=kiss
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	venga dame un besito [= posant la cara] .
+%mor:	co|venga=come_on imp|da-2S&IMP~pro:clit|1S det:art|un&m=one
+	n|beso-DIM-m=kiss .
+%gra:	1|0|ROOT 2|5|DET 3|2|OBJ2 4|5|DET 5|1|OBJ 6|1|PUNCT
+*CHI:	no [= mirant cap a baix] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ya no xxx , ya no esta enfadado el papa [= mirant e] .
+%mor:	adv|ya=already adv|no=no cm|cm adv|ya=already adv|no=no
+	imp|esta-2S&IMP=be adj|enfadado-m=anger det:art|el&m&SG=the
+	n|papa&m=pope .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|5|JCT 5|9|JCT 6|9|DET 7|9|MOD 8|9|DET
+	9|3|OBJ 10|3|PUNCT
+*CHI:	0 [= amb el cap ajupit] .
+*PAR:	ya te ha dicho papa que te quiere , no [= acaricia el cap de e] ?
+%mor:	adv|ya=already pro:obj|te=you aux|habe-3S&PRES=have
+	part|deci-PPART-m=say n|papa&m=pope pro:rel|que=that pro:obj|te=you
+	v|quere-3S&PRES=want cm|cm adv|no=no ?
+%gra:	1|2|JCT 2|0|ROOT 3|5|AUX 4|5|DET 5|2|OBJ 6|5|REL 7|6|CMOD 8|7|COMP
+	9|8|OBJ 10|9|JCT 11|2|PUNCT
+@Comment:	m i o riuen
+*PAR:	que mala leche tienes , eh gacho@c ?
+%mor:	pro:rel|que=that adj|malo-f=bad n|leche&f=milk v|tene-2S&PRES=have
+	cm|cm co|eh chi|gacho ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|CMOD 4|3|MOD 5|4|JCT 6|7|MOD 7|5|POBJ 8|1|PUNCT
+*PAR:	lo rompes todo , eh [= tocant'li la cara] ?
+%mor:	pro:obj|lo&m=him v|rompe-2S&PRES=break pro:indef|todo-m=all cm|cm
+	co|eh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*CHI:	0 .
+%act:	colpeja amb les dues mans la cara de p
+*PAR:	ay !
+%mor:	co|ay=ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 .
+%act:	s' apropa somrient a on estan p i e
+*MAR:	0 [= mira a p i e] .
+*CHI:	0 .
+%act:	colpeja un altre cop la cara de p
+*PAR:	xxx no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	0 .
+%act:	da un beso a e
+*CHI:	0 .
+%act:	es queixa i continua pegant p
+*PAR:	este niño , Ramoncín .
+%mor:	det:dem|este=this co:voc|niño=child cm|cm n:prop|Ramoncín .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	continua pegant a p i cada vegada mes fort
+*MAR:	ya , tss@c [= agafant la ma de e] !
+%mor:	adv|ya=already cm|cm chi|tss !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	0 .
+%act:	li dona un bolet a p
+*PAR:	0 .
+%act:	dona un cop de cap a e
+*PAR:	toma .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 [=! riu] .
+*CHI:	0 .
+%act:	segueix donant bolets a p
+*MAR:	0 .
+%act:	agafa e
+*MAR:	al suelo [= baixant'lo dels seus bracos] .
+%mor:	aprep|a~det:art|el&m n|suelo&m=floor .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	no [= pegant m] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no , dejalo , dejalo tranquilo .
+%mor:	adv|no=no cm|cm imp|deja-2S&IMP~pro:clit|OBJ&m cm|cm
+	imp|deja-2S&IMP~pro:clit|OBJ&m adj|tranquilo-m=calm .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|OBJ2 5|4|COMP 6|5|COMP 7|6|OBJ2 8|7|MOD
+	9|2|PUNCT
+*PAR:	si esta jugando conmigo .
+%mor:	conj|si=if imp|esta-2S&IMP=be ger|juga-PROG=play
+	adv|conmigo=with_me .
+%gra:	1|0|ROOT 2|1|SCL 3|2|CJCT 4|3|JCT 5|1|PUNCT
+*CHI:	0 .
+%act:	perneja per que m l' agafi en bracos
+*MAR:	no , conmigo , conmigo [= agafant'lo en bracos] .
+%mor:	adv|no=no cm|cm adv|conmigo=with_me cm|cm adv|conmigo=with_me .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|POBJ 5|4|JCT 6|2|PUNCT
+*PAR:	madre mía de mi vida , oye esto es demasiado .
+%mor:	n|madre&f=mother pro:poss|mío-f=mine prep|de=of det:poss|mi=my
+	co:voc|vida=life cm|cm co|oye=listen pro:dem|esto=this_one
+	cop|se-3S&PRES=be adj|demasiado-m=excessive .
+%gra:	1|0|ROOT 2|1|MOD 3|1|JCT 4|3|POBJ 5|4|JCT 6|7|JCT 7|5|POBJ 8|7|JCT
+	9|8|POBJ 10|9|PRED 11|1|PUNCT
+@Comment:	m i e es miren
+*MAR:	no le das un beso al papa , hoy ?
+%mor:	adv|no=no pro:ind|le=him v|da-2S&PRES=give det:art|un&m=one
+	n|beso&m=kiss aprep|a~det:art|el&m n|papa&m=pope cm|cm adv|hoy=today
+	?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|APREP 7|8|DET 8|6|POBJ
+	9|8|MOD 10|9|JCT 11|3|PUNCT
+*CHI:	0 [= amb el cap ajupit diu que no amb el cap] .
+*PAR:	nada , no xxx .
+%mor:	pro:indef|nada=nothing cm|cm adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	no se lo quieres dar , por que ?
+%mor:	adv|no=no pro:refl|se=itself pro:obj|lo&m=him v|quere-2S&PRES=want
+	inf|da-INF=give cm|cm prep|por=for pro:rel|que=that ?
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|COMP 6|5|OBJ 7|6|JCT 8|7|REL
+	9|4|PUNCT
+*CHI:	0 [= mira p] .
+*PAR:	porque no me quiere .
+%mor:	conj|porque=because adv|no=no pro:obj|me=me v|quere-3S&PRES=want .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	dice que esta enfadado con el papa y ya esta .
+%mor:	v|deci-3S&PRES=say pro:rel|que=that imp|esta-2S&IMP=be
+	adj|enfadado-m=anger prep|con=with det:art|el&m&SG=the n|papa&m=pope
+	coord|y=and adv|ya=already imp|esta-2S&IMP=be .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|MOD 5|3|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|10|JCT 10|8|COORD 11|1|PUNCT
+*PAR:	estas enfadado con el papa [= apropant'se a e] ?
+%mor:	det:dem|este-f-PL=this adj|enfadado-m=anger prep|con=with
+	det:art|el&m&SG=the n|papa&m=pope ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	0 [= ajup el cap] .
+*PAR:	0 .
+%act:	li toca la cara a e
+*PAR:	que guapo , ay [= tocant'li les galtes] !
+%mor:	pro:rel|que=that adj|guapo-m=handsome cm|cm co|ay=ay !
+%gra:	1|0|ROOT 2|3|MOD 3|1|CMOD 4|3|OBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	li dona un cop de puñ a la cara a m
+*MAR:	0 [= riu , agafant'li la ma] .
+*PAR:	ey@c , a la mama también .
+%mor:	chi|ey cm|cm aprep|a=to pro:obj|la&f=she v|mama-3S&PRES=suck
+	adv|también=also .
+%gra:	1|0|ROOT 2|1|REL 3|2|APREP 4|5|JCT 5|3|POBJ 6|5|JCT 7|1|PUNCT
+*MAR:	mira se va el papa , dile adiós .
+%mor:	co|mira=look pro:refl|se=itself v|i-3S&PRES=go det:art|el&m&SG=the
+	n|papa&m=pope cm|cm imp|deci-2S&IMP~pro:clit|3S co|adiós=goodbye .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|5|MOD 7|6|CMOD 8|7|OBJ2
+	9|7|ROOT 10|9|PUNCT
+*MAR:	dile adiós .
+%mor:	imp|deci-2S&IMP~pro:clit|3S co|adiós=goodbye .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ2 4|1|PUNCT
+*CHI:	0 .
+%act:	torna a ajupir el cap
+*PAR:	un besito [= apropant'se a e] .
+%mor:	det:art|un&m=one n|beso-DIM-m=kiss .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	no [= girant la cara i enxovant'se en m] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 .
+%act:	abraca e
+*MAR:	pobrecito [= acaricia la esquena de e] .
+%mor:	co:voc|pobrecito=poor_thing .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	le doy un besito a la mama , Edu ?
+%mor:	pro:ind|le=him v|da-1S&PRES=give det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to pro:obj|la&f=she v|mama-3S&PRES=suck cm|cm n:prop|Edu ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|APREP 6|5|POBJ 7|2|OBJ 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	le doy un besito a la mama yo , di ?
+%mor:	pro:ind|le=him v|da-1S&PRES=give det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to pro:obj|la&f=she v|mama-3S&PRES=suck pro:sub|yo=I cm|cm
+	imp|deci-2S&IMP=say ?
+%gra:	1|2|JCT 2|7|SUBJ 3|4|DET 4|2|OBJ 5|4|APREP 6|5|POBJ 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|7|PUNCT
+*CHI:	0 .
+%act:	aixeca el cap i el torna a ajupir
+*PAR:	uy , como esta !
+%mor:	co|uy cm|cm adv|como=like imp|esta-2S&IMP=be !
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*MAR:	0 .
+%act:	intenta separar'lo de ella
+*CHI:	hm: [= enxovant'se mes encara] !
+%mor:	co|hm !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	ya esta , buf@c !
+%mor:	adv|ya=already imp|esta-2S&IMP=be cm|cm chi|buf !
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	vale ya esta , no te enfades , ya esta .
+%mor:	co|vale=okay adv|ya=already imp|esta-2S&IMP=be cm|cm adv|no=no
+	pro:obj|te=you v|enfada-2S&SUB&PRES=anger cm|cm adv|ya=already
+	imp|esta-2S&IMP=be .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|3|JCT 5|6|JCT 6|4|POBJ 7|6|PRED 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|1|PUNCT
+*PAR:	vale ?
+%mor:	co|vale=okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	0 .
+%act:	agafa e pel coll sacsejant'li el cabell , rugint com un lleo
+*PAR:	0 .
+%act:	li fa pessigolles a la panxa i segueix rugint
+*CHI:	0 .
+%act:	aixeca la ma i li dona un bolet
+*CHI:	0 .
+%act:	te la intencio de pegar a m
+*MAR:	0 .
+%act:	li agafa el brac i el mira
+*MAR:	que cara pone .
+%mor:	pro:rel|que=that adj|caro-f=dear v|pone-3S&PRES=put .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	li agafa a m del cabell
+*MAR:	ya esta , venga [= riu] .
+%mor:	adv|ya=already imp|esta-2S&IMP=be cm|cm co|venga=come_on .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*MAR:	a jugar [= traient'li la ma del seu cabell] .
+%mor:	aprep|a=to inf|juga-INF=play .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*CHI:	no [= aferrant'se a m] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dale un besito a la mama , cariño .
+%mor:	imp|da-2S&IMP~pro:clit|3S det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to pro:obj|la&f=she v|mama-3S&PRES=suck cm|cm
+	co:voc|cariño=affection .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|7|SUBJ 5|4|APREP 6|5|POBJ 7|1|PUNCT
+	8|7|CMOD 9|8|ROOT 10|9|PUNCT
+*PAR:	dale un besito a la mama , Edu .
+%mor:	imp|da-2S&IMP~pro:clit|3S det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to pro:obj|la&f=she v|mama-3S&PRES=suck cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|APREP 6|5|POBJ 7|5|POBJ 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+*PAR:	0 .
+%act:	s' apropa e
+*PAR:	dale un besito a la mama y otro al papa , venga .
+%mor:	imp|da-2S&IMP~pro:clit|3S det:art|un&m=one n|beso-DIM-m=kiss
+	aprep|a=to pro:obj|la&f=she v|mama-3S&PRES=suck coord|y=and
+	det:indef|otro-m=other aprep|a~det:art|el&m n|papa&m=pope cm|cm
+	co|venga=come_on .
+%gra:	1|7|SUBJ 2|7|SUBJ 3|4|DET 4|7|SUBJ 5|4|APREP 6|5|POBJ 7|0|ROOT 8|7|CONJ
+	9|8|COORD 10|9|APREP 11|12|DET 12|14|SUBJ 13|14|AUX 14|10|POBJ
+	15|7|PUNCT
+*CHI:	0 .
+%act:	li toca el cap a m
+*PAR:	le va a llevar luego la mama , con el papa al coche ?
+%mor:	pro:ind|le=him v|i-3S&PRES=go aprep|a=to inf|lleva-INF=carry
+	adv|luego=afterwards pro:obj|la&f=she v|mama-3S&PRES=suck cm|cm
+	prep|con=with det:art|el&m&SG=the n|papa&m=pope aprep|a~det:art|el&m
+	co|coche ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|5|JCT 5|6|JCT 6|3|POBJ 7|6|COMP 8|7|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|APREP 13|14|DET 14|12|POBJ 15|2|PUNCT
+*PAR:	eh ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	xxx al coche ?
+%mor:	aprep|a~det:art|el&m co|coche ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	te vas a venir en el coche ?
+%mor:	pro:obj|te=you v|i-2S&PRES=go aprep|a=to inf|veni-INF=come
+	prep|en=in det:art|el&m&SG=the co|coche ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	0 [= diu si amb el cap , mentre li toca el cabell a m] .
+*PAR:	pues dame un besito , que me voy .
+%mor:	co|pues=well imp|da-2S&IMP~pro:clit|1S det:art|un&m=one
+	n|beso-DIM-m=kiss cm|cm pro:rel|que=that pro:obj|me=me
+	v|i-1S&PRES=go .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|5|DET 5|2|OBJ 6|5|MOD 7|5|REL 8|9|SUBJ
+	9|7|CMOD 10|1|PUNCT
+*CHI:	0 .
+%act:	li dona un peto a p
+*PAR:	y un abrazo , un abrazo fuerte , Edu .
+%mor:	coord|y=and det:art|un&m=one v|abraza-1S&PRES=embrace cm|cm
+	det:art|un&m=one n|abrazo&m=embrace adj|fuerte=strong cm|cm
+	n:prop|Edu .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|PRED 5|6|DET 6|4|OBJ 7|6|MOD 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+*PAR:	un abracito a tu papa .
+%mor:	det:art|un&m=one n|abrazo-DIM-m=embrace aprep|a=to det:poss|tu=your
+	n|papa&m=pope .
+%gra:	1|2|DET 2|0|ROOT 3|2|APREP 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	0 .
+%act:	s' enxova en l' espatlla de m
+*MAR:	ahora ya no , tanto no .
+%mor:	adv|ahora=now adv|ya=already adv|no=no cm|cm adj|tanto-m=so_much
+	adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+@Comment:	m , p i o riuen
+*PAR:	que no me va +...
+%mor:	pro:rel|que=that adv|no=no pro:obj|me=me v|i-3S&PRES=go +...
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	que no me +...
+%mor:	pro:rel|que=that adv|no=no pro:obj|me=me +...
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|1|PUNCT
+*PAR:	que no me +...
+%mor:	pro:rel|que=that adv|no=no pro:obj|me=me +...
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|1|PUNCT
+*MAR:	dile , conformate con eso .
+%mor:	imp|deci-2S&IMP~pro:clit|3S cm|cm imp|conforma-2S&IMP~pro:clit|2S
+	prep|con=with pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|OBJ2 3|2|JCT 4|3|POBJ 5|4|OBJ2 6|4|JCT 7|6|POBJ 8|1|PUNCT
+*PAR:	que no me da un abracito mi niño , porque tu lo digas .
+%mor:	pro:rel|que=that adv|no=no pro:obj|me=me v|da-3S&PRES=give
+	det:art|un&m=one n|abrazo-DIM-m=embrace det:poss|mi=my
+	co:voc|niño=child cm|cm conj|porque=because det:poss|tu=your
+	pro:obj|lo&m=him v|deci-2S&SUB&PRES=say .
+%gra:	1|0|ROOT 2|3|MOD 3|1|COMP 4|3|COMP 5|6|DET 6|13|SUBJ 7|13|SUBJ
+	8|13|SUBJ 9|13|SUBJ 10|13|SUBJ 11|13|SUBJ 12|13|SUBJ 13|4|OBJ 14|1|PUNCT
+*PAR:	dale un abracito a tu papa , Edu .
+%mor:	imp|da-2S&IMP~pro:clit|3S det:art|un&m=one n|abrazo-DIM-m=embrace
+	aprep|a=to det:poss|tu=your n|papa&m=pope cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|APREP 6|7|DET 7|5|POBJ 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+*PAR:	0 .
+%act:	s' apropa a e
+*CHI:	0 [= protesta i s' enxova en m] .
+*PAR:	dale un abracito al papa , vida mía .
+%mor:	imp|da-2S&IMP~pro:clit|3S det:art|un&m=one n|abrazo-DIM-m=embrace
+	aprep|a~det:art|el&m n|papa&m=pope cm|cm co:voc|vida=life
+	pro:poss|mío-f=mine .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|APREP 6|7|DET 7|10|SUBJ 8|7|MOD
+	9|10|AUX 10|5|POBJ 11|1|PUNCT
+*MAR:	que no .
+%mor:	pro:rel|que=that adv|no=no .
+%gra:	1|0|ROOT 2|3|JCT 3|1|PUNCT
+*PAR:	me voy tu .
+%mor:	pro:obj|me=me v|i-1S&PRES=go det:poss|tu=your .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	0 [= surt de la imatge] .
+*MAR:	ahora nos vamos a ir de paseo , verdad , cariño ?
+%mor:	adv|ahora=now pro:obj|nos=us v|i-1P&PRES=go aprep|a=to inf|i-INF=go
+	prep|de=of v|pasea-1S&PRES=stroll cm|cm co|verdad=right cm|cm
+	co:voc|cariño=affection ?
+%gra:	1|2|MOD 2|0|ROOT 3|2|COMP 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|2|PUNCT
+*MAR:	0 .
+%act:	deixa a e a terra
+*CHI:	0 [= protesta perque l'ha deixat a terra] .
+*PAR:	y la Tamara donde esta ?
+%mor:	coord|y=and pro:obj|la&f=she n:prop|Tamara pro:rel|donde=where
+	imp|esta-2S&IMP=be ?
+%gra:	1|0|ROOT 2|1|COORD 3|2|PRED 4|3|REL 5|4|CMOD 6|1|COORD
+*CHI:	0 .
+%act:	es deixa caure
+*MAR:	mira [= intentant aixecar'lo] .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	en gimnasia rítmica [= mirant a p] .
+%mor:	prep|en=in n|gimnasia&f=gymnastics adj|rítmico-f=rhythm .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+*CHI:	0 [= continua protestant] .
+*MAR:	eh , eh , bajate , corre .
+%mor:	co|eh cm|cm co|eh cm|cm imp|baja-2S&IMP~pro:clit|2S cm|cm
+	v|corre-3S&PRES=run .
+%gra:	1|8|SUBJ 2|8|SUBJ 3|8|SUBJ 4|8|SUBJ 5|8|SUBJ 6|8|SUBJ 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+*MAR:	subete , subete [= intentant posar'lo de peu] .
+%mor:	imp|subi-2S&IMP~pro:clit|2S cm|cm imp|subi-2S&IMP~pro:clit|2S .
+%gra:	1|0|ROOT 2|1|OBJ2 3|2|JCT 4|3|POBJ 5|4|OBJ2 6|1|PUNCT
+*MAR:	y el lápiz ?
+%mor:	coord|y=and det:art|el&m&SG=the n|lápiz&m=pencil ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD
+*CHI:	0 [= es queda mirant la camera i fa una gañota] .
+*MAR:	mira lo que has hecho con el papel [= asseñalant cap al paper] .
+%mor:	co|mira=look pro:obj|lo&m=him pro:rel|que=that
+	aux|habe-2S&PRES=have v|hecha-1S&PRES=give prep|con=with
+	det:art|el&m&SG=the n|papel&m=paper .
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|5|SUBJ 5|3|CMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	0 [= protesta , gremolejant] .
+*MAR:	mira que has hecho con el papel .
+%mor:	co|mira=look pro:rel|que=that aux|habe-2S&PRES=have
+	v|hecha-1S&PRES=give prep|con=with det:art|el&m&SG=the
+	n|papel&m=paper .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*MAR:	y ahora no puedes escribir , uh ?
+%mor:	coord|y=and adv|ahora=now adv|no=no v|pode-2S&PRES=can
+	inf|escribi-INF=write cm|cm co|uh ?
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|4|COMP 6|5|JCT 7|6|POBJ
+	8|1|PUNCT
+*MAR:	ya no puedes ?
+%mor:	adv|ya=already adv|no=no v|pode-2S&PRES=can ?
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [= es gira cap a on asseñala m] .
+*MAR:	mira [= aixecant'se i dirigint'se cap al paper] .
+%mor:	co|mira=look .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	surt corrent darrera m
+*MAR:	0 .
+%act:	s' ajup i agafa el paper
+*MAR:	lo abro [= mirant e] .
+%mor:	pro:obj|lo&m=him v|abri-1S&PRES=open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&+pcf [% "un ma" , donant'li un cop de ma al paper] .
+*CHI:	0 .
+%act:	agafa el paper , l' arruga i el tira a terra
+*MAR:	hala [= mirant e] !
+%mor:	co|hala !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	va cap a la porta i intenta tancar'la
+*PAR:	xxx , xxx , xxx , oye [% "txo , txo , txo , oye" , crida] .
+%mor:	cm|cm cm|cm cm|cm co|oye=listen .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*MAR:	0 .
+%act:	atura la porta per que no colpegi
+*CHI:	0 .
+%act:	empeñ la porta per tancar'la
+*MAR:	Edu xxx .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	Edu , xxx , Edu [% "edu , txo , edu" , apropant'se cap a on estan e i m] .
+%mor:	n:prop|Edu cm|cm cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|MOD 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	no te enfades cariño .
+%mor:	adv|no=no pro:obj|te=you v|enfada-2S&SUB&PRES=anger
+	co:voc|cariño=affection .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	no me hagas enfadar , Edu .
+%mor:	adv|no=no pro:obj|me=me v|hace-2S&SUB&PRES=do inf|enfada-INF=anger
+	cm|cm n:prop|Edu .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	0 .
+%act:	continua colpejant la porta
+*PAR:	no me hagas enfadar , venga hombre .
+%mor:	adv|no=no pro:obj|me=me v|hace-2S&SUB&PRES=do inf|enfada-INF=anger
+	cm|cm co|venga=come_on co|hombre .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	0 .
+%act:	retira a e de la porta
+*PAR:	ya esta , eh ?
+%mor:	adv|ya=already imp|esta-2S&IMP=be cm|cm co|eh ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	ya no te enfadas mas , eh ?
+%mor:	adv|ya=already adv|no=no pro:obj|te=you v|enfada-2S&PRES=anger
+	conj|mas=moreover cm|cm co|eh ?
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|ROOT 8|7|PUNCT
+*CHI:	0 .
+%act:	es regira per que p no l' agafi
+*PAR:	ya no te enfadas mas , verdad ?
+%mor:	adv|ya=already adv|no=no pro:obj|te=you v|enfada-2S&PRES=anger
+	conj|mas=moreover cm|cm co|verdad=right ?
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|ROOT 8|7|PUNCT
+*PAR:	0 .
+%act:	s' ajup i abraca e
+*PAR:	ya no te enfadas mas , eh , ya esta .
+%mor:	adv|ya=already adv|no=no pro:obj|te=you v|enfada-2S&PRES=anger
+	conj|mas=moreover cm|cm co|eh cm|cm adv|ya=already
+	imp|esta-2S&IMP=be .
+%gra:	1|3|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|SCL 7|6|PRED 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|4|PUNCT
+*PAR:	0 .
+%act:	li dona un peto a e
+*CHI:	0 [= continua protestant] .
+*PAR:	vámonos al coche ?
+%mor:	imp|i-1P&IMP=go aprep|a~det:art|el&m co|coche ?
+%gra:	1|0|ROOT 2|1|APREP 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	te vienes con el papa ?
+%mor:	pro:obj|te=you v|veni-2S&PRES=come prep|con=with
+	det:art|el&m&SG=the n|papa&m=pope ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	0 [= diu si amb el cap i s' incorpora] .
+*PAR:	venga pues no te enfades , eh ?
+%mor:	co|venga=come_on co|pues=well adv|no=no pro:obj|te=you
+	v|enfada-2S&SUB&PRES=anger cm|cm co|eh ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|JCT 4|1|REL 5|4|CMOD 6|7|MOD 7|5|OBJ 8|1|PUNCT
+*CHI:	0 [= diu que no amb el cap] .
+*PAR:	ya no te enfadas ?
+%mor:	adv|ya=already adv|no=no pro:obj|te=you v|enfada-2S&PRES=anger ?
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	venga dale un abrazo a papa y un beso que me voy .
+%mor:	co|venga=come_on imp|da-2S&IMP~pro:clit|3S det:art|un&m=one
+	v|abraza-1S&PRES=embrace aprep|a=to n|papa&m=pope coord|y=and
+	det:art|un&m=one n|beso&m pro:rel|que=that pro:obj|me=me
+	v|i-1S&PRES=go .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|2|OBJ2 4|5|DET 5|0|ROOT 6|5|APREP 7|6|POBJ 8|5|CONJ
+	9|10|DET 10|8|COORD 11|10|REL 12|13|SUBJ 13|11|CMOD 14|5|PUNCT
+*CHI:	0 .
+%act:	sembla que vagi a donar una abracada
+*CHI:	0 .
+%act:	deixa la ma a l' espatlla i ajup el cap
+*PAR:	mas fuerte , mas fuerte , mas fuerte .
+%mor:	conj|mas=moreover adj|fuerte=strong cm|cm conj|mas=moreover
+	adj|fuerte=strong cm|cm conj|mas=moreover adj|fuerte=strong .
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|6|PRED 8|7|MOD
+	9|3|PUNCT
+*MAR:	has dicho que me voy .
+%mor:	aux|habe-2S&PRES=have part|deci-PPART-m=say pro:rel|que=that
+	pro:obj|me=me v|i-1S&PRES=go .
+%gra:	1|2|AUX 2|0|ROOT 3|2|REL 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+*PAR:	no , que se viene conmigo [= mirant a m] .
+%mor:	adv|no=no cm|cm pro:rel|que=that pro:refl|se=itself
+	v|veni-3S&PRES=come adv|conmigo=with_me .
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|5|SUBJ 5|3|CMOD 6|5|JCT 7|2|PUNCT
+*PAR:	venga mas fuerte que a nadie .
+%mor:	co|venga=come_on conj|mas=moreover adj|fuerte=strong
+	pro:rel|que=that aprep|a=to pro:indef|nadie=nobody .
+%gra:	1|0|ROOT 2|1|REL 3|2|MOD 4|3|REL 5|4|APREP 6|5|POBJ 7|1|PUNCT
+*CHI:	0 .
+%act:	li dona un peto i una abracada a p
+*PAR:	ay mi niño [= donant'li uns copets al cul i somrient] !
+%mor:	co|ay=ay det:poss|mi=my co:voc|niño=child !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	ahora yo , eh [= mirant e] ?
+%mor:	adv|ahora=now pro:sub|yo=I cm|cm co|eh ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	has visto ?
+%mor:	aux|habe-2S&PRES=have v|vesti-1S&PRES=dress ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*PAR:	que vas a salir por ahí [= asseñalant la camera] .
+%mor:	pro:rel|que=that v|i-2S&PRES=go aprep|a=to inf|sali-INF=leave
+	prep|por=for adv|ahí=there .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	verás tu cuando te veas [= aixecant'se] .
+%mor:	v|ve-2S&FUT=see det:poss|tu=your conj|cuando=when pro:obj|te=you
+	v|ve-2S&SUB&PRES=see .
+%gra:	1|0|ROOT 2|1|JCT 3|2|SCON 4|5|SUBJ 5|3|ROOT 6|5|PUNCT
+*CHI:	0 .
+%act:	es refrega els ulls i es dirigeix cap m
+*MAR:	0 .
+%act:	s' ajup per agafar el paper del terra
+*CHI:	0 .
+%act:	es recolza en m , refregant'se el ull
+*MAR:	te pica el ojo [= mirant e] ?
+%mor:	pro:obj|te=you v|pica-3S&PRES=prick det:art|el&m&SG=the co|ojo ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	bueno , ala hasta luego [= se'n va] .
+%mor:	co|bueno=good cm|cm v|ala-3S&PRES=call prep|hasta=until
+	adv|luego=afterwards .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	0 [= mira p] .
+*OBS:	hasta luego .
+%mor:	prep|hasta=until adv|luego=afterwards .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	no , mama [= refregant'se el ull] .
+%mor:	adv|no=no cm|cm v|mama-3S&PRES=suck .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MAR:	ahora viene , va a ir a por el coche que esta aparcado .
+%mor:	adv|ahora=now v|veni-3S&PRES=come cm|cm co|va=go aprep|a=to
+	inf|i-INF=go aprep|a=to prep|por=for det:art|el&m&SG=the co|coche
+	prep|que=than imp|esta-2S&IMP=be part|aparca-PPART-m=park .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|COMP 5|6|INF 6|4|COMP 7|6|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|JCT 12|13|AUX 13|11|POBJ 14|1|PUNCT
+*CHI:	0 [= es queixa i es dirigeix cap a la porta] .
+*MAR:	0 .
+%act:	l' agafa pel brac
+*MAR:	va a ir a por el coche , Edu .
+%mor:	v|i-3S&PRES=go aprep|a=to inf|i-INF=go aprep|a=to prep|por=for
+	det:art|el&m&SG=the co|coche cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+*CHI:	0 [= ploriquejant] .
+*MAR:	esta aparcado el coche .
+%mor:	imp|esta-2S&IMP=be part|aparca-PPART-m=park det:art|el&m&SG=the
+	co|coche .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	0 .
+%act:	entra
+*PAR:	Edu , Edu , tss@c , espera voy a traer el coche que esta en el vado , eh .
+%mor:	n:prop|Edu cm|cm n:prop|Edu cm|cm chi|tss cm|cm
+	v|espera-3S&PRES=wait v|i-1S&PRES=go aprep|a=to inf|trae-INF=carry
+	det:art|el&m&SG=the co|coche pro:rel|que=that imp|esta-2S&IMP=be
+	prep|en=in det:art|el&m&SG=the n|vado&m=curb cm|cm co|eh .
+%gra:	1|7|SUBJ 2|7|SUBJ 3|7|SUBJ 4|7|SUBJ 5|6|JCT 6|7|SUBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|12|REL 14|13|CMOD 15|14|JCT
+	16|17|DET 17|19|SUBJ 18|19|AUX 19|15|POBJ 20|8|PUNCT
+*PAR:	cojo las llaves , vale [= dirigint'se cap al salo] ?
+%mor:	adj|cojo-m=crippled pro:obj|la&f-PL=she n|llave&f-PL=key cm|cm
+	co|vale=okay ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|5|AUX 5|3|MOD 6|1|PUNCT
+*PAR:	cojo las llaves , voy a buscarlo y cuando yo pique bajas para abajo , vale ?
+%mor:	adj|cojo-m=crippled det:art|el&f-PL=the n|llave&f-PL=key cm|cm
+	v|i-1S&PRES=go aprep|a=to inf|busca-INF~pro:clit|OBJ&m coord|y=and
+	conj|cuando=when pro:sub|yo=I v|pica-13S&SUB&PRES=prick
+	v|baja-2S&PRES=come_down prep|para=for adv|abajo=below cm|cm
+	co|vale=okay ?
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ2
+	9|7|CONJ 10|9|COORD 11|10|PRED 12|11|CMOD 13|12|CMOD 14|13|JCT 15|16|JCT
+	16|14|POBJ 17|13|OBJ 18|5|PUNCT
+*PAR:	que voy a traer el coche .
+%mor:	pro:rel|que=that v|i-1S&PRES=go aprep|a=to inf|trae-INF=carry
+	det:art|el&m&SG=the co|coche .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*CHI:	0 [= esta al costat de m mirant p] .
+*CHI:	0 [= protesta] .
+*MAR:	que va a por el coche , cariño [= agafant'lo per la cintura] .
+%mor:	pro:rel|que=that v|i-3S&PRES=go aprep|a=to prep|por=for
+	det:art|el&m&SG=the co|coche cm|cm co:voc|cariño=affection .
+%gra:	1|0|ROOT 2|1|COMP 3|2|APREP 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*PAR:	la pizarra que escriba en la pizarra que el sabe [= sortint del salo] .
+%mor:	pro:obj|la&f=she n|pizarra&f=slate pro:rel|que=that
+	v|escribi-13S&SUB&PRES=write prep|en=in pro:head|la&f=she
+	n|pizarra&f=slate prep|que=than det:art|el&m&SG=the
+	v|sabe-3S&PRES=know .
+%gra:	1|2|DET 2|0|ROOT 3|2|REL 4|3|CMOD 5|4|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	0 .
+%act:	s' abraca a m i plora
+*MAR:	quieres la pizarra , eh ?
+%mor:	v|quere-2S&PRES=want pro:obj|la&f=she n|pizarra&f=slate cm|cm co|eh
+	?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|4|CMOD 6|1|PUNCT
+*MAR:	quieres escribir en la pizarra ?
+%mor:	v|quere-2S&PRES=want inf|escribi-INF=write prep|en=in
+	pro:obj|la&f=she n|pizarra&f=slate ?
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	0 [=! plora] .
+*MAR:	si no se va !
+%mor:	conj|si=if adv|no=no pro:refl|se=itself v|i-3S&PRES=go !
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	no se va .
+%mor:	adv|no=no pro:refl|se=itself v|i-3S&PRES=go .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [= continua plorant] .
+*MAR:	0 .
+%act:	l' aparta
+*CHI:	0 .
+%act:	intenta donar'li un bolet
+*CHI:	0 [=! plora] .
+*MAR:	que no se va el papa .
+%mor:	pro:rel|que=that adv|no=no pro:refl|se=itself v|i-3S&PRES=go
+	det:art|el&m&SG=the n|papa&m=pope .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*MAR:	que va a por el coche , ahora viene .
+%mor:	pro:rel|que=that v|i-3S&PRES=go aprep|a=to prep|por=for
+	det:art|el&m&SG=the co|coche cm|cm adv|ahora=now v|veni-3S&PRES=come
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|3|JCT 5|6|DET 6|9|SUBJ 7|9|SUBJ 8|9|JCT
+	9|4|POBJ 10|2|PUNCT
+*CHI:	0 [=! plora i crida] .
+*MAR:	0 .
+%act:	s' aixeca
+*MAR:	anda Edu ven , ven conmigo , ven .
+%mor:	co|anda=come_on n:prop|Edu co|ven=come cm|cm co|ven=come
+	adv|conmigo=with_me cm|cm co|ven=come .
+%gra:	1|0|ROOT 2|1|APP 3|1|PUNCT 4|3|CMOD 5|4|JCT 6|7|JCT 7|5|POBJ 8|7|ROOT
+	9|8|PUNCT
+*CHI:	0 [= continua plorant i gremolejant] .
+*CHI:	0 .
+%act:	va cap a m , s' aferra als pantalons i es tira a terra plorant i cridant cada vegada mes fort
+*MAR:	venga ven , ven conmigo , cariño [= intentant aixecar'lo] .
+%mor:	co|venga=come_on co|ven=come cm|cm co|ven=come adv|conmigo=with_me
+	cm|cm n|cariño&m=affection .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|7|DET 5|7|JCT 6|7|DET 7|3|OBJ 8|1|PUNCT
+*MAR:	oye , deja la xxx , escúchame [= intenta calmar'lo i que s' aixequi] .
+%mor:	co|oye=listen cm|cm v|deja-3S&PRES=leave pro:obj|la&f=she cm|cm
+	imp|escucha-2S&IMP~pro:clit|1S .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|POBJ 7|6|OBJ2 8|3|PUNCT
+*MAR:	0 .
+%act:	l' agafa en bracos
+*CHI:	0 [= continua cridant i plorant] .
+*MAR:	quieres pintar en la pizarra , eh ?
+%mor:	v|quere-2S&PRES=want inf|pinta-INF=paint prep|en=in
+	pro:obj|la&f=she n|pizarra&f=slate cm|cm co|eh ?
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|2|OBJ 8|1|PUNCT
+*CHI:	0 [= calla] .
+*MAR:	no , no quiere nada .
+%mor:	adv|no=no cm|cm adv|no=no v|quere-3S&PRES=want
+	pro:indef|nada=nothing .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MAR:	Eduardo , que va a pensar la Magda que eres muy malo .
+%mor:	n:prop|Eduardo cm|cm pro:rel|que=that v|i-3S&PRES=go aprep|a=to
+	inf|pensa-INF=think pro:obj|la&f=she n:prop|Magda pro:rel|que=that
+	cop|se-2S&PRES=be adv|muy=very adj|malo-m=bad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|COMP 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|8|REL 10|9|CMOD 11|12|MOD 12|10|PRED 13|2|PUNCT
+*MAR:	eh ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	que va a decir que eres muy malo .
+%mor:	pro:rel|que=that v|i-3S&PRES=go aprep|a=to inf|deci-INF=say
+	pro:rel|que=that cop|se-2S&PRES=be adv|muy=very adj|malo-m=bad .
+%gra:	1|0|ROOT 2|1|COMP 3|4|INF 4|2|COMP 5|4|REL 6|5|CMOD 7|8|MOD 8|6|PRED
+	9|1|PUNCT
+*CHI:	0 .
+%act:	pega m
+*MAR:	uy !
+%mor:	co|uy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	torna a pegar m
+*MAR:	0 .
+%act:	pega e
+*MAR:	quieto !
+%mor:	adj|quieto-m=still !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 .
+%act:	apropa el cap a e
+*MAR:	que te muerdo la barriguita , eh ?
+%mor:	pro:rel|que=that pro:obj|te=you v|morde-1S&PRES=bite
+	pro:obj|la&f=she n|barriga-DIM-f=belly cm|cm co|eh ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|5|DET 5|3|OBJ 6|5|MOD 7|5|MOD 8|1|PUNCT
+*CHI:	0 [= no sap si riure o plorar] .
+*MAR:	venga , va .
+%mor:	co|venga=come_on cm|cm co|va=go .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 [= comenca a plorar] .
+*MAR:	0 .
+%act:	enxova e
+*MAR:	venga , va [= passejant'lo i acariciant'lo] .
+%mor:	co|venga=come_on cm|cm co|va=go .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 [=! plora] .
+*MAR:	mira , mira .
+%mor:	co|mira=look cm|cm co|mira=look .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	mira lo que tiene la Magda [= asseñalant la camera] .
+%mor:	co|mira=look pro:obj|lo&m=him pro:rel|que=that v|tene-3S&PRES=have
+	pro:obj|la&f=she n:prop|Magda .
+%gra:	1|0|ROOT 2|1|REL 3|2|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*MAR:	dile algo .
+%mor:	imp|deci-2S&IMP~pro:clit|3S pro:dem|algo=something .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ2 4|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	no es veu en imatge que esta fent e
+*CHI:	0 [= continua plorant] .
+*MAR:	0 .
+%act:	baixa e a terra
+*CHI:	0 [= plora , perneja amb els bracos aixecats cap m] .
+*MAR:	0 .
+%act:	ha agafat el paper del terra i ho esta desruant
+*MAR:	te cojo ?
+%mor:	pro:obj|te=you v|coge-1S&PRES=take ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MAR:	0 .
+%act:	agafa e
+*CHI:	0 [= continua plorant] .
+*MAR:	xxx llora .
+%mor:	imp|llora-2S&IMP=cry .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	0 .
+%act:	dona un peto e
+*CHI:	0 [= para de plorar] .
+*CHI:	0 .
+%act:	pega m
+*MAR:	xxx , ay , se me ha caido el papel !
+%mor:	cm|cm co|ay=ay cm|cm pro:refl|se=itself pro:obj|me=me
+	aux|habe-3S&PRES=have part|cae-PPART-m=fall det:art|el&m&SG=the
+	n|papel&m=paper !
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|COMP 5|4|COMP 6|7|AUX 7|5|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*CHI:	0 [= mira cap a on ha caigut el paper] .
+*MAR:	0 [= mira e] .
+*CHI:	0 .
+%act:	pega m
+*MAR:	se ha caido .
+%mor:	pro:refl|se=itself v|habe-3S&PRES=have part|cae-PPART-m=fall .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MAR:	me lo coges tu [= mirant e] ?
+%mor:	pro:obj|me=me pro:obj|lo&m=him v|coge-2S&PRES=take det:poss|tu=your
+	?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 [= fa no amb el cap] .
+*MAR:	no lo coges ?
+%mor:	adv|no=no pro:obj|lo&m=him v|coge-2S&PRES=take ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MAR:	quien lo coge [= mirant e] ?
+%mor:	pro:rel|quien=who pro:obj|lo&m=him v|coge-3S&PRES=take ?
+%gra:	1|0|ROOT 2|3|OBJ2 3|1|CMOD 4|1|PUNCT
+*MAR:	mira , mira , mira la luz que tiene [= mirant la camera] .
+%mor:	co|mira=look cm|cm co|mira=look cm|cm co|mira=look pro:obj|la&f=she
+	n|luz&f=light pro:rel|que=that v|tene-3S&PRES=have .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|REL 5|4|CMOD 6|7|DET 7|5|OBJ 8|7|REL
+	9|8|CMOD 10|1|PUNCT
+*CHI:	0 [= esta amb el cap ajupit] .
+*MAR:	mira la luz que tiene la foto , mira tiene una luz .
+%mor:	co|mira=look pro:obj|la&f=she n|luz&f=light pro:rel|que=that
+	v|tene-3S&PRES=have pro:obj|la&f=she n|foto&m=photo cm|cm
+	co|mira=look v|tene-3S&PRES=have det:art|un-f=one n|luz&f=light .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|REL 5|4|CMOD 6|7|DET 7|5|OBJ 8|7|MOD
+	9|7|MOD 10|9|CMOD 11|12|DET 12|10|OBJ 13|1|PUNCT
+*MAR:	se enciende y se apaga .
+%mor:	pro:refl|se=itself v|encende-3S&PRES=light coord|y=and
+	pro:refl|se=itself v|apaga-3S&PRES=turn_off .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|PUNCT
+*MAR:	la has visto ?
+%mor:	pro:obj|la&f=she v|habe-2S&PRES=have v|vesti-1S&PRES=dress ?
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [= fa no amb el cap] .
+*MAR:	no la has visto ?
+%mor:	adv|no=no pro:obj|la&f=she v|habe-2S&PRES=have
+	v|vesti-1S&PRES=dress ?
+%gra:	1|2|JCT 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	0 [= esta amb el cap ajupit] .
+*MAR:	0 .
+%act:	apropa la cara a la de e
+*MAR:	nos vamos con el coche del papa [= xiuxiuejant'li] .
+%mor:	pro:obj|nos=us v|i-1P&PRES=go prep|con=with det:art|el&m&SG=the
+	co|coche prep|de~det:art|el&m n|papa&m=pope .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*CHI:	0 [= comenca a ploriquejar] .
+*MAR:	venga va .
+%mor:	co|venga=come_on co|va=go .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	0 [= continua ploriquejant] .
+*MAR:	coge tu chaqueta , coge tu chaqueta .
+%mor:	imp|coge-2S&IMP=take det:poss|tu=your n|chaqueta&f=jacket cm|cm
+	v|coge-3S&PRES=take det:poss|tu=your n|chaqueta&f=jacket .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|4|CMOD 6|7|DET 7|5|OBJ 8|1|PUNCT
+*CHI:	no llevo [= cridant] .
+%mor:	adv|no=no v|lleva-1S&PRES=carry .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MAR:	no llevas la chaqueta ?
+%mor:	adv|no=no v|lleva-2S&PRES=carry pro:obj|la&f=she
+	n|chaqueta&f=jacket ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	por que ?
+%mor:	prep|por=for pro:rel|que=that ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MAR:	hace frío .
+%mor:	imp|hace-2S&IMP=do v|freí-1S&PRES=fry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 [= mira enutjat m] .
+*CHI:	&+pcf [% "no uco" , sense referent clar] .
+*MAR:	hace frío en la calle .
+%mor:	imp|hace-2S&IMP=do v|freí-1S&PRES=fry prep|en=in pro:obj|la&f=she
+	v|calla-13S&SUB&PRES=silence .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|2|JCT 4|3|POBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	&+pcf [% "yanca" , sense referent clar , ploriquejant] .
+*MAR:	no quieres la chaqueta ?
+%mor:	adv|no=no v|quere-2S&PRES=want pro:obj|la&f=she n|chaqueta&f=jacket
+	?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	&+pcf [% "no nate" , sense referent clar , ploriquejant] .
+*CHI:	0 .
+%act:	es frega els ulls i s' enxova en m
+*MAR:	0 .
+%act:	agafa la ma a e
+*MAR:	uy , uy mira lo que te has hecho en la mano , Edu [= asseñalant'li la ma] !
+%mor:	co|uy cm|cm co|uy co|mira=look pro:obj|lo&m=him pro:rel|que=that
+	pro:obj|te=you aux|habe-2S&PRES=have v|hecha-1S&PRES=give prep|en=in
+	det:art|el&f&SG=the n|mano&f=hand cm|cm n:prop|Edu !
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|COMP 5|4|COMP 6|5|REL 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|12|JCT 14|13|POBJ 15|1|PUNCT
+*CHI:	0 [= mira la seva ma] .
+*CHI:	pintura [% "tura" , mirant m] .
+%mor:	n|pintura&f=painting .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	de pintura [= asseñalant'se un llavi] .
+%mor:	prep|de=of n|pintura&f=painting .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	0 .
+%act:	intenta tocar'li el llavi a m
+*MAR:	has visto ?
+%mor:	aux|habe-2S&PRES=have v|vesti-1S&PRES=dress ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*MAR:	ahora que ?
+%mor:	adv|ahora=now pro:rel|que=that ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MAR:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	si [= tocant'li els llavis a m] .
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	ves , pintura .
+%mor:	v|ve-2S&PRES=see cm|cm n|pintura&f=painting .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	0 [= es mira el dit tacat de pintura] .
+*CHI:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yo leche [% "yo beche" , mirant m] .
+%mor:	pro:sub|yo=I n|leche&f=milk .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MAR:	tu quieres leche .
+%mor:	det:poss|tu=your v|quere-2S&PRES=want n|leche&f=milk .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	si [% "ii" , enf la lletra i] .
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	ahora te doy leche cariño [= baixant'lo a terra] .
+%mor:	adv|ahora=now pro:obj|te=you v|da-1S&PRES=give n|leche&f=milk
+	co:voc|cariño=affection .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+*CHI:	yo leche [% "yo beche" , ploriquejant] .
+%mor:	pro:sub|yo=I n|leche&f=milk .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MAR:	sienta aquí , que voy a traer la leche .
+%mor:	v|senta-3S&PRES=sit adv|aquí=here cm|cm pro:rel|que=that
+	v|i-1S&PRES=go aprep|a=to inf|trae-INF=carry pro:obj|la&f=she
+	n|leche&f=milk .
+%gra:	1|0|ROOT 2|1|JCT 3|2|COMP 4|3|REL 5|4|CMOD 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*MAR:	0 .
+%act:	es dirigeix cap a la cuina
+*CHI:	0 .
+%act:	segueix m
+*MAR:	0 .
+%act:	comenca a preparar la llet
+*CHI:	de donde es esa agua [% "do es sa agua" , asseñalant] ?
+%mor:	prep|de=of pro:rel|donde=where cop|se-3S&PRES=be det:dem|ese-f=that
+	imp|agua-2S&IMP=water_down ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|PRED 6|1|PUNCT
+*CHI:	de donde es esa agua [% "do ve sa agua"] ?
+%mor:	prep|de=of pro:rel|donde=where cop|se-3S&PRES=be det:dem|ese-f=that
+	imp|agua-2S&IMP=water_down ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|PRED 6|1|PUNCT
+*MAR:	ah si !
+%mor:	co|ah conj|si=if !
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MAR:	es de la nevera , Edu .
+%mor:	cop|se-3S&PRES=be prep|de=of pro:obj|la&f=she n|nevero-f=ice_seller
+	cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*CHI:	ah [= mirant a terra] !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	sal cariño .
+%mor:	n|sal&f=salt co:voc|cariño=affection .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*CHI:	0 [= esta al costat del moble de la cuina] .
+*CHI:	esta agua si [% "esta agua ti" , mirant a terra] .
+%mor:	imp|esta-2S&IMP=be n|agua&f=water conj|si=if .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*MAR:	si cariño , si .
+%mor:	conj|si=if co:voc|cariño=affection cm|cm conj|si=if .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	0 [= mira el que fa m] .
+*MAR:	quieres leche ?
+%mor:	v|quere-2S&PRES=want n|leche&f=milk ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	0 [= mira el que fa m] .
+*MAR:	vete allí Edu y me esperas , no ?
+%mor:	imp|i-2S&IMP~pro:clit|2S adv|allí=there n:prop|Edu coord|y=and
+	pro:obj|me=me v|espera-2S&PRES=wait cm|cm adv|no=no ?
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|JCT 4|2|POBJ 5|4|CONJ 6|5|COORD 7|1|COMP 8|7|OBJ
+	9|8|JCT 10|1|PUNCT
+*CHI:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	no quieres ?
+%mor:	adv|no=no v|quere-2S&PRES=want ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no [= mira la camera] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "bu bu bu" , mirant el que fa m] .
+@Comment:	e i m surten de la cuina
+*MAR:	tss@c , tss@c , donde vas ?
+%mor:	chi|tss cm|cm chi|tss cm|cm pro:rel|donde=where v|i-2S&PRES=go ?
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|SUBJ 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*MAR:	te quieres ir a la salita de aquí ?
+%mor:	pro:obj|te=you v|quere-2S&PRES=want inf|i-INF=go aprep|a=to
+	pro:obj|la&f=she n|sala-DIM-f=hall prep|de=of adv|aquí=here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|APREP 5|6|DET 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*CHI:	hm: [= assentint] !
+%mor:	co|hm !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "lu" , sense referent clar] .
+*MAR:	vente aquí , Edu .
+%mor:	imp|veni-2S&IMP~pro:clit|2S adv|aquí=here cm|cm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MAR:	vente aquí , aquí no se ve cariño .
+%mor:	imp|veni-2S&IMP~pro:clit|2S adv|aquí=here cm|cm adv|aquí=here
+	adv|no=no pro:refl|se=itself v|ve-3S&PRES=see
+	co:voc|cariño=affection .
+%gra:	1|4|MOD 2|1|OBJ2 3|4|MOD 4|8|SUBJ 5|6|JCT 6|7|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*MAR:	bueno , tendrás que venirte aquí .
+%mor:	co|bueno=good cm|cm v|tene-2S&FUT=have pro:rel|que=that
+	inf|veni-INF~pro:clit|2S adv|aquí=here .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|REL 5|4|COMP 6|5|OBJ2 7|5|OBJ 8|3|PUNCT
+*OBS:	si se ve .
+%mor:	conj|si=if pro:refl|se=itself v|ve-3S&PRES=see .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@Comment:	m , e i o entren en una saleta petita
+*CHI:	0 [= esta assegut al sofá] .
+*MAR:	0 .
+%act:	li dona el got de llet
+@Comment:	hi ha un tall a la cinta , e donant cops de peu a una pilota en la saleta
+*MAR:	que es lo que me has dicho Edu ?
+%mor:	pro:rel|que=that cop|se-3S&PRES=be pro:obj|lo&m=him
+	pro:rel|que=that pro:obj|me=me aux|habe-2S&PRES=have
+	part|deci-PPART-m=say n:prop|Edu ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|REL 5|4|CMOD 6|7|AUX 7|5|COMP 8|7|OBJ
+	9|2|PUNCT
+*CHI:	to(n)to .
+%mor:	adj|tonto-m=stupid .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 [= recolzat a la paret mirant la pilota] .
+*CHI:	tu tonta .
+%mor:	det:poss|tu=your adj|tonto-f=stupid .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MAR:	que has dicho ?
+%mor:	pro:rel|que=that aux|habe-2S&PRES=have part|deci-PPART-m=say ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	tu tonta .
+%mor:	det:poss|tu=your adj|tonto-f=stupid .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+@Comment:	m i o parlen i e dona cops a la pilota
+*CHI:	0 .
+%act:	xuta la pilota
+*OBS:	vaya , vaya , vaya tengo la pelota en mi poder .
+%mor:	co|vaya=come_on cm|cm co|vaya=come_on cm|cm co|vaya=come_on
+	v|tene-1S&PRES=have det:art|el&f&SG=the n|pelota&f=ball prep|en=in
+	det:poss|mi=my inf|pode-INF=can .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|COMP 5|4|COMP 6|5|CMOD 7|8|DET 8|6|OBJ
+	9|8|JCT 10|11|INF 11|9|POBJ 12|1|PUNCT
+*CHI:	0 .
+%act:	es refrega l' ull
+*CHI:	0 .
+%act:	tira un cendrer que hi ha a una taula al costat del televisor
+*MAR:	0 .
+%act:	s' apropa i recull la cendra i s' emporta el cendrer
+*OBS:	pero que mal genio que tienes .
+%mor:	conj|pero=but pro:rel|que=that adv|mal=badly adj|genio-m=genious
+	pro:rel|que=that v|tene-2S&PRES=have .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|COMP 5|4|REL 6|5|CMOD 7|1|PUNCT
+*CHI:	0 .
+%act:	toca el televisor per encendre'l
+*OBS:	pero no te enfades así , hombre .
+%mor:	conj|pero=but adv|no=no pro:obj|te=you v|enfada-2S&SUB&PRES=anger
+	adv|así=thus cm|cm co|hombre .
+%gra:	1|3|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PUNCT 7|6|ROOT 8|7|PUNCT
+*CHI:	0 .
+%act:	se'n va cap a les cortines i s' amaga entre elles
+@End

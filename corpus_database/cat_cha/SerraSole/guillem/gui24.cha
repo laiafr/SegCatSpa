@@ -1,0 +1,313 @@
+@UTF8
+@PID:	11312/c-00028079-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , NAN ana Nurse , MAR mare Mother , QUI quim Brother , INV Investigator
+@ID:	cat|Serra|CHI|2;0.12||||Target_Child|||
+@ID:	cat|Serra|NAN|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g , q i n estan jugant asseguts a terra , g te uns llapis a la ma
+*NAN:	que no vols aquest [= ofereix el llapis] ?
+*CHI:	no [= agafa un llapis de la capsa] .
+*QUI:	va , pinta !
+*CHI:	no va [= intenta pintar] .
+*NAN:	no va , no .
+*NAN:	doncs agafa aquest blau .
+*QUI:	si que va , mira .
+@Comment:	g prova el blau i no va , mirant n i li dona el llapis
+*CHI:	no va .
+*NAN:	si va , mira [= prova el llapis] .
+@Comment:	g agafa el llapis
+*CHI:	pcf [% "iababa"] .
+*NAN:	si va , doncs te el vermell .
+*NAN:	mira , el vermell si que va .
+*CHI:	pcf [% "xiuxeababa" , esta pintant] .
+*NAN:	si va .
+*NAN:	mira , el verd .
+*CHI:	espinete [% "itete" , aixeca el llibre] ?
+*NAN:	aqui .
+*NAN:	te el verd .
+*CHI:	espinete [% "itete" , aixeca el llibre] ?
+@Comment:	g agafa una capsa de llapis , p se'n va
+*NAN:	ai !
+*CHI:	el pare [% "a pare"] .
+@Comment:	g agafa un llapis , pinta i ho deixa , g es posa la ma al cap , on s'ha fet mal
+*CHI:	mal [% diu "a mal"] !
+@Comment:	hi ha un tall a la cinta , no hi ha produccions per part de g
+*NAN:	qui es aquest , que no el coneixes [= ensenya un conte] ?
+*CHI:	el blas [% "a tat"] .
+*NAN:	qui es ?
+*CHI:	el blas [% "a tat"] .
+*NAN:	el blas ?
+@Comment:	g es gira i es posa a pintar
+*QUI:	no !
+*CHI:	no va [% "o ba"] .
+*QUI:	si que va , mira .
+@Comment:	hi ha un tall , n fa seure be a g i li dona un llapis
+*NAN:	mira , que es aixo [= mostra el conte] ?
+*CHI:	un elefant [% "a nan"] .
+*NAN:	un elefant .
+%com:	n dona un altre objecte a g
+*CHI:	un xxx [% "un to"] .
+*NAN:	<i aixo> [>] [= assenyalant el llibre] ?
+*CHI:	<un elefant> [<] [% "a man"] ?
+*NAN:	i aquest ?
+*CHI:	un elefant [% "a man"] .
+*NAN:	un anec .
+*CHI:	anec [% "tanca"] .
+*QUI:	xxx fan cuac@c [% "coc" en comptes de cuac , potser els anecs catalans fan una altra cosa que els castellans] .
+*CHI:	cuac@c cuac@c cuac@c [% tambe diu "coc" en comptes de cuac] .
+*QUI:	i els pinguins , que fan els pinguins ?
+*NAN:	no se que fan els pinguins .
+*CHI:	cocorococ@c [% "cococ"] .
+*NAN:	ho fa la gallina .
+*CHI:	gallina [% "ina"] .
+*NAN:	i aixo ?
+*CHI:	un [/?] un xxx [% la xxx vol dir "to"] .
+*NAN:	que fa ?
+*CHI:	pcf [% "ta"] .
+*CHI:	pcf [% "ta"] .
+*CHI:	pcf [% "a ta"] .
+@Comment:	n i q intervenen i parlen de granotes , com salten i que fan , mentre g es centra a la capsa de llapis
+*NAN:	mira , un gat [= assenyala un llibre] .
+*NAN:	que es ?
+*CHI:	un gat [% "a gat"] .
+*NAN:	un gat ?
+*NAN:	i aquest ?
+*CHI:	pcf [% "ta"] .
+*CHI:	pcf [% "ta"] .
+*NAN:	no .
+*CHI:	pcf [% "ta"] .
+*NAN:	un gat .
+*CHI:	un gat [% "a tat"] .
+*CHI:	<un gat> [>] [% "a tat"] .
+*NAN:	<i aixo> [<] [= passa full] ?
+*NAN:	i aixo ?
+*CHI:	pcf [% "ato"] .
+*NAN:	que es ?
+*CHI:	aixo .
+*CHI:	aixo .
+*NAN:	cargol .
+*CHI:	cargol [% "alol"] .
+*NAN:	i aquest ?
+*CHI:	aixo .
+*NAN:	que es ?
+*CHI:	aixo .
+*NAN:	cargol [>] .
+*CHI:	cargol [<] [% "alol"] .
+@Comment:	q interve cantant la del cargol treu banya , g agafa un llapis i pinta
+*NAN:	i aixo ?
+*CHI:	un xxx [% "a nan"] .
+*QUI:	no , son formiguetes .
+*CHI:	formiguetes [% "utetes"] .
+*NAN:	molt be .
+*NAN:	que es , guillem ?
+*QUI:	floretes .
+*CHI:	floretes [% "futetes"] .
+*NAN:	i aixo ?
+*QUI:	aquest l' he pintat jo .
+*CHI:	pcf [% "ato" , assenyala el conte] .
+*NAN:	i aixo ?
+*CHI:	pcf [% "ioooc ta" , movent el cap dient no] .
+@Comment:	n mira g i riu
+*NAN:	que es aixo ?
+*CHI:	pcf [% "ta"] .
+*NAN:	0 [= mira] .
+*CHI:	pcf [% "ata"] .
+*NAN:	que es aixo ?
+*CHI:	pcf [% "ta"] .
+*NAN:	son flors ?
+*CHI:	pcf [% "atato"] .
+*NAN:	i aixo ?
+*CHI:	aixo .
+*NAN:	peix .
+*CHI:	un peix [% "a peix"] .
+*NAN:	molt be .
+*NAN:	i aquest ?
+*CHI:	aixo .
+*NAN:	un peix .
+*CHI:	un peix [% "a peix"] .
+*NAN:	i aixo ?
+*CHI:	pcf [% "ato"] .
+*NAN:	conills .
+*CHI:	conills .
+*NAN:	conills [= gira fulls] .
+*CHI:	cocorococ@c [% "cocococ" , cridant] .
+%com:	interromp a q
+*NAN:	mira guillem , que es aixo ?
+@Comment:	guillem se'n va
+*NAN:	on vas ?
+@Comment:	g esta a la seva habitacio i esta jugant , g marxa , q l' atrapa , q i g es barallen , hi ha un tall a la cinta , hi ha una serie d' interaccions desestructurades
+*CHI:	va yoya@c .
+@Comment:	la yoya deu ser la rosa soler que g li diu aixi , s' acosta a e
+*CHI:	va .
+*CHI:	va yoya@c .
+*CHI:	papa .
+*CHI:	yoya@c .
+*CHI:	papa .
+%com:	g comenca a tocar el rellotge d' e
+*INV:	ei , que fas ?
+*INV:	que fas amb el rellotge ?
+*INV:	no , no , no , el rellotge no .
+*NAN:	mira que tinc [= mostra una lletra a g] .
+@Comment:	g continua jugant
+*CHI:	va .
+@Comment:	hi ha un tall a la cinta , g continua jugant , te un joc a les mans
+*INV:	que es aixo ?
+*NAN:	que es ?
+*NAN:	juguem ?
+*CHI:	juguem [% "onem"] .
+*NAN:	va , posa+ho a terra , que juguem .
+*CHI:	juguem [% "otet"] .
+*NAN:	posa+ho aqui , aqui .
+@Comment:	g i n llencant les peces a terra
+*NAN:	va , agafo aquests .
+*NAN:	aquests per mi .
+*CHI:	xxx xxx yoya@c [% "a ia yoya" , dona una peca a e] .
+*CHI:	te yoya@c .
+*INV:	gracies .
+*NAN:	te .
+*NAN:	va , posa una oca .
+*NAN:	posa una oca aqui .
+*CHI:	la oca [% "a coca"] ?
+*NAN:	si .
+*CHI:	el tigre [% "a tie"] ?
+*NAN:	aqui posa una altra .
+*CHI:	el tigre [% "a tie"] ?
+*CHI:	el tigre [% "a tie"] ?
+@Comment:	g i n van jugant
+*NAN:	una oca .
+*NAN:	busca una oca , guillem .
+*NAN:	busca una oca .
+*NAN:	com aquesta , guillem , busca .
+*NAN:	busca una oca com aquesta , busca una , va .
+*CHI:	xxx oca [% "na coca" , agafa una fitxa] ?
+*NAN:	busca una altra .
+*NAN:	busca una altra .
+*NAN:	busca un tigre .
+*CHI:	tigre [% "tie"] .
+*NAN:	un tigre , si .
+*CHI:	tigre [% "tie"] .
+*NAN:	un tigre , si .
+*CHI:	no vull .
+*CHI:	ui !
+*NAN:	busca un tigre .
+*CHI:	un tigre [% "a tie"] .
+*NAN:	un tigre , busca'l .
+*NAN:	a viam si trobes un tigre .
+*NAN:	i un cavall ?
+*CHI:	pcf [% "kia kia kia" , agafa una fitxa] .
+*NAN:	que es aixo ?
+*CHI:	un tigre [% "a tie"] .
+*NAN:	no .
+*NAN:	que es aixo ?
+*CHI:	un tigre [% "a tie"] .
+*NAN:	no .
+*NAN:	es un tigre ?
+*CHI:	un tigre [% "a tigre"] .
+*NAN:	es un xai .
+*CHI:	un xai [% "a iaiai"] .
+*NAN:	molt be .
+*NAN:	i aixo ?
+*CHI:	tigre [% "tie"] .
+*NAN:	es un tigre ?
+*CHI:	tigre [% "tie"] .
+*NAN:	molt be .
+*NAN:	i aquest ?
+*CHI:	un xai [% "a iai"] .
+*NAN:	molt be .
+*NAN:	i aquest ?
+*CHI:	un xxx [% "a ni"] .
+*NAN:	molt be .
+*NAN:	a viam quin mes .
+*NAN:	i aquest ?
+*CHI:	un gat [% "a tat"] .
+*NAN:	molt be .
+*NAN:	quin mes ?
+*NAN:	<i aquest> [>] ?
+*CHI:	pcf [<] [% "iaia"] .
+*NAN:	guillem , que es ?
+*NAN:	que es aixo ?
+*NAN:	no ho saps ?
+*CHI:	pcf [% "tota"] .
+*NAN:	dona'm un cavall .
+*CHI:	pcf [% "aai"] ?
+*NAN:	dona'm un cavall .
+*CHI:	pcf [% "aaraae"] .
+*NAN:	dona'm un .
+@Comment:	g dona una fitxa a n
+*NAN:	gracies .
+@Comment:	q entra , parla amb n , i tots se'n van , hi ha un tall a la cinta , g , m , q i n estan a l' habitacio , m esta davant una taula , donant un iogurt a g , els altres interlocutors van xerrant , g va jugant , m intenta parlar amb g
+*CHI:	mira [= mostra una pilota que ha recollit del terra] .
+*MAR:	mira .
+@Comment:	g va cantant , m va fent menjar g , i g va jugant
+*MAR:	guillem [= intenta fer menjar g] .
+*CHI:	<no no no no no no> [/] no .
+*MAR:	que vol dir no , no , no ?
+*CHI:	aixo pare [= agafa el iogurt] .
+*MAR:	el pare te l' ha de donar ?
+*CHI:	adeu mare .
+*MAR:	adeu !
+*CHI:	adeu yoya@c .
+@Comment:	hi ha un tall , m continua donant iogurt a g
+*MAR:	no menja sopa el guillem .
+*MAR:	es petito i no sap menjar sopes .
+*CHI:	pcf [% "a tatataiua"] .
+*MAR:	ai , el cap !
+@Comment:	g es balanceja
+*MAR:	te , cuidado !
+@Comment:	g cull quelcom del terra
+*CHI:	pilota [% "tota"] .
+*CHI:	la pilota [% "a tota"] ?
+*MAR:	la pilota ?
+*MAR:	a mi que m' expliques ?
+*CHI:	pilota [% "kipota" , corre cap a una pilota] .
+*MAR:	ah , la pilota aquesta ?
+@Comment:	g llenca una pilota fora l' habitacio
+*MAR:	vols formatge , guillem ?
+*CHI:	no .
+*MAR:	xxx , guillem .
+@Comment:	g va jugant , no fa cas de m
+*MAR:	escolta , t' acabes el iogurt o no ?
+*MAR:	me l' enduc , eh !
+*MAR:	me l' enduc a la cuina ?
+*MAR:	eh ?
+*CHI:	no .
+*MAR:	doncs va , corre .
+*MAR:	sino me l' enduc a la cuina .
+*MAR:	afanya't .
+*MAR:	vens a menjar ?
+*CHI:	0 [= canta] .
+*MAR:	adeu .
+*MAR:	adeu .
+*MAR:	vols formatge ?
+*MAR:	no ?
+*CHI:	no .
+*MAR:	no ?
+*MAR:	vols un iogurt o no ?
+*CHI:	no .
+*MAR:	doncs adeu , apa !
+*MAR:	ja esta .
+*MAR:	xxx la sopa .
+@Comment:	m fa veure que menja el iogurt , g s' emporta una cadira fora de l'habitacio , g s' acosta a m
+*CHI:	surt mare .
+*MAR:	surt , surt .
+*CHI:	surt [= vol fer aixecar m] .
+*MAR:	no surto .
+*CHI:	mare .
+*CHI:	mare .
+*MAR:	que ?
+*CHI:	surt .
+*MAR:	per que ?
+*CHI:	mare surt .
+*CHI:	surt .
+@Comment:	m s' aixeca
+*MAR:	que fas ?
+*CHI:	mare surt .
+%com:	g porta la cadira de m fora l' habitacio
+*MAR:	ah , mare surt !
+*MAR:	ja he sortit .
+@Comment:	hi ha un tall a la cinta
+@End

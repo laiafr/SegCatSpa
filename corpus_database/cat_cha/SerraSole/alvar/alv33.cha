@@ -1,0 +1,236 @@
+@UTF8
+@PID:	11312/c-00028048-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , FER ferran Child , PAR pare Father , INV Investigator
+@ID:	cat|Serra|CHI|2;9.11||||Target_Child|||
+@ID:	cat|Serra|FER|||||Child|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	a i f estan jugant a la terrassa
+*INV:	cada dia tens tractors mes grossos eh ?
+%add:	ALV
+@Comment:	es senten gossos bordar
+*CHI:	calleu gossos [= mira cap avall] .
+*FER:	0 [= entra en escena cantant] .
+*FER:	jo jugo amb el camion tambe .
+@Comment:	f enraona amb e
+*CHI:	aqui xxx xxx senyor [= esta darrera una planta i no s' enten be , juga amb una grua] .
+*CHI:	aqui hi ha una porta .
+*CHI:	que aquesta porta xxx [% sembla que digui "sense"] .
+*FER:	doncs ni el meu .
+*FER:	mira , hi ha terra .
+*CHI:	0 .
+%act:	s' apropa a f
+*FER:	he descobert terra .
+*FER:	si fessim uns forats veuriem molta terra .
+*FER:	pero com ara no es pot .
+*FER:	0 .
+%act:	fa un forat a la terra de la planta amb un cotxe , no para d' enraonar
+*FER:	mira alvar .
+*FER:	una trampa .
+*CHI:	per aqui no es pot passar aqui .
+*FER:	es que estoy haciendo un agujero , hombre .
+*FER:	eres tu el que no puede pasar .
+*CHI:	tu tampoco .
+*FER:	no puedes pasar conmigo porque hay una trampa .
+*FER:	vaig a desmontar el fang .
+*CHI:	eh ?
+*FER:	que vaig a desmontar el fang [= posa un camio sobre la sorra] .
+*FER:	estic desmontant el fango .
+*CHI:	jo estic agafant aquesta terra per posar <una (.) > [/?] una porta al meu cotxe .
+*FER:	ai , he caigut !
+*FER:	mira , el meu camion flota [= posa el camio dins una piscina que hi ha a la terrassa] .
+*FER:	i el teu cotxe de bomberos no es pot posar a l' aigua .
+*FER:	i el meu camion si .
+@Comment:	f enraona tot sol mentre juga
+*CHI:	calleu tontos [= als gossos d' abans] .
+*CHI:	calleu .
+*INV:	i tu que fas alvar ?
+*CHI:	xxx xxx una rampa per baixar aixo .
+*INV:	per baixar +...
+*INV:	que es aixo ?
+*INV:	un cotxe de bombers ?
+*CHI:	0 [= no contesta] .
+*FER:	si .
+*FER:	es el seu cotxe de bombers [= amb un cert to d' enveja] .
+*INV:	es molt gros , eh , aquest cotxe .
+*FER:	pero el seu no es pot banyar i el meu si .
+*INV:	ah , no es pot banyar ?
+@Comment:	enraonen f i e
+*CHI:	aixo [/?] es un trampa aixo .
+*FER:	aixo i lo meu es una trampa .
+*FER:	molt grossa .
+*CHI:	a veure [% "a veua" , va a mirar la trampa de f] .
+*CHI:	<la meta> [/?] la meva tambe fa una trampa .
+*CHI:	no xxx xxx ni una trampa .
+*FER:	jo tambe tinc una trampa molt grossa .
+*CHI:	aquesta es meva .
+*FER:	ja veuras quina trampa mes grossa .
+@Comment:	tall a la cinta , entra el pare en escena
+*PAR:	quin desastre has organitzat aqui .
+%add:	ALV
+*PAR:	juga amb aquest petitet .
+*PAR:	i carregues aquest volquet tan maco .
+*CHI:	no .
+*PAR:	bueno .
+*CHI:	jo vull portar cotxes grans .
+*PAR:	pues porta cotxes grans .
+*PAR:	es que ademes +/.
+*FER:	ara vaig jo .
+*PAR:	aixo .
+*PAR:	deixa aquest tractor .
+%add:	FER
+*CHI:	0 .
+%act:	va corrent cap a f
+*PAR:	no , que el va a desar .
+@Comment:	tall a la cinta , f i a juguen amb la sorra de la planta pero ara sense camions
+*FER:	xxx xxx .
+*CHI:	si que +...
+*FER:	si no serveix per res .
+*FER:	i tu em dones un cotxe dels teus ?
+*CHI:	no .
+*CHI:	no te'l deixo .
+*FER:	bueno .
+*FER:	si no me'l dones jo no et deixare el tractor aquest .
+*FER:	eh , alvar aqui no xxx xxx .
+*FER:	que estic treballant jo .
+@Comment:	f enraona tot sol , f enraona amb e , a va jugant tot sol i no diu res
+*INV:	que la veus la tele tu ?
+%add:	FER
+*FER:	clar que si .
+*INV:	ah !
+*INV:	i l' alvar ?
+*CHI:	tambe .
+*FER:	tu no veus .
+*CHI:	si .
+*FER:	qui es james bond ?
+*CHI:	un senyor que canta .
+*FER:	no .
+*FER:	no canta .
+*FER:	es en una pel'licula que fan invents .
+*FER:	i no canten .
+*INV:	ale , quina dutxa !
+%add:	FER
+*CHI:	que ?
+*INV:	s' ha mullat el ferran .
+@Comment:	f enraona amb e , a va jugant sol i no diu res , se sent un soroll de fons
+*CHI:	que es aixo ?
+*CHI:	que es aixo que pica ?
+%add:	INV
+*INV:	ah no se que es aixo que pica .
+*INV:	que deu ser ?
+*CHI:	que es aixo que pica [= va corrent a preguntar'li a p] ?
+*PAR:	res .
+*PAR:	son uns senyors que estan arreglant algo .
+@Comment:	a torna a la planta
+*FER:	mira quina pilota [= ensenya a a dues pilotes] .
+*FER:	quina vols tirar a la piscina ?
+*FER:	aquesta ?
+*FER:	aquesta vols tirar , no ?
+*FER:	la vols tirar aqui [= assenyala la piscina] ?
+*CHI:	0 .
+%act:	agafa la pilota i la llenca a la piscina
+*FER:	i aquesta tambe ?
+*CHI:	0 .
+%act:	va a agafar la pilota
+*FER:	no , no , no .
+*FER:	que aquesta esta molt bruta .
+*CHI:	la mullo [% "a muio"] .
+*FER:	no , que esta molt bruta [= llenca la pilota a terra] .
+*CHI:	0 .
+%act:	va a buscar la pilota
+*CHI:	l' agafare i la [= la llenca a la piscina] +...
+*FER:	ja veuras com s' embruta l' aigua .
+*FER:	i no et podras banyar .
+*CHI:	no passara aixo .
+*CHI:	eh que +/.
+%add:	INV
+*FER:	no [= l' estira de la samarreta] .
+*FER:	si que passa algo perque no es pot banyar .
+*CHI:	eh que no passa res ?
+%add:	INV
+*CHI:	a la piscina .
+*INV:	oh , si l' aigua esta bruta .
+*INV:	llavors no us banyareu be .
+*INV:	clar .
+*INV:	t' embrutaras .
+@Comment:	f enraona amb e
+*INV:	que fas alvar ?
+*INV:	que poses sorra en el cotxe ?
+*CHI:	eh ?
+*INV:	poses sorra en el cotxe ?
+*CHI:	no , no .
+*FER:	eh , el puc agafar aquest cotxe ?
+*CHI:	no , no .
+*FER:	i la moto ?
+*FER:	si [= agafa la moto] .
+*CHI:	0 .
+%act:	pega a f
+*INV:	ei , ei , ei !
+*INV:	que es aixo ?
+*CHI:	no [= plora , vol la moto] .
+*CHI:	jo vull la moto [= plora] .
+*CHI:	jo vull +...
+*CHI:	0 [=! plora desesperadament] .
+*INV:	ui , que aixo es complica .
+*INV:	no ploris alvar .
+*INV:	si tu tens moltes coses .
+*CHI:	moto [= plora] .
+*INV:	pero deixa'li una mica .
+*INV:	no li vols deixar ?
+*CHI:	no [= plorant] .
+*INV:	li dones ferran ?
+*INV:	tu que ets un noi gran +...
+*CHI:	tu ja tens un camion ferran .
+*INV:	i tu tambe en tens un .
+%add:	ALV
+*INV:	no tens un camio tu ?
+%add:	FER
+*CHI:	si , mira'l .
+*INV:	clar .
+*INV:	doncs una cosa cada un .
+*CHI:	i si no te tiro aquest eh [= agafa el cotxe de bombers i vol pegar a f] !
+*INV:	ui , ui , ui !
+*CHI:	0 [=! plora] .
+*INV:	va alvar .
+*INV:	que despres et veuras aqui plorant i diras ai que petit que soc .
+*CHI:	0 [=! plora] .
+*INV:	alvar ets vols veure ?
+*INV:	et vols veure a la foto ?
+*INV:	mira , mira , mira .
+*INV:	que t' ho ensenyo .
+@Comment:	canvi , es veu l' avi amb l' alexandra , suposo que els altres estan consolant a a , ja esta , a ja no plora , fa esgrima amb f
+*FER:	no em fas mal .
+*FER:	ale , ale !
+*CHI:	0 .
+%act:	li pica mes fort amb l' espasa
+*PAR:	ei , ei !
+*PAR:	no tan fort .
+*PAR:	fluixet .
+*PAR:	cuidado alvar .
+*CHI:	i si no <te &ti (.) > [/?] te faig un [/?] un punyal al cap , eh .
+%add:	PAR
+*FER:	t' he fet mal [= pica amb l' espasa a a] ?
+*CHI:	no .
+*FER:	i ara ?
+*PAR:	cuidado .
+*FER:	eh alvar !
+*FER:	amb cuidado perque la meva espasa es mes petita .
+*FER:	i la teva es mes gran .
+*FER:	no em donguis a la ma .
+*CHI:	no .
+*CHI:	va .
+*FER:	no .
+*FER:	primer tinc de donar jo .
+*FER:	i tu a sota .
+*FER:	tu a sota i jo a dalt , vale ?
+*CHI:	si .
+*FER:	mira aixi [= li ensenya] .
+@Comment:	f i a lluiten
+*FER:	alvar .
+*FER:	cuidado quan jo no tinc l' escut aqui a la cara .
+*FER:	cuidado .
+*FER:	va .
+*CHI:	va .
+@End

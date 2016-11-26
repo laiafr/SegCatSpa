@@ -1,0 +1,113 @@
+@UTF8
+@PID:	11312/c-00001908-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Antoni Target_Child , MAR mare Mother , NOI noia Nurse
+@ID:	spa , cat|Serra|CHI|1;11.19||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|NOI|||||Nurse|||
+@Comment:	m s' apropa a a amb un bibero a la ma
+*CHI:	pcf [% "mam"] .
+*MAR:	mira que rico es esto antoni pruebalo .
+%com:	seu davant la trona d' a
+*CHI:	pcf [% "eh mom"] .
+%com:	m li dona el bibero a la ma
+*MAR:	tiene chocolate .
+*CHI:	chocolate [% "tete"] .
+*MAR:	si es mas bueno .
+@Comment:	a torna el bibero
+*MAR:	que si , que hay chocolate dentro .
+@Comment:	m insisteix , li torna a donar el bibero pero a no l' agafa , a protesta i intenta sortir de la trona
+*CHI:	pcf [% "imo ita dida" , assenyala el bibero] .
+*MAR:	que ?
+*CHI:	pcf [% "dida"] .
+*MAR:	que ?
+*CHI:	pcf [% "dida"] .
+*MAR:	que es xxx [% la xxx vol dir "pida"] ?
+@Comment:	es queden tots dos parats uns segons
+*MAR:	es buenisimo .
+*CHI:	no [= enf la lletra o , vol sortir de la trona] .
+@Comment:	m mou el bibero i mira a a
+*MAR:	mira , uy , yogur de chocolate (.) no quieres ?
+*CHI:	no .
+*MAR:	por que ?
+*MAR:	por que no quieres ?
+@Comment:	a es posa de peu
+*MAR:	no te pongas de pie que te vas a caer [= canvia el to de veu] .
+@Comment:	a de peu a la trona , m l' agafa amb la ma , a intenta sortir
+*MAR:	a donde vas ?
+*CHI:	pcf [% "pida"] .
+*MAR:	que es xxx [% la xxx vol dir "pida"] ?
+*CHI:	pcf [% "aiii" , intenta sortir de la trona] .
+*MAR:	0 .
+%act:	agafa a a amb la ma
+*MAR:	que es xxx [% la xxx vol dir "pida"] ?
+*MAR:	es que no se que es xxx [% la xxx vol dir "pida"] .
+*CHI:	pcf [% "pida pida"] .
+%com:	a ploriqueja i insisteix a sortir
+*MAR:	que esta fria ?
+*CHI:	0 [= continua ploriquejant] .
+*MAR:	que dices ?
+*MAR:	es que no te entiendo .
+*CHI:	pcf [% "pida pida"] .
+*MAR:	que es xxx [% la xxx es "pida"] ?
+*MAR:	es que no se que es xxx [% la xxx es "pida"] .
+*CHI:	pcf [% "pida pida"] .
+@Comment:	a a punt de caure , m s' aixeca i l' agafa
+*MAR:	ahora que pasa ?
+*MAR:	se cae .
+*CHI:	ai , cae (.) cae .
+*MAR:	te caes , eh ?
+*MAR:	te vas a caer .
+*CHI:	caer [% "quede"] .
+*MAR:	te vas a caer , eh ?
+@Comment:	a es segueix movent , intenta sortir , es puja als barrots pero m el te agafat
+*MAR:	pero que pretendes ?
+*MAR:	que te crees , que eres una gallina ?
+*MAR:	que te puedes poner en el palo del gallinero .
+*CHI:	a palo [% "a palo"] .
+*MAR:	en el palo .
+*MAR:	mira , prueba esta cosa tan buena que te ha traido la mama , ya
+	veras que rico .
+*CHI:	no , no .
+*MAR:	pues te llevare a la cunita , eh ?
+*CHI:	no .
+*MAR:	venga , que los papas van a cenar .
+*CHI:	pcf [% "mida"] .
+*MAR:	corre .
+*CHI:	pcf [% "oh laa"] .
+@Comment:	m crida a n que arriba , n es la mainadera d' a
+*MAR:	no estara muy caliente .
+*NOI:	el que , la sopa ?
+*MAR:	si [= riu] .
+*NOI:	no .
+*MAR:	si .
+*NOI:	claro la podemos dejar enfriar .
+@Comment:	mentre se sent a protestar i picar amb la cullera , a mira la taula on hi ha el plat i el bibero i produeix sons
+*NOI:	tu que , no fas nonetes@c ?
+*CHI:	no .
+*NOI:	i el bibe@c ?
+*MAR:	de campo y playa [>] .
+*CHI:	<pcf [% "ta"]> [<] .
+@Comment:	m demana a n mentre a les observa
+*MAR:	que quiere decir xxx [% la xxx vol dir "pida"] ?
+*NOI:	el que ?
+*MAR:	xxx [% la xxx vol dir "pida"] .
+*NOI:	xxx [% la xxx vol dir "pida"] ?
+*NOI:	xxx xxx (.) ah , xxx fria
+	[% les dues primeres paraules son xxx de veritat , es a dir no s' entenen , l' altra xxx vol dir "pida"]
+	.
+%com:	n agafa el bibero de la taula i li intenta donar
+*CHI:	pcf [% "pida"] .
+*NOI:	no , no esta fria esta bien .
+*CHI:	no [= gira el cap] .
+*NOI:	bueno .
+@Comment:	n deixa el bibero a la taula i se'n va , m agafa el bibero i el posa a l' altre canto de la taula
+*MAR:	la dejamos aqui para que se caliente un poquito porque con el calor
+	que hace no te preocupes que dentro de un minuto te la vas a tomar .
+*MAR:	trae agua mari .
+*CHI:	pcf [% "ui i utata" , segut mirant a m , gest de demanda] .
+*MAR:	que ?
+*MAR:	la cuchara si la has metido tu donde quieres que este mas que ahi .
+*CHI:	pcf [% "ete"] .
+@End

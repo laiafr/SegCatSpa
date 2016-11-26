@@ -1,0 +1,496 @@
+@UTF8
+@PID:	11312/c-00032018-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Emilio Target_Child , INE Inés Mother , CEC Cecilia Child , NAC Nacho Observer
+@ID:	spa|Vila|CHI|2;1.||||Target_Child|||
+@ID:	spa|Vila|INE|||||Mother|||
+@ID:	spa|Vila|CEC|||||Child|||
+@ID:	spa|Vila|NAC|||||Observer|||
+*INE:	oye Emilio .
+*INE:	vienes conmigo ?
+*NAC:	tienes calor Emilio ?
+*INE:	me voy .
+*INE:	a dónde quieres ir ?
+*CHI:	al Nacho . [+ sp]
+*INE:	a_ver a ignacio ?
+*CHI:	nacho .
+*INE:	ah !
+*INE:	éste es Nacho .
+*INE:	quieres ir con Nacho ?
+*CHI:	no . [+ sn]
+*INE:	no , pues qué quieres ?
+*INE:	eh chiquitín ?
+*INE:	qué hace el Nacho ?
+*CHI:	esto [% señala el tabaco] .
+*INE:	y qué es esto ?
+*CHI:	mira . [+ o]
+%com:	EMI va hacia donde CEC , CEC le habla al oído
+*CEC:	dilo fuerte .
+*CEC:	está fumando .
+*CHI:	fumando . [+ imit]
+*CEC:	muy bien !
+*INE:	oye .
+*CHI:	qué ?
+*INE:	qué está haciendo el Nacho ?
+*INE:	ignacio .
+%com:	EMI se toca la nariz
+*NAC:	está atontado el pobre Emilito .
+*NAC:	el calor verdad ?
+*NAC:	emilito .
+*CHI:	ten [% da una pelota a Nacho] . [+ o]
+*NAC:	qué me das ?
+*INE:	qué es esto ?
+*CHI:	se ha perdido . [+ o]
+*INE:	qué era ?
+%com:	EMI pega a CEC y ésta se vuelve
+*INE:	ven con mamá , ven chiquitín .
+*INE:	quieres que te haga mimitos ?
+*CHI:	sí . [+ sn]
+%com:	INE coge a EMI y NAC a CEC
+*INE:	a dónde quieres ir ?
+*CHI:	al Nacho . [+ sp]
+%com:	EMI va hacia NAC
+*NAC:	con Nacho .
+*INE:	esto te gusta y esto no te gusta .
+%com:	EMI mira un vaso de cerveza
+*CHI:	gusta . [+ o]
+%com:	EMI coge el vaso
+*INE:	me das un poco ?
+*INE:	gracias .
+*CHI:	0 .
+%act:	pide el vaso de cerveza a NAC
+*CHI:	esto ten . [+ o]
+*NAC:	de quién es esto ?
+*INE:	esto cómo se dice .
+*INE:	dame .
+*CHI:	dame . [+ imit]
+%com:	nac le da el vaso , EMI se lo devuelve
+*NAC:	par(a) mí .
+*CHI:	dámelo . [+ o]
+*NAC:	dámelo xxx .
+*NAC:	es mío .
+*CHI:	es mío , no . [+ imit]
+*NAC:	es mío , sí .
+*CHI:	eh ? [+ alt]
+*NAC:	para mí también !
+*NAC:	también es mío !
+*CHI:	aquí .
+*NAC:	eso es mío también .
+*CHI:	esto .
+%com:	EMI coge el tabaco
+*NAC:	mío xxx .
+*CHI:	esto . [+ rep]
+%com:	EMI coge el mechero
+*NAC:	esto es mío también .
+*CHI:	mío yo .
+%com:	EMI va hacia el magnetofón
+*NAC:	no es tuyo .
+*NAC:	es mío .
+*CHI:	es mío , no .
+*NAC:	es mío .
+*CHI:	no . [+ sn]
+*INE:	de quién es esto [% señala el magnetofón] ?
+*CHI:	nacho .
+*INE:	es del Nacho .
+*INE:	porque sino lo vas a parar .
+*CHI:	eh ! [+ alt]
+%com:	EMI manipula el magnetofón
+*INE:	ay el Nacho .
+*INE:	qué te dirá el Nacho ?
+*INE:	te dirá feo , ring^ring@o , feo .
+*CHI:	ah ! [+ alt]
+%com:	INE le hace cosquillas
+*INE:	dónde tienes la nariz ?
+%com:	INE le toca la nariz
+*INE:	aquí .
+*CHI:	mira [% señala la luz del magnetofón] . [+ o]
+*INE:	qué es esto ?
+*INE:	ring^ring^ring@o .
+%com:	CEC va hacia el magnetofón e impide que EMI siga tocándolo
+*CEC:	lo quiero xxx xxx xxx .
+*CHI:	es tuyo , no . [+ o]
+*NAC:	no Cecilia , no seas tonta .
+%com:	NAC le quita el magnetofón a CEC , NAC lo da a EMI
+*NAC:	toma Emilio .
+*NAC:	ponlo allí encima de la mesa .
+*CHI:	qué ? [+ alt]
+*NAC:	en la mesa encima .
+%com:	EMI pone el magnetofón en la mesa
+*NAC:	muy bien .
+*INE:	aquí para ti y para mí .
+*INE:	vale ?
+*INE:	dónde tienes la nariz ?
+%com:	EMI manipula el magnetofón
+*INE:	no toques , eh !
+*INE:	por qué lo tocas esto ?
+*INE:	no , porque se rompe .
+*INE:	escucha .
+%com:	EMI señala el magnetofón
+*INE:	de quién es esto ?
+*INE:	se lo digo a Nacho .
+*INE:	nacho mira .
+*CHI:	mira Nacho . [+ o]
+%com:	EMI toca el magnetofón
+*NAC:	no , no se toca .
+*CHI:	es mío . [+ o]
+*NAC:	no es tuyo .
+*NAC:	es mío mío .
+*INE:	de quién es ?
+*CHI:	ten . [+ o]
+%com:	EMI lo coge y lo da a NAC
+*NAC:	me lo das .
+*CHI:	ten . [+ rep]
+*NAC:	lo ponemos aquí , eh ?
+*CHI:	ten . [+ rep]
+%com:	NAC lo pone en una mesa , EMI sigue con la mano extendida reclamándolo
+*NAC:	no .
+*INE:	no se dice así .
+*INE:	cómo se dice ?
+*CHI:	dame . [+ o]
+*NAC:	dame .
+*INE:	dame , se dice dame .
+*NAC:	qué listo eres .
+*NAC:	lo sabes y por qué no lo dices .
+*CHI:	dame . [+ rep]
+%com:	EMI con el brazo extendido hacia NAC
+*NAC:	dame .
+*CHI:	dame . [+ rep]
+*NAC:	no mío , no .
+*CHI:	mío .
+*INE:	qué hace el Nacho ?
+*INE:	te lo ha quitado .
+*CHI:	sí . [+ sn]
+*INE:	qué te ha quitado el Nacho ?
+*INE:	qué te ha hecho ?
+*INE:	el qué ?
+*INE:	dímelo .
+%com:	EMI hace gestos hacia el magnetofón
+*INE:	qué quiere decir esto ?
+*NAC:	emilio tienes calor .
+*NAC:	sí verdad ?
+*NAC:	que hace mucho calor .
+*INE:	quieres bañarte ?
+*CHI:	a piscina . [+ sp]
+*INE:	en la piscina .
+*INE:	quieres bañarte en la piscina ?
+*CHI:	sí . [+ sn]
+*INE:	en dónde tienes la pelota ?
+*CHI:	pelota . [+ imit]
+*NAC:	la pelota .
+*NAC:	dónde está la pelota ?
+*CHI:	se ha perdido . [+ o]
+*NAC:	se ha perdido la pelota !
+*CHI:	sí <mío> [/] mío [% debería decir "mía"] .
+*NAC:	la pelota es tuya .
+*NAC:	sí tuya , pero +...
+*NAC:	dónde está ?
+*CHI:	mío [% debería decir "mía"] .
+*NAC:	corre a buscarla .
+*NAC:	dónde está la pelota ?
+*INE:	ya la tengo .
+*CHI:	qué ? [+ alt]
+*INE:	la pelota la tengo yo .
+*INE:	la quieres ?
+*CHI:	no . [+ sn]
+*INE:	no bueno .
+*CHI:	no . [+ rep]
+*INE:	pues si no la quieres nada .
+*CHI:	pelota .
+*INE:	qué te comprará mamá ?
+*CHI:	un polo .
+*INE:	un polo de qué ?
+*CHI:	un polo . [+ rep]
+*INE:	no tú me comprarás un polo .
+*CHI:	qué ? [+ alt]
+*INE:	tú me comprarás un polo .
+*CHI:	sí . [+ sn]
+*INE:	de qué .
+*CHI:	un polo . [+ rep]
+*INE:	chocolate o de leche .
+*CHI:	leche . [+ imit]
+*INE:	yo quiero un helado .
+*CHI:	helado mamá .
+*INE:	oye escucha .
+*CHI:	es mío xxx xxx . [+ o]
+%com:	EMI va hacia el magnetofón , INE juega con EMI
+*INE:	oye mamá .
+*CHI:	qué ?
+*INE:	me compras un polo ?
+*CHI:	sí . [+ sn]
+*INE:	sí ?
+*CHI:	sí . [+ rep]
+*INE:	vamos a comprar un polo .
+*CHI:	ten aquí . [+ o]
+%com:	EMI está con el magnetofón
+*INE:	tú eres mamá ?
+*CHI:	nacho no .
+%com:	EMI aparta a NAC del magnetofón
+*INE:	qué haces ?
+*CHI:	aquí [% señala el magnetofón y lo manipula] .
+*INE:	tú eres mamá ?
+*CHI:	esto [/] esto .
+*INE:	tú eres mamá ?
+*INE:	no toques xxx xxx xxx .
+*CHI:	no mamá .
+%com:	INE lo aparta y se lo lleva
+*INE:	a jugar .
+*CHI:	a mí un polo .
+*INE:	un polo .
+*INE:	tú eres mamá ?
+*CHI:	aquí [% señala el magnetofón] .
+*INE:	quieres algo ?
+*CHI:	un polo .
+*INE:	no , tú me compras un polo a mí .
+*CHI:	un polo . [+ rep]
+%com:	INE se lo sienta encima suyo
+*INE:	ah !
+*CHI:	un polo . [+ rep]
+*INE:	te hago ding+dong@c ?
+*INE:	huy qué mimoso !
+*INE:	a jugar ding+dong@c .
+*INE:	qué me comprarás a mí ?
+*CHI:	a mío .
+*INE:	ay que te caes .
+*CHI:	ding+dong@c . [+ alt]
+*INE:	oye .
+*INE:	oye mamá .
+*CHI:	qué ? [+ alt]
+*INE:	me compras un polo ?
+*CHI:	sí . [+ sn]
+*INE:	de qué .
+*INE:	tu mama yo soy , Emilio .
+*CHI:	emilio [% se señala] .
+*INE:	no , Emilio yo .
+*CHI:	cecilia .
+%com:	NAC hace cosquillas a CEC y ríe
+*INE:	qué hace Nacho ?
+*INE:	hace cosquillas a Cecilia .
+%com:	INE le quita la camisa a EMI
+*INE:	quieres que te quite esto ?
+*CHI:	quita mama no . [+ o]
+*INE:	sí , que hace calor .
+*CHI:	no [/] no es tuyo . [+ o]
+*INE:	no tuyo , es de Emilio .
+*INE:	esto qué es ?
+*INE:	es la oreja .
+%com:	EMI tira la camisa al suelo
+*INE:	qué has hecho ?
+*CHI:	las [% quiere decir "la has"] tirado . [+ o]
+*INE:	la has tirado !
+*INE:	por qué ?
+*CHI:	sí tirado . [+ o]
+*INE:	ring^ring@o .
+%com:	INE le hace cosquillas
+*INE:	es un niño muy precioso éste .
+*CHI:	mama espera . [+ o]
+%com:	EMI no se deja hacer cosquillas
+*INE:	que tengo que esperar ?
+*CHI:	espera mama . [+ o]
+%com:	EMI hace ademanes de bajarse
+*INE:	qué ?
+*INE:	quieres bajar ?
+*INE:	bueno .
+*CHI:	no . [+ sn]
+*INE:	quieres que te refresque un poquito ?
+*CHI:	sí . [+ sn]
+*INE:	traes la esponja .
+*CHI:	sí . [+ rep]
+*INE:	en el baño .
+%com:	EMI y NAC hacen cosquillas a CEC
+*NAC:	ay no , cosquillas no .
+*CHI:	ah . [+ alt]
+*CEC:	ay Emilio .
+*CHI:	cosquillas . [+ imit]
+*NAC:	cosquillas .
+*NAC:	anonon [/] anonon@c [% dormir] Emilio .
+*NAC:	a dormir .
+*CHI:	anonon@c [% dormir] no .
+*NAC:	anonon@c [% dormir] sí .
+*CHI:	anonon@c [% dormir] no . [+ rep]
+*NAC:	qué hacemos entonces ?
+*NAC:	cosquillas ?
+*CHI:	no , cosquillas no .
+%com:	NAC hace cosquillas a EMI
+*CHI:	0 .
+%act:	grita .
+*INE:	por qué gritas ?
+*NAC:	porque le hago cosquillas .
+*INE:	gritas ?
+*CHI:	ah . [+ alt]
+%com:	EMI y CEC se hacen cosquillas gritando y riendo
+*NAC:	qué pasa Emilio ?
+*CHI:	mamá .
+%com:	CEC sigue molestándole
+*INE:	escucha yo no quiero que grites .
+*INE:	es muy feo gritar .
+*CHI:	mama . [+ rep]
+*CHI:	0 .
+%act:	lloriquea .
+*INE:	qué te pasa ?
+*CHI:	mamá . [+ rep]
+*INE:	qué te molesta ?
+*CHI:	cosquillas .
+*INE:	quién te hace cosquillas ?
+*CHI:	ah . [+ alt]
+%com:	CEC vuelve a hacerle cosquillas
+*INE:	cecilia va , no le molestes !
+*NAC:	quién te hace cosquillas Emilio ?
+*CHI:	es mía . [+ o]
+%com:	EMI va hacia el magnetofón
+*NAC:	no es tuyo , no .
+*CHI:	ah . [+ alt]
+%com:	CEC le impide el paso a EMI
+*CHI:	0 .
+%act:	chilla .
+*INE:	qué horror !
+*CHI:	esta mama esta mama .
+*CHI:	0 .
+%act:	señala el vaso de cerveza .
+*INE:	trae una cerveza para el Nacho .
+*CHI:	vamos [% le coge la mano a INE] . [+ o]
+*INE:	dónde quieres ir ?
+*CHI:	cerveza . [+ imit]
+*NAC:	cerveza .
+*CHI:	sí . [+ sn]
+*NAC:	tráeme cerveza , corre .
+*INE:	vamos a buscar una cerveza ?
+*CHI:	sí . [+ sn]
+*INE:	venga .
+*CHI:	adiós .
+%com:	INE y EMI salen del cuarto
+*NAC:	adiós Emilio .
+*INE:	quieres comer algo ?
+*NAC:	no .
+*CHI:	algo no .
+*NAC:	el qué dices Emilio ?
+*CHI:	algo no . [+ rep]
+*NAC:	algo no ?
+*INE:	espera que le daremos cerveza al Nacho .
+%com:	al poner la cerveza cae un poco
+*NAC:	qué ha pasado Emilio ?
+*CHI:	mira [% señala la cerveza caída] . [+ o]
+*NAC:	qué es eso ?
+*CHI:	esto [% señala la cerveza caída] .
+*NAC:	pero , qué es esto ?
+*NAC:	qué ha pasado ?
+*CHI:	esto . [+ rep]
+*NAC:	se ha caído verdad .
+*CHI:	sí . [+ sn]
+*NAC:	hum .
+*NAC:	se ha caído , verdad Emilio ?
+*CHI:	uno yo mama .
+%com:	INE limpia la cerveza
+*CEC:	a mí lo que me gusta más es el champagné .
+*CHI:	champagné [% señalando el vaso de cerveza] . [+ imit]
+*CHI:	se cae . [+ o]
+*NAC:	se ha caído .
+*CHI:	qué ? [+ alt]
+*NAC:	se ha caído .
+*CHI:	se ha caído . [+ imit]
+*CHI:	uno mamá .
+%com:	INE entra con un vaso de cerveza , EMI extendido hacia INE
+*INE:	esto es de mama .
+*CHI:	uno .
+*INE:	para mí .
+*CHI:	para mí . [+ imit]
+*INE:	qué quieres .
+*INE:	agua .
+*CHI:	ah . [+ alt]
+*CHI:	0 .
+%act:	chilla con los brazos extendidos hacia el vaso de INE
+*INE:	no chilles .
+*INE:	qué quieres ?
+*CHI:	ah . [+ alt]
+*INE:	quieres agua ?
+*CHI:	agua no .
+*INE:	si no te gusta la cerveza !
+*CHI:	no , dámelo . [+ o]
+%com:	van hacia la cocina
+*CHI:	<ése> [/] ése es mío . [+ o]
+*INE:	éste es de mamá .
+*CHI:	no . [+ sn]
+*INE:	si no te gusta , pruébalo .
+*INE:	ya verás .
+*CHI:	no es tuyo . [+ o]
+*CHI:	uno [/] uno yo [% extiende los brazos hacia el vaso de INE] .
+*INE:	prueba que no te gusta .
+*CHI:	uno yo . [+ rep]
+%com:	EMI va hacia el vaso de NAC
+*NAC:	es mío esto .
+%com:	NAC le da una gota
+*NAC:	toma Emilio .
+*CHI:	ay . [+ alt]
+%com:	EMI la rechaza
+*NAC:	ay qué asco , verdad ?
+*NAC:	si no te gusta .
+*INE:	lo ves ?
+*NAC:	no te gusta .
+*CEC:	emilio ven , ten tu pelota .
+%com:	CEC le enseña la pelota , después coge una canica y la tira sobre la mesa
+*CHI:	mamá !
+*INE:	qué ?
+*CHI:	ah . [+ alt]
+*INE:	qué ha pasado ?
+*INE:	que te has asustado ?
+*INE:	es una canica esto .
+*INE:	ca^ni^ca .
+*INE:	cómo se llama ?
+*CHI:	canica . [+ imit]
+*INE:	ca^ni^ca .
+*INE:	cómo se llama ?
+%com:	INE le toca la frente
+*INE:	ay que malos esos chichones que tienes .
+*CHI:	ay . [+ alt]
+*NAC:	no te hace daño ?
+%com:	EMI tira la canica y la coge NAC
+*CHI:	pelotas .
+*NAC:	pelota , qué pelota ?
+*CHI:	se ha perdido . [+ o]
+*NAC:	se ha perdido sí la pelota .
+*CHI:	ten . [+ o]
+*NAC:	que no tengo la pelota yo !
+%com:	NAC pone la canica en el suelo
+*INE:	cómo se dice ?
+*CHI:	pelota dame . [+ o]
+*NAC:	pelota dame !
+*INE:	dame la pelota .
+*CHI:	dame . [+ o]
+*NAC:	no tengo yo la pelota .
+*NAC:	no sé .
+*NAC:	está por allí por el suelo .
+*CHI:	qué ? [+ alt]
+*CHI:	se ha perdido . [+ o]
+*NAC:	sí pero está allí .
+*CHI:	está allí . [+ imit]
+*CHI:	0 .
+%act:	ríe .
+%com:	EMI coge la canica
+*CHI:	pelota mama .
+%com:	EMI va tirando la canica
+*NAC:	dónde ha ido la pelota ?
+*CHI:	qué ? [+ alt]
+*NAC:	dónde ha ido ?
+*CHI:	aquí .
+*NAC:	pues cógela .
+%com:	EMI se ha colocado con las manos y piernas en el suelo y con la cabeza entre los brazos mirando al revés
+*NAC:	qué haces así puesto ?
+*CHI:	0 .
+%act:	balbucea .
+*INE:	que la estás buscando ?
+*CHI:	qué ? [+ alt]
+*CHI:	a buscar . [+ o]
+%com:	EMI va hacia NAC
+*NAC:	dónde está la pelota ?
+*INE:	qué ha pasado ?
+*NAC:	dónde está ?
+*NAC:	yo no la tengo .
+*CHI:	a_ver . [+ o]
+%com:	EMI coge las manos de NAC y hace que las abra para ver si está la canica
+*NAC:	y tanto que a_ver !
+*NAC:	mira la mano .
+*NAC:	yo no la tengo .
+*CHI:	qué ! [+ alt]
+*NAC:	bueno lo dejamos ya Emilio ?
+*CHI:	adiós .
+@End

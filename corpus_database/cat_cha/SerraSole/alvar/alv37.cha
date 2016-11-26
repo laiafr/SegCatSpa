@@ -1,0 +1,116 @@
+@UTF8
+@PID:	11312/c-00028051-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , MAR mare Mother , INV Investigator
+@ID:	cat|Serra|CHI|3;1.13||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	a esta a la seva habitacio , a sobre del llit hi ha joguines i a les esta tirant a terra
+*MAR:	aixo vols que surti a la pel'licula ?
+*INV:	ja veuras quan et vegis .
+*MAR:	aquest disbarat .
+*CHI:	0 .
+%act:	continua tirant objectes a terra i mirant la camera somrient
+*CHI:	caca [= ficant'se sota el bressol] .
+*MAR:	ets un pallasso .
+*CHI:	quin susto [% "qui sustu" , amagat sota el bressol] .
+*INV:	home si surts si +/.
+*MAR:	pero si no surts no et veuran .
+*CHI:	no em veuen els peus [% "no ma veuen els peus"] .
+*MAR:	la carme ha vingut per veure't .
+*CHI:	si ja la veig .
+*CHI:	si ja em veu [% "si ja ma veu"] .
+*INV:	si que et veig .
+*CHI:	veus com em veu [% "veus com ma veu" , s' aixeca] ?
+*INV:	i tant que et veig .
+*MAR:	vindra la xxx despres .
+@Comment:	a esta estirat sota el bressol amb l' esquena a terra i manipulantho
+*INV:	que s' ha fet malbe ?
+*CHI:	no .
+*INV:	i per que l' arregles ?
+*CHI:	perque esta molt trencat [% "perque esta mol tancat"] .
+*INV:	esta trencat ?
+*CHI:	0 .
+%act:	continua donant cops sota el bressol
+@Comment:	es veu un altra presa d' a sota el bressol pero des d' un altre angle , parlen d' algu pero no diuen el nom
+*CHI:	ha de venir .
+*INV:	ah !
+*INV:	pero espera +/.
+*MAR:	pero encara no ha vingut .
+*INV:	quan truqui t' amagues .
+*MAR:	quan truqui el timbre t' amagues , pero mentre tant surt , perque sino no et veiem i no te cap gracia estar aqui si no surts [% diu "mentres" en comptes de mentre] .
+*CHI:	si ja surto .
+*CHI:	veus [= traient el cap fora del bressol] ?
+*INV:	treu una mica el cap .
+*INV:	una miqueta nomes .
+*CHI:	0 [= mira a e] .
+*INV:	ara ja et veig .
+*CHI:	0 [= gira la cara] .
+*INV:	ara ja no et torno a veure .
+*CHI:	mira el tornavis [= ho agafa de terra junt a un martell] .
+*INV:	oi , quin martell mes maco .
+*INV:	i la escola nova que vas , com va ?
+*MAR:	explica'li a la carme com es diu la teva escola .
+*CHI:	no em veus [% "no ma veus" , amagant'se sota el bressol] .
+*INV:	no , es clar , no et veig .
+*MAR:	diga'li com es diu l' escola .
+*MAR:	la carme no sap a quina escola vas .
+*CHI:	0 .
+%act:	dona cops al bressol
+*INV:	no sap a quina escola va .
+*INV:	pobre alvar .
+*INV:	va a una escola que no sap .
+*CHI:	no em veus [% "no ma veus"] ?
+*INV:	no et veig , no .
+*INV:	esta clar que no et veig .
+*MAR:	i per que no li contestes el que t' ha preguntat la carme ?
+*MAR:	t' ha preguntat a quina escola vas .
+*MAR:	i com es diu la madame ?
+*CHI:	0 .
+%act:	torna a donar cops
+*INV:	que dius ?
+*CHI:	si jo et punxo [% "si jo ta punxo"] ?
+*INV:	em punxes amb que ?
+*CHI:	amb el tornavis .
+*INV:	a mi no em punxes tu .
+*CHI:	si .
+*INV:	que va !
+*CHI:	t' agafare el nas .
+*INV:	i que em faras al nas ?
+*CHI:	te l' agafare [% "tel gafare"] +...
+*CHI:	te'l tallare .
+*INV:	i que faras ?
+*CHI:	te'l tirare .
+*INV:	el tiraras a on ?
+*CHI:	al cel .
+*CHI:	i els ulls i la boca .
+*INV:	tot ?
+*CHI:	si .
+*INV:	i llavors que fare jo sense nas i sense ulls i sense boca ?
+*CHI:	i et tirare la barriga tambe [% "badiga" en comptes de barriga] .
+*INV:	pero que fare jo sense tot aixo ?
+*CHI:	i la bolsa .
+*INV:	escolta'm , contesta'm .
+*INV:	que fare jo sense nas i sense ulls i sense boca ?
+*CHI:	xxx .
+*INV:	no et sento , alvar .
+*MAR:	no se sent res des de aqui .
+*CHI:	sino et punxo [% "sino te punxo" , cridant] .
+*INV:	ara et sento .
+*CHI:	sino et punxo [% "sino te punxo"] .
+*INV:	amb que ?
+*INV:	amb que em punxes ?
+*CHI:	amb el tornavis [= cridant] .
+*INV:	si no punxa aquest tornavis .
+*CHI:	si [= amb veu ronca i cridant] .
+*INV:	que va !
+*CHI:	si que punxa .
+*INV:	i jo t' agafare el martell i et picare el nas .
+@Comment:	canvi d' escena , a torna a ser sota el bressol
+*INV:	t' has amagat ?
+*CHI:	si [= somriu] .
+*INV:	llavors no et trobara la mami@c .
+*CHI:	si .
+@Comment:	parlen frances durant uns 4 minuts
+@End

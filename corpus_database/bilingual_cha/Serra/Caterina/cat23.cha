@@ -1,0 +1,1087 @@
+@UTF8
+@PID:	11312/c-00001926-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Caterina Target_Child , MAR mare Mother , BER berto Brother , TAN tania Sister , AGA agata Sister , INV Investigator
+@ID:	spa , cat|Serra|CHI|1;11.01||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|BER|||||Brother|||
+@ID:	spa , cat|Serra|TAN|||||Sister|||
+@ID:	spa , cat|Serra|AGA|||||Sister|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	c esta asseguda a terra menjant una taronja
+*INV:	que fas caterina ?
+*INV:	que fas ?
+*CHI:	mandarina .
+*CHI:	un mandarina xxx .
+*INV:	esta bona ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	t' agrada ?
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	ja esta [% "ja estet"] .
+*CHI:	toma .
+*INV:	te l' has menjat ?
+*INV:	te l' has menjat tota ?
+*CHI:	toma magda [% "toma manda" , li allarga el plat] .
+*CHI:	xxx xxx .
+*INV:	que m' ho dones ?
+*CHI:	toma xxx .
+*CHI:	toma , toma .
+*CHI:	toma magda [% "toma tanta"] .
+*INV:	i ara que menges ?
+*CHI:	platano [% "patano"] .
+*INV:	hum !
+*INV:	i ara que fas ?
+*CHI:	toma .
+*CHI:	toma llevalo a la cocina [% "toma apotalo a la cochina"] .
+*CHI:	aixo tambien [% "xo tambien"] .
+*INV:	que portem el plat a la cuina ?
+*CHI:	si .
+*INV:	despres quan te l' haguis menjat .
+*INV:	no ?
+*CHI:	un p(l)ata +...
+*CHI:	0 [= esta pelant el platan] .
+*INV:	eh ?
+*BER:	hola !
+*INV:	qui ha vingut ?
+*CHI:	berto [% "beto"] .
+*INV:	qui ?
+*CHI:	el berto [% "el beto"] .
+*INV:	el berto ?
+*CHI:	si .
+*CHI:	el berto [% "e beto"] .
+*INV:	diga'li hola berto !
+*CHI:	hola berto [% "hola beto"] !
+*INV:	vine .
+*CHI:	vine .
+*INV:	crida'l .
+*CHI:	hola berto [% "hola beto" , ho diu cridant] !
+*INV:	crida'l que vingui .
+*INV:	diga'li vine .
+*CHI:	vine .
+*CHI:	ai jo no me puc &+pe mai el &+plata +...
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	mira susso .
+*CHI:	mira berto [% "mira beto"] .
+*BER:	que ?
+*CHI:	que vinguis [% "que minis"] .
+*INV:	que vinguis diu .
+*CHI:	que vinguis [% "que minis"] .
+*CHI:	oh mira [= s' espolsa el jersei] !
+*CHI:	0 [= estossega] .
+*CHI:	te tos .
+*BER:	aquesta te enchufe .
+*CHI:	no .
+*CHI:	per tu no .
+*CHI:	perque es mio [% "pa que es mio"] .
+*INV:	que li dones al berto de platano ?
+*INV:	que li dones ?
+*CHI:	no .
+*CHI:	0 .
+%act:	es menja el platan
+*INV:	nyam@c !
+*CHI:	mama xxx (.) xxx .
+*CHI:	0 .
+%act:	va menjant platan
+*CHI:	0 .
+%act:	s' aixeca i agafa el plat
+*INV:	on vas caterina ?
+*CHI:	a pipi .
+*INV:	a on ?
+*CHI:	fer pipi [% "me pipi"] .
+*INV:	a fer pipi ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	amb el plat i el platano ?
+*INV:	per que no ho deixes ?
+*CHI:	0 .
+%act:	va cap al passadis amb el plat a la ma
+*BER:	caterina , vine aqui .
+*CHI:	no .
+*MAR:	caterina .
+*CHI:	toma [= li dona el plat] .
+*CHI:	xxx xxx [% "ato vemel"] .
+*MAR:	on vols que ho tiri ?
+*CHI:	a un pipi .
+*MAR:	vine que et descordo .
+*CHI:	0 .
+%act:	fa pipi a l' orinal
+*INV:	que fas ?
+*CHI:	pipi .
+*INV:	pipi ?
+*INV:	ja esta ?
+*INV:	on vas ara ?
+*CHI:	he fet pipi .
+*CHI:	mama pipi [= vol que m li pugi el pantalo] .
+*INV:	que t' ho pugi la mama .
+*INV:	diga'li a la mama que et pugi els pantalons .
+@Comment:	van a buscar a m
+*MAR:	que no et puges les calcetes ?
+*MAR:	que n' hem de fer de l' orinal ?
+*MAR:	tirar'lo al water ?
+*CHI:	0 .
+%act:	intenta pujar'se el pantalo
+*MAR:	puges [= l' ajuda] ?
+*CHI:	no , tu no , tu no .
+*MAR:	tu sola ?
+*CHI:	0 .
+%act:	acaba de pujar'se el pantalo
+*CHI:	<&+a> [/?] ara corda boto [% "ada coda boto"] .
+*MAR:	ara cordo el boto ?
+*CHI:	si .
+*CHI:	oh sabatilles [% "oh papatille" , mira les sabates d' o] !
+*CHI:	oh sabatilles [% "oh papatille"] !
+*INV:	t' agraden ?
+*INV:	t' agraden les sabates ?
+*CHI:	oh sabates [% "oh capabate"] !
+*CHI:	sabates [% "abate"] .
+*INV:	t' agraden ?
+*CHI:	no t' &+agra +...
+*CHI:	<e e e> [/?] es de la mama [% "ets a mama"] .
+*INV:	que son ?
+*CHI:	de mama .
+*INV:	que ?
+*CHI:	aixeca [% "xexeta" , intenta aixecar el peu d' e] .
+*CHI:	aixeca [% "xexeta"] .
+*CHI:	aixeca la sabateta [% "xeta abateta"] .
+*CHI:	aixeca un moment [% "xeca ment"] .
+*CHI:	aqui .
+*CHI:	treu aqui [= aixeca el peu d' e] .
+*INV:	ai , ai , ai !
+*INV:	que em faras caure +/.
+*CHI:	mira .
+*INV:	si em tires de les sabates .
+*CHI:	aqui , aqui .
+*INV:	a on ?
+*CHI:	xxx casa [% "xxx cada"] .
+*INV:	on em portes ?
+*INV:	va , que vinc amb tu .
+*CHI:	oh mira [= replega alguna cosa de terra] !
+*INV:	on em portes ?
+*CHI:	mira .
+*INV:	que has trobat ?
+*CHI:	xxx xxx s' ha trencat [% "xxx xxx s' ha cancat"] .
+*CHI:	a ver .
+*CHI:	s' ha trencat [% "s' ha cancat"] .
+*CHI:	este [% "ete"] .
+*CHI:	s' ha trencat este [% "s' ha tancat ete"] .
+*INV:	que es aixo ?
+*CHI:	s' ha trencat [% "s' ha quencat"] .
+*INV:	eh ?
+*CHI:	s' ha trencat aixo [% "s' ha quencat xo"] .
+*INV:	caterina .
+*INV:	agafem juguets i juguem ?
+*INV:	anem a buscar juguets ?
+*CHI:	si .
+*INV:	on son ?
+*CHI:	aqui [= assenyala amb el dit el menjador] .
+*INV:	a on ?
+*CHI:	a dintre la cartera [% "a tinte la cattera"] .
+*CHI:	mira a &+o +...
+*INV:	<al cuarto> [>] ?
+*CHI:	<dintre la cartera> [<] [% "tinte la cattera"] .
+*INV:	els tens al cuarto les joguines ?
+*CHI:	no .
+*CHI:	a dintre la cartera [% "a tinte la cattera" , assenyala la cartera]
+	.
+*INV:	si .
+*INV:	aquesta es la meva cartera pero no hi ha res .
+*CHI:	no hi ha res .
+*INV:	no hi ha res a dintre .
+*CHI:	aqui [= intenta obrir la cartera] .
+*INV:	hi havia la camera .
+*INV:	pero ara ja no .
+*CHI:	aqui .
+*CHI:	aqui [= te alguna cosa a la ma] .
+*CHI:	aixo es de la mama [% "axo e de la mama"] .
+*CHI:	aixo mama [% "axo ama"] .
+*CHI:	aixo mama [% "axo ama"] .
+*INV:	que ?
+*CHI:	aixo mama [% "axo ama"] .
+*INV:	que es aixo ?
+*CHI:	de la mama [% "de la ma"] .
+*INV:	de la mama ?
+*INV:	no .
+*INV:	meu .
+*CHI:	es tuyo ?
+*INV:	es meu , si .
+*CHI:	aixo mama [% "axo ama"] .
+*CHI:	aixo <&+e> [/?] es tuyo [% "axo e tuyo"] .
+*INV:	fica'ho a la cartera .
+*INV:	a la meva .
+*INV:	que esta alla .
+*CHI:	0 .
+%act:	ho fa
+*INV:	aixi .
+*INV:	molt be .
+*CHI:	mira [= replega alguna cosa de terra] .
+*CHI:	mira .
+*INV:	que has trobat ?
+*CHI:	un [/?] un aixo [% "un un xo"] .
+*INV:	que has trobat ?
+*CHI:	un [/?] un +...
+*CHI:	mira aixo xxx [% "mira xo xxx"] .
+*INV:	que es aixo ?
+*CHI:	es mio .
+*INV:	es teu ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	pero que es ?
+*CHI:	s' ha trencat aqui
+	[% "s' ha cancat aqui" , es posa l' objecte sobre la panxa] .
+*CHI:	s' ha trencat [% "s' ha cancat"] .
+*INV:	per posar't' ho aqui ?
+*CHI:	si .
+*CHI:	aqui .
+*CHI:	aixo mama
+	[% "axo ama" , afaga el que sembla una pila per la camera] .
+*INV:	aixo tambe es meu .
+*INV:	fica'ho tambe alla a la cartera .
+*CHI:	toma aguanta aixo [% "toma guanta xo"] .
+*INV:	t' ho aguanto .
+*CHI:	0 .
+%act:	va a posar'ho a la cartera
+*CHI:	no puedo [% "no pedo"] .
+*CHI:	no puedo [% "no pedo"] .
+*INV:	no pots ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	doncs deixa'ho al sofa .
+*INV:	alla a la butaca .
+*INV:	molt be .
+*INV:	caterina .
+*INV:	que m' ensenyes el llibre del teo ?
+*CHI:	si .
+*INV:	que me l' ensenyes i me l' expliques ?
+*CHI:	mira [= agafa un conte] .
+*INV:	on esta el llibre del teo ?
+*CHI:	mira .
+*INV:	no , aquest no es del teo .
+*CHI:	el te la mama .
+*INV:	no .
+*INV:	mira , esta alla .
+*INV:	mira .
+*CHI:	on ?
+*INV:	aqui , aqui .
+*INV:	mira .
+*INV:	esta aqui .
+*CHI:	aqui [= l' agafa] .
+*INV:	que me l' ensenyes ?
+*CHI:	mira [= l' obre] .
+*CHI:	mira .
+*CHI:	mira .
+*INV:	ui !
+*CHI:	un iaio .
+*INV:	que <hi ha> [>] ?
+*CHI:	mira [<] .
+*CHI:	un iaio .
+*INV:	un iaio ?
+*CHI:	si .
+*INV:	on esta ?
+*CHI:	mira .
+*CHI:	mira aqui .
+*CHI:	mira .
+*CHI:	esta aqui iaio [% "ta qui iaio"] .
+*INV:	esta aqui el iaio ?
+*CHI:	si .
+*CHI:	es mio .
+*INV:	es molt vellet .
+*CHI:	es mio .
+*INV:	si .
+*INV:	ja ho se .
+*CHI:	es mio .
+*INV:	es teu pero me l' ensenyes .
+*CHI:	jo &+ensen mira .
+*CHI:	mira .
+*CHI:	esto era un pez para mi [% "eto era un pe pa mi"] .
+*CHI:	es para mi [% "e pa mi"] .
+*INV:	es per tu ?
+*CHI:	si .
+*CHI:	<jo i> [//] es mio [% "jo i e mio"] .
+*INV:	on esta el gos ?
+*INV:	el gos , el conill i el teo i tots aquests que em vas ensenyar l'
+	altre dia ?
+*INV:	on son ?
+*CHI:	els te el papa .
+*CHI:	mira [= passa full] .
+*INV:	ah estan aqui !
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	no hi ha gos [% "no n' ha gocho"] .
+*CHI:	el gos para [% "el gocho pa"] +...
+*CHI:	ha dicho mama aqui [% "ha dicho mama qui" , assenyala amb el dit] .
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	mira [= va cap una habitacio] .
+*CHI:	mira .
+*CHI:	no hi ha gos [% "no hi ha goch"] .
+*INV:	que em vols ensenyar ?
+*CHI:	mira .
+*CHI:	un gos que hi ha aqui .
+*INV:	encen la llum .
+*CHI:	ai xxx [= va corrent cap el menjador] !
+*CHI:	mira .
+*INV:	que et passa ?
+*CHI:	que xxx xxx aquest [= assenyala el conte] .
+*INV:	t' enfades ?
+*CHI:	per que no xxx caballito [% "pa que no xxx caballito"] ?
+*INV:	ensenya'm el caballito .
+*INV:	ensenya'm el caball .
+*INV:	i el gos i tot allo que em vas ensenyar l' altre dia tan bonic .
+*CHI:	el gos no n' hi ha [% "el go no n' ha"] .
+*INV:	ui !
+*INV:	tota aquesta gent on son ?
+*INV:	en un tren ?
+*CHI:	mira .
+*CHI:	mira un gos [% "mira un gotu"] .
+*INV:	que es ?
+*CHI:	un gos [% "un gotu"] .
+*INV:	un gos ?
+*CHI:	guau@c .
+*INV:	guau@c .
+*CHI:	un gos [% "un go"] .
+*CHI:	guau@c .
+*INV:	guau@c .
+*INV:	que mes hi ha ?
+*CHI:	uno [= assenyala el conte] .
+*INV:	uno .
+*CHI:	mira [= passa full] .
+*CHI:	mira aqui .
+*INV:	i aqui ?
+*CHI:	<&+a> [/?] aqui bebe .
+*INV:	hi ha un iaio , no , tambe ?
+*INV:	a on ?
+*CHI:	un .
+*CHI:	esta aqui [% "ta qui"] .
+*INV:	ah si !
+*CHI:	alli era la xxx .
+*INV:	i el bebe ?
+*CHI:	aqui .
+*INV:	que es petit ?
+*CHI:	no .
+*CHI:	es grande [% "e gande"] .
+*INV:	es grande ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	tu creus ?
+*CHI:	es el xxx grande [% "e el xxx gande"] .
+*INV:	el iaio tambe ?
+*CHI:	mira .
+*CHI:	mira [= intenta passar full] .
+*CHI:	esto es xxx [% "eto e xxx"] .
+*CHI:	esto es para ti [% "eto che pa ti" , assenyala el conte] .
+*CHI:	i este para ti [% "i ete pa ti"] .
+*INV:	caterina , a veure si trobes la lluna , va .
+*CHI:	e(s)te ya et(s) +...
+*INV:	no l' has trobat !
+*INV:	i la lluna ?
+*CHI:	ala &+to +...
+*CHI:	toma [= llenca una pilota a e] .
+*INV:	t' has cansat ?
+*INV:	toma [= torna la pilota a c] !
+*CHI:	a sota la cadira
+	[% "a tota la caira" , assenyala la pilota que ha anat a parar a sota una cadira]
+	.
+*CHI:	a mi [= va a buscar la pilota] .
+*CHI:	mira .
+*CHI:	vine .
+*BER:	caterina .
+*INV:	qui et crida ?
+*CHI:	el berto [% "el beto"] .
+*INV:	el berto et crida ?
+*CHI:	<a a> [/?] a otra [% "a ona" , agafa un altre conte] .
+*CHI:	a +/.
+*INV:	qui ha vingut ?
+*CHI:	tania .
+*INV:	la tania ?
+*INV:	ha vingut a jugar amb tu ?
+*CHI:	si .
+*INV:	que t' agrada jugar amb la tania ?
+*CHI:	mira [= obre el conte] .
+*CHI:	mira .
+*CHI:	aquesta tania [% "aqueta tania"] .
+*INV:	que m' ensenyes ?
+*CHI:	<mira &+u> [/?] mira una bicicleta [% "mira un biqueta"] .
+*CHI:	una +...
+*CHI:	mira .
+*CHI:	mira una bicicleta [% "mira un biqueta"] .
+*TAN:	bichito .
+*CHI:	una bicicleta [% "un biqueta"] .
+*CHI:	mira <una bicicleta> [>] [% "mira un biqueta"] .
+*INV:	<una bicicleta> [<] !
+*INV:	si .
+*CHI:	hola tania !
+*TAN:	0 .
+%act:	seu al costat de c
+*CHI:	mira un [/?] un +...
+*TAN:	una moto vermella porta aquesta nena .
+*TAN:	i aquest una bicicleta .
+*CHI:	es mio [% "e mio"] .
+*CHI:	esto es mio [% "eto e mio"] .
+*TAN:	no es tuyo .
+*CHI:	mira <xxx xxx> [>] .
+*TAN:	<aquesta nena es petita> [<] .
+*TAN:	i porta una bicicleta petita .
+*CHI:	si .
+*TAN:	i tu ?
+*TAN:	com ets tu ?
+*CHI:	mira .
+*TAN:	tu com ets ?
+*CHI:	esta tambien es una bicicleta [% "eta ambien e una biiqueta"] .
+*TAN:	pero com ets tu ?
+*CHI:	uno .
+*TAN:	no , uno no .
+*TAN:	ja t' estas liant .
+*TAN:	com es la magda ?
+*CHI:	uno .
+*TAN:	no .
+*CHI:	gran [% "an"] .
+*TAN:	i tu ?
+*CHI:	petita .
+*TAN:	i jo ?
+*CHI:	petita .
+*TAN:	tambe soc petita ?
+*TAN:	jo soc aixi [= fa amb la ma el gest de regular] .
+*CHI:	<&+a ato e biqueta> [/?] aixo es bicicleta per la nena perque xxx
+	[% "ato e biqueta pa nena paque xxx"] .
+*TAN:	si , la nena porta una bicicleta .
+*TAN:	pero espera que encara no s' ha acabat .
+*CHI:	mira .
+*TAN:	has vist quin aigua ?
+*TAN:	es aigua de color vermell .
+*CHI:	mira .
+*TAN:	es aigua de color vermell .
+*CHI:	mira .
+*TAN:	cotxes .
+*CHI:	un cotxe vermell [% "un cotxe vamell"] .
+*TAN:	i un altre blanc .
+*TAN:	es blanc aquest .
+*CHI:	y este [% "a ete"] ?
+*TAN:	este vermell .
+*CHI:	y este [% "a ete"] ?
+*TAN:	aquest com es ?
+*TAN:	com es ?
+*CHI:	vermell [% "vamell"] .
+*TAN:	no .
+*CHI:	groc [% "go"] .
+*TAN:	no .
+*CHI:	vert .
+*TAN:	diga'ho fort .
+*CHI:	vert .
+*TAN:	diga'ho fort .
+*CHI:	y este [% "a ete"] ?
+*CHI:	y este [% "a ete"] ?
+*TAN:	aixo vermell .
+*CHI:	aixo vermell [% "xo vamell"] .
+*TAN:	si .
+*CHI:	y este [% "a ete"] ?
+*TAN:	aquest , vert .
+*TAN:	mes [= passa full] .
+*TAN:	que chulo !
+*TAN:	un avion .
+*CHI:	un avion [% "un aviom"] .
+*TAN:	que fa l' avio ?
+*CHI:	uuuum@c [= soroll d' avio , ho acompanya fent volar la ma] .
+*TAN:	i el cotxe ?
+*CHI:	chucucu@c .
+*TAN:	no .
+*TAN:	aixo es el tren .
+*TAN:	el cotxe .
+*CHI:	brrr@c .
+*TAN:	i el tren ?
+*CHI:	chucucu@c .
+*CHI:	mira tren .
+*TAN:	on esta el tren ?
+*TAN:	quants anys te la caterina ?
+*CHI:	uno [= posa un dit] .
+*CHI:	mira .
+*CHI:	mira [= assenyala el conte] .
+*TAN:	un avion grande .
+*CHI:	mira .
+*CHI:	mira un avion [% "mira un aiom"] .
+*TAN:	si , aquest esta volant .
+*CHI:	aquest esta volant [% "te ta volant"] .
+*TAN:	si .
+*CHI:	mira .
+*TAN:	aixo es un cotxe vert .
+*CHI:	mira .
+*CHI:	mira , mira .
+*TAN:	un camion vermell .
+*CHI:	mira .
+*CHI:	y este [% "a ete"] ?
+*TAN:	un altre camion pero de color blanc .
+*CHI:	mira .
+*CHI:	mira , un avion [% "mira un vaion"] .
+*TAN:	un avion .
+*TAN:	de quin color es aquest avion ?
+*CHI:	vermell [% "vamell"] .
+*TAN:	no .
+*TAN:	aixo es vermell .
+*TAN:	i aixo ?
+*TAN:	vert .
+*CHI:	groc [% "go"] .
+*TAN:	vert .
+*TAN:	que es aixo ?
+*CHI:	un pilota .
+*TAN:	si , la pilota .
+*CHI:	mira [= passa full] .
+*TAN:	i aixo que es ?
+*CHI:	pato .
+*TAN:	si .
+*CHI:	no n' hi ha aqui
+	[% "no n' ha qui" , es refereix a la cara interna de la tapa] .
+*TAN:	no n' hi ha .
+*CHI:	mira [= passa full enrera] .
+*CHI:	quin gos [% "quin gotu"] .
+*TAN:	un gos .
+*CHI:	mira .
+*TAN:	un gos negre .
+*CHI:	mira .
+*TAN:	aixo una nena .
+*CHI:	aixo una nena [% "xo un nena"] .
+*TAN:	si .
+*CHI:	mira .
+*TAN:	que ?
+*CHI:	y este [% "a ete"] ?
+*TAN:	aixo una senyora .
+*CHI:	aixo una senyora [% "xo una eniora"] .
+*CHI:	y este [% "a ete"] ?
+*TAN:	un nen .
+*CHI:	un nen .
+*TAN:	si .
+*CHI:	aixo que [% "xo que"] +...
+*CHI:	mira .
+*TAN:	aqui hi ha un pajarito .
+*CHI:	aixo un pajarito [% "ato un pajarito"] .
+*TAN:	pio@c pio@c pio@c .
+*CHI:	pio@c pio@c pio@c .
+*TAN:	que fa el gat ?
+*CHI:	miao@c miao@c .
+*TAN:	i el gos ?
+*CHI:	guau@c guau@c .
+*TAN:	miao@c miao@c .
+*TAN:	guau@c guau@c .
+*CHI:	ara jo [% "a jo"] .
+*TAN:	ara tu .
+*CHI:	guau@c .
+*TAN:	qui ha vingut ?
+*TAN:	l' agata .
+*TAN:	di hola agata !
+*CHI:	aqui [= assenyala en conte] .
+*TAN:	crida l' agata .
+*CHI:	aqui [= assenyala el conte] .
+*TAN:	crida l' agata .
+*CHI:	aqui .
+*TAN:	crida l' agata .
+*CHI:	hola agata [% "hola gata"] !
+*TAN:	vine .
+*CHI:	mira .
+*AGA:	hola !
+*CHI:	mira agata [% "mira gata"] .
+*AGA:	que es aixo ?
+*CHI:	un [/?] un ninyo con pantalones [% "un neno de palones"] .
+*AGA:	un ninyo con pantalones ?
+*CHI:	si .
+*AGA:	que ja has sopat caterina ?
+*CHI:	y este [% "a ete"] ?
+*CHI:	y este [% "a ete"] ?
+*AGA:	caterina , has sopat ?
+*CHI:	no .
+*AGA:	no has sopat encara ?
+*CHI:	ai mira [= es mou i li cau el conte] !
+*CHI:	ahora otro [% "ora uoto" , agafa un altre conte] .
+*CHI:	xxx a xxx .
+*CHI:	xxx .
+*TAN:	qui l' ha trencat aquest cuento ?
+*TAN:	qui l' ha trencat ?
+*CHI:	jo .
+*TAN:	tu .
+*TAN:	ets una dolenta .
+*CHI:	no .
+*TAN:	si .
+*CHI:	no .
+*TAN:	si que eres mala , si .
+*TAN:	que es aixo ?
+*TAN:	que es ?
+*CHI:	cristina [% "quitina"] .
+*CHI:	la lluna [% "a iuna" , assenyala la lluna en el conte] .
+*TAN:	si que es cristina .
+*CHI:	la lluna [% "a iuna"] .
+*CHI:	la lluna , la (.) xxx [% "la iuna , la pina" , canta] .
+@Comment:	c i t canten a duet
+*TAN:	i el pim pom ?
+*TAN:	ja li has cantat a la magda el pim pom ?
+*CHI:	pim pom es un munyeco [% "pim pom a nunyeco" , canta] .
+*CHI:	oh , un altre cop la lluna [% "oh un ate co la iuna"] !
+*TAN:	segueix .
+*TAN:	pim pom es un munyeco [>] [= canta] .
+*CHI:	munyeco [<] .
+*CHI:	la lluna , la pruna [% "a iuna , a puna" , canta] .
+*CHI:	0 [=! tarareja] .
+*TAN:	a , e , i , o , u .
+*CHI:	mira .
+*CHI:	un gato .
+*TAN:	de quin color es aquest gat ?
+*TAN:	negre [= li diu a cau d' orella] .
+*CHI:	negre [% "negue"] .
+*CHI:	y esta [% "a eta"] ?
+*TAN:	com es diu aquesta nena ?
+*TAN:	com es diu ?
+*CHI:	angui .
+*TAN:	angui no .
+*TAN:	chitina .
+*CHI:	chitina .
+*TAN:	chitina .
+*CHI:	este [% "a ete" , vol agafar la pilota] .
+*TAN:	pilota .
+*CHI:	aixo mira [% "xo mira"] .
+*CHI:	aixo mira [% "xo mira" , s' aixeca] .
+*TAN:	caterina .
+*TAN:	caterina .
+*TAN:	vine .
+*TAN:	sentat alla .
+@Comment:	es van passant la pilota
+*TAN:	no te saques el zapato .
+*CHI:	corda el zapato [% "a coda papato"] .
+*TAN:	el cordo ?
+*CHI:	si .
+*TAN:	despres li ensenyaras a la magda com et treus la sabata .
+*TAN:	vale ?
+*TAN:	despres .
+*TAN:	ara no .
+*CHI:	treure el zapato del peu [% "a teure papato de peu"] .
+*TAN:	si , el zapato del peu .
+*TAN:	veus , la magda porta zapatos i la tania tambe .
+*CHI:	y yo tambien .
+*TAN:	tu tambe .
+*CHI:	yo ten(g)o papa [: zapatos] +...
+*TAN:	l' agata tambien tiene zapatos .
+*TAN:	digues agata vine aqui .
+*TAN:	aqui .
+*TAN:	agata aqui .
+*CHI:	agata aqui [% "agata qui"] .
+*TAN:	caterina , obre les cames .
+@Comment:	fant un cercle amb les cames de t , a i c , van passantse la pilota
+*TAN:	toma [= passa la pilota a a] .
+*AGA:	toma [= passa la pilota a c] .
+*TAN:	a mi .
+*TAN:	a mi .
+*CHI:	toma .
+*TAN:	toma .
+%add:	AGA
+*AGA:	toma .
+%add:	CAT
+*CHI:	toma .
+%add:	AGA
+*TAN:	i jo ?
+*AGA:	la tania no .
+*AGA:	toma .
+%add:	CAT
+*TAN:	i jo ?
+*AGA:	la tania no .
+*TAN:	si .
+*CHI:	0 .
+%act:	passa la pilota a t
+*TAN:	ale !
+*CHI:	tu si .
+*TAN:	toma .
+%add:	CAT
+*CHI:	toma .
+%add:	AGA
+@Comment:	van passantse la pilota tot dient toma
+*CHI:	0 .
+%act:	s' estira a terra
+*AGA:	tramposa .
+*AGA:	seu alla .
+*CHI:	no .
+*CHI:	aqui [% "qui"] .
+*AGA:	aqui .
+*CHI:	aqui .
+*TAN:	molt be .
+*TAN:	toma [= a c] .
+*CHI:	toma [= a a] .
+*AGA:	toma [= a t] .
+*TAN:	toma [= a c] .
+*AGA:	de qui es aquesta pilota ?
+*CHI:	de l'agata [% "de la cata"] .
+*AGA:	de l' agata ?
+*AGA:	es mia ?
+*AGA:	no .
+*AGA:	de qui es ?
+*CHI:	es mia [% "e mia"] .
+*AGA:	es tuya ?
+*CHI:	0 [= fa que si amb el cap] .
+*AGA:	o mia ?
+*CHI:	es de la tania [% "e de la tania"] .
+*CHI:	si .
+*AGA:	pues li donem a la tania [= li passa la pilota] .
+*AGA:	ara qui ?
+*AGA:	ara la caterina .
+*TAN:	qui vols ?
+*CHI:	ara l' agata [% "ara la cata"] .
+*TAN:	ara l' agata ?
+*TAN:	toma [= passa la pilota a a] .
+*AGA:	i ahora ?
+*CHI:	ara jo .
+*AGA:	toma .
+*TAN:	i ahora ?
+*CHI:	toma [= a a] .
+*AGA:	i ara qui ?
+*TAN:	i jo ?
+*AGA:	que fas ?
+*CHI:	ara jo [= gateja per anar a buscar la pilota] .
+*CHI:	ara tu [% "a tu"] .
+*TAN:	i jo ?
+*CHI:	toma .
+*CHI:	ara l' agata i la caterina [% "ara la cata i la caterin"] .
+*TAN:	ara qui ?
+*AGA:	l' agata o la caterina ?
+*CHI:	a l' agata jo [% "a la cata jo"] .
+*CHI:	si .
+*TAN:	a l' agata si ?
+*TAN:	o la caterina ?
+*CHI:	y yo tambien .
+*TAN:	ara agata .
+*AGA:	toma .
+*AGA:	com es aquest peu [= assenyala el peu de c] ?
+*AGA:	petito .
+*CHI:	y este [% "a ete" , assenyala el peu de a] ?
+*AGA:	i aquest com es ?
+*CHI:	grande [>] [% "gande"] .
+*AGA:	grande [<] .
+*CHI:	y este [% "a ete" , assenyala el peu de t] ?
+*AGA:	grande .
+*CHI:	grande [% "gange"] .
+*TAN:	i el de la caterina ?
+*CHI:	petita .
+*AGA:	i aquest ?
+*AGA:	petitet , petitet .
+*TAN:	va tira .
+@Comment:	juguen a moure els peus i riuen
+*TAN:	secretito [= c diu a t alguna cosa a cau d' orella] .
+*TAN:	ara jo a l' agata .
+*AGA:	i jo a qui li dic el secretito ?
+*CHI:	ara jo .
+*AGA:	a tu ?
+*TAN:	diga'li el secretito a la caterina .
+*TAN:	ara tu a mi .
+*CHI:	0 [= diu alguna cosa a t a cau d' orella] .
+*TAN:	ara a l' agata .
+*CHI:	0 .
+%act:	es posa de panxa sobre la pilota
+*CHI:	<a a> [/?] la pilota [% "a pilota" , ha relliscat] !
+*CHI:	se me ha escapado [% "se m' ha capado"] .
+*CHI:	se me ha escapado aqui [% "se me ha capado qui"] .
+*CHI:	espera't [% "apera't" , deixa anar la pilota] .
+*CHI:	per aqui no [% "pe qui no"] .
+*INV:	per qui es ?
+*CHI:	es mia , es mia [% "e mia , e mia"] .
+*CHI:	<e mi , e mi> [/?] es mia [% "e mia"] .
+*CHI:	es mia , es mia , es mia , es mia
+	[% "e mia , e mia , e mia , e mia"] .
+*AGA:	xuta amb el peu .
+*AGA:	posa't de peu .
+*AGA:	i ara xuta .
+*CHI:	0 .
+%act:	ho fa
+*TAN:	molt be .
+*TAN:	ara jo .
+*AGA:	i jo ?
+*CHI:	ara jo .
+*AGA:	ara tu ?
+*TAN:	molt be .
+*TAN:	xuta .
+*CHI:	ara jo .
+*AGA:	ara tu .
+*CHI:	xuta [% "tuta"] !
+*CHI:	ara la tania .
+*TAN:	xuta !
+*CHI:	ara tu .
+*CHI:	ara jo .
+*CHI:	xuta [% "tuta"] !
+*TAN:	xuta !
+*CHI:	xuta [% "tuta"] !
+*TAN:	ara amb el nas .
+*TAN:	vale ?
+*CHI:	ara tania mira .
+*CHI:	tania mira .
+*CHI:	jo te dono +...
+*CHI:	mira .
+*CHI:	aqui [= s' apropa amb la pilota a t] .
+*CHI:	mira .
+*CHI:	amb el nas
+	[% "amb e na" , agafa el cap de t i l' ajup fins tocar la pilota] .
+*CHI:	amb el nas [% "amb el na"] .
+*TAN:	surt .
+*TAN:	xuta [= xuta amb el nas] !
+*AGA:	ara que ?
+*AGA:	amb el nas tambe ?
+*CHI:	0 .
+%act:	s' aixeca de terra i agafa la caixa de la cinta de gravacio
+*TAN:	aixo no .
+*TAN:	que se rompe .
+*CHI:	toma .
+*CHI:	toma [= li dona a e] .
+*CHI:	toma , toma .
+*INV:	gracies .
+*AGA:	i ara que ?
+*INV:	ui [= li ha caigut la caixa] !
+*CHI:	toma [= la replega i li dona] .
+*INV:	gracies .
+*CHI:	0 .
+%act:	torna a seure a terra
+*CHI:	ara jo .
+*CHI:	xuta [% "tuta"] !
+*TAN:	xuta !
+*CHI:	ara jo .
+*CHI:	ara de peu .
+*CHI:	xuta [% "tuta"] !
+*TAN:	xuta !
+*CHI:	xuta [% "tuta"] !
+*CHI:	xuta [% "tuta"] .
+*INV:	ara jo .
+*INV:	a qui li dono jo ?
+*INV:	a qui li dono ?
+*CHI:	a mi .
+*INV:	a tu ?
+*CHI:	ara tu .
+*CHI:	xuta [% "tuta"] !
+*TAN:	0 .
+%act:	agafa la pilota
+*CHI:	es mia [% "e mia"] .
+*AGA:	i la pilota [= l' ha amagat] ?
+*AGA:	on esta la pilota ?
+*CHI:	0 .
+%act:	s' aixeca i surt del menjador
+*AGA:	caterina .
+*TAN:	esta aqui .
+*CHI:	la pilota on esta [% "a pilota ata"] ?
+*AGA:	esta aqui .
+*TAN:	caterina .
+*CHI:	0 [= ha sortit del menjador] .
+*CHI:	aqui .
+*CHI:	aqui [= arriba amb una altra pilota] .
+*TAN:	caterina esta aqui la pilota .
+*CHI:	a on es ?
+*CHI:	esta aqui , esta aqui [% "ta qui , ta qui"] .
+*CHI:	toma [= llenca la pilota] !
+*TAN:	toma !
+*AGA:	aquesta es mes petita .
+*TAN:	tu em tires aquesta a mi .
+*AGA:	tira .
+*TAN:	toma , fes toma .
+*CHI:	no .
+*AGA:	tira tu .
+*AGA:	les dues .
+*AGA:	toma [>] !
+*CHI:	toma [<] !
+*CHI:	toma !
+*CHI:	es mia [% "e mia" , vol la pilota que te a] .
+*AGA:	es mia .
+*AGA:	elis , elis !
+*CHI:	<e e e> [/?] es mia [% "e mia" , li pren la pilota] .
+*AGA:	caterina , aixi no .
+*AGA:	com es demana ?
+*CHI:	per favor [% "pe papo"] .
+*TAN:	caterina .
+*CHI:	toma [= llenca la pilota] !
+*TAN:	xuta !
+*CHI:	xuta no [% "tuta no"] .
+*CHI:	oh [= juga amb la pilota] !
+*CHI:	es mia [% "e mia"] .
+*CHI:	es mia , es mia [% "e mia , e mia"] .
+*TAN:	toma , toma .
+*CHI:	esta es mia [% "eta e mia"] .
+*TAN:	toma .
+*CHI:	es mia , es mia , es mia [% "e mia , e mia , e mia"] .
+*TAN:	es mio , es mio .
+*TAN:	0 .
+%act:	amaga la pilota darrera seu
+*CHI:	aqui [= busca la pilota] .
+*CHI:	estira't [% "tira't"] .
+*CHI:	estira [% "atira" , fa que t s' estiri a terra] .
+*TAN:	on esta ?
+*CHI:	la pilota [% "a pilota"] ?
+*TAN:	no esta .
+*CHI:	la pilota [% "a pilota"] .
+*TAN:	no esta .
+*TAN:	i la groga ?
+*CHI:	0 .
+%act:	va a buscar la pilota groga que te a
+*AGA:	aquesta de quin color es ?
+*CHI:	vermell [% "vamell"] .
+*AGA:	no .
+*AGA:	no es vermell .
+*AGA:	es taronja .
+*CHI:	es taronja [% "e tonja"] .
+*AGA:	i aquesta ?
+*CHI:	vermell [% "vamell"] .
+*AGA:	no [>] .
+*TAN:	no [<] .
+*CHI:	es taronja [% "e tonja"] .
+*AGA:	no .
+*AGA:	aquest es groc .
+*CHI:	es groc [% "e go"] .
+*AGA:	i aquesta ?
+*AGA:	de quin color es aquesta ?
+*CHI:	vermell [% "vamell"] .
+*AGA:	no .
+*AGA:	de quin color es ?
+*AGA:	taronja .
+*CHI:	taronja [% "tonja"] .
+*TAN:	taronja .
+*CHI:	taronja no [% "toronja no"] .
+*CHI:	taronja [% "lonja"] .
+*TAN:	0 .
+%act:	fa moneries amb la pilota
+*CHI:	es mia , es mia [% "e mia , e mia"] .
+*AGA:	caterina .
+*TAN:	com esta la caterina .
+*CHI:	contenta [% "cotenta"] .
+*TAN:	contenta .
+@Comment:	enraonen a i t
+*AGA:	que fas ?
+*CHI:	bona nit [% "bona ni"] .
+*AGA:	bona nit ?
+@Comment:	t i c donen voltes de genollons per darrera el sofa buscantse
+*CHI:	i la tania ?
+*AGA:	i la tania ?
+*TAN:	0 .
+%act:	treu el cap
+*CHI:	0 [=! riu] .
+*CHI:	i la tania ?
+*TAN:	0 .
+%act:	treu el cap
+*CHI:	aqui , aqui .
+*TAN:	0 .
+%act:	s' amaga
+*CHI:	i la tania ?
+*CHI:	no n'hi ha [% "no n' hi ha"] .
+*CHI:	ara tu .
+*AGA:	jo no .
+*CHI:	si .
+*CHI:	up@c no [= estira a a] .
+*AGA:	a terra no .
+*CHI:	<a &+te> [/?] a terra si [% "a tela si"] .
+*AGA:	no .
+*AGA:	que fas ?
+*CHI:	ara peus [= vol que a l' agafi pels peus] .
+*AGA:	els peus ?
+*AGA:	i t' estiro cap a dalt ?
+*CHI:	0 [= fa que si amb el cap] .
+*AGA:	no .
+*AGA:	t'estiro [= ho fa] ?
+*CHI:	0 [=! riu] .
+*CHI:	ara mes [% "a me"] .
+*CHI:	mes [% "me"] .
+*AGA:	mes no .
+*CHI:	ara mes [% "ara me"] .
+*CHI:	ara mes [% "ara me"] .
+*AGA:	ara que ?
+*AGA:	aixi ?
+*CHI:	0 .
+%act:	es posa de panxa a terra
+*AGA:	et donaras un coco@c .
+*AGA:	que no .
+*CHI:	que si .
+*AGA:	que no .
+@Comment:	a i t agafen c i fan la barqueta
+*CHI:	ara mes [% "ara me"] .
+*CHI:	ara mes [% "ara me"] .
+*AGA:	mes no .
+*CHI:	ara mes [% "ara me"] .
+*AGA:	no .
+*CHI:	mes [% "me" , crida] .
+*AGA:	aixi no .
+*CHI:	ara mes [% "ara me"] .
+*AGA:	aixi no .
+*AGA:	com ho demanes ?
+*CHI:	per favor [% "pe papo"] .
+*AGA:	i com esta la caterina ?
+*CHI:	contenta !
+*AGA:	i plora la caterina ?
+*CHI:	no .
+*AGA:	no .
+@Comment:	li tornen a fer la barqueta
+*TAN:	ja esta .
+*CHI:	ara mes [% "ara me"] .
+*CHI:	ara aqui , ara aqui [% "ara qui , ara qui"] .
+*AGA:	no .
+*TAN:	aixi no .
+*TAN:	no .
+*AGA:	se acabo .
+*CHI:	0 [=! plora] .
+*AGA:	caterina .
+*AGA:	que ets una nena tonta ?
+*AGA:	esta plorant la caterina ?
+*CHI:	0 [= continua plorant] .
+*AGA:	la magda es pensara que es una mimada .
+*AGA:	ets un bebe ?
+*CHI:	0 [= continua plorant] .
+*AGA:	0 [= li diu alguna cosa a cau d' orella] .
+*CHI:	0 .
+%act:	agafa un conte
+*CHI:	mirare aquest .
+*INV:	caterina .
+*INV:	me'n vaig .
+*INV:	diga'm adeu .
+*AGA:	que se'n va la magda .
+*INV:	diga'm adeu .
+*CHI:	adeu [% "adieu"] .
+*CHI:	ara vaig a xxx [% "a vaig a xxx"] .
+*CHI:	cartera tambe [= va a buscar la cartera de e] .
+*INV:	ah que tambe m' emporti la cartera !
+*INV:	si , ara me l' emporto .
+*CHI:	aixo no [% "xo no"] .
+*CHI:	aixo no [% "xo no"] .
+*INV:	aixo no ?
+*INV:	si aixo tambe m' ho emporto .
+*INV:	m' ho enduc tot .
+*CHI:	oh !
+*INV:	que passa ?
+*CHI:	no puedo
+	[% "no pedo" , allarga a e un tros de suro , la cartera esta sota d' una pila de coses]
+	.
+*INV:	no pots ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	ja l' agafo jo .
+*INV:	mira , apartem aixo .
+*INV:	i ara ja surt .
+*INV:	ja ho veuras .
+*INV:	ja veuras com surt la cartera ara .
+*INV:	agafa'la .
+*INV:	que me la dones ?
+*CHI:	toma [= allarga a e un altre tros de suro] .
+*INV:	aixo i la cartera .
+*INV:	que et costa ?
+*INV:	ara .
+*INV:	molt be .
+*INV:	gracies .
+*CHI:	aixo no [% "xo no" , el suro] .
+*CHI:	aixo no [% "axo no"] .
+*INV:	aixo si .
+*CHI:	aixo si [% "axo si"] .
+*CHI:	aqui .
+*CHI:	aqui si [= vol posar el suro dins una capsa] .
+*CHI:	aqui .
+*CHI:	jo poso aqui [% "jo pono aqui"] .
+*INV:	aqui .
+*CHI:	aqui .
+*CHI:	aqui .
+*INV:	ai que cau !
+*CHI:	ai !
+*CHI:	esto no cabe [% "eto no cabe"] .
+*INV:	no ?
+*AGA:	aixi si que no cabe .
+*CHI:	aixi no cabe [% "xi no cabe"] .
+*AGA:	girat .
+*AGA:	molt be .
+*INV:	ara !
+*INV:	caterina no ho tanquis .
+*INV:	he de posar aixo .
+*INV:	aixo aqui dintre [= la camera] .
+*CHI:	0 .
+%act:	obre la capsa
+*CHI:	aixo tambien [% "axo tambien"] .
+*INV:	aixo aqui dintre .
+*CHI:	si .
+*INV:	si .
+*CHI:	<&+a> [/?] aixo [% "axo"] .
+@End

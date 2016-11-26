@@ -1,0 +1,1711 @@
+@UTF8
+@PID:	11312/c-00032002-1
+@Begin
+@Languages:	spa
+@Participants:	CHI emilio Target_Child , INE ines Mother , NAC nacho Observer , HER hermana Sister , JOS jose Father
+@ID:	spa|Vila|CHI|1;00.10||||Target_Child|||
+@ID:	spa|Vila|INE|||||Mother|||
+@ID:	spa|Vila|NAC|||||Observer|||
+@ID:	spa|Vila|HER|||||Sister|||
+@ID:	spa|Vila|JOS|||||Father|||
+@Comment:	josé está fumando
+*CHI:	aaia .
+%com:	emilio sentado en el parque rodeado de cubos levanta la cabeza
+*CHI:	0 .
+%act:	ríe y se gira hacia josé .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*CHI:	0 .
+%act:	baja la cabeza hacia el cubo .
+*CHI:	0 .
+%act:	coge un cubo .
+*CHI:	0 .
+%act:	juega con los cubos serio .
+*CHI:	0 .
+%act:	levanta la cabeza hacia la cámara .
+*CHI:	0 .
+%act:	apoya la mano en la malla del parque teniendo un cubo en la mano y levanta la cabeza .
+*CHI:	elele .
+*CHI:	0 .
+%act:	se pone de pie apoyado en la malla .
+%com:	se oye ruido de la calle
+*CHI:	0 .
+%act:	de pie gira la cabeza hacia la terraza .
+*CHI:	0 .
+%act:	se acerca hacia la terraza apoyándose en el parque .
+%com:	viene inés por el pasillo
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	ia .
+*CHI:	0 .
+%act:	se dirige hacia inés mostrándole el cubo que tiene en la mano .
+*INE:	es bonito .
+*INE:	verdad ?
+*CHI:	0 .
+%act:	se gira contento y ríe .
+*CHI:	0 .
+%act:	se gira hacia josé y ríe .
+*CHI:	ege .
+*INE:	0 .
+%act:	se sienta en una silla que está en la esquina del balcón y queda medio escondida .
+*CHI:	0 .
+%act:	gira la cabeza hacia el cubo .
+*CHI:	0 .
+%act:	gira la cabeza hacia la inés y la busca .
+*INE:	0 .
+%act:	saca la cara de detrás de la cristalera .
+*INE:	cucut .
+*CHI:	0 .
+%act:	está quieto .
+*INE:	0 .
+%act:	se esconde .
+*INE:	0 .
+%act:	saca la cabeza .
+*INE:	cucut .
+*CHI:	aii .
+*CHI:	0 .
+%act:	se acerca a inés contento .
+*JOS:	emilio !
+*CHI:	0 .
+%act:	gira la cabeza de reojo .
+*INE:	0 .
+%act:	saca la cabeza .
+*INE:	cucut .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*INE:	0 .
+%act:	se va .
+*CHI:	ia .
+*CHI:	0 .
+%act:	contento se gira hacia inés .
+*CHI:	0 .
+%act:	gira la cabeza contento y ríe .
+*CHI:	0 .
+%act:	gira la cabeza contento y se mueve .
+*JOS:	emilio .
+*CHI:	0 .
+%act:	gira la cabeza .
+*JOS:	ven aquí .
+*JOS:	cariño .
+*JOS:	ven aquí .
+*CHI:	0 .
+%act:	quieto y girado hacia josé se ríe .
+*CHI:	0 .
+%act:	gira la cabeza hacia el otro lado y ríe .
+*CHI:	mejj [% balbucea] .
+*CHI:	0 .
+%act:	gira la cabeza y ríe .
+*JOS:	ven aquí .
+*CHI:	0 .
+%act:	se mueve hacia el otro lado del parque de espaldas .
+*JOS:	emilio .
+*CHI:	0 .
+%act:	se va moviendo apoyado en el parque rodeándolo y gira la cabeza .
+*CHI:	aaijj .
+*CHI:	0 .
+%act:	gira la cabeza contento .
+*CHI:	a .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	se gira de espaldas y se mueve de arriba hacia abajo por el pasillo contento como si fuera un mono .
+*CHI:	0 .
+%act:	tira el cubo al suelo .
+*CHI:	0 .
+%act:	se agacha a cogerlo .
+%com:	nacho de pie junto al parque habla con merche , emilio está de pie en el parque con la cabeza levantada y serio
+*CHI:	0 .
+%act:	gira la cabeza .
+*NAC:	emilio .
+*CHI:	0 .
+%act:	va andando hacia un extremo del parque apoyándose en la baranda .
+*JOS:	emilio .
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*CHI:	0 .
+%act:	baja la cabeza .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*NAC:	titiriti .
+*CHI:	0 .
+%act:	ríe y echa la cabeza hacia atrás .
+*CHI:	0 .
+%act:	se gira riendo y va andando apoyado en el parque .
+%com:	nacho está sentado al lado del parque
+*CHI:	0 .
+%act:	en el parque se agacha a coger un cubo .
+*CHI:	0 .
+%act:	gira la cabeza agachado .
+*NAC:	tatatatatatat .
+*CHI:	0 .
+%act:	se pone a gatas .
+*CHI:	0 .
+%act:	gateando se acerca a nacho .
+*CHI:	0 .
+%act:	se levanta apoyado en las mallas riendo .
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	ata .
+*CHI:	0 .
+%act:	se agacha .
+*CHI:	0 .
+%act:	se sienta en el suelo .
+*CHI:	0 .
+%act:	coge un cubo .
+*INE:	0 .
+%act:	se acerca por el pasillo .
+*CHI:	0 .
+%act:	tira el cubo al suelo .
+*INE:	0 .
+%act:	llega al umbral del comedor .
+*CHI:	0 .
+%act:	coge otro cubo del suelo .
+*CHI:	0 .
+%act:	tira el cubo .
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	0 .
+%act:	se levanta apoyado en las mallas .
+*CHI:	iaj .
+*CHI:	0 .
+%act:	se echa un poco hacia delante .
+%com:	inés sentada en la silla al lado del parque
+*INE:	qué explicas ?
+*INE:	eh ?
+%com:	emilio en el parque con la cabeza girada hacia inés
+*INE:	0 .
+%act:	se echa hacia delante como para tocarle .
+*CHI:	0 .
+%act:	se gira bruscamente y se ríe .
+*INE:	te vas ?
+*CHI:	0 .
+%act:	girado de espaldas a inés contento .
+*INE:	0 .
+%act:	mueve la cabeza acompañando sus palabras .
+*INE:	ven aquí .
+*INE:	ven .
+*CHI:	a .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	hace el mono contento .
+*INE:	0 .
+%act:	mueve la cabeza acompañando sus palabras .
+*INE:	ven aquí .
+*INE:	ven .
+*CHI:	0 .
+%act:	gira la cabeza hacia inés y ríe .
+*CHI:	0 .
+%act:	se está quieto .
+*CHI:	li .
+*CHI:	0 .
+%act:	se acerca a inés .
+*INE:	hola .
+*CHI:	0 .
+%act:	se acerca a inés .
+*CHI:	ela .
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	a .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	se mueve cogido a la barranda como un mono contento .
+*INE:	oye .
+*CHI:	a .
+*CHI:	a .
+*CHI:	a .
+*CHI:	0 .
+%act:	hace el mono contento .
+*CHI:	0 .
+%act:	gira la cabeza parándose y se calla .
+*INE:	0 .
+%act:	ríe .
+*INE:	emilio !
+*CHI:	0 .
+%act:	quieto con la cabeza levantada .
+*CHI:	a .
+*CHI:	a .
+*CHI:	a .
+*CHI:	0 .
+%act:	hace el mono con la cabeza levantada .
+*CHI:	ta .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	se incorpora y gira la cabeza contento .
+*NAC:	ta .
+*NAC:	xxx .
+*NAC:	xxx .
+*CHI:	tata .
+*CHI:	0 .
+%act:	se está quieto .
+*INE:	0 .
+%act:	se inclina un poco sobre el parque .
+*INE:	caca .
+*CHI:	aa .
+*CHI:	0 .
+%act:	hace el mono contento .
+*INE:	caca .
+*CHI:	aaaaaaaaaaaaaa .
+*CHI:	0 .
+%act:	hace el mono contento .
+*INE:	0 .
+%act:	le hace cosquillas en el sobaco .
+*INE:	caca .
+*CHI:	0 .
+%act:	se queda quieto .
+*CHI:	0 .
+%act:	hace el mono más sosegadamente sin chillar y girando la cabeza .
+*INE:	cacaca .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*CHI:	aaa .
+*CHI:	0 .
+%act:	hace el mono .
+*CHI:	0 .
+%act:	se da la vuelta bruscamente contento y va a rodear el parque por el otro lado de donde está inés .
+*INE:	hola .
+*CHI:	0 .
+%act:	va rodeando el parque .
+*INE:	cucu .
+*CHI:	0 .
+%act:	se gira hacia inés .
+*INE:	0 .
+%act:	se tapa la cara con la mano .
+*INE:	0 .
+%act:	se descubre la cara .
+*INE:	cucu .
+*CHI:	0 .
+%act:	está quieto y sonríe .
+*INE:	0 .
+%act:	se tapa la cara con la mano .
+*INE:	0 .
+%act:	se la destapa .
+*INE:	cucu .
+*CHI:	aaaaaaaaaa .
+*CHI:	0 .
+%act:	hace el mono contento .
+%com:	inés sentada en la silla al lado del parque
+*INE:	tatatata .
+*CHI:	0 .
+%act:	sentado en el parque juega con los cubos de espaldas a inés .
+*CHI:	tata .
+*CHI:	0 .
+%act:	se echa hacia atrás levantando la cabeza .
+*INE:	tata .
+*CHI:	tatata .
+*CHI:	0 .
+%act:	se agacha y coge un cubo .
+*INE:	emilio .
+*INE:	xxx .
+*CHI:	0 .
+%act:	se levanta apoyándose en el parque .
+*INE:	ahora .
+*INE:	ca ca .
+*CHI:	0 .
+%act:	mueve los labios .
+*INE:	ca ca .
+*CHI:	tatatata .
+*CHI:	0 .
+%act:	de pie apoyado en el parque gira la cabeza .
+*INE:	caca .
+*INE:	ca .
+*CHI:	0 .
+%act:	se gira bruscamente de espaldas a inés .
+*CHI:	ie .
+*CHI:	0 .
+%act:	apoyado en el parque se dirige hacia el otro extremo .
+*INE:	emilio .
+*CHI:	0 .
+%act:	se para quieto .
+*CHI:	aja .
+*CHI:	0 .
+%act:	se gira hacia inés .
+*INE:	qué explicas ?
+*INE:	eh ?
+*CHI:	0 .
+%act:	gira la cabeza hacia inés .
+*INE:	caca .
+*CHI:	0 .
+%act:	se apoya en la malla y se desliza .
+*CHI:	caca .
+*CHI:	0 .
+%act:	se incorpora y se dirige hacia inés .
+*INE:	caca .
+*CHI:	0 .
+%act:	se acerca a inés .
+*INE:	caca .
+*CHI:	0 .
+%act:	contento delante de inés .
+*CHI:	aia .
+*CHI:	0 .
+%act:	ríe .
+*CHI:	0 .
+%act:	toca la cara de inés .
+*INE:	qué me quieres hacer ?
+*INE:	0 .
+%act:	mueve la cabeza .
+*CHI:	0 .
+%act:	toca la cara de inés contento .
+*INE:	0 .
+%act:	le va a morder la mano .
+*INE:	xxx .
+*INE:	xxx .
+*CHI:	0 .
+%act:	aparta la mano para que no se la muerda .
+*INE:	0 .
+%act:	como si mordiera la mano de emilio .
+*INE:	am .
+*INE:	xxx .
+*INE:	xxx .
+*CHI:	0 .
+%act:	contento con la otra mano toca la boca de inés .
+*CHI:	0 .
+%act:	con la mano tocando la boca de inés contento .
+*CHI:	0 .
+%act:	se aparta a un lado .
+*INE:	0 .
+%act:	acerca la cara a emilio .
+*INE:	hola .
+*CHI:	0 .
+%act:	le toca la cara con la mano .
+*INE:	0 .
+%act:	aparta la cara y le coge la mano .
+*INE:	um .
+*INE:	haces daño con estas uñas !
+*CHI:	0 .
+%act:	con el brazo estirado para tocar la cara de inés .
+*INE:	0 .
+%act:	le hace cosquillas en el brazo .
+*INE:	por aquí .
+*INE:	xxx .
+*CHI:	0 .
+%act:	aparta el brazo serio .
+*INE:	0 .
+%act:	fuma un cigarrillo .
+*CHI:	0 .
+%act:	contento se gira y ríe .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*CHI:	aaaaaaaaa .
+*CHI:	0 .
+%act:	hace el mono apoyado en el parque contento .
+*CHI:	aaaaaaaaa .
+*CHI:	0 .
+%act:	hace el mono .
+*INE:	parece un indio .
+*CHI:	0 .
+%act:	para .
+*CHI:	0 .
+%act:	se gira hacia nacho riendo .
+*CHI:	0 .
+%act:	va rodeando el parque contento y riendo .
+*CHI:	0 .
+%act:	se para de espaldas a inés delante del balcón .
+*CHI:	aaaaaaaa .
+*CHI:	0 .
+%act:	hace el mono contento .
+*CHI:	0 .
+%act:	se queda quieto .
+*CHI:	ae .
+*CHI:	0 .
+%act:	se gira apoyado en el parque .
+*INE:	chico .
+*CHI:	0 .
+%act:	se agacha quizás porque pierde el equilibrio .
+%com:	junto al parque hay una estatua grande casi como emilio
+*INE:	chiquitín .
+*CHI:	0 .
+%act:	se incorpora y toca la estatua de espaldas a inés .
+*CHI:	0 .
+%act:	toca la estatua serio .
+*INE:	tralaralara .
+*CHI:	0 .
+%act:	deja de tocar la estatua serio .
+*INE:	pralarala .
+*CHI:	aa .
+*CHI:	0 .
+%act:	hace el mono .
+*CHI:	0 .
+%act:	toca la boca de inés .
+*CHI:	0 .
+%act:	deja de tocarla y se gira hacia la izquierda .
+*CHI:	alerea .
+*CHI:	0 .
+%act:	se gira hacia inés e imita la canción .
+*INE:	0 .
+%act:	mueve la cabeza al ritmo de la música .
+*INE:	tralarala .
+*INE:	tralarala .
+*INE:	lalala .
+*CHI:	0 .
+%act:	contento y cogido a la barranda se mueve un poco .
+*CHI:	0 .
+%act:	se acerca a inés queriendo tocarle la boca con la mano y estira el brazo hacia ella .
+*INE:	0 .
+%act:	le muerde la mano .
+*CHI:	0 .
+%act:	con el brazo tendido toca la boca de inés .
+*CHI:	0 .
+%act:	gira la cabeza retirando la mano .
+*CHI:	aa .
+*CHI:	0 .
+%act:	se gira hacia inés .
+*INE:	0 .
+%act:	le come el dedo .
+*INE:	mmm .
+*CHI:	0 .
+%act:	tiende el dedo a la boca de inés .
+%com:	con el dedo en la boca de inés
+*CHI:	0 .
+%act:	saca el dedo y se gira hacia la derecha donde está nacho .
+*INE:	tralarala traralara .
+*CHI:	alarala .
+*CHI:	0 .
+%act:	hace el mono contento .
+*INE:	cantas ?
+*CHI:	0 .
+%act:	levanta la cabeza .
+*INE:	tralarala .
+*INE:	xxx .
+*INE:	lara lara .
+*CHI:	0 .
+%act:	con la cabeza levantada la gira hacia el techo .
+*CHI:	ala .
+*INE:	hola .
+*INE:	xxx .
+*CHI:	0 .
+%act:	levanta el brazo con la cabeza levantada .
+*INE:	0 .
+%act:	le sopla la mano .
+*CHI:	0 .
+%act:	se gira hacia inés con el brazo tendido como si quisiera tocarle la boca .
+%com:	emilio está girado de espaldas a inés
+*CHI:	aaaaaa .
+*CHI:	0 .
+%act:	de espaldas a inés y sujeto a la malla hace el mono .
+*INE:	ball manetes .
+*INE:	pica manetes .
+*CHI:	0 .
+%act:	se gira y se coge a la malla del parque .
+*INE:	picales ja .
+*CHI:	0 .
+%act:	se gira y se suelta de la malla .
+*CHI:	0 .
+%act:	pierde el equilibrio y se coge a la malla del parque .
+*INE:	ay !
+*CHI:	0 .
+%act:	se echa un poco hacia atrás .
+*CHI:	0 .
+%act:	se apoya de espaldas a la malla y se agacha .
+*INE:	ball manetes .
+*INE:	pica manetes .
+*CHI:	0 .
+%act:	de espaldas apoyado a las mallas se va deslizando hacia el suelo .
+*CHI:	0 .
+%act:	se sienta en el suelo y empuja un cubo .
+*INE:	emilio .
+*CHI:	0 .
+%act:	empuja cubos .
+*INE:	emilio .
+*CHI:	0 .
+%act:	se pone a gatas y se acerca a un cubo .
+*CHI:	0 .
+%act:	coge el cubo y se levanta de espaldas buscando apoyo en la malla .
+*INE:	ay .
+*INE:	que te caes .
+*CHI:	0 .
+%act:	pierde el equilibrio y se coge a la malla .
+*CHI:	0 .
+%act:	se incorpora con esfuerzo .
+*CHI:	0 .
+%act:	gira la cabeza hacia la cámara .
+*CHI:	0 .
+%act:	con el cubo en la mano da palmas y gira la cabeza hacia el pasillo .
+*INE:	0 .
+%act:	inclina la cabeza hacia emilio .
+*INE:	ball manetes .
+*CHI:	0 .
+%act:	tira el cubo al suelo .
+%com:	nacho está sentado en una silla en el pasillo fuera de la vista de emilio
+*INE:	pica manetes .
+%com:	emilio girado hacia el pasillo distraído
+*INE:	picales ja .
+%com:	girado de espaldas a inés hacia el pasillo
+*INE:	que són boniques !
+*CHI:	0 .
+%act:	se gira hacia inés .
+*INE:	0 .
+%act:	hace palmas .
+*INE:	picales ja .
+*CHI:	0 .
+%act:	se pone a hacer palmas .
+*INE:	0 .
+%act:	hace palmas .
+*INE:	que són boniques !
+*CHI:	0 .
+%act:	hace palmas .
+*CHI:	0 .
+%act:	deja de hacer palmas .
+*CHI:	0 .
+%act:	se gira hacia la derecha y ríe .
+*CHI:	0 .
+%act:	apoyado en la baranda da unos pasos hacia la derecha donde está nacho .
+*CHI:	0 .
+%act:	gira la cabeza hacia inés .
+*CHI:	0 .
+%act:	hace palmas .
+*INE:	ball manetes .
+*CHI:	0 .
+%act:	deja de hacer palmas contento .
+*CHI:	0 .
+%act:	se acerca contento a inés y le tiende los brazos .
+*CHI:	0 .
+%act:	inclinado hacia inés le tiende los brazos .
+*INE:	0 .
+%act:	le coge los brazos .
+*INE:	0 .
+%act:	le hace cosquillas en el brazo .
+*INE:	la cuca .
+*CHI:	0 .
+%act:	se gira riendo .
+*CHI:	0 .
+%act:	contento se gira hacia inés riendo .
+*CHI:	0 .
+%act:	se acerca a inés y le tiende el brazo para que le haga la cuca .
+*INE:	0 .
+%act:	le coge la mano .
+*CHI:	0 .
+%act:	quieto le tiende el brazo .
+*CHI:	aia .
+*CHI:	0 .
+%act:	se gira hacia la izquierda apartando el brazo .
+*CHI:	0 .
+%act:	se dirige hacia la izquierda rodeando el parque .
+*INE:	ball manetes .
+%com:	emilio delante del pasillo
+*CHI:	iia .
+*CHI:	0 .
+%act:	rodea el parque apoyado en la baranda .
+*CHI:	0 .
+%act:	se gira hacia inés .
+*INE:	me voy ?
+*CHI:	0 .
+%act:	se apoya en las mallas y hace palmas hacia la cámara .
+*INE:	0 .
+%act:	ríe .
+*INE:	ball manetes .
+*CHI:	0 .
+%act:	hace palmas .
+*CHI:	0 .
+%act:	se va deslizando hacia el suelo .
+*INE:	ay !
+*INE:	que se cae !
+*INE:	ay !
+*CHI:	0 .
+%act:	está en el suelo sentado y serio .
+*INE:	te has caído ?
+*CHI:	ia .
+*CHI:	0 .
+%act:	se gira en el suelo del parque .
+*INE:	emilio .
+*INE:	eje .
+*INE:	xxx .
+*CHI:	0 .
+%act:	en el suelo baja la cabeza .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*INE:	aja .
+*INE:	xxx .
+*CHI:	0 .
+%act:	imita a inés .
+*INE:	ejem .
+*INE:	xxx .
+*CHI:	0 .
+%act:	intenta toser e imita a inés serio .
+*INE:	ejem .
+*CHI:	a .
+*INE:	0 .
+%act:	tose levemente .
+*CHI:	0 .
+%act:	mueve la boca levemente e imita a inés .
+%com:	entran las dos hermanas de emilio que llegan de la calle de comprar , una hermana se dirige a inés
+*HER:	eso era lo que querías ?
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	0 .
+%act:	gira la cabeza hacia inés .
+*CHI:	0 .
+%act:	se coge a las mallas para levantarse .
+*CHI:	0 .
+%act:	se levanta .
+*INE:	has visto el dinero ?
+*CHI:	0 .
+%act:	de pie delante de I alarga el brazo tocando la mano de inés en la que tiene el dinero .
+*CHI:	0 .
+%act:	gira la mano de inés .
+*CHI:	0 .
+%act:	intenta abrir la mano de inés .
+*INE:	0 .
+%act:	abre las manos .
+*CHI:	0 .
+%act:	serio toca el dinero .
+%com:	inés sentada en una silla con emilio y la hermana con un paquete de chiclés que no se lo quiere dar a emilio
+*CHI:	0 .
+%act:	quiere coger el paquete de chiclés que tiene su hermana .
+*HER:	0 .
+%act:	le coge la mano y le da un beso en ella .
+*CHI:	0 .
+%act:	encoge la mano serio .
+*HER:	0 .
+%act:	se va a sentar al lado de inés rodeando la habitación .
+*CHI:	0 .
+%act:	se echa hacia delante apoyándose en el parque .
+*HER:	0 .
+%act:	se sienta al lado de inés .
+*CHI:	0 .
+%act:	se gira hacia la hermana y le tiende los brazos .
+*INE:	0 .
+%act:	lo pone de pie sobre sus piernas .
+*INE:	ole .
+*CHI:	0 .
+%act:	se deja hacer girando la cabeza .
+*INE:	0 .
+%act:	lo zarandea .
+*INE:	olé .
+*INE:	xxx .
+*CHI:	0 .
+%act:	se gira hacia la hermana y le tira del pelo .
+*INE:	0 .
+%act:	le obliga a quitar la mano .
+*INE:	deja .
+*INE:	xxx .
+*INE:	el pelo .
+*CHI:	0 .
+%act:	tira del pelo de su hermana .
+*INE:	0 .
+%act:	le coge las dos manos y se acaricia la cara con ellas .
+*INE:	va comidito .
+*CHI:	0 .
+%act:	acaricia la cara de inés con las dos manos .
+*INE:	0 .
+%act:	se acaricia la cara con las dos manos de emilio .
+*INE:	se cuida el pelo .
+*CHI:	0 .
+%act:	gira la cabeza distraído .
+*INE:	0 .
+%act:	mueve las piernas haciéndolo botar .
+*INE:	y es el más bonito .
+*INE:	xxx .
+*CHI:	0 .
+%act:	contento .
+*INE:	0 .
+%act:	mueve las piernas como si fuera un caballo .
+*INE:	al paso .
+*INE:	xxx .
+*INE:	xxx .
+*CHI:	0 .
+%act:	contento le deja hacer .
+*INE:	0 .
+%act:	mueve las piernas y hace botar a emilio .
+*INE:	al trote .
+*INE:	xxx .
+*INE:	xxx .
+*INE:	0 .
+%act:	le ayuda a sentarse .
+*CHI:	0 .
+%act:	se sienta en la falda de inés girando la cabeza .
+%com:	inés con emilio en la falda y la hermana no está , emilio sentado en la falda de inés con un papel de caramelo en las manos serio
+*INE:	es malo esto .
+*INE:	0 .
+%act:	le toca la barriga .
+*INE:	hace pupa aquí .
+*INE:	en la barriga .
+*INE:	0 .
+%act:	le toca la barriga .
+*INE:	a la barriga .
+*CHI:	0 .
+%act:	con el papel en la mano lo examina .
+*INE:	0 .
+%act:	lo hace inclinar cogiéndolo como un bebé .
+*CHI:	iga .
+*INE:	0 .
+%act:	mueve la cabeza afirmativamente .
+*INE:	a la barriga .
+*CHI:	0 .
+%act:	inclinado en los brazos de inés .
+*INE:	a la barriga .
+*CHI:	0 .
+%act:	se incorpora para quedar sentado y se lleva el papel a la boca .
+*INE:	0 .
+%act:	le aparta el papel de la boca .
+*INE:	no .
+*INE:	xxx .
+*CHI:	0 .
+%act:	se vuelve a llevar el papel a la boca quieto .
+*INE:	0 .
+%act:	le aparta la mano con el papel .
+*INE:	no .
+*INE:	0 .
+%act:	le aguanta la mano .
+*INE:	no .
+*CHI:	0 .
+%act:	se vuelve a llevar el papel a la boca .
+*INE:	0 .
+%act:	le aparta la mano .
+*INE:	no .
+*CHI:	0 .
+%act:	se vuelve a llevar el papel a la boca .
+*INE:	0 .
+%act:	le aparta la mano .
+*INE:	no .
+*INE:	0 .
+%act:	tapa la boca de emilio con su mano .
+*CHI:	0 .
+%act:	se lleva el papel a la boca .
+%com:	una hermana de emilio sentada al lado de inés y entra la otra , sentado en la falda de inés con un papel de caramelo que lo chupa
+*INE:	0 .
+%act:	le quita la mano con el papel de la boca .
+*INE:	en la boca no .
+*CHI:	0 .
+%act:	se lleva el papel a la boca .
+*INE:	no .
+*INE:	0 .
+%act:	le quita la mano .
+*INE:	0 .
+%act:	le tapa la boca con su mano .
+*INE:	no .
+*CHI:	0 .
+%act:	se mueve para quitarse la mano de inés .
+*CHI:	0 .
+%act:	le molesta la mano de inés .
+*INE:	0 .
+%act:	le quita la mano de la boca .
+*CHI:	0 .
+%act:	se lleva el papel a la boca .
+*INE:	0 .
+%act:	le quita el papel .
+*CHI:	0 .
+%act:	sorprendido gira la cabeza .
+*INE:	0 .
+%act:	con el papel hace ver que lo esconde detrás .
+*INE:	0 .
+%act:	esconde el papel en la mano .
+*CHI:	0 .
+%act:	intenta abrir la mano de inés .
+*INE:	0 .
+%act:	no se deja quitar el papel .
+*CHI:	0 .
+%act:	intenta abrir la mano de inés para coger el papel .
+*INE:	0 .
+%act:	tiende el dedo para distraerlo .
+*CHI:	0 .
+%act:	logra coger el papel .
+*CHI:	0 .
+%act:	se lleva el papel a la boca .
+*CHI:	0 .
+%act:	chupa el papel .
+*CHI:	0 .
+%act:	se quita el papel de la boca serio .
+*CHI:	aa .
+*CHI:	0 .
+%act:	gira la cabeza hacia la izquierda donde está nacho .
+*CHI:	0 .
+%act:	gira la cabeza moviendo el papel entre los dedos distraído pareciendo absorto .
+*INE:	os quereis bañar .
+*INE:	hoy .
+*INE:	chicas ?
+*CHI:	0 .
+%act:	le cae el papel al suelo y se inclina a recogerlo .
+*CHI:	0 .
+%act:	se estira a coger el papel y no llega .
+*INE:	0 .
+%act:	se agacha y coge el papel .
+*CHI:	0 .
+%act:	se incorpora serio .
+*CHI:	0 .
+%act:	se inclina con inés .
+*INE:	0 .
+%act:	se incorpora con el papel .
+*CHI:	0 .
+%act:	se incorpora con inés .
+*INE:	0 .
+%act:	le muestra el papel .
+*CHI:	0 .
+%act:	quiere coger el papel .
+*INE:	0 .
+%act:	se pone el papel enrollado en el dedo .
+*INE:	papel .
+*INE:	esto es un papel .
+*INE:	ves ?
+*CHI:	0 .
+%act:	tiende la mano hacia el papel .
+%com:	inés va haciendo una torre dentro del parque con los cubos y a la vez que pone un cubo dice oh
+*INE:	oh !
+*INE:	xxx .
+*INE:	xxx .
+%com:	emilio está en el suelo del parque
+*INE:	0 .
+%act:	va poniendo cubos en la torre .
+*INE:	oh !
+*INE:	xxx .
+*CHI:	0 .
+%act:	se acerca a la torre .
+*CHI:	0 .
+%act:	tiende una mano hacia la torre .
+*CHI:	0 .
+%act:	saca dos cubos de la torre serio .
+*CHI:	0 .
+%act:	deja los cubos en el suelo .
+*CHI:	0 .
+%act:	coge el cubo de arriba pero al estar encajados le sigue toda la torre .
+*CHI:	eeee .
+*CHI:	0 .
+%act:	tira la torre al suelo .
+%com:	entra la hermana en la habitación
+*CHI:	0 .
+%act:	separa cubos encajados .
+*HER:	0 .
+%act:	le coge el cubo que tiene emilio en la mano .
+*CHI:	0 .
+%act:	sorprendido y serio levanta la cabeza .
+*HER:	0 .
+%act:	deja el cubo en el suelo .
+*CHI:	0 .
+%act:	sigue con la mirada la acción de su hermana .
+*HER:	0 .
+%act:	se aboca dentro del parque para coger otro cubo .
+*CHI:	0 .
+%act:	tiende el brazo hacia el cubo .
+*HER:	0 .
+%act:	coge el cubo .
+*INE:	no .
+*INE:	no se lo quites .
+*CHI:	0 .
+%act:	serio levanta la cabeza .
+*HER:	quiero hacerlo yo .
+*HER:	0 .
+%act:	deja el cubo en el suelo .
+*CHI:	0 .
+%act:	sigue la trayectoria del cubo .
+*HER:	0 .
+%act:	se estira a coger el cubo .
+*CHI:	0 .
+%act:	estira el brazo hacia el cubo como queriendo cogerlo antes que su hermana .
+*HER:	0 .
+%act:	coge el cubo .
+*INE:	ahora qué ?
+*INE:	le dejas sin ?
+*CHI:	0 .
+%act:	levanta la cabeza serio .
+*HER:	0 .
+%act:	tira el cubo al suelo .
+*CHI:	0 .
+%act:	sigue la trayectoria del cubo .
+*HER:	0 .
+%act:	se inclina a coger los cubos que quedan .
+*CHI:	0 .
+%act:	gira la cabeza .
+*HER:	0 .
+%act:	coge los cubos y los lleva con los otros .
+*CHI:	0 .
+%act:	serio mira que en el suelo ya no quedan cubos .
+*CHI:	ihi .
+*CHI:	0 .
+%act:	se pone de gatas y avanza por el parque .
+%com:	la hermana está haciendo una torre en el suelo
+*CHI:	0 .
+%act:	se gira .
+%com:	la hermana está haciendo una torre con los cubos al lado del parque , emilio está en el suelo del parque medio tendido
+*CHI:	0 .
+%act:	se levanta .
+*CHI:	0 .
+%act:	se acerca más a la torre serio .
+*CHI:	0 .
+%act:	estira el brazo hacia la torre .
+*HER:	0 .
+%act:	se sienta en un banco con la torre y se le deshace un trozo .
+*CHI:	0 .
+%act:	apoya las dos manos en la baranda del parque serio .
+*CHI:	0 .
+%act:	se echa hacia atrás como para coger impulso .
+*CHI:	0 .
+%act:	se echa hacia adelante y extiende el brazo .
+*CHI:	aia .
+*CHI:	0 .
+%act:	se enfada y patalea un poco apoyando las dos manos en el parque .
+*CHI:	0 .
+%act:	tiende el brazo hacia la torre .
+*CHI:	0 .
+%act:	se echa atrás bajando la cabeza como si quisiera_ver que es lo que le impide tocar la torre .
+*CHI:	0 .
+%act:	se echa hacia delante con fuerza estirando el brazo .
+*NAC:	0 .
+%act:	se levanta en el pasillo .
+*CHI:	0 .
+%act:	con el brazo extendido hacia la torre gira la cabeza .
+*CHI:	0 .
+%act:	se gira hacia la torre y se frota los ojos .
+*CHI:	0 .
+%act:	gira la cabeza hacia la cámara .
+*CHI:	0 .
+%act:	gira la cabeza hacia la torre .
+*CHI:	0 .
+%act:	apoya las dos manos en la barandilla del parque y se balancea a un lado y a otro .
+*HER:	0 .
+%act:	levanta la torre .
+*CHI:	0 .
+%act:	estira el brazo hacia la torre .
+*CHI:	0 .
+%act:	retira el brazo y se apoya en la baranda .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	se mueve con impaciencia casi pataleando .
+*CHI:	0 .
+%act:	se suelta de una mano .
+*CHI:	0 .
+%act:	baja la cabeza agachándose como si quisiera coger un cubo .
+*CHI:	0 .
+%act:	se incorpora inmediatamente .
+*CHI:	0 .
+%act:	se apoya las manos en la malla y se balancea de un lado a otro .
+*CHI:	geeeee .
+*CHI:	0 .
+%act:	se pone de puntillas y ríe .
+*CHI:	0 .
+%act:	quiere salir del parque apoyando los pies en la malla y se echa hacia delante con los brazos tendidos .
+*HER:	0 .
+%act:	se le cae la torre y se la desmonta .
+*CHI:	0 .
+%act:	sorprendido baja la cabeza .
+*CHI:	0 .
+%act:	gira la cabeza hacia los restos de la torre .
+*HER:	0 .
+%act:	va recogiendo los cubos del suelo .
+*HER:	0 .
+%act:	reconstruye la torre .
+*CHI:	0 .
+%act:	gira la cabeza hacia la torre .
+*HER:	0 .
+%act:	coge cubos del suelo .
+*CHI:	0 .
+%act:	sigue con la mirada la acción de la madre .
+*HER:	0 .
+%act:	reconstruye la torre .
+*CHI:	0 .
+%act:	gira la cabeza hacia la torre .
+%com:	josé junto al parque tiende la mano
+*CHI:	0 .
+%act:	en el parque de pie con el brazo tendido con el cubo golpea la mano de josé .
+*JOS:	0 .
+%act:	le coge el cubo .
+*CHI:	0 .
+%act:	tiende los brazos hacia el cubo .
+*CHI:	0 .
+%act:	gira la cabeza sonriendo hacia la cámara .
+*CHI:	0 .
+%act:	coge el cubo de josé .
+*JOS:	me lo das ?
+*CHI:	0 .
+%act:	contento se echa hacia delante con el cubo en la mano .
+*CHI:	ariaaa .
+*CHI:	0 .
+%act:	va rodeando el parque apoyándose en la barandilla con el cubo en la mano .
+*CHI:	arriaaa .
+*CHI:	0 .
+%act:	va rodeando el parque con el cubo .
+*CHI:	0 .
+%act:	se queda parado con el cubo en la mano de espaldas a josé .
+*JOS:	emilio .
+*JOS:	dámelo .
+*JOS:	dame el cubo .
+*CHI:	0 .
+%act:	quieto parece que algo le llama la atención .
+*CHI:	iaaa .
+*CHI:	goggoooo .
+*CHI:	ie .
+*CHI:	0 .
+%act:	balbucea .
+*JOS:	emilio .
+*JOS:	dame el cubo .
+*JOS:	dámelo .
+*CHI:	0 .
+%act:	tiende el cubo a la planta .
+*JOS:	a mi .
+*JOS:	xxx .
+*JOS:	a papá .
+*CHI:	0 .
+%act:	encoge la mano con el cubo .
+*CHI:	ia .
+*CHI:	0 .
+%act:	se gira hacia josé .
+*JOS:	dáselo a papá .
+*JOS:	0 .
+%act:	pone la mano tendida .
+*CHI:	0 .
+%act:	tiende el cubo a josé .
+*CHI:	0 .
+%act:	pierde el equilibrio con el cubo en la mano y se tambalea .
+*CHI:	0 .
+%act:	se acerca a josé con el cubo en la mano apoyándose en el parque .
+*JOS:	0 .
+%act:	coge el cubo .
+*JOS:	a mi .
+*JOS:	xxx .
+*CHI:	0 .
+%act:	se coge sólo con una mano de la baranda con la cabeza baja y se balancea un poco .
+*JOS:	0 .
+%act:	deja el cubo en el suelo .
+*JOS:	me das este también ?
+*JOS:	va .
+*JOS:	dámelo .
+*CHI:	0 .
+%act:	se agacha a coger el cubo .
+*CHI:	0 .
+%act:	se levanta con el cubo .
+*JOS:	0 .
+%act:	pone las dos manos para coger el cubo .
+*CHI:	0 .
+%act:	tiende el cubo hacia las manos de josé .
+*CHI:	0 .
+%act:	le tira el cubo a las manos .
+*JOS:	0 .
+%act:	coge el cubo .
+*JOS:	muy bien !
+*CHI:	0 .
+%act:	sonríe .
+*JOS:	0 .
+%act:	deja el cubo en el suelo al lado del otro .
+*CHI:	0 .
+%act:	baja la cabeza .
+*JOS:	0 .
+%act:	coge un cubo del suelo .
+*JOS:	dame el otro .
+*JOS:	el verde .
+*CHI:	0 .
+%act:	se agacha a coger el cubo .
+*CHI:	0 .
+%act:	se incorpora .
+*JOS:	0 .
+%act:	le muestra el cubo .
+*JOS:	no .
+*JOS:	el amarillo .
+*JOS:	toma .
+*CHI:	0 .
+%act:	coge el cubo .
+*CHI:	0 .
+%act:	tira el cubo al suelo del parque .
+*CHI:	0 .
+%act:	se agacha .
+*CHI:	0 .
+%act:	pierde el equilibrio y se sujeta en las mallas .
+*CHI:	0 .
+%act:	coge el cubo que antes había tirado .
+*CHI:	0 .
+%act:	se levanta con el cubo .
+*JOS:	0 .
+%act:	coge el cubo .
+*JOS:	muy bien !
+*CHI:	0 .
+%act:	le da el cubo a josé .
+*JOS:	0 .
+%act:	se agacha y deja el cubo en el suelo .
+*CHI:	0 .
+%act:	se agacha a coger el cubo que queda .
+*CHI:	0 .
+%act:	coge el cubo .
+*JOS:	verde ahora .
+*CHI:	0 .
+%act:	se levanta con el cubo .
+*CHI:	0 .
+%act:	le da el cubo a josé .
+*JOS:	0 .
+%act:	coge el cubo .
+*JOS:	0 .
+%act:	deja el cubo en el suelo con los otros .
+*CHI:	0 .
+%act:	baja la cabeza quieto .
+*CHI:	0 .
+%act:	cogido con una mano a las mallas se separa un poco .
+*JOS:	ahora di papá .
+*CHI:	0 .
+%act:	se echa hacia delante y quiere sacar las manos por la malla para coger los cubos del suelo .
+*JOS:	0 .
+%act:	le toca la cabeza por detrás .
+*JOS:	a_ver ?
+*JOS:	0 .
+%act:	le toca la barbilla para que lo mire .
+*JOS:	emilio .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*CHI:	0 .
+%act:	se queja y aparta la cara .
+*JOS:	0 .
+%act:	cariñoso le acaricia la cara con el dedo .
+*JOS:	ay .
+*JOS:	xxx .
+*JOS:	xxx .
+*JOS:	que no quieres decir papá .
+*CHI:	0 .
+%act:	está un poco molesto .
+*JOS:	ni tata .
+*CHI:	0 .
+%act:	gira la cabeza hacia la cámara .
+*CHI:	aaa .
+*CHI:	0 .
+%act:	se acerca hacia la cámara .
+*JOS:	el nacho .
+%com:	emilio cogido al parque con la cara curiosa
+*JOS:	dile .
+*JOS:	nacho .
+*CHI:	0 .
+%act:	se gira hacia nacho .
+*JOS:	di .
+*JOS:	nacho .
+*CHI:	0 .
+%act:	gira la cabeza cogido con una mano al parque hacia el suelo .
+*CHI:	a guiguie .
+*CHI:	0 .
+%act:	gira la cabeza contento y se acerca a josé .
+*JOS:	0 .
+%act:	tiene la mano dentro del parque hacia emilio .
+*JOS:	di .
+*JOS:	nacho .
+*CHI:	0 .
+%act:	se acerca más a josé .
+*CHI:	0 .
+%act:	le levanta los dedos serio .
+*JOS:	0 .
+%act:	aparta la mano y se suelta de emilio .
+*JOS:	di .
+*JOS:	nacho .
+*JOS:	0 .
+%act:	mueve la mano para que no se la coja .
+*CHI:	0 .
+%act:	quiere coger la mano de j tendiendo su mano para hacerlo .
+*CHI:	dirilirili .
+*CHI:	lalara .
+*CHI:	0 .
+%act:	se mueve hacia arriba y hacia abajo como un mono .
+*CHI:	0 .
+%act:	saca los dedos por dentro de la malla tocando el dedo de josé .
+*JOS:	0 .
+%act:	le coge un dedo .
+*JOS:	nacho .
+*JOS:	mira .
+*JOS:	un dedito .
+*CHI:	0 .
+%act:	anda unos pasitos cogido de la baranda del parque hacia el lado apuesto a josé .
+*CHI:	0 .
+%act:	apoyado en el parque con las dos manos se balancea a un lado y a otro .
+*CHI:	0 .
+%act:	gira la cabeza y abre la boca como si fuera a chupar la baranda .
+*CHI:	0 .
+%act:	se balancea a un lado y a otro cogido de la baranda .
+*CHI:	0 .
+%act:	se gira hacia josé .
+*CHI:	aiaaiia .
+*CHI:	0 .
+%act:	se acerca a j apoyado en el parque .
+*JOS:	0 .
+%act:	acerca la cara a la de emilio .
+*JOS:	quién te ha atado los cordones ?
+*CHI:	0 .
+%act:	delante de j estira el brazo y le toca la barba .
+*JOS:	0 .
+%act:	retira un poco la cara .
+*JOS:	quién te los ha +...
+*CHI:	0 .
+%act:	quieto con el brazo tendido quiere tocar la cara de josé .
+*JOS:	0 .
+%act:	le muerde un dedo .
+*JOS:	mejor dicho .
+*JOS:	eh ?
+*CHI:	0 .
+%act:	le mete el dedo en la boca .
+*JOS:	desatados [% los zapatos] .
+*CHI:	0 .
+%act:	saca el dedo de la boca y se gira .
+*JOS:	0 .
+%act:	se agacha a atarle los cordones y le da un golpe en la cara .
+*JOS:	a_ver .
+*JOS:	trae .
+*JOS:	0 .
+%act:	se agacha aún más a atarle los cordones .
+*CHI:	ay !
+*CHI:	perdona .
+*JOS:	0 .
+%act:	le ata el zapato .
+*JOS:	trae .
+*JOS:	xxx .
+*JOS:	xxx .
+*CHI:	0 .
+%act:	se agacha un poco .
+*CHI:	0 .
+%act:	se agacha y toca el cordon del zapato .
+%com:	se oye un chirrido
+*CHI:	0 .
+%act:	se incorpora hacia la cámara .
+*CHI:	0 .
+%act:	baja la cabeza porque le está atando el zapato .
+%com:	se oye ruido del patio
+*CHI:	0 .
+%act:	gira la cabeza hacia la ventana .
+*JOS:	0 .
+%act:	le ata el zapato .
+*CHI:	0 .
+%act:	baja la cabeza .
+*CHI:	0 .
+%act:	se agacha y toca el zapato .
+*JOS:	0 .
+%act:	se incorpora de atar el zapato .
+*JOS:	venga .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*JOS:	no te tires .
+*JOS:	eh ?
+*CHI:	0 .
+%act:	hace gesto afirmativo con la cabeza .
+*JOS:	no .
+*CHI:	0 .
+%act:	baja la cabeza serio hacia el zapato .
+*JOS:	no .
+*JOS:	0 .
+%act:	tiende la mano a emilio .
+*JOS:	a_ver .
+*JOS:	ven aquí .
+*CHI:	0 .
+%act:	levanta la cabeza .
+*JOS:	0 .
+%act:	le coge los brazos .
+*JOS:	bien .
+*JOS:	0 .
+%act:	le coge las manos .
+*CHI:	0 .
+%act:	se echa hacia atrás con los brazos arriba .
+*JOS:	qué quieres ?
+*JOS:	quieres que te coja ?
+*CHI:	0 .
+%act:	se suelta de josé y echa las manos hacia delante .
+*JOS:	0 .
+%act:	pone las manos abiertas delante como si fuera a cogerlo .
+*JOS:	quieres que te coja papá ?
+*CHI:	0 .
+%act:	se echa atrás y apoya las manos en el parque y protesta .
+*CHI:	0 .
+%act:	lloriquea y se balancea a un lado y a otro cogido del parque .
+*JOS:	0 .
+%act:	le coge en brazos .
+*JOS:	trae .
+*JOS:	xxx .
+*CHI:	0 .
+%act:	deja de llorar .
+*JOS:	0 .
+%act:	lo levanta en alto y lo sienta en sus piernas .
+*JOS:	upali .
+*CHI:	0 .
+%act:	gira la cabeza y se coge a la baranda del parque con una mano y a la camisa de josé con la otra .
+*JOS:	0 .
+%act:	golpea con las manos suavemente la baranda .
+*JOS:	mira .
+*JOS:	xxx .
+*JOS:	va .
+*JOS:	mira .
+*JOS:	xxx .
+*CHI:	0 .
+%act:	gira la cabeza hacia el parque .
+*JOS:	0 .
+%act:	va golpeando rítmica y suavemente la baranda del parque .
+*CHI:	0 .
+%act:	apoya la mano sobre la de josé .
+*JOS:	0 .
+%act:	deja de golpear .
+*CHI:	0 .
+%act:	retira la mano y se echa sobre el parque .
+*JOS:	0 .
+%act:	se inclina para ver que ha visto emilio .
+*CHI:	0 .
+%act:	se inclina más hacia el parque tendiendo la mano como si quisiera coger algo .
+*JOS:	qué buscas ?
+*CHI:	0 .
+%act:	se inclina más tocando la malla del parque .
+*CHI:	0 .
+%act:	se incorpora cabeza baja viendo los cubos que están en el suelo y se da cuenta de que están fuera del parque .
+*CHI:	0 .
+%act:	se agacha hacia los cubos .
+*CHI:	0 .
+%act:	quiere bajar al suelo para cogerlos .
+*JOS:	ah !
+*JOS:	los cubos ?
+*CHI:	0 .
+%act:	tiende la mano hacia los cubos levantando la pierna para bajar .
+*JOS:	0 .
+%act:	lo aparta a un lado para poder coger los cubos .
+*JOS:	0 .
+%act:	le da el cubo .
+*CHI:	0 .
+%act:	coge el cubo .
+*JOS:	0 .
+%act:	se agacha a coger otro cubo .
+*CHI:	0 .
+%act:	tira el cubo al parque .
+*JOS:	muy bien .
+*CHI:	0 .
+%act:	toca la baranda del parque .
+*JOS:	0 .
+%act:	le da el otro cubo .
+*JOS:	toma .
+*CHI:	0 .
+%act:	coge el cubo .
+*CHI:	0 .
+%act:	tira el cubo al parque .
+*CHI:	0 .
+%act:	se inclina hacia el parque apoyando las manos en la barandilla .
+*CHI:	0 .
+%act:	se inclina más y alarga el brazo hacia el cubo .
+*JOS:	0 .
+%act:	coge otro cubo .
+*JOS:	como si lo hubieras cogido .
+*JOS:	no ?
+*JOS:	alargando el brazo .
+*CHI:	0 .
+%act:	se incorpora con la cabeza baja .
+*JOS:	0 .
+%act:	le da el cubo .
+*CHI:	0 .
+%act:	coge el cubo .
+*CHI:	0 .
+%act:	tira el cubo al parque .
+*JOS:	muy bien !
+*CHI:	0 .
+%act:	se inclina hacia el parque .
+*CHI:	0 .
+%act:	se inclina dentro del parque y extiende el brazo hacia el cubo .
+*CHI:	0 .
+%act:	se incorpora cabeza baja y tiende la mano hacia otro cubo .
+*JOS:	0 .
+%act:	le da otro cubo .
+*CHI:	0 .
+%act:	coge el cubo .
+*CHI:	0 .
+%act:	tira el cubo al parque y se echa hacia delante .
+*JOS:	0 .
+%act:	ríe .
+*JOS:	otra vez .
+*CHI:	0 .
+%act:	se inclina más y tiende el brazo .
+*JOS:	0 .
+%act:	lo incorpora y le da un beso en la mejilla .
+*CHI:	0 .
+%act:	protesta por el beso .
+*JOS:	0 .
+%act:	lo sienta en la pierna .
+*JOS:	bueno .
+*CHI:	0 .
+%act:	se inclina hacia delante y se apoya en el parque .
+*CHI:	0 .
+%act:	mueve el parque hacia adelante y hacia atrás como si fuera un cochecito .
+*JOS:	0 .
+%act:	lo sienta mejor en su pierna y lo separa un poco del parque .
+*CHI:	0 .
+%act:	tiende los brazos hacia el parque .
+*CHI:	0 .
+%act:	gira la cabeza hacia la cámara .
+*JOS:	0 .
+%act:	gira la cabeza hacia nacho .
+*JOS:	dile a nacho .
+*JOS:	ho (.) la .
+*JOS:	di .
+*JOS:	hola .
+*CHI:	0 .
+%act:	baja la cabeza y tiende los brazos queriendo bajar .
+*JOS:	dile a nacho hola .
+*CHI:	mmmmm mm .
+*CHI:	0 .
+%act:	estira los brazos hacia delante y hace un ruido de protesta porque quiere bajar .
+*JOS:	dile hola a nacho .
+*CHI:	0 .
+%act:	echa los brazos hacia atrás tocando las manos de josé que lo sujetan y baja la cabeza .
+*CHI:	0 .
+%act:	se echa atrás estirándose para bajar .
+*JOS:	0 .
+%act:	le acomoda mejor en sus piernas .
+*CHI:	0 .
+%act:	estira los brazos hacia delante .
+*CHI:	mmm mm mm .
+*JOS:	0 .
+%act:	lo levanta para sentarlo bien en sus piernas .
+*JOS:	vamos a hacer el paso ?
+*CHI:	0 .
+%act:	estira los brazos queriendo bajar .
+*JOS:	0 .
+%act:	mueve la pierna como si fuera un caballo con emilio encima .
+*JOS:	paso .
+*JOS:	xxx .
+*JOS:	xxx .
+*CHI:	m mm m .
+*CHI:	0 .
+%act:	con los brazos estirados quiere bajar .
+*CHI:	0 .
+%act:	protesta y lloriquea tocando las manos de josé que lo cogen .
+*JOS:	0 .
+%act:	lo pone de pie en el suelo .
+*JOS:	quieres bajar .
+*JOS:	xxx .
+*JOS:	bueno .
+*JOS:	0 .
+%act:	coge a emilio de la mano y del brazo .
+*JOS:	vale ?
+%com:	en el suelo emilio entre las piernas de josé
+*CHI:	0 .
+%act:	levanta la cabeza hacia la cámara .
+*JOS:	0 .
+%act:	le coge las dos manos para que ande .
+*CHI:	0 .
+%act:	da unos pasitos hacia adelante y gira la cabeza .
+*CHI:	0 .
+%act:	da unos pasitos más cogido a josé .
+*CHI:	0 .
+%act:	se gira hacia el parque .
+*JOS:	0 .
+%act:	lleva la mano de emilio hacia el parque para que quede apoyado en él .
+*JOS:	te dejo aquí ?
+*JOS:	0 .
+%act:	intenta que se coja a la barandilla del parque .
+*CHI:	0 .
+%act:	distraído mueve la cabeza y no se coge a la baranda del parque como quiere josé .
+*JOS:	0 .
+%act:	lo suelta y le deja cogido a la baranda .
+*JOS:	agárrate .
+*CHI:	aa .
+*CHI:	0 .
+%act:	protesta cogido al parque .
+*CHI:	0 .
+%act:	se suelta del parque y se agacha .
+*CHI:	0 .
+%act:	se pone a gatas .
+*CHI:	ea .
+*CHI:	0 .
+%act:	va gateando hacia la puerta .
+*JOS:	ahora se sentará .
+*JOS:	y mira .
+*CHI:	0 .
+%act:	gateando traspasa el umbral de la puerta .
+*JOS:	no .
+*JOS:	emilio !
+*CHI:	0 .
+%act:	gateando le cuesta pasar el bordillo de la puerta .
+*JOS:	emilio !
+%com:	josé está sentado en una silla delante en una mesa donde está el magnetoscopio destapado y se ve girar la cinta
+*JOS:	va no llores más emilio .
+*JOS:	no llores .
+*JOS:	xxx .
+*CHI:	0 .
+%act:	sentado en las piernas de josé deja de llorar con los brazos tendidos .
+*JOS:	ves como se mueve éso ?
+*CHI:	0 .
+%act:	sorprendido baja la cabeza .
+*JOS:	ves ?
+*JOS:	el grabador ?
+*CHI:	0 .
+%act:	sorprendido gira la cabeza hacia la cámara muy serio .
+*CHI:	0 .
+%act:	tiende los dos brazos hacia el magnetoscopio .
+*JOS:	ves ?
+*JOS:	que quieres ir a cogerlo ?
+*CHI:	0 .
+%act:	baja los brazos serio .
+*JOS:	quieres cogerlo ?
+*JOS:	eh ?
+*CHI:	0 .
+%act:	tiende los dos brazos y se estira hacia adelante .
+*JOS:	te dejo ?
+*CHI:	0 .
+%act:	encoge los brazos y toca las manos de josé para soltarse .
+*JOS:	0 .
+%act:	lo deja en el suelo entre sus piernas .
+*JOS:	bueno .
+*JOS:	0 .
+%act:	le coge por detrás para que no caiga .
+*CHI:	0 .
+%act:	se encamina hacia la mesa donde está el magnetoscopio .
+*JOS:	no toques [% voz suave y baja] .
+*JOS:	eh ?
+*CHI:	0 .
+%act:	apoya las manos en la mesa .
+*CHI:	0 .
+%act:	golpea la mesa con la mano y sonríe .
+*JOS:	0 .
+%act:	le coge el brazo .
+*JOS:	no .
+*CHI:	0 .
+%act:	tiende la mano hacia el magnetoscopio para cogerlo o tocarlo .
+*JOS:	no .
+*CHI:	0 .
+%act:	baja el brazo y quiere tocar el magnetoscopio .
+*JOS:	no .
+*CHI:	aaa .
+*CHI:	0 .
+%act:	protesta y levanta el brazo .
+*JOS:	no .
+*CHI:	0 .
+%act:	baja la mano y golpea la mesa con las dos manos ritmicamente .
+*CHI:	0 .
+%act:	tiende la mano hacia el magnetoscopio .
+*CHI:	0 .
+%act:	se pone a gatas en el suelo estando antes apoyado en el mueble .
+*CHI:	0 .
+%act:	va gateando .
+%com:	josé sentado en el sillón al lado del parque leyendo un libro
+*CHI:	0 .
+%act:	está en el parque de pie y saca un brazo como si estuviera enfadado .
+*CHI:	0 .
+%act:	se coge con las dos manos en la barandilla del parque y se balancea de un lado a otro .
+*CHI:	0 .
+%act:	estornuda .
+*CHI:	0 .
+%act:	se sigue balanceando .
+*CHI:	0 .
+%act:	protesta y empieza a lloriquear .
+*JOS:	qué quieres .
+*JOS:	emilio ?
+*JOS:	que quieres .
+*JOS:	salir ?
+*CHI:	0 .
+%act:	llora con fuerza y se balancea con la cabeza girada hacia josé .
+*JOS:	quieres que te saque ?
+*JOS:	quieres que te saque del parque ?
+*CHI:	0 .
+%act:	deja de llorar extendiendo los brazos hacia delante para salir .
+*JOS:	0 .
+%act:	sentado en el sillón se gira hacia emilio y le tiende el brazo .
+*JOS:	eh !
+*CHI:	0 .
+%act:	coge la mano de josé .
+*CHI:	0 .
+%act:	al ver que no lo saca lloriquea y se balancea cogido de la barandilla .
+*JOS:	bueno .
+*CHI:	0 .
+%act:	calla y estira los brazos hacia delante .
+*JOS:	0 .
+%act:	estira el brazo y lo pone debajo del de emilio .
+*CHI:	0 .
+%act:	sonríe y toca la mano de josé .
+*CHI:	0 .
+%act:	aparta la mano de josé .
+%com:	dentro del parque emilio tiende los brazos hacia josé
+*JOS:	0 .
+%act:	le hace cosquillas en el brazo .
+*CHI:	a .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	se balancea dentro del parque cogido con las dos manos en la barandilla .
+*CHI:	mmm mm .
+*CHI:	0 .
+%act:	toma aliento .
+*CHI:	mmmmm .
+*CHI:	0 .
+%act:	toma aliento .
+*CHI:	mmmm .
+*CHI:	mmmm .
+*CHI:	mmmm .
+*CHI:	aaa .
+*CHI:	0 .
+%act:	tiende los brazos hacia josé .
+*CHI:	acaaaa .
+*CHI:	0 .
+%act:	se echa hacia atrás del parque y se queja .
+*JOS:	0 .
+%act:	le acerca el dedo .
+*CHI:	0 .
+%act:	abre la boca y le quiere morder el dedo .
+*JOS:	0 .
+%act:	aparta el dedo .
+*CHI:	0 .
+%act:	se echa hacia atrás cogiéndose con las dos manos en el parque lloriqueando .
+*CHI:	0 .
+%act:	se balancea cogido en el parque .
+*JOS:	0 .
+%act:	le pone la mano en la barandilla .
+*CHI:	0 .
+%act:	no toca la mano de josé sólo la examina .
+*CHI:	0 .
+%act:	deja la mano y se balancea cogido al parque .
+*JOS:	0 .
+%act:	le ofrece la mano .
+*CHI:	0 .
+%act:	toca la mano de josé .
+*CHI:	0 .
+%act:	tiende el brazo hacia la mano de josé .
+*JOS:	0 .
+%act:	le acerca la mano .
+*CHI:	0 .
+%act:	la aparta .
+*JOS:	0 .
+%act:	le acerca la mano .
+*CHI:	0 .
+%act:	la aparta .
+*CHI:	ta ta .
+*NAC:	ta .
+*NAC:	xxx xxx xxx .
+*CHI:	tata .
+*NAC:	ta .
+*NAC:	xxx xxx xxx .
+*CHI:	tata .
+*NAC:	caca .
+*CHI:	0 .
+%act:	gira la cabeza .
+*CHI:	ta .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	levanta la cabeza hacia el techo .
+*CHI:	0 .
+%act:	sólo en el parque juega con unos cubos .
+*CHI:	0 .
+%act:	está agachado y quiere coger uno que no llega y por eso lloriquea .
+%com:	llaman a la puerta
+*CHI:	0 .
+%act:	dentro del parque va andando hacia la puerta .
+*CHI:	aia .
+%com:	la abuela está de pie al lado del parque y le ofrece una galleta
+*CHI:	a .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	0 .
+%act:	cogido a la barandilla del parque se balancea .
+*CHI:	0 .
+%act:	coge la galleta .
+*CHI:	0 .
+%act:	sentado en el parque come la galleta .
+*JOS:	ven aquí .
+*CHI:	0 .
+%act:	estira los dos brazos hacia josé .
+*CHI:	0 .
+%act:	sentado en el parque se da golpes en las piernas .
+*JOS:	estaba buena ?
+*JOS:	estaba buena la galleta ?
+*CHI:	0 .
+%act:	gira la cabeza hacia josé .
+*JOS:	y el chocolate ?
+*JOS:	estaba bueno ?
+*CHI:	guauua .
+*JOS:	0 .
+%act:	le ofrece una galleta .
+*CHI:	0 .
+%act:	estira el brazo hacia la galleta e intenta cogerla .
+*JOS:	0 .
+%act:	no le deja coger la galleta .
+*CHI:	iia .
+*CHI:	0 .
+%act:	intenta coger la galleta .
+*CHI:	0 .
+%act:	toca la mano de josé .
+@End

@@ -1,0 +1,838 @@
+@UTF8
+@PID:	11312/c-00001939-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Josep Target_Child , MAR mare Mother , ROG roger Brother , HUG hugo Brother , INV Investigator
+@ID:	spa , cat|Serra|CHI|1;3.10||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|ROG|||||Brother|||
+@ID:	spa , cat|Serra|HUG|||||Brother|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	m i j juguen amb dos barrets , de peu al rebedor de la seva casa , a prop hi ha un penjador
+*MAR:	oh !
+*MAR:	oh xxx [= mentre es fica un barret] .
+*CHI:	pcf [% "ooh"] !
+*MAR:	a veure com ho fas tu [% "a vera com ho fas tu"] .
+*CHI:	0 [= assenyala el cap de m] .
+*MAR:	t' agrada mes el meu , clar [= se'l treu i li dona] .
+*MAR:	me poso aquest [= recull el barret que hi ha a terra] ?
+*CHI:	0 .
+%act:	es fica el barret de m
+*MAR:	oh , que guapo !
+*CHI:	0 .
+%act:	es treu el barret i el manipula
+*MAR:	a veure ?
+*MAR:	no esta el josep .
+*CHI:	0 .
+%act:	es dona la volta mirant tot amb el barret a la ma
+*MAR:	josep !
+*MAR:	ah !
+*ROG:	pcf [>] [% "iu es ei" , apareix per darrera i passa cantant] .
+*MAR:	<a veure> [<] .
+*ROG:	pcf [% "iu es ei"] .
+*MAR:	josep [= ajupida davant j] .
+*MAR:	que mires a la rosa ?
+*MAR:	que no la coneixes ?
+*MAR:	eh ?
+*MAR:	xxx com jugues amb el sombrero , va .
+*CHI:	0 .
+%act:	intenta treure la veta al barret que te a la ma
+*MAR:	no , aixo no es treu .
+*CHI:	0 .
+%act:	li dona el seu barret a m
+*MAR:	aquest per mi i aquest per tu [= li canvia el barret] .
+*MAR:	te .
+*MAR:	oh [= es fica el de j] !
+*MAR:	a veure el teu .
+@Comment:	m i j continuen intercanviantse els barrets , juguen i riuen , no hi han produccions per part de j , nomes rialles i crits , apareix r tocant unes castanyoles
+*CHI:	0 .
+%act:	s' aixeca i mira atentament r
+*CHI:	pcf [% "ooh" , intenta agafar les castanyoles] .
+*ROG:	xxx [= ajupint'se davant j i cridant] .
+*ROG:	0 .
+%act:	li dona les castanyoles a j
+*MAR:	quieres que llamemos a la iaia ?
+*ROG:	0 .
+%act:	segut a terra davant j toca les castanyoles
+*CHI:	0 [= mira atentament r] .
+*CHI:	0 .
+%act:	te una castanyola a la ma i la mou
+*MAR:	com fa el roger ?
+*CHI:	0 .
+%act:	te les dues a les mans i les colpeja
+*MAR:	ole , ole , ole !
+*CHI:	0 .
+%act:	llenca les castanyoles a terra
+*MAR:	no lo piensa , eh ?
+*MAR:	josep !
+*MAR:	josep [>] .
+*ROG:	<what time is it> [<]
+	[= canta en angles , mentre recull la castanyola que j ha llencat] .
+*MAR:	ni cas .
+*CHI:	0 .
+%act:	intenta fer'la sonar mentre mira r
+*MAR:	com ho fa el roger ?
+*MAR:	com ho fa ?
+*CHI:	0 .
+%act:	s' apropa mes a r i sembla que intenta ficar'se la castanyola com ell
+*ROG:	xxx [= sembla que continua cantant pero en veu baixa] .
+*CHI:	0 .
+%act:	aparta la vista de r
+*CHI:	nene [% "meme"] .
+@Comment:	j i r segueixen jugant amb les castanyoles mentre m se'l mira des de una butaca
+*MAR:	ole , ole , ole !
+*CHI:	0 .
+%act:	crida mirant r i la camera
+*MAR:	que fas , eh ?
+*CHI:	pcf [% "ah" , apropant'se amb la ma una mica a m] .
+*MAR:	que es aixo [= agafa el que j li dona] ?
+*MAR:	s' ha trencat ?
+*CHI:	0 .
+%act:	li dona la castanyola a m
+*MAR:	vols que ho posi be ?
+*MAR:	mira [= col'locant'li als dits la castanyola] .
+*ROG:	xxx [= cantant i fora d' imatge] .
+*MAR:	ole , ole [= li mou la ma] .
+*MAR:	s' ha d' agafar per aqui [= agenollada al costat de j] .
+*MAR:	es una mica petit aixo .
+*MAR:	aixi mira .
+*MAR:	veus [= li fica la castanyola als dits] ?
+*CHI:	0 .
+%act:	agafa la castanyola i intenta fer'la sonar
+*CHI:	mama [= mirant la castanyola] .
+*MAR:	que ?
+*CHI:	pcf [% "ah" , mirant m] .
+*MAR:	que t' ajudi ?
+*MAR:	mama , nomes per l' ajuda [= s' aixeca i se'n va rient] .
+*CHI:	pcf
+	[% "ai" , es balanceja a terra i ensenya la joguina a la camera] .
+*MAR:	ai , ai !
+*CHI:	pcf [% "quia" , es gira cap a m que va a agafar el telefon] ?
+*MAR:	vaig a trucar a la iaia , eh ?
+*MAR:	si ?
+*MAR:	vaig a donar'li un recado .
+*CHI:	0 .
+%act:	continua a terra manipulant la castanyola
+*MAR:	vols parlar amb la iaia ?
+*MAR:	eh ?
+*MAR:	no , t' agraden mes les castanyoles .
+*CHI:	iaia [% "aia" , mirant la camera] .
+*MAR:	la iaia .
+*MAR:	si , la mama parla amb la iaia .
+*CHI:	0 [= mira , amb la boca oberta , a la camera] .
+*MAR:	josep !
+*CHI:	0 .
+%act:	es gira cap a m i la mira
+*MAR:	vols parlar amb la iaia ?
+*CHI:	que tal [% "queta" , tornant a mirar cap a les castanyoles] ?
+*MAR:	que tal ?
+*MAR:	si .
+*MAR:	que [>] tal le digo a la iaia .
+*CHI:	mama [<] [= gairebe no se sent] .
+*MAR:	hola !
+*MAR:	le digo al ninyo , voy a llamar a la iaia y dice que tal ?
+*MAR:	0 [=! riu] .
+*MAR:	esta aqui al lado .
+*MAR:	quieres hablar con el iaio ?
+*MAR:	quieres hablar con el iaio ?
+*CHI:	0 [= mira atentament cap a m] .
+*MAR:	dice el iaio que te pongas .
+*MAR:	ven !
+*MAR:	dile diga .
+*MAR:	josep , vine !
+*CHI:	0 .
+%act:	s' aixeca i camina cap a m
+*MAR:	ahora viene , ahora viene [= li ofereix l' auricular] .
+*MAR:	te , vols parlar ?
+*CHI:	iaia .
+*MAR:	iaia , si !
+*MAR:	dile hola !
+*MAR:	0 .
+%act:	fica l' auricular a l' orella de j
+*MAR:	ay , que dice ?
+*MAR:	ay !
+*CHI:	pcf [% "aba" , s' allunya de m] .
+*MAR:	agua no .
+*MAR:	no te dice nada de agua .
+*MAR:	te dice hola .
+@Situation:	canvi d' escena , preparacio del bany , j esta davant la banyera buida
+*MAR:	que esta el cuac@c cuac@c i el guau@c guau@c ?
+*MAR:	on els tenim ?
+*MAR:	anem a buscar el guau@c guau@c [% "nem a buscar el guau guau"] ?
+*MAR:	no esta aqui , no .
+*MAR:	vaig a buscar'lo [= surt del bany] .
+*CHI:	0 .
+%act:	es queda mirant m i surt darrera d' ella
+*CHI:	pcf [% "aba" , llancant una joguina que portava a les mans] .
+@Comment:	hi ha canvi d' escena , apareix m amb j amb bracos entrant al bany
+*MAR:	va , anem a posar aigua
+	[% "va , nem a posar aigua" , deixa a j a terra] .
+*MAR:	esta freda , ara [= obre l' aixeta] .
+*CHI:	0 .
+@Comment:	esta agafat a la banyera i mira cap a una banyera petita que esta dintre de l' altra
+*MAR:	posarem l' aigua , eh ?
+*CHI:	papa .
+*MAR:	va , posa el guau@c guau@c aqui [= assenyalant la banyera petita] .
+*MAR:	agafa el guau@c guau@c .
+*MAR:	que l' has tirat , tonto [= agafa la joguina] !
+*MAR:	ho posem aqui [= el fica a la banyera] ?
+*MAR:	i el cuac@c cuac@c ?
+*MAR:	i l' altre cuac@c cuac@c ?
+*MAR:	on es ?
+*MAR:	eh ?
+*MAR:	gitano !
+*CHI:	0 [= continua mirant cap a la banyera] .
+*MAR:	oh !
+*MAR:	que fara el cuac@c cuac@c ?
+*MAR:	i el guau@c guau@c ?
+*MAR:	mira posarem aquest [= fica una altra joguina a la banyera de j] .
+*MAR:	i el vermell no se on l' has ficat .
+*MAR:	ara els banyem , ale
+	[= dirigeix l' aigua cap a la banyera petita a on hi son els ninots]
+	!
+*MAR:	ale !
+*CHI:	0 .
+%act:	mira cap a la camera i s' apropa a m com amagant'se
+*MAR:	oh !
+*CHI:	xxx .
+*MAR:	si que esta calenta .
+*MAR:	mira [= apropant la ma de j a l' aigua] .
+*MAR:	oi que be !
+*CHI:	0 .
+%act:	retira la ma del raig d' aigua i torna a mirar la camera
+*CHI:	0 .
+%act:	deixa de mirar la camera i apropa i allunya la ma del raig d' aigua
+*CHI:	xxx .
+*MAR:	ai !
+*MAR:	esta calenta .
+*MAR:	esta bona .
+*CHI:	0 .
+%act:	es toca la cara amb les mans i torna a mullar'les
+*MAR:	dile que lo llamare dentro de un momento , que estoy banyando al
+	ninyo [= parla amb algu que no surt a la imatge] .
+*CHI:	agua [% "abua"] .
+*CHI:	agua [% "abua"] .
+*MAR:	agua si .
+*MAR:	n' hi ha molta , eh ?
+*MAR:	cuanta agua !
+*MAR:	cuanta agua !
+*MAR:	vamos a quitarte esto [= comenca a desvestir j] .
+*CHI:	0 .
+%act:	protesta i vol abocar'se de nou a veure com s' omple la banyera
+*MAR:	no , no t' enfadis .
+*CHI:	xxx .
+*MAR:	si , pero primer s' han de treure les coses
+	[= continua traient'li els pantalons] .
+*CHI:	0 [=! protesta] .
+*MAR:	si , ja se que vols veure .
+*CHI:	0 [=! plora] .
+*MAR:	ets antipatic , eh ?
+*MAR:	no siguis pallasso .
+*MAR:	mira , mira , mira , un surtidor [= assenyala cap a la banyera] .
+*MAR:	pcf [% "chap chap chap"] .
+*MAR:	tu tambe ho faras , eh ?
+*MAR:	oh , que guapo [= li treu el jersei] .
+*MAR:	ole !
+*MAR:	una cosa menos .
+*CHI:	0 .
+%act:	s' apropa a la banyera i intenta tocar'la
+*CHI:	agua [% "abua"] .
+*MAR:	si , mucha agua hay , eh ?
+*MAR:	cuanta agua !
+*MAR:	agua [= tancant l' aixeta i ajupint'se a treure el pantalo a j] .
+*CHI:	0 [=! protesta] .
+*MAR:	que portes caca ?
+*CHI:	xxx .
+*MAR:	portes caca ?
+*CHI:	xxx .
+*MAR:	eh ?
+*CHI:	0 [=! ploriqueja] .
+*MAR:	i ara per que t' enfades ?
+*CHI:	0 [= continua protestant] .
+*MAR:	perque vols ja esta dintre ?
+*CHI:	agua [% "abua" , mirant la banyera i sense plorar] .
+*MAR:	si , al agua vas tonto .
+*MAR:	pero t' ho he de treure tot .
+*MAR:	que mires a la rosa , eh ?
+*CHI:	agua [% "abua" , mirant l' aigua] .
+*MAR:	si , vas al agua .
+*CHI:	0 [=! riu mirant l' aigua] .
+*MAR:	t' he de treure les sabates .
+*CHI:	agua [% "abua" , amb entonacio de sorpresa o joia] .
+*MAR:	ay , agua !
+*MAR:	ay !
+*MAR:	ay , quina emocio !
+*MAR:	portes caca o no , eh ?
+*MAR:	portes caca ?
+*CHI:	oh [= girant's' hi cap a la camera] .
+*MAR:	oh !
+*MAR:	si o no ?
+*CHI:	agua [% "abua"] .
+*MAR:	al agua si , pero caca portes ?
+*MAR:	no deus portar , sino ho dius .
+*CHI:	0 [= comenca a ploriquejar] .
+*MAR:	no portes caca , no .
+*CHI:	0 [=! crida] .
+*MAR:	oh , que tonto , eh ?
+*CHI:	agua [% "abua"] .
+*MAR:	te , ja esta [= li treu la roba que portava encara] .
+*MAR:	mira , aixo i al agua .
+*CHI:	0 [=! plora] .
+*MAR:	ja esta <ja esta> [>] [= fica j a la banyera] .
+*CHI:	agua [<] [% "abua"] .
+*MAR:	a veure com esta de calenta .
+*CHI:	agua [% "abua"] .
+*MAR:	oi si !
+*MAR:	oi si !
+*CHI:	xxx .
+*MAR:	que ?
+*CHI:	xxx .
+*MAR:	esta buena ?
+*MAR:	0 .
+%act:	li mulla l' esquena i el cap
+*CHI:	0 [=! protesta] .
+*MAR:	bueno , bueno .
+*MAR:	no s' enfadi voste .
+*CHI:	0 .
+%act:	dona palmellades a l' aigua
+*ROG:	0 .
+%com:	se sent com canta pero no apareix a la imatge
+*CHI:	0 .
+%act:	es fica la ma per la cara i mira m
+*MAR:	que estas guapo ?
+*INV:	sembla que s' afaiti .
+*MAR:	ets guapo !
+*CHI:	0 .
+%act:	te un got de plastic a la ma i assenyala la camera
+*MAR:	si , la camera , home !
+*MAR:	torna [= li mulla amb una esponja i la deixa a la banyera] .
+*ROG:	0 .
+%com:	esta segut a terra al costat de la banyera
+*CHI:	0 [= assenyala la camera] .
+*MAR:	no , aixo no .
+*INV:	hola !
+*MAR:	aixo no es per l' aigua tonto [>] .
+*INV:	hola [<] !
+*ROG:	0 [= comenca a cantar] .
+*CHI:	0 [= mira cap a m amb la boca oberta] .
+*MAR:	que ?
+*MAR:	estas al'lucinat eh ?
+*MAR:	amb public avui .
+*CHI:	0 .
+%act:	es toca el penis i riu
+*MAR:	ai , el pito !
+*MAR:	quina gracia que li fa .
+*MAR:	com estan sempre tant tapats , pobres .
+*CHI:	0 [= riallades] .
+*CHI:	caca ?
+*MAR:	no , caca no .
+*MAR:	no porta caca , el nen .
+*CHI:	xxx .
+*MAR:	ah , no porta caca .
+*CHI:	0 [= mira cap a m i mou el cap dient que no] .
+*MAR:	no , ja se que no vols sortir .
+*MAR:	no es per que surtis , es per preparar'ho .
+*CHI:	xxx .
+*MAR:	no , no [= agafa les tovalloles i les apropa a la banyera] .
+*MAR:	que vols sortir ?
+*CHI:	xxx .
+*CHI:	0 [=! diu que no amb el cap] .
+*MAR:	bueno , doncs despres , eh ?
+*CHI:	iaia [= somrient i mirant m] .
+*MAR:	la iaia ja no esta .
+*MAR:	ja ha penjat el telefon .
+*MAR:	t' has posat de boligraf [= netejant'li la cara] .
+*MAR:	com ho traurem aixo ?
+*CHI:	0 [=! protesta] .
+*MAR:	bueno , no et rentare el cap .
+*ROG:	aixo te mes accessoris ?
+*CHI:	0 .
+%act:	s' acaricia la cara
+*MAR:	guapo .
+*MAR:	es guapo aquest nen , eh ?
+*CHI:	agua [% "abua"] ?
+*MAR:	no , el nen no va a l' aigua .
+*MAR:	agua [% "abua"] ?
+*MAR:	es que a veces se banyan juntos [= te al costat a r i parla a e] .
+*CHI:	agua [% "abua"] ?
+*MAR:	no .
+*CHI:	agua [% "abua"] ?
+*MAR:	nadie mas va al agua , no .
+*CHI:	agua [% "abua"] ?
+*CHI:	agua [% "abua"] ?
+*MAR:	si .
+*ROG:	0 [= canta cridant] .
+*CHI:	agua [% "abua"] ?
+*MAR:	i el cuac@c cuac@c ?
+*MAR:	cuac@c cuac@c [= agafant'ho de l' aigua] .
+*MAR:	cuac@c cuac@c cuac@c [= fent com si l' anec nedes] .
+*MAR:	que et menja la panxeta [= apropant'ho a j] .
+@Comment:	m i j juguen amb els ninots que hi ha a l' aigua de la banyera
+*CHI:	cuac@c cuac@c [% "coco"] ?
+*MAR:	0 .
+%act:	li apropa un nin
+*CHI:	0 [=! mou el cap fent que no] .
+*MAR:	no que ?
+*MAR:	no vols ?
+*MAR:	no t' agrada aixo , eh
+	[= es refereix a un nin que hi ha a l' aigua] ?
+*MAR:	0 .
+%act:	mulla j
+*CHI:	0 [=! plora] .
+*MAR:	no t' enfadis , eh ?
+*MAR:	escolta .
+*CHI:	0 .
+%act:	xapoteja i juga amb l' aigua
+*MAR:	t' agrada , eh , l' esponja ?
+*CHI:	pcf [% "aa"] .
+*MAR:	que ?
+*MAR:	a mi no em renyis , eh !
+*CHI:	0 .
+%act:	xapoteja i es mulla la cara amb les mans
+*MAR:	eh !
+*MAR:	&-uh !
+*MAR:	t' has mullat [= amb sorpresa] .
+*CHI:	0 [= crida i gira el cap com cercant quelcom] .
+*CHI:	pcf [% "uu"] .
+*MAR:	que busques ?
+*MAR:	mes coses , eh ?
+*CHI:	pcf [% "uu"] .
+*MAR:	va , avui no et posare sabo , eh [= mullant'li el cap] ?
+*CHI:	0 [= es queixa i intenta apartar les mans de m] .
+*ROG:	mama !
+*MAR:	que ?
+*ROG:	me das las pelas@c que me debes [>] ?
+*CHI:	pcf [<] [= crida] .
+*MAR:	no .
+*CHI:	0 [= continua cridant] .
+*ROG:	por que no ?
+*MAR:	porque no las necesitas .
+*ROG:	si las necesito .
+*MAR:	por la manyana te las doy .
+*ROG:	no , que luego no me las das .
+*MAR:	sents lo que diu [= dirigint'se a j] ?
+*MAR:	pcf [% "puff" , rient] .
+*CHI:	0 [= mou els llavis fent sortir l' aire per a que faci soroll] .
+*MAR:	pcf [% "puff"] .
+*MAR:	ha dit una mentida tan gran [% "ha dit una mentira tan gran"] !
+*ROG:	bueno , me he tenido que colar en el metro .
+*MAR:	0 [= riallades] .
+*ROG:	vale ?
+*CHI:	0 [= bufa amb els llavis intentant fer soroll i mirant m] .
+*MAR:	pcf [% "puff" , movent la ma dreta expressa sorpresa i riu] .
+*CHI:	0 [= riallada mirant m] .
+*MAR:	quina cara que te .
+*CHI:	0 [=! riu] .
+*MAR:	te una cara [= tocant'li la cara amb el palmell i mirant j] .
+*ROG:	me he tenido que colar en el metro .
+*MAR:	pobrecito mio !
+@Comment:	m i r continuen discutint mentre j se'ls mira , encara esta dins la banyera
+*MAR:	vols sortir , josep ?
+*CHI:	pcf [% "a" , diu que no amb el cap] .
+*MAR:	como que no ?
+*MAR:	ara ja has de sortir [= apropant'li la tovallola] .
+*CHI:	pcf [% "a" , fa que no amb el cap i mira m] .
+*MAR:	como que no ?
+*CHI:	pcf [% "a"] .
+@Comment:	se sent un gos que borda
+*CHI:	guau@c .
+*CHI:	pcf [% "tai"] .
+*MAR:	&-uh , el guau@c guau@c !
+*MAR:	es el guau@c guau@c que hi ha al pati , aquest .
+*CHI:	pcf [% "a"] .
+*MAR:	ai !
+*CHI:	guau@c .
+*MAR:	guau@c guau@c , si .
+*CHI:	0 [=! crida] .
+%act:	fa palmellades a l' aigua , es toca la cara
+*MAR:	oi que cosa !
+*MAR:	va rentat , rentat be .
+*MAR:	aixi , tota la cara , tot .
+@Comment:	m i r parlen de diners discutint
+*CHI:	0 [=! crida molt] .
+*MAR:	escolta .
+*MAR:	que li parles al guau@c guau@c ?
+*CHI:	pcf [% "au"] .
+*MAR:	guau@c .
+*MAR:	no es aquest no , esta al pati [= assenyalant un gos de joguina] .
+*ROG:	guau@c guau@c guau@c xxx .
+*CHI:	guau@c .
+*ROG:	xxx [= cantant] .
+*CHI:	pcf [% "buau"] .
+*ROG:	xxx !
+*MAR:	vale , fora .
+*CHI:	pcf [% "u" , fa que no amb el cap] .
+*MAR:	como que no ?
+*MAR:	si ja et posaves dret .
+*CHI:	iaia ?
+*MAR:	ni iaias ni histories , va !
+*CHI:	iaia ?
+*MAR:	la iaia no esta .
+*CHI:	guau@c guau@c ?
+*MAR:	i el guau@c guau@c tampoc .
+*CHI:	guau@c guau@c .
+*MAR:	no .
+*CHI:	guau@c guau@c ?
+*MAR:	s' ha anat a dormir .
+*ROG:	limpiale la frente .
+*MAR:	esto le saldra con colonia [= donant'li en el front amb colonia] .
+*MAR:	se ha pintado todo de boligrafo .
+*CHI:	pcf [% "oh"] .
+*MAR:	como que no ?
+*CHI:	pcf [% "oh"] .
+*MAR:	si .
+*CHI:	0 [= fa que no amb el cap i de cop comenca a afirmar] .
+*MAR:	exacto , si , si .
+*MAR:	va , doncs surt .
+*CHI:	pcf [% "oh" , fa que no amb el cap] .
+@Comment:	m , r i e riuen
+*CHI:	0 .
+%act:	xapoteja
+*MAR:	ens tindrem que enfadar per sortir ?
+*MAR:	ja estas molt net .
+*MAR:	molt guapo .
+*MAR:	ja esta guapo el josep .
+*CHI:	0 [=! crida i somriu] .
+*MAR:	quina alegria .
+*CHI:	0 [=! continua cridant] .
+*CHI:	agua [% "abua"] ?
+*ROG:	veras como a mi me hace caso [= agafant la tovallola] .
+*ROG:	surtimos [= catalanada] ?
+*ROG:	surtimos ?
+*CHI:	pcf [% "ah"] .
+*ROG:	como que ah ?
+*CHI:	pcf [% "o" , fa no amb el cap] .
+*ROG:	no ?
+*ROG:	fem aixi [= eixugant'li la cara amb la tovallola] ?
+*CHI:	0 [=! crida] .
+*ROG:	salimos ?
+*CHI:	cuac@c cuac@c [% "coco"] ?
+*MAR:	ni cuac@c cuac@c ni res .
+*MAR:	s' ha acabat .
+*CHI:	cuac@c cuac@c [% "coco"] ?
+*MAR:	dona'm el cuac@c cuac@c .
+*MAR:	a veure [= allarga la ma cap a j] .
+*MAR:	on es el cuac@c cuac@c ?
+*ROG:	dona'li el cuac@c cuac@c a la mama [= apropant'li el nin] .
+*CHI:	cuac@c cuac@c cuac@c cuac@c
+	[% "cocococo" , li dona cops a l' aigua amb la joguina] .
+*ROG:	cuac@c cuac@c cuac@c cuac@c .
+*MAR:	va , ara ja esta , eh , josep !
+*CHI:	0 [=! protesta] .
+@Comment:	m treu j de l' aigua i l' envolta amb una tovallola , j plora , el fica davant un mirall , es veuen m , j i r
+*MAR:	mira , veus ?
+*MAR:	oi que guapo !
+*CHI:	0 [=! crida i riu mirant'se] .
+*MAR:	mira el nas , la boca , els ulls
+	[= assenyala cadascuna de les parts de la cara de j] .
+*CHI:	0 [=! crida i riu] .
+@Situation:	canvi d' escena , a la habitacio de j , j sobre el bressol i m el vesteix
+*MAR:	aixo es una marranada [= no es veu cap imatge] .
+*MAR:	no esta el josep .
+*CHI:	0 [=! plora] .
+*MAR:	tonto .
+*MAR:	0 .
+%act:	juga a mossegar'li els peus
+*MAR:	0 .
+%act:	comenca a vestir j
+*CHI:	0 [=! protesta] .
+*MAR:	a mi no em renyis [= amb veu enfadada] .
+*MAR:	que es aixo !
+*CHI:	guau@c guau@c [= assenyalant el sostre] .
+*MAR:	si , tienes ahi guau@c guaus@c .
+*MAR:	a mi no em renyis [= suaument] .
+*MAR:	a la mama no se la renya .
+@Comment:	j esta molt tranquil i mira la camera , m fora de imatge parla sobre papa
+*MAR:	papa , que no arriba ?
+*CHI:	mama .
+*MAR:	mama si .
+*MAR:	la mama esta aqui .
+*MAR:	0 .
+%act:	continua vestint j
+*CHI:	0 .
+%act:	abraca un os de joguina
+*MAR:	0 .
+%act:	li fica el pijama a j mentre canta
+*CHI:	0 [=! plora] .
+*MAR:	por que te enfades ?
+*MAR:	mira [= ensenyant'li l' os] .
+*CHI:	0 [=! continua plorant] .
+*MAR:	no , no vols .
+@Comment:	m comenca a pentinar a j que esta de peu al bressol i protesta plorant
+*MAR:	i el tutut@c ?
+*MAR:	on es el cotxe [= agafant j als bracos] .
+*CHI:	pcf [% "oh" , assenyala cap a un moble amb joguines] .
+*MAR:	quin cotxe vols ?
+*CHI:	pcf [% "oh" , allarga la ma cap a una radio] .
+*MAR:	a no , vols el radio , ja ho se .
+*MAR:	0 .
+%act:	porta j cap a una altra part de l' habitacio i li ensenya joguines
+*MAR:	josep .
+*MAR:	anem a fer nyam@c nyam@c ?
+*MAR:	et porto aqui el nyam@c nyam@c ?
+*CHI:	0 .
+%act:	no es gira cap a m i continua jugant amb una bicicleta
+@Situation:	canvi d' escena , al salo j esta dempeus davant d' un cap per perruques que te una careta de goma posada , h esta davant j , j seu a terra i manipula la careta intentant treurela de la base
+*HUG:	hum !
+*CHI:	pcf [% "ooh"] .
+*MAR:	que no le da miedo !
+*HUG:	0 .
+%act:	treu la careta i intenta posar'se'la a j
+*CHI:	0 .
+%act:	rebutja la careta i la dona a h
+*MAR:	que te la pongas tu , quiere .
+*CHI:	0 .
+%act:	li dona a h la base de la careta
+*CHI:	pcf [% "ooh"] .
+*MAR:	ponselo encima de la mesa .
+*HUG:	oh [= apropant la careta a la cara de j] !
+*CHI:	pcf [% "ooh"] .
+*HUG:	dona'li un peto .
+*HUG:	dona'li un peto .
+*CHI:	0 .
+%act:	besa la careta i continua donant'li voltes amb les mans
+*MAR:	fes'me un susto , josep .
+*MAR:	oh !
+*CHI:	0 .
+%com:	esta dempeus pero d' esquena a m i a la camera
+*CHI:	pcf [% "ooh"] .
+*MAR:	no , aquest oh no es un susto !
+*MAR:	fes'me un susto .
+*CHI:	0 .
+%act:	continua d' esquena jugant amb la careta
+@Comment:	apareix m darrera una porta que esta al davant de j , juguen al'tat' i j riu i crida , quan acaben j segueix jugant amb la careta que esta a terra , li dona voltes i la observa amb gran deteniment , camina cap al fons de la imatge
+*CHI:	pcf [% "ooh"] .
+*MAR:	vine .
+*CHI:	0 [=! ploriqueja caminant cap a m] .
+*MAR:	si que tens gana .
+*MAR:	vine .
+*CHI:	0 [=! continua plorant] .
+*MAR:	la carota .
+*MAR:	tot no pot ser [= agafa j i el seu a la trona] .
+@Comment:	m li dona de menjar a j , a les primeres cullerades j posa la ma sobre la de m com si li ajudes a donarse el menjar
+*MAR:	va , agafa'l [= deixant la cullera] .
+*CHI:	0 .
+%act:	agafa la cullera
+*MAR:	asi , jo t' ajudo [= ajudant j amb la cullera] .
+*MAR:	ja se que vols tu sols , pero es que nen .
+*MAR:	espera't que et poso el pitet .
+*CHI:	0 .
+%act:	continua menjant amb la cullera a la ma
+*INV:	es esquerra .
+*MAR:	si [= amb entonacio de dubta] .
+*MAR:	a vegades agafa amb la dreta , saps ?
+*MAR:	amb l' altra ma , te [= li canvia la cullera a la ma dreta] .
+*CHI:	0 .
+%act:	continua menjant amb la ma dreta
+*MAR:	com menja sols , hum !
+*MAR:	et dono jo una mica ?
+*MAR:	anirem mes rapid
+	[= li agafa la cullera i li acaba de donar amb ella] .
+*MAR:	vols una galeta ?
+*MAR:	josep , vols pa ?
+*MAR:	que aixo s' ha acabat [= ensenyant'li la tassa de sopetes buida] .
+*CHI:	0 .
+%act:	mira dintre la tassa i fa que no amb el cap
+*MAR:	ja no hi ha mes [= li ensenya la tassa un altre cop] .
+*CHI:	xxx [= fa que no amb el cap] .
+@Comment:	m li dona una galeta i j comenca a menjarsela mentre juga amb unes castanyoles que hi ha sobre de la trona , m juga amb j , j esta a terra i s' estira fins quedar de bocaterrosa
+*HUG:	no en te ganes , no ?
+*MAR:	no , clar .
+*MAR:	josep , que vols que ballem ?
+*MAR:	que vols ballar ?
+*MAR:	que tens soneta ?
+*HUG:	em sembla que te xxx [>] .
+*MAR:	<que t' estires> [<] ?
+@Comment:	j mira cap m pero no es mou del terra
+*MAR:	vine .
+*MAR:	vine amb la mama .
+*MAR:	mira l' hugo .
+@Comment:	apareix h , j s' aixeca per mirarlo
+*HUG:	oh !
+*CHI:	pcf [% "ooh" , seient a terra] .
+*HUG:	0 .
+%act:	li fa un peto a j
+*MAR:	hazle , hazle que te imite hugo , que a ti te lo hace perfecto .
+*CHI:	pcf [% "ooh"] .
+*HUG:	el que ?
+*MAR:	le haces resoplar , le haces no se que , que hace xxx [>] .
+*CHI:	pcf [<] [% "ooh"] .
+*CHI:	0 .
+%act:	s' aixeca i comenca a caminar , es gira cap a h
+*CHI:	pcf [% "ooh"] .
+*MAR:	oh !
+*CHI:	pcf [% "ooh"] .
+*CHI:	0 .
+%act:	assenyala amb el dit cap a un lloc que queda fora d'imatge
+*MAR:	xxx hugo .
+*CHI:	pcf [% "ia"] .
+*HUG:	iaia .
+*MAR:	la iaia no [>] .
+*HUG:	iaia [<] ?
+*HUG:	on esta la iaia ?
+*CHI:	pcf [% "o"] .
+*CHI:	0 .
+%act:	agafa un cap per posar perruques de joguina
+*CHI:	pcf [% "ooh"] .
+*MAR:	dona'li al hugo , dona'li que es seva .
+*HUG:	dona'm pep [= tot estirant el brac] .
+*CHI:	0 .
+%act:	li cau la joguina a terra , sembla que assenyali cap a l' objecte
+*CHI:	pcf [% "oohooh"] .
+*CHI:	0 .
+%act:	marxa caminant
+*HUG:	pep .
+*HUG:	pep .
+*CHI:	0 .
+%act:	assenyala altre objecte que hi ha a terra
+*CHI:	pcf [% "ooh"] .
+*HUG:	oh !
+*HUG:	dona'm aixo , dona'm aixo .
+*CHI:	pcf [% "ooh"] .
+*HUG:	no , aixo !
+*HUG:	vine , vine .
+*HUG:	vine .
+*CHI:	pcf [% "eieie"] .
+*HUG:	<no xxx> [>] [% "no eieie"] .
+*CHI:	pcf [<] [% "ooh"] .
+*CHI:	0 .
+%act:	agafa la careta que hi havia a terra i camina cap a h
+*CHI:	pcf [% "ooh"] .
+*MAR:	dona'li .
+*MAR:	porta'li al h .
+*MAR:	que es seu .
+*CHI:	pcf [% "ooh"] .
+*CHI:	0 .
+%act:	continua amb la joguina a la ma , li dona voltes i camina cap a on estava h
+*MAR:	josep .
+*MAR:	se le ha olvidado xxx .
+@Comment:	hi ha un canvi de escena i ara estan asseguts al sofa j i m , m juga amb un encenedor , j se la mira
+*CHI:	pcf [% "ooh"] .
+*MAR:	mira [= mentre que encen l' encenedor davant d' en j] .
+*CHI:	0 [= intranquil no mira cap a m] .
+*MAR:	0 .
+%act:	encen unes quantes vegades l' encenedor
+*CHI:	pcf [% "ooh"] .
+*MAR:	no vols bufa ?
+*MAR:	mira a la mare [= bufa i apaga la flama] .
+*CHI:	0 [= se la mira atent] .
+*CHI:	pcf [% "ooh"] .
+*MAR:	0 .
+%act:	deixa a j a terra
+*MAR:	que ?
+*MAR:	<que vols> [>] ?
+*CHI:	pcf [<] [% "ooh"] .
+*CHI:	0 [=! comenca a plorar] .
+*MAR:	no vols bufar ?
+*MAR:	que vols ?
+*MAR:	on vols anar ?
+@Comment:	canvi d' escena , j camina cap el moble que hi ha darrera
+*MAR:	al xupete [= castellanada] .
+*MAR:	que ha vist el seu xupete .
+*MAR:	aixo vol dir que te molta soneta .
+*INV:	pobre [= tot rient] !
+*CHI:	0 .
+%act:	intenta agafar el xumet pero no hi arriba
+*MAR:	ai , el xupete !
+*CHI:	pcf [% "ooh"] .
+*CHI:	0 [= mira cap a m] .
+*MAR:	que vols agafar'ho ?
+*CHI:	0 .
+%act:	camina plorant cap a m
+*MAR:	0 [= assenyala el xumet] .
+*CHI:	0 .
+%act:	es torna a girar i el mira
+*MAR:	alla .
+*MAR:	alla .
+*MAR:	el pots agafar tu !
+*CHI:	0 .
+%act:	l' agafa i s' ho posa a la boca
+*MAR:	molt be .
+*MAR:	que gran !
+*MAR:	ai , que gran !
+*MAR:	que vol dir que tens molta soneta , eh ?
+*CHI:	0 .
+%act:	s' agafa m que continua seguda a terra
+*MAR:	pcf [% "aserrin" , canta mentre puja a j] .
+*CHI:	pcf [% "ooh"] .
+*MAR:	pcf [% "aserran" , apropa a j a terra i continua amb la canco] .
+@Comment:	m i j juguen i riuen , j fa produccions en mig de la canconeta
+*CHI:	pcf [% "ooh"] .
+*MAR:	oi quina soneta [= agafant a coll a j] !
+*CHI:	0 .
+%act:	torna a agafar l' encenedor
+*CHI:	pcf [% "ooh"] .
+*MAR:	que ?
+*MAR:	l' encenedor ?
+@Comment:	m l' encen pero j no li para atencio , j s' aixeca i , agafat a la taula assenyala l' encenedor
+*CHI:	pcf [% "ooh"] .
+*MAR:	0 .
+%act:	agafa el dit de j i li fa el joc de tallar'li el brac i finalment fer'li pessigolles
+*MAR:	fes'm' ho tu a mi , va .
+*MAR:	a ver , por aqui [= s' agafa el seu brac i s' ho fa] .
+*MAR:	talla , talla .
+*CHI:	0 .
+%act:	s' enretira pero mirant m
+*MAR:	vine .
+*MAR:	on vas ?
+*MAR:	on vas ?
+*CHI:	0 [= assenyala amb el dit quelcom que no es veu] .
+*MAR:	alla no , he ?
+*CHI:	pcf [% "ooh"] .
+*MAR:	no .
+*CHI:	0 .
+%act:	s' amaga darrera del sofa
+*MAR:	josep !
+*CHI:	0 .
+%act:	mira la camera i riu , continua darrera del sofa
+*MAR:	xxx josep ?
+*INV:	hola !
+*MAR:	no esta , no esta [= apareix per sota del sofa] .
+*MAR:	si que esta !
+@Comment:	m i j continuen jugant per darrera dels sofas , j riu fort , sembla que j crida mes quan m diu que no esta
+*CHI:	0 .
+%act:	empeny la seva cadireta , la deixa i camina al fons
+*CHI:	pcf [% "ooh"] .
+*MAR:	<que busques> [>] ?
+*CHI:	pcf [<] [% "ooh"] .
+*CHI:	0 .
+%act:	torna a caminar cap a m
+*MAR:	estas buscant algo , no ?
+*CHI:	0 .
+%act:	va cap el sofa i riu en veure a m
+*MAR:	ah !
+*MAR:	que no m' havia vist [= li toca la ma] .
+*CHI:	0 .
+%act:	s' enretira una mica
+*CHI:	pcf [% "ai"] .
+@Comment:	m i j continuen jugant , m s' amaga i surt tot parlant , j riu molt , quant no la veu durant una estona s' enfada i crida fins que torna a apareixer
+*MAR:	ui que te la xxx [>] .
+*CHI:	pcf [<] [% "ii"] .
+*MAR:	encara vols jugar mes ?
+*CHI:	0 .
+%act:	mou els dos bracos a la vegada
+*MAR:	si ?
+*CHI:	0 .
+%act:	camina cap a la finestra
+*CHI:	pcf [% "cocaa"] .
+*MAR:	no , no se toca , no [= fa que no amb el dit] .
+@Comment:	j torna a amagarse i continua rient i xisclant , m l' agafa a coll , estan al costat de la finestra
+*CHI:	pcf [% "aah"] .
+*MAR:	que , vols veure cotxes ?
+*MAR:	mira quants cotxes .
+*MAR:	oh !
+*MAR:	di , que ve el papa ?
+*CHI:	mama .
+*MAR:	no .
+*CHI:	mama .
+*MAR:	que ?
+*MAR:	que vols ?
+*MAR:	que pugi mes aixo [= agafa la corda de la persiana] ?
+*MAR:	no , si per aixo no hi havia llum [= torna a mirar per la finestra]
+	.
+*MAR:	mira .
+*MAR:	pcf [% "tu tu pi" , imita els sorolls dels cotxes] .
+*MAR:	quants cotxes , tio .
+*MAR:	quin rotllo .
+*MAR:	a les nits es un rotllo .
+@End

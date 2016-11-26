@@ -1,0 +1,126 @@
+@UTF8
+@PID:	11312/c-00001909-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Antoni Target_Child , MAR mare Mother , INV Investigator
+@ID:	spa , cat|Serra|CHI|2;0.08||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	el nen es a la sala i es dirigeix cap a m , la mare surt de la imatge , a camina i apareix assentat damunt una moto
+*CHI:	a papa [= a mira a e] .
+*INV:	no .
+*INV:	el papa et va regalar la moto ?
+*INV:	em sembla que no .
+*MAR:	no te la ha regalado el papa .
+*INV:	el papa no .
+*MAR:	te la ha regalado el gabi .
+*INV:	qui t' ha regalat aquesta moto ?
+*INV:	el gabi .
+*INV:	si o no ?
+*INV:	qui te l' ha regalat ?
+*CHI:	0 .
+%act:	s' engronxa damunt la moto i treu la llengua
+*INV:	ai !
+*INV:	ai [>] !
+*INV:	<que fa el toni> [>] ?
+*INV:	ui !
+*CHI:	0 .
+%act:	a engega la moto i va cap enrera
+@Comment:	a torna a anar cap endavant i es troba amb la mare
+*MAR:	ponemos aqui xxx [= la moto fa molt soroll] ?
+@Comment:	la mare se'n va , apareix la mare sentada en una cadira , a esta damunt la mare amb un cavall de cartro , a mira a la camera , m parla amb e , m toca el cabell a a
+*CHI:	que subi [= a es gira cap a m] .
+*MAR:	subir quieres ?
+*CHI:	si .
+@Comment:	m s' aixeca
+*MAR:	ostras !
+*MAR:	voy a dejar +...
+%com:	m desapareix de la imatge
+*CHI:	0 [= mira a la camera] .
+*CHI:	subir [= intenta pujar al cavall] .
+*CHI:	subir caballo [= mirant a m que torna] .
+@Comment:	m torna a apareixer a la imatge i puja el nen damunt el cavall
+*CHI:	pcf [% "ani ani" , esta content i mira a la camera] .
+@Comment:	m estira del cavall
+*MAR:	ui !
+%com:	m tira el cavall enrera
+*MAR:	hay un papel aqui [= cull un paper] .
+%com:	m torna a tirar el cavall endavant
+*MAR:	asi ?
+*MAR:	vamos hacia la carme ahora [= gira el cavall cap a e] ?
+*MAR:	yo te empujo .
+*MAR:	eh [= tira el cavall enrera] ?
+*MAR:	pumba [= espitja el cavall cap a la camera] !
+*MAR:	ui !
+*MAR:	pcf [% "ani , ani , ani"] .
+*CHI:	0 [= somriu mirant cap a la camera] .
+*MAR:	pcf [% "ani , ani , ani"] .
+*MAR:	ui !
+@Comment:	m i a desapereixen de la imatge , m i a damunt el cavall amb la mare al costat
+*MAR:	quieres que te traiga el xxx para que se lo ensenyes a la carme que
+	no lo conoce [= m desapareix de la imatge] ?
+*CHI:	ah [= somriu treient la llengua i mirant a e] !
+*MAR:	mira !
+*MAR:	ensesanyelo .
+*CHI:	que subir .
+*MAR:	quieres subirlo tambien ?
+*MAR:	subelo [= li dona a a un gos de felpa] .
+*MAR:	xxx como lo subes .
+*MAR:	tu xxx que guapo que esta !
+@Comment:	a es gronxa en el cavall
+*MAR:	no atropellar a los nenes que estan aqui [>] .
+*CHI:	ah [<] !
+@Comment:	m s' ajup a collir les nines , a mira el que fa la mare , m se'n va
+*MAR:	con el avion no juegas ?
+*CHI:	0 [= a mira cap a la mare] .
+*MAR:	no juegas con el avion ?
+@Comment:	a baixa del cavall i li cau el gos a terra , a s' ajup a collir el gos
+*CHI:	ah , subir .
+*MAR:	pero por que has bajado ?
+*MAR:	eh ?
+*MAR:	por que bajas [= la mare s' acosta al nen] ?
+*MAR:	quieres subir ?
+*MAR:	eh [>] ?
+*CHI:	si [<] .
+*MAR:	sube [= la mare puja a a damunt el cavall] .
+*MAR:	iupi@c !
+@Comment:	a esta quiet damunt el cavall
+*MAR:	que quieres , que te lleve ?
+*CHI:	si .
+*MAR:	brrr@c [= la mare tira el cavall enrera y endavant] .
+@Comment:	apareix a quiet damunt el cavall
+*CHI:	ara xxx .
+*MAR:	xxx quieres bajar ?
+*CHI:	si .
+*MAR:	0 .
+%act:	m ajuda a a baixar
+*MAR:	baja tu solo .
+*MAR:	cuidado , eh !
+*MAR:	muy bien [= el nen ja ha baixat] .
+*MAR:	pumba@c [= el nen cau a terra i plora] !
+*MAR:	pupa@c ?
+*MAR:	no .
+*MAR:	eso es una tonteria [= m s' ajup i fa un peto al nen] .
+@Comment:	a s' aixeca i cull el gos
+*CHI:	se ha caido tambe [% "sa caido tambe"] .
+*CHI:	se ha caido mi xxx [% "sa caido mi xxx"] .
+*MAR:	oh !
+*MAR:	tiene pupa@c el xxx ?
+*MAR:	pues hazle algo .
+*MAR:	pobrecito !
+*CHI:	xxx subir xxx xxx [% "ia subi na xxx"] .
+@Comment:	a i m surten de la imatge , apareix a caminant cap a l' avio
+*CHI:	0 [= chi , chi , chi , canta] .
+@Comment:	a assegut a terra juga amb l' avio sense dir res
+*MAR:	xxx ya no suben las escaleras antoni ?
+*CHI:	si .
+%com:	a segueix jugant amb l' avio
+*CHI:	xxx uuu !
+%com:	a segueix jugant amb l' avio
+*CHI:	ara tapem [= tanca la porta de l' avio] .
+@Comment:	a s' aixeca i agafa el gos i va cap el cavall , a agafa un llibre i es dirigeix cap a e , a tira el llibre a terra , recull el llibre i mira a e
+*CHI:	mira .
+*INV:	que es ?
+*CHI:	mi caco@c .
+@Comment:	el nen dona volts per la sala amb el llibre a la ma
+@End

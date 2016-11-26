@@ -1,0 +1,307 @@
+@UTF8
+@PID:	11312/c-00028034-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , HMA hmain Nurse , INV Investigator
+@ID:	cat|Serra|CHI|1;5.01||||Target_Child|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+*CHI:	0 .
+%com:	esta a la cuina segut a una cadira a prop de la taula , mira al davant
+*CHI:	mama .
+*CHI:	0 .
+%act:	aixeca el brac i ensenya un dit
+*CHI:	mama [= mentre es mira el dit i es toca la front] .
+*CHI:	mama .
+*CHI:	mama .
+*CHI:	mama .
+*HMA:	0 .
+%act:	entra a la cuina
+*CHI:	ja esta [% "ja ta"] .
+*HMA:	si [= xiuxiuejant] .
+*CHI:	0 .
+%act:	mira en direccio a h que esta manipulant uns objectes , fa soroll , no es veu a la pantalla
+*CHI:	pcf [% "xxx xxx ta" , assenyalant cap amunt] .
+*HMA:	0 .
+%act:	es fica d' esquena a a , junt al rentador
+*CHI:	pcf [% "ai llella" , assenyala cap a h] .
+*CHI:	ja esta [% "ta ta"] .
+*HMA:	que pasa ?
+*CHI:	pcf [% "a ella" , assenyala cap a munt] .
+*HMA:	xxx xxx xxx xxx .
+*CHI:	pcf [% "llella"] .
+@Comment:	h seu al costat d' a i fica una tassa de llet a sobre la taula , li va a posar el pitet a a , a te un objecte petit a la ma
+*HMA:	uy !
+*CHI:	pcf [% "uu"] .
+*HMA:	uy , es un lobo !
+*HMA:	como hace el lobo ?
+*HMA:	pcf [% "uuuu"] .
+*HMA:	0 .
+%act:	li fica un tros de galeta a la boca
+*CHI:	no [= pero se'l menja] .
+*CHI:	pcf [% "aaraa" , amb la boca plena i assenyalant cap endavant] .
+*HMA:	si .
+*CHI:	pcf [% "lleia"] .
+*HMA:	xxx .
+*CHI:	mas .
+*CHI:	0 .
+%act:	fica a sobre la taula l' objecte , que es un llop , i juga
+*HMA:	quien te ha dado ese lobo ?
+*HMA:	eso no es de alvar .
+*HMA:	de quien es ?
+*CHI:	0 [= mira i escolta atentament] .
+*CHI:	pcf [% "io" , mirant i assenyalant al front] .
+*HMA:	si .
+*HMA:	0 .
+%act:	li dona de menjar
+*HMA:	que rico !
+*HMA:	esta bueno ?
+*HMA:	esta bueno ?
+*CHI:	si [% "chi"] .
+*HMA:	si [% "chi"] ?
+*CHI:	no .
+*HMA:	no ?
+*HMA:	yo creo que si .
+*HMA:	si ?
+*CHI:	no .
+*HMA:	si ?
+@Comment:	h acosta el cap cap a a i aquest s' aparta , a li dona cops a la cara
+*HMA:	ay ay ay !
+*CHI:	0 .
+%act:	torna a donar cops a h
+*HMA:	no .
+*CHI:	pcf [% "ia" , assenyalant al davant] .
+*HMA:	si .
+*HMA:	a ver como haces ?
+*HMA:	pcf [% "aaaa" , obrint la boca i dirigint la cullera cap a a] .
+*CHI:	pcf [% "aaa" , obrint la boca] .
+*CHI:	0 [= estossega] .
+*HMA:	eh !
+*CHI:	0 [= torna a tossir] .
+*HMA:	ay , que tos !
+*CHI:	pcf [% "io"] .
+*HMA:	que ?
+*HMA:	uh , que tos !
+*CHI:	0 .
+%act:	fa com si fos a posar l' objecte que porta a la ma dintre la tassa
+*HMA:	xxx xxx no .
+*CHI:	pcf [% "aquello"] .
+*HMA:	no , ahi no se entra , es un animal .
+*HMA:	un lobo xxx [% "un lobo uuu"] .
+*HMA:	como hace el lobo ?
+*CHI:	0 .
+%act:	continua menjant
+*HMA:	pcf [% "um um"] .
+*CHI:	pcf [% "um"] .
+@Comment:	h es refrega les mans i a l' imita , ambdos somriuen
+*HMA:	ya esta !
+*CHI:	esta [% "ta"] .
+*HMA:	ya esta !
+*HMA:	0 .
+%act:	agafa el que queda a la tassa i li dona
+*HMA:	a ver .
+*CHI:	a ver .
+*HMA:	a ver .
+*HMA:	a ver la boquita .
+*CHI:	pcf [% "aaam" , obrint la boca] .
+*HMA:	a ver la boquita [= allarga l' ultima lletra] .
+*CHI:	tot [% "toto" , sembla que podria ser tot] .
+*HMA:	que ?
+*CHI:	esta .
+*HMA:	ya esta , se [/?] ya se ha comido el yogurt .
+*HMA:	ya se ha comido el yogurt .
+*CHI:	yogurt [% "yogur"] .
+*HMA:	eh ?
+*HMA:	yogurt .
+*HMA:	vale , ya esta .
+*CHI:	ya esta .
+*HMA:	ya esta .
+*HMA:	0 .
+%act:	s' acosta xiuxiuejant a a
+*CHI:	0 .
+%act:	s' allunya i riu
+*HMA:	ya esta , ya esta [= xiuxiuejant] .
+*CHI:	0 .
+%act:	s' acosta a h , imitant'la
+*CHI:	pcf [% "fafa" , amb la boca plena de galeta] .
+*HMA:	ya esta .
+*CHI:	mama .
+*HMA:	la mama , va a venir ya .
+*CHI:	pcf [% "uuu"] .
+*HMA:	pcf [% "uuuiu"] .
+*CHI:	lobo [% "leo" , es refereix al ninot] .
+*HMA:	el lobo [= afirmant amb el cap] .
+*HMA:	un lobo .
+*CHI:	pcf [% "to"] .
+*HMA:	un lobo .
+*CHI:	0 .
+%act:	estreny el llop fort contra la taula
+*HMA:	no .
+*HMA:	lo rompes .
+*HMA:	pcf [% "am am" , com si li renyes] .
+*HMA:	a ver que me dice alvar ?
+*HMA:	pcf [% "am am"] .
+*CHI:	pcf [% "aa aauu"] .
+*CHI:	pcf [% "cu tata"] .
+*HMA:	ya esta .
+*HMA:	no .
+*HMA:	0 .
+%act:	li va a donar mes galeta
+*CHI:	no .
+*HMA:	ya no quieres mas galletita ?
+*CHI:	no [= inclinant el cap] .
+*HMA:	si , otra poquita .
+*CHI:	0 .
+%act:	menja una altra galeta
+*HMA:	otra poquita .
+@Comment:	h li mossega la ma jugant , a riu , h li fa pessigolles a la palma de la ma
+*HMA:	a ver el culo .
+*CHI:	0 .
+%act:	es fa pessigolles a la ma , tot imitant h
+*CHI:	pcf [% "let"] .
+*HMA:	si , que la mano te hace .
+*HMA:	culo , culo , culo xxx .
+*CHI:	pcf [% "ei" , somrient] .
+*HMA:	si .
+*CHI:	no .
+*HMA:	tu no quieres hacer mas ?
+*HMA:	pues bueno .
+*CHI:	0 .
+%act:	allarga la ma , ensenyant el llop a e
+*CHI:	uh !
+*HMA:	que ?
+*HMA:	el lobo , le ensenyas el lobo ?
+*HMA:	0 .
+%act:	li dona un altre tros de galeta
+*CHI:	no .
+*HMA:	no , pues si .
+*CHI:	no .
+*HMA:	te estan saliendo unos dientecitos ahi .
+*CHI:	0 .
+%act:	es toca la boca
+*HMA:	unos dientecitos .
+*CHI:	0 .
+%act:	es fica el dau a la boca
+*HMA:	pcf [% "chi" , demanda de silenci] .
+*CHI:	pcf [% "chi" , imitant a h] .
+*HMA:	0 .
+%act:	li dona un altre tros de galeta
+*CHI:	no .
+*HMA:	no .
+*HMA:	pcf [% "chi"] .
+*CHI:	ya esta [% "ja ta"] .
+*HMA:	ya esta .
+*CHI:	pcf [% "aeo"] .
+*HMA:	ya esta .
+*CHI:	pcf [% "gu"] .
+*HMA:	ya se ha terminado el yogurt , si .
+*HMA:	ya esta .
+*CHI:	ya esta [= assenyalant el tros] .
+*HMA:	ya esta , si .
+*CHI:	fregadero [% "eero" , assenyalant el rentador] .
+*HMA:	si , ahora hay que fregarlo alli .
+*CHI:	ya esta .
+*HMA:	ya esta .
+*CHI:	pcf [% "ma"] .
+*HMA:	a ver como dices , a ver .
+*CHI:	pcf [% "aum"] .
+*HMA:	ya esta .
+*HMA:	ahora a la cunita , eh !
+*CHI:	si [% "chi"] .
+*HMA:	si .
+*HMA:	a jugar un poquito .
+*HMA:	jugaras un poquito en la cunita ?
+*CHI:	si [% "chi"] .
+*HMA:	si , vale .
+*HMA:	0 .
+%act:	baixa a a de la cadira i el porta al bressol
+*CHI:	0 [= esta assegut al bressol] .
+*CHI:	tutu@c [= es refereix al cotxe] .
+*CHI:	tutu@c .
+*INV:	ai , si quin tutu@c mes maco !
+*CHI:	nene nene .
+*INV:	es de l' alvar ?
+*CHI:	si [% "chi"] .
+*CHI:	tutu@c .
+*INV:	oi , un altre tutu@c !
+*CHI:	avi .
+*INV:	es de l' avi ?
+*INV:	i el del papa ?
+*INV:	on t' es el cotxe del papa ?
+*CHI:	esta [% "ta"] .
+*INV:	no hi es ?
+*CHI:	si [% "chi"] .
+*INV:	aquest es de l' avi ?
+*CHI:	no .
+*CHI:	avi , avi [= agafant una joguina] .
+*INV:	oi , que maco , aixo es de l' avi ?
+*CHI:	si [% "chi"] .
+*CHI:	si [% "chi"] .
+*CHI:	pcf [% "a dadedo" , assenyalant un dibuix] .
+*INV:	qui es ?
+*CHI:	te [= allargant'li l' objecte] .
+*CHI:	te .
+*INV:	que m' ho dones ?
+*INV:	m' ho dones ?
+*CHI:	te .
+*INV:	es per mi ?
+*CHI:	0 .
+%act:	mira per entre els barrots del bressol i s' aixeca
+*CHI:	avi [= assenyalant cap a la finestra] .
+*CHI:	avi , avi .
+*CHI:	avi .
+*CHI:	avi .
+*CHI:	0 .
+%act:	esta segut i intenta aixecar'se
+*CHI:	pcf [% "aig"] .
+*CHI:	0 .
+%act:	agafa dos cotxes
+*CHI:	pcf [% "llu"] .
+*CHI:	tu [= dirigint els cotxes cap a e] .
+*CHI:	te .
+*CHI:	te .
+*CHI:	mi mi mi [= portant'se els dos cotxes al pit] .
+*CHI:	tu .
+*INV:	son teus ?
+*CHI:	si [% "chi"] .
+*INV:	son de l' alvar ?
+*CHI:	si .
+*CHI:	pcf [% "apa axpane"] .
+*CHI:	0 .
+%act:	torna a seure's al bressol i manipula joguines
+*CHI:	si [% "chi"] .
+*CHI:	0 .
+%act:	es tomba al bressol , panxa amunt
+*INV:	que vols dormir ?
+*CHI:	si [% "chi"] .
+*INV:	vols dormir ?
+*CHI:	si [% "chi"] .
+*CHI:	mi mi mi .
+*CHI:	0 .
+%act:	seu al bressol i amb el peu mou un recipient ple de joguines que fa soroll
+*CHI:	pcf [% "tot a pe"] .
+*CHI:	0 .
+%act:	agafa un camio
+*CHI:	si [% "chi"] .
+*CHI:	pcf [% "cha cha cha a am amma"] .
+*CHI:	0 .
+%act:	es posa de peu al bressol amb el camio a les mans
+*CHI:	pcf [% "ama"] .
+*CHI:	pcf [% "a chit"] .
+*CHI:	pcf [% "ma uuu xxx yaya"] .
+*CHI:	pcf [% "u ayaya ello tutu"] .
+*CHI:	pcf [% "oh xxx na"] .
+*CHI:	ja esta [% "tata" , llanca el camio] .
+*CHI:	pcf [% "ta chi a pa pa pa xxx a chi"] .
+*CHI:	pcf [% "ah ah pa pa tachi"] .
+*CHI:	pcf [% "pa pea to toc"] .
+*CHI:	dormir [% "mi" , tombat al bressol mira a e] .
+*CHI:	dormir dormir dormir [% "mi mi mi"] .
+*CHI:	a dormir [% "a mi"] .
+*INV:	vols dormir ?
+*CHI:	si [% "chi"] .
+*INV:	si ?
+*CHI:	pcf [% "ai patic"] .
+*CHI:	si , dormir [% "chi mi"] .
+*CHI:	dormir ?
+@End

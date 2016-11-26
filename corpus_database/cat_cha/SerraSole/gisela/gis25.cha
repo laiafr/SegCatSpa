@@ -1,0 +1,302 @@
+@UTF8
+@PID:	11312/c-00028058-1
+@Begin
+@Languages:	cat
+@Participants:	CHI gisela Target_Child , INV Investigator
+@ID:	cat|Serra|CHI|2;1.23||||Target_Child|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g juga sola amb un trencaclosques , durant quasi be 100 frames no diu res , despres mira contes i e va comentant
+*INV:	que es aixo ?
+*CHI:	0 [= assenyala amb el dit , no contesta] .
+*INV:	es un camio .
+*CHI:	0 [= assenyala] .
+*INV:	es un cotxe de bombers .
+*CHI:	0 [= assenyala el llibre] .
+*INV:	una moto .
+*CHI:	0 [= assenyala] .
+*INV:	cotxe .
+*CHI:	0 .
+%act:	gira full
+*INV:	un tren .
+*CHI:	pcf [% "ei" , gira pagina] .
+*INV:	gisela .
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	es el tren , gisela ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	no has vist el tren gisela ?
+*CHI:	ui !
+*CHI:	mira .
+*INV:	ui !
+*INV:	un nen que puja .
+*INV:	un nen i uns senyors que pugen .
+*INV:	un nen i uns senyors que baixen de l' autobus .
+*CHI:	0 [= va mirant] .
+*INV:	que saps de quin color es l' autobus , gisela ?
+*CHI:	xxx [% entre six i eight sil'labes] .
+*INV:	saps de quin color es l' autobus ?
+*INV:	de color vermell .
+*CHI:	0 .
+%act:	gira pagines
+*INV:	a veure que no ho veig .
+*INV:	que es [= repetit] ?
+*CHI:	aixo que es [% "io que e" , assenyalant] ?
+*INV:	un cotxe que va de pressa i un que va a poc a poc [= repetit] .
+*CHI:	0 [= mira el llibre] .
+*INV:	el que va a poc a poc es diu tractor .
+*CHI:	0 [= mira la imatge i a e] .
+*INV:	i aquests son els senyors que baixen de l' autobus .
+*CHI:	0 .
+%act:	gira full
+*CHI:	tren [= mirant el llibre] .
+*INV:	es un tren .
+*INV:	que has anat amb tren tu , gisela ?
+*CHI:	0 .
+%act:	continua passant pagines
+*INV:	una moto .
+*CHI:	pcf [% "emoia te" , tancant el llibre] .
+*INV:	no has vist cap bicicleta ?
+*INV:	i tens una bicicleta , eh que si ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	no , pero aqui no hi ha cap bicicleta al conte .
+*CHI:	0 .
+%com:	se li obre el conte
+*INV:	ai !
+*INV:	aqui veig una altra cosa .
+*INV:	mira .
+*INV:	aixo no m' ho has ensenyat gisela .
+*INV:	veig una ambulancia .
+*CHI:	0 [= mira el llibre] .
+*INV:	saps que es una ambulancia ?
+*CHI:	0 .
+%act:	deixa el llibre i cerca joguines
+@Comment:	hi ha un tall a la cinta , g torna amb el llibre , g esta a terra amb el conte
+*CHI:	esta conte [% "ta conte" , deixant'lo a terra] .
+*CHI:	0 .
+%act:	n' agafa un altre
+*INV:	aquest altre .
+*INV:	saps qui son aquests ?
+*INV:	un nen i una nena .
+*CHI:	0 [= mira el conte] .
+*INV:	un nen i una nena que son amics .
+*INV:	ui !
+*INV:	una nena que riu .
+*INV:	que fa aquest nen ?
+*INV:	gisela .
+*INV:	que fa aquest nen ?
+*CHI:	0 [= mira el conte] .
+*INV:	te una pala i una galleda a la ma .
+*INV:	eh ?
+*CHI:	una ma [= assenyalant el conte] .
+*INV:	i que te aquesta nena ?
+*INV:	una tovallola ?
+*CHI:	0 [= segueix mirant el conte] .
+*INV:	es una nena , si .
+*INV:	i te una tovallola .
+*CHI:	0 [= mira el conte fins que gira full] .
+@Comment:	hi ha un tall a la cinta , imatge deficient , no hi ha so , segueix la mateixa situacio
+*INV:	gisela .
+*INV:	que fa aquest nen ?
+*INV:	dorm .
+*INV:	i aquest altre ?
+*INV:	es desperta .
+*INV:	eh , que si ?
+*CHI:	0 [= mira el conte i no contesta encara que segueix el conte amb els dits] .
+*CHI:	0 .
+%act:	va passant fulls
+*INV:	si .
+*INV:	aquest es petit , petit .
+*INV:	i aquest altre ?
+*CHI:	0 .
+%act:	tanca el llibre
+*INV:	ja esta ?
+*CHI:	0 .
+%act:	agafa altres contes i se'ls posa al davant , tancats
+*INV:	gisela .
+*INV:	quin t' agrada mes ?
+*CHI:	0 [= mira i assenyala un tercer conte] .
+*INV:	un altre ?
+*CHI:	0 [= diu que si amb el cap] .
+@Comment:	hi ha un tall a la cinta , frame 4388 , canvi de conte , ara te un del teo
+*INV:	un altre ?
+*CHI:	0 [= fa que si] .
+*INV:	si ?
+*CHI:	xxx [= tres sil'labes] .
+*INV:	aixi [= referint'se a la posicio del conte] ?
+*CHI:	0 .
+%act:	te el conte al reves i el posa dret
+*INV:	ah !
+*INV:	molt be !
+*INV:	estava del reves .
+*INV:	molt be !
+*CHI:	0 [= va mirant el conte del teo , passant fulls] .
+*CHI:	bicicleta [% "mireta" , assenyalant el conte] .
+*INV:	oi , quanta bicicleta !
+*INV:	el teo i els seus amics que van d' excursio amb bicicleta .
+*CHI:	0 .
+%act:	gira full
+*INV:	saps qui es el teo ?
+*CHI:	0 [= mira a e i el conte] .
+*INV:	0 [= comenta el conte] .
+*CHI:	0 [= gira pagina i assenyala] .
+*CHI:	pcf [% "nie"] .
+*INV:	esta en un parc aqui .
+*INV:	0 [= va comentant el conte] .
+*CHI:	0 .
+%act:	va passant fulls
+*CHI:	0 [= mira atentament el llibre , uns deu segons] .
+*INV:	que t' agrada ?
+*CHI:	0 [= passa full i assenyala] .
+*INV:	esta fent la maleta .
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	0 [= mira atentament la pagina i gira full] .
+*CHI:	0 [= va passant fulls mirant atentament] .
+*CHI:	0 .
+%act:	ara els passa en sentit invers
+*CHI:	0 .
+%act:	tanca el conte
+*CHI:	ja esta el conte [% "iata el conte"] .
+*INV:	ja esta el conte .
+*INV:	s' ha acabat ?
+*INV:	que t' ha agradat , gisela , aquest ?
+*CHI:	0 [= fa que si] .
+*INV:	si ?
+*CHI:	0 .
+%act:	aparta el conte i mira el conte anterior
+*CHI:	xxx [= vuit sil'labes] .
+*CHI:	xxx [= tres sil'labes] .
+*CHI:	xxx [= una sil'laba] .
+*INV:	quin t' agrada mes ?
+*INV:	el dels cotxes ?
+*CHI:	0 [= torna a mirar el conte del teo] .
+*CHI:	0 .
+%act:	el tanca malament
+*CHI:	ah , no [= fa que no] !
+*INV:	no ?
+*INV:	a veure .
+*CHI:	0 .
+%act:	el desplega i el plega be
+*INV:	molt be !
+*INV:	ara si que el poses be , gisela .
+*CHI:	0 [= torna a mirar el conte d' abans] .
+*CHI:	aquest [% "atet"] ?
+*CHI:	aquest [% "atet"] ?
+*INV:	molt be , gisela .
+*INV:	aquest , aquest .
+*INV:	a veure si te'n recordes d' aquest .
+*INV:	qui es aquest ?
+*INV:	saps com es diu aquest ?
+*INV:	es un nen .
+*INV:	i que porta a la ma , gisela ?
+*INV:	una pala .
+*INV:	i una galleda .
+*CHI:	0 .
+%act:	perd interes , tanca i deixa el llibre
+@Comment:	hi ha un tall a la cinta , frame 4440 , g continua amb el llibre
+*INV:	gisela .
+*CHI:	un altre conte [= empipada] .
+*INV:	no tens contes tu ?
+*CHI:	0 [= mira a e] .
+*INV:	si , no ?
+*CHI:	un altre conte .
+*INV:	ah !
+*INV:	un altre conte .
+*CHI:	si .
+*INV:	no en tinc mes , guapa .
+*INV:	no en tinc mes .
+@Comment:	hi ha un tall a la cinta , frame 4449 , g esta mirant el conte del teo
+*CHI:	xxx [= cinc sil'labes , podria ser que digues "que vull una pilota" pero no esta gens clar] .
+@Comment:	tall a la cinta , frame 4457 , g agafa el tripode d' una camera
+*CHI:	0 .
+%act:	juga amb el tripode
+*CHI:	0 .
+%act:	el posa dret pero no s' aguanta
+*CHI:	cau .
+*INV:	cau ?
+*INV:	a veure si el saps aguantar [% "a viam si el saps aguantar"] .
+*CHI:	0 .
+%act:	ha plegat el tripode
+*CHI:	pcf [% "ine"] .
+*INV:	ara cau .
+*CHI:	0 .
+%act:	intenta obrir el tripode
+*CHI:	oh , no !
+*CHI:	oh , xxx [% la xxx vol dir "cai"] .
+*INV:	que passa ?
+*CHI:	xxx .
+*CHI:	0 .
+%act:	recolza el tripode
+*CHI:	mira [= agafa el comandament] .
+*CHI:	esta aqui [% "ta qui"] .
+*CHI:	0 .
+%act:	gira el comandament
+*CHI:	mira .
+*CHI:	pcf [% "tah" , toca la peanya] .
+*CHI:	0 .
+%act:	aixeca el tripode
+*INV:	te unes potes llargues .
+*INV:	eh , que si ?
+*INV:	te unes potes llargues .
+*CHI:	0 .
+%act:	intenta deixar el tripode sobre un sofa
+*CHI:	pcf [% "uoo"] .
+*CHI:	0 .
+%act:	agafa el tripode per les potes
+*CHI:	oh !
+*CHI:	0 .
+%com:	el tripode queda amb les potes obertes
+*CHI:	pcf [% "obebe" , intenta ficar'ho a la butaca] .
+*INV:	que fas ?
+*CHI:	0 .
+%act:	tanca les potes
+*INV:	a veure si el saps posar be .
+*CHI:	0 .
+%act:	torna a aixecar el tripode
+*CHI:	pcf [% "obabe" , el posa dret] .
+@Comment:	hi ha un tall a la cinta , frame 4559 , g esta dreta amb el tripode
+*INV:	com es posen be les potes , gisela ?
+*CHI:	pcf [% "avinbe"] .
+*INV:	porta'l , porta'l que ho posarem be .
+@Comment:	hi ha un tall a la cinta , frame 4561 , g te un conte i seu , continua jugant amb els peus del tripode
+*CHI:	0 .
+%act:	intenta posar'ho dret
+*CHI:	ui !
+*CHI:	no va be .
+*INV:	oi !
+*INV:	ja no tornen a anar les potes ?
+*CHI:	oi !
+*CHI:	no va be .
+@Comment:	hi ha un tall , frame 4584 , el tripode esta ben posat , g esta a sota del tripode
+*INV:	una caseta ?
+*CHI:	0 .
+%act:	juga amb les potes
+*CHI:	0 .
+%com:	cau el tripode
+*CHI:	oh !
+*CHI:	0 .
+%act:	no aconsegueix posar'ho dret
+*CHI:	0 .
+%act:	pica amb el tripode a terra
+*CHI:	0 .
+%act:	aconsegueix obrir les potes i intenta posar'ho dret
+*CHI:	no be ?
+*CHI:	0 .
+%act:	li cau
+@Comment:	hi ha un tall a la cinta , el tripode esta ben posat
+*CHI:	ah !
+*CHI:	0 .
+%act:	seu a terra i es treu una sabata
+*INV:	que et treus les sabates ?
+*CHI:	0 .
+%act:	camina descalca i seu a una cadira
+*CHI:	0 .
+%act:	seu a sobre un tricicle
+*CHI:	0 .
+%act:	va amunt i avall amb el tricicle
+*CHI:	0 .
+%act:	seguda al tricicle juga amb una caixa registradora
+*CHI:	0 .
+%act:	baixa del tricicle i camina per l' habitacio i torna amb el tripode
+*CHI:	0 .
+%act:	tomba el tripode recolzant'lo en una cadira
+@Comment:	hi ha un tall , g esta a la cadira amb el tripode
+@End

@@ -1,0 +1,255 @@
+@UTF8
+@PID:	11312/c-00001920-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Antoni Target_Child , PAR pare Father , INV Investigator
+@ID:	spa , cat|Serra|CHI|3;0.24||||Target_Child|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	conversa amb el pare , a esta assegut en una butaca al menjador , so defectuos fins frame 5112
+*PAR:	explica'li a la carme lo del cole nou .
+*PAR:	com se diu el cole ?
+*CHI:	cole nou .
+*PAR:	i com se diu ?
+*CHI:	laura [% "laula"] .
+*PAR:	i la senyoreta que tens com se diu ?
+*CHI:	no ho se .
+*CHI:	laura tambe [% "laula"] .
+*PAR:	laura .
+*PAR:	i quants nens coneixes ?
+*CHI:	no se .
+*CHI:	a la nuria .
+*CHI:	nuria serra .
+*PAR:	i a la nuria serra de que la coneixes ?
+*PAR:	eh ?
+*PAR:	de que la coneixes a la nuria serra ?
+*CHI:	perque si .
+*INV:	escolta antoni i a l' autocar que fas ?
+*CHI:	no se que faig .
+*INV:	seus amb l' eugeni i el carles ?
+*CHI:	si .
+*INV:	i que t' expliquen ?
+*CHI:	no ho se .
+*CHI:	mira una xxx [% "mira una caco" , assenyala alguna cosa] .
+*INV:	el que ?
+*INV:	a on ?
+*PAR:	escolta , escolta .
+*CHI:	alla .
+*PAR:	explica una cosa a la carme .
+*PAR:	explica'li aquest estiu on vam anar .
+*CHI:	0 .
+%act:	baixa de la butaca i va amb p
+@Comment:	tall a la cinta
+*CHI:	xxx xxx xxx le xxx [% "xxx xxx xxx le caco"] .
+*PAR:	no home no .
+*CHI:	saps .
+*PAR:	escolta , explica'm .
+*PAR:	aquest estiu hem anat a la platja ?
+*CHI:	si .
+*PAR:	a on ?
+*CHI:	no se .
+*PAR:	si home .
+*PAR:	com se deia aquella ciutat ?
+*CHI:	no se .
+*PAR:	si home .
+*PAR:	no se deia san sebastian ?
+*CHI:	no .
+*PAR:	per que dius mentides ?
+*CHI:	pcf [% "ia ia ia" , juga amb les mans i canturreja] .
+*CHI:	hum [= abraca a p] !
+*PAR:	va que t' estan filmant .
+*CHI:	0 .
+%act:	fa un peto a p
+*PAR:	escolta una cosa .
+*CHI:	<anem , anem> [/?] anem <a , a , a> [/?] a ensenyar els dibujos .
+*PAR:	no n' hi han .
+*PAR:	escolta'm .
+*PAR:	i els comptes que t' explico jo a la nit que ?
+*CHI:	anem a agafar aixo [= agafa una caixa que hi ha sobre la taula] .
+*PAR:	i els comptes que t' explico jo a la nit ?
+*PAR:	explica'li .
+*PAR:	explica'li a la carme algun d' aquest comptes que jo t' explico a
+	la nit .
+*CHI:	vaig a buscar lo dels pallassos [= surt del menjador] .
+*PAR:	ai , no vam anar al circ , home !
+@Comment:	tall , a esta assegut al sofa al costat de p , no es veuen els pallassos en lloc
+*CHI:	la lili foc que a xxx .
+*CHI:	la lili foc .
+*PAR:	qui mes hi havia ?
+*CHI:	no ho se .
+*PAR:	si home .
+*PAR:	hi havien micos .
+*CHI:	i micos .
+*PAR:	i els micos que feien ?
+*CHI:	no se .
+*CHI:	ballaven .
+*PAR:	si que ballaven si .
+*PAR:	escolta .
+*PAR:	i lleons que n' hi havien ?
+*CHI:	si [= allarga la i amb enfasi] .
+*PAR:	i que mes hi havia ?
+*CHI:	l' elefans .
+*PAR:	i qui es va asentar a la falda del papa ?
+*CHI:	no ho se .
+*CHI:	el mico .
+*CHI:	<i , i> [/?] i l' antoni .
+*PAR:	el mico i l' antoni .
+*PAR:	que ereu amics ?
+*CHI:	no .
+*PAR:	com si tinguessis un germanet el mico aquell .
+*CHI:	no .
+*CHI:	vull que me compris un mico petito i que dona platanos .
+*PAR:	i que li donarem ?
+*PAR:	platanos ?
+*CHI:	si .
+*PAR:	explica'li a la carme que al demati quan anem a buscar l' autocar
+	hi ha un mico amb un platano .
+*CHI:	eh , me compraras un mico petito .
+*PAR:	no , no , gran , gran .
+*PAR:	petit no .
+*CHI:	gran eh ?
+*PAR:	molt gran .
+*PAR:	i que dormira amb tu .
+*CHI:	si .
+*PAR:	eh ?
+*CHI:	si .
+*PAR:	i un cocodrilo .
+*CHI:	si .
+*PAR:	que fan els cocodrilos ?
+*PAR:	explica'li a la &+ca +/.
+*CHI:	mengen .
+*PAR:	aquell senyor que feia ?
+*CHI:	metia la boca en el cocodrilo .
+*PAR:	que feia ?
+*PAR:	no ficava la boca .
+*PAR:	ficava el cap .
+*CHI:	ficava el cap a la boca del cocodril .
+*CHI:	i no se feia res .
+*INV:	no es feia mal ?
+*CHI:	no .
+*INV:	no el mossegava ?
+*CHI:	no .
+*PAR:	tu vas ficar el cap tambe ?
+*CHI:	no .
+*PAR:	i llavors aquesta ferida que tens aqui qui te l' ha fet ?
+*CHI:	no se qui l' ha fet .
+*PAR:	vols dir que a la nit no ve un cocodrilo que et mossega ?
+*CHI:	no , no .
+*CHI:	no perque sino [/?] <vin (.) > [/?] sino vindra un caball eh .
+*PAR:	ah , vindra un caball ?
+*CHI:	i el carro .
+*CHI:	i le llevara l' ambulancia .
+*CHI:	mira un gos [= assenyala cap a la finestra] .
+*PAR:	un gos .
+*PAR:	i aquest gos es amic teu ?
+*CHI:	no .
+*PAR:	i al circ qui mes hi havia ?
+*PAR:	i els pallassos ?
+*PAR:	que feien els pallassos ?
+*CHI:	no se .
+*PAR:	si home , si .
+*PAR:	que feien els pallassos ?
+*CHI:	no se .
+*PAR:	que feien els pallassos ?
+*CHI:	no se papa .
+*PAR:	no tocaven la trompeta ?
+*CHI:	si .
+*PAR:	ah , veus com si que ho saps .
+*PAR:	tocaven la trompeta .
+*CHI:	tutututu@c [= toca la trompeta] .
+*PAR:	i l' alvar no tocava la trompeta ?
+*CHI:	no perque no n' hi +...
+*CHI:	no havia cap trompeta .
+*PAR:	i <l' alvar> [/?] a que juga l' alvar ?
+*CHI:	a +...
+*CHI:	mira , arbres de nadal .
+*PAR:	explica'li a la carme que ahir vam parlar de l' arbre de nadal .
+*PAR:	on el posarem ?
+*CHI:	mira'l .
+*CHI:	aqui [= assenyala un raco] .
+*PAR:	qui el comprara ?
+*CHI:	el papa .
+*PAR:	si ?
+*CHI:	si perque un dia que comprara un [/?] un arbre de nadal eh .
+*PAR:	si ?
+*CHI:	mira , aixo es l' arbre de nadal [= assenyala alguna cosa] .
+*CHI:	aixo tan verd .
+*PAR:	aixo ho guardarem per nadal ?
+*CHI:	si .
+*PAR:	i aixo qui ho va fer ?
+*CHI:	jo .
+*PAR:	a on ?
+*CHI:	jo solet .
+*PAR:	tu solet ?
+*CHI:	si .
+*PAR:	i on ho vas fer ?
+*CHI:	<a , a , a> [/?] al cole viejo .
+*PAR:	al cole viejo ho vas fer ?
+*CHI:	si .
+*PAR:	i aquest any a l' arbre no faras res per nadal ?
+*CHI:	no .
+*PAR:	per que ?
+*CHI:	perque no .
+*CHI:	perque ja tinc bastant .
+*PAR:	per que ?
+*CHI:	perque ja tinc bastant .
+*PAR:	dos anys ?
+*CHI:	bastant .
+*CHI:	ja [/?] ja tinc bastant eh .
+*PAR:	ja has apres cancons aquest any per nadal o no ?
+*CHI:	no .
+*PAR:	pues quina canco cantaras ?
+*CHI:	anem xxx i xxx xxx .
+*PAR:	vinga .
+*PAR:	canta'la .
+*CHI:	0 [= canta] .
+*CHI:	i tu tambe la cantes .
+*PAR:	home , jo cantant aixo aqui a la televisio .
+*PAR:	i la lluna .
+*PAR:	canta'li a la carme la canco .
+*CHI:	0 [= canta la lluna la pruna] .
+*CHI:	no .
+*CHI:	el sol solet .
+*PAR:	canta el sol solet .
+*CHI:	0 [= canta] .
+*PAR:	escolta una altra cosa .
+*PAR:	i la mama on es avui ?
+*CHI:	no se .
+*PAR:	si home .
+*PAR:	ja ho saps on ha anat .
+*CHI:	a madrid .
+*PAR:	i que ha anat a fer a madrid ?
+*CHI:	a fer +...
+*CHI:	no ho se .
+*PAR:	que ha anat a fer ?
+*PAR:	que et portara alguna cosa ?
+*PAR:	que et portara ?
+*CHI:	un esnupi .
+*PAR:	un esnupi ?
+@Comment:	so defectuos del frame 5279 al 5283
+*PAR:	fem boxeo ?
+*CHI:	si [= li dona un cop de puny a p] .
+*PAR:	ui !
+*PAR:	fem boxeo ?
+*CHI:	que mal et fa .
+*CHI:	xxx [% "chojos"] .
+*PAR:	que es aixo ?
+*CHI:	xxx [% "chojos"] .
+*PAR:	que es aixo ?
+*PAR:	que es ?
+*CHI:	xxx [% "chojos"] .
+*PAR:	no se que es .
+*CHI:	xxx [% "chojos"] .
+*CHI:	xxx [% "chocos"] .
+*CHI:	xxx [% "chocos"] .
+*PAR:	avui que anirem a dormir aviat o que ?
+*CHI:	hum [= afirmatiu] .
+*PAR:	saps que ahir quan me'n vaig anar a dormir van fer la trinca .
+*CHI:	avui tambe la faran eh .
+*PAR:	no , avui no .
+@Comment:	la cinta perd el so
+*PAR:	i que canta la trinca ?
+*CHI:	papa .
+*CHI:	la meva canco ho canta eh ?
+*PAR:	qui canta la canco ?
+@End

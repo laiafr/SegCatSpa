@@ -1,0 +1,1423 @@
+@UTF8
+@PID:	11312/c-00001932-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Caterina Target_Child , MAR mare Mother , TAN tania Sister , AGA agata Sister , PAR pare Father , INV Investigator
+@ID:	spa , cat|Serra|CHI|2;8.20||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|TAN|||||Sister|||
+@ID:	spa , cat|Serra|AGA|||||Sister|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	estan a l' habitacio , c busca alguna cosa
+*CHI:	vaig a buscar una xxx .
+*CHI:	a veure si esta aqui al calaix .
+*MAR:	escolta caterina , i la teva cartera on es ?
+*MAR:	ensenya'li a la magda on has guardat la cartera .
+*MAR:	on es la teva cartera ?
+*CHI:	no ho se .
+*CHI:	jo vaig a buscar una cosa .
+*CHI:	a veure aqui [= mira sota el llit] .
+*MAR:	que li vols ensenyar a la magda ?
+*CHI:	espera que jo vull veure una cosa
+	[% "apera que jo vull veure una coda"] .
+*CHI:	a veure aqui que hi ha que m' agradi
+	[% "a veure qui que hi ha qui agrada"] .
+*CHI:	ah deixa'm passar , deixa'm
+	[= no ho diu a ningu , s' ho fa tot sola] !
+*CHI:	oh , aixo m' agrada !
+*CHI:	aixo es una altra cosa [% "aixo es un altra coda"] .
+*CHI:	aixo va aqui [= deixa la joguina sobre el llit] .
+*CHI:	ai , aquesta bici no m' agrada perque es de color vermell !
+*CHI:	oh , sempre no es pot treure !
+*CHI:	no es pot treure [= esta dins l' armari] .
+*CHI:	0 .
+%act:	aparta la bici
+*CHI:	no ho puc treure aixo .
+*CHI:	t' esperes que t' ensenyare una cosa d' aquella xxx ?
+*INV:	si .
+*CHI:	oh !
+*CHI:	espera que no puc posar la bici .
+*CHI:	aqui [= posa la bici dins l' armari] .
+*CHI:	aixi no .
+*CHI:	va aixi [= dona la volta a una caseta de fusta] .
+*CHI:	que si no no puc .
+*CHI:	ai la taula !
+*CHI:	la taula .
+*CHI:	ha caigut la taula .
+*CHI:	oh , s' ha trencat !
+*CHI:	mira .
+*CHI:	per aqui .
+*CHI:	s' ha trencat el &+tele +...
+*CHI:	el telefono no .
+*CHI:	el telefono va aqui perque [/?] per a que truqui el meu papa .
+*CHI:	una comideta@c a la &+tau +...
+*CHI:	a les taules tambe es pel menjar .
+*INV:	clar .
+*CHI:	una comida .
+*CHI:	i a dinar !
+*CHI:	anem a dinar .
+*TAN:	ensenya'm la caseta .
+*CHI:	no , no anem a dinar .
+*TAN:	qui va a dinar ?
+*CHI:	la [/?] pues el bebe .
+*TAN:	el bebe ?
+*CHI:	si perque +/.
+*TAN:	a dinar o a sopar ?
+*CHI:	a sopar .
+*TAN:	ah !
+*TAN:	i tu que no vas a sopar ?
+*CHI:	no perque jo sopare despres .
+*CHI:	t' esperes que vaig a agafar el bebe ?
+*TAN:	mira quin bebe mes pintat .
+*CHI:	es lleig perque esta pintat .
+*TAN:	qui l' ha pintat ?
+*CHI:	jo .
+*TAN:	tu ?
+*TAN:	vas fer un picasso aqui ?
+*CHI:	si .
+*TAN:	que li dones avui al bebe per a sopar ?
+*CHI:	pos [/?] pues un cuco@c [% "pos un cuco@c"] .
+*TAN:	un cuco@c ?
+*CHI:	un cuco@c de llet .
+*TAN:	un cuco@c de llet ?
+*TAN:	no existeixen els cucos@c de llet .
+*TAN:	existeixen els cucos@c de ous .
+*CHI:	pero mira <jo no se> [/?] jo no se fer ous .
+*TAN:	bueno .
+*CHI:	jo se fer <un un cu@c> [/?] un cuco@c de llet .
+*CHI:	vaig a agafar [= juga a perparar el sopar] .
+*INV:	que es un cuco@c caterina ?
+*CHI:	mira , mira .
+*TAN:	que es un cuco@c caterina ?
+*CHI:	mira que faig magda [% "mira que faig manda"] .
+*CHI:	shiii@c pum@c [= prepara el sopar] .
+*TAN:	la magda t' ha preguntat que es un cuco@c .
+*INV:	jo no se que es un cuco@c .
+*INV:	que es ?
+*CHI:	<&+u> [/?] una cosa [% "una coda"] .
+*TAN:	es un ou .
+*CHI:	un ou pero jo no ho +/.
+*TAN:	es un ou passat per aigua .
+*INV:	ah !
+*CHI:	ja esta .
+*CHI:	aqui la taula .
+*CHI:	anem a dinar bebe .
+*CHI:	ai que me caig !
+*CHI:	oh !
+*TAN:	seu aqui a la cadira [% "senta't aqui"] .
+*CHI:	pero mira una cadira gran .
+*TAN:	0 .
+%act:	col'loca la cadireta al costat de la tauleta
+*TAN:	va , posa'te'l aqui que vol sopar .
+*TAN:	mira qui s' esta bebent la llet .
+*CHI:	no .
+*CHI:	el bebe tambe vol sopar .
+*TAN:	pero el bebe no hi cap en aquesta taula tan petita .
+*CHI:	pero mira aixi .
+@Comment:	enraonen t i e
+*CHI:	xxx [= diu alguna cosa pero no s' enten] .
+*CHI:	posa't a dinar [= juga amb el nino] .
+*CHI:	no que tu ja ets gran .
+*CHI:	tu ja ets gran per a tenir un babero petit
+	[% "tu ja ets gran per tindre un babero petit"] .
+*CHI:	perque quan eres petit tenies un babero petit .
+*CHI:	ai !
+*CHI:	espera que et vull posar el babero .
+*CHI:	no li cap aquest babero [% "no li bap aquest babero"] .
+*CHI:	no li cap .
+*CHI:	esta un altre xxx .
+*CHI:	no .
+*CHI:	va aixi .
+*CHI:	i la &+tau +...
+*CHI:	es aixo la cadira .
+*CHI:	es aixo tania .
+*TAN:	posa't aqui caterina .
+*CHI:	eh ?
+*TAN:	posa't aqui que si no no hi veu la magda .
+*TAN:	aixi et pot veure .
+*CHI:	perque si no +...
+*TAN:	perque si no et veu no pot gravar'te .
+*CHI:	espera , espera que ara posare +/.
+*TAN:	ui el bebe !
+*TAN:	que se li ha descordat el vestit .
+*MAR:	li estas explicant moltes coses a la magda ?
+*CHI:	no .
+*CHI:	<jo jo> [/?] jo faig un castell .
+*CHI:	oh !
+*CHI:	aquest taula te una xxx [% "aquesta taula te una dabadabada"] .
+*MAR:	que dius que te aquesta taula ?
+*CHI:	una cosa de forats .
+*MAR:	aixo son les potes .
+*CHI:	per que ?
+*MAR:	ja li has explicat a la magda que vas pintar el bebe per que
+	estigues guapo ?
+*CHI:	no .
+*CHI:	mira .
+*MAR:	que tenia els ulls tancats i els hi vas pintar oberts .
+*CHI:	mira esta lleig .
+*MAR:	ara esta lleig .
+*MAR:	pero tu vas fer'ho per a que estigues guapo , veritat ?
+*CHI:	esta lleig .
+*MAR:	pero tu te l' estimes , veritat , encara que estigui lleig ?
+*CHI:	pero mira aixi no cap [= juga amb els estris de la caseta] .
+*MAR:	no ?
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	aixi .
+*MAR:	va aixi ?
+*CHI:	si , va aixi .
+*CHI:	vist ?
+*MAR:	perque el culete es molt gros .
+*CHI:	eh ?
+*MAR:	perque el culete es molt gros i te que ser pel canto gros .
+*CHI:	aixi no va perque si no +...
+*CHI:	aixo es <el el el> [/?] el llit .
+*MAR:	aixo es el llit ?
+*CHI:	aqui .
+*CHI:	espera .
+*CHI:	que el llit es posa +...
+*CHI:	a veure on es posa .
+*MAR:	on es posa ?
+*CHI:	aqui .
+*TAN:	no .
+*TAN:	el llit va aqui .
+*TAN:	al cuarto de dormir .
+*CHI:	no .
+*CHI:	aixo es una casa .
+*CHI:	aixo es una casa .
+*TAN:	i el sillon esta aqui a la sala d' estar .
+*CHI:	eh ?
+*TAN:	que es aixo ?
+*CHI:	molt [/?] molt lleig .
+*TAN:	aixo no es lleig .
+*CHI:	que es ?
+*TAN:	una regadora .
+*TAN:	0 .
+%com:	explica a c per a que serveix una regadora
+*CHI:	pero mira .
+*CHI:	aquesta cassadora es per a +/.
+*TAN:	cassadora no .
+*TAN:	regadora .
+*CHI:	aquesta regadora es per posar llet .
+*CHI:	shhh@c [= representa que posa llet] .
+*CHI:	ja esta la llet .
+*CHI:	la llet es posa aqui i beu .
+*CHI:	a veure .
+*CHI:	va aixi perque com el culete es tan gran (.) te que posar'se al
+	puesto gran .
+*TAN:	ui que cau !
+*TAN:	corre agafa un drap que la llet taca el sillon .
+*TAN:	corre agafa un drap .
+*CHI:	espera .
+*CHI:	on esta el drap ?
+*CHI:	a [/?] a xxx de la cuina .
+*CHI:	espera que vaig a buscar un drap .
+*CHI:	una cuina .
+*CHI:	m' aguantes la cadira ?
+*TAN:	si .
+*CHI:	vaig a buscar un drap perque com el pot i +/.
+*TAN:	no , pero a la cuina no !
+*CHI:	que ?
+*TAN:	no fa falta que sigui un drap de veritat .
+*TAN:	mira , espera que te'n busco jo un .
+*TAN:	mira , te aixo .
+*TAN:	veus ?
+*CHI:	si .
+*TAN:	ves a eixugar el sillon .
+*CHI:	perque com s' embruta de llet .
+*CHI:	aquest es tan gran [= es refereix al drap] .
+*CHI:	es tan gran aquest .
+*CHI:	ja esta .
+*CHI:	ara [/?] ara vaig a guardar el drap .
+*CHI:	a la cuina .
+*CHI:	esta a la cuina el drap magda [% "manda"] .
+*INV:	si .
+*CHI:	perque com +...
+*CHI:	mira ja no esta mullada .
+*INV:	no , ara ja no perque l' has aixugat tu .
+*CHI:	si .
+*CHI:	pero mira (.) el cap tambe se li ha mullat .
+*CHI:	pero es igual .
+*CHI:	vaig a agafar mes [/?] el drap perque vaig a eixugar el cap .
+*CHI:	ja esta .
+*CHI:	ja esta aixugat el nen .
+*CHI:	no , que te que beure , te +...
+*CHI:	jo [/?] jo no vull donar llet perque te que menjar truita .
+*CHI:	es un xxx xxx .
+*CHI:	aixo es la &+trui +...
+*CHI:	no , aixi no .
+*CHI:	aixi [= esta jugant a donar menjar al nino] .
+*CHI:	on va el llit [% "a don va el llit"] ?
+*INV:	on va el lli ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	en el cuarto de dormir de la casa .
+*INV:	quin es el cuarto de dormir de la casa ?
+*CHI:	aqui .
+*INV:	doncs alla .
+*CHI:	no , espera , espera que jo el &+bus +...
+*CHI:	aixo son les escales [% "aixo son les cales"] .
+*CHI:	<per anar> [/?] per anar a missa .
+*CHI:	aixo son +...
+*CHI:	aixo d' aqui .
+*CHI:	vist ?
+*INV:	les escales per anar a on ?
+*CHI:	a missa .
+*INV:	a missa ?
+*CHI:	si .
+*CHI:	es allo de mes a lluny .
+*CHI:	se'n van cap aqui .
+*INV:	i on esta la missa ?
+*CHI:	aqui [= assenyala una part de la caseta] .
+*INV:	a veure .
+*INV:	on ?
+*CHI:	mira , mira .
+*CHI:	es aqui .
+*CHI:	veus aqui ?
+*INV:	ah !
+*CHI:	es a missa .
+*CHI:	<pero a> [/?] pero no la veus perque +/.
+*INV:	que hi ha una esglesia en aquesta casa ?
+*CHI:	eh ?
+*INV:	hi ha una esglesia ?
+*CHI:	si .
+*INV:	si ?
+*CHI:	aixo ha de quedar aixi perque [/?] perque si no
+	[= pica sobre el sostre de la caseta] +...
+*CHI:	mira .
+*INV:	i qui hi va a missa ?
+*INV:	qui va ?
+*CHI:	mira , mira .
+*CHI:	aquest .
+*INV:	aquest ?
+*CHI:	si .
+*CHI:	aquest .
+*INV:	i que fa ?
+*CHI:	pero mira .
+*CHI:	el bebe (.) es [/?] es el papa <i &+a de> [/?] de la caterina que es
+	aquesta .
+*INV:	la caterina es aquesta petita ?
+*CHI:	si .
+*INV:	i aquest gran es el papa .
+*INV:	i van a missa ?
+*INV:	i que fan alla ?
+*CHI:	pero mira .
+*INV:	eh ?
+*CHI:	jo busco el papa .
+*INV:	que fan a la missa caterina ?
+*CHI:	no , espera , espera que vaig a buscar l' agata .
+*CHI:	la germana de xxx que esta alla a la xxx .
+*CHI:	a veure si la busco .
+*CHI:	no esta .
+*CHI:	a veure per aqui si esta .
+*CHI:	i que al cistell xxx xxx xxx
+	[= esta de cul a la camera i no ho entenc] .
+*CHI:	oh no esta !
+*CHI:	sempre la busco .
+*CHI:	no esta .
+*CHI:	0 .
+%act:	torna a la caseta
+*CHI:	no , que us teniu que pentinar .
+*CHI:	busques un peine per pentinar <&+aix> [/?] al nen ?
+*INV:	que el busqui jo ?
+*CHI:	que ?
+*INV:	a on ?
+*INV:	a on esta ?
+*CHI:	en el cuarto .
+*CHI:	0 .
+%act:	se'n va
+*CHI:	agata , tens una pinta per pentinar al bebe ?
+*MAR:	al cuarto de bany segur que n' hi ha .
+*CHI:	mira m' he fet pupa aqui [= ensenya el dit a e] .
+*INV:	t' has fet pupa ?
+*INV:	on ?
+*CHI:	si .
+*CHI:	en el parque .
+*AGA:	vols una pinta o no vols una pinta ?
+*CHI:	si , vull una pinta .
+*AGA:	te .
+*AGA:	mira , aquesta que es molt petitona .
+*CHI:	quina ?
+*AGA:	ensenya'li aquesta a la magda que es molt petitona .
+*CHI:	mira .
+*CHI:	pero si aquesta es molt gran .
+*AGA:	ah es molt gran !
+@Comment:	tornen a l' habitacio
+*CHI:	vaig a pentinar aquest nen .
+*CHI:	ja esta .
+*CHI:	ara se'n va excursio .
+*CHI:	a baix [= juga amb la caseta] .
+*CHI:	ai aqui no hi es !
+*CHI:	aixo es un escala .
+*CHI:	es aqui missa .
+*CHI:	vaig a ballar .
+*CHI:	esta ballant [= mentre mou el nino tarareja] .
+*CHI:	mira , mira .
+*CHI:	fa aixi [= ha canviat de nino , el fa ballar mentre ella tarareja]
+	.
+*CHI:	mira , mira , xxx .
+*TAN:	0 .
+%act:	encen un llum
+*CHI:	aquesta no .
+%add:	TAN
+*CHI:	vull un altre .
+*CHI:	vull &+u +...
+*TAN:	que fas tu mirant la llum ?
+*CHI:	aquesta no .
+*CHI:	aquesta +/.
+*TAN:	si que si no la magda no hi veu .
+*CHI:	per que ?
+*TAN:	perque la camera de gravar de la magda necessita molta llum i aixi
+	et podrem veure en el video .
+*CHI:	pero mira .
+*CHI:	jo vull d' aqui [= tanca el llum] .
+*TAN:	ah !
+*TAN:	que vols ?
+*TAN:	aqui [= canvia la lampara de lloc] ?
+*CHI:	si perque si no +...
+*TAN:	aqui no es veu res .
+*TAN:	va juga .
+*TAN:	on tens el telefon per a trucar a la iaia ?
+*CHI:	0 .
+%act:	ensenya alguna cosa
+*TAN:	no , aquest es molt petit .
+*TAN:	un altre telefon .
+*TAN:	un que es de color taronja .
+*CHI:	pero [/?] pero si no el tinc .
+*CHI:	no tinc .
+*CHI:	mira es aquest .
+*TAN:	si ?
+*TAN:	pues truca a la iaia .
+*CHI:	espera [% "apera" , treu d' un cistell un telefon de plastic] .
+*CHI:	no que ara no esta .
+*TAN:	no esta la iaia ?
+*CHI:	no .
+*CHI:	oh [= intenta desembolicar el cable del telefon] !
+*CHI:	oh !
+*CHI:	tania m' ajudes ?
+*CHI:	esta tot xxx .
+*CHI:	oh que xuxoru@c mira
+	[% xuxoru@c suposo que simbolitza alguna cosa que no esta a to] !
+*TAN:	oi !
+*CHI:	esta xuxoru@c .
+*CHI:	oh mira !
+*CHI:	quants telefons [= te dos telefons enredats pel cable] .
+*CHI:	mira .
+*CHI:	m' ho arregles [% "mu regles"] ?
+*CHI:	m' ho arregles [% "mu regles"] ?
+*TAN:	quin embolic !
+*TAN:	uno [= li dona un dels telefons] .
+*CHI:	l' altre no el vull .
+*TAN:	no ?
+*TAN:	pues jo si .
+*TAN:	a veure .
+*TAN:	a qui truques tu ?
+*CHI:	a la iaia .
+*TAN:	seu aqui [% "senta't aqui"] .
+*CHI:	no , alla .
+*TAN:	no , perque aqui tens la llum i aqui tens els juguets i no tens que
+	anar d' un canto a l' altre .
+*CHI:	pero ara jo vaig a buscar la casa .
+*CHI:	aguantes el meu telefon que vaig a buscar la casa ?
+*CHI:	es que fa aixi la casa .
+*CHI:	aixi no .
+*CHI:	alla [= agafa la caseta i la canvia de lloc] .
+*CHI:	aqui no hi ha +...
+*CHI:	aqui que hi ha el llum .
+*TAN:	mira , seu aqui [% "senta't aqui"] .
+*CHI:	espera que vaig a buscar la tauleta .
+*CHI:	que &+ti +...
+*CHI:	esta a la xxx de la casa .
+*TAN:	0 .
+%act:	mou la caseta
+*CHI:	no .
+*CHI:	aixi [= mou la caseta] .
+*TAN:	vine .
+*CHI:	no , no .
+*TAN:	seu aqui [% "senta't aqui"] .
+*CHI:	espera que vaig a buscar el nen .
+*TAN:	caram noia quantes coses tens que anar a buscar !
+*CHI:	la pinta per pentinar'se .
+*TAN:	vale !
+*CHI:	tinc moltes coses .
+*TAN:	seu aqui [% "senta aqui"] .
+*CHI:	que ?
+*TAN:	seu aqui [% "senta aqui"] .
+*CHI:	si .
+*CHI:	no , espera que vaig +...
+*CHI:	que te moltes coses .
+*CHI:	xxx el bebe i el babero .
+*CHI:	oh aqui [= deixa el nino al costat de la caseta] !
+*CHI:	hi ha moltes coses .
+*TAN:	va , ara seu [% "va , ara senta't"] .
+*CHI:	que fem ?
+*TAN:	es veu millor si esta aqui amb la llum ?
+%add:	INV
+*CHI:	perque se +...
+*CHI:	oh no hi ha la llum aqui !
+*TAN:	va juga .
+*CHI:	ai no se !
+*CHI:	a veure .
+*TAN:	ai que tenies que trucar a la iaia !
+*TAN:	que no me'n recordava .
+*CHI:	espera .
+*CHI:	aqui [= agafa el telefon que li dona t i el posa a terra] .
+*TAN:	i al iaio ?
+*CHI:	iaia [= parla per telefon] .
+*CHI:	espera que tenim que [/?] que fer un piii@c .
+*TAN:	piiip@c .
+*CHI:	iaia .
+*TAN:	iaio .
+*CHI:	iaia com estas ?
+*TAN:	iaio com estas ?
+*CHI:	be ?
+*TAN:	be ?
+*CHI:	alex com estas ?
+*CHI:	be ?
+*TAN:	alex com estas ?
+*TAN:	jo estic be .
+*CHI:	alex com estas ?
+*CHI:	be ?
+*TAN:	qui es l' alex ?
+*CHI:	aquell .
+*TAN:	es el teu cosi l' alex ?
+*CHI:	0 [= fa que si amb el cap] .
+*TAN:	si ?
+*CHI:	alex com estas ?
+*CHI:	pere com estas ?
+*CHI:	jose luis com estas ?
+*TAN:	quanta gent !
+*TAN:	caterina com estas ?
+*CHI:	no esta .
+*CHI:	estic aqui .
+*TAN:	no .
+*TAN:	estas a casa dels iaios .
+*CHI:	hi ha una [/?] una caterina a casa els iaios .
+*TAN:	hi ha una caterina a casa els iaios ?
+*CHI:	jo aqui [= es pica al pit] .
+*CHI:	aquesta caterina esta aqui .
+*CHI:	<ara ara &+po> [/?] ara on posem el telefono ?
+*TAN:	on el posem ?
+*CHI:	<amb una &+mi> [/?] amb una +/.
+*TAN:	guarda'l aqui dintre .
+*TAN:	no passegis tant .
+*CHI:	no perque aqui [= vol deixar'lo sobre la caseta] +...
+*CHI:	ai aqui no !
+*TAN:	no .
+*TAN:	alla dintre .
+*TAN:	guarda'm el meu alla .
+*CHI:	jo aqui .
+*TAN:	el poses aqui en un raco ?
+*CHI:	si , aqui en un raco .
+*CHI:	aquest .
+*CHI:	ara anem a jugar .
+*TAN:	vale !
+*CHI:	has trucat a quenet i a l' &+al +...
+*CHI:	oh !
+*TAN:	que passa ?
+*CHI:	no , no .
+*CHI:	ai aixo s' ha sortit !
+*TAN:	mira .
+*TAN:	rum@c rum@c un cotxe [= mou el cotxe pel sostre de la caseta] .
+*CHI:	no .
+*CHI:	que vull posar el bebe .
+*TAN:	s' aparca aqui el cotxe [= l' ha deixat en el sostre] ?
+*CHI:	no .
+*TAN:	que es aixo ?
+*CHI:	una casa .
+*TAN:	si .
+*TAN:	pero aixo vermell que es ?
+*TAN:	aixo que es [= assenyala el sostre de la caseta] .
+*CHI:	les taules .
+*TAN:	taules no .
+*TAN:	teulada .
+*CHI:	teulada .
+*TAN:	i el cotxe on s' aparca ?
+*CHI:	pues aqui [% "pos aqui" , assenyala la teulada] .
+*TAN:	no .
+*TAN:	els cotxes no s' aparquen a les teulades .
+*CHI:	<pos a pos pos> [/?] pues no se [% "pos no se"] .
+*TAN:	al garatge .
+*TAN:	els cotxes s' aparquen al garatge .
+*TAN:	o al carrer .
+*CHI:	al carrer .
+*TAN:	que te un garatge aquest cotxe ?
+*TAN:	si !
+*TAN:	ui no cabe !
+*TAN:	aqui si que cabe .
+*TAN:	ja esta aparcat el cotxe .
+*CHI:	no <que que> [/?] que no se'n va amb el bebe .
+*TAN:	no hi cap aqui el bebe .
+*CHI:	mira , si s' asseu aixi si que cap [% "mira si s' asenta aixi"] .
+*CHI:	has vist com cap ?
+*CHI:	xxx va xxx [% "on va paiaia"] .
+*CHI:	vist com cap ?
+*TAN:	si .
+*CHI:	pero mira .
+*CHI:	aixo no ho puc posar .
+*CHI:	xxx no puc .
+*CHI:	adeu me'n vaig alla amb el bebe .
+*CHI:	oh no cap [= intenta posar'lo en un mini cotxe] !
+*TAN:	no .
+*TAN:	si ja t' ho deia .
+*CHI:	te que haver'hi un altre cotxe .
+*CHI:	vaig a veure +...
+*CHI:	vaig a buscar un altre cotxe a veure si +...
+*CHI:	ai amb el camion !
+*CHI:	bravo !
+*CHI:	al camion hi cap .
+*CHI:	a veure .
+*TAN:	no .
+*TAN:	al camion tampoc hi cap .
+*CHI:	si , mira .
+*CHI:	oh no cap !
+*CHI:	espera [% "apera"] .
+*TAN:	si tambe t' ho deia .
+*CHI:	a veure aixi .
+*CHI:	ai espera &+aix +...
+*CHI:	com es posa ?
+*TAN:	no hi cap .
+*CHI:	si , mira .
+*CHI:	mira .
+*TAN:	l' unic que hi cap es aquest [= agafa un nino petit] .
+*CHI:	no !
+*CHI:	perque jo vull aquest aqui .
+*TAN:	vols el bebe ?
+*CHI:	si perque tambe se'n va para alla .
+*TAN:	mira , aqui si que hi cap una miqueta [= agafa un cotxe mes gran] .
+*TAN:	veus , aquest cotxe es gran i el bebe es gran .
+*CHI:	pero mira .
+*TAN:	que passa ?
+*CHI:	esta trencat .
+*TAN:	no , aquest cotxe es aixi .
+*TAN:	vine , vine .
+*CHI:	no .
+*TAN:	seu al bebe aqui sobre [% "senta al bebe aqui sobre"] .
+*TAN:	ho veus ?
+*TAN:	tu aguantes al bebe i jo condueixo el cotxe ?
+*TAN:	brrr@c [= mou el cotxe] .
+*CHI:	aixi no .
+*CHI:	cap alla .
+*TAN:	cap a la magda ?
+*CHI:	no !
+*TAN:	ai que l' atropellarem !
+*CHI:	no !
+*CHI:	cap alla .
+*TAN:	no .
+*CHI:	si , que anem a la tenda .
+*TAN:	a la tenda ?
+*CHI:	si .
+*CHI:	es alla .
+*TAN:	que vols comprar a la tenda ?
+*CHI:	<pos pos pos> [/?] pues no se [% "pos no se"] .
+*TAN:	pernil .
+*CHI:	i [/?] i xocolata .
+*TAN:	i que mes ?
+*CHI:	i [/?] i llet .
+*TAN:	i que mes ?
+*CHI:	i hamburgueses .
+*TAN:	que mes ?
+*CHI:	<i i> [/?] i +...
+*TAN:	formatge [= li diu a cau d' orella] .
+*CHI:	i formatge .
+*TAN:	0 [= murmura alguna cosa] .
+*CHI:	eh ?
+*TAN:	quesitos [= en veu baixa] .
+*CHI:	i quesitos .
+*TAN:	tambe vols quesitos ?
+*CHI:	0 [= fa que si amb el cap] .
+*TAN:	pues va , ves amb el bebe a comprar .
+*TAN:	brrr@c [= mou el cotxe] .
+*CHI:	estem +/.
+*TAN:	brrr@c .
+*CHI:	es xxx cap alla [% "es xxx pa alla"] .
+*TAN:	brrr@c .
+*CHI:	cap alla [% "pa alla"] .
+*TAN:	ay que se choca !
+*CHI:	ai que no puc !
+*CHI:	espera , espera , espera [% "apera , apera , apera"] .
+*CHI:	espera que ya veras como se [% "apera que ya veras como se"] +...
+*CHI:	<jo jo jo> [/?] jo ajudo posar <les les les> [/?] cames be al bebe
+	.
+*CHI:	xxx .
+*CHI:	ja esta .
+*CHI:	ja esta [= seu al bebe sobre el cotxe] .
+*CHI:	brrr@c .
+*CHI:	adeu , me'n vaig a comprar .
+*TAN:	vas a comprar ?
+*CHI:	si , amb el bebe .
+*TAN:	ei cap a fora no !
+*TAN:	aqui , mira que esta la tenda aqui .
+*CHI:	no .
+*CHI:	esta mes lluny [% "esta mes alluny"] .
+*CHI:	mes lluny [% "mes alluny"] .
+*CHI:	espera , espera [% "apera , apera"] .
+*CHI:	que poso be al bebe .
+*TAN:	ui el bebe vol dormir ?
+*CHI:	que ?
+*CHI:	si que vol dormir .
+*CHI:	no , no vol dormir !
+*TAN:	ah !
+*TAN:	si condueix no pot dormir .
+*TAN:	brrr@c [= mou el cotxe] .
+*CHI:	aixi no !
+*CHI:	cap alla .
+*TAN:	ai que atropellaras a la magda !
+*CHI:	te poses mes cap alla ?
+*CHI:	ai aixi no [= ha caigut el bebe] !
+*CHI:	xxx xxx .
+*CHI:	esta xxx .
+*CHI:	que passa ?
+*CHI:	que passa aqui [= mira al bebe] ?
+*CHI:	aquest cotxe es molt gran i no cap .
+*CHI:	perque mira .
+*CHI:	oh [= posa el cotxe cap per avall] !
+*CHI:	que xxx .
+*TAN:	ai que es trencara !
+*CHI:	oh sempre no puc [= te el cotxe a la ma] !
+*CHI:	xxx [% "toxoxoxopoxo"] .
+*CHI:	se'n va .
+*CHI:	el bebe se'n va .
+*CHI:	se'n va .
+*CHI:	te poses mes cap aqui .
+%add:	INV
+*CHI:	que si no +...
+*CHI:	ai ai [= ha tornat a caure el bebe del cotxe] !
+*MAR:	pero que feu ?
+*CHI:	estem jugant .
+*CHI:	dic que la magda se posi mes cap alla [% "manda"] .
+*CHI:	ai aixi no [= posa be el bebe] !
+*CHI:	es posa aixi .
+*TAN:	vine cap aqui .
+*TAN:	mira la caseta .
+*TAN:	vine cap aqui i pentina al bebe .
+*CHI:	espera , espera [% "apera apera"] .
+*TAN:	aparca el cotxe que ja has anat a comprar el pernil .
+*TAN:	aparca'l alla .
+*CHI:	encara <no no> [/?] no vaig a comprar pernil .
+*TAN:	no ?
+*CHI:	0 [= fa que no amb el cap] .
+*TAN:	jo pensava que si .
+*CHI:	0 .
+%act:	esta pentinant al bebe
+*TAN:	pentina al bebe .
+*CHI:	que ?
+*TAN:	te , posem'hi una mica de colonia .
+*TAN:	shhh@c [= fa veure que posa colonia al cap del bebe] .
+*CHI:	mes colonia .
+*TAN:	mes ?
+*CHI:	una miqueta .
+*TAN:	shhh@c .
+*CHI:	hi ha una mica .
+*TAN:	tu tambe vols colonia ?
+*CHI:	no , que jo no +...
+*TAN:	shhh@c [= fa veure que posa colonia al cap de c] .
+*CHI:	si jo no me vaig a pentinar .
+*CHI:	jo no me'n vaig .
+*TAN:	tu te'n vas a pentinar ?
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	si , jo me'n vaig amb el bebe .
+*TAN:	pues te tens que pentinar tu tambe .
+*CHI:	espera que no cap la pinta
+	[% "apera que no cap la pinta" , deixa la pinta dins la caseta] .
+*TAN:	no la fiquis tan endintre caterina [= li dona la pinta] .
+*TAN:	va , pentina't que si no no estaras guapa .
+*TAN:	i la gent no et voldra vendre el pernil .
+*CHI:	0 .
+%act:	es pentina
+*CHI:	me vaig a pentinar .
+*CHI:	oh [= s' ha donat un cop amb la pinta] !
+*CHI:	ja esta .
+*TAN:	ja esta ?
+*CHI:	mira , cap aqui [= posa la pinta dins la caseta] .
+*CHI:	vaig +/.
+*TAN:	desaparca el cotxe .
+*CHI:	eh ?
+*TAN:	que treguis el cotxe i ten vagis cap a (.) comprar el pernil .
+*CHI:	<i i> [/?] i carn .
+*CHI:	perque jo no comprat carn .
+*CHI:	xxx .
+*CHI:	ai no cap [= seuen ella i el bebe en el cotxe] !
+*CHI:	ai sempre se me xoxa@c [= cauen del cotxe] !
+*TAN:	pobre bebe !
+*CHI:	que ?
+*TAN:	pobre bebe !
+*CHI:	<va va> [/?] va be ara [= es tornen a seure en el cotxe] .
+*CHI:	que no &+pe +...
+*CHI:	que no l' he pentinat be [= va a buscar la pinta] .
+*TAN:	corre ves a pentinar'lo be .
+*CHI:	espera <que vull> [/?] que vull aparcar [% "apera que vull parcar"]
+	.
+*CHI:	encara no pentinat el bebe .
+*TAN:	corre ves a aparcar .
+*CHI:	no puc pentinar al &+be +...
+*CHI:	m' ajudes a xxx ?
+*TAN:	si .
+*CHI:	espera que vull posar colonia [% "apera"] .
+*CHI:	shhh@c [= posa colonia] .
+*CHI:	shhh@c [= mes colonia] .
+*CHI:	hi ha una mica .
+*CHI:	0 .
+%act:	pentina al bebe
+*CHI:	el bebe el deixo aqui .
+*TAN:	va , que despres jugare amb tu amb aixo
+	[= remena en el lloc de les joguines] .
+*TAN:	i em tindras que dir els numeros .
+*CHI:	o que +/.
+*TAN:	si es que els trobo .
+*CHI:	perque despres +...
+*TAN:	despres jo els treure i tu tindras que colocar'los .
+*TAN:	vale ?
+*CHI:	perque despres (.) s' anira el bebe a dormir .
+*TAN:	ja ha sopat el bebe ?
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	va , va bebe .
+*CHI:	<anem a> [/?] et vaig a posar al cotxe .
+*CHI:	vaig a treure el &+co +...
+*CHI:	ara <et &+po> [/?] et posare aqui .
+*CHI:	<&+es> [/?] espera magda que no puc posar be el bebe
+	[% "apera manda"] .
+*TAN:	manda no .
+*TAN:	magda .
+*CHI:	ai que cau !
+*CHI:	magda cau el bebe [% "manda"] .
+*CHI:	ai [= posa el bebe sobre el cotxe i el fa corre] !
+*CHI:	no te xxx amb la magda [% "manda"] .
+*CHI:	oh toma [= ha xocat amb la paret] !
+*CHI:	que xxx amb un cop .
+*CHI:	es aqui la xxx .
+*CHI:	oh el bebe se'n va !
+*CHI:	la tenda .
+*CHI:	oh aqui !
+*CHI:	aqui no [= pica sobre el cotxe] .
+*CHI:	a on va [% "adon va"] ?
+*INV:	que ?
+*CHI:	a on va [% "adon va"] ?
+*INV:	t' has fet mal ?
+*CHI:	no .
+*INV:	no anaveu a la tenda a comprar ?
+*CHI:	eh ?
+*INV:	heu arribat a la tenda ja ?
+*CHI:	si .
+*CHI:	ja hem arribat pero ja hem comprat .
+*INV:	ja heu comprat ?
+*CHI:	si .
+*CHI:	ara me'n vaig cap a +...
+*TAN:	i que heu comprat caterina ?
+*CHI:	pernil , formatge .
+*INV:	no t' he vist comprar .
+*INV:	si acabes d' arribar a la tenda .
+*INV:	ja has comprat tot ?
+*CHI:	si .
+*INV:	no t' oblides res ?
+*CHI:	jo [/?] jo pagat .
+*INV:	ja has pagat i tot ?
+*CHI:	pagat .
+*CHI:	ai [= seu sobre el cotxe] !
+*TAN:	t' has descuidat els dineritos per poder pagar .
+*CHI:	no .
+*TAN:	si .
+*TAN:	mira'ls estan aqui .
+*TAN:	mira els dineritos per poder pagar .
+*CHI:	on es [= allarga la ma per a que t li dongui els cales] ?
+*TAN:	espera que treure aquesta pilota si no no puc .
+*TAN:	te .
+*TAN:	otro .
+*TAN:	dos .
+*TAN:	i aquest ?
+*CHI:	tambe aquest .
+*TAN:	tres .
+*TAN:	i aquest quant fant ?
+*CHI:	dos .
+*TAN:	no .
+*TAN:	quatre .
+*CHI:	quatre .
+*TAN:	i aquest ?
+*CHI:	catorze .
+*TAN:	cinc .
+*CHI:	cinc .
+*TAN:	i aquest ?
+*CHI:	el catorze .
+*TAN:	sis .
+*TAN:	i aquest ?
+*CHI:	el catorze .
+*TAN:	set .
+*TAN:	ja esta .
+*TAN:	mira , aqui n' hi ha mes .
+*TAN:	i aquest ?
+*CHI:	<el &+ca> [/?] el sis .
+*TAN:	vuit .
+*TAN:	i aquest ?
+*CHI:	el catorze .
+*TAN:	el nou .
+*CHI:	vaig a comprar eh !
+*TAN:	podras comprar moltes coses eh ?
+*CHI:	si .
+*CHI:	podre comprar moltes coses .
+*CHI:	ja esta .
+*CHI:	anem a pagar ?
+*CHI:	va , anem a pagar [= agafa el nino] .
+*CHI:	es alla .
+*CHI:	aqui .
+*CHI:	es aqui lo de pagar .
+*CHI:	ai !
+*CHI:	que busco el dinerito .
+*CHI:	sis [= compta els cales] .
+*CHI:	ara agafara la xxx aquella .
+*CHI:	catorze .
+*CHI:	cinc .
+*CHI:	ja esta .
+*CHI:	jo tinc +...
+*CHI:	<&+a ara> [/?] ara agafara .
+*CHI:	et donara una bossa .
+*CHI:	mira xxx [= com si busques una bossa] .
+*CHI:	aqui .
+*CHI:	aqui aixo no ho es .
+*CHI:	i el bebe ?
+*CHI:	ara portare &+aix [= agafa el cotxe] +...
+*CHI:	me deixes [= demana pas a e] ?
+*TAN:	va , vine a comprar .
+*CHI:	espera [% "apera"] .
+*CHI:	<ja &+est ja> [/?] ja he comprat <pero no no> [/?] pero mira no m'
+	han donat bossa .
+*CHI:	despres agafarem aquests dineritos .
+*TAN:	ara guarda'te'ls .
+*TAN:	que si no no tindras per comprar el sopar .
+*TAN:	aquests guarda'te'ls a la butxaca .
+*CHI:	eh ?
+*TAN:	guarda'te'ls a la butxaca .
+*CHI:	no .
+*CHI:	mira no caben .
+*CHI:	no caben .
+*TAN:	vine dona'me'ls .
+*TAN:	a veure si jo puc fer que capiguin .
+*TAN:	si que caben [= li posa els diners a la butxaca] .
+*TAN:	ara agafa el bebe i el cotxe i vine cap aqui que jugarem amb el
+	rellotge .
+*TAN:	vale ?
+*TAN:	juguem amb el rellotge ?
+*CHI:	no .
+*CHI:	que se'n va a dormir .
+*TAN:	bueno , el bebe se'n va a dormir pero tu i jo podem jugar amb el
+	rellotge .
+*TAN:	jo te dic un numero i tu me'l dones .
+*TAN:	vale ?
+*TAN:	va corre .
+*TAN:	agafa el cotxe i el bebe .
+*CHI:	no .
+*CHI:	espera , espera que me'n vaig amb un cotxe [% "apera apera"] .
+*CHI:	0 .
+%act:	seu sobre el cotxe
+*TAN:	brrr@c .
+*TAN:	tu tambe seus a sobre ?
+*CHI:	si .
+*TAN:	pobre cotxe !
+*TAN:	va corre .
+*CHI:	no que aixo es menjar .
+*CHI:	jo no m' assento al cotxe .
+*CHI:	jo no m' assento al cotxe .
+*CHI:	ai que no puc [= posa el bebe sobre el cotxe] !
+*TAN:	aparca alla el cotxe .
+*TAN:	aparca alla .
+*CHI:	no .
+*CHI:	ja aparcat [% "ja parcat"] .
+*TAN:	oh quin choque !
+*TAN:	vine .
+*TAN:	i ara posa al bebe a dormir .
+*CHI:	que ?
+*TAN:	aqui .
+*TAN:	posa'l en aquest llitet a dormir .
+*CHI:	no que +...
+*TAN:	aqui sobre .
+*TAN:	aixi .
+*TAN:	ho veus ?
+*CHI:	i el nen ?
+*TAN:	el posem aqui a dormir .
+*TAN:	vine a jugar amb el rellotge .
+*CHI:	el nen dorm en aquesta [= agafa un altre nino] .
+*TAN:	en aquest llit .
+*TAN:	vale .
+*CHI:	a on es posa [% "adon se posa"] ?
+*TAN:	posa'l a la seva caseta .
+*CHI:	no , <que es> [/] que es aqui .
+*TAN:	posa'l aqui .
+*CHI:	espera no [% "apera no"] .
+*CHI:	jo [/] jo +...
+*CHI:	aixo aqui [= esta reorganitzant la caseta] .
+*CHI:	i el nen va aqui [= deixa el nino dins la caseta] .
+*CHI:	ja esta a dormir .
+*TAN:	vale .
+*TAN:	ara vine a jugar .
+*TAN:	caterina dona'm el numero dos .
+*TAN:	saps quin es el numero dos ?
+*CHI:	no .
+*TAN:	me'l saps donar o no ?
+*CHI:	es aquest ?
+*TAN:	si .
+*TAN:	me'l dones ?
+*CHI:	0 .
+%act:	li dona una peca d' un rellotge amb el numero dos
+*TAN:	gracies .
+*TAN:	i ara el numero tres .
+*CHI:	aquest ?
+*TAN:	no .
+*TAN:	aquest quin numero es ?
+*CHI:	no se .
+*TAN:	es el cinc .
+*CHI:	i aquest ?
+*TAN:	el tres va despres del dos .
+*TAN:	i es aquest [= li assenyala la peca correcta] .
+*CHI:	aquest ?
+*TAN:	dona'me'l .
+*CHI:	quin ?
+*TAN:	el tres .
+*CHI:	aquest ?
+*TAN:	no .
+*TAN:	quin es el tres ?
+*TAN:	que t' ho he dit .
+*CHI:	aquest .
+*TAN:	molt be .
+*TAN:	dona'me'l .
+*CHI:	pero si no esta .
+*TAN:	no pots donar'me'l perque no es treu .
+*TAN:	i ara el cinc .
+*CHI:	aquest ?
+*TAN:	no , aquest es l' u .
+*CHI:	cinc .
+*TAN:	el cinc .
+*CHI:	aquest ?
+*TAN:	es de color vermell .
+*CHI:	aquest .
+*TAN:	no , aquest es l' onze .
+*TAN:	un altre .
+*CHI:	aquest .
+*TAN:	aquest es el cinc .
+*TAN:	ara el deu que es un triangle de color verd .
+*CHI:	aquest ?
+*TAN:	si .
+*TAN:	molt be .
+*TAN:	ara l' u que es una estrella de color blau .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	molt be .
+*TAN:	ara el dotze .
+*CHI:	aquest ?
+*TAN:	el dotze que es blanc .
+*CHI:	aquest ?
+*TAN:	no .
+*TAN:	el dotze que es blanc .
+*CHI:	no se .
+*TAN:	0 [= li assenyala la peca] .
+*TAN:	ara l' onze que es rodo i vermell .
+*CHI:	te .
+*TAN:	i ara el set .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	ara tu .
+*TAN:	col'loca'l on era .
+*CHI:	0 .
+%com:	va col'locant les peces que li dona t
+*PAR:	hola !
+*CHI:	0 [= fa hola amb la ma] .
+*PAR:	hola !
+*PAR:	deixa de mirar a la camera .
+*PAR:	mira al papa .
+*CHI:	que ?
+*PAR:	que no miris a la camera presumida .
+*MAR:	qui hi ha ?
+*MAR:	qui ha vingut ?
+*CHI:	la magda [% "la manda"] .
+*PAR:	i jo que ?
+*CHI:	i ella +...
+*CHI:	oh [= mira una peca del rellotge] !
+*CHI:	oh aixo es un forat !
+*PAR:	es un forat per posar el peu .
+*CHI:	<&+est> [/?] l' estrella .
+*CHI:	aqui va l' &+estre +...
+*CHI:	oh !
+*CHI:	tinc que treure aixo .
+*CHI:	aixi [= col'loca la peca] .
+*TAN:	vale .
+*TAN:	i ara [/?] ara em dones el set que es un quadrat de color blau .
+*CHI:	quin ?
+*TAN:	el numero set es un quadrat de color blau .
+*CHI:	quin ?
+*CHI:	aquest ?
+*PAR:	aixo es un quadrat ?
+*TAN:	no .
+*TAN:	aixo no es un quadrat .
+*TAN:	i no es de color blau .
+*TAN:	busca un color blau .
+*TAN:	quin es el color blau ?
+*TAN:	aixo que es ?
+*CHI:	no se .
+*TAN:	es el numero set i es un quadrat .
+*TAN:	veus ?
+*TAN:	aixo no es una estrella .
+*TAN:	veus que te quatre costats ?
+*TAN:	es un quadrat .
+*TAN:	me dones el numero onze .
+*CHI:	quin ?
+*TAN:	el numero onze que es de color vermell i rodo .
+*CHI:	aquest ?
+*TAN:	si .
+*TAN:	molt be .
+*CHI:	te .
+*TAN:	gracies .
+*TAN:	ara el numero dos que es de color rosa i es rectangle .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	molt be .
+*TAN:	ara el numero nou que es rodo i es blanc .
+*CHI:	quin ?
+*TAN:	el numero nou .
+*CHI:	aquest ?
+*TAN:	quin ?
+*CHI:	aquest ?
+*TAN:	si .
+*TAN:	aquest es el numero nou .
+*CHI:	0 .
+%act:	li dona una peca que no es l'assenyalada
+*TAN:	no .
+*TAN:	tu m' has dit aquest .
+*CHI:	quin ?
+*TAN:	m' has dit aquest .
+*TAN:	aquest es el numero nou i no es pot treure .
+*TAN:	i ara (.) el numero cinc que es vermell i es un rombo .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	i ara el numero u que es una estrella .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	i ara el numero tres que es rodo .
+*CHI:	quin ?
+*TAN:	el numero tres es rodo .
+*CHI:	aquest ?
+*TAN:	aquest es rodo ?
+*CHI:	0 [= fa que si amb el cap] .
+*TAN:	no .
+*TAN:	aquest no es rodo .
+*CHI:	aquest ?
+*TAN:	aqui no n' hi ha cap .
+*CHI:	quin ?
+*TAN:	aquest es rodo
+	[= assenyala el lloc on ha d' anar la peca rodona que no hi es] .
+*TAN:	ara el numero deu que es triangular i es de color verd .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	ara +/.
+*CHI:	aixo no es pot treure aquest .
+*TAN:	no , no es treuen .
+*TAN:	per aixo t' ho dic .
+*TAN:	per enganyar'te .
+*TAN:	i ara col'loca aquest .
+*CHI:	per que me'l dones a mi ara ?
+*TAN:	perque aixi es divertit .
+*TAN:	i aixi aprens els colors i les formes .
+*CHI:	0 .
+%act:	va col'locant les peces
+*CHI:	espera , espera [% "apera , apera"] .
+*CHI:	em deixes anar a buscar una cosa
+	[% "me dixes anar a buscar una cosa"] ?
+*TAN:	tanca la porta que no se sentin tants crits .
+*CHI:	no puc [= intenta tancar la porta] .
+*TAN:	aixi ja esta be .
+*CHI:	aixi ?
+*TAN:	si .
+*CHI:	per que ?
+*TAN:	i ara ves a buscar la cosa .
+*CHI:	tenia que anar a buscar dos coses .
+*TAN:	dos ?
+*TAN:	tu has dit una .
+*CHI:	pero mira .
+*TAN:	ah claro !
+*CHI:	aixo son dos coses [= la imatge es mou i no es veu res] .
+*TAN:	si .
+*CHI:	vaig a buscar una cosa .
+*TAN:	no et posis d' esquena .
+*CHI:	oh no hi ha mes !
+*CHI:	me'n vaig a comprar pernil .
+*TAN:	i els numeros que ?
+*TAN:	no vols seguir jugant amb mi ?
+*CHI:	pero mira , primer aparco la bici aqui amb el cotxe .
+*CHI:	perque jo me'n vaig a +...
+*CHI:	amb el cotxe un altre nen .
+*TAN:	i els numeros ?
+*CHI:	que ?
+*TAN:	no vols jugar mes amb els numeros ?
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	pero el cotxe esta amb un nen .
+*TAN:	vine .
+*TAN:	posa't aqui .
+*CHI:	0 .
+%act:	seu al costat de t
+*TAN:	quin es el numero dos ?
+*CHI:	quin ?
+*CHI:	aquest ?
+*TAN:	es rosa .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	molt be .
+*TAN:	i el numero u es una estrella .
+*CHI:	0 .
+%act:	li dona la peca
+*TAN:	i +/.
+*CHI:	aquest ?
+*TAN:	aquest quin numero es ?
+*CHI:	no se .
+*TAN:	quin color es ?
+*CHI:	vermell .
+*TAN:	i quina forma te ?
+*CHI:	no se .
+*TAN:	que es un quadrat , una rodona ?
+*CHI:	una rodo +/.
+*TAN:	una estrella ?
+*TAN:	que es ?
+*TAN:	que es aquest ?
+*CHI:	no se .
+*TAN:	es vermell .
+*TAN:	i que es ?
+*TAN:	una estrella , un triangle , un quadrat , una rodona , un rombo ?
+*TAN:	que es ?
+*CHI:	<&+u> [/?] una rodona .
+*TAN:	molt be .
+*TAN:	es el numero onze .
+*TAN:	agafa'l .
+*TAN:	ara quin ?
+*CHI:	aquest ?
+*TAN:	aquest quin color es ?
+*CHI:	es el verd .
+*TAN:	el ?
+*CHI:	el verd .
+*TAN:	i quina forma te ?
+*TAN:	que es ?
+*TAN:	una rodona , un triangle , un rombo ?
+*CHI:	un [/?] un triangle .
+*TAN:	molt be .
+*TAN:	ara quin ?
+*CHI:	aquest .
+*TAN:	quin color es ?
+*CHI:	no se .
+*CHI:	el blau .
+*TAN:	el blau .
+*TAN:	i que es ?
+*TAN:	un quadrat , un rombo , un triangle ?
+*CHI:	un rombo .
+*TAN:	no .
+*CHI:	es un cuadro .
+*TAN:	un quadrat .
+*TAN:	i ara aquest .
+*CHI:	aquest ?
+*CHI:	pues te [= li dona la peca] .
+*TAN:	quin color es ?
+*CHI:	el vermell .
+*TAN:	i que es ?
+*TAN:	un rombo , un quadrat , un triangle ?
+*CHI:	un rombo .
+*TAN:	molt be .
+*CHI:	ara me'l vas donar a mi [= allarga la ma] .
+*TAN:	i ara aquest .
+*TAN:	quin color es ?
+*CHI:	<el verd> [>] .
+*TAN:	espera [<] , tu els col'loques i em dius el color .
+*CHI:	el verd .
+*TAN:	i quina forma te ?
+*CHI:	no se .
+*TAN:	que es ?
+*TAN:	un triangle , un rombo ?
+*CHI:	hum [= pensa] !
+*CHI:	no se veure .
+*TAN:	que es ?
+*CHI:	no se .
+*TAN:	pot ser una rodona , un triangle .
+*CHI:	es +...
+*CHI:	no se .
+*TAN:	un triangle .
+*CHI:	un triangle ?
+*TAN:	si .
+*CHI:	per que ?
+*TAN:	mira , perque si .
+*TAN:	i aquest quin color es ?
+*CHI:	el blau .
+*TAN:	i que es ?
+*TAN:	un quadrat , un triangle ?
+*CHI:	un quadrat .
+*TAN:	molt be .
+*TAN:	on va col'locat ?
+*CHI:	aqui .
+*TAN:	i aquest quin color es ?
+*CHI:	el blanc .
+*TAN:	i quina forma te ?
+*CHI:	no se .
+*TAN:	que es ?
+*CHI:	no se .
+*CHI:	una rodona .
+*TAN:	ah !
+*TAN:	veus com si que saps .
+*CHI:	aqui [= col'loca la peca] .
+*TAN:	i aquest quin color es ?
+*CHI:	el rosa [% "el lola"] .
+*TAN:	i quina forma te ?
+*CHI:	no se .
+*TAN:	que es ?
+*TAN:	un rectangle , una rodona ?
+*TAN:	que es ?
+*CHI:	no ho se .
+*TAN:	que es ?
+*CHI:	no se .
+*CHI:	pues no ho se [% "pos no ho se"] .
+*TAN:	un rectangle [= li diu a cau d' orella] .
+*TAN:	que es ?
+*CHI:	un rectangle [% "un rentangle"] .
+*TAN:	un rectangle .
+*TAN:	i aquest de quin color es ?
+*CHI:	el vermell .
+*TAN:	i quina forma te ?
+*CHI:	de que ?
+*TAN:	que es ?
+*TAN:	un quadrat , un rombo ?
+*CHI:	un rombo .
+*TAN:	te , fica'ho be .
+*CHI:	aqui el rombo [= posa la peca] .
+*TAN:	ja esta .
+*CHI:	per que ?
+*TAN:	ja no en queden mes .
+*CHI:	i aqui ?
+*TAN:	aqui no n' hi ha .
+*CHI:	i aqui ?
+*TAN:	quin color es aquest ?
+*CHI:	el verd .
+*TAN:	quin ?
+*CHI:	el blau .
+*TAN:	ah !
+*TAN:	quina forma te ?
+*CHI:	no se .
+*TAN:	que es ?
+*CHI:	no se .
+*TAN:	que es ?
+*CHI:	una estrella .
+*TAN:	ah !
+*TAN:	col'loca'la .
+*CHI:	0 .
+%act:	la col'loca
+*CHI:	oh !
+*CHI:	no mes ?
+*TAN:	juguem mes ?
+*CHI:	si .
+*TAN:	si ?
+*TAN:	ara +/.
+*CHI:	espera , espera que busco mes peces [% "apera , apera"] .
+*TAN:	no en queden .
+*TAN:	ja les he buscat jo .
+*TAN:	aquest quin numero es ?
+*CHI:	tutututu@c [= es fica la peca a la boca com si fos una trompeta] .
+*TAN:	no .
+*TAN:	aixo no serveix per ficar's' ho a la boca .
+*CHI:	tutututu@c .
+*TAN:	caterina .
+*CHI:	que ?
+*TAN:	no t' ho posis a la boca .
+*TAN:	quin numero es aquest ?
+*CHI:	espera que me'n vaig a comprar [% "apera"] .
+*CHI:	amb el cotxe no .
+*CHI:	es d' un altre nen .
+*CHI:	el cotxe aqui [= el posa sobre el llit] .
+*CHI:	que s' aixugui .
+*TAN:	pero si no esta mullat .
+*CHI:	pero si esta una mica mullat .
+*TAN:	que no .
+*CHI:	si .
+*CHI:	que si .
+*CHI:	que si que esta mullat .
+*TAN:	que no .
+*CHI:	que si .
+*CHI:	d' aqui tambe esta mullat .
+*CHI:	per que treus aixo ?
+*TAN:	perque estic buscant una cosa que em sembla que s' ha perdut .
+*CHI:	que t' atropellare amb la bici [% "que t' apellare amb la bici"] .
+%add:	INV
+*CHI:	me'n vaig a comprar .
+*CHI:	ai el bebe !
+*CHI:	<que no vull> [/?] que no l' he pentinat .
+*CHI:	vaig a +/.
+*TAN:	qui es aquest caterina ?
+*CHI:	no se .
+*TAN:	qui es [= li ensenya un nino] ?
+*CHI:	el pepito ?
+*TAN:	es el pepito .
+*CHI:	<me poses> [/?] me pentines ?
+*TAN:	jo ?
+*CHI:	si .
+*CHI:	que jo me'n tinc que anar .
+*TAN:	mira que montarem una caseta .
+*CHI:	quina casa ?
+*CHI:	quina casa ?
+*TAN:	una .
+*TAN:	espera caterina .
+*CHI:	vaig posant les xxx .
+*TAN:	no .
+*TAN:	espera .
+*TAN:	primer treiem totes les peces .
+*CHI:	pero primer jo vaig agafant les peces .
+*CHI:	0 .
+%act:	va montant la caseta
+*CHI:	a dormir [= juga amb uns ninos] .
+*CHI:	aquesta a dormir .
+*CHI:	que te' n vas a dormir pare ?
+*CHI:	se'n va a dormir .
+*TAN:	se'n va a dormir ?
+*CHI:	aquesta tambe se'n va a dormir .
+*CHI:	se'n va a +...
+*CHI:	xxx es xxx .
+*CHI:	tambe xxx tu .
+*CHI:	ja m' he despertat eh !
+*CHI:	ara aquest aqui eh !
+*CHI:	a dormir aqui .
+*CHI:	poso aquest aqui eh !
+*TAN:	espera que montem una caseta gran .
+*TAN:	aixi podran dormir i menjar .
+*TAN:	vale ?
+*CHI:	jo no .
+*TAN:	tu no vols montar una caseta gran ?
+*CHI:	es aixo una casa gran [= ensenya una peca de la casa] .
+@Comment:	monten la casa
+*TAN:	espera , espera , espera .
+*CHI:	no .
+*TAN:	un moment .
+*CHI:	jo vull aixo .
+*TAN:	ara veuras com ho farem .
+*TAN:	un momentet .
+*CHI:	que poses ?
+*TAN:	mira aixi [= va montant la casa] .
+*TAN:	i ara [= busca alguna peca] +...
+*CHI:	potser aixo [= posa un nino sobre la casa] .
+*TAN:	no .
+*CHI:	potser +...
+*TAN:	ara .
+*CHI:	mira un petit [= li dona una peca] .
+*CHI:	un petit .
+*TAN:	ai aquest !
+*INV:	caterina .
+*CHI:	que ?
+*INV:	em dius adeu ?
+*INV:	que me'n vaig a sopar i a dormir .
+*CHI:	per que ?
+*INV:	perque tinc molta gana .
+*TAN:	i tu tambe te'n tens que anar a sopar i a dormir caterina .
+*CHI:	si pero se'n va despres .
+*INV:	quan soparas tu ?
+*CHI:	eh ?
+*INV:	quan soparas ?
+*CHI:	despres .
+*INV:	d' aqui molta estona o ara ?
+*CHI:	que ?
+*INV:	ara ?
+*CHI:	no .
+*INV:	d' aqui una estona llarga ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	no tens gana ?
+*CHI:	no .
+*CHI:	mira .
+*CHI:	aqui d' una estona .
+*TAN:	soparas d' aqui una estona ?
+*CHI:	si .
+@End

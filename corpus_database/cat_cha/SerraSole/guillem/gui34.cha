@@ -1,0 +1,223 @@
+@UTF8
+@PID:	11312/c-00028092-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , MAR mare Mother , PAR pare Father , ROS rosa Nurse , QUI quim Brother , INV Investigator
+@ID:	cat|Serra|CHI|2;10.03||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	hi ha un tall , m , q i g estan davant un balco , m se'n va i q surt al balco
+*CHI:	eh , tot [% mirant a q] !
+*QUI:	xxx , hola senyor [% la xxx vol dir "kelo"] .
+*QUI:	pcf [% s' enten "plof" , pica a g suaument] .
+*CHI:	pcf [% s' enten "olala"] .
+*QUI:	pcf [% s' enten "pof" , pica g suaument] .
+*CHI:	oh !
+*QUI:	pcf [% s' enten "pof" , pica g suaument] .
+*CHI:	pcf [% s' enten "ala"] .
+*CHI:	pcf [% s' enten "oo"] .
+*QUI:	pcf [% s' enten "pof" , pica g suaument] .
+*CHI:	oh !
+*QUI:	he ganado .
+@Comment:	g tanca el balco diverses vegades i es renyat per o
+*MAR:	quim , quim , a esmorzar .
+*CHI:	pcf [% s' enten "pua"] .
+*QUI:	a dalt .
+*MAR:	doncs va a dalt , anem a dalt .
+@Comment:	hi ha un tall , q i g estan al parc , seguts
+*INV:	que tens hora , guillem ?
+*INV:	quina hora es ?
+*QUI:	les quatre i set [% mira el rellotge que g te a la polsera] .
+*QUI:	xxx .
+*CHI:	xxx aquest [% la xxx es "ke" , assenyala el rellotge] .
+*CHI:	aquest era teu i ara aquest <era meu> [>] .
+*QUI:	<no , no , no> [<] et cauran les dents , et cauran les dents !
+@Comment:	g pessiga q , q pessiga g , hi ha un tall , g esta dret , davant els gronxadors
+*CHI:	xxx xxx aqui [% "xxx don aqui" , assenyala cap els gronxadors amb el brac] .
+*INV:	pero ara hi ha uns nens , ens hem d' esperar .
+@Comment:	se senten veus dels nens que estan als gronxadors
+*INV:	que mires guillem ?
+*CHI:	&e nens .
+*INV:	i que fan els nens ?
+*CHI:	tontos [% "tontu"] .
+*INV:	son tontos ?
+*CHI:	0 [= fa si amb el cap] .
+*INV:	per que son tontos ?
+*INV:	que dius guillem ?
+*CHI:	pcf [% s' enten "araza uara"] .
+@Comment:	g esternuda , hi ha un tall , q s' esta gronxant i g esta esperant que algu dels dos nens que s' gronxen el deixi pujar
+*CHI:	engronxador , engronxador .
+*INV:	pero si es d' aquest nen .
+*INV:	digues'li al nen si et deixa .
+*INV:	xxx no et posis al davant que et pot fer mal , eh .
+@Comment:	g s' acosta als gronxadors
+*CHI:	&ne , nene !
+*CHI:	vull [/?] vull aquest [% assenyala cap els gronxadors] !
+*CHI:	i tonto !
+*CHI:	collons [% "tudony"] !
+*CHI:	pcf [% s' enten "euon"] .
+*INV:	el quim et deixara una estoneta , eh , quim ?
+*QUI:	no .
+*ROS:	home , es clar que li deixaras .
+*CHI:	collons [% "cuiony"] !
+*CHI:	ara [% se'n va cap als gronxadors] ?
+*CHI:	xxx quim , au [% "a quim au"] ?
+*CHI:	o 0me'l deixes o 0et 0donare un cop que [% "o deixa o arae un cop quel"] +/.
+*QUI:	ja te'l donare jo .
+*CHI:	tonto .
+*QUI:	et pegare quan marxi .
+*INV:	el quim et deixara pujar d' aqui una estoneta .
+*QUI:	no .
+*INV:	perque si , com que no , ja veuras !
+*INV:	li demanes en aquest nen si et deixa pujar ?
+*INV:	li has de demanar be , eh .
+*CHI:	pcf [% s' enten "mi"] ?
+*INV:	li has de demanar be a aquest nen .
+@Comment:	g se'n va cap al davant dels gronxadors
+*INV:	xxx vine , vine aqui .
+*INV:	digues , nen .
+*CHI:	nen !
+*INV:	en deixaras una estoneta ?
+*INV:	si , diu que si .
+*INV:	xxx es maco aquest nen , es maco , et deixara pujar una estoneta .
+*CHI:	no 0em deixa aquest nen [% "no deixa aquest nen" , assenyala cap als gronxadors] .
+*INV:	ah , ja t' ha deixat .
+*ROS:	ja estas , una estoneta li deixes ?
+@Comment:	g va cap al gronxador que ara esta lliure , sembla que q li dona un cop amb el gronxador i cau , g plora , hi ha un tall , p i g estan seguts davant una taula i estan esmorzant , p esta llegint
+*MAR:	guillem , que ja estas ?
+*MAR:	guillem .
+@Comment:	p esta sucant una galeta a un got de xocolata
+*CHI:	per que suca [% "peque suca"] ?
+*MAR:	que estas de la xocolata ?
+*PAR:	xxx .
+*CHI:	per que suca xxx galeta [>] [% "perque suca xa galeta"] ?
+*PAR:	<(suco)> [<] suco les galetes per menjar'me'les .
+*CHI:	jo [/?] jo tambe mastego .
+*PAR:	i tant que mastegues .
+*QUI:	tothom mastega .
+*QUI:	els animals tambe masteguen .
+@Comment:	m tambe contesta q , hi ha una estona que parlen m , i q , despres xerren r i q , g acaba de menjar el iogurt que estava menjant
+*CHI:	ja estic !
+*MAR:	molt be , dona'm' ho , dona'm' ho .
+*MAR:	posa la cullera dins el iogurt .
+*MAR:	a veure aquest morros [% neteja els llavis de g] .
+*CHI:	vull mes .
+*MAR:	no xxx mes , noi , n' has menjat una !
+*MAR:	ja esta .
+*CHI:	vull mes xocolata [% "vull mes xurulata"] .
+*MAR:	no n' hi ha mes , s' ha acabat .
+*CHI:	a veure [% "a vere"] .
+%com:	g baixa de la cadira
+*CHI:	a veure , me'n vaig a mirar .
+%com:	g se'n va cap a la nevera
+*CHI:	pcf [% s' enten "iobe xxx"] .
+%com:	g obre la nevera
+*CHI:	si [% estira el brac cap al iogurt] .
+*MAR:	i que hem de fer doncs ?
+*CHI:	vull mes .
+*MAR:	dona'm , espera't , un moment [% agafa un iogurt] .
+*CHI:	veus , si n' hi ha mes [% "veu , si n' hi ha mes"] .
+*MAR:	si , espera't , que ho posem a escalfar una miqueta .
+@Comment:	g puja a la cadira una altra vegada
+*CHI:	si n' hi ha mes !
+*CHI:	si n' hi ha mes !
+*CHI:	veus [% "veu"] ?
+*QUI:	en falta una , a la nevera en falta una .
+*MAR:	si , ara nomes en queda una , ja veuras , hi haura drama per aquesta una .
+*CHI:	pcf [% s' enten "eikeiaunapuma"] .
+*MAR:	ja no en comprarem mes , eh , avui .
+*MAR:	s' ha acabat el xocolata .
+*CHI:	xxx suca xxx pare [% "ike suca pa pare"] .
+*PAR:	et xxx be ?
+*CHI:	si .
+@Comment:	p posa be la cadira on g esta segut
+*CHI:	<&e> [/?] encara puc menjar'ho [% "a akara puc menjar'ho"] ?
+*MAR:	si , ara t' ho dono .
+*CHI:	no hi ha xxx [% la xxx es "uronu"] !
+*MAR:	tu bueno .
+*CHI:	pcf [% s' enten "ia"] !
+*MAR:	perdona .
+*QUI:	ja ho dona , ja , xxx .
+*MAR:	te .
+*CHI:	ah [% agafa el iogurt] .
+*CHI:	pcf [% s' enten "elme" , soste el iogurt amb les mans] .
+*MAR:	va !
+@Comment:	g passa a agafar el iogurt amb una ma
+*MAR:	no , ho has d' agafar aixi [% diu "aixins" en comptes d' aixi] .
+*MAR:	no crema , agafa'ho be .
+*MAR:	vinga , i amb aquesta cullera .
+*MAR:	va amb la ma , ai .
+*CHI:	ai [% sembla que es vulgui netejar el xandall que porta] .
+@Comment:	m neteja el xandall de g
+*MAR:	guillem , va .
+*MAR:	va !
+*MAR:	que t' estas embrutant , home !
+*MAR:	no siguis +...
+*MAR:	mira , escolta , que et dic [% s' emporta el iogurt] ?
+*CHI:	si .
+*MAR:	doncs no facis tonteries .
+@Comment:	m torna a donar el iogurt a g , m i q discuteixen per una xocolata mes
+*CHI:	&o n' hi ha mes xocolata .
+*CHI:	&o n' hi ha mes xocolata .
+*CHI:	0 [= xiuxiueja algun so] .
+*CHI:	&o n' hi ha mes xocolata [% diu "o n' hi ha mes xo la"] .
+*PAR:	i ara vosaltres que feu , dineu , esmorzeu , beveu , que feu ?
+*MAR:	no , res , no fan res .
+*QUI:	ja estic !
+*MAR:	aixo no es res .
+*MAR:	aixo , mira , es perque anar tranquils i que l' hora de dinar .
+*CHI:	pcf [% s' enten "io aratic"] .
+*CHI:	<pcf [% "io notic"]> [>] .
+*PAR:	xxx [<] .
+*CHI:	pcf [% s' enten "io no tic"] .
+*CHI:	pcf [% s' enten "aiaiaiaiaia"] .
+*QUI:	a veure que et falta .
+*QUI:	ale , quant !
+@Comment:	m i p xerren , hi ha un tall , xerren , m , p i q
+*CHI:	pica [% es grata el cabell del cap] .
+@Comment:	hi ha un tall
+*CHI:	aixo que es [% toca una botifarra que hi ha sobre la taula , amb un tros de pa , que esta menjant m] ?
+*MAR:	botifarra .
+*CHI:	aixo &e pa [% te la ma a la vora del pa amb botifarra] .
+*MAR:	si .
+@Comment:	hi ha un tall , p esta xerrant i es dirigeix a e , g esta dreta sobre la cadira i la mou
+*MAR:	cuidado !
+@Comment:	g continua movent la cadira
+*CHI:	pcf [% s' enten "eee"] .
+*MAR:	um , en vols o no [% li ofereix el iogurt de xocolata] ?
+*CHI:	si .
+@Comment:	hi ha un tall , p esta xerrant amb o
+*CHI:	&e llenca [% "e llensa" , assenyala cap a una porta que dona fora la casa] .
+@Comment:	hi ha un tall , g te la mery a les mans i se'n va cap a fora del menjador , nota de na reyes: no se pas que es aixo de la mery pero ho posa a la transcripcio
+*INV:	que fas , que fas , guillem ?
+*CHI:	pcf [% s' enten "aioka titoio"] .
+*QUI:	en aquest water , vale , cago ?
+*ROS:	si , si , cagues .
+*CHI:	mare , va .
+@Comment:	hi ha un tall , q esta al bany , fent caca , i g esta amb la mery
+*INV:	el quim que fa ?
+*INV:	<&fa> [/?] fer caca .
+*INV:	i el guillem que fa ?
+*INV:	que fas , guillem ?
+@Comment:	g es posa a fregar
+*CHI:	pcf [% s' enten "amuia po"] .
+*CHI:	pcf [% s' enten "atia ba"] .
+@Comment:	se'n va el so
+*CHI:	te [% dona la mery a e] .
+*INV:	ai , que em dones a mi , el pal ?
+@Comment:	g se'n va de l' habitacio
+*CHI:	tinc caca !
+@Comment:	hi ha talls , g esta obrint una porta
+*CHI:	pare !
+*QUI:	pcf [% s' enten "eee"] .
+@Comment:	se sent p
+*CHI:	on es 0el pare ?
+*PAR:	va , anem al jeep .
+*CHI:	va , anem .
+*QUI:	a buscar el jeep .
+*PAR:	xxx anem al jeep , anem [/?] anem a la fira , anem a donar una volta ?
+*CHI:	si .
+@End

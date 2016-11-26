@@ -1,0 +1,652 @@
+@UTF8
+@PID:	11312/c-00032017-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Emilio Target_Child , NAC Nacho Observer , JOS Jos Father , INE Inés Mother
+@ID:	spa|Vila|CHI|2;01.00||||Target_Child|||
+@ID:	spa|Vila|NAC|||||Observer|||
+@ID:	spa|Vila|JOS|||||Father|||
+@ID:	spa|Vila|INE|||||Mother|||
+@Comment:	JOS con una pelota en la mano , EMI la reclama con los brazos extendidos
+*JOS:	toma .
+*JOS:	ponte allí .
+*CHI:	0 .
+%act:	grita y solloza .
+%com:	JOS tira la pelota , EMI va hacia la pelota , EMI coge la pelota
+*JOS:	coge la pelota .
+*CHI:	no . [+ sn]
+*JOS:	no me das la pelota .
+*JOS:	emilio .
+*CHI:	no . [+ sn]
+*JOS:	por qué ?
+*CHI:	no . [+ sn]
+%com:	EMI se acerca a NAC , NAC le da un bolígrafo
+*NAC:	toma .
+*NAC:	un bolígrafo .
+%com:	EMI se pone a dibujar , JOS mira como hace el círculo
+*JOS:	muy bien .
+*CHI:	aquí .
+%com:	EMI pega con el bolígrafo en el magnetofón
+*NAC:	qué pintas Emilio ?
+*CHI:	no . [+ sn]
+*CHI:	mira xxx . [+ o]
+%com:	EMI señala la luz roja del magnetofón
+*JOS:	ay no toques .
+*CHI:	&+ay mama .
+*CHI:	0 .
+%act:	solloza y mira hacia la cocina .
+*JOS:	no debes tocar ahí .
+*JOS:	emilio dibuja .
+*CHI:	qué ? [+ alt]
+*JOS:	dibuja si quieres .
+*JOS:	mira .
+*JOS:	te dibujo yo .
+%com:	JOS dibuja
+*JOS:	este bolígrafo que te ha dado el amigo Nacho .
+%com:	el bolígrafo deja de pintar , EMI se acerca al magnetofón y JOS le da en la mano
+*JOS:	no sirve para nada .
+*CHI:	pega(d)o . [+ o]
+*CHI:	mamá .
+%com:	entra INE en la habitación y EMI se acerca al magnetofón
+*JOS:	te pego más !
+*CHI:	pego . [+ imit]
+*CHI:	mamá .
+%com:	JOS le vuelve a pegar en la mano
+*JOS:	no quieres que te pegue .
+*CHI:	no . [+ sn]
+*INE:	qué pasa Emilio ?
+*JOS:	qué te hace José ?
+%com:	EMI vuelve hacia NAC
+*CHI:	manman . [+ inc]
+%com:	NAC le da el bolígrafo
+*NAC:	qué ?
+*NAC:	toma .
+*CHI:	lápiz .
+*JOS:	qué dibujas ?
+*JOS:	a_ver .
+*CHI:	0 .
+%act:	balbucea .
+%com:	EMI dibuja
+*INE:	tú quieres ir a la piscina ahora .
+*CHI:	no . [+ sn]
+*INE:	por qué ?
+%com:	EMI sigue dibujando
+*INE:	escucha Emilio .
+*INE:	por qué no quieres ir a la piscina ?
+*INE:	oyes ?
+*INE:	qué te ha dicho mamá ?
+*NAC:	pinta .
+*CHI:	qué ? [+ alt]
+*NAC:	pinta .
+*CHI:	qué ? [+ rep]
+%com:	EMI dibuja
+*INE:	a_ver qué pintas .
+*CHI:	qué ? [+ rep]
+*NAC:	no pinto sino pinta .
+*NAC:	pinta el lápiz .
+*CHI:	0 .
+%act:	balbucea .
+%com:	EMI mira los garabatos
+*INE:	qué has dicho ?
+*CHI:	qué ? [+ rep]
+*INE:	no te he entendido .
+%com:	EMI sigue dibujando
+*INE:	mira que tengo .
+*CHI:	qué . [+ rep]
+%com:	INE coge la pelota
+*INE:	mira .
+*CHI:	eh ! [+ alt]
+*INE:	mira ahora se pierde .
+%com:	INE esconde la pelota
+*INE:	dónde está la pelota ?
+*CHI:	se ha perdido . [+ o]
+*INE:	se ha perdido ?
+*CHI:	no está . [+ o]
+*INE:	emilio .
+*CHI:	qué ? [+ alt]
+*INE:	dónde está la pelota ?
+*CHI:	ya no está . [+ o]
+*INE:	pero dónde está ?
+*CHI:	ya no está . [+ rep]
+*INE:	a_ver .
+*INE:	búscala .
+*INE:	que vamos a jugar .
+%com:	INE saca la pelota y EMI toca el magnetofón
+*INE:	mira .
+*JOS:	no !
+*CHI:	no está . [+ o]
+*INE:	no está .
+*INE:	ole .
+*INE:	ahora me la tiras tú a mí .
+%com:	INE tira la pelota a EMI y éste la va a buscar
+*INE:	dónde está ?
+*CHI:	no está , se ha perdido . [+ o]
+*INE:	se ha perdido ?
+*INE:	a_ver .
+*CHI:	ah . [+ alt]
+%com:	INE coge la pelota , INE le da la pelota
+*INE:	ahora con el pie .
+%com:	EMI le da un puntapié
+*INE:	huy .
+*INE:	qué ha pasado ?
+*CHI:	mira . [+ o]
+%com:	EMI señala debajo de la mesa donde está la pelota
+*INE:	qué ?
+*CHI:	mira . [+ rep]
+*INE:	está ahí abajo .
+*INE:	corre a_ver cómo la coges .
+*CHI:	ya está . [+ o]
+*CHI:	mamá .
+%com:	EMI señala el otro lado de la habitación
+*INE:	va vale .
+*INE:	olé .
+*INE:	huy cógela .
+%com:	EMI tira la pelota y sale corriendo detrás de ella
+*INE:	se ha perdido ?
+*CHI:	no está , no . [+ o]
+%com:	EMI al lado del magnetofón lo para , JOS le pega en la mano
+*CHI:	&+huy mira . [+ o]
+*INE:	qué pasa ?
+*CHI:	me ha pegado . [+ o]
+%com:	EMI va hacia INE
+*INE:	a_ver .
+*INE:	dónde te ha pegado .
+*INE:	enséñamelo .
+%com:	EMI extiende la mano a INE y ésta le da un beso
+*INE:	a_ver cómo quieres .
+*INE:	un besito a mamá .
+*CHI:	un besito .
+%com:	INE le da un beso , EMI va hacia NAC a_ver lo que escribe
+*INE:	qué hace Nacho ?
+*CHI:	espera . [+ o]
+*INE:	bueno ya me voy .
+*CHI:	qué ? [+ alt]
+*INE:	me voy .
+*INE:	tú qué vas a hacer ?
+*INE:	emilio .
+%com:	EMI se pone el bolígrafo en la boca
+*JOS:	quítate eso de la boca .
+*CHI:	ah . [+ alt]
+*INE:	qué pasa ?
+*CHI:	mira . [+ o]
+*INE:	de quién es eso ?
+*CHI:	esto papá .
+*INE:	es de papá ?
+*INE:	y no te lo deja ?
+*CHI:	deja . [+ imit]
+%com:	EMI mira a JOS y manipula el magnetofón
+*JOS:	no .
+*CHI:	mira . [+ o]
+*INE:	qué ?
+%com:	EMI mira a INE y señala a JOS
+*CHI:	mira . [+ rep]
+*INE:	es que se rompe .
+*JOS:	no se toca esto .
+*INE:	de quién es ?
+*INE:	tuyo o de papá .
+*CHI:	no es tuyo . [+ o]
+%com:	EMI mira a JOS
+*INE:	de quién es ?
+*CHI:	es tuyo . [+ o]
+%com:	EMI mira a JOS y casi grita
+*INE:	es mío .
+*CHI:	&+ah papá .
+%com:	EMI vuelve a tocar el magnetofón
+*CHI:	0 .
+%act:	ríe
+%com:	JOS le pega en la mano
+*CHI:	&+ah me ha pegado . [+ o]
+*INE:	qué ha pasado ?
+*INE:	te ha pegado José .
+*INE:	ahora le hago yo pam+pam@c a él .
+*INE:	mira .
+*CHI:	pega . [+ o]
+%com:	EMI le da a JOS
+*INE:	qué haces ?
+*INE:	no le pegues a papá .
+*INE:	pobrecito pupa .
+*INE:	un besito un besito que le has hecho pupa .
+%com:	EMI da un beso a JOS
+*CHI:	mira . [+ o]
+%com:	EMI vuelve al magnetofón
+*INE:	oye Emilio .
+*INE:	por qué no cantas la canción del pajarito a Nacho ?
+*CHI:	qué ? [+ alt]
+*INE:	la canción del pájaro .
+*CHI:	pájaro . [+ imit]
+*INE:	eh ?
+*NAC:	cómo es la canción del pájaro ?
+*CHI:	pájaro . [+ imit]
+*INE:	pajarito , eh ?
+*CHI:	sí . [+ sn]
+*INE:	va .
+*CHI:	0 .
+%act:	canta y balbucea .
+%com:	EMI mira a NAC
+*NAC:	yo no la sé .
+*INE:	pajarito que cantas en el almendro .
+*INE:	no despiertes a Emilio que está +...
+*CHI:	cuna .
+*INE:	está durmiendo .
+*CHI:	qué ? [+ alt]
+*INE:	está durmiendo .
+%com:	JOS acaba de darle en la mano por tocar el magnetofón
+*CHI:	me ha pegado . [+ o]
+*INE:	ven a_ver .
+*INE:	que te daré un besito .
+*CHI:	no . [+ sn]
+*INE:	no bueno pues no .
+*CHI:	papa quita [% señalando el magnetofón] . [+ o]
+*INE:	me lo quieres quitar .
+*CHI:	qué ? [+ alt]
+*INE:	lo quieres quitar .
+*CHI:	mira . [+ o]
+*INE:	no se toca .
+*CHI:	caca [/] caca .
+%com:	EMI delante el magnetofón
+*CHI:	qué ? [+ alt]
+%com:	JOS le pega por tocar el magnetofón
+*INE:	qué ha hecho papá ?
+*CHI:	besito .
+%com:	JOS le da un besito , EMI sigue tocando el magnetofón
+*JOS:	no toques Emilio .
+*CHI:	ah . [+ alt]
+*INE:	ah que calor .
+*CHI:	calla . [+ o]
+%com:	EMI mirando a INE
+*INE:	por qué me dices esto ?
+*CHI:	0 .
+%act:	balbucea y calla .
+*INE:	no me tienes que decir estas cosas .
+%com:	EMI vuelve a tocar el magnetofón , JOS hace ademán de ir a pegarle
+*CHI:	&+huy papá .
+*INE:	ven conmigo corre .
+*CHI:	se ha perdido pelota . [+ o]
+*INE:	sí se ha perdido .
+*INE:	ya la veo está allí .
+%com:	INE señala donde está
+*CHI:	qué ? [+ alt]
+*INE:	está allí .
+%com:	EMI mira hacia donde señala INE
+*JOS:	no .
+*INE:	busca la pelota corre .
+%com:	JOS pega a EMI en la mano
+*INE:	qué hay ?
+*CHI:	te . [+ o]
+*INE:	dame .
+*INE:	qué es esto ?
+*CHI:	no . [+ sn]
+%com:	EMI coge la caja de cerillas , EMI la abre y tira las cerillas
+*INE:	esto es malo .
+*INE:	estas cerillas son malas .
+*INE:	qué has hecho ?
+*CHI:	espera . [+ o]
+*INE:	recógelas .
+*INE:	cógelas del suelo .
+*CHI:	no . [+ sn]
+%com:	JOS sale de la habitación y EMI corre hacia el magnetofón
+*INE:	sí hombre .
+*CHI:	no . [+ sn]
+*INE:	ahora se aprovecha .
+*INE:	qué vas a hacer ?
+%com:	EMI manipula el magnetofón y vuelve JOS y le da en la mano
+*CHI:	abre mira &+ah . [+ o]
+*INE:	qué pasa ?
+*CHI:	mama mira . [+ o]
+*INE:	qué ?
+*CHI:	mira mamá . [+ rep]
+*INE:	qué pasa ?
+*INE:	que lo quieres tocar ?
+*CHI:	tocarlo . [+ o]
+%com:	INE va al lado del magnetofón
+*INE:	a_ver .
+*INE:	tócalo un poquito .
+*JOS:	que no lo toque .
+%com:	EMI toca el magnetofón y INE le retira la mano
+*INE:	ya está .
+*CHI:	más .
+*INE:	éste no .
+%com:	EMI quiere tocar el paro
+*CHI:	esto [/] esto [% señala otro botón] .
+*INE:	no sé .
+*INE:	pregúntaselo a José .
+*INE:	que te lo diga papá .
+*JOS:	no .
+*JOS:	ya está .
+*CHI:	mamá otro .
+*JOS:	sólo éste .
+*JOS:	ya está .
+%com:	JOS impide que EMI lo toque
+*CHI:	mira . [+ o]
+*INE:	ahora ya se ha acabado .
+*CHI:	esto [% señala un botón] .
+*INE:	a_ver vamos a_ver .
+*INE:	tú quieres otra cosa .
+*CHI:	(o)t(r)a cosa . [+ imit]
+*INE:	vamos a buscar el autobús .
+*CHI:	autobús . [+ imit]
+*INE:	para jugar .
+*CHI:	autobús no .
+*INE:	no .
+*CHI:	autobús no . [+ rep]
+*INE:	pues .
+*INE:	qué quieres para jugar ?
+%com:	EMI coge la caja de la cinta y la manipula
+*NAC:	qué es eso Emilio ?
+*NAC:	una caja .
+*INE:	me la das .
+%com:	EMI manipula la caja la deja y va hacia el magnetofón , JOS le da en la mano , EMI va hacia NAC
+*CHI:	pega(d)o Nacho . [+ o]
+*INE:	vienes conmigo .
+*INE:	que vamos a_ver las flores .
+%com:	INE abre un cuento
+*CHI:	eh ? [+ alt]
+*INE:	mira .
+*CHI:	qué ? [+ alt]
+*INE:	las vamos a mirar las flores .
+*CHI:	no . [+ sn]
+*INE:	va hombre .
+*CHI:	cacao .
+%com:	EMI manipula la caja
+*INE:	no quieres mirar las flores .
+*CHI:	0 .
+%act:	balbucea .
+%com:	EMI manipula la caja
+*NAC:	de quién es eso ?
+*CHI:	eso [% coge un paquete de tabaco y lo muestra] . [+ imit]
+*NAC:	no , no lo saques .
+%com:	EMI quiere sacar un cigarrillo
+*NAC:	dame .
+*CHI:	no . [+ sn]
+*NAC:	sí .
+*CHI:	no mío .
+%com:	EMI lo aprieta contra su cuerpo
+*NAC:	tuyo .
+*NAC:	es tuyo .
+*NAC:	de quién es ?
+*CHI:	mío .
+*INE:	no es mío .
+*CHI:	nacho té . [+ o]
+%com:	EMI saca un cigarro y lo da a NAC
+*NAC:	nacho ten .
+*INE:	de quién es ?
+*NAC:	dónde lo metemos ?
+*NAC:	dónde lo guardo ?
+*CHI:	guardo . [+ imit]
+*NAC:	pero dónde ?
+*CHI:	guardo . [+ rep]
+*NAC:	en el bolsillo .
+*CHI:	bolsillo . [+ imit]
+*NAC:	eso en el bolsillo .
+%com:	EMI hace adiós con la mano
+*CHI:	adiós .
+*NAC:	adiós .
+*NAC:	me voy ya .
+*CHI:	no . [+ sn]
+*NAC:	me voy .
+*CHI:	no . [+ sn]
+*NAC:	y por qué me dices adiós ?
+*CHI:	adiós no .
+*NAC:	adiós no .
+*NAC:	bueno no me voy .
+*INE:	oye Emilio .
+*CHI:	qué ?
+*INE:	quieres mirar las flores ?
+%com:	INE tiene el cuento abierto
+*CHI:	no . [+ sn]
+*INE:	están allí las flores .
+*INE:	enséñaselas al Nacho .
+*CHI:	nacho no .
+*INE:	no .
+*INE:	se las enseño yo .
+*INE:	mira Nacho .
+*CHI:	ah . [+ alt]
+*INE:	se las enseño yo .
+*CHI:	ah . [+ alt]
+%com:	EMI se da un golpe con la mesa
+*INE:	te has hecho daño !
+*INE:	verdad ?
+*CHI:	ah . [+ alt]
+*CHI:	calla . [+ o]
+*INE:	yo no me callo .
+*INE:	tú te has hecho daño .
+*INE:	mira le enseño las flores yo .
+*CHI:	a_ver . [+ o]
+*INE:	mira Nacho .
+*INE:	qué flores ya verás .
+%com:	EMI va hacia INE
+*INE:	tú no .
+*CHI:	tu .
+%com:	EMI desafía a INE
+*INE:	mira que flor Nacho .
+*CHI:	ah . [+ alt]
+%com:	EMI intenta_ver el cuento
+*NAC:	mira que flor tan bonita .
+%com:	NAC le enseña el cuento a EMI
+*INE:	has visto ?
+*INE:	mira ésta .
+*CHI:	qué ? [+ alt]
+%com:	EMI intenta mirarlo
+*CHI:	a_ver . [+ o]
+*NAC:	son muy bonitas , eh ?
+*CHI:	a_ver mamá . [+ o]
+*INE:	no tú has dicho que no .
+*CHI:	a_ver mamá . [+ rep]
+*INE:	toma .
+%com:	INE le da el cuento
+*CHI:	a_ver . [+ rep]
+*CHI:	ves Nacho . [+ o]
+*NAC:	qué ?
+*CHI:	venga . [+ o]
+*NAC:	huy que bonitas son .
+*CHI:	venga . [+ rep]
+*NAC:	que bonitos .
+*NAC:	es un tigre [% señala un tigre] .
+*INE:	es un gato .
+*NAC:	un gato .
+*CHI:	mira . [+ o]
+*NAC:	y eso qué es ?
+*NAC:	una hiena [% señala una hiena] .
+*CHI:	perro .
+*NAC:	perro sí .
+*CHI:	mira . [+ o]
+*CHI:	no roto .
+%com:	el papel tiene un trozo arrancado
+*NAC:	no no hay gato .
+*INE:	te está diciendo que se ha roto .
+*NAC:	ah se ha roto sí .
+*INE:	quién ha roto esto ?
+*CHI:	mira [% señala un oso] ! [+ o]
+*INE:	qué es esto ?
+*CHI:	mira . [+ rep]
+*NAC:	qué es ?
+*CHI:	mira . [+ rep]
+*NAC:	un oso .
+*CHI:	un oso . [+ imit]
+*CHI:	mira [% señala una nutria] ! [+ o]
+*NAC:	y eso qué es ?
+*INE:	una nutria .
+*INE:	nu^tria .
+*INE:	a_ver di nutria .
+*CHI:	no roto .
+*INE:	quién lo ha roto ?
+*NAC:	no lo has roto .
+*NAC:	y quién lo ha roto ?
+*CHI:	se ha acabado . [+ o]
+%com:	EMI cierra el cuento
+*NAC:	se ha acabado .
+*NAC:	y esto ?
+*NAC:	qué es esto ?
+*CHI:	esto [% señala un pájaro en la tapa del cuento] .
+*NAC:	qué es ?
+*CHI:	mira . [+ o]
+*INE:	cómo se llama ?
+*CHI:	mira . [+ rep]
+*NAC:	un pájaro .
+*CHI:	un pájaro . [+ imit]
+*NAC:	y esto [% señala un árbol] ?
+*NAC:	un árbol .
+*NAC:	es un árbol .
+*CHI:	mira árbol . [+ o]
+*CHI:	mira [% señala otro árbol] . [+ o]
+*INE:	otro árbol .
+*CHI:	mira [% abre el cuento y señala el oso] . [+ o]
+*INE:	qué es eso ?
+*NAC:	un oso .
+*INE:	qué es ?
+*CHI:	un osos [% debería haber dicho "unos"] .
+*INE:	y las flores dónde están ?
+*INE:	se han perdido ?
+%com:	INE pasa páginas
+*INE:	vamos a buscar las flores .
+*CHI:	qué ? [+ alt]
+*INE:	las flores .
+*CHI:	a_ver . [+ o]
+%com:	EMI intenta coger el cuento
+*INE:	mira qué es esto ?
+*CHI:	esto [% señala un pez] .
+*INE:	qué son ?
+*CHI:	peces .
+*INE:	hum .
+*CHI:	peces . [+ rep]
+*INE:	mira otro pez .
+*CHI:	otro pez [% señala otro pez] .
+%com:	EMI señala otro pez
+*CHI:	mira peces mamá . [+ o]
+*INE:	sí .
+*NAC:	y esto ?
+*CHI:	&+hum mira . [+ o]
+*INE:	un bicho .
+%com:	EMI pasa hojas
+*CHI:	mira [% señala una flor] . [+ o]
+*INE:	qué es esto ?
+*CHI:	una flor .
+*INE:	no , no es una flor .
+*INE:	es una mariposa .
+*CHI:	mariposa . [+ imit]
+*INE:	ma^ri^po^sa .
+%com:	EMI pasa hojas
+*NAC:	espera y aquí .
+*NAC:	qué ?
+*CHI:	mira mariposa . [+ o]
+*NAC:	y aquí ?
+*CHI:	otra(s) flores .
+%com:	NAC señala una flor
+*NAC:	otra(s) flores ?
+*INE:	otra flor .
+*CHI:	otra flor . [+ imit]
+%com:	nacho señala un pájaro
+*NAC:	y aquí ?
+*CHI:	mira . [+ o]
+*INE:	cómo se llama ?
+*INE:	pájaro .
+*CHI:	pájaro . [+ imit]
+*NAC:	qué tiene el pájaro ?
+%com:	EMI señala un árbol
+*NAC:	un árbol sí .
+*NAC:	qué tiene el pájaro ?
+%com:	NAC señala el ojo
+*CHI:	a_ver pájaro . [+ o]
+*NAC:	tiene un ojo .
+*CHI:	mira . [+ o]
+*INE:	qué ?
+*CHI:	otra(s) flores .
+*NAC:	otra(s) flores ?
+*CHI:	otra flor .
+*INE:	y las plantas ?
+*INE:	dónde están las plantas ?
+*INE:	papá tiene plantas ?
+*CHI:	mira . [+ o]
+*INE:	y esto qué es ?
+*CHI:	mira papa . [+ o]
+*INE:	y las plantas .
+*INE:	dónde están las plantas de papá ?
+*CHI:	no está . [+ o]
+*INE:	míralas [% señala las plantas] .
+*INE:	me voy a buscar el gato .
+*CHI:	qué ? [+ alt]
+*INE:	el minino@c [% gato] .
+*CHI:	que ? [+ rep]
+*INE:	le has explicado a N_A_C que trajeron +...
+%com:	EMI sigue con el cuento
+*INE:	oye Emilio .
+*INE:	le vas a enseñar a Nacho los gatos de la ventana .
+*CHI:	mira . [+ o]
+*NAC:	qué es ?
+*CHI:	mira . [+ rep]
+*INE:	me voy a_ver los gatos .
+*CHI:	adiós .
+%com:	INE sale de la habitación y EMI va detrás pero vuelven , EMI fuera de la habitación juega con una caja vacía de chocolate
+*INE:	qué haces ?
+*CHI:	0 .
+%act:	balbucea .
+*INE:	qué buscas ?
+*CHI:	0 .
+%act:	balbucea .
+*INE:	no te entiendo .
+*CHI:	qué ? [+ alt]
+*INE:	que no te entiendo .
+*CHI:	bueno . [+ sn]
+*INE:	emilio .
+*CHI:	qué .
+*INE:	ven aquí conmigo .
+*CHI:	no . [+ sn]
+*INE:	por qué ?
+%com:	al cabo de un rato vuelve
+*JOS:	emilio .
+*CHI:	qué .
+*INE:	qué has hecho con la caja de chocolate ?
+*CHI:	qué ? [+ rep]
+*INE:	que dónde está la caja de chocolate .
+*CHI:	no está . [+ o]
+*INE:	traémela .
+*NAC:	qué es lo que no está ?
+*NAC:	el chocolate no está ?
+*CHI:	eh ? [+ alt]
+*NAC:	el chocolate no está ?
+*CHI:	0 .
+%act:	chilla porque quiere tocar el magnetofón .
+*INE:	qué has hecho ?
+%com:	EMI tira el cuento al suelo
+*INE:	ahora recógelo .
+*CHI:	no . [+ sn]
+*INE:	oye recógelo .
+*CHI:	espera . [+ o]
+%com:	EMI quiere tocar el magnetofón
+*JOS:	no se toca el magnetofón .
+*CHI:	calla . [+ o]
+*JOS:	no se toca el magnetofón Emilio .
+*JOS:	quieres que te de un palo .
+%com:	JOS le pega dos veces
+*JOS:	besito a papá besito .
+%com:	EMI le da un beso , EMI va con el cuento a NAC
+*NAC:	ya lo veo ya .
+*CHI:	mira . [+ o]
+*NAC:	qué es eso ?
+*NAC:	un caracol .
+*CHI:	caracol . [+ imit]
+*NAC:	un caracol y una rana .
+*CHI:	una rana . [+ imit]
+*NAC:	una rana sí .
+*NAC:	y eso qué es ?
+*NAC:	no veo qué es eso .
+*CHI:	mira . [+ o]
+*NAC:	eso son piedras .
+*CHI:	qué ? [+ alt]
+*NAC:	una esponja .
+*CHI:	qué ? [+ rep]
+*NAC:	es esponja .
+*CHI:	qué ? [+ rep]
+*NAC:	es^pon^ja .
+*CHI:	mira . [+ o]
+*NAC:	caracol .
+*NAC:	y esto qué es ?
+*CHI:	caracol . [+ imit]
+%com:	EMI señala mal y NAC lo señala
+*NAC:	caracol es esto .
+*CHI:	no . [+ sn]
+*CHI:	caracol . [+ imit]
+%com:	EMI va hacia las plantas y casi tira una
+*INE:	ay [/] &+ay José .
+*INE:	qué has hecho ?
+@End

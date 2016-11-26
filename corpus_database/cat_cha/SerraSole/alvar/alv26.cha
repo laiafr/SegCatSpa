@@ -1,0 +1,646 @@
+@UTF8
+@PID:	11312/c-00028040-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , GAV gavia Grandmother , FER ferran Child , YIN minyona Nurse , HMA hmain Nurse , INV Investigator
+@ID:	cat|Serra|CHI|2;2.06||||Target_Child|||
+@ID:	cat|Serra|GAV|||||Grandmother|||
+@ID:	cat|Serra|FER|||||Child|||
+@ID:	cat|Serra|YIN|||||Nurse|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g esta donant de menjar a a la cuina , tots dos estan asseguts a la taula
+*CHI:	0 .
+%act:	te un tractor amb remolcador a les mans , sobre la taula
+*CHI:	0 .
+%act:	pica el tractor
+*CHI:	camina .
+*INV:	camina ?
+*CHI:	si [% "ti"] .
+*INV:	com ho fa per caminar ?
+*CHI:	0 .
+%act:	no ha deixat de picar , assenyala el tractor
+*CHI:	aquest [% "aque"] .
+*INV:	i aquest senyor que tens alla darrera , o no es un senyor , que es allo que tens a sobre ?
+*GAV:	0 .
+%act:	li posa una cullerada a la boca
+*CHI:	0 [= mira g] .
+*GAV:	aixo que es [= li ensenya el senyor que va dins del remolcador del tractor] ?
+*INV:	ui quina escopeta [>] !
+*CHI:	<un senyor> [<] [% "un tenyo" , ho toca] .
+*INV:	i que te a les mans ?
+*CHI:	una escopeta [% "una ecupeta" , assenyalant l'escopeta] .
+*INV:	mecachis !
+*INV:	i per que la vol ?
+*GAV:	0 .
+%act:	li fica una altra cullerada
+*CHI:	0 .
+%act:	treu el senyor del remolcador
+*INV:	eh , alvar , per que la vol l' escopeta ?
+*CHI:	0 .
+%act:	aixeca el senyor
+*CHI:	ja esta [% "ja eta" , ho assenyala i li ensenya a l'avia] !
+*GAV:	ja esta , oh !
+*CHI:	0 .
+%act:	continua menjant mirant a la camera
+*GAV:	explica'li on has anat , on has anat , a la senyoreta , explica'li on hem anat .
+*CHI:	parque [% "paque"] .
+*INV:	no vas a l' escola al mati ?
+*GAV:	0 [= diu que no amb el cap] .
+*CHI:	no vas al col'legi ?
+*CHI:	0 [= diu no amb el cap] .
+*CHI:	no .
+*INV:	vas a passejar amb l' avia ?
+*CHI:	si [% "ti"] .
+*INV:	que be , eh ?
+*CHI:	si , amb xxx [% "ti , am noc"] .
+*INV:	amb el tractor ?
+*INV:	te l' has emportat al parque el tractor ?
+*CHI:	0 [= mira g] .
+*CHI:	no .
+*CHI:	no .
+*INV:	no ?
+*CHI:	no .
+*INV:	i a que jugues al parque ?
+*CHI:	oriol [% "oion"] .
+*GAV:	amb l' oriol .
+*INV:	que es un amic teu ?
+*CHI:	si [% "ti"] .
+*INV:	us trobeu al parque amb l' oriol ?
+*CHI:	si .
+*INV:	ui , que ja t' ho acabes [= referint'se al dinar] !
+*GAV:	s' ha acabat , menjarem un platanito [= amb cantarella] .
+*INV:	que be !
+*GAV:	ole , l' alvar campeon , eh ?
+*GAV:	l' alvar campeon [= li neteja la boca] !
+*GAV:	abans +...
+*CHI:	0 .
+%act:	assenyala davant
+*GAV:	abans <xxx xxx> [>] la mare , ara un platanito , eh ?
+*INV:	<ja las acabat oi> [<] ?
+@Comment:	arriba el ferran
+*INV:	oi mira si hi ha el ferran aqui !
+*FER:	hola .
+*INV:	hola ferran .
+*GAV:	<molt be> [>] el ferran tambe xxx xxx xxx .
+*CHI:	<ja acabat> [<] [= es dirigeix f] .
+*FER:	vull un platano .
+*GAV:	un platano vols ?
+*FER:	si .
+*GAV:	te [= l' avia li dona un platan a f] .
+*GAV:	espera , a veure quin es mes tou xxx xxx .
+*FER:	ja estas [= es dirigeix a l' alvar] ?
+*CHI:	si [>] .
+*INV:	<no m' havies> [<] dit que hi havia el ferran .
+*GAV:	xxx xxx xxx .
+*FER:	me'n vaig .
+*INV:	xxx xxx xxx que estaves aqui .
+*GAV:	nomes li falta el platano .
+*INV:	que es amic teu ?
+*CHI:	si .
+*INV:	si ?
+*GAV:	0 .
+%act:	esta de peu buscant coses
+*CHI:	0 [= es mira la camera] .
+*GAV:	digues'li xxx quantes coses fas , amb que jugues , el perque , amb que .
+*GAV:	que portem al parque per jugar , que portem al parque per jugar [= es seu disposada a donar'li el platan] ?
+*CHI:	uns cotxets [% "u cuchets"] .
+*GAV:	els cotxets .
+*INV:	si ?
+*CHI:	si [% "ti"] .
+*GAV:	els cotxets oi ?
+*CHI:	cotxes .
+*GAV:	0 .
+%act:	s' aixeca de la taula
+*CHI:	0 .
+%act:	deixa el tractor damunt la taula i es posa les mans al cos , despres les treu , les torna a ficar
+*INV:	et fas molt gran , eh , alvar ?
+*GAV:	xxx xxx .
+*INV:	cada dia estas mes gran .
+*INV:	que menges molt ?
+*CHI:	si .
+*INV:	si ?
+*INV:	i que fas a l' escola ?
+*CHI:	<&a &a> [/?] aqui [= porta els bracos cap enrera , despres cap endavant , assenyalant amb un dit la taula y donant pics amb el dit] .
+*INV:	que cantes cancons alvar ?
+*CHI:	no .
+*INV:	no et fa +...
+*INV:	no cantes cancons a l' escola ?
+*CHI:	no .
+*GAV:	0 .
+%act:	es seu amb el platan
+*INV:	pintes .
+*CHI:	0 [= mira com l' avia part el platan] .
+*INV:	pintes o tampoc pintes ?
+*INV:	dibuixos ?
+*CHI:	no .
+*INV:	tampoc ?
+*CHI:	no .
+*INV:	ui , i que fas doncs ?
+*CHI:	0 [=! riu] .
+*INV:	que fas a l' escola , jugues ?
+*CHI:	si [% "tsi"] .
+*INV:	ah , mira que be , aixo esta molt be , eh ?
+*CHI:	0 .
+%act:	assenyala el platan que esta fent trossos g
+*CHI:	si [= arrossega la lletra s] .
+*INV:	ui , que es bo el platano !
+*INV:	t' agrada molt ?
+*CHI:	0 [= continua mirant com ho fa l' avia] .
+*GAV:	hoy la silvia no hi es .
+*INV:	no hi es la mama ?
+*CHI:	no hi es , voy a les xxx .
+*CHI:	0 .
+%act:	es posa a jugar amb el tractor
+*CHI:	sss@c , sss@c [= fica el senyor dintre del remolcador i ho tanca] .
+*CHI:	<un , nn , um , un> [/?] dormir [% "umi" , assenyalant al senyor] .
+*INV:	xxx dormint ?
+*CHI:	si , xxx [% "ti , xxx"] .
+*INV:	i tu aniras a dormir tambe alvar ?
+*CHI:	si .
+*INV:	tambe dormiras una estoneta ?
+*CHI:	si [= continua jugant amb el tractor , obre les portes al senyor] .
+*CHI:	ja esta porteta [% "ja ta , puteta" , es queda mirant la camera] .
+*YIN:	hola !
+*INV:	hola .
+*CHI:	0 .
+%act:	es dona compte de que entra la minyona
+*CHI:	hola .
+*GAV:	le doy el platano , eh ?
+*YIN:	si .
+*YIN:	como vamos ?
+*GAV:	bien , ya se le ha pasado .
+*YIN:	por que lloraba ?
+*GAV:	lloraba porque se le desenganchaba el tractor , como tiene el piquito ese tan pequenyo se le sale , nada mas que lo toca se le sale , al final se lo he atado , menos mal , oiga .
+*CHI:	0 .
+%act:	riu amb y que li fa pessigolles
+*GAV:	xxx , los tractores , este ninyo , sera payes .
+*GAV:	seras pages , oi ?
+*YIN:	si porque estas con los tractores +...
+*YIN:	pero no xxx .
+*INV:	no t' has enfadat , alvar ?
+*YIN:	pero no tiene la vitamina maria ?
+*GAV:	0 .
+%act:	aixafa el menjar d' a
+*CHI:	si .
+*INV:	<per que t' has enfadat> [>] ?
+*YIN:	<hoy a que estamos> [<] ?
+*GAV:	hoy estamos a dieciocho .
+*INV:	eh , per que t' has enfadat , alvar ?
+*CHI:	0 .
+%act:	mira a la camera , i mou les mans a la vegada que parla
+*CHI:	a que , que , que !
+*YIN:	poco que necesitamos para enfadarnos , poco , poco [= deixa les vitamines a sobre la taula i g les agafa] .
+*INV:	tu tens mal geni ?
+*GAV:	digues , un poquito .
+*INV:	tu tens mal geni , vols dir ?
+*CHI:	si .
+*CHI:	0 [= mira com l' avia obre les gotes] .
+*INV:	si ?
+*INV:	t' enfades .
+*CHI:	que es aixo ?
+*CHI:	0 .
+%act:	assenyala l' ampolla amb el dit
+*GAV:	que es aixo , vitamines per l' alvar .
+*CHI:	si ?
+*GAV:	0 .
+%act:	posa les gotes al menjar d' a
+*CHI:	0 [= la mira] .
+*GAV:	0 .
+%act:	dona una cullerada de menjar a
+*GAV:	hum (.) que bona !
+*YIN:	no vas a ser campeon , eh ?
+*CHI:	0 .
+%act:	mou les mans picant sobre la taula
+*CHI:	0 .
+%act:	assenyala la camera
+*CHI:	foto ?
+*GAV:	<&fia> [/?] he cogido una fiambrera de ahi abajo que no me acordaba nunca de llevarmela .
+*YIN:	he visto que ha cogido tambien el papel , ara le tengo que dar el papel ese , el del tambor .
+*CHI:	0 [= segueix mirant atentament a la camera] .
+*GAV:	ah !
+*GAV:	0 .
+%act:	li dona una altra cullerada del menjar
+*GAV:	si ya no he ido a buscar nada .
+*YIN:	ha ido ?
+*GAV:	si [= li dona un altre cullerada] .
+*YIN:	oh !
+*GAV:	ah !
+*YIN:	a mi me a dicho el senyor que le da el papel .
+*GAV:	bueno !
+*GAV:	pero fue ayer [= li dona una altra cullerada] .
+*YIN:	y se lo dieron .
+*GAV:	y se lo dieron [= dona una cullerada a] .
+*CHI:	0 [= mira y] .
+*YIN:	venga a comer , a comer , a comer .
+*GAV:	hoy es campeon [= li dona una altra cullerada] .
+*CHI:	0 [= esta distret mirant cap a y] .
+*GAV:	alvar , alvar .
+*CHI:	0 .
+%act:	obre la boca i es menja la cullerada picant les mans a la taula
+*CHI:	hum hum .
+@Comment:	se sent un soroll
+*CHI:	que es aixo ?
+*CHI:	que es ?
+*YIN:	esto es para hacer la comida a la mama .
+*CHI:	si ?
+*YIN:	si .
+*GAV:	has visto al oriol ?
+*CHI:	si .
+*YIN:	si ?
+*GAV:	0 .
+%act:	l' introdueix una altra cullerada
+*CHI:	estaba .
+*YIN:	estaba alli en el parque .
+*CHI:	0 [= mira la camera] .
+*CHI:	l' oriol .
+*INV:	es el teu amic ?
+*CHI:	0 [= diu si amb el cap i mirant la camera] .
+*GAV:	0 .
+%act:	li introdueix una altra cullerada
+@Comment:	sona el telefon i a assenyala cap a fora
+*CHI:	dinar , mama , papa [= mira g mentre ho diu] .
+*GAV:	si , la mama i el papa [= li dona una altra cullerada] .
+*CHI:	iaia , si [= toca g] .
+*GAV:	iaia , si .
+*CHI:	casa seva [= assenyala cap a fora] .
+*GAV:	casa seva iaia , si [= li dona una altra cullerada] .
+*GAV:	on es la casa la iaia ?
+*GAV:	qui menja a casa iaia ?
+*GAV:	i la tia , on es la tia ?
+*CHI:	0 [= mira g] .
+*CHI:	0 [= assenyala a dalt] .
+*CHI:	a dalt .
+*GAV:	a dalt ?
+*GAV:	a dalt esta la tia ?
+*GAV:	la tia esta a ca la iaia [= li dona una altra cullerada] .
+*GAV:	te , ja esta .
+*GAV:	vols aigua ?
+*GAV:	vols aigua ?
+*CHI:	0 [= diu si amb el cap] .
+*GAV:	si ?
+*GAV:	molt be [= s' aixeca de la taula] .
+@Comment:	apareix una altra persona , la mainadera d' a
+*HMA:	hola , hola , hola , hola .
+*HMA:	0 .
+%act:	toca el cap d' a
+*HMA:	ya has arreglado el tractor ?
+*HMA:	aun no se te ha estropeado [= arrossega el tractor una mica per la taula] .
+*CHI:	aun , no .
+*CHI:	aigua [% "aia"] .
+*CHI:	0 .
+%act:	mira com g li porta l' aigua i aixeca les mans
+*CHI:	0 .
+%act:	beu aigua
+*CHI:	0 .
+%act:	mira el tractor , el toca
+*CHI:	perque toqui [% "peque"] .
+*GAV:	perque toqui .
+*YIN:	pero ara el tractor a la habitacion , a guardarlo .
+*YIN:	que ahora vas a dormir , eh !
+*GAV:	0 .
+%act:	descorda el pitet d' a
+*GAV:	ho deixarem alla al prestatge , oi ?
+*GAV:	ho posarem als prestatges alla per despues [= doblega el pitet] .
+*CHI:	si , xxx el tractor [% "si , taia el trator"] .
+*GAV:	si .
+*CHI:	0 .
+%act:	arrossega el tractor
+*YIN:	que le vas a poner al tractor ?
+*CHI:	prestatge [% "pechacha"] .
+*GAV:	el prestatge , maria .
+*CHI:	posara prestatge [% "ponra pachache"] .
+*CHI:	si .
+*CHI:	posara prestatge [% "ponra pachacha"] .
+*YIN:	si [% "chi"] .
+*CHI:	posara prestatge [% "ponra pachacha" , es gira i mira y] .
+*YIN:	si [% "che"] .
+*CHI:	<posara prestatge> [>] [% "ponra pachache"] .
+*GAV:	<escolta , alvar> [<] .
+*YIN:	si [>] [% "che"] .
+*CHI:	posara [<] prestatge [% "ponra pachacha"] .
+*YIN:	posara , posara al prestatge .
+*GAV:	0 .
+%act:	seu al costat d' a
+*CHI:	0 [=! riu mirant g] .
+*CHI:	xxx [% "potatatache" , s' ho inventa] .
+*CHI:	xxx [% "potatache" , es gira i mira y] .
+*GAV:	molt complicat , oi [= treu un mocador i neteja el nas d' a] ?
+*YIN:	0 .
+%act:	mira a i li fa un pessic
+*YIN:	feo .
+*CHI:	mal .
+*YIN:	que !
+*CHI:	fet mal [= ensenya el brac a y] .
+*YIN:	pupa@c sana .
+*CHI:	si .
+*CHI:	0 [= somriu i mira la camera] .
+*GAV:	0 .
+%act:	s' acosta a
+@Comment:	g i a somrient
+*GAV:	ui !
+*CHI:	0 .
+%act:	agafa el tractor i l' arrossega
+*CHI:	ei !
+*YIN:	y ahora +...
+*CHI:	aqui no .
+*YIN:	y ahora , donde vamos a ir ?
+*CHI:	a dormir [% "a omi"] .
+*YIN:	ai , ai , oi !
+*CHI:	a dormir no [% "a omi , no"] .
+*GAV:	una miqueta .
+*CHI:	una miqueta no .
+*YIN:	nada , dile a la iaia cuanto vas a dormir .
+*CHI:	la [/?] la iaia .
+*YIN:	si , cuanto ?
+*GAV:	casa la iaia dormir no .
+*YIN:	no , si vas a dormir un poquito , si .
+*CHI:	ca a la iaia .
+*GAV:	no [= enf l' o] !
+*CHI:	ca a la iaia .
+*GAV:	<pero es el sabado> [>] .
+*YIN:	xxx [<] .
+*CHI:	ca la iaia .
+*YIN:	el sabado .
+*CHI:	casa iaia .
+*YIN:	<si casa tia iaia> [>] .
+*GAV:	<el sabado> [<] .
+*CHI:	casa iaia .
+*GAV:	no xxx .
+*YIN:	anem a posar el dodotis .
+*CHI:	casa iaia .
+*CHI:	0 .
+%act:	es balanceja segut a la cadireta
+*YIN:	anem a posar el dodotis .
+*CHI:	no [>] .
+*GAV:	si [<] .
+*CHI:	casa iaia no .
+*YIN:	xxx xxx la iaia en sap .
+*CHI:	casa iaia si .
+*GAV:	y en la casa de la iaia tambien tiene dodotis ?
+*CHI:	no .
+*YIN:	no , ella no , le tienen que traer .
+*GAV:	si !
+*YIN:	la iaia no tiene dodotis para el alvar , eh !
+*CHI:	casa meva , si .
+*YIN:	casa teva , si .
+*FER:	casa meva , si .
+*CHI:	casa meva i tu no casa tens [% "casa me i tu no casa tes"] .
+*YIN:	no , jo no en tinc .
+*YIN:	que hi ha a casa la iaia per tu ?
+*YIN:	una xxx i un piano [% "una cameta i un piano"] .
+*CHI:	0 .
+%act:	se'n riu i balla segut a la cadireta
+*GAV:	com toca el piano l' alvar , com toca el piano l' alvar ?
+*YIN:	hay un piano en casa la iaia .
+*GAV:	0 .
+%act:	li sona el nas a
+*GAV:	si , digues si xxx .
+*CHI:	xxx no .
+*YIN:	y quien toca el piano ?
+*CHI:	yo .
+*YIN:	tu !
+*GAV:	0 .
+%act:	fa com que toca el piano amb les mans damunt la taula
+*CHI:	0 .
+%act:	l' imita amb els dits
+*GAV:	xxx xxx .
+*CHI:	0 .
+%act:	continua fent'lo i mira a la camera
+*GAV:	ai , sembla que algu ve per aqui , sembla que algu ve .
+*GAV:	ah , no , era la dona .
+*YIN:	era el otro dentro jugando .
+*GAV:	si .
+*CHI:	0 .
+%act:	torna a picar amb els dits a la taula
+*GAV:	cuando viene silvia , esta noche ?
+*CHI:	xxx xxx aqui que <aqui cotxe> [>] xxx [% "do bo qui que qui coche xxx" , agafa el senyor que esta tombat al remolcador i juga amb ell] .
+*GAV:	<silvia , viene esta noche> [<] ?
+*GAV:	no ?
+*YIN:	ahora al mediodia .
+*GAV:	ahora viene a comer .
+*YIN:	xxx silvia si , pero vendra tarde .
+*GAV:	tarde , se han ido a las diez a igualda , vendran tarde .
+*CHI:	0 .
+%act:	continua jugant amb el tractor
+*GAV:	bueno alvar , alvar , anem a buscar dodotis .
+*GAV:	xxx les xxx , eh ?
+*CHI:	0 .
+%act:	continua jugant
+*CHI:	xxx [>] .
+*GAV:	xxx [<] , vols mes aigua ?
+*CHI:	no .
+*GAV:	no , no vols mes aigua ?
+*CHI:	0 .
+%act:	estira la ma per tocar quelcom que no es veu a la pantalla , esta damunt la taula
+*GAV:	no toquis aixo .
+*YIN:	deja eso alvar .
+*GAV:	no el toquis [= s' aixeca] anem'hi .
+*CHI:	0 .
+%act:	deixa de tocar'lo
+*GAV:	anem al cuarto , anem al cuarto aquell , corre , corre .
+*CHI:	0 .
+%act:	es resisteix una mica
+*CHI:	xxx xxx [% "pota vetamique"] .
+*CHI:	0 .
+%act:	agafa el tractor
+*GAV:	0 .
+%act:	ho treu de la cadireta
+*GAV:	porta oberta .
+*GAV:	com peses alvar !
+@Comment:	g i a estan a l' habitacio , a esta sobre el llit , g li treu les sabates
+*CHI:	dormir [% "omi"] !
+*GAV:	dormir una miqueta .
+*CHI:	dorm , dorm carme [% "lom , lom cama" , es distreu amb el tractor] .
+*GAV:	que , que ?
+*CHI:	0 [=! riu] .
+*INV:	qui dorm ?
+*GAV:	no t' entenc .
+*INV:	qui dorm ?
+*INV:	aquest senyor del tractor tambe dorm ?
+*CHI:	no .
+*INV:	no ?
+*INV:	que fa ?
+*CHI:	aparcat [% "pacat"] .
+*GAV:	esta aparcat .
+*YIN:	ah , esta aparcat .
+*CHI:	ah , eh [= es queixa perque l' avia li havia pessigat al treure'li el pantalo] !
+*GAV:	que passa , i ara , que t' agafa , eh ?
+*CHI:	carme [% "cama"] .
+*GAV:	carme ?
+*CHI:	no , carme no [% "no , cama no"] .
+*CHI:	0 .
+%act:	riu i s' amaga amb el brac avergonyint'se
+*GAV:	carme no .
+*INV:	no vols <que et> [/?] que et +...
+*CHI:	la iaia .
+*INV:	la iaia t' agrada mes ?
+*INV:	t' agrada mes la iaia , oi ?
+*INV:	ja ho se , ja .
+*INV:	eh , que si ?
+*GAV:	0 .
+%act:	li fa pessigolles
+*GAV:	0 .
+%act:	li baixa la samarreta
+*CHI:	0 [=! riu] .
+*GAV:	que tens , que tens ?
+*INV:	tens pessigolletes ?
+*GAV:	que tens ?
+*INV:	ja no es fa pipi l' alvar ?
+*CHI:	0 [=! riu] .
+*GAV:	ui , l' alvar , ui l' alvar !
+*GAV:	0 .
+%act:	li toca el melic
+*CHI:	chat@c <gat en frances> [/?] .
+*GAV:	el chat@c ?
+*GAV:	el chat@c esta alla al llit em sembla , o per qui mira .
+*GAV:	no ho se on esta el chat@c , ja ho buscarem [= mira sota un jersei que hi ha sobre del llit] .
+*CHI:	el chat@c <gat en frances> [/?] !
+*GAV:	ja el buscarem .
+*CHI:	0 .
+%act:	intenta aixecar'se
+*GAV:	espera't .
+*GAV:	primer has +/.
+*CHI:	alla esta [% "alla ata"] .
+*GAV:	bueno , alla esta , primer haig de posar +/.
+*CHI:	dormint [% "umin"] .
+*GAV:	esta dormint , vale , et fara companyia , eh ?
+*CHI:	tractor aparcat [% "tato pacat" , assenyala el tractor] .
+*GAV:	el tractor esta aparcat .
+*CHI:	treballant , treballant no tractor [% "teballan , teballan no tato"] .
+*GAV:	treballant ?
+*CHI:	no .
+*GAV:	no , ara no treballa el tractor ?
+*CHI:	no .
+*GAV:	no .
+*CHI:	un forat , mira [% "un fura mira" , assenyala el tractor] .
+*GAV:	que passa ?
+*CHI:	un forat [% "un fura"] .
+*GAV:	a on te un forat ?
+*GAV:	a on te un forat ?
+*CHI:	aqui [= assenyala el tractor] .
+*GAV:	ah , si , te un forat si .
+*CHI:	un altre forat [% "un ata forat"] ?
+*GAV:	un altre forat ?
+*CHI:	un altre [% "un ata"] ?
+*GAV:	0 .
+%act:	l' acaba de posar els dodotis i li dona dues palmellades al culet
+*CHI:	0 .
+%act:	s' aixeca rient en el llit i es mira al mirall rient i cridant
+*CHI:	0 [= mira a la camera] .
+*GAV:	qui hi ha aqui , qui es aquest ?
+*CHI:	alvar [% "ava"] .
+*GAV:	qui es aquest ?
+*CHI:	alvar [% "alva"] .
+*GAV:	l' alvar ?
+*GAV:	digues'li adios a l' alvar que se'n va a fer nonons@c .
+*CHI:	adios [% "aio" , es dirigeix a la camera] .
+*GAV:	al mirall , al mirall , a l' alvar .
+*CHI:	adios [% "aio"] .
+*GAV:	aixi , digues adeu .
+*GAV:	li fas un petonet , li fas un petonet ?
+*GAV:	li fas un petonet , un petonet ?
+*CHI:	0 .
+%act:	segueix rient i cridant mirant'se al mirall
+*CHI:	0 .
+%act:	dona un peto al mirall , i se'n riu mirant la camera i g
+*GAV:	0 [=! riu] .
+*CHI:	0 .
+%act:	s' aixeca i mira la camera
+*GAV:	on es ?
+*GAV:	aqui no hi es el chat@c , eh , alvar , aqui no hi es .
+*CHI:	0 .
+%act:	es gira cap a g
+*CHI:	si hi es .
+*CHI:	no .
+*CHI:	0 .
+%act:	mira les nines de sobre e llit i torna a mirar'se al mirall
+*GAV:	no .
+*CHI:	no hi es [= mira g] ?
+*CHI:	no hi es !
+*GAV:	no , no hi es .
+*CHI:	que no hi es .
+*CHI:	0 .
+%act:	crida i es mira al mirall i pica de mans el mirall
+*GAV:	cuidado , alvar , mira en cuidado .
+*GAV:	chssss@c , no donguis cops !
+*GAV:	no se on el tens el chat@c , eh , alvar .
+*CHI:	0 .
+%act:	es mira al mirall cridant
+*CHI:	no hi es .
+*GAV:	no hi es mira , va vine .
+*CHI:	0 .
+%act:	deixa de mirar'se al mirall i va cap a g
+*GAV:	tu sabras on l' has posat .
+*CHI:	pcf [% "aga , ga , psf"] .
+*GAV:	posa aquest petit [= agafa a] .
+*CHI:	a darrera no hi es [% "a rera , no hi es"] .
+*GAV:	upale@c , upale@c [= porta a cap el bressol] !
+*GAV:	digues , adios , digues adeu , adeu .
+*CHI:	0 .
+%act:	mira a la camera , rient i dient adeu amb la ma
+*GAV:	0 .
+%act:	dona un peto a
+*CHI:	chat@c no hi es ?
+*GAV:	no , el chat@c no hi es .
+*GAV:	que posem ?
+*GAV:	posem l' elefant , posat dintre [= el posa dintre del bressol] .
+*CHI:	elefant no [% "lefant no"] .
+*GAV:	bueno , no .
+*GAV:	que posem ?
+*CHI:	elefant si [% "lefant si"] .
+*GAV:	si , bueno va posa , ja porto l' elefant .
+*GAV:	posa't dintre , va .
+*CHI:	petit elefant [% "atit lefant"] .
+*GAV:	<petit elefant> [>] .
+*CHI:	gos [<] .
+*GAV:	bueno , petit elefant ?
+*CHI:	elefant gros , elefant gros [% "lefant gos , lefant gos"] .
+*GAV:	0 .
+%act:	un cop allitat va a buscar l' elefant
+*CHI:	0 [= mira g des de el bressol] .
+*GAV:	aquest , aquest ?
+*GAV:	0 .
+%act:	li porta el nino
+*CHI:	0 .
+%act:	allarga la ma per agafar'lo
+*CHI:	si .
+*CHI:	elefant aqui [% "lefant qui"] .
+*GAV:	0 .
+%act:	li deixa l' elefant al capcal del bressol
+*GAV:	l' elefant gros , aixi .
+*GAV:	i qui mes ?
+*CHI:	elefant gros [% "lefant gros"] .
+*GAV:	no hi ha cap mes elefant gros .
+*CHI:	aquest , aquest [= s' aixeca i assenyala a g el nin que vol] .
+*GAV:	aquest ?
+*CHI:	si .
+*GAV:	aquest !
+*GAV:	aquest !
+*GAV:	aquest [= li porta un altre nino] !
+*GAV:	ale , vinga , apa , aixi , a nonetes@c [= li col'loca el nino al costat de l' elefant] .
+*GAV:	0 .
+%act:	tapa a
+*CHI:	dios carme .
+*GAV:	si , adios carme .
+*INV:	adeu alvar .
+*GAV:	un petonet a l' avia ?
+*CHI:	carme , si [% "carcma , chi"] .
+*GAV:	la carme tambe ?
+*INV:	si , em vols fer un peto a mi , si ?
+*GAV:	li tires un petonet amb la maneta ?
+*GAV:	aixi [= fa el peto amb la maneta i a ho repeteix des de'l bressol] .
+*INV:	molt +/.
+*GAV:	molt be , molt be .
+*CHI:	0 [= mira la camera rient] .
+*INV:	ale , a dormir una estoneta .
+*GAV:	a dormir una miqueta , eh [= arregla el bressol] !
+*CHI:	elefant gros [% "lefant gros" , mira cap al llit] .
+*GAV:	ja esta , ja esta , tots dos , ja esta l' elefant gros alvar .
+*CHI:	0 [= mira les nines que te al capcal] .
+*GAV:	ja no hi ha mes gros els tens aqui el groc i l'altre , eh ?
+*GAV:	ale !
+*CHI:	adios [% "aios"] .
+*GAV:	adeu carme .
+*INV:	adios .
+@End

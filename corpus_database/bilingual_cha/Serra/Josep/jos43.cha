@@ -1,0 +1,516 @@
+@UTF8
+@PID:	11312/c-00001956-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Josep Target_Child , MAR mare Mother , PAR pare Father , HUG hugo Brother , GUI gui Child , INV Investigator
+@ID:	spa , cat|Serra|CHI|3;7.17||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@ID:	spa , cat|Serra|HUG|||||Brother|||
+@ID:	spa , cat|Serra|GUI|||||Child|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	j i h estan jugant a dibuixar asseguts davant d'una taula , la mare esta dreta al costat , mirant com ho fan
+*MAR:	xxx gafas , josep , son del roger aquestes gafes ?
+*CHI:	no .
+*CHI:	son de l' hugo .
+*MAR:	pues de l' hugo , mira , pitjor m' ho poses .
+*CHI:	no es meva .
+*CHI:	perque me les deixa .
+*MAR:	te les deixa aquestes ulleres ?
+*MAR:	em sembla que no , que m' estas dient una bola .
+*MAR:	quan te les ha deixat ?
+*MAR:	eh ?
+*MAR:	li torno al seu cuarto les ulleres ?
+*CHI:	no , no !
+*CHI:	deixa'les aqui !
+*MAR:	ara que fas ?
+*MAR:	eh , pichurri@c ?
+*MAR:	que fas ?
+*CHI:	pintar !
+*MAR:	home , ja ho se que pintes !
+*MAR:	pero que pintes ara , eh ?
+*MAR:	que voleu mes paper ?
+*CHI:	no .
+*CHI:	tenim aqui .
+*MAR:	on en teniu ?
+*CHI:	aqui !
+*MAR:	home , aqui ja ho se .
+*MAR:	pero aquest ja esta molt pintat , no ?
+*CHI:	no .
+*CHI:	per aqui no .
+%com:	tots els que hi ha a l' habitacio riuen
+*MAR:	has de parlar en angles .
+*MAR:	imagina't tu si has de fer progressos .
+*MAR:	i t' hi acostumaras perque vas a una escola anglesa amb l' oscar .
+*MAR:	eh , josep ?
+@Comment:	els adults de la sala comencen a parlar entre ells , la mare marxa , en j es queda amb en h , ells dos segueixen pintant , al cap d' un moment arriba el seu pare
+*PAR:	hola !
+*INV:	hola !
+%com:	els nens segueixen pintant
+*CHI:	el papa .
+*CHI:	xxx camino .
+*CHI:	xxx camino .
+*HUG:	si !
+%com:	segueixen pintant
+*INV:	que pintes ?
+*PAR:	josep xxx esta al'lucinat amb el xxx .
+*GUI:	t' agraden els meus pantalons ?
+*GUI:	t' agraden josep ?
+*PAR:	eh que te una barca que va amb motor el guillermo ?
+*CHI:	0 [= se'ls mira] .
+*GUI:	quin cuarto mes maco que tens , eh ?
+@Comment:	se'n van
+*HUG:	xxx dibuix .
+*CHI:	xxx .
+@Comment:	marxa en josep , es canvia d' escena
+*INV:	que no t' agrada que et filmi , no ?
+*INV:	no t' agrada ?
+@Comment:	canvien de joc , van al bagul de les joguines , en j va tirant la pilota a h
+*CHI:	ah !
+*CHI:	tonto !
+*CHI:	idiota !
+*CHI:	et tirare una escopinada [% "ta tirare una copinada"] .
+*CHI:	tonto !
+*CHI:	idiota !
+*CHI:	et tirare una escopinada [% "ta tirare una copinada"] .
+*CHI:	i un palo
+	[% te una mini escombra a la ma , pica a algu amb l' escombra] .
+%com:	l' altre fa veure que el persegueix
+*CHI:	no [% rient] !
+*CHI:	socorro !
+%com:	juguen amb una mascara
+*CHI:	ara tu .
+*CHI:	vale ?
+*CHI:	posa't el monstre
+	[% "posa'te el monstru" , a un dels nens , es refereix a una mascara]
+	.
+*CHI:	ell sera el monstre [% "monstru"] .
+%com:	el pega amb un pal
+*PAR:	tu , sense pegar !
+*PAR:	no es pega a ningu .
+@Comment:	els nens van jugant amb la mascara
+*CHI:	no !
+*CHI:	te pinchare un ojo .
+@Comment:	en j i h es posen a tirar del pal , h te mes foráa
+*CHI:	tonto [% i s' amaga darrera del roberto] !
+*CHI:	al roberto .
+@Comment:	roberto li dona un objecte a hugo
+*CHI:	deixa'm .
+*CHI:	deixa'me'l (.) un moment [% els hi pren] !
+*HUG:	josep , aixo falta [% allarga una peáa a j] .
+*CHI:	deixa'm' ho [% "deixa'ma'ho" , agafa la peáa] .
+@Comment:	es gira a ells , r i h agafen altres joguines , j demana ajuda a h
+*CHI:	com es posa [% a h] ?
+*CHI:	com es posa ?
+*PAR:	tens un pipi ?
+*CHI:	xxx xxx monstre [% "monstru"] .
+*CHI:	xxx xxx .
+*PAR:	josep , tens pipi ?
+*PAR:	josep +...
+%com:	canvia de joguina
+*CHI:	oh mi caballito [% mig cantant] !
+*PAR:	tens un pipi josep ?
+*CHI:	no .
+@Comment:	agafen titelles , en j i en h
+*PAR:	josep , surt d' aqui que fa molta calor !
+*HUG:	hola [% amb les titellles] !
+*HUG:	no em facis mal .
+%com:	j fa que la seva titella pegui la de h
+*HUG:	no em facis mal .
+*HUG:	t' ho suplico !
+*PAR:	escolta josep , juga be .
+*PAR:	juga amb els ninos be !
+*PAR:	no et posis tan tontito !
+@Comment:	deixen les titelles , r treu una gorra del bagul
+*CHI:	et poso [% "ta poso" , vol posar la gorra a h] ?
+%com:	h es posa la gorra i j li treu
+*CHI:	0 [= mira dins el bagul] .
+*CHI:	mira , aqui [% "qui"] hay una xxx [% sona com "pega"] .
+%com:	j estira el braá per agafar xxx
+*CHI:	ay , dejame la xxx [% sona com "pega"] !
+*CHI:	mira [% ensenya alguna cosa a h] !
+*CHI:	es meu .
+*HUG:	es xuli@c , eh ?
+*CHI:	si .
+%com:	h ho torna a deixar dins el bagul
+*CHI:	on esta la gorra [% remena dins el bagul] ?
+*CHI:	aqui esta la gorra [% ha trobat una gorra] .
+%com:	remenen dins el bagul
+*CHI:	mira !
+*CHI:	quin xxx [% no es veu a que es refereix] .
+*PAR:	que fas ?
+%com:	j juga amb un llapis i fa soroll , es canvia d' escena
+*PAR:	a xxx li dius se dice silla .
+*PAR:	com es diu aixo ?
+*PAR:	que es aixo ?
+*CHI:	cadira [% "cadida"] .
+*PAR:	cadira , silla eh ?
+*PAR:	se dice cadira , silla .
+*PAR:	i ella t' ensenyara this is a chair .
+*PAR:	i tu li dius a ella se dice silla , vale ?
+%com:	j i h juguen amb camions
+*CHI:	no .
+*CHI:	se lo tenemos que poner .
+*HUG:	xxx .
+*CHI:	pero no lo quites .
+*HUG:	mira .
+*HUG:	xxx .
+*CHI:	no .
+*CHI:	no .
+*CHI:	no .
+*HUG:	xxx [% treu coses de dins del camio] .
+*CHI:	no .
+*CHI:	no .
+%com:	j torna a posar coses al camio
+*CHI:	aqui un altre cotxe .
+%com:	el va a buscar i el posa al camio , h toca el camio
+*CHI:	no .
+*CHI:	no lo saques !
+@Comment:	j deixa els cotxes , es posa dret i tanca els ulls , j torna cap a les joguines , j i h tornen a agafar el camio carregat de joguines
+*INV:	t' has fet mal al dit ?
+*CHI:	0 [= fa no amb el cap] .
+*INV:	jo hi veig una ferida .
+*CHI:	xxx dejamelo [% referint'se a h que esta jugant amb el camio] !
+%com:	h juga amb alguna cosa
+*CHI:	no lo toques !
+*CHI:	no !
+*CHI:	no !
+@Comment:	j s' asseu a la cadira de h mentre aquest juga amb el telefon , j li agafa l' auricular i se'l posa a l' orella
+*CHI:	xxx xxx .
+*CHI:	para [% a h que esta tocant el dial del telefon] !
+*CHI:	diga ?
+*CHI:	hola !
+*CHI:	diga ?
+*CHI:	pasa@c <que pasa> [/?] ?
+*CHI:	adeu .
+*CHI:	xxx .
+%com:	h torna a tocar el telefon
+*CHI:	esto para [% agafa un objecte que te h a la ma] +...
+*CHI:	xxx .
+*CHI:	et tirare una escopinada [% "ta tirare una gaxinada"] .
+*INV:	una que ?
+*CHI:	una escopinada .
+%com:	j i h tornen a jugar amb els cotxes
+*CHI:	no .
+*CHI:	dejamela a mi .
+*CHI:	no !
+*CHI:	ara torno !
+*INV:	no li deixes re al teu cosi , eh , josep andreu ?
+*INV:	no voldra jugar amb tu si no li dexies re !
+*CHI:	esta espatllat [% te un cotxe a la ma] .
+@Comment:	canvia l' escena , m i j tenen un llibre
+*MAR:	explica'me'l be que aquest no l' he vist .
+*CHI:	0 .
+%act:	obre el llibre
+*CHI:	aqui s' acaba ?
+*MAR:	no , aqui comenáa .
+*CHI:	per aqui [% "per qui"] ?
+*CHI:	no ?
+*MAR:	aqui que hi ha ?
+*MAR:	dibuixos , no ?
+*MAR:	i de que son aquests dibuixos ?
+*CHI:	xxx xxx xxx nena i llapis [% "llapissos"] .
+*MAR:	aqui quina historia passa ?
+*MAR:	explica'm la historia .
+*CHI:	xxx xxx xxx .
+*CHI:	un nen i una nena i un tractor [% va assenyalant en el conte] .
+*MAR:	pero que fan aquest nen i aquesta nena ?
+*CHI:	estant mirant .
+*MAR:	que miren ?
+*CHI:	al piopio@c i al guauguau@c .
+*MAR:	i el senyor del tractor que fa ?
+*CHI:	<esta esta esta> [/?] esta retallant la fulla .
+*MAR:	esta retallant les fulles ?
+*MAR:	que estan massa llargues ?
+*CHI:	si .
+*MAR:	hum !
+*MAR:	com es diu el senyor del tractor , que ho saps ?
+*CHI:	pues un senyor .
+*MAR:	ah !
+*MAR:	pensava que era el lluis de molins .
+*CHI:	era el lluis .
+*MAR:	si ?
+*CHI:	si .
+*CHI:	i aquest no [% assenyala el dibuix] .
+*MAR:	aquest no .
+*MAR:	i aquests nens com es podrien dir ?
+*CHI:	nen i nena .
+*MAR:	nen i nena ?
+*MAR:	pero com es diuen ?
+*MAR:	ho saps tu ?
+*MAR:	mira [% assenyalant] .
+*MAR:	aquest es diu tom .
+*MAR:	i aquesta nena es diu irene .
+*MAR:	com la filla del lluis .
+*MAR:	ah no , que la filla del lluis es diu ines !
+%com:	va mirant el llibre
+*MAR:	i ara que [% referint'se als dibuixos] .
+*CHI:	aqui xxx la carrera [% assenyala en el conte] .
+*MAR:	hum ?
+*CHI:	carrera .
+*MAR:	parla mes fort que no et sento .
+*CHI:	xxx de la carrera .
+*MAR:	i on van ?
+*CHI:	pujant !
+*MAR:	si .
+*CHI:	i van al carret .
+*CHI:	ratolins .
+*MAR:	apa [% assenyalant el llibre] !
+*MAR:	on va aquest ratoli ?
+*CHI:	per aqui .
+*MAR:	i que fa el gatet ?
+*CHI:	els va agafar .
+*MAR:	que els hi agraden als gats els ratolins ?
+*CHI:	si .
+*MAR:	ah , no ho sabia jo aixo !
+%com:	van passant fulls
+*MAR:	i aqui [% assenyalant] ?
+*CHI:	piopio@c .
+*CHI:	ous .
+*MAR:	i d' on surt el piopio@c ?
+*CHI:	de l' ou .
+*MAR:	apa !
+*CHI:	encara no ha sortit l' altre .
+*CHI:	encara no .
+*MAR:	i qui es la mama i el papa del piopio@c ?
+*CHI:	es aquest [% assenyalant] .
+*MAR:	eh !
+*MAR:	mira , estan aqui !
+*CHI:	si .
+*MAR:	clar .
+*MAR:	mira com ha sortit de l'ou el pollet .
+*MAR:	que fa piopio@c ?
+*MAR:	i aqui [% assenyalant una altra pagina] ?
+*CHI:	mira .
+*CHI:	aquest ha enganxat al tractor .
+*CHI:	aixo [% assenyalant] .
+*MAR:	si , ha enganxat un carreto .
+*MAR:	i per que ?
+*CHI:	per portar patates .
+*MAR:	per portar patates ?
+*MAR:	pero aqui , aqui que hi ha ?
+*CHI:	hi ha nens a prop de la barca .
+*MAR:	pero que es tot aixo ?
+*CHI:	el mar .
+*MAR:	tu vols que anem al mar ?
+*CHI:	si .
+*MAR:	t' agrada mes o t' agrada mes molins ?
+*CHI:	<&+e &+e> [/?] el mar !
+*MAR:	t' agrada mes el mar ?
+*MAR:	a mi tambe .
+*MAR:	li direm al papa que ens porti al mar .
+*MAR:	l' any que ve quan tinguem el bebe , vale ?
+*CHI:	vale .
+*MAR:	i aqui ?
+*CHI:	els peixos [% "a peixos"] .
+*CHI:	els peixos .
+*MAR:	dintre el mar hi ha peixos , no ?
+%com:	gira full
+*CHI:	aqui <hi ha> [/?] hi ha mar .
+*CHI:	i aqui aquesta barca aparcada .
+*MAR:	esta aparcada ?
+*CHI:	si .
+*MAR:	pero a tu t' agrada anar amb barca ?
+*CHI:	si .
+*MAR:	d' aquestes grans o d' aquestes petites ?
+%com:	j gira full
+*CHI:	i aqui se'n van [% "no van"] a la casa .
+*CHI:	es feia molt tard .
+*MAR:	es feia molt tard ?
+*MAR:	com ho saps que es feia molt tard ?
+*CHI:	es feia tard .
+*MAR:	jo no veig la lluna .
+*CHI:	no .
+*CHI:	esta amagada .
+*MAR:	ah !
+%com:	j gira full
+*CHI:	i aqui no .
+*CHI:	aqui van a fer un passeig .
+*MAR:	i que porten als peus ?
+*CHI:	pues sabates .
+*MAR:	si , pero mira !
+*MAR:	son unes sabates molt rares .
+*MAR:	i aqui no en porten .
+*MAR:	son uns patins de neu que tu no n' has vist .
+*MAR:	son patins de neu per patinar sobre gel .
+*MAR:	saps ?
+*MAR:	veus [% assenyala amb el dit] ?
+*MAR:	ha nevat .
+*MAR:	veus com cau ?
+*CHI:	agua .
+*MAR:	no , neu .
+*CHI:	neu ?
+*MAR:	si .
+*CHI:	esta caient neu .
+*INV:	tu no has vist nevar encara , no ?
+*CHI:	no .
+%com:	j gira full
+*CHI:	i aqui cotxes .
+*CHI:	<aqui plou> [>] .
+*MAR:	<(aqui) que> [<] passa aqui ?
+*CHI:	que esta plovent .
+*MAR:	aqui si .
+*MAR:	i aqui ?
+*CHI:	aqui no .
+*MAR:	i aqui que passa ?
+*CHI:	que <se va> [/?] se va trencar .
+*MAR:	i per que es trenca tot aixo ?
+*CHI:	perque si !
+*MAR:	no , perque bufa el vent molt fort .
+*MAR:	aixi [% li bufa] .
+*CHI:	si ?
+*MAR:	si .
+*MAR:	i aqui ?
+*CHI:	aqui no bufa .
+*MAR:	no .
+*CHI:	aqui si .
+*CHI:	i aqui baixa la neu [% "nau"] .
+*CHI:	aqui esta baixant la neu [% "nau"] .
+*MAR:	la neu ?
+*CHI:	si .
+*MAR:	no , aixo son nuvols .
+*CHI:	esta baixant la neu .
+*MAR:	no home , no .
+*CHI:	els nuvols .
+*MAR:	nuvols .
+*CHI:	estan baixant .
+%com:	j gira full
+*MAR:	que fa aquesta nena , la irene ?
+*CHI:	esta regant .
+*MAR:	a qui rega ?
+*CHI:	si .
+*CHI:	al miau@c i al gosset per posar'se bonics .
+*MAR:	els rega per posar'los a dormir ?
+*CHI:	si .
+*CHI:	i aqui piopios@c .
+*MAR:	a veure , com hem dit que es deien els piopios@c ?
+*MAR:	com es diuen ?
+*CHI:	piopio@c .
+*MAR:	es diu pollet .
+*CHI:	un piopio@c .
+*CHI:	un per fer aixi [% "aixis" , mou la ma] .
+*CHI:	i un arbre [% va assenyalant en el conte] .
+*CHI:	i un peix .
+*CHI:	i un ou .
+*CHI:	i un castell .
+*CHI:	i un xampany .
+*MAR:	aixo es xampany ?
+*MAR:	es una botella d' aigua .
+*CHI:	si .
+*CHI:	aixo una flor .
+*CHI:	i aixo una papallona .
+*CHI:	una granota .
+*MAR:	una granota es ?
+*MAR:	i aixo ?
+*MAR:	no m' he enterat .
+*MAR:	com has dit ?
+*CHI:	per fer aixi [% gesticula] .
+*MAR:	pero si es un cuc !
+*CHI:	aixo es un cuc .
+*MAR:	com aquells que hi ha a molins , eh ?
+*MAR:	i aixo ?
+*CHI:	es una aranya .
+*CHI:	ja s' ha acabat .
+*MAR:	s' ha acabat aquest conte ?
+*CHI:	si .
+*MAR:	xuli@c , eh ?
+%com:	j deixa el llibre i li dona a la mare
+*CHI:	explica'l tu .
+*CHI:	ara me l' expliques tu .
+*MAR:	oh , no !
+*MAR:	si tu te'l saps molt be aquest !
+*MAR:	busca'n un altre .
+*CHI:	un altre no .
+*CHI:	xxx llegeix aquest .
+*CHI:	tot el rato i ja esta .
+*MAR:	jo aquest ja me'l se !
+*MAR:	perque tu te'l saps molt be i me l' expliques .
+*CHI:	vale !
+*MAR:	per que no busques un altre conte ?
+*CHI:	per que no .
+*CHI:	despres .
+*CHI:	vale ?
+%com:	j dirigint'se al pare
+*CHI:	ves a buscar un altre conte .
+*CHI:	buscar un altre conte papa .
+*PAR:	ara vas tu , jo he anat a buscar aquest .
+*CHI:	xxx el vas a buscar .
+*PAR:	ara vas tu a buscar .
+*MAR:	tu a buscar un que t' agradi corre !
+*MAR:	vale ?
+*CHI:	no .
+*CHI:	jo tinc aquest primer .
+*MAR:	bueno , deixes aquest i agafes un altre .
+*CHI:	que no es veu des d' aqui [% assenyalant la camara] ?
+*MAR:	hum ?
+*CHI:	d' aqui .
+*CHI:	que no es veu ?
+*MAR:	no es veu ?
+*MAR:	no ho se .
+*MAR:	si , suposo que si .
+*CHI:	no .
+*CHI:	aqui no hi ha [% "n' hi ha"] llum !
+*CHI:	aqui no .
+*CHI:	eh que aqui no hi ha [% "n' hi ha"] llum ?
+*CHI:	aqui no .
+*INV:	si que hi ha llum , si !
+*CHI:	no .
+*CHI:	a l' altre costat .
+*CHI:	aqui [% assenyala] .
+*CHI:	no es veu ?
+*INV:	si .
+*INV:	jo et veig a tu .
+*CHI:	per aqui no .
+*CHI:	per aqui no .
+*INV:	per aqui no em veus ?
+*CHI:	no .
+*MAR:	ja li has dit a la maria rosa que esperem un bebe ?
+*CHI:	si .
+*MAR:	no !
+*INV:	no , jo no se res !
+*INV:	tu no m' has dit res !
+%com:	j s' acosta a la camera
+*CHI:	per aqui no es veu .
+*CHI:	per aqui no .
+*INV:	jo et veig a tu .
+*MAR:	com es dira la teva germaneta ?
+*CHI:	bebe .
+*MAR:	no , com es dira ?
+*CHI:	no .
+*MAR:	com li direm ?
+*MAR:	quin nom tindra ?
+*MAR:	loli ?
+*CHI:	no .
+*INV:	pepeta ?
+*MAR:	apa !
+%com:	j es torna a acostar a la camara
+*CHI:	aixo per que es ?
+*INV:	per tapar .
+*CHI:	aqui ?
+%com:	j tapa l' objectiu de la camara
+*INV:	si pero no tapis !
+*INV:	si tapes no surts .
+*CHI:	per tapar aqui ?
+*MAR:	li has dit que ja no sera un nen ?
+*CHI:	no .
+*INV:	sera una nena ?
+*INV:	i quin nom vols que li posin a la nena ?
+*CHI:	per que si .
+*INV:	com ?
+*CHI:	julia .
+*MAR:	digues'li !
+*INV:	nuria ?
+*CHI:	si .
+*INV:	nuria li posareu ?
+*CHI:	si .
+*CHI:	julia .
+*INV:	t' agrada molt el nom de nuria ?
+*MAR:	julia !
+*INV:	ah , julia !
+%com:	j es torna a acostar a la camara
+*CHI:	tapo ?
+%com:	so defectuos
+*INV:	julia ?
+*CHI:	si .
+*CHI:	julia .
+@End

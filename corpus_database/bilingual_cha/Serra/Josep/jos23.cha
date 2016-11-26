@@ -1,0 +1,963 @@
+@UTF8
+@PID:	11312/c-00001944-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Josep Target_Child , CAR carme Nurse , PAR pare Father
+@ID:	spa , cat|Serra|CHI|1;11.10||||Target_Child|||
+@ID:	spa , cat|Serra|CAR|||||Nurse|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@Comment:	a l' habitacio de j , es la tarda , c i j davant una cistella de joguines que te la tapa oberta , c va traient joguines de la cistella , j es troba al seu costat , c parla en castella i j tambe
+*CAR:	y esto [= te un cotxe a la ma] ?
+*CHI:	coche .
+*CHI:	0 .
+%act:	s' ajup per agafar un ninot conductor i el fica dintre un cotxe de carreres
+*CAR:	y esto que es [= te un gos titella a la ma] ?
+*CAR:	y esto ?
+*CHI:	coco@c .
+*CAR:	guau@c guau@c .
+*CHI:	0 [= te el ninot conductor a la ma] .
+*CHI:	antonio [% "tonio" , ensenya el ninot a c] .
+*CAR:	eh ?
+*CHI:	antonio [% "tonio"] .
+*CAR:	el antonio no esta aqui [= te un llibre de contes a la ma] .
+*CAR:	este no es el antonio .
+%add:	JOS
+*CHI:	antonio [% "tonio" , mirant el conte] ?
+*CAR:	no , este no es .
+*CAR:	que hace el antonio , que hace [= amb el ninot titella a la ma] ?
+*CHI:	0 [= te el llibre de contes a la ma i se'l va mirant] .
+*CAR:	como se pone el antonio con la guitarra , como se pone ?
+%act:	li pren el llibre de contes a j
+*CAR:	a ver ?
+*CAR:	ponte tu .
+*CAR:	que hace el antonio ?
+*CHI:	0 [= dret davant c] .
+*CAR:	eh ?
+*CHI:	antonio [% "tonio"] ?
+%act:	agafa el llibre de contes
+*CAR:	que hace ?
+*CHI:	antonio [% "tonio"] ?
+*CAR:	el antonio con este no .
+*CHI:	antonio [% "tonio" , mirant el llibre de contes] .
+*CAR:	oh [= te el ninot conductor a la ma i l' aixeca davant de j] .
+*CHI:	antonio [% "tonio" , amb el conte a la ma] ?
+*CAR:	y esto que es [= assenyala la panxa del nen] ?
+*CHI:	antonio [% "tonio"] .
+*CAR:	no esto no .
+*CAR:	que es ?
+*CHI:	xxx panxa [% "xxx pania"] .
+*CAR:	la +...
+*CHI:	panxa [% "xania"] .
+*CAR:	la panxa .
+*CHI:	el antonio [% "e tonio"] .
+%com:	li cau el llibre de contes a terra i l' assenyala amb el dit
+*CAR:	el antonio [= recull el llibre] .
+*CHI:	antonio mas [% "tonio ma" , amb el llibre de contes a la ma] .
+*CAR:	mas antonios ?
+*CAR:	no hay mas .
+*CHI:	antonio mas [% "tonio mas" , li passa el llibre de contes a c] .
+*CAR:	no hay [= llibre a la ma] .
+*CHI:	xxx .
+*CAR:	a ver donde esta ?
+*CAR:	buscalo .
+*CHI:	0 .
+%act:	mirant a terra , dret davant de c , amb el brac estirat intenta agafar objectes de dintre la cistella de joguines .
+*CHI:	eh [= brac estirat , sembla que es queixi] !
+*CHI:	pcf [% "ito"] !
+*CAR:	que [= seguda darrera j] ?
+*CHI:	pcf [% "ito"] .
+*CAR:	el munyequito ?
+%act:	agafa un ninot de la cistella
+*CHI:	oh [= li agafa el ninot] !
+*CAR:	que ?
+*CHI:	pcf [% "ito ito"] .
+*CAR:	el munyequito ?
+*CAR:	buscalo tu !
+*CHI:	xxx tu [= mirant dintre la cistella] .
+*CAR:	tu .
+*CHI:	tu xxx [= abocat dintre el cistell de joguines] .
+*CAR:	ten [= amb un ninot a la ma] .
+*CHI:	no [= rebutja el ninot] .
+*CAR:	no se donde .
+*CHI:	0 .
+%act:	torna a mirar dintre el cistell , assenyala amb el brac
+*CAR:	ah , este [= agafa un ninot] !
+*CHI:	este [= n' assenyala un altre] .
+*CAR:	que , esto [= agafa un altre ninot] ?
+*CHI:	esto esto .
+*CAR:	este [= te un altre ninot a la ma] .
+*CAR:	la cabeza , el cap
+	[= te el cap d' un ninot articulat , en j te el cos] .
+*CHI:	0 .
+%act:	fica el cap al forat
+*CAR:	bravo !
+*CHI:	eh [= el cap no li encaixa prou be] !
+*CHI:	0 .
+%act:	durant una estona repeteix la manipulacio
+*CAR:	vamos al cole@c ?
+*CHI:	que [= es gira amb el ninot a la ma] ?
+*CAR:	dame la cartera .
+*CAR:	va que nos vamos al cole@c con el oscar .
+*CHI:	0 [= mira cap a la porta de la cambra] .
+*CHI:	0 .
+%act:	dret amb el ninot a la ma intenta ficar el cap al forat pertinent
+*CAR:	damelo !
+*CHI:	0 .
+%act:	continua manipulant el ninot i s' acosta a c
+*CAR:	la cartera para ir al cole@c .
+*CHI:	esto , eh [= manipula el ninot i sembla que rondini] !
+*CAR:	trae .
+*CHI:	eh , xxx cae esto .
+%act:	dona el ninot a c
+*CAR:	se cae ?
+*CAR:	ya esta [= fica el cap al forat] .
+*CAR:	0 [= te el ninot enlaire] .
+*CHI:	oh [= estira el brac per agafar'lo] !
+*CHI:	munyequito [% "ito" , l' agafa i se'l fica sobre la panxa] .
+*CAR:	ay , el munyequito !
+*CHI:	0 .
+%act:	torna a separar el cap del cos i li cau
+*CAR:	se ha caido ?
+*CHI:	pcf [% sona com "yago" , d' esquena a c mira cap a la cistella] .
+*CAR:	que ?
+*CHI:	pcf [% "yago"] .
+*CAR:	que ?
+*CHI:	coche [= mirant el terra ple de joguines] .
+*CAR:	coche .
+*CHI:	miralo [% "mialo" , s' ajup i agafa un cotxe del terra] .
+*CHI:	miralo [% "mialo"] .
+*CHI:	coche [= li cau a terra i el recull] .
+*CHI:	antonio [% "tonio" , es gira cap a c] ?
+*CHI:	0 .
+%com:	te el cotxe a la ma i li cau
+*CAR:	ay !
+*CHI:	antonio 0se 0ha caido [% "tonio caio"] .
+*CAR:	se ha caido el antonio .
+*CAR:	anda !
+*CHI:	0 .
+%act:	es va passejant entre les joguines
+*CAR:	te vas a caer tu .
+*CAR:	te vas a caer tu .
+*CAR:	0 [= esta asseguda a la butaca] .
+*CHI:	xxx el coche nonnon@c
+	[= te un cotxe a la ma i el fa anar amunt i avall del brac de la butaca on seu c]
+	.
+*CAR:	nonnon@c hace el cotxe .
+*CHI:	nonnon@c .
+*CAR:	xxx .
+*CHI:	pcf [% "aya"] .
+*CAR:	oye tu [= indicant el cotxe amb el dit com si fos un interlocutor]
+	.
+*CHI:	nonnon@c cotxe nonnon@c [= li cau a terra el cotxe] .
+*CAR:	hace nonnon@c .
+*CAR:	ya lo ves ya [= s' ajup a recollir'lo] .
+*CHI:	antonio [% "tonio" , mirant el llibre de contes primer] ?
+*CAR:	el antonio [= acostant el llibre al nen] .
+*CHI:	xxx antonio [% "oco tonio"] .
+*CAR:	que ?
+*CHI:	xxx antonio [% "oco tonio"] ?
+*CAR:	que ?
+*CHI:	0 .
+%com:	li cau el llibre
+*CAR:	se ha caido .
+@Comment:	j s' enfila a la falda de c , seguda en una butaca al costat d' una finestra que dona al carrer , ambdos miren per la finestra , j esta d' esquena a la camera
+*CAR:	oye , oye !
+*CHI:	el rum@c rum@c [= mira a la finestra] .
+*CAR:	el rum@c rum@c si .
+*CAR:	que hace el rum@c rum@c ?
+*CHI:	coche [= mirant per la finestra] .
+*CAR:	un cotxe .
+*CHI:	coche .
+*CAR:	y los ninyos que salen del cole@c .
+*CAR:	y que mas ?
+@Comment:	se sent un soroll
+*CAR:	un camion .
+*CAR:	y esto que es ?
+*CHI:	un avion [% "un amion"] .
+*CAR:	un avion no .
+*CAR:	una moto .
+*CAR:	donde esta el avion ?
+*CAR:	no esta .
+*CAR:	el avion va por alla arriba .
+*CHI:	avion [% "amion"] ?
+*CAR:	no .
+*CHI:	avion [% "amion"] .
+*CAR:	coche .
+*CHI:	xxx .
+*CAR:	que ?
+*CHI:	xxx .
+*CAR:	coche .
+*CAR:	la ninya ?
+*CAR:	anda , mira que moto !
+%com:	se sent el soroll d' una moto
+*CAR:	xxx con la maleta
+	[= es refereix al cotxe que te recolzat a la finestra] .
+*CHI:	nonnon@c .
+*CAR:	nonnon@c .
+*CHI:	coche nonnon@c [= referint'se al cotxe de la finestra] .
+*CAR:	si .
+*CHI:	0 .
+%act:	seu a la falda de c , ja no mira per la finestra
+*CHI:	xxx vine el nene [% "yene e nene" , mirant a c] .
+*CAR:	ya viene .
+*CHI:	ya viene 0el coche [% "ya nene coche"] .
+*CAR:	no .
+*CHI:	0 .
+%act:	es gira d' esquena a c i mira a e
+*CAR:	nos vamos de paseo ?
+*CHI:	no [= se la mira] .
+*CAR:	nos vamos de paseo a la calle ?
+*CHI:	pcf [% "pa" , es fica dret als genoll de c i mira per la finestra]
+	.
+*CAR:	pcf [% "&-um"] !
+*CHI:	coche ?
+*CAR:	coche .
+*CAR:	nos vamos con la maite y con la cloe ?
+*CHI:	0 [= mira per la finestra] .
+*CAR:	llama a la maite [= fa seure j que se la mira] .
+*CAR:	va llamala .
+*CHI:	maite [% "mate"] .
+*CAR:	con la cloe salimos a la calle ?
+*CHI:	eh !
+*CAR:	eh !
+*CHI:	0 .
+%act:	toca les flors del jersei de c
+*CAR:	que te gusta ?
+*CHI:	esta esta [% "eta eta" , va tocant les flors amb la ma] .
+*CAR:	son de la tata@c .
+*CAR:	flor .
+*CHI:	zapato [% "papo"] .
+*CAR:	zapato si .
+*CHI:	0 .
+%act:	tot i segut toca la cinta de la persiana
+*CAR:	pcf [% "&-um"] !
+*CAR:	que te va a dar la tata@c ?
+*CHI:	eh ?
+*CAR:	que ?
+*CHI:	pupa@c tata@c ?
+*CAR:	uy [= li fa un peto a j] !
+*CAR:	donde tiene la pupa@c la tata@c ?
+*CAR:	aqui [= li ensenya la ma] .
+*CAR:	dale un besito va [= acosta la ma a la boca de j] .
+*CHI:	0 [= li fa un peto a la ma] .
+*CAR:	ah [= li fa un peto a la galta] .
+*CHI:	ay [= toca les flors del jersei de c] !
+*CAR:	que ?
+*CHI:	ay la tata@c !
+*CAR:	pero no lo rompas .
+*CHI:	0 .
+%act:	continua tocant
+*CAR:	lo vas a romper .
+*CHI:	0 .
+%act:	continua tocant
+*CAR:	lo rompes .
+*CAR:	me haces pupa@c .
+*CHI:	pupa@c ?
+*CAR:	si .
+*CHI:	pam@c pam@c
+	[= amb l' index li dona copets a les flors del jersei arran del pit]
+	.
+*CAR:	ay ay !
+*CHI:	pam@c pam@c .
+*CAR:	te doy pam@c pam@c [= fa el gest de donar cops amb la ma] .
+*CHI:	pam@c coche [= fa el gest amb la ma de llencar un objecte] .
+*CAR:	coche [= li ensenya el cotxe petit que ella te a la ma] .
+*CAR:	aqui esta el coche .
+*CHI:	ah [= l' agafa] !
+*CHI:	mira el coche [= el manipula] .
+*CAR:	eh , la puerta [= indica el cotxe] .
+*CAR:	que es ?
+*CHI:	eh [= manipulant el cotxe] !
+*CAR:	que es esto ?
+*CAR:	que es ?
+*CHI:	porta [% "poka"] .
+*CAR:	eh ?
+*CAR:	la puerta [= toca la porta] .
+*CHI:	ah [= manipulant] !
+*CAR:	mas .
+*CHI:	xxx .
+*CAR:	xxx .
+*CHI:	xxx xxx oscar [% "moc moc oca"] .
+*CAR:	que [= li agafa el cotxe] ?
+*CHI:	oscar oscar
+	[= s' aixeca i mira per la finestra , dret a la falda de c] .
+*CAR:	el oscar ?
+*CAR:	llamalo .
+*CHI:	oscar [% "oca"] .
+*CAR:	vamos al cole@c .
+*CHI:	oscar [% "oca"] .
+*CAR:	di .
+*CHI:	oscar [% "oca" , cridant i mirant per la finestra] .
+*CAR:	al cole@c .
+*CHI:	oscar [% "oca"] .
+*CAR:	pcf [% "&-um"] !
+*CHI:	oscar [% "oca"] ?
+*CAR:	oscar .
+*CHI:	oscar no no [% "oca no no"] .
+*CAR:	no que ?
+*CHI:	no oscar [% "no oca"] .
+*CAR:	no , no esta el oscar .
+*CHI:	es mio 0el oscar [% "e mio oca"] .
+*CAR:	es mio el oscar .
+*CAR:	es mio [= agafa j a coll] .
+*CHI:	oscar [% "oca"] .
+*CAR:	el oscar es mio .
+*CHI:	0 .
+%act:	li dona un copet amb la ma a la cara
+*CAR:	ay !
+*CHI:	0 .
+%act:	li va donant copets
+*CAR:	me has hecho pupa@c .
+*CHI:	0 .
+%act:	donant copets
+*CAR:	0 .
+%act:	el tira enrera i li fa un peto
+*CHI:	pelo [% "peo" , s' incorpora mentre mira el cabell de c] .
+*CAR:	que ?
+*CHI:	pelo [% "peo" , li agafa un cabell] .
+*CAR:	es el pelo de la tata@c .
+*CHI:	0 .
+%act:	li va tocant el cabell
+*CAR:	es el pelo pero no me tires de los pelos guapo .
+*CHI:	oh , esto esto [= deixa el cabell i posa la ma sobre el jersei] !
+*CAR:	la bolita .
+*CHI:	oh oh !
+*CAR:	oy , como la maite !
+*CHI:	oy !
+*CAR:	oy oy !
+*CHI:	0 .
+%act:	enretira la cortina amb la ma i mira cap a fora
+*CHI:	ah ah [= mira enlaire] !
+*CHI:	pcf [% "bum"] !
+*CAR:	pcf [% "bum bum"] !
+*CAR:	un avion que ha pasado ahora .
+*CHI:	avion [% "mion"] .
+*CAR:	dile adios , adios [= mira j] .
+*CHI:	susto [% "tuto" , mira el cel] .
+*CAR:	un susto ?
+*CAR:	te ha dado un susto el avion ?
+*CAR:	vaya vaya .
+*CAR:	dale un susto tu [= el sacseja un xic] .
+*CHI:	tu .
+*CAR:	avion xxx [% "avion su"] .
+*CHI:	coche .
+*CAR:	uy , que susto le has dado al coche !
+*CHI:	susto nyam@c nyam@c [% "tuto nyam nyam" , mira per la finestra] .
+*CAR:	susto .
+*CAR:	quieres nyam@c nyam@c ?
+*CHI:	0 [= no reacciona] .
+*CAR:	quieres nyam@c nyam@c ?
+*CHI:	xxx .
+*CAR:	si o no ?
+*CHI:	galleta galleta [% "yeta yeta"] .
+*CAR:	galletas quieres ?
+*CHI:	galleta [% "yeta"] .
+*CAR:	galletas con que ?
+*CHI:	xxx galleta [% "xxx yeta"] .
+*CAR:	con leche o sin leche [= mirant a j] ?
+*CHI:	con que [% "cun que"] .
+*CAR:	con gruyere ?
+*CHI:	agua ?
+@Comment:	c mira per la finestra , j s' incorpora a la falda de c i mira per la finestra
+*CHI:	susto [% "tuto" , mira per la finestra] .
+*CAR:	oy , que susto !
+*CHI:	oh !
+*CAR:	uy !
+*CHI:	coche !
+*CAR:	eh !
+*CHI:	uy !
+*CAR:	uy !
+*CHI:	avion [% "mion"] .
+*CAR:	alla esta arriba [= mira enlaire] .
+*CHI:	susto [% "tuto"] .
+*CAR:	susto .
+*CHI:	xxx .
+*CHI:	susto [% "tuto"] .
+*CAR:	susto para ti !
+*CAR:	oye tu [= aparta a j del coll , el mira i se'l seu a la falda] .
+*CHI:	xxx moto [= s' incorpora novament i mira per la finestra] .
+*CAR:	moto ?
+*CAR:	donde esta la moto ?
+*CHI:	moto .
+*CAR:	xxx el pepe , la moto del pepe .
+*CAR:	adios !
+*CHI:	bus@c [% "bu"] .
+*CAR:	si un bus@c .
+*CAR:	eh [= acosta els llavis a la cara de j] !
+*CHI:	mes [% "ma"] .
+*CAR:	mas que ?
+*CHI:	bus@c [% "bu"] .
+*CAR:	ya no hay mas bus@c .
+*CAR:	al suelo [= fa el gest de posar'lo a terra] ?
+*CHI:	0 [= protesta i es queda a coll] .
+*CHI:	avion [% "mion" , mirant per la finestra] .
+*CHI:	uy !
+*CAR:	un avion ?
+*CAR:	que no hay aviones .
+*CHI:	uy uy [= mirant per la finestra] !
+*CAR:	uy [= mirant per la finestra] !
+*CAR:	uy , que se cae , se cae .
+*CHI:	0 .
+%com:	va relliscant al coll de c
+*CHI:	xxx pam@c coche [% "up pam coche" , s' incorpora i es fica dret] !
+*CAR:	el bus .
+*CHI:	coche [= mirant per la finestra] .
+*CAR:	uy !
+*CHI:	mas avion [% "mas mion"] ?
+*CHI:	uy , el coche !
+*CAR:	0 .
+%act:	deixa a j a terra
+*CAR:	vamos a hacer nyam@c nyam@c [= asseguda a la butaca] .
+*CHI:	no [= dret davant c] .
+*CAR:	por que ?
+*CHI:	la galleta [% "a yeta" , assenyala amb el dit cap a la porta] ?
+*CAR:	galleta ?
+*CHI:	xxx [= dret davant c] .
+*CAR:	una galleta ?
+*CHI:	galleta [% "yeta" , agafa a c de la ma] ?
+*CAR:	eh ?
+*CHI:	tata@c tata@c pupa@c [= estira c de la ma] ?
+*CAR:	tata@c tata@c pupa@c que ?
+@Comment:	c s' aixeca de la cadira , j la segueix i se'n van cap a la cuina , a la cuina , j beu aigua en un got , tus i mira la camera
+*CHI:	0 .
+%act:	se'n va cap a la porta de la cuina
+*CAR:	a donde vas ?
+*CHI:	0 .
+%act:	es gira i torna al costat de c , al davant de la pica
+*CHI:	mas agua [% "ma agua" , amb el got a la ma] .
+*CAR:	mas agua ?
+*CAR:	no , ahora la galleta , vale [= li dona una galeta] ?
+*CHI:	agua agua [% "abua abua" , li dona un cop amb la ma i l' enretira]
+	.
+*CAR:	0 .
+%act:	omple el got d' aigua i li dona
+*CHI:	gracias [% "atia" , agafa amb les dues mans el got que li ofereix]
+	.
+*CHI:	0 .
+%act:	beu , despres agafa el got amb la ma esquerra
+*CAR:	cogelo con las dos manos .
+*CAR:	asi [= agafa la ma dreta de j i la fica al voltant del got] .
+*CHI:	0 .
+%act:	agafa el got unicament amb la ma dreta
+*CAR:	como se te caiga ya veras .
+*CHI:	0 [= va bevent] .
+*CAR:	damelo [= la ma dreta oberta cap a j] .
+*CHI:	0 .
+%act:	li dona
+*CAR:	venga xxx .
+%act:	agafa el got i li ofereix una galeta
+*CHI:	no .
+*CAR:	que es lo que quieres ?
+*CHI:	no .
+*CAR:	que quieres ?
+@Comment:	j amb els bracos plegats gira i se'n va cap a la porta de la cuina , c segueix a j amb la galeta a la ma
+*CHI:	0 .
+%act:	passa per davant l' armari , l' obre i agafa una altra galeta
+*CAR:	esto es lo que a ti te gusta , verdad ?
+*CHI:	xxx .
+*CAR:	las galletas te gustan , verdad ?
+*CAR:	si ya .
+*CAR:	ya se lo que te gusta .
+@Comment:	pel passadis tornen cap a la cambra de j , escena de joc amb un cotxe , j passa amb el cotxe per sota les cames de c , repetidament
+*CHI:	mas [% "ma" , passa amb el cotxe] .
+*CAR:	mas .
+*CHI:	mas [% "ma" , torna a passar] .
+*CAR:	pcf [% "pi pi" , quan el nen passa amb el cotxe] .
+*CHI:	mas [% "ma" , acaba de passar] .
+*CAR:	mas no .
+@Comment:	j mira l' endoll i apaga el llum , c l' encen , despres c agafa j per sota els bracos i l' enfila
+*CAR:	que se cae , que se cae
+	[= el deixa relliscar i els peus li toquen a terra] .
+*CAR:	un salto , eh [= l' aixeca mes per sota els bracos] !
+*CAR:	un salto , upa [= l' aixeca] !
+*CHI:	mas [% "ma" , a terra] .
+*CAR:	mas que ?
+*CHI:	otro [% "oto"] .
+*CAR:	otro que ?
+*CHI:	0 [= mira una altra vegada l' endoll] .
+*CAR:	la luz no se toca [= tapa l' endoll amb el seu cos] .
+@Comment:	j insisteix pero com que no pot tocar l' endoll perque c no li deixa torna a enfilarse al cotxe
+*CHI:	0 .
+%act:	dona cops amb el cotxe contra la paret
+*CAR:	ay , manyana manyana tu veras [= amb la ma fa el gest de pegar] .
+*CHI:	0 [= se la mira i para] .
+*CAR:	manyana .
+*CAR:	di manyana manyana .
+*CHI:	0 .
+%act:	gira amb el cotxe i es fica d' esquena a c
+@Comment:	c i j juguen amb el cotxe
+*CAR:	adios adios !
+%act:	se'n va
+*CAR:	me voy !
+*CHI:	tata@c .
+%act:	s' acosta a c
+*CAR:	que ?
+*CHI:	0 [= quiet a prop c i d' esquena a c] .
+*CAR:	te vienes conmigo ?
+*CHI:	0 [= se la mira estirant el cap enrera] .
+*CAR:	a la calle ?
+*CAR:	a donde te vienes ?
+%act:	fa pessigolles al coll de j
+@Comment:	una altra vegada a la cambra de j , j s' enfila al cotxe , c seu a la butaca on era seguda en iniciar la sessio
+*CHI:	mas [% "ma" , enfilat al cotxe] .
+*CAR:	mas que ?
+%act:	recull joguines del terra
+*CHI:	xxx [= s' aixeca del cotxet] .
+*CAR:	dame la moto .
+*CAR:	dame la moto .
+*CAR:	dame la moto .
+*CHI:	xxx peota [% "xxx pelota" , mirant la pilota] .
+*CAR:	venga xxx coge la pelota .
+*CHI:	mas mas [% "ma ma"] .
+%act:	agafa una raqueta de terra
+*CHI:	0 .
+%act:	dona un cop de peu al cotxe i l' enretira
+*CHI:	mas xxx ten [% "ma xxx ten" , te una raqueta a la ma i es gira a c]
+	.
+*CAR:	ten que [= amb una altra raqueta a la ma] ?
+*CHI:	0 .
+%act:	amb la raqueta dona un cop a la raqueta que c te a la ma
+*CAR:	cuidado !
+*CAR:	venga .
+%act:	amb la raqueta dona un cop a la pilota de goma que es a terra
+@Comment:	j va darrera la pilota amb la raqueta , c s' aixeca i ambdos juguen a donar cops a la pilota amb sengles raquetes
+*CAR:	corre corre .
+*CHI:	0 .
+%act:	corre darrera la pilota
+*CHI:	pcf [% "poing" , dona un cop a la pilota] .
+*CAR:	uy , que no le das !
+*CAR:	cuidado .
+*CHI:	0 .
+%act:	va a cercar la pilota
+*CAR:	venga .
+*CHI:	0 .
+%act:	agafa la raqueta i l' apuntala a la panxa com si fos una guitarra
+*CAR:	anda el guitarrista .
+*CHI:	0 .
+%act:	passa la ma per les cordes de la raqueta
+*CAR:	ole , que bien toca !
+*CHI:	antonio [% "tonio"] .
+*CAR:	el antonio toca la guitarra si .
+*CHI:	tata@c tata@c [= li ofereix la guitarra] .
+*CAR:	tata@c no , tu .
+*CHI:	0 .
+%act:	fica la raqueta a terra
+*CAR:	pcf [% "poing" , dona un cop a la pilota amb la raqueta] .
+*CAR:	no me la quitas .
+*CAR:	no me la quitas [= no deixa tocar la pilota a j] .
+*CHI:	0 [= riu i xiscla] .
+%com:	aft cau a terra
+*CAR:	ole , arriba jugador [= l' ajuda a aixecar'se] !
+*CAR:	ay !
+*CHI:	pupa@c tata@c [= s' aixeca] .
+*CAR:	que te has hecho pupa@c ?
+*CHI:	pupa@c .
+*CAR:	no .
+@Comment:	c i j tornen a jugar amb la raqueta
+*CHI:	0 .
+%act:	dona un cop amb la raqueta al cotxe
+*CAR:	cuidado .
+*CHI:	xxx .
+*CAR:	ahora tu .
+*CAR:	que hago ?
+@Comment:	c i j continuen jugant
+*CAR:	es mia , es mia .
+%act:	dona un cop a la pilota
+*CHI:	mia .
+@Comment:	j i c continuen jugant
+*CHI:	0 [= cau] .
+*CAR:	oh , arriba arriba !
+*CHI:	pupa@c .
+*CAR:	no te has hecho pupa@c .
+*CAR:	arriba .
+*CHI:	0 [= s' aixeca] .
+*CAR:	ay ay [= al darrera la pilota] !
+*CHI:	0 [= estossega] .
+*CAR:	que tienes mocos ?
+@Comment:	j i c se'n van a cercar mocadors de paper a la cuina , tornen pel passadis
+*CHI:	0 .
+%act:	arrossega la raqueta pel passadis
+*CAR:	arriba arriba [= li fa aixecar la raqueta] .
+@Comment:	j i c continuen jugant
+*CAR:	preparados .
+*CAR:	listos , ya [= amb la raqueta a la ma] !
+*CHI:	0 .
+%act:	tira la pilota que te a la ma a terra
+*CAR:	bien .
+*CAR:	xxx .
+*CAR:	gol [= tira la pilota] .
+*CAR:	venga va .
+*CHI:	eh [= es queixa] !
+*CAR:	que pasa ?
+*CHI:	ya .
+*CAR:	que ?
+*CHI:	no .
+*CAR:	que no que ?
+*CHI:	no [= es gira i assenyala la porta amb el dit] .
+*CAR:	que no que ?
+*CHI:	no xxx .
+*CAR:	que no , que ?
+*CHI:	no .
+*CAR:	que no , que ?
+*CAR:	donde me pongo ?
+*CHI:	0 [= al costat de c amb la raqueta a la ma] .
+*CAR:	me pongo aqui [= canvia de lloc] ?
+*CHI:	0 .
+%act:	s' ajup , agafa la pilota i la guarda
+*CAR:	va va .
+*CHI:	0 [= no es mou] .
+*CHI:	0 .
+%act:	tira la pilota
+*CAR:	bien .
+*CHI:	0 .
+%act:	es fica la raqueta a la panxa com si fos una guitarra
+*CAR:	ole !
+*CAR:	toca muy bien .
+*CHI:	0 .
+%act:	passa la ma per sobre les cordes de la guitarra
+*CAR:	pcf [% "ring ring ring"] .
+*CHI:	antonio [% "tonio" , assenyala a terra] .
+*CAR:	el antonio si .
+*CAR:	como se hace ?
+*CHI:	tata@c [= assenyalant c] .
+*CAR:	que la tata@c ?
+*CAR:	pcf [% "ring ring" , agafa la raqueta com una guitarra] .
+*CHI:	tata@c .
+*CAR:	si xxx xxx xxx [% "si ring ring ring" , hi torna] .
+*CHI:	0 .
+%act:	passa la ma per les cordes de la raqueta
+*CAR:	si xxx xxx xxx tu [% "si ring ring ring" , mateixa accio d' abans]
+	.
+*CHI:	0 [= imita a c] .
+*CAR:	muy bien .
+*CHI:	0 .
+%act:	amb la raqueta dona cops als mobles
+*CAR:	eso no , eh ?
+*CHI:	0 [= continua] .
+*CAR:	mira que te la quitare .
+*CAR:	ahora me siento [= seu a la butaca habitual] .
+*CHI:	0 .
+%act:	se'n va corrent
+*CHI:	pcf [% "ih ih" , torna i es fica la raqueta a la cara] .
+*CAR:	canta canta lalala@wp .
+@Comment:	j s' allunya de c i s' enfila al cotxe , c surt
+*CHI:	0 .
+%act:	s' aixeca del cotxe
+*CAR:	no me voy .
+*CAR:	no me voy .
+*CHI:	voy voy [= corrent al darrera de c] .
+@Comment:	se senten veus al passadis
+*CAR:	que no me voy .
+*CAR:	que no me voy [= es a la cuina] .
+*CHI:	voy .
+*CAR:	0 .
+%act:	torna pel passadis amb contes a la ma
+*CAR:	me voy .
+*CAR:	vamos a la habitacion , va .
+*CHI:	0 [= al darrera c] .
+*CHI:	me voy ?
+*CAR:	que ?
+*CHI:	tu te vas [= darrera c] ?
+*CAR:	que no me voy , no .
+@Comment:	j i c entren a la cambra de j agafat de la ma
+*CAR:	libritos .
+*CAR:	sientate [= mentre seuen els dos a terra] .
+@Comment:	c i j seguts un al davant de l' altre
+*CHI:	esto [= assenyala un conte amb el dit] .
+*CAR:	este .
+*CHI:	esto esto .
+*CAR:	esto que es ?
+%act:	obre un llibre i assenyala un dibuix
+*CHI:	pcf [% "lo ito"] .
+*CAR:	xxx mas .
+*CAR:	los tres cerditos .
+*CHI:	pcf [% "lo"] .
+*CAR:	cerditos .
+*CHI:	oh [= mirant] !
+*CAR:	oh , y esto que es ?
+*CHI:	pelota pelota [% "peota peota"] .
+*CAR:	la pelota .
+*CAR:	y esto ?
+*CHI:	mas pelota [% "ma peota"] .
+*CAR:	mas pelotas .
+*CAR:	y esto que es ?
+*CHI:	coche mas [% "coche ma"] .
+*CAR:	no .
+*CAR:	ahi no hay ningun coche , mentiroso .
+*CAR:	0 .
+%act:	gira el full
+*CHI:	guau@c guau@c guau@c [= mirant el dibuix] .
+*CAR:	ves y esto ?
+*CHI:	pio@c pio@c .
+*CAR:	muy bien .
+*CAR:	y esto [= gira el full] ?
+*CHI:	agua agua [% "abua abua"] .
+*CAR:	no (.) bueno si es agua .
+*CAR:	ves (.) agua , un pez .
+*CHI:	guau@c guau@c [= s' acosta al llibre i assenyala un altre dibuix] .
+*CAR:	mas guau@c guaus@c .
+*CAR:	0 .
+%act:	va girant fulls
+*CHI:	mas mas [% "ma ma"] .
+*CHI:	colonia [% "conia" , assenyalant el dibuix] .
+*CAR:	eh ?
+*CHI:	colonia [% "conia"] .
+*CAR:	que le gusta de colonia (.) si .
+*CHI:	senyor [% "enyo" , un altre dibuix] .
+*CAR:	un payaso .
+*CHI:	xxx .
+*CAR:	xxx .
+*CAR:	los ositos !
+*CAR:	anda y esto que es [= assenyala un dibuix] ?
+*CHI:	un miau@c [= s' ho mira] .
+*CAR:	0 .
+%act:	gira el full
+*CHI:	mas [% "ma"] .
+*CAR:	mas [% "ma"] .
+*CHI:	antonio [% "tonio"] ?
+*CAR:	este no es el antonio .
+*CAR:	uy y esto [= gira el full] ?
+*CHI:	uy !
+*CAR:	esta es la mama (.) de los gatitos , eh ?
+*CHI:	oh [= s' ho mira] !
+*CAR:	si .
+*CAR:	y estos son los hermanitos .
+*CHI:	0 .
+%act:	s' incorpora i agafa un altre conte dels que c ha portat abans
+*CAR:	ah !
+*CAR:	te gusta mas este ?
+*CHI:	mas mas coche [% "ma ma coche"] .
+*CAR:	los coches si .
+*CAR:	ya se que a ti te gustan .
+*CHI:	oh , coche [= sembla satisfet] !
+*CAR:	mira como lo tienen al pobre teo [= obre el llibre] .
+*CAR:	esto que es [= assenyalant] ?
+*CHI:	coche .
+*CAR:	y esto ?
+*CHI:	xxx .
+*CAR:	que ?
+*CHI:	mas coche [% "ma coche" , dibuix representant una ciutat] .
+*CAR:	mas coches .
+*CAR:	y aqui ?
+*CHI:	coche .
+*CAR:	anda .
+*CHI:	coche .
+*CAR:	y esto [= dibuix moto] ?
+*CHI:	oh , pupa@c !
+*CAR:	donde tienes pupa@c ?
+*CHI:	pupa@c .
+*CAR:	a ver .
+%act:	l' estira , l' aixeca i se'l fica al seu davant
+*CHI:	tengo pupa@c [% "o pupa"] .
+*CAR:	donde [= aixecant'li el jersei] ?
+*CHI:	no , no , pupa@c no .
+*CAR:	que no ?
+*CHI:	no xxx sento xxx [% "no xxx sento tata" , seu] .
+*CAR:	si acabo de quitartelo .
+*CHI:	no .
+*CAR:	no tienes no .
+*CHI:	xxx .
+*CAR:	que ?
+*CHI:	y esto mas
+	[% "y eto mas" , ajupit , mirant els contes , sembla que rondini] .
+*CAR:	si .
+*CAR:	mira , mira la moto .
+*CHI:	0 [= seu] .
+*CAR:	los ninyos .
+*CAR:	los papas .
+*CHI:	pupa@c [= agenollat , mirant el conte] .
+*CAR:	que ?
+*CHI:	upa !
+*CAR:	caca ?
+*CHI:	0 [= silenci] .
+*CAR:	anda .
+*CAR:	estan montando el circo .
+*CHI:	anda .
+*CAR:	anda .
+*CHI:	anda .
+*CHI:	mas coche [% "ma coche"] .
+*CAR:	mas coches no .
+*CAR:	este que hace ?
+*CHI:	pcf [% "co"] .
+*CAR:	eh , es un leon [= la ma oberta , gest d' esgarrapar] .
+*CHI:	0 [= callat] .
+*CAR:	leon .
+*CAR:	dilo tu .
+*CHI:	leon [% "eon"] .
+*CAR:	leon .
+*CAR:	ya esta .
+*CAR:	y este es el domador con el xxx xxx pequenyito
+	[% "y este es el domaodr con el nyao nyao pequenyito"] .
+*CAR:	un leon pequenyito .
+*CHI:	oh !
+*CAR:	oh , el nene !
+*CHI:	xxx mas nene [% "xxx ma nene"] ?
+*CAR:	mas nenes ?
+*CHI:	caca [= s' acosta a c] .
+*CAR:	tienes caca [= gira el full] ?
+*CAR:	venga .
+*CHI:	ninyo mas [% "ninyo ma"] .
+*CAR:	mas ninyos si .
+*CAR:	aqui estan los ninyos , si .
+*CAR:	y aqui esta mi [/?] (.) mi casa [= mirant el llibre] .
+*CHI:	mas ninyo [% "ma ninyo"] .
+*CAR:	mas ninyos .
+*CHI:	mas ninyo [% "ma ninyo"] .
+*CAR:	si .
+*CHI:	0 .
+%act:	gira el full
+*CAR:	y esto que es ?
+*CHI:	un guau@c guau@c mas [% "un guau guau ma"] .
+*CAR:	un guau@c guau@c no que esto es un leon .
+*CHI:	coche [= gira el full , veu de satisfaccio] .
+*CAR:	anda .
+*CHI:	mas coche [% "ma coche"] .
+*CAR:	mas coches .
+@Comment:	se sent la porta del carrer
+*CHI:	papa ?
+*PAR:	hola .
+*CAR:	papa .
+*CAR:	si es el papa .
+*CHI:	papa [= s' aixeca] .
+*CAR:	dile hola papa !
+*CHI:	hola papa !
+@Comment:	apareix el pare , inicial p , j li agafa les mans , dret davant d' ell
+*PAR:	hola !
+*CHI:	papa .
+*PAR:	que passa ?
+*PAR:	que hay ?
+*CHI:	papa [= sembla que es queixi] .
+*PAR:	que vols ?
+*PAR:	vine .
+*CHI:	el papa [% "a papa"] .
+*PAR:	esta caliente no [= es dirigeix a c , despres de tocar la ma de j]
+	.
+*CHI:	el papa [% "a papa"] .
+@Comment:	a la cambra de j , p te a j a coll , ambdos davant l' armari ple de joguines , especialment cotxes
+*PAR:	que has anat al cole@c ?
+*PAR:	digues , si o no ?
+*CHI:	xxx esto [= cotxe a la ma] .
+*PAR:	esto esta trencat .
+*PAR:	mira aqui [= assenyala a terra] .
+*CHI:	esto [= mira a terra] .
+*PAR:	fem una prova [= deixa a j a terra] .
+*CHI:	el coche mas [% "el coche ma"] .
+*PAR:	espera't ara [= agafa una peca de terra] .
+*CHI:	papa [= li dona una cisterna d' un camio] .
+*PAR:	esta trencat , eh ?
+*CHI:	otro [% "oto"] .
+*PAR:	otro si .
+*PAR:	te [= encaixa la cisterna dintre del camio] .
+*CHI:	coche mas [% "coche ma" , assenyala cotxes a l'armari] .
+*PAR:	te [= li dona] .
+*CHI:	coche papa .
+*PAR:	te [= un cotxe vermell] .
+*CHI:	no [= no l' agafa , amb el dit assenyala la porta de la cambra] .
+*PAR:	aquest .
+*CHI:	este .
+*PAR:	quin ?
+*CHI:	este este [= d' esquena a p] .
+*PAR:	quin vols de cotxe ?
+*CHI:	zapato te [= li dona una sabata] .
+*CHI:	coche papa [= assenyala els cotxes] .
+*PAR:	si .
+*CHI:	coche papa .
+@Comment:	j i p seguts a terra miren la camera
+*PAR:	que fa ?
+*PAR:	fa cine [= mirant la camera] ?
+*CHI:	0 [= somriu i mira la camera] .
+*PAR:	que fa cine , eh ?
+*PAR:	que fa ?
+*CHI:	eh [= mou un cotxe que te a la ma] !
+*PAR:	mec@o mec@o mec@o [= botzina cotxe] .
+*CHI:	nonnon@c .
+*PAR:	que fa nonnon@c el cotxe [% diu "nonm" en comptes de non-non] .
+*CHI:	nonnon@c
+	[% diu "nonm" en comptes de nonnon@c , dirigeix el cotxe cap un prestatge ple de cotxes]
+	.
+*PAR:	apa , tots els cotxes a fer nonnon@c
+	[% diu "nonm" en comptes de nonnon@c] !
+*CHI:	0 .
+%act:	deixa el cotxe al prestatge
+*PAR:	te [= li dona un altre cotxe] .
+*CHI:	coche , coche [= assegut davant p , te un cotxe a la ma] .
+*PAR:	dona'm el cotxe gran [% diu "dem" en comptes de dona'm] .
+*CHI:	te [= li dona] .
+*PAR:	el cotxe , mira te aquest .
+*PAR:	posa'l a fer nonnon@c [= fa lliscar un cotxe cap on es j] .
+*CHI:	nonnon@c .
+*CHI:	coche [= arranja cotxes d' esquena a p] .
+@Comment:	p segut davant j , j comenca a donar cops a un cotxe
+*PAR:	no el trenquis .
+*PAR:	no el trenquis .
+*PAR:	deixa el cotxe .
+*PAR:	deixa el cotxe .
+*PAR:	eh [= li agafa el cap amb les dues mans] !
+*CHI:	0 .
+%act:	tira el cotxe
+*PAR:	ja l' has trencat [= agafa el cotxe] .
+*CHI:	cotxe .
+*PAR:	aixi els trenques , eh !
+*PAR:	al cotxe no se li fa pupa@c [= amb el cotxe a la ma] .
+*PAR:	fes'li guapo al cotxe [= li dona] .
+*PAR:	guapo , no li facis pupa@c .
+*PAR:	fes'li guapo .
+*CHI:	xxx .
+*PAR:	guapo .
+*CHI:	cotxe [= amb el cotxe a la ma] .
+*PAR:	0 [= observa les manipulacions de j amb el cotxes] .
+*CHI:	0 .
+%act:	llenca el cotxe
+*PAR:	no el llencis mes [= recull el cotxe] .
+*PAR:	nonnon@c .
+*CHI:	0 .
+%act:	agafa el telefon de joguina
+*CHI:	0 [= sembla que marqui un numero] .
+*PAR:	esta el josep ?
+*PAR:	esta el josep [= auricular a la ma] ?
+*PAR:	te [/] te el telefono .
+*PAR:	crida a la mama [= li dona a j] .
+*CHI:	mama no [= auricular a la ma i despres penja] .
+*PAR:	si que hi es la mama [= torna a ficar l'auricular a l' orella a j]
+	.
+*PAR:	digues'li algo [% "diga'li algo"] .
+*CHI:	mama [= llenca el telefon] .
+*PAR:	si que esta josep .
+*PAR:	ara s' hi posa [= amb l' auricular a l' orella] .
+*PAR:	la mama [= fica l' auricular a l' orella de j] .
+*CHI:	mama mama [= aparta l' auricular] .
+*PAR:	digues hola [= auricular a l' orella de j] .
+*CHI:	mama (.) papa [= gest de rebuig] .
+*CHI:	0 .
+%act:	llenca un coche a terra
+*PAR:	toma .
+*PAR:	coco@c .
+*CHI:	coco@c .
+*PAR:	li has fet un coco@c , pobre .
+*PAR:	pobre cotxe .
+*CHI:	nonnon@c cotxes [= es gira i mira els cotxes arranjats] .
+*CHI:	nonnon@c .
+*PAR:	xxx , ves a fer nonnons@c [= tira un cotxe cap a un prestatge] .
+*CHI:	pcf [% "ia"] .
+*PAR:	va , posa'li a fer nonnons@c .
+*CHI:	0 .
+%act:	posa els cotxes al prestatge
+*PAR:	te [= dona un cotxe a j] .
+*CHI:	0 .
+%act:	agafa el cotxe i el posa al prestatge
+*PAR:	nonnon@c xxx .
+*PAR:	i tu , vas a fer nonnons@c ?
+*PAR:	i tu , que faras nonnons@c ?
+*PAR:	eh [>] ?
+*CHI:	<nonnon@c> [<] [% "non" , jugant amb els cotxes] .
+*PAR:	tu , vas a fer nonnons@c ?
+*CHI:	0 [= li cau quelcom] .
+*CHI:	pcf [% "ati"] .
+*CHI:	nonnon@c nonnon@c [= toca un cotxe] .
+*PAR:	el tinc aqui .
+*CHI:	un coche .
+*CHI:	te [= estira el brac cap a un cotxe] .
+*PAR:	te [= acosta el cotxe a j] .
+*CHI:	0 .
+%act:	juga amb els cotxes
+@End

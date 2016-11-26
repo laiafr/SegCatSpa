@@ -1,0 +1,695 @@
+@UTF8
+@PID:	11312/c-00032015-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Emilio Target_Child , INE Inés Mother , NAC Nacho Observer
+@ID:	spa|Vila|CHI|1;11.12||||Target_Child|||
+@ID:	spa|Vila|INE|||||Mother|||
+@ID:	spa|Vila|NAC|||||Observer|||
+@Comment:	EMI le da una botella de colonia a INE
+*CHI:	mama .
+*INE:	qué ?
+%com:	EMI huele
+*INE:	eh no !
+*INE:	tú se lo das que lo huela .
+*INE:	dáselo .
+*CHI:	mama .
+*INE:	toma .
+*INE:	quiere que lo huelas .
+%com:	INE da la colonia a NAC
+*NAC:	oh , qué bien huele Emilio !
+*CHI:	sí . [+ sn]
+*INE:	quieres que miremos el cuento ?
+*CHI:	sí . [+ sn]
+*INE:	lo voy a buscar ?
+*CHI:	sí . [+ sn]
+*CHI:	mama .
+%com:	EMI sale corriendo a buscar a mamá , INE y EMI entran con el cuento
+*INE:	vamos a mirarlo .
+*CHI:	sí mira . [+ o]
+*INE:	buscas el caracol ?
+*CHI:	caracol . [+ imit]
+*CHI:	se ha acaba(d)o . [+ rut]
+*INE:	no se ha acabado .
+*INE:	quieres que busquemos el caracol ?
+*CHI:	caracol . [+ imit]
+*INE:	esto qué es ?
+*CHI:	caracol . [+ rep]
+*INE:	no , esto no es un caracol .
+*INE:	esto qué es ?
+*CHI:	caracol . [+ rep]
+*INE:	no , ven conmigo ven .
+%com:	EMI se va a otro sillón
+*INE:	allí me siento , allí .
+*INE:	0 .
+%act:	silba .
+%com:	EMI le enseña el caracol
+*CHI:	caracol .
+*INE:	caracol .
+*INE:	y esto ?
+*CHI:	ten [% vol que li donin , hauria de ser 'dámelo' -Bet-] . [+ o]
+*INE:	que quieres que te lo dé ?
+*CHI:	ten . [+ rep]
+*INE:	tienes que decir dámelo .
+*CHI:	ten . [+ rep]
+*INE:	dí dámelo .
+*INE:	da^me .
+%com:	INE se lo da
+*INE:	ésto qué es ?
+*CHI:	a bañar . [+ o]
+*INE:	se están bañando .
+*INE:	quién ?
+*INE:	éste quién es ?
+*CHI:	cecilia .
+*INE:	cecilia .
+*INE:	y éste ?
+*CHI:	cecilia . [+ rep]
+*INE:	no .
+*INE:	ésta no es Cecilia .
+*INE:	quién es éste ?
+*CHI:	mira . [+ o]
+*INE:	es un niño .
+*CHI:	niño . [+ imit]
+*INE:	y éste ?
+*CHI:	cecilia .
+*INE:	y ésto ?
+*INE:	y este niño qué hace ?
+*CHI:	a nonon@c [% dormir] .
+*INE:	mira .
+*INE:	ésto qué són ?
+*CHI:	zapatos .
+*INE:	oh .
+%com:	INE quiere pasar páginas
+*CHI:	no . [+ sn]
+*INE:	no ?
+*CHI:	y zapatos ?
+*INE:	dónde están los zapatos ?
+*INE:	a_ver , enséñamelos .
+*CHI:	caracol .
+%com:	EMI pasa página y aparece el caracol
+*INE:	qué hace el caracol ?
+*CHI:	a bañar . [+ o]
+*INE:	no , el caracol no se baña .
+*CHI:	0 .
+%act:	tose .
+*INE:	qué tos !
+*CHI:	a bañar . [+ rep]
+*INE:	dónde están los zapatos ?
+*CHI:	zapatos . [+ imit]
+*INE:	aquí .
+*INE:	y ésto que són ?
+*CHI:	zapatos . [+ rep]
+*INE:	sí . [+ sn]
+*CHI:	zapato .
+*INE:	mira la cama .
+*CHI:	&+ah , toma ! [+ o]
+%com:	EMI pega un golpe a la cama
+*INE:	y ésto ?
+*INE:	qué es ésto ?
+*INE:	sí señor muy bien .
+*CHI:	y tita ?
+*INE:	mira .
+*CHI:	josé .
+*INE:	éste es José ?
+*INE:	y éste quién es ?
+*CHI:	niña .
+*INE:	un niño es un niño .
+*CHI:	niño . [+ imit]
+*INE:	niño sí .
+*INE:	mira .
+*INE:	y ésto qué es ?
+*INE:	ésto de aquí ?
+*CHI:	café .
+*INE:	café con leche .
+*CHI:	café . [+ rep]
+*INE:	eh ?
+*CHI:	no . [+ sn]
+*INE:	y ésto qué són ?
+*CHI:	aviones .
+*INE:	aviones ?
+*INE:	no , són plantas .
+*CHI:	plantas . [+ imit]
+%com:	INE pasa de página
+*INE:	plantas a_ver .
+*CHI:	mariquita .
+*INE:	mariquita sí .
+*CHI:	mariquita . [+ rep]
+*INE:	dónde está la mariquita ?
+*CHI:	mariquita mira . [+ o]
+*INE:	ésto són flores .
+*CHI:	flores . [+ imit]
+%com:	EMI señala una mariquita
+*INE:	y ésto ?
+*CHI:	mira . [+ o]
+*INE:	qué es ésto ?
+*CHI:	mariquita .
+*INE:	mariquita .
+*INE:	qué es ésto ?
+*CHI:	mariquita . [+ rep]
+%com:	EMI señala una mariquita , EMI pasa página , página con letras
+*INE:	qué es ésto ?
+*INE:	letras .
+*CHI:	se ha acabado . [+ o]
+%com:	EMI va a la última página
+*INE:	se ha acabado el libro .
+*CHI:	mira . [+ o]
+*INE:	oh .
+*CHI:	josé .
+*INE:	éste es José .
+*CHI:	no es +... [+ o]
+*CHI:	0 .
+%act:	balbucea .
+*INE:	y éste quién es ?
+*CHI:	perro .
+*INE:	un perro sí .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	perro .
+*NAC:	hay un perro allí .
+*NAC:	ya lo veo ya .
+*CHI:	nacho .
+*NAC:	qué hace el perro ?
+*NAC:	qué ?
+*CHI:	perro . [+ rep]
+*NAC:	y qué hace el perro ?
+*CHI:	mira . [+ o]
+*INE:	qué es ?
+*CHI:	mira mama . [+ o]
+*INE:	huy mira fuego .
+*CHI:	fuego . [+ imit]
+*INE:	fuego .
+*CHI:	a_ver . [+ o]
+%com:	EMI busca el ombligo de INE
+*INE:	qué ?
+*CHI:	ring@c [% ombligo] .
+*INE:	ring+ring@c [% ombligo] .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	perro .
+*NAC:	qué hace el perro ?
+*INE:	guau^guau@o .
+%com:	EMI pasa páginas hasta el final
+*CHI:	se ha acabado . [+ o]
+*INE:	se ha acabado el cuento .
+*CHI:	no . [+ sn]
+*CHI:	se ha acabado . [+ rep]
+*INE:	dónde está el pájaro ?
+*CHI:	nacho .
+*NAC:	qué ?
+*INE:	a_ver aquí .
+%com:	INE vuelve las páginas hacia atrás
+*CHI:	pájaro . [+ imit]
+*INE:	vamos a buscar el pájaro .
+*CHI:	pájaro . [+ rep]
+*INE:	mira dónde está el pájaro ?
+*CHI:	pájaro . [+ rep]
+%com:	EMI pega un manotazo a las páginas y se va a las letras
+*INE:	que aquí no hay nada .
+*CHI:	sí . [+ sn]
+*INE:	mira .
+*CHI:	mira . [+ imit]
+%com:	EMI e INE señalan los peces
+*INE:	qué són ?
+*CHI:	són +... [+ alt]
+*INE:	són peces .
+*CHI:	peces . [+ imit]
+*INE:	són peces .
+*CHI:	peces . [+ rep]
+*INE:	sí .
+*CHI:	peces . [+ rep]
+*INE:	mira uno , dos , tres , cuatro , cinco , seis , siete peces .
+*CHI:	mira xxx xxx . [+ imit]
+%com:	EMI va señalando los distintos peces
+*INE:	qué es ?
+*INE:	es un pez .
+*CHI:	mariquita .
+*CHI:	no está mariquita . [+ o]
+*CHI:	perro .
+*INE:	sí perro .
+*INE:	está durmiendo este perro .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	perro .
+*NAC:	dónde está el perro ?
+*CHI:	perro . [+ rep]
+*NAC:	y qué hace el perro ?
+*CHI:	nacho .
+*INE:	está durmiendo .
+*NAC:	qué ?
+*CHI:	perro .
+*INE:	está durmiendo el perro .
+*CHI:	guau^guau@o .
+*INE:	0 .
+%act:	ríe .
+*INE:	hace guau^guau@o .
+*CHI:	guau^guau@o . [+ rep]
+*INE:	ay qué perro !
+%com:	INE le hace cosquillas
+*CHI:	0 .
+%act:	ríe .
+*INE:	a_ver mira muchas niñas .
+%com:	pasan páginas y EMI señala
+*CHI:	mira . [+ o]
+*INE:	qué es ?
+*CHI:	caca .
+*INE:	cosas .
+*CHI:	casa . [+ imit]
+*INE:	casas .
+*CHI:	mira se ha acabado . [+ o]
+%com:	otra vez las letras
+*INE:	se ha acabado otra vez .
+*CHI:	se ha acabado . [+ rep]
+*INE:	oh .
+*CHI:	se ha acabado . [+ rep]
+*INE:	y ahora qué ?
+*CHI:	mira perro . [+ o]
+*INE:	ahora busca la página del perro .
+*CHI:	perro . [+ rep]
+*INE:	qué hace el perro ?
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	perro .
+*NAC:	qué hace el perro ?
+*CHI:	mira . [+ o]
+%com:	EMI pasa página
+*INE:	oh , qué es ésto ?
+*CHI:	mesa .
+*INE:	sí .
+*INE:	qué hay en la mesa ?
+*INE:	ésto qué es ?
+*CHI:	pan .
+*INE:	ah sí y ésto ?
+*CHI:	mesa . [+ rep]
+%com:	INE señala agua
+*INE:	y ésto qué es ?
+*CHI:	agua .
+*INE:	agua muy bien y ésto ?
+*CHI:	agua mama .
+*INE:	sí , el agua está aquí .
+*CHI:	agua . [+ rep]
+*INE:	que quieres agua ahora ?
+*CHI:	mama .
+*INE:	sí .
+*INE:	ahora te traigo agua .
+*CHI:	mesa .
+*CHI:	mesa mama .
+*INE:	quieres agua ?
+*CHI:	agua . [+ rep]
+*INE:	quieres ?
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	agua .
+*INE:	toma .
+*CHI:	sí . [+ sn]
+*CHI:	0 .
+%act:	bebe agua y tose .
+*INE:	huy qué tos .
+*INE:	qué ?
+*CHI:	no . [+ sn]
+*INE:	ésto qué es ?
+*INE:	montañas .
+*CHI:	montañas . [+ imit]
+*INE:	mon^ta^ñas .
+*CHI:	peces .
+*INE:	no los peces no están aquí .
+*INE:	dónde están los peces ?
+*CHI:	peces . [+ rep]
+*INE:	a_ver si encuentras los peces .
+*CHI:	mira . [+ o]
+%com:	página con gran cantidad de abejas
+*INE:	ésto son abejas .
+*CHI:	abejas . [+ imit]
+*INE:	abejas .
+*INE:	sí .
+*INE:	a^be^ja .
+*CHI:	peces no está . [+ o]
+*INE:	no está .
+*INE:	sí que estan los peces .
+*INE:	vamos a buscarlos .
+*CHI:	peces . [+ rep]
+*INE:	vamos a buscar los peces ?
+*CHI:	sí . [+ sn]
+*INE:	a_ver .
+*CHI:	a bañar . [+ o]
+*INE:	no , no se estan bañando .
+*INE:	0 .
+%act:	ríe .
+*INE:	se estan mojando .
+*CHI:	mojando . [+ imit]
+*INE:	sí porque llueve .
+*CHI:	llueve . [+ imit]
+*INE:	llueve .
+*INE:	a_ver si encuentras los peces .
+*CHI:	mira . [+ o]
+*INE:	oh qué ?
+*CHI:	mira . [+ rep]
+*INE:	qué hacen estos niños ?
+*CHI:	perro .
+*INE:	no aquí no hay ningún perro .
+*CHI:	no mira . [+ o]
+*INE:	qué es ésto ?
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	perro .
+*INE:	no aquí no hay ningún perro .
+*INE:	enséñamelo .
+*CHI:	peces .
+*INE:	no ésto tampoco son peces .
+*INE:	qué son ?
+*CHI:	perro . [+ rep]
+*INE:	no , no son perros .
+*INE:	mira aquí .
+*INE:	qué es ésto ?
+*CHI:	peces .
+%com:	una niña lleva un dibujo de un pez que INE señala
+*INE:	ésto sí que es un pez .
+*CHI:	pez . [+ imit]
+*INE:	ésto son niños que estan jugando .
+*INE:	qué hacen estos niños ?
+*INE:	estan jugando .
+*CHI:	oye mama . [+ o]
+*INE:	qué ?
+*INE:	qué hacen estos niños ?
+*CHI:	mama .
+*INE:	qué ?
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	0 .
+%act:	balbucea .
+*NAC:	qué ?
+*CHI:	mira . [+ o]
+*NAC:	qué es éso ?
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	a bañar . [+ o]
+%com:	EMI en una página con un niño que se baña
+*INE:	sí .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	nacho . [+ rep]
+*NAC:	qué ?
+*CHI:	a bañar . [+ rep]
+*NAC:	se están bañando ?
+*CHI:	a nonon@c [% dormir] .
+%com:	EMI señala un niño durmiendo
+*NAC:	a nonon@c [% dormir] ?
+*NAC:	quién está durmiendo ?
+*INE:	quién duerme aquí ?
+*CHI:	a nonon@c [% dormir] . [+ rep]
+*NAC:	pero quién duerme ?
+*CHI:	a cama .
+*INE:	quién está en la cama ?
+*INE:	quién ?
+*CHI:	mira . [+ o]
+*INE:	quién es éste ?
+*CHI:	quién ?
+*CHI:	a cama sí .
+*INE:	quién está en la cama ?
+*CHI:	zapato .
+*INE:	un niño .
+*INE:	este niño está en la cama .
+*CHI:	zapato . [+ rep]
+%com:	EMI había perdido un zapato , INE tarda en darse cuenta y se lo pone
+*INE:	sí .
+*INE:	los zapatos están aquí .
+*INE:	que se te ha caído un zapato .
+*CHI:	mira . [+ o]
+%com:	EMI se toma el zapato
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	zapato .
+*CHI:	peces xxx xxx .
+*INE:	muchos peces hay .
+*CHI:	peces . [+ rep]
+*INE:	cuántos peces hay ?
+*INE:	uno , dos , tres , cuatro , cinco , seis , siete peces .
+*CHI:	uno , tres . [+ imit]
+*CHI:	uno , tres . [+ rep]
+*CHI:	no está el perro .
+%com:	EMI los va contando
+*INE:	0 .
+%act:	ríe .
+*INE:	no ésto no es un perro .
+*INE:	es un gato .
+*INE:	gato .
+*CHI:	mira . [+ o]
+*CHI:	zapato .
+%com:	el zapato se le cae
+*INE:	otra vez .
+*CHI:	sí . [+ sn]
+*INE:	huy este zapato .
+*CHI:	inés .
+%com:	entra INE
+*INE:	qué quieres ?
+*NAC:	enséñale a inés los cuentos .
+*CHI:	perro .
+*NAC:	sí perro .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	perro . [+ rep]
+*INE:	y qué más ?
+*INE:	qué hace este niño ?
+*CHI:	dos .
+*INE:	dos qué ?
+*CHI:	dos . [+ rep]
+*CHI:	0 .
+%act:	hace dos con los dedos .
+*INE:	ah: .
+*INE:	cuántos años tiene este niño ?
+*CHI:	dos . [+ rep]
+*INE:	tiene dos años .
+*INE:	cuántos años tienes Emilio ?
+*CHI:	dos . [+ rep]
+*INE:	muy bien .
+*INE:	enséñaselo a Nacho .
+*INE:	cuántos años tienes ?
+*CHI:	dos . [+ rep]
+%com:	EMI saca toda la mano
+*INE:	dos así así .
+%com:	INE le pone los dos dedos
+*INE:	así mejor .
+*CHI:	no . [+ sn]
+*INE:	así .
+*INE:	cuántos años tienes ?
+*CHI:	dos . [+ rep]
+%com:	INE pasa páginas
+*INE:	muy bien a_ver .
+*INE:	vamos a_ver si encontramos .
+*INE:	mira .
+*INE:	qué es ésto ?
+*CHI:	mira xxx . [+ o]
+%com:	EMI pasa páginas
+*INE:	qué hacen estos niños ?
+*INE:	están jugando .
+*NAC:	un pez .
+*CHI:	no . [+ sn]
+*NAC:	sí .
+*CHI:	un pez [/] pez .
+%com:	NAC le va poniendo la cara delante
+*CHI:	no [//] inés no .
+*INE:	qué hace inés ?
+*CHI:	no . [+ sn]
+%com:	EMI entra en el juego y siempre que le pone la cara delante dice no
+*CHI:	mama .
+*INE:	qué quieres mamá o inés ?
+*CHI:	nacho .
+%com:	EMI se baja del sillón
+*CHI:	mama . [+ rep]
+*INE:	qué ?
+*CHI:	mama . [+ rep]
+*INE:	qué ?
+*INE:	no ésto no .
+*INE:	ésto me lo llevo .
+*CHI:	nacho . [+ rep]
+%com:	señala el cenicero y va detrás de INE
+*INE:	es de Nacho .
+*INE:	pero vamos a limpiarlo .
+*INE:	que está sucio .
+*CHI:	nacho . [+ rep]
+*INE:	dile que cante a Nacho .
+*CHI:	canta . [+ o]
+*INE:	bueno .
+*INE:	mira Emilio .
+*INE:	se ha caído el cuento .
+*INE:	lo coges .
+*INE:	no lo quieres coger .
+%com:	EMI coge una cuerda y la muerde
+*INE:	está bueno .
+*INE:	vamos a jugar a la cuca .
+*CHI:	caca .
+*INE:	rolet xxx .
+*INE:	vienes conmigo .
+*INE:	qué vamos a hacer ?
+*CHI:	cuca .
+*INE:	rolet rolet .
+*INE:	el gato xxx .
+*CHI:	gato . [+ imit]
+*INE:	estaba el señor don gato +...
+%com:	INE intenta que lo haga con ella pero EMI no quiere , INE canta la canción y EMI va diciendo
+*CHI:	mán mán . [+ cant]
+*INE:	rolet rolet .
+*CHI:	no . [+ sn]
+*INE:	ahora yo lo hago .
+*INE:	mira .
+*CHI:	no . [+ sn]
+*INE:	por qué ?
+*CHI:	rolet .
+*INE:	rolet rolet .
+*CHI:	aquí .
+*INE:	cosquillas .
+*CHI:	aquí . [+ rep]
+*INE:	por aquí .
+*INE:	en cual en éste o en ésta .
+*CHI:	&+ah . [+ alt]
+%com:	EMI señala ambas piernas
+*INE:	cosquillas .
+*INE:	la cuca .
+*INE:	oye Emilio me haces rolet a mí .
+*CHI:	cuca .
+%com:	EMI imita a INE
+*INE:	ay qué me haces !
+*CHI:	inés .
+*CHI:	cuca .
+%com:	EMI le hace lo de los dedos
+*INE:	quién es éste ?
+*INE:	éste es el papa .
+*INE:	quién es éste ?
+*CHI:	sopa .
+*INE:	sí mira sopa y se la come toda .
+*CHI:	más .
+*INE:	más ?
+*CHI:	&+ah . [+ alt]
+*CHI:	cuca xxx .
+*CHI:	0 .
+%act:	protesta .
+%com:	EMI pega a INE haciéndole cosquillas para que le deje en paz
+*INE:	quiere que se lo haga yo .
+*INE:	ay , qué pasa ?
+*CHI:	zapato .
+*INE:	se te cae el zapato .
+*INE:	ya está .
+*CHI:	mama .
+*CHI:	zapato .
+*INE:	zapato otra vez .
+*INE:	ya está .
+*CHI:	no xxx . [+ sn]
+*INE:	cómo que no !
+*INE:	si ya está puesto .
+%com:	EMI e INE se hacen la cuca
+*INE:	a dónde vas ?
+*CHI:	papa .
+*INE:	papa está durmiendo .
+*INE:	está en la cama .
+*CHI:	cecilia .
+*INE:	dónde está Cecilia ?
+*CHI:	paquita .
+*INE:	la Paquita está en el colmado .
+*CHI:	0 .
+%act:	reivindica la cámara a NAC
+*CHI:	ten Nacho .
+*NAC:	qué ?
+*CHI:	mama .
+*CHI:	0 .
+%act:	mira por la cámara y llama a INE .
+*CHI:	inés .
+*CHI:	xxx xxx xxx xxx . [+ inc]
+*INE:	qué ?
+*CHI:	no . [+ sn]
+*INE:	no se toca .
+*INE:	lo quieres tocar ?
+*CHI:	toca . [+ imit]
+*INE:	no se toca .
+*CHI:	oye mama . [+ o]
+*CHI:	mira inés . [+ o]
+%com:	EMI mira por la cámara e INE se la quita
+*CHI:	inés xxx xxx xxx .
+*INE:	pero por qué llamas a inés ?
+*NAC:	porque la ve desde aquí .
+*CHI:	nacho .
+*CHI:	ten . [+ o]
+%com:	EMI coge el tabaco y se lo da a NAC , EMI se sienta , INE se sienta con EMI y éste no le deja
+*CHI:	no . [+ sn]
+*CHI:	mama .
+*INE:	qué ?
+*INE:	qué quieres ?
+*CHI:	mama . [+ rep]
+*INE:	qué has hecho ?
+*CHI:	inés .
+*INE:	lo has tirado al suelo .
+*INE:	eh ?
+*CHI:	no . [+ sn]
+*CHI:	mama .
+%com:	INE le da patadas a EMI
+*INE:	qué pasa ?
+*CHI:	zapato .
+*INE:	que le pongas el zapato ?
+*CHI:	mira . [+ o]
+%com:	EMI se toca un zapato
+*INE:	socorro .
+*INE:	emilio dí socorro .
+*CHI:	zapato . [+ rep]
+%com:	EMI se toca el zapato
+*INE:	0 .
+%act:	ríe .
+*INE:	dí auxilio .
+*CHI:	nacho .
+*NAC:	qué ?
+%com:	EMI va hacia el cenicero
+*INE:	no se toca .
+*INE:	me lo das a mí .
+*CHI:	no . [+ sn]
+*CHI:	ten . [+ o]
+%com:	da el cenicero a NAC
+*INE:	bueno ahora el Nacho me lo da a mí .
+*INE:	ves ?
+*CHI:	no xxx xxx xxx . [+ sn]
+*CHI:	0 .
+%act:	reivindica el cenicero estirando los brazos .
+*CHI:	no [/] no mama .
+*INE:	por qué ?
+*INE:	bueno pués se lo doy al Nacho .
+*CHI:	mama .
+*INE:	ahora me lo da a mí .
+*CHI:	no xxx xxx . [+ sn]
+*INE:	por qué ?
+*CHI:	nacho no .
+*INE:	ah no .
+*CHI:	mama .
+*INE:	qué ?
+*CHI:	nacho .
+*CHI:	0 .
+%act:	señala la cámara .
+*INE:	qué hace el Nacho ?
+*CHI:	pupa .
+*INE:	hace pupa el Nacho .
+*INE:	no ?
+%com:	EMI quiere tocar el magnetoscopio
+*NAC:	no Emilio no .
+*INE:	canta , canta un poquito .
+*CHI:	canta . [+ imit]
+*INE:	baila .
+*CHI:	baila . [+ imit]
+*INE:	baila .
+%com:	EMI baila
+*INE:	muy bien baila .
+*CHI:	baila . [+ imit]
+%com:	INE y EMI hacen el señor don gato , inés le da fuerte y EMI llora , EMI va hacia INE
+*INE:	qué te ha pasado ?
+*CHI:	mama inés .
+*INE:	qué te ha hecho inés ?
+*CHI:	pupa .
+*INE:	dónde te ha hecho pupa ?
+*INE:	en la nariz .
+*CHI:	mira . [+ o]
+%com:	EMI quiere coger el cigarro de INE
+*INE:	no que es mío .
+*CHI:	nacho .
+%com:	EMI va hacia la cámara
+*NAC:	qué ?
+*CHI:	nacho no .
+*NAC:	nacho no .
+*CHI:	nacho .
+*NAC:	lo dejamos ya .
+*CHI:	ya . [+ imit]
+*NAC:	ya .
+@End

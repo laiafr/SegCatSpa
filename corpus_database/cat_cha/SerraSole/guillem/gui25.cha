@@ -1,0 +1,1443 @@
+@UTF8
+@PID:	11312/c-00028080-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , ROS rosa Nurse , QUI quim Brother , INV Investigator
+@ID:	cat|Serra|CHI|2;1.14||||Target_Child|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	rosa , inicial r , es la mainadera d' en g , g , q i r estan al bany , q esta dret sobre un moble , i g esta assegut , davant seu hi ha r que l' esta desvestint
+*ROS:	qui ets tu ?
+*ROS:	qui ets , com et dius ?
+*ROS:	olga ?
+*CHI:	olga [>] .
+*QUI:	<que veus> [<] ?
+%add:	INV
+*ROS:	tu et dius olga ?
+*INV:	a veure , <a veure , qui es l' olga> [>] ?
+*ROS:	<mira l' olga xxx maca> [<] .
+%act:	acaronant el cap de GUI
+*ROS:	ai , que guapa l' olga !
+*QUI:	que ?
+%add:	INV
+*ROS:	mira que <guapa l' olga> [>] !
+*QUI:	<que veus> [<] ?
+%add:	INV
+*ROS:	qui ets tu ?
+*QUI:	que veus ?
+%add:	INV
+*ROS:	qui ets ?
+*CHI:	guillem [% "mimem"] !
+*ROS:	guillem que ?
+*CHI:	guillem [% "mimem"] .
+*ROS:	guillem que ?
+*CHI:	pcf [% s' enten "olgogama"] .
+*ROS:	olga no , pero tu com et dius , com et dius , <qui ets> [>] ?
+*CHI:	guillem [<] .
+*CHI:	0 .
+%act:	agafa la cama de q
+*QUI:	ah [= es queixa] !
+*ROS:	guillem xulo .
+*CHI:	pcf [% "i"] .
+%act:	agafant l' altra cama
+*ROS:	<guillem xulo> [>] .
+%act:	agafant q
+*QUI:	<ai , no em> [<] toquis , no em toquis !
+*QUI:	no me toquis , no me toquis !
+@Comment:	no hi ha mes produccions de g , hi ha un tall a la cinta , g , q i r estan al bany , g esta segut sobre el moble , i r esta davant seu
+*ROS:	guillem , qui t' ho ha fet ?
+*ROS:	plora , plora .
+*ROS:	que plora el guillem ?
+*CHI:	si , xxx [% la xxx es "tara"] .
+*ROS:	surt freda ?
+*ROS:	doncs va , aixeca't .
+*ROS:	escolta , que plora el guillem ?
+*ROS:	a veure com plora el guillem ?
+*ROS:	plora , &plo +...
+*CHI:	pcf [>] [% "aa" , fa veure que plora] .
+*ROS:	ui [<] , pobre guillem !
+*ROS:	qui t' ho ha fet ?
+*CHI:	yoya@c [% "iaia" , a e li diu yoya] .
+*ROS:	quina maria rosa t' ho ha fet ?
+*CHI:	yoya@c fruita [% "iata tuta"] .
+*ROS:	no , la maria rosa de la fruita no .
+*CHI:	yoya@c fotos [% "iata toto"] .
+*ROS:	la maria rosa de les fotos ?
+*ROS:	que t' ha fet , que t' ha fet , que t' ha fet la maria rosa de +/.
+*CHI:	pego [= mou el brac cap en davant] .
+*ROS:	et pega ?
+*ROS:	digues , li dire al meu pare !
+*ROS:	digues'li .
+*CHI:	xxx pare [% "aa pare"] !
+*ROS:	home !
+*CHI:	home !
+*ROS:	tu que t' has pensat ?
+*ROS:	renya'la , renya'la , guillem , renya'la !
+*CHI:	pcf [% "iaiaiai" , mou el brac renyant'la] !
+*ROS:	ai , maria rosa al cul !
+*ROS:	<renya'la> [>] , renya'la .
+*CHI:	xxx [<] [= mou el brac renyant'la] .
+*CHI:	yoya@c fotos [>] [% "iaia toto" , encara mou el brac] .
+*ROS:	<ai al cul> [<] , ai al cul !
+*ROS:	i la senyoreta lidia , que et pega ?
+*CHI:	xxx pega [% "cataia pega"] .
+*ROS:	a tu et pega ?
+*CHI:	0 [= fa si amb el cap] .
+*ROS:	que es guapa la senyoreta lidia ?
+*ROS:	es dolenta , oi ?
+*ROS:	aquesta senyoreta lidia !
+*ROS:	com l' estimes la senyoreta lidia , com l' estimes ?
+*CHI:	0 .
+%act:	s' abraca ell mateix
+*ROS:	molt eh , oi que l' estimes molt ?
+*ROS:	eh que si ?
+*ROS:	jolin , jolin [= mou la ma] !
+*CHI:	0 .
+%act:	s' esta gratant
+*ROS:	a veure tu com ho fas ?
+*CHI:	me pica [% "a pica" , continua gratant'se] .
+*ROS:	rasco ?
+*ROS:	0 .
+%act:	grata g
+*ROS:	ja esta ?
+*ROS:	ja esta ?
+*CHI:	pica [= continua gratant'se] .
+*ROS:	pica .
+*ROS:	ja esta , no ?
+*ROS:	ja no pica !
+*ROS:	vinguen .
+*ROS:	xxx .
+*ROS:	que es aixo , aixo que es [= pessiga un pit de g] ?
+*CHI:	teta [= es toca el pit] .
+*ROS:	i aixo d' aqui , que es aixo , que es aixo [= pessiga l' altre pit de g] .
+*CHI:	melic [% "meli" , sembla que es busqui el melic] .
+*ROS:	el melic no hi es el melic !
+*ROS:	ring@c [= toca el melic de g] .
+*CHI:	aqui [= es toca el melic] .
+*ROS:	0 .
+%act:	aixeca g
+*CHI:	pcf [% "iai"] .
+*CHI:	<el melic> [>] .
+*ROS:	<a veure> [<] .
+*ROS:	ring@c ring@c , ring@c ring@c !
+*CHI:	0 .
+%act:	es toca el cap
+*CHI:	pcf [% "ceraia" , estira el brac] !
+*ROS:	ring@c ring@c !
+*ROS:	no et pixis , eh !
+*ROS:	salta !
+*ROS:	pcf [% "op"] .
+*ROS:	salta !
+*CHI:	0 .
+%act:	es va gratant el brac
+*ROS:	ai xxx de pobret que fa .
+*CHI:	pica .
+*ROS:	et rasco ?
+*CHI:	no .
+*ROS:	et rasca la maria rosa , et rasca ?
+*ROS:	si ?
+*ROS:	que rasco , que rasco [= comenca a gratar a g] .
+*ROS:	ja esta [= continua gratant] ?
+*ROS:	ja esta , eh !
+*ROS:	va , salta .
+*CHI:	pasa [= continua gratant'se] .
+*ROS:	0 .
+%act:	obre un calaix
+*ROS:	posem colonia , que no piqui ?
+*ROS:	posem colonia que no piqui .
+*ROS:	0 .
+%act:	posa colonia al brac de g
+*ROS:	ja [/?] ja no pica , no pica .
+*ROS:	olora , olora quina olor .
+*ROS:	0 .
+%act:	posa colonia al nas de g
+*ROS:	pcf [% "hum" , expressio de satisfaccio] .
+*CHI:	pcf [% "tenlo tearo" , s' acosta a e amb la ma estesa] .
+*INV:	a veure ?
+*INV:	pcf [% "hum" , expressio de satisfaccio] .
+*INV:	quina olor mes bona !
+*ROS:	es bona , eh !
+*ROS:	es bona , eh !
+*ROS:	que vols fer un pipi [= s' emporta g cap a la banyera] ?
+*ROS:	a veure el guillem com fa un pipi ?
+*ROS:	a veure ?
+@Comment:	hi ha un tall a la cinta , q esta a la banyera , i g esta sobre l'inodor
+*CHI:	pcf [% "a baba" , assenyala la banyera] .
+*ROS:	l' aigua ?
+*ROS:	va , que aqui encara et fas una [= posa g a la banyera] .
+*ROS:	xxx , eh !
+*QUI:	0 .
+%act:	toca el cul de g i riu
+*QUI:	pcf [% "era chaca"] !
+*QUI:	que te gusta la xxx ?
+*QUI:	0 .
+%act:	mou el cul de g amb un cubell
+*QUI:	viva la xxx [% la xxx vol dir "teia"] !
+*CHI:	0 .
+%act:	vol agafar el cubell i q no li deixa
+*CHI:	pcf [% "a , a" , es queixa] .
+*ROS:	te , tu <aixo , guillem> [>] [= agafa un pot d' aigua] .
+*CHI:	pcf [<] [% "to"] !
+*CHI:	pcf [>] [% "a" , es queixa] .
+*ROS:	<un barret , un barret> [<] [= posa el pot sobre el cap de g] .
+@Comment:	g llanca el pot al cap de q , q plora
+*QUI:	li dire al pare que et pegui !
+*CHI:	no [= plora] !
+*ROS:	te aixo , aqui darrera , aqui darrera , aqui darrera , aqui darrera [= agafa quelcom] .
+*CHI:	pcf [% "a" , es queixa] .
+@Comment:	q vol mullar els genitals de g amb el cubell
+*ROS:	quim , no el busquis , eh !
+*ROS:	tu no el busquis , eh !
+*CHI:	0 .
+%act:	agafa el cubell
+*QUI:	pcf [% "a" , vol recuperar el cubell] .
+*ROS:	dona'm , per mi , que <la maria rosa> [/?] la maria rosa xxx [= pren el cubell a g] .
+*ROS:	per ningu , per mi [= posa el cubell fora la banyera] .
+*CHI:	pcf [% "i" , demana el cubell] .
+*CHI:	pcf [% "nanana" , plora] !
+@Comment:	hi ha un tall
+*ROS:	no hi es .
+*QUI:	esta alla [= assenyala cap a e] .
+*ROS:	no [>] .
+*INV:	no [<] .
+*ROS:	xxx .
+*ROS:	home , si <voleu xxx> [>] +/.
+*CHI:	xxx [<] alla [% la xxx es "aba" , assenyala cap a l' inodor] !
+*ROS:	no hi es !
+*ROS:	l' he llencat , mira , no hi es [= obre l' inodor] .
+*ROS:	mira , no t' enganyo .
+*ROS:	0 .
+%act:	ensenya l' inodor a g
+*QUI:	jo no m' en figuro , eh !
+*QUI:	jo no m' en figuro xxx !
+*QUI:	0 .
+%act:	pica el cul de g
+*ROS:	que et fas callar , quim , tu ?
+*QUI:	0 .
+%act:	pica el cul de g
+*QUI:	pcf [% "tara tatara" , agafa g] .
+*CHI:	0 .
+%act:	te un pot a la ma , llenca aigua i riu
+*QUI:	pcf [% "iruru"] .
+*QUI:	xxx [% s' enten "kemilor] !
+*QUI:	pcf [% "turururu , turururu , turururu , turururu" , llanca aigua a g] .
+*ROS:	quim !
+*CHI:	pcf [% "e , e" , es queixa] .
+*QUI:	pcf [>] [% "turururu , turururu" , llanca aigua] !
+*ROS:	<quim , si el guillem et mulla el cap t' enfades , eh> [<] !
+*QUI:	pcf [% "turuu" , llanca mes aigua] !
+*CHI:	0 .
+%act:	mulla q
+*ROS:	ai !
+*ROS:	mecachis !
+*ROS:	xxx .
+*QUI:	pcf [% "tururu" , mulla g] .
+*CHI:	0 [=! riu] .
+%act:	s' hi torna
+*ROS:	quim , guillem .
+*CHI:	pcf [% "i" , so d' esforc i va tirant aigua] .
+*QUI:	pcf [% "a" , so d' esforc , i va tirant aigua] .
+*CHI:	0 .
+%act:	dona un cop a q amb un pot
+*QUI:	ah [= es queixa] !
+*QUI:	0 .
+%act:	mulla g
+*ROS:	quim , no , eh !
+*ROS:	xucla l' aigua eh rapid eh si el mulles !
+@Comment:	q mulla g i riu
+*ROS:	va , xxx [% la xxx es "vanu" , aixeca g] .
+*QUI:	no !
+*ROS:	bueno , doncs no el mullis a qui no li agrada [= frega g] .
+*QUI:	pcf [% "ueueueue" , tira mes aigua a g] .
+*ROS:	va .
+@Comment:	g tira mes aigua a q , i q continua
+*ROS:	quim !
+*QUI:	pcf [% "tururuturuturu" , van jugant amb l' aigua] .
+*QUI:	pcf [>] [% "toro" , van jugant amb l' aigua] .
+*ROS:	<aixeca el coll> [<] , guillem , aixeca el coll , aixeca el coll [= va rentant g] .
+*QUI:	ah , cielos , xxx [% la xxx es "chan" , va jugant amb l' aigua] !
+*ROS:	i ara amb aquesta ma [= va rentant g] .
+*QUI:	pcf [% "txaia"] .
+*ROS:	ara xxx , que et renti el cul i la cuca , va , i no et moguis , eh [= aixeca g] !
+*ROS:	i no et moguis , eh !
+@Comment:	q va jugant , i r el va cridant l' atencio , q i g es mullen , hi ha un tall a la cinta
+*ROS:	seu , seu [= ho diu a g] .
+*QUI:	0 [=! riu] .
+*QUI:	que li passara ?
+*ROS:	<no cridis> [>] .
+*CHI:	ai [<] [= se seu a la banyera] !
+*ROS:	aixeca el cap , aixeca el cap .
+*QUI:	0 [= riu amb to amenacador] .
+*ROS:	aixeca el cap cap a munt , cap a munt [= va esbandint el cap de g] .
+*CHI:	pcf [% "o"] .
+*QUI:	pcf [% "keelekalakarru"] .
+*ROS:	guillem , mira aqui dalt , aixeca el coll !
+*QUI:	pcf [% "mirererere"] .
+*ROS:	aixeca el coll !
+*ROS:	guillem , aixeca el coll .
+@Comment:	q va mullant g , r li crida l' atencio , r va esbandint a q , g mulla a q i r , despres q va mullant g , hi ha un tall
+*ROS:	xxx i del guillem igual .
+@Comment:	g mulla g , i r li crida l' atencio
+*QUI:	pcf [% "uuu , uii"] .
+*QUI:	hi ha un flam aqui [= posa la ma dins un cubell] .
+*QUI:	que passa que <aqui hi ha un flan> [>] !
+*CHI:	pcf [<] [% "xxx ki" , mira el cubell que te] .
+*QUI:	eres una mano , <con las manos> [>] , xxx xxx xxx [% les xxx son "son a kepan" , es mira el cubell] !
+*CHI:	xxx [<] [= posa la ma dins el seu cubell] .
+*QUI:	0 [=! riu] .
+*CHI:	pcf [% "toli"] .
+*CHI:	0 .
+%act:	omple d' aigua el cubell , i llanca aigua
+*QUI:	pcf [% "torarora , pi" , llanca aigua] !
+*CHI:	pcf [% "pininini"] .
+@Comment:	g i q van esquitxant l' aigua i g riu
+*CHI:	0 .
+%act:	llanca aigua fora la banyera
+*INV:	ai , oi oi oi oi oi !
+*INV:	mira , mira !
+*ROS:	guillem , no tornis a fer'ho , eh !
+*ROS:	perque m' enfado molt !
+*QUI:	<i hostia> [>] !
+*CHI:	pcf [<] [% "bebebe" , llanca aigua a r] .
+*ROS:	ah !
+*QUI:	pcf [% "la berdilla"] !
+*ROS:	m' enfado ?
+*QUI:	jo soc un bla [/?] xxx [>] [% la xxx es "bla"] !
+*CHI:	no [<] .
+*ROS:	doncs no ho facis !
+*QUI:	hi ha un forat aqui ?
+*QUI:	en <toco uno> [>] !
+*CHI:	pcf [<] [% "a bri" , va passant la ma dins el cubell] .
+*QUI:	a veure si hi ha un forat ?
+*CHI:	un forat [% "u fuat" posa la ma dins el cubell] ?
+*QUI:	hi ha un forat i un conejito .
+*CHI:	pcf [% "boau" , agafa una esponja] !
+*QUI:	pcf [>] [% "toreta"] !
+*CHI:	pcf [<] [% "a mamarau" , pica l' aigua] .
+*QUI:	pcf [% "toreta , ta" , mulla a g] .
+*QUI:	pcf [% "toreta tele ia" , pica l' aigua] !
+*QUI:	pcf [% "iaia , iararafa" , pica l' aigua] !
+*CHI:	pcf [>] [% "ierabu" , pica l' aigua] .
+*QUI:	<a tirar aigua> [<] !
+*ROS:	no tiris aigua , eh !
+*QUI:	pcf [>] [% "a taigua , a taigua"] !
+*CHI:	pcf [<] [% "aaa , uuu" , va movent l' esponja] .
+*QUI:	pcf [>] [% "taiaigua , taiaigua , taiaigua , taiaugua"] !
+*CHI:	pcf [<] [% "abababa , o , buuu" , va mullant l' esponja] .
+*QUI:	pcf [>] [% "tariraigua , tariraigua , tariraigua , tariraigua"] .
+*CHI:	pcf [<] [% "ra" , va mullant l' esponja] .
+*QUI:	pcf [% "tarirai , tarirai , tarirai , tarirai , tarirai , tariraigua" , va picant l' aigua , igual que g] .
+*QUI:	pcf [% "na" , pica l' aigua] !
+*CHI:	pcf [% "ate" , mulla l' esponja] .
+@Comment:	hi ha un tall a la cinta
+*ROS:	no tiris aigua a terra , home !
+*QUI:	aja !
+*QUI:	pcf [>] [% "lesamaianta" , pica l' aigua] .
+*CHI:	xxx [<] [= juga amb l' esponja] .
+*QUI:	pcf [% "cascatlota ipu"] .
+@Comment:	r treu g de l' aigua , el qual te l' esponja a les mans
+*ROS:	deixa l' esponja , corre , deixa l' esponja .
+*QUI:	pcf [% "tatam , tatam , tatam" , mulla g] .
+@Comment:	g ja ha deixat l' esponja , i r el posa sobre l' inodor
+*QUI:	aja , guillem !
+*INV:	que guapo !
+*ROS:	no [= renya q] !
+*ROS:	a que surts de l' aigua ara mateix !
+*INV:	que guapo el guillem !
+*INV:	guapo el guillem , guapo guillem [>] , guapo !
+*CHI:	pcf [<] [% "ete" , es toca l' ull] .
+*QUI:	pcf [% "aat"] !
+*ROS:	0 .
+%act:	posa la tovallola sobre g i el tapa
+*ROS:	va , tapa el peu .
+*INV:	uh , no hi es el guillem , no hi es !
+@Comment:	q va cridant sol , r va eixugant g sobre un moble
+*ROS:	quin fred !
+*ROS:	uh , a veure quin fred [= destapa g] !
+*CHI:	fred .
+*ROS:	oi , quin fred , socorro quin fred !
+*ROS:	a veure tu com ho dius ?
+*CHI:	0 [= es mira els genitals] .
+*ROS:	a veure guillem ?
+*ROS:	que busques , que busques ?
+*ROS:	que busques ?
+*CHI:	cuca@c .
+*ROS:	no hi es la cuca@c !
+*CHI:	0 [= s'assenyala els genitals] .
+*ROS:	mira que xuli !
+*ROS:	que es petitona , que es petitona ?
+*CHI:	si .
+*ROS:	a veure ?
+*ROS:	que es petitona ?
+*ROS:	digues'li a la maria rosa que es petitona , digues'li .
+*CHI:	petitona [% "ainona"] .
+*ROS:	es petitona .
+*CHI:	petitona [% "eitona"] .
+*ROS:	molt petitona .
+*CHI:	petitona [% "oinona"] .
+*ROS:	eh que si ?
+*CHI:	saldo .
+*ROS:	es un saldo ?
+*ROS:	0 .
+%act:	va eixugant el cap de g
+*CHI:	pcf [% "aito"] .
+*ROS:	tapa't [= tapa g] .
+*ROS:	xxx [= pentina g] .
+@Comment:	hi ha un tall a la cinta
+*ROS:	digues , hola maria rosa !
+*CHI:	xxx fotos [% "aa toto"] !
+*ROS:	hola , maria rosa de les fotos !
+*ROS:	digues , saps que vaig a l' escola ?
+*CHI:	escola [% "aacola"] !
+*ROS:	i la meva senyoreta es diu lidia .
+*CHI:	senyoreta lidia [% "seta ida"] .
+*ROS:	i l' estimo molt !
+*CHI:	molt !
+*ROS:	molt , molt !
+*ROS:	a veure com l' estimes , a veure ?
+*ROS:	a veure com l' estimes a la lidia , com l' estimes [= destapa a g] ?
+*CHI:	0 .
+%act:	s' abraca
+*ROS:	molt , molt , eh que si ?
+*ROS:	digues , hi ha un nen que es diu roger , xxx va a l' escola , digues'li , digues +/.
+*CHI:	xxx roger a l' escola [% "na roger a l' esca"] .
+*ROS:	i el faust .
+*CHI:	i el faus .
+*ROS:	i l' emilio .
+*CHI:	emilio [% "aimio"] .
+*ROS:	i la laia .
+*CHI:	laia [% "aiaia"] .
+*ROS:	i el marc .
+*CHI:	pcf [% "aiarc"] .
+*ROS:	digues , l' eduard es molt petito , molt petito !
+*ROS:	digues'li , digues'li !
+*CHI:	xxx petito [% "arai tito"] !
+*ROS:	molt petito !
+*CHI:	molt petito [% "molt kitito"] !
+*ROS:	molt petito [= riu] !
+*ROS:	eh que si , guillem , que es molt petito l' eduard !
+*ROS:	es molt guapo !
+*ROS:	eh que es molt guapo l' eduard ?
+*ROS:	uh [= espanta g] !
+*ROS:	0 .
+%act:	engega l' assecador
+@Comment:	hi ha un tall a la cinta , r va eixugant el cabell de g amb l'assecador , q va cridant l' atencio de e , hi ha un tall a la cinta , r posa els dodotis a g , g s' esta gratant el brac
+*ROS:	que passa , guillem ?
+*INV:	pica .
+*ROS:	encara et pica ?
+@Comment:	hi ha un tall a la cinta
+*ROS:	xxx rasca , si us plau .
+*CHI:	si us plau [% "apau"] !
+*INV:	el que ?
+*ROS:	rasca si us plau .
+*ROS:	digues , rasca , si us plau , digues'li .
+*CHI:	rasca si us plau [% "caca iu plau"] .
+*ROS:	digues , rasca , si us plau .
+*CHI:	aqui a [/] [= s'assenyala el brac] .
+*ROS:	0 .
+%act:	renya q perque crida molt
+*ROS:	guillem , digues'li a la maria rosa tambe , rasca si us plau , rasca .
+*CHI:	rasca [% "gaca"] !
+*ROS:	si us plau , si us plau !
+*CHI:	rasca [% "gaca"] !
+*ROS:	si us plau !
+@Comment:	hi ha un tall , r esta vestint g
+*ROS:	tens soneta , guillem ?
+*CHI:	pcf [% "a mema"] !
+*ROS:	el que ?
+*ROS:	crema ja te n' he posat .
+*ROS:	no n' hi ha mes , guillem , de crema , no n' hi ha mes .
+*CHI:	0 .
+%act:	s' estira cap en davant
+*ROS:	no , no n' hi ha , no t' enganyo , no .
+*ROS:	va , que et posare la jaqueta , corre , que anirem amb la mare , corre [= posa una jaqueta a g] .
+*CHI:	pcf [% "a , a , a" , s' estira cap en davant] .
+*ROS:	no , que me'ls perds totes les cremes .
+*CHI:	<xxx xxx> [/?] <la crema> [>] [% "a me a mema"] !
+*ROS:	<no n' hi ha> [<] !
+*ROS:	s' ha acabat !
+*CHI:	0 .
+%act:	posa el brac pel coll
+*ROS:	no , aqui no , aqui no !
+*ROS:	s' ha acabat la crema , s' ha acabat !
+*CHI:	aqui [= posa el brac per la manega] .
+*ROS:	ara , molt be el guillem !
+*ROS:	estira't , que posem els pantalons .
+*ROS:	estira't .
+*ROS:	saldo !
+*ROS:	estira't , estira't , estira't , estira't .
+*ROS:	que et posem els pantalons .
+*CHI:	pcf [% "i" , toca el mirall i es mira] .
+*ROS:	mira el guillem , que es guapo , mira el guillem que es guapo !
+*ROS:	que es guapo ?
+*ROS:	i qui es aquest nen , qui es [= assenyala la imatge de g al mirall] ?
+*CHI:	guillem [% "memen"] .
+*CHI:	guillem guillem guillem [% "memem , mim mimim mimem"] .
+*ROS:	0 [=! riu] .
+*ROS:	guillem guillem guillem [% "mim mim mimem" , imita a g] .
+*CHI:	guillem [% "mem"] !
+*CHI:	guillem guillem guillem [% "mi mim mimem"] .
+*ROS:	guillem !
+*CHI:	xxx mal [% "a mal" , es toca la galta] .
+*ROS:	a on tens mal ?
+*CHI:	mama mal xxx !
+*ROS:	ho curo !
+*CHI:	ah [= es queixa] !
+*CHI:	crema [% "mema"] !
+*ROS:	no n' hi ha de crema , no n' hi ha [= aixeca a g] .
+*CHI:	mira , xxx [= assenyala cap a la taula] .
+*CHI:	0 .
+%act:	posa les mans a la cara de r
+*ROS:	xxx [>] !
+*CHI:	ui !
+*ROS:	oi !
+@Comment:	hi ha un tall a la cinta , r li esta posant el jersei a g , q esta cridant
+*ROS:	canta guillem , canta .
+*CHI:	mira .
+*CHI:	la lluna , la pruna xxx xxx [% "a nuna , a pira , a dalt , u cala , a bala , a dalt" , canta la canco de la lluna , la pruna] .
+*ROS:	ara canta els reis venen , canta els reis venen .
+*CHI:	pcf [% "tara nena , tarana , auaua gallina namunoi" , canta] .
+*ROS:	els nens dolents [= canta] .
+*ROS:	molt be .
+*ROS:	i l' espinete ?
+*ROS:	a veure , canta pimpom@c , canta ?
+*CHI:	pcf [% "ma , mau" , es rasca l' ull] .
+*ROS:	canta .
+*CHI:	pcf [% "na , na , nanana" , canta] .
+*ROS:	pcf [% "na na na" , canta] .
+*ROS:	ara tu .
+*CHI:	pcf [% "na , na , nanana" , canta] .
+*CHI:	pcf [% "na , na , na , na , na , na , na , naa" , pica de mans] .
+*ROS:	ara balla [= aixeca a g] .
+*ROS:	a veure com balles ?
+*ROS:	balla !
+*ROS:	pcf [% "na , na , na" , canta] .
+*CHI:	0 .
+%act:	es mou i pica de mans
+*ROS:	balla , guillem .
+*ROS:	pcf [% "na , na , na , na , na , na" , canta] .
+*ROS:	balla aixi , balla aixi [= es mou] .
+*CHI:	0 .
+%act:	balla mes
+*ROS:	pcf [% "na , na , na , na" , riu] .
+*CHI:	0 [= para de ballar] .
+*CHI:	pcf [% "aiat"] .
+*ROS:	ja esta .
+*CHI:	0 .
+%act:	es tira sobre r
+*ROS:	un !
+*ROS:	a veure com m' estimes ?
+*ROS:	xxx si no m' estimes no !
+*ROS:	si m' estimes si , si no m' estimes no .
+*ROS:	vale que m' estimes ?
+*ROS:	va , que ploro .
+*ROS:	ah [= fa veure que plora] .
+*CHI:	0 .
+%act:	abraca r
+*ROS:	m' he fet mal aqui , m' he fet mal aqui !
+*CHI:	pcf [% "dataia"] !
+*ROS:	la senyoreta lidia mal [= s'assenyala la cara] .
+*ROS:	aqui , cura , cura +/.
+*CHI:	pcf [% "tatu"] !
+*ROS:	cura !
+*ROS:	ah [= fa veure que plora] !
+*CHI:	0 .
+%act:	besa r
+*ROS:	xulo !
+*CHI:	mal .
+*ROS:	tinc mal aqui .
+*CHI:	0 .
+%act:	besa r
+*ROS:	xxx +/.
+*CHI:	la crema [% "a mema"] .
+*CHI:	la crema [% "a mema" , toca on r deia que li feia mal] .
+*ROS:	no , no em poso crema , no !
+*ROS:	baixes , xulo ?
+*ROS:	tu que ets , tu que ets ?
+*CHI:	pcf [% "noia" , abraca r] !
+*ROS:	tu que ets , tu que ets ?
+*ROS:	<un xulo> [>] !
+*CHI:	<yoya@c> [<] fotos [% "iaia toto"] ?
+*ROS:	la maria rosa de les fotos , digues'li que ets un xulo , digues+li .
+*ROS:	digues'li que ets un xulo .
+*ROS:	digues , el guillem es un xulo , maria rosa .
+*CHI:	0 [= treu la llengua a e] .
+*INV:	goita , m' ha tret la llengua !
+*CHI:	0 [= escup] .
+*ROS:	aixo no es fa !
+*ROS:	ai , ai , ai que si fas aixo et pico la boca !
+*ROS:	aixo no es fa !
+*INV:	xxx no fa perque ho faig jo .
+*ROS:	no !
+*ROS:	xulo !
+*CHI:	0 .
+%act:	pica la ma de r
+*ROS:	ai , que m' has fet mal a xxx m' ha pegat xxx m' ha pegat i m' ha fet mal aqui !
+*ROS:	ai [= fa veure que plora] .
+*CHI:	no !
+*ROS:	si .
+*CHI:	no !
+*ROS:	si .
+*CHI:	no !
+*ROS:	si .
+*QUI:	no !
+@Comment:	hi ha un tall a la cinta
+*CHI:	pcf [>] [% "a" , agafa r del jersei] .
+*ROS:	pcf [<] [% "a"] .
+*CHI:	pcf [% "miraia" , toca el coll de r] ?
+*ROS:	si , <&gui> [/?] guillem +/.
+@Comment:	hi ha un tall a la cinta , en gui i la r a l' habitacio del nen , es l' hora del sopar , hi ha una safata amb el sopar sobre d' una taula , un plat amb patates fregides i un plat amb salsitxa , el nen assegut a la falda de r
+*ROS:	guillem , tot sol t' ho menges o t' ho donc jo [= talla la carn amb una cullera] ?
+*CHI:	oh , patates [% "tata" , toca les patates] !
+*CHI:	crema [% "mema"] .
+@Comment:	g mira el que fa la r , despres mira la camera , te un rotlle de cel'lo als dits , amb una ma toca el plat de patates fregides
+*ROS:	la patata crema , la xixi@c no [= li posa una cullerada de carn a la boca] !
+*CHI:	pcf [% "a" , es treu el que la r li posa a la boca , ho te a la ma] .
+*ROS:	que passa [= mira el menjar que te el guillem a la ma] ?
+*CHI:	patata [% "a tata" , assenyala el plat de patates] !
+*ROS:	primer la xixi@c despres la patata .
+*CHI:	0 [= no vol menjar la carn] .
+*ROS:	ai !
+*ROS:	m' enfado , eh !
+*ROS:	una mica de xixi@c i una mica de patates .
+*ROS:	posem una mica de patata [= dona patata a g] .
+*ROS:	mol be !
+*ROS:	ara una mica de xixi@c .
+@Comment:	hi ha un tall a la cinta
+*ROS:	una mica de xixi@c i una mica de patata [= li posa carn a la boca] .
+*ROS:	mastega be , eh .
+*ROS:	[^ te una patata al dit per donar'li] ara una mica de patata .
+*CHI:	0 [= va mastegant] .
+*ROS:	0 .
+%act:	li posa la patata a la boca
+*CHI:	0 .
+%act:	li clava queixalada a la patata i mastega
+*ROS:	que es bona aquesta xixi@c ?
+*ROS:	es bona ?
+*CHI:	0 [= fa si amb el cap] .
+*ROS:	es bonissima !
+*ROS:	eh que si [= mira g] ?
+*CHI:	[^ mira la camera] la mare !
+*ROS:	la mare te l' ha fet , oi [= mira el nen] ?
+*CHI:	<&m mal a> [/] mal a la ma .
+*CHI:	xxx [= ensenya la ma a la camera] +...
+*ROS:	la mare te mal a la ma i no li pot donar el sopar [= mira la camera] .
+*CHI:	no , &pa +/.
+*ROS:	eh que no ?
+*CHI:	0 [= va mastegant] .
+*ROS:	0 [= fa un soroll de negacio] .
+*ROS:	no , pot [= se'l mira] .
+*ROS:	0 [= fa dos sorolls de negacio] .
+*CHI:	pcf [% "o tot" , va mastegant] .
+*ROS:	0 [= fa un soroll de negacio] .
+*ROS:	a veure tu com ho fas [= se'l mira] ?
+*CHI:	no donar .
+*ROS:	no t' ho pot donar !
+*ROS:	pobreta mare !
+*CHI:	<la mare> [>] [% "a mare"] !
+*ROS:	<te mal a la ma> [<] , te mal a la ma i mira !
+*CHI:	mare .
+*CHI:	mira !
+*ROS:	i mira , no pot ser !
+*CHI:	pcf [% "o te" , mira l' observador i li ensenya el rotlle de cel'lo que te a la ma] .
+*ROS:	<no puede ser> [>] .
+*CHI:	<xxx xxx> [<] mira [% "ira toto mira"] .
+*CHI:	0 .
+%act:	estira el brac
+*ROS:	mira la maria rosa de les fotos [= mira l' observador] .
+*CHI:	pcf [% "pjj"] .
+%act:	amb el dit index dintre el rotlle de cel'lo fa el gest de tirar un tret a l' observador
+*ROS:	<&fe , &fe> [/?] mata'la , mata'la [= mira l' observador] .
+*ROS:	pcf [% "pj , pj" , imita uns trets] .
+*CHI:	pcf [% "pj" , imita un tret] .
+*ROS:	pcf [% "pj , imita un tret"] .
+*INV:	oh !
+*CHI:	xxx [% "ia tata" , possiblement vol dir patates , assenyala les patates] .
+*ROS:	patates pel guillem .
+*CHI:	0 .
+%act:	es treu la carn de la boca i la posa a la ma
+*ROS:	no , guillem , que m' enfado !
+*ROS:	xxx la boca ara mateix !
+*CHI:	no agrada [% "o rara"] .
+*ROS:	si t' agrada .
+*ROS:	una mica de patata i una mica de xixi@c [= dona patata a g] .
+*ROS:	mossega .
+*CHI:	pcf [% "nama" , te una punta de patata a la boca , no mastega] .
+*ROS:	no crema , no !
+*ROS:	obre la boca !
+*CHI:	0 .
+%act:	fa un gest endavant amb el cos
+*ROS:	guillem , no facis el tonto , eh !
+%com:	g pren el menjar , r ofereix carn a g .
+*ROS:	ara aquesta pel faust , pel faust [= te un tros de carn a la ma] !
+*CHI:	si .
+*ROS:	va , te faust [= dona la carn a g] !
+*ROS:	mastega molt faust , mastega !
+*CHI:	pcf [% "aeia" , va mastegant] .
+*ROS:	vale ?
+*ROS:	aquest pel faust .
+*CHI:	la laia [% "a iaia"] .
+*ROS:	ara per la laia ?
+*CHI:	0 [= fa si amb el cap] .
+*ROS:	a veure , empassa't aixo de la boca , empassa t'ho !
+*CHI:	xxx laia [% "ie iaia" , estira el brac cap a e] .
+*ROS:	te laia !
+*CHI:	0 .
+%act:	va menjant
+*ROS:	una mica de patata per la laia [= dona mes menjar a g] .
+*ROS:	a veure la boca [= te una patata a la ma] ?
+*CHI:	laia [% "aia" , toca la taula] .
+*CHI:	0 .
+%act:	pren mes menjar
+*CHI:	0 .
+%act:	mossega amb tanta forca la patata que la r te al dit que li mossega el dit
+*ROS:	au [= es queixa i retira el dit] !
+*ROS:	ara una mica de xixi@c per la laia , vale ?
+*ROS:	vale , guillem ?
+*CHI:	xixi@c [% "kiki" , gest afirmatiu amb el cap] .
+*ROS:	va , empassa't lo de la boca .
+*ROS:	una mica de xixi@c per la laia .
+*ROS:	<te , laia> [>] !
+*CHI:	pcf [<] [% "pela" , no accepta mes menjar] .
+*ROS:	no , no m' estima .
+*ROS:	te , laia .
+*ROS:	menja't' ho tot , eh , laia [= li posa la carn a la boca] !
+*CHI:	0 .
+%act:	mastega
+*ROS:	que es bo , laia [= mira g] ?
+*CHI:	laia .
+*ROS:	la laia !
+*ROS:	ara per l' emilio .
+*CHI:	emilio [% "alalio"] ?
+*ROS:	una mica de xixi@c per l' emilio , vale ?
+*CHI:	emilio [% "alalio" , es mira la carn] .
+*ROS:	digues , vine , emilio , vine , que et donarem xixi@c , vine !
+*CHI:	ara , xxx laia [% "ara ra laia" , mostra un cel'lo] .
+*CHI:	pcf [% "pj" , mira l' observador , te el cel'lo a la ma i li tira un tret amb el dit index] .
+*INV:	pcf [% "pj" , com si dispares] .
+*CHI:	pcf [>] [% "pauj" , com si dispares] .
+*ROS:	<una mica de xixi@c per l' emilio , vale> [<] [= li posa un tros de carn a la boca] ?
+*ROS:	vale ?
+*ROS:	vale .
+*CHI:	pcf [% "aratita"] !
+*ROS:	vale .
+*ROS:	ara una mica de xixi@c pel roger [= una cullera amb carn a la ma] .
+*CHI:	ara xixi@c pel roger .
+*ROS:	pel roger , vale [= mira en guillem , te cullera a la ma] ?
+*CHI:	vale .
+*ROS:	vale .
+*ROS:	te , roger [= li posa la cullera a la boca] .
+*CHI:	0 .
+%act:	mastega
+*ROS:	ara una mica de xixi@c , una mica de xixi@c pel [/?] per l' eduard [= talla la carn amb una cullera] !
+*CHI:	eduard [% "tat"] ?
+*ROS:	si , una mica de xixi@c per xxx .
+*CHI:	xxx [% "ito"] !
+*ROS:	que es molt petito l' eduard !
+*CHI:	0 .
+%act:	abaixa el cap i amb la boca agafa la cullera
+*ROS:	eh <que si> [>] !
+*CHI:	eduard [<] [% "tat"] .
+*ROS:	es molt petito l' eduard !
+*CHI:	0 .
+%act:	pren mes menjar
+*CHI:	crema [% "mema"] !
+*ROS:	[^ se'l mira i li posa el brac pel darrera l' espatlla] no crema , que la maria rosa la bufa !
+*ROS:	a l' eduard no crema , no !
+*CHI:	0 .
+%act:	mastega
+*ROS:	ara pel marc , vale ?
+*CHI:	pel marc [% "a tat" , mastega] .
+*ROS:	pel marc .
+*ROS:	[^ mira el nen] vale ?
+*ROS:	vale ?
+*ROS:	vale [= talla carn] .
+*ROS:	ara una mica de xixi@c pel marc .
+*CHI:	0 .
+%act:	recolza el cap a l' espatlla de la r
+*ROS:	te marc [= li acosta la cullera plena de carn a la boca] !
+*ROS:	digues , que et faras molt gran !
+*CHI:	pcf [% "a iaia" , estira el brac] .
+*ROS:	per la maria rosa te , per la &ma [= referencia l'examinador] +/.
+*CHI:	pcf [% "a iaia" , amb la ma rebutja la cullera] .
+*ROS:	la maria rosa ?
+*CHI:	pcf [% "a iaia" , estira el brac] !
+*ROS:	que passa ?
+*INV:	la iaia .
+*CHI:	pcf [% "a iaia" , estira el brac] !
+*INV:	la iaia o la laia .
+*ROS:	maria rosa .
+*ROS:	la laia [= ho diu a g] ?
+*CHI:	0 [= gest afirmatiu] .
+*ROS:	ah , per la laia [>] !
+*CHI:	xxx [<] .
+*ROS:	te , laia !
+*ROS:	es molt guapa eh , la laia !
+*CHI:	guapa la laia [% "a papa iaia"] .
+*ROS:	si , el guillem l' estima molt , molt , molt !
+*CHI:	el cel'lo [% "a telo" , amb el cel'lo a la ma , l' ensenya a l' examinador] !
+*ROS:	el cel'lo !
+*CHI:	a +/.
+*ROS:	per a enganxar <a la> [<] paret .
+*CHI:	pcf [>] [% "a"] .
+*CHI:	a la xxx [% la xxx es "kat"] !
+*ROS:	a veure la boca ?
+*CHI:	si .
+*ROS:	que la tens buida ?
+*CHI:	0 [= obre la boca] .
+*ROS:	si [= dona mes cullerades a g] .
+*ROS:	mastega .
+*CHI:	0 .
+%com:	li cau el cel'lo
+*ROS:	apa , el cel'lo !
+*CHI:	el celo [% "a telo"] !
+*ROS:	jolin !
+*CHI:	el celo xxx [% "a telo aia" , mostra el cel'lo] !
+*ROS:	es per enganxar .
+*CHI:	aqui [= assenyala el cel'lo] !
+*ROS:	aqui [<] .
+*CHI:	pcf [>] [% "ta , ata"] .
+@Comment:	entra un gos a l' habitacio
+*ROS:	xxx .
+*CHI:	mo [= estira el brac] .
+*ROS:	que t' ho dongui ?
+*ROS:	dona'm'ho .
+*ROS:	dona'm'ho .
+*CHI:	celo [% "telo"] .
+*ROS:	el cel'lo .
+*ROS:	a veure la boca com esta ?
+*ROS:	va , ensenya'm la boca , guillem , ensenya'm la boca !
+*CHI:	0 .
+%act:	avanca el cos
+*ROS:	que cau !
+*CHI:	pcf [% "anou"] !
+*ROS:	si , tu menja't aixo , la mare et portara l' ou , vale ?
+*CHI:	la yoya@c [% "la iaia"] !
+*ROS:	la maria rosa anira a buscar un ou , vale ?
+*CHI:	ou [% "nou"] .
+*ROS:	digues , maria rosa , ves a buscar un ou , xxx [% la xxx es "encabat"] .
+*CHI:	mare .
+*ROS:	que la mare te'n dona .
+*CHI:	pcf [% "maararam , nam , a marana , ma , aa mal , tat" , estira el brac] .
+*ROS:	es clar , perque la mare te mal a la ma , aqui s' ha de curar , eh que si ?
+*ROS:	es clar .
+*ROS:	la mare del guillem te mal a la ma , i no li pot donar el sopar , eh que no , guillem ?
+*QUI:	0 .
+%act:	entra a l' habitacio
+*QUI:	jo vull mirar , jo vull mirar !
+*ROS:	pero no ploris .
+@Comment:	hi ha un tall a la cinta , sembla que q miri pel punt de mira de la camera de video
+*QUI:	guillem .
+*INV:	oh , ja no se que es el guillem !
+*INV:	es clar que es el guillem !
+*CHI:	ara a mi .
+*ROS:	ara a mi , maria rosa , home !
+*QUI:	0 .
+%com:	esta al mig de la imatge
+*INV:	xxx quim .
+*CHI:	ara xxx [% "ara nono"] .
+*ROS:	que passa ?
+*CHI:	<ara fotos> [/?] yoya@c fotos pega [% "ara toto , iaia toto , arararo pega"] .
+*ROS:	la maria rosa de les fotos et pega ?
+*CHI:	0 [= fa si amb el cap] .
+*ROS:	renya'la .
+*ROS:	renya'la , guillem , a la +/.
+*CHI:	ai ai ai !
+*CHI:	xxx pare xxx xxx [% "a pare a pegu"] .
+*ROS:	li dire al pare que et pegui , ale !
+*ROS:	ah , fes aixis amb la ma , ah [= mou la ma com si pegues] !
+*CHI:	ah [= li imita el gest] !
+*ROS:	el cul !
+*CHI:	cul !
+*ROS:	digues , rebras !
+*CHI:	rebras [% "ratat"] .
+*ROS:	es un saldo [<] , eh !
+*CHI:	xxx [>] .
+*CHI:	0 .
+%act:	amenaca llancar el cel'lo a e
+*ROS:	ai , no el llancis !
+*CHI:	0 .
+%act:	llanca el cel'lo cap a e
+*ROS:	xxx [<] .
+*CHI:	<el celo> [>] ?
+*ROS:	l' has llancat !
+*INV:	es per mi !
+*CHI:	pcf [% "aiaiaia"] !
+*ROS:	digues , dona'me'l , si us plau .
+*INV:	mira , que tinc ?
+*INV:	me'l quedo per mi !
+*ROS:	digues , li dire al pare !
+*CHI:	xxx pare [% "re pare"] !
+*ROS:	home !
+*CHI:	home !
+*CHI:	ah [= estira el brac cap a e] !
+*ROS:	digues , no em facis enfadar , eh !
+*INV:	aja !
+*ROS:	digues'li que no et faci enfadar .
+*INV:	<el faig> [<] +/.
+*CHI:	pcf [>] [% "ah" , estira el brac cap a e] .
+*INV:	el faig riure , no el faig enfadar .
+*CHI:	aqui [= pica la taula] !
+*ROS:	aqui , home !
+*INV:	el tornaras a tirar , el <tornaras a llancar> [<] ?
+*ROS:	<digues no> [>] .
+*CHI:	0 .
+%act:	fa un gest amenacador
+*INV:	no el tornis a llancar , eh !
+*INV:	te'l dono , pero no el tornis a llancar , vale ?
+@Comment:	sembla que e torni el cel'lo
+*ROS:	ja esta .
+*ROS:	digues , home , que es del guillem !
+*CHI:	el guillem [% "e mimem"] !
+*ROS:	home !
+*CHI:	aqui .
+*ROS:	aqui el cel'lo , pel guillem i la maria rosa !
+*CHI:	0 .
+%act:	ha agafat el cel'lo
+*ROS:	oi que si , guillem ?
+*CHI:	no el celo xxx [% "no a telo atxa"] !
+*ROS:	no es pot llancar el cel'lo !
+*ROS:	obre la boca .
+*ROS:	que tens xixi@c a la boca ?
+*ROS:	tens xixi@c a la boca ?
+*CHI:	pcf [% "da" , dona un cop a la taula] .
+*CHI:	pcf [% "aia"] .
+*ROS:	no el llancis , eh !
+*ROS:	ai , si s' enfada la maria rosa !
+*CHI:	pcf [% "coco"] .
+*ROS:	la de les fotos , si , la de les fotos .
+*ROS:	ensenya'm la boca , guillem .
+*ROS:	que la tens buida .
+*ROS:	a veure la boca , ah !
+*CHI:	0 [= obre la boca] .
+*ROS:	va , empassa't' ho .
+*CHI:	0 .
+%act:	va mastegant
+*ROS:	empassa't aixo de la boca .
+*CHI:	0 .
+%act:	pren una cullerada , i es queda la cullera a la boca
+*ROS:	socorro , socorro !
+*ROS:	0 .
+%act:	treu la cullera de la boca g
+*CHI:	pcf [% "nini nene" , agafa la cullera] .
+*CHI:	pcf [% "ara tata"] !
+*CHI:	pcf [% "ayi"] .
+*CHI:	0 .
+%act:	remena la carn amb la cullera
+*ROS:	te una patata .
+*ROS:	una patata [= ofereix una patata a g] .
+*CHI:	0 .
+%act:	va remenant la carn i mou el plat
+*ROS:	oi , ai !
+*ROS:	ai , ai !
+*CHI:	mira !
+*ROS:	miro !
+*ROS:	<a veure aquesta> [/?] a veure aquesta boca [= ofereix una patata a g] .
+*CHI:	0 .
+%act:	continua remenant la carn
+*ROS:	guillem !
+*CHI:	el guillem [% "a mim"] ?
+*ROS:	el guillem esta sopant , i s' ho menja tot [% "mim" en comptes de guillem] !
+*CHI:	la sopa [% "a topa"] !
+*ROS:	sopa .
+*ROS:	i el guillem te patates , eh que si , guillem ?
+*ROS:	a veure la boca ?
+*ROS:	ensenya'm la boca .
+*CHI:	0 [= mira fixament al fons] .
+*ROS:	ensenya'm la boca !
+*CHI:	pcf [% "mi" , mira fixament] .
+*ROS:	va !
+*CHI:	0 .
+%act:	pica la taula amb la cullera
+*ROS:	ah , ah , ah !
+*CHI:	0 .
+%act:	obre la boca i r li posa una patata
+*ROS:	patata .
+*CHI:	0 .
+%act:	es treu la patata
+*ROS:	mossega [= ofereix la patata] .
+*CHI:	0 [= no pren la patata] .
+*ROS:	no en vols de patata ?
+*CHI:	espera [= aparta el cap] .
+*CHI:	0 .
+%act:	mossega la patata , i va picant
+*ROS:	no facis soroll , eh [= posa la patata a la boca de g] !
+*CHI:	0 [= no pren la patata] .
+*ROS:	vale ?
+*ROS:	vale .
+*ROS:	obre la boca , pel marc !
+*CHI:	0 .
+%act:	mossega el dit de r
+*ROS:	ui !
+*CHI:	0 [=! riu] .
+*ROS:	0 [=! riu] .
+*ROS:	una patata pel marc .
+*ROS:	ara una patata per la laia , vale [= ofereix una patata] ?
+*CHI:	laia .
+*CHI:	la laia [% "la aia" , agafa la patata] .
+*ROS:	per la laia , va .
+*CHI:	crema [% "mema"] !
+*ROS:	no crema , no .
+*CHI:	0 .
+%act:	es posa la patata al cabell del cap
+*ROS:	guillem , home , que tens el cap net i xxx +...
+*CHI:	0 .
+%act:	se la torna a posar un altre cop
+*ROS:	guillem !
+*ROS:	m' enfado [= agafa la patata] ?
+*CHI:	no .
+*ROS:	doncs no facis mes marranades !
+*CHI:	0 .
+%act:	agafa la patata , i la posa a la taula
+*ROS:	pcf [% "txt" , crida l' atencio de g] .
+*ROS:	m' enfado , eh !
+*ROS:	ai , que m' enfado !
+@Comment:	r pica la taula , g pica la taula amb la cullereta
+*ROS:	va , menja xxx , corre !
+*CHI:	0 .
+%act:	pica mes la taula
+*ROS:	home [= pren la cullera a g] !
+*CHI:	pcf [% "aia"] !
+*ROS:	no +/.
+*CHI:	aqui [= assenyala el plat de la carn] .
+*ROS:	aqui , i prou , s' ha acabat [= posa la cullera sobre el plat de la carn] .
+*CHI:	0 .
+%act:	agafa la cullera
+*ROS:	deixa la cullera alla !
+*ROS:	deixa la cullera o xxx ara mateix !
+*CHI:	0 .
+%act:	deixa la cullera sobre la taula
+*ROS:	i no la toquis , eh !
+*CHI:	aqui [= deixa la cullera sobre la taula] .
+*ROS:	i no es toca !
+*CHI:	aqui [= acaba de posar la cullera] .
+*CHI:	aqui !
+*ROS:	i prou !
+*CHI:	pcf [% "era" , toca la cullera] !
+*CHI:	pcf [% "kiu kera" , toca la cullera] !
+*ROS:	aqui la cullera , si .
+*CHI:	0 [= es mira la patata] .
+*ROS:	va , xxx , corre !
+*ROS:	va , que es per la laia .
+*CHI:	la laia [% "a iaia"] .
+*ROS:	si , empassa't lo de la boca .
+*CHI:	no [= ofereix la patata a r] .
+*ROS:	empassa't +...
+*ROS:	jo no vull , jo no vull !
+*CHI:	te [<] [= insisteix] .
+*ROS:	xxx [>] .
+*ROS:	no , pel guillem !
+*ROS:	pel guillem !
+*ROS:	pel guillem .
+*ROS:	vale ?
+*ROS:	vale .
+*ROS:	0 .
+%act:	fa veure que es menja la patata
+*ROS:	xxx , que bona , xxx [% les xxx son "um"] !
+*CHI:	0 .
+%act:	es posa la patata a la boca
+*ROS:	mastega !
+*INV:	escolta , guillem , em dones una patata per mi ?
+*ROS:	digues , si , be , una patata per la maria rosa [= agafa una patata] .
+*CHI:	xxx fotos [% "a toto" , agafa la patata] .
+*CHI:	te [= ofereix la patata a e] .
+*ROS:	ves a donar'li , ves a donar'li , corre !
+*INV:	me la dones ?
+*ROS:	ves a donar'li .
+*CHI:	0 .
+%act:	porta la patata a e
+*INV:	xxx gracies [>] [% la xxx es "um"] !
+*ROS:	digues [<] , que es bona ?
+*CHI:	pcf [% "anana" , torna cap a la taula] .
+*INV:	gracies !
+*INV:	no crema , eh !
+*ROS:	no , no crema , no .
+*CHI:	no crema [% "no mera" , fa no amb el cap] .
+*ROS:	no .
+*CHI:	0 .
+%act:	va mastegant , i obre la boca
+*ROS:	va , corre , mastega , home !
+@Comment:	g va mastegant , i r l' imita
+*ROS:	va , mastega .
+*ROS:	va , aquesta la laia .
+*ROS:	una altra per la laia [= ofereix una patata a g] .
+*CHI:	no [= agafa la patata] .
+*ROS:	perque ?
+*CHI:	xxx xxx xxx fotos [% "ala ieia a toto" , ofereix una patata a e] .
+*ROS:	no , la maria rosa de les fotos ja n' ha menjat .
+*ROS:	tu menja't aquesta , i en acabat li dones una altra [% "dons" en comptes de dones] .
+*CHI:	pcf [% "ala iaia" , mostra la patata] .
+*CHI:	pcf [% "iaia" , mostra la patata] .
+*CHI:	pcf [% "at" , s' acosta a la taula] .
+*CHI:	aqui , xxx [% la xxx es "tata"] !
+*ROS:	va , porta'la a la boca .
+*CHI:	yoya@c 0de 0les fotos , yoya@c 0de 0les fotos [% "iaia toto , iaia toto"] .
+*CHI:	0 .
+%act:	li cau la patata
+*ROS:	yoya@c 0de 0les fotos [% "iaia toto" , agafa la patata] .
+*ROS:	mossega !
+*CHI:	mal !
+*ROS:	te mal ?
+*ROS:	a on te mal la maria rosa de les fotos ?
+*CHI:	aqui [% "ti" , assenyala cap a e] !
+*ROS:	aqui ?
+*INV:	el dit , si .
+*ROS:	pobreta !
+*CHI:	0 .
+%act:	agafa el cel'lo i se li cau
+*ROS:	cel'lo .
+*CHI:	pcf [% "te" , agafa el cel'lo] .
+*CHI:	0 .
+%act:	pica la taula amb el cel'lo
+*ROS:	mira , una petita per l' espinete [= ofereix una patata] .
+*ROS:	vale ?
+*CHI:	pcf [% "atat tete" , agafa la patata] .
+*ROS:	va , corre , menja'te'la .
+*ROS:	que es per l' espinete .
+*CHI:	pcf [% "a non"] .
+*ROS:	una altra pel pimpom@c .
+*CHI:	altra 0pel pimpom@c [% "ata pipmo"] .
+*ROS:	a veure la boca ?
+*ROS:	0 .
+%act:	neteja la boca a g
+*CHI:	te pimpom@c [% "te pimo" , estira el brac cap en davant , amb una patata a la ma] !
+*CHI:	te .
+*ROS:	te pimpom@c , te .
+*ROS:	ah [>] [= porta la patata cap a la boca de g] !
+*CHI:	ah [<] [= imita r] !
+*ROS:	a veure +/.
+*CHI:	te yoya@c fotos [% "te ioia toto" , ofereix una patata mossegada a e] .
+*ROS:	si , home , aquesta !
+*ROS:	una altra , <aquesta no> [>] .
+*INV:	<me'n guardes una> [<] , me la guardes i me la dones despres ?
+*ROS:	digues , si .
+*CHI:	no xxx [% "no , eia" , agafa una altra patata] .
+*ROS:	xxx [>] +/.
+*INV:	xxx [<] .
+*ROS:	no la llancis , eh !
+*CHI:	0 .
+%act:	porta una patata a e
+*INV:	gracies .
+*CHI:	0 .
+%act:	torna a la taula
+*ROS:	ai [= puja g a la taula] !
+*CHI:	0 [= obre la boca] .
+*ROS:	va mastega .
+*CHI:	0 .
+%act:	mastega
+*ROS:	0 .
+%act:	imita g
+*ROS:	a veure tu com mastegues ?
+*ROS:	mastega .
+*ROS:	xxx , que bona [% la xxx es "um"] !
+*CHI:	0 .
+%act:	mastega mes , i obre la boca
+*ROS:	pero mastega , home !
+*CHI:	pcf [% "a , a , a"] .
+*INV:	pcf [% "a"] .
+*CHI:	pcf [% "a"] .
+*ROS:	va , mastega !
+*CHI:	pcf [% "aa" , llenca el cel'lo a terra] .
+*CHI:	xxx cel'lo [% "eia telo"] .
+*ROS:	el cel'lo se n' ha anat lluny .
+*CHI:	pcf [% "oara" , assenyala cap en davant] !
+*ROS:	0 .
+%act:	dona mes patata a g
+*CHI:	el cel'lo [% "a celo"] ?
+*ROS:	se n' ha anat !
+*ROS:	va , que anire a buscar un ou , va [= ofereix mes patata a g] .
+*CHI:	mira [= assenyala cap en davant] !
+@Comment:	hi ha un tall a la cinta
+*INV:	que menja el guillem ?
+*ROS:	<digues , un ou> [>] .
+*CHI:	pcf [<] [% "anou"] .
+*INV:	ah !
+*ROS:	una mica d' ou i una mica de patata , vale , guillem ?
+*INV:	i xixi@c ja no en menja mes ?
+*ROS:	xxx .
+*CHI:	pcf [% "a" , obre la boca] .
+*CHI:	pcf [% "a" , obre la boca] .
+*CHI:	pcf [% "a" , obre la boca] .
+*INV:	ja veig que tens la boca molt grossa .
+*CHI:	pcf [% "a" , obre la boca] .
+*ROS:	0 .
+%act:	dona ou a g
+*INV:	ai , que li passa [= sembla que parli sola] ?
+*CHI:	pcf [>] [% "a , a , a"] .
+*INV:	<ah , que es deu estar acabant la pel'licula> [<] [= sembla que parli sola] .
+@Comment:	hi ha un tall , r ofereix menjar a g , g fa no amb el cap
+*ROS:	no .
+*ROS:	xixi@c .
+*CHI:	0 .
+%act:	menja la carn
+*ROS:	ara ou , vale ?
+*ROS:	una mica d' ou , una mica de xixi@c , que et dona la maria rosa .
+*ROS:	i la boca ?
+*CHI:	0 .
+%act:	es treu menjar de la boca
+*ROS:	a la xixi@c a la boca ara mateix !
+*ROS:	vinga !
+*ROS:	a la boca !
+*ROS:	va a la boca !
+*ROS:	0 .
+%act:	posa la cullera a la ma on g te el menjar
+*ROS:	posa la xixi@c aqui a la cullera !
+*ROS:	que no caigui a terra .
+*ROS:	posa'la a dintre la cullera .
+@Comment:	g posa la carn a la cullera , r li ofereix la carn
+*ROS:	i mastega .
+*ROS:	m' enfado , o me'n vaig ?
+*CHI:	aixo [= assenyala el plat de la carn] .
+*ROS:	no , aqui no !
+*CHI:	0 .
+%act:	tira el cel'lo
+*ROS:	va , que et donare ou .
+*ROS:	va , obre la boca , que va ou .
+%com:	r ofereix l' ou , pero g va mastegant
+*ROS:	va , empassa't' ho , corre !
+*ROS:	xxx , que bona [% la xxx es "um"] !
+@Comment:	g menja l' ou , r prepara la nova cullerada
+*ROS:	carai !
+%com:	r dona mes ou a g , g tiba de la cullera
+*ROS:	no facis el tonto , eh !
+*ROS:	ara una mica d' ou , vale ?
+*ROS:	ai , una mica de xixi@c , eh !
+*ROS:	0 .
+%act:	agafa carn i se li cau
+*ROS:	jolin !
+%com:	r dona la carn a g , i g la menja
+*ROS:	ara ou .
+%com:	r dona ou a g , i g el menja , r dona mes ou a g
+*ROS:	a veure la boca ?
+*CHI:	ou [% "nou" , menja l' ou] .
+*ROS:	una mica de xixi@c ?
+*CHI:	xxx ou [% "a , nou" , obre la boca] !
+*CHI:	xxx ou [% "anou"] !
+*ROS:	he menjat ou !
+*ROS:	ara xixi@c [= dona carn a g] .
+*CHI:	xixi@c .
+*CHI:	i ara xixi@c [% "i ara yiyi@c" , obre la boca] .
+*INV:	ja la veig , ja la veig la carn .
+*CHI:	pcf [% "a" , obre la boca] .
+*ROS:	ara ou [= ofereix ou] .
+*ROS:	0 .
+%act:	se li mou la cama
+*ROS:	ai !
+*CHI:	guillem [% "mimimem" , obre la boca] .
+*ROS:	xixi@c pel guillem , si [>] .
+*CHI:	pcf [<] [% "a" , obre la boca] .
+*ROS:	xxx que bona [% la xxx es "um"] !
+*CHI:	pcf [% "a" , obre la boca] .
+*ROS:	pcf [% "um"] .
+*CHI:	pcf [% "a" , obre la boca] .
+*ROS:	va , xxx !
+*CHI:	0 [= tanca la boca] .
+*ROS:	xxx !
+*CHI:	0 .
+%act:	obre i tanca la boca , i va mastegant , va a tossir
+*ROS:	que tens mareo ?
+*CHI:	0 [= estossega] .
+*ROS:	oh , pero , mira , ou pel guillem , eh que si ?
+*ROS:	quan es mengi la xixi@c , la maria rosa li donara ou .
+*CHI:	el guillem [% "a mim"] .
+*ROS:	ara ou [= dona ou a g] .
+*CHI:	el guillem [% "a mim"] .
+*ROS:	el quim ?
+*ROS:	i xxx menja tota la xixi@c .
+%com:	r ofereix mes carn a g , g gira la carn
+*CHI:	xxx sopa [% "noa popa"] !
+*ROS:	el quim te sopa ?
+*CHI:	0 [= fa si amb el cap] .
+*ROS:	ostres , el quim te sopa , eh !
+*ROS:	ara xixi@c , ai , ou [= ofereix ou] .
+*CHI:	0 .
+%act:	va mastegant i pren l' ou
+*ROS:	obre be la boca .
+*ROS:	que cau , guillem , que cau l' ou .
+*ROS:	mastega , eh !
+*CHI:	0 .
+%act:	menja mes cullerades de carn
+*ROS:	va , ou , vale ?
+*CHI:	0 .
+%act:	es posa la ma a la cara
+*ROS:	va , que ja estas .
+*CHI:	0 .
+%act:	va mastegant
+*INV:	que te son el guillem ?
+*ROS:	quan menja s' adorm .
+*INV:	tens son ?
+*CHI:	0 [= obre la boca] .
+*INV:	si ?
+*CHI:	0 .
+%act:	menja mes ou , toca l' ou per dintre
+*CHI:	pcf [% "ira"] .
+*ROS:	encara n' hi ha , eh , d' ou !
+*CHI:	0 .
+%act:	menja mes ou
+*ROS:	a veure si n' hi ha ?
+*CHI:	0 .
+%act:	torna a agafar l' ou
+*ROS:	pcf [% "um" , prepara una altra cullerada] !
+*ROS:	<a veure> [/?] a veure la xixi@c ?
+*ROS:	guillem , no trenquis aixo , encara n' hi ha [= es refereix a l' ou] .
+*ROS:	va !
+%com:	r ofereix mes ou , g no fa res
+*ROS:	va , desperta't , que t' adorms !
+*CHI:	0 .
+%act:	continua agafant l' ou
+*ROS:	mira , aqui hi ha ou , no ho trenquis , home , que encara hi ha ou !
+*CHI:	0 .
+%act:	torna a tocar l' ou
+*ROS:	ets mes tossut !
+*ROS:	xxx [= aparta la ma] !
+*ROS:	fes el favor !
+*ROS:	no veus que hi ha ou , encara a dintre ?
+*CHI:	0 .
+%act:	torna a agafar l' ou
+*ROS:	home !
+*ROS:	surt d' aqui !
+*CHI:	pcf [>] [% "a , a , a" , agafa r pel brac] .
+*ROS:	<no , eh> [<] !
+*ROS:	que xxx de sopar , eh !
+*CHI:	pcf [>] [% "a , a"] .
+*ROS:	<vinguen home> [<] !
+*CHI:	pcf [% "aa" , agafa pel coll a r] .
+*ROS:	0 .
+%act:	besa g
+*ROS:	no m' enfado , pero mastega .
+*ROS:	si no , m' enfado , eh !
+*CHI:	0 .
+%act:	continua mastegant , sembla que g roti
+*ROS:	bon profit !
+*CHI:	pcf [% "a" , es toca la cara , adormit] .
+*ROS:	vale ?
+*CHI:	pcf [% "a"] .
+*INV:	s' esta clapant aquest nen .
+*ROS:	no t' adormis , eh , que m' enfado , eh !
+*CHI:	0 .
+%act:	menja mes ou
+*ROS:	tot t' ho has de menjar !
+*CHI:	ara ou [% "an ou" , obre la boca] !
+*ROS:	ara ou , si .
+*ROS:	ah , que bo que es aquest ou !
+*CHI:	0 .
+%act:	menja mes ou
+*ROS:	molt be , guillem !
+*ROS:	molt guapo !
+*ROS:	0 .
+%act:	prepara l' ultima cullerada
+*ROS:	te , ara si que el pots trencar si vols .
+*ROS:	ara si .
+*ROS:	te , trenca'l .
+*CHI:	0 .
+%act:	agafa l' ou
+*ROS:	ara si .
+*CHI:	0 .
+%act:	agafa l' ou , r intenta donar mes ou a g , g gira el cap
+*ROS:	va , menja +...
+%com:	cau un tros d' ou
+*ROS:	ui !
+%com:	r agafa el tros , g ofereix l' ou a r
+*ROS:	va , ara llanca'l al plat .
+*ROS:	deixa'l aqui dintre , aqui dintre , a viam .
+*CHI:	0 .
+%act:	deixa l' ou al plat
+*ROS:	molt be !
+*CHI:	0 .
+%act:	menja l' ultima cullerada
+*ROS:	molt be , guillem !
+*ROS:	ara un iogurt , vale ?
+*ROS:	vale .
+*CHI:	no .
+*ROS:	vale [= posa un iogurt sobre la taula] ?
+*CHI:	no .
+*ROS:	si , es molt bo !
+*ROS:	una mica de xixi@c i una mica de iogurt .
+*CHI:	no !
+*ROS:	bueno , nomes iogurt .
+*CHI:	no xxx xxx [% "no a tata"] !
+*CHI:	0 .
+%act:	es treu l' ou de la boca
+*ROS:	ai , que es ou ?
+*ROS:	posa't' ho a la boca , si us plau !
+*ROS:	m' enfado , eh !
+*ROS:	0 .
+%act:	li fa prendre l' ou que ha tret i el renya
+*ROS:	te'n vas sense sopar ?
+*CHI:	0 .
+%act:	menja l' ou
+*ROS:	va [= prepara una cullerada de iogurt] !
+*CHI:	0 .
+%act:	encara esta mastegant
+*ROS:	eixuga' t la cara amb el pitet , eixuga't la boqueta amb el pitet .
+*ROS:	eixuga't la boca amb el pitet , eixuga't la boca amb el pitet .
+*CHI:	0 [= obre la boca] .
+*ROS:	que t' eixuguis la cara amb el pitet !
+*ROS:	eixuga't la boca amb el pitet , guillem !
+*ROS:	eixuga't amb el pitet .
+*CHI:	0 .
+%act:	es passa el pitet per la cara
+*ROS:	molt be !
+*ROS:	torna'hi .
+*CHI:	0 .
+%act:	va menjant cullerades de iogurt
+*ROS:	no t' adormis , eh !
+*CHI:	0 .
+%act:	pren una cullerada mes
+@Comment:	hi ha un tall a la cinta , g esta bevent aigua
+*CHI:	pcf [% "a" , acaba de beure aigua] .
+*ROS:	respira !
+*INV:	que has begut , guillem que has begut ?
+*CHI:	aigua [% "a uaua"] .
+*ROS:	que pica ?
+*CHI:	aigua 0que pica [% "uaua pica"] .
+*ROS:	es aigua que pica ?
+*CHI:	0 [= fa si amb el cap] .
+*ROS:	si , oi que si ?
+*ROS:	es clar !
+*INV:	no pica , no .
+*ROS:	no .
+*CHI:	0 .
+%act:	torna a beure , i tus
+*ROS:	ui , sant pau [= agafa el got i el posa sobre la taula] !
+*CHI:	pcf [% "ata" , estira el brac cap el got] .
+*CHI:	pcf [% "ata" , agafa el got i l' ofereix a e] .
+*ROS:	deixa'l aqui , deixa'l sobre la taula , sobre la taula !
+*CHI:	0 .
+%act:	deixa el got sobre la taula
+*CHI:	el got [% "el go" , agafa el got] .
+*ROS:	deixa el got sobre la taula , guillem , que et caura a terra .
+*CHI:	0 .
+%act:	deixa el got sobre la taula
+*CHI:	aqui .
+*ROS:	aqui ?
+*ROS:	a viam el que dura , doncs .
+*CHI:	aqui [= empenta una mica el got] .
+*ROS:	aqui .
+*CHI:	pcf [% "a" , pren una cullerada] .
+*CHI:	0 .
+%act:	va menjant cullerades
+*ROS:	va , que et rentem la cara , vale , ara [= deixa el iogurt sobre la taula] ?
+*ROS:	0 .
+%act:	dona l' ultima cullerada a g
+*CHI:	la sopa [% "a popa"] !
+*ROS:	ara no n' hi ha de sopa avui !
+*ROS:	0 .
+%act:	eixuga la cara de g amb el pitet
+*CHI:	pcf [% "a but"] .
+*ROS:	hem menjat un iogurt .
+*ROS:	espera't , que et rentem la cara , no et moguis .
+@Comment:	r surt de l' habitacio , g surt de l' habitacio
+*INV:	on vas , guillem ?
+*INV:	vine , vine !
+@Comment:	hi ha un tall a la cinta , g va cap a la maleta del video
+*INV:	aixo es meu , eh !
+*CHI:	pcf [% "pa" , agafa la maleta del video] !
+*CHI:	aqui [= te agafada la maleta] .
+*ROS:	aixo es meu [>] !
+*CHI:	aqui [<] [= obre la maleta] !
+*CHI:	pcf [% "pa"] !
+*INV:	posa'ho aqui , corre , desa'ho , desa'ho !
+@Comment:	hi ha un tall a la cinta
+@End

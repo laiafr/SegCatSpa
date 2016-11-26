@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;11.0||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	10-OCT-1995
+@Location:	in the bathroom
+@Activities:	MIR is in the bathtub playing with her toys
+@Comment:	MOT is video-taping
+*MIR:	altra (.) caseta ?
+%com:	MIR has a triangular piece of sponge on her hand
+*MOT:	l'altra caseta ?
+*MOT:	no sé on t'és .
+*MOT:	on t'és ?
+*MIR:	0 .
+%act:	picks up another triangular piece of sponge
+*MOT:	què és això que tens ?
+*MIR:	vagons .
+*MOT:	què ?
+*MIR:	vagons !
+*MOT:	vagons ?
+*MIR:	sí .
+*MOT:	de tren (.) vols dir (.) què són això ?
+*MIR:	0 .
+%act:	picks up a waggon
+*MIR:	mira !
+*MOT:	ah (.) un (.) només en tens un .
+*MIR:	i surt [= tut] per [= pa] (a)quí .
+*MIR:	mi(ra) .
+%act:	rolls the waggon under the bow of her leg
+*MOT:	i surt per aquí (.) mira (.) sí .
+*MIR:	mira caseta (mira) fet a Mimi .
+%act:	has stuck the two pieces of triangular sponge together and shows them to MOT
+*MOT:	mira caseta mira fet a Mimi ?
+*MOT:	sí que l'has fet tu !
+*MIR:	0 .
+%act:	tries to stick it to the wall of the bath
+*MIR:	una caseta aixís .
+@End

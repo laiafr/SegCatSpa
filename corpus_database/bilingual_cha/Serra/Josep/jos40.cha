@@ -1,0 +1,914 @@
+@UTF8
+@PID:	11312/c-00001955-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Josep Target_Child , MAR mare Mother , HUG hugo Brother , INV Investigator
+@ID:	spa , cat|Serra|CHI|3;4.08||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|HUG|||||Brother|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	estan en una habitacio , suposo que es la de jocs , j esta de peu al mig i m asseguda en una cadira
+*MAR:	la maquina del papa la vols ?
+*CHI:	si .
+*MAR:	i tu li fas fotos a la rosa .
+*CHI:	si .
+*MAR:	eh ?
+*CHI:	si .
+*MAR:	i la rosa et fa a tu .
+*CHI:	<&+pe &+pe pero> [/?] pero se trenca la de papa .
+*CHI:	anire [% "nire"] amb cuidado .
+*MAR:	aniras amb cuidado ?
+*CHI:	si .
+*MAR:	si perque saps que aquesta el papa no te la deixa .
+*MAR:	perque no agafem la del hugo , eh ?
+*CHI:	si .
+*CHI:	la del hugo .
+*MAR:	millor la del hugo jo crec .
+*CHI:	0 [= rondina] .
+*MAR:	pero sense enfadar'te .
+*MAR:	que avui estas una mica tou , eh .
+*MAR:	va , dibuixa aqui la maquina que jo vaig a buscar'la .
+*MAR:	mentre jo vaig a buscar'la .
+*MAR:	tu queda't aqui per a que no entri ningu .
+*MAR:	te la vaig a buscar .
+*MAR:	jo creia que la maquina de l' hugo la tenies aqui .
+*MAR:	eh josep [% busca la maquina] .
+*MAR:	tenia la impressio que la maquina de l' hugo la tenies aqui .
+*MAR:	mira els teus respalls de dents tan guapos
+	[% assenyala un prestatge] .
+*CHI:	rentar'me les dents [% agafa un respall] .
+*MAR:	vols rentar'te les dents ?
+*CHI:	si .
+*MAR:	espera que et porto la pasta .
+*MAR:	espera [% surt de l' habitacio] .
+*CHI:	al lavabo [% surt darrera m] .
+*MAR:	al lavabo ?
+*CHI:	si .
+@Comment:	son tots al lavabo , j es disposa a rentarse les dents
+*MAR:	cuidado , eh .
+*CHI:	0 .
+%act:	posa dentifric al respall
+*MAR:	i despres el respall ha d' estar aqui a l' armari , josep .
+*MAR:	perque sino s' embruten els respalls .
+%com:	j es renta les dents
+*MAR:	molt be .
+*MAR:	de dalt a baix , aixi .
+*CHI:	0 [= escup] .
+*CHI:	ja estic .
+*MAR:	molt be .
+*MAR:	espera que el netejo una mica .
+*MAR:	porta'm l' altre .
+*MAR:	porta'm el blau petit .
+*CHI:	blau ?
+*MAR:	si .
+*CHI:	aqui .
+*MAR:	no , no esta aqui .
+*MAR:	esta al teu quarto .
+*MAR:	tindria que estar aqui pero esta al teu quarto .
+*MAR:	corre , ves a buscar'lo .
+%com:	j va a buscar el respall
+*MAR:	clar , el blau petit s' ha de guardar aqui .
+*MAR:	aquest era de quan eres mes petit .
+*CHI:	si .
+*MAR:	a qui li donarem aquest ?
+*CHI:	al bebe .
+*MAR:	quan vingui el bebe li guardes pel bebe .
+*CHI:	si .
+*MAR:	les coses mes petites les guardem pel bebe .
+*CHI:	<jo lo> [/?] la camara de l' hugo .
+*MAR:	li has explicat a la rosa que comprem un bebe ?
+*CHI:	si .
+*INV:	no , no m' ho ha explicat .
+*INV:	jo no ho se .
+*CHI:	ai pero +...
+*CHI:	jo <quan quan> [/?] volia la camara de l' hugo .
+*MAR:	si .
+*MAR:	vaig a buscar la camara de l' hugo .
+*MAR:	jo diria que l' altre dia te la va donar el papa .
+%com:	van a buscar la camara
+*MAR:	a veure .
+*CHI:	i <el &+ca> [/?] la camara del roger ?
+*MAR:	mira quina camara +...
+@Comment:	tall a la cinta , frame 179
+*MAR:	que fa claclac@c .
+*CHI:	0 [=! plora] .
+*MAR:	escolta .
+*MAR:	pero no +...
+*CHI:	jo vull una altra .
+*MAR:	no vull sentir'te plorar .
+*CHI:	0 [=! continua plorant] .
+*MAR:	pero sense cridar .
+*CHI:	l' altra .
+*CHI:	una altra .
+*CHI:	una altra .
+@Comment:	tall a la cinta , frame 203
+*CHI:	i ara que xxx .
+*MAR:	espera , la deixem aqui que si ens veu l' hugo ens fara pampam@c al
+	cul .
+@Comment:	tall a la cinta , per fi han trobat una camara
+*MAR:	espera que preguntare si esta cargada .
+*MAR:	cuidado .
+*CHI:	pero es mira ?
+*MAR:	com es mira ?
+*CHI:	si .
+*MAR:	em sembla que es mira aixi .
+*MAR:	aixi !
+*MAR:	que be que es veu la rosa .
+*MAR:	mira [% li dona la camara] .
+*MAR:	ja veuras .
+*MAR:	per aqui has de mirar .
+*MAR:	per aqui .
+*CHI:	i apreto [% "preto"] ?
+*MAR:	eh ?
+*CHI:	perque fa xxx ?
+*MAR:	has d' apretar aqui .
+*MAR:	mirar per aqui i apretar aqui .
+*MAR:	primer mira be .
+*CHI:	0 .
+%act:	dispara
+*MAR:	oh !
+*MAR:	ja esta , ja has fet una foto .
+*CHI:	0 .
+%act:	putineja la camara
+*CHI:	i el boto ?
+*INV:	te un boto ?
+*CHI:	si .
+*INV:	que t' agrada fer fotos a tu josep ?
+*CHI:	0 .
+%act:	putineja la camara
+*INV:	que la vols tancar la maquina ?
+*CHI:	no .
+*CHI:	ara vaig [% surt de l' habitacio] +...
+*CHI:	vaig a +...
+*CHI:	hugo .
+*HUG:	no , con esta no juegas .
+*CHI:	ai [% es queixa] !
+*HUG:	no , aquesta no .
+*CHI:	0 [=! es queixa] .
+*MAR:	busquem l' altra .
+*MAR:	busquem l' altra josep .
+*HUG:	la teva .
+*HUG:	busca la teva .
+*CHI:	no .
+*HUG:	si , si .
+@Comment:	m li ha deixat la camara del pare , tall a la cinta , frame 304
+*MAR:	un rato nomes amb aquesta , eh josep .
+*MAR:	i despres juguem amb una altra cosa .
+*CHI:	i ara ?
+*CHI:	com es mira ?
+*MAR:	eh ?
+@Comment:	enraonen m i e
+*MAR:	no toquis .
+*CHI:	0 .
+%act:	putineja la camara
+*MAR:	aqui no es pot tocar .
+*MAR:	aixi , va .
+*MAR:	apreta aqui i li fas la foto a la rosa .
+*MAR:	que la veus ?
+*MAR:	la veus o no ?
+*CHI:	si .
+*MAR:	com la veus ?
+*MAR:	la veus tota o no ?
+*MAR:	o nomes li veus el cap ?
+*MAR:	eh josep ?
+*CHI:	0 .
+%act:	putineja la camara
+*MAR:	digues .
+%com:	enraonen m i e
+*CHI:	com es fan les fotos ?
+*MAR:	aqui .
+*MAR:	aixi .
+*MAR:	com tu fas .
+*MAR:	aqui , amb aquest botonet vermell .
+*MAR:	aquest , aquest .
+*MAR:	treu el dit .
+*MAR:	aquest .
+*CHI:	apreto aquest ?
+*MAR:	exacte .
+*MAR:	i la fas la foto a la rosa .
+*MAR:	amb cuidado .
+*MAR:	una nomes hem dit , eh .
+*CHI:	el boto petit .
+*MAR:	si , el boto petit .
+*CHI:	0 .
+%act:	dispara
+*MAR:	que i a mi no em fas una foto ?
+*MAR:	una a mi i vale ja .
+*CHI:	vale .
+*CHI:	una a tu .
+*MAR:	y basta .
+*MAR:	la guardas ben guardada .
+*MAR:	com vols que em posi ?
+*CHI:	aixi [% no indica cap postura] .
+*MAR:	aixi [% no es mou] ?
+*MAR:	trec la llengua ?
+*CHI:	esta .
+*MAR:	ja esta ?
+*MAR:	guarda'la , guarda'la .
+*MAR:	si ve el papa ens renyara als dos .
+*MAR:	li diras al papa que hem agafat la maquina ?
+*MAR:	eh ?
+*CHI:	si .
+*CHI:	me la penjo ara .
+*MAR:	ara te la penjes ?
+*CHI:	0 .
+%act:	s' acosta a e amb el maleti de la camara de video
+*MAR:	on vas ?
+*MAR:	on vas josep ?
+*CHI:	guarda la teva foto [% a e] .
+*MAR:	no , ara no la guarda encara .
+*INV:	d' aqui una estoneta la guardare .
+*INV:	vale ?
+*INV:	quan la guardi m' ajudaras ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	si ?
+*INV:	a veure si es veritat .
+*MAR:	explica'li a la rosa que et vas emportar +...
+*MAR:	on va anar el gos [% agafa un gos de plastic] ?
+*MAR:	on el vam portar ?
+*CHI:	a l' avion .
+*INV:	ah si ?
+*INV:	i que tenia por el gosset ?
+@Comment:	enraonen e i m , m explica a e qui va regalar a j els ninos que hi ha a sobre el llit
+*MAR:	aquest el roger .
+*MAR:	i aquest ?
+*CHI:	no !
+*CHI:	aquest el lleo .
+*MAR:	i aquest qui te'l va regalar ?
+*CHI:	<el el> [/?] el papa .
+*MAR:	el papa te'l va portar , eh .
+*MAR:	com es diu ?
+*CHI:	<&+aq> [/?] aquest es diu xxx .
+*MAR:	i aquest ?
+*CHI:	isidoro .
+*MAR:	i aquest ?
+*CHI:	osito .
+*MAR:	quin t' agrada mes ?
+*CHI:	aquest .
+*MAR:	aquest .
+*MAR:	i aquest li va &+com +...
+*MAR:	i aquest que ?
+*CHI:	que no .
+*MAR:	qui te'l va comprar aquest ?
+*CHI:	<a a> [/?] el hugo .
+*MAR:	el dia de sant josep .
+@Comment:	enraonen m i e , j canturreja i juga amb un helicopter
+*MAR:	escolta josep , dema anirem a casa dels padrins a dinar .
+*MAR:	amb el papa i el xxx .
+*CHI:	si ?
+*MAR:	si .
+*MAR:	vols ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	amb la xana i amb la norma .
+*CHI:	i avui anem [% "nem"] .
+*MAR:	no , avui no , perque mira , ara es fara de nit i avui el que farem
+	es sopar i anar a dormir .
+*MAR:	i dema no anirem al cole .
+*CHI:	no .
+*MAR:	dema no hi ha cole .
+*CHI:	no .
+*MAR:	no anirem ni el hugo ni el roger ni el papa ni la mama ni el ni el
+	josep .
+*MAR:	eh ?
+*CHI:	ni el roberto .
+*MAR:	no , el roberto tampoc va al cole , no .
+*MAR:	que vols anar a veure al roberto ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	bueno , primer anem a casa de la xana , no ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	a portar'li el gos .
+*CHI:	avui si que anem .
+*MAR:	no , avui no , dema .
+*MAR:	escolta .
+*MAR:	que t' has fet aqui ?
+*MAR:	una altra esgarrapada ?
+*MAR:	que has fet al cole ?
+*CHI:	xxx .
+*MAR:	eh ?
+*MAR:	amb qui t' has barallat ?
+*CHI:	amb un nen .
+*MAR:	pero amb quin nen ?
+*MAR:	eh ?
+*MAR:	no m' ho dius ?
+*MAR:	perque no m' ho dius ?
+*MAR:	perque et baralles amb els nens ?
+*CHI:	que poses aqui dins [% assenyala el maleti de la camara de viedo] ?
+*INV:	quan acabem .
+*INV:	vale ?
+*MAR:	vols que juguem a baloncesto ?
+*CHI:	no .
+*MAR:	no ?
+*CHI:	0 [= fa una parrafada inintel'ligible] .
+*CHI:	que juguem a plastilina [% "pastelina"] .
+*MAR:	ah , vols que juguem a plastilina .
+*MAR:	va , doncs fem caragols .
+*MAR:	regala un caragol <a la> [/?] a la rosa .
+*MAR:	que la rosa no en sap fer de caragols .
+*CHI:	0 .
+%act:	dona alguna cosa a m
+*MAR:	no , amb aixo no .
+*MAR:	els caragols +/.
+*CHI:	si .
+*MAR:	bueno , aixo si vols tambe , pero fes un caragol .
+*CHI:	posa la maneta aixi que te donare plastelina [% "pastelina"] .
+@Comment:	frame 674
+*CHI:	tota [% posa plastelina a la ma de m] .
+*MAR:	oh , no se si em cabra tota .
+*MAR:	la vaig posant aqui , eh .
+*CHI:	i el lleo .
+*CHI:	te .
+*CHI:	mira [% dona una figureta a m] .
+*CHI:	el lleo .
+*MAR:	ah !
+*CHI:	que no se t' embruti .
+*MAR:	que no se m' embruti , si esta molt brut ja .
+*CHI:	te el carro [% treu joguines d' una caixa] .
+*CHI:	el carro aqui .
+*CHI:	el (.) carro aqui [% el deixa sobre el llit] .
+*MAR:	bueno .
+*CHI:	te .
+*CHI:	mira [% dona mes plastilina a m] .
+*CHI:	molta .
+*MAR:	n' hi ha molta , no ?
+*MAR:	ja en tenim molta , no ?
+*MAR:	eh ?
+*MAR:	mira quants trossos .
+*CHI:	0 .
+%act:	agafa mes plastilina
+*MAR:	ui !
+*CHI:	xxx xxx xxx .
+*MAR:	escolta , posem la camara aqui i despres te la penges , perque sino
+	no podem treballar [% li despenja la camara del coll] .
+*CHI:	i despres te fare una foto .
+*CHI:	que jo no en se .
+*CHI:	vale ?
+*MAR:	li faras una foto al papa ?
+*CHI:	si .
+*MAR:	vale .
+*MAR:	quan vingui el papa li fas una foto .
+*MAR:	vale ?
+*MAR:	mentrestant ho deixem correr .
+*CHI:	0 .
+%act:	remena la caixa de joguines
+*MAR:	escolta , jo crec que ja en tenim molta , eh , de plastilina , eh
+	josep .
+*CHI:	xxx de color t' he portat molt .
+*MAR:	si , ja ho se que t' has portat molt , pero (.) penso que ja en
+	tenim prou .
+*MAR:	t' ha caigut un tros alla .
+*CHI:	ah !
+*CHI:	m' ha caigut un tros alla [% el replega] .
+*CHI:	0 .
+%act:	remena la caixa de joguines
+*CHI:	hi ha poqueta ja .
+*CHI:	te porto .
+*MAR:	falta poqueta ?
+*CHI:	si .
+*CHI:	0 .
+%act:	va a buscar mes plastilina
+*CHI:	posa molta .
+*CHI:	ja esta .
+*MAR:	que vols fer ?
+*CHI:	<jo jo &+hai> [/?] tu ja tens .
+*CHI:	jo [/?] jo ja tinc .
+*CHI:	tu vols aquesta plastelina .
+*CHI:	aquesta , aquesta , aquesta .
+*CHI:	te .
+*CHI:	mira .
+*CHI:	aquesta .
+*MAR:	per mi nomes aquesta ?
+*MAR:	i tot es per tu ?
+*CHI:	si .
+*CHI:	pero mira .
+*CHI:	aquesta .
+*CHI:	aquesta no [% esta distribuint la plastilina] .
+*CHI:	va .
+*CHI:	fes un lleo .
+*MAR:	eh que tens un xxx com una casa de gran ?
+*MAR:	eh que si ?
+*CHI:	si .
+*MAR:	i te l' estas montant ?
+@Comment:	m surt d' imatge , tall a la cinta , frame 791
+*MAR:	i si no vinc que ?
+*CHI:	va .
+*CHI:	posa't aqui .
+*MAR:	si , pero aixo esta malament per treballar .
+*MAR:	no ?
+*CHI:	vaig a [% s' ajup] +...
+*MAR:	s' ha de fer al terra , clar .
+*CHI:	vols que te faci aixo ?
+*MAR:	si , fes'm' ho tu .
+*MAR:	tu en saps mes d' aixo .
+*MAR:	jo no en faig de plastilina al meu cole .
+*CHI:	si .
+*MAR:	tu en fas ?
+*CHI:	si .
+*MAR:	amb qui ho fas , amb la montse o amb la tere ?
+*CHI:	mira .
+*CHI:	ja tens un cargol .
+*MAR:	eh ?
+*CHI:	ja tens un cargol .
+*MAR:	amb qui fas la plastilina , amb la montse o amb la tere ?
+*CHI:	la montse .
+*MAR:	amb la montse feu plastilina ?
+*MAR:	que feu ?
+*CHI:	0 .
+%act:	juga amb la plastilina a sobre el llit
+*CHI:	aqui .
+*CHI:	xxx un cargol .
+*CHI:	te .
+*CHI:	mira .
+*CHI:	una figura [% "firura"] .
+*MAR:	si .
+*MAR:	t' ha sortit una pilota .
+*MAR:	podria ser una miqueta mes redoneta , pero +...
+*CHI:	<&+mi> [/?] mira com tiro a canasta
+	[% agafa la pilota de plastilina i la fa passar per un cistell penjat]
+	.
+*MAR:	pero es molt facil amb aquesta pilota , eh josep .
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	aquesta entra .
+*MAR:	molt be , molt be .
+*MAR:	es tant petita .
+*MAR:	eh ?
+*CHI:	si .
+*CHI:	xxx la pilota [% remena en un cistell] .
+*MAR:	que busques josep ?
+*CHI:	la pilota .
+*MAR:	ah !
+*MAR:	la pilota de la canasta ?
+*CHI:	no encuentro [% "encontro"] .
+*MAR:	encuentro [% "encontro"] no .
+*MAR:	si la trobo [% el rectifica] .
+*CHI:	gorro [% afaga una gorra] .
+*CHI:	xxx xxx xxx [% agafa una torre de cartro de pisos] .
+*MAR:	espera , que s' ha d' agafar per baix , perque sino +...
+*CHI:	aixi [% estira la torre] .
+*MAR:	josep .
+*MAR:	per dalt no es pot agafar .
+*MAR:	s' ha d' agafar per baix .
+*MAR:	aixi .
+*MAR:	et poses la gorra ?
+*MAR:	ara fas de mecanic ?
+*CHI:	no , no .
+*MAR:	arregla els cotxes .
+*MAR:	arregla els cotxes , home .
+*MAR:	que van al garatge , pobrets .
+*CHI:	nomes un .
+*MAR:	nomes arreglaras un ?
+*CHI:	a [/?] que aquest no puc .
+*CHI:	amb aquest si que puc [% agafa un cotxe] .
+*CHI:	aquest si .
+*CHI:	i ara que faig [% posa el cotxe en un garatge] ?
+*MAR:	i l' altre perque no pots ?
+*CHI:	perque no .
+*CHI:	perque esta trencat .
+*CHI:	xxx [>] .
+*MAR:	<l' altre> [<] esta trencat ?
+*CHI:	brrr@c [% juga amb el cotxe] .
+*CHI:	xxx .
+*CHI:	xxx la barrera [% "banrera" , juga amb el cotxe] .
+*CHI:	barrera [% "banrera"] .
+*CHI:	obro la barrera [% "banrera"] .
+*CHI:	brrr@c .
+*CHI:	ja esta aparcat .
+*CHI:	brrr@c [% va jugant amb el cotxe] .
+*CHI:	jo t' obro la barrera [% "banrera"] .
+*CHI:	ja esta tancat .
+*MAR:	i que li has fet a aquest cotxe ?
+*CHI:	aixi .
+*CHI:	brrr@c .
+*CHI:	me'n vaig .
+*CHI:	brrr@c .
+*CHI:	vols entrar ?
+*CHI:	rrr@c [% apuja la barrera del garatge de joguina] .
+*CHI:	la barrera [% "banrera"] .
+*CHI:	obre .
+*CHI:	brrr@c .
+*CHI:	y se ha ido .
+*CHI:	brrr@c .
+*CHI:	me voy por la barrera [% "banrera"] .
+*CHI:	brrr@c .
+*CHI:	cierro la barrera [% "banrera"] .
+*CHI:	0 .
+%act:	va jugant amb el cotxe
+*CHI:	brrr@c .
+*CHI:	brrr@c .
+*CHI:	em [% "ma"] vaig a posar aixi [% "ansina"] .
+*CHI:	brrr@c .
+*CHI:	posar la barrera [% "banrera"] .
+*MAR:	i que , no poses mes cotxes ?
+*MAR:	aquests els pots guardar en aquests pisos , eh .
+*CHI:	ja estan .
+*MAR:	busca'n un altre .
+*MAR:	que l' arreglin .
+*MAR:	que l' arreglin al pis de dalt .
+*MAR:	que arreglen els pneumatics .
+*MAR:	no ?
+*MAR:	en tens molts , eh josep .
+*MAR:	i la moto ?
+*CHI:	moto esta alla [% assenyala] .
+*MAR:	si .
+*CHI:	dones ?
+*MAR:	si que te la dono .
+*MAR:	0 .
+%act:	s' aixeca
+*MAR:	ah !
+*MAR:	es que els cotxes petits els tens aqui .
+*MAR:	clar .
+*MAR:	ja no en tens de petits .
+*MAR:	un nomes .
+*MAR:	no ?
+*CHI:	si .
+*MAR:	mira .
+*MAR:	que li ha passat a aquest pobre ?
+*CHI:	se li trencat les rodes .
+*MAR:	pues que les arreglin .
+*MAR:	no ?
+*CHI:	0 .
+%act:	agafa el cotxet trencat
+*CHI:	no .
+*CHI:	un altre dia comprarem rodes .
+*MAR:	ah , un altre dia compraras rodes .
+*MAR:	bueno .
+*CHI:	volia el +...
+*MAR:	mira .
+*MAR:	aquests .
+*MAR:	aquests son els del garatge .
+*MAR:	i les motos [% dona cotxets a j] .
+*MAR:	a veure si els col'loques be .
+*CHI:	si li posem una mica de plastilina [% "pastelina"] .
+*MAR:	per arreglar'los ?
+*CHI:	si .
+*MAR:	bueno .
+*CHI:	no se .
+*MAR:	home , la plastilina tambe enganxa coses .
+*MAR:	no ?
+*MAR:	aquest de carreras que el vols ?
+*CHI:	si .
+*MAR:	d' on es aquest ?
+*MAR:	brrr@c [% mou el cotxe en l' aire] .
+*CHI:	ja [/?] ja veuras com vola [% agafa el cotxe] .
+*CHI:	brrr@c .
+*CHI:	ja baixa [% el deixa a sobre el llit] .
+*MAR:	de quina carrera es aquest ?
+*CHI:	de cotxe carreras .
+*MAR:	cotxe carreras , si , pero de quina .
+*MAR:	tu li dius una carrera .
+@Comment:	m enraona , j no li fa cas
+*MAR:	mira el mecanic , pobret .
+@Comment:	j agafa el nino que li dona m , juga amb els cotxes i la plastilina , li cau un cotxe
+*CHI:	s' ha caigut .
+*CHI:	s' ha caigut el cotxe [% el busca] .
+*CHI:	0 .
+%act:	replega el cotxe
+*CHI:	cotxe .
+*CHI:	xxx .
+*MAR:	josep , que te'n recordes on anava aquesta peca ?
+*MAR:	mira , ara el tens amb les rodes el tractor .
+*MAR:	pero aixo on anava ?
+*MAR:	aquests mandos .
+*CHI:	anava [% "nava"] aqui [% assenyala] .
+*MAR:	al davant ?
+*CHI:	si .
+*MAR:	tu creus ?
+*MAR:	aixo ho sap el papa .
+*MAR:	jo no me'n recordo .
+*MAR:	ah , pues si [% munta el tractor] .
+*MAR:	si , no ?
+*MAR:	si , si .
+*MAR:	mira .
+*MAR:	si perque te els +...
+*MAR:	que son aixo ?
+*CHI:	els llums .
+*MAR:	ah !
+*MAR:	molt chuli .
+*MAR:	mira , pues ja tens per enganxar .
+*CHI:	plastilina [% "pastelina"] .
+*CHI:	0 .
+%act:	juga amb la plastilina
+*CHI:	aqui he posat <&+mo> [/?] molta plastilina [% "pastelina"] .
+*MAR:	teniem mes senyors d' aquests .
+*MAR:	eh que si josep ?
+*MAR:	n' hi ha molts .
+*MAR:	que la rosa et va regalar (.) molts molts .
+*MAR:	ah !
+*MAR:	si estan aqui .
+*MAR:	que tot ho &+po +/.
+*CHI:	no mama .
+@Comment:	frame 1200
+*CHI:	ho regalar <el el el &+pa el el> [/?] el tren .
+*MAR:	escolta , aquests cotxes son del miquel de casa de l' avia , eh .
+*CHI:	si pero es tenen que posar rodes .
+*CHI:	eh .
+*MAR:	0 .
+%act:	treu cotxets d' una capsa
+*CHI:	aquest ja te .
+*CHI:	ja aquest te +...
+*CHI:	veuras com camina .
+*CHI:	eh .
+*CHI:	veuras com va al garatge [% "garatx"] .
+*CHI:	brrr@c [% fa correr el cotxe] .
+*CHI:	0 [= parrafada inintel'ligible] .
+*CHI:	me dejas entrar ?
+*CHI:	xxx xxx aqui [% juga amb el cotxe] .
+*MAR:	mira .
+*MAR:	aixo et va be tambe pels cotxes .
+*CHI:	que ?
+*MAR:	que es aixo ?
+*CHI:	semaforo [% "femaforo"] .
+*CHI:	ja esta vert .
+*CHI:	ara si [% "a si"] que es pot passar .
+*CHI:	0 .
+%act:	va jugant amb els cotxes i el semafor
+*CHI:	ya esta verde .
+*CHI:	ya esta verde .
+*CHI:	esta groc .
+*CHI:	esta taronja .
+*MAR:	taronja [% "tronja"] , no ?
+*CHI:	si .
+*CHI:	taronja [% "tronja"] .
+*CHI:	brrr@c .
+*CHI:	torno a passar (.) la barrera [% "banrera"] .
+*MAR:	mira , aqui tens mes senyors per a treballar amb els cotxes .
+*CHI:	si .
+*MAR:	amb el gorro i tot .
+*MAR:	mira .
+*CHI:	mes cotxes .
+*MAR:	aquests els pots posar als pisos .
+*MAR:	aquests son nous , eh nen .
+*MAR:	aquests son els vellets del miquel .
+*MAR:	te'ls vas emportar de casa de l' avia .
+*MAR:	0 .
+%act:	treu cotxes d' una capsa
+*CHI:	aquest tambe es meu [% agafa el cotxe de la ma de m] .
+*CHI:	de la iaia .
+*MAR:	ah !
+@Comment:	frame 1300
+*CHI:	<i &+a> [>] +/.
+*MAR:	<i les> [<] senyals aquestes ?
+*CHI:	son (.) meves .
+*MAR:	ja ho se que son teves , pero +...
+*MAR:	aquestes son +...
+*MAR:	perque ?
+*MAR:	perque passen nens .
+*CHI:	groc +...
+*CHI:	color xxx groc .
+*CHI:	mira .
+*CHI:	esta obert .
+*CHI:	aquest esta tancat .
+@Comment:	m li va ensenyant semafors
+*MAR:	el pots posar per les carreteres .
+*CHI:	pero esta <una mica reglat> [/?] una mica trencat , eh .
+*MAR:	una mica .
+*MAR:	perque li passes les ungles i (.) fas una miqueta malbe .
+*MAR:	hi ha que pintar'ho .
+*CHI:	el vaig a netejar .
+*MAR:	no el netegis perque se t' acabara de trencat .
+*MAR:	aixo no es pot mullar josep .
+*MAR:	vine que t' ho explico .
+*MAR:	vine .
+*CHI:	no .
+*CHI:	el vaig a netejar perque [/?] perque esta brut .
+*CHI:	te [% allarga el semafor a m] .
+@Comment:	frame 1338
+*CHI:	ho vaig a netejar .
+*CHI:	vale ?
+*CHI:	i despres vinc +/.
+*MAR:	saps que passara ?
+*MAR:	que aixo es paper enganxat i [/?] i se te n' anira .
+*CHI:	ale !
+*MAR:	clar .
+*MAR:	aixo si que ho pots netejar .
+*MAR:	veus ?
+*MAR:	si ho vols netejar , aixo es per netejar .
+*MAR:	mira .
+*MAR:	mira , aixo si que es porqueria , veus .
+*MAR:	en el plastic pots posar'ho .
+*MAR:	aqui pots netejar'ho .
+*CHI:	ara vinc una altra vegada .
+*MAR:	vale .
+*MAR:	ara aixo ho pots netejar .
+*CHI:	el cotxe del max .
+*MAR:	de qui es ?
+*CHI:	del max .
+*MAR:	el max te aquest cotxe ?
+*CHI:	la porta oberta [% deixa la porta de l' habitacio oberta] .
+*MAR:	deixes la porta oberta ?
+@Comment:	tall a la cinta , j va a netejar el cotxe i torna
+*MAR:	queda't un moment aqui amb la rosa que jo vaig a fer un pipi , eh
+	josep .
+*CHI:	vale .
+@Comment:	tall a la cinta , j remena en una capsa de cartro
+*INV:	no n' hi ha mes ?
+*CHI:	si .
+*INV:	ah , val .
+*CHI:	hi ha poquetes .
+*INV:	es [/?] mira , aixo es un senyal [% treu coses de la capsa] .
+*INV:	ah , no , no te paper .
+*CHI:	no [% te un semafor a la ma] .
+*CHI:	mira .
+*INV:	ai !
+*INV:	t' he donat un cop ?
+*CHI:	si .
+*CHI:	0 .
+%act:	remena dins la capsa
+*CHI:	n' hi ha mes .
+*CHI:	es igual .
+@Comment:	cinta defectuosa , frames 1396 fins 1400
+*CHI:	0 [= esta mirant el dibuix que hi ha a la capsa] .
+*INV:	que es aixo ?
+*CHI:	pinguinos .
+*INV:	un pinguino ?
+*CHI:	si .
+*CHI:	dos pinguinos .
+*INV:	a veure , a veure .
+*INV:	jo no els veig .
+*CHI:	mira [% li acosta la capsa] .
+*INV:	ah si !
+*INV:	si que son pinguinos .
+*INV:	que t' agraden els pinguinos ?
+*CHI:	piscina [% continua mirant el dibuix] .
+*INV:	saps on hi ha pinguinos aqui a barcelona ?
+*CHI:	si .
+*INV:	a on ?
+*CHI:	aqui [% assenyala el dibuix] .
+*CHI:	mira .
+*INV:	a quin lloc hi ha pinguinos ?
+*INV:	tu ho saps ?
+*CHI:	a [/?] vaig a posar mes fort [% "foc"] .
+*CHI:	0 .
+%act:	baixa la intensitat d' un llum de peu
+*INV:	no .
+*INV:	mes fort .
+*CHI:	aixi [% "xis"] .
+*INV:	l' has posat mes fluixet .
+*CHI:	si .
+*CHI:	aixi [% "xis"] .
+*INV:	que no t' agrada tanta llum ?
+*CHI:	0 .
+%act:	puja la intensitat del llum
+*INV:	ala !
+*INV:	ara si que hi ha molta llum , eh .
+*CHI:	aixi [% "aixins"] .
+*INV:	si .
+*CHI:	i tambe tinc llum .
+*INV:	tambe tens llum ?
+*CHI:	si .
+*CHI:	dos .
+*CHI:	a [/?] la guardem [% suposo que es refereix a la camara de viedo] ?
+*CHI:	aquesta tambe [% toca la camara de viedo] .
+*INV:	ara la guardarem de seguida .
+*INV:	vale ?
+*INV:	ara quan vingui la mama la guardem .
+*INV:	et sembla ?
+*CHI:	no .
+*CHI:	<vaig a> [/?] te vaig a fer una foto .
+*INV:	em vas a fer una foto ?
+*CHI:	si .
+*CHI:	0 .
+%act:	intenta agafar la camara de sobre el llit
+*CHI:	eh !
+*INV:	mana'm .
+*CHI:	no es pot treure aixo [% estira la camara] .
+*CHI:	te vaig a fer la foto .
+*CHI:	jo treure aquest [% intenta treure la funda] .
+*CHI:	no puc treure aix(o) [% ja l' ha treta] +...
+*CHI:	jo te faig la foto .
+*CHI:	<&+aque> [/?] aquesta foto es del meu papa [% ensenya la camara a e]
+	.
+*INV:	la camara es del teu papa ?
+*CHI:	si .
+*INV:	ja te la deixa el papa aquesta camara ?
+*CHI:	si [>] .
+*INV:	<o no> [<] ?
+*CHI:	si .
+*CHI:	perque si .
+*CHI:	mira .
+*CHI:	perque +...
+*CHI:	vaig a obrir una mica mes .
+*CHI:	xxx xxx .
+*CHI:	vaig a obrir .
+*CHI:	ui [% fa forca per a treure tota la funda] !
+*INV:	que vols fer ?
+*INV:	no la treguis , no .
+*INV:	no la treguis de la funda .
+*INV:	no , no , no .
+*INV:	que es faria malbe .
+*INV:	no es pot treure josep .
+*INV:	no es pot treure de la funda .
+*INV:	sens [>] ?
+*CHI:	quan [<] vindra el meu papa +...
+*INV:	no es pot +...
+*CHI:	si .
+*INV:	no , no es pot treure .
+*CHI:	quan vindra el meu papa m' ho treura .
+*INV:	vale .
+*INV:	el teu papa t' ho treura , pero ara no ho treguis .
+*INV:	no es pot .
+*INV:	s' ha de ser molt fort per poder'ho treure .
+*INV:	que es molt fort +/.
+*CHI:	treu aixi [% "aixis"] .
+*INV:	el que ?
+*CHI:	aixo xxx .
+*INV:	es que , veus , per fer una foto <no cal> [/?] no cal treure aixo .
+*INV:	ara es posa [% acaba de treure la funda] +...
+*INV:	ah , si .
+*CHI:	si .
+*INV:	fas una foto ?
+*CHI:	als cotxes [% "a coxes"] .
+*CHI:	als cotxes [% "a coxes"] .
+*CHI:	0 .
+%act:	s' ajup per a fer la foto
+*INV:	fas una foto als cotxes , molt be .
+*INV:	i surten tots <els &+co> [>] +/.
+*CHI:	xxx [<] als cotxes .
+*INV:	surten tots els cotxes ?
+*CHI:	0 .
+%act:	fa la foto
+*CHI:	es del meu papa aquesta foto .
+*INV:	es del teu pare ?
+*CHI:	si .
+*INV:	del teu papa la camara ?
+@Comment:	j posa la ma a l' objectiu , e li diu que aixo no ho ha de fer
+*INV:	no posis la maneta .
+*CHI:	xxx xxx m' ho ensenyat .
+*INV:	el teu papa t' ho ha ensenyat (.) com es fan fotos ?
+*CHI:	si .
+*CHI:	i el papa toca aixo [% es refereix al diafragma] .
+*CHI:	saps ?
+*CHI:	el papa toca aixo .
+*INV:	es toca tot aixo .
+*CHI:	si .
+*CHI:	mira .
+*INV:	si .
+*CHI:	vist ?
+*CHI:	i aixo es treu [% busca la inexistent tapa de l' objectiu] .
+*INV:	no posis +...
+*INV:	no .
+*INV:	aixo esta tapat .
+*INV:	normalment esta tapat aixo .
+*INV:	hi ha una tapa .
+*INV:	no te una tapa ?
+*CHI:	si .
+*INV:	que t' agrada a tu fer fotos , josep ?
+*INV:	quan siguis gran faras moltes fotos ?
+*CHI:	ja [/?] jo ja se .
+*INV:	tu saps fer fotos ?
+*CHI:	si .
+*INV:	i de que t' agrada fer fotos josep ?
+*CHI:	<a a> [/?] &+me +...
+*INV:	que t' agrada fer fotos dels nens del cole ?
+*INV:	no ?
+*CHI:	ah !
+*CHI:	s' ha caigut [% no es veu a que es refereix] .
+*CHI:	s' ha trencat .
+*INV:	alerta .
+*INV:	espera , mira , que se li ha enganxat la plastilina .
+*INV:	socorro .
+*CHI:	0 [=! riu] .
+*CHI:	jo poso una mica de plastilina [% "pastelina"] .
+*CHI:	i el meu papa ho apegara .
+*INV:	no que s' enfadara .
+*INV:	no li posis plastilina , eh .
+*INV:	saps que fem josep ?
+*CHI:	no .
+*CHI:	si li poso aqui una miqueta .
+*CHI:	aqui .
+*CHI:	mira .
+*INV:	a on vols posar aqui ?
+*INV:	plastilina ?
+*CHI:	si .
+*CHI:	a dintre .
+*CHI:	pe [/?] &+pe +...
+@Comment:	frame 1613
+*CHI:	ai !
+*CHI:	a dintre .
+*INV:	que es faria malbe .
+*CHI:	no .
+*CHI:	veus .
+*CHI:	alla dintre .
+*INV:	que es faria malbe .
+*CHI:	no .
+*CHI:	veus .
+*CHI:	alla dintre .
+*INV:	si , si que ho se que hi ha un forat .
+*INV:	pero no s' hi pot posar plastilina .
+*INV:	perque es faria malbe la camara .
+*CHI:	pero el meu papa m' ha dit que si .
+*INV:	el teu papa ?
+*INV:	no m' ho crec .
+*INV:	m' enganyes , eh .
+*CHI:	0 [= fa que si timidament amb el cap] .
+*INV:	no , no li posis eh .
+*INV:	mira , saps que farem josep ?
+*INV:	m' ajudes a desar la camara ?
+*INV:	vols ?
+*CHI:	<i i li si> [/?] i si li posem [% agafa plastilina] +...
+*INV:	m' ajudes ?
+*INV:	vale ?
+*CHI:	i si +...
+*INV:	ajuda'm corre .
+*INV:	ajuda'm a desar la camara .
+@End

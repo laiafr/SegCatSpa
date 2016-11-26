@@ -1,0 +1,3061 @@
+@UTF8
+@PID:	11312/c-00032701-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Alfonso Target_Child , MJO María Investigator , TAN Tanina Aunt , AUR Aurora Playmate
+@ID:	spa|Marrero|CHI|2;6.09||||Target_Child|||
+@ID:	spa|Marrero|MJO|||||Investigator|||
+@ID:	spa|Marrero|TAN|||||Aunt|||
+@ID:	spa|Marrero|AUR|||||Playmate|||
+@Date:	10-MAY-1991
+@Location:	Madrid , Spain
+@Activities:	Alfon y María José en el salón de su casa jugando con una granja y viendo libros.
+*MJO:	venga , Alfon , vamos a jugar un poco con la granja , vale ?
+%mor:	co|venga=come_on cm|cm n:prop|Alfon cm|cm v|i-1P&PRES=go aprep|a=to
+	inf|juga-INF=play det:art|un&m=one adv|poco=few prep|con=with
+	det:art|el&FEM&SG=the n|granja&f=grange cm|cm co|vale=okay ?
+%act:	sacando la granja para jugar .
+*CHI:	hay &+an [//] hay uno [*] gola [: bola] [*] !
+%mor:	v|habe-3S&PRES&SPEC=have v|habe-3S&PRES&SPEC=have
+	pro:dem|uno-MASC=one n|bola&f=ball !
+%exp:	refiriéndose a una bola de chicle que había en la caja de la granja .
+*MJO:	jugamos con la granja ?
+%mor:	v|juga-1P&PRES&PRET=play prep|con=with det:art|el&FEM&SG=the
+	n|granja&f=grange ?
+*CHI:	hay uno [*] gola [: bola] [*] [!] uh , es a momé [: comer] [*] este gola [: bola] [*] ?
+%mor:	v|habe-3S&PRES&SPEC=have pro:dem|uno-MASC=one n|bola&f=ball co|uh
+	cm|cm cop|se-3S&PRES=be aprep|a=to inf|come-INF=eat
+	imp|esta-3S&IMP=be n|bola&f=ball ?
+*MJO:	ah , una bola .
+%mor:	co|ah cm|cm det:art|un-FEM=one n|bola&f=ball .
+*MJO:	esta bola ?
+%mor:	det:dem|este-FEM=this n|bola&f=ball ?
+%act:	señalándola .
+*CHI:	es a momé [: comer] [*] .
+%mor:	cop|se-3S&PRES=be aprep|a=to inf|come-INF=eat .
+*CHI:	es chique [: chicle] [*] .
+%mor:	cop|se-3S&PRES=be n|chicle&m=chewing_gum .
+*MJO:	es de comer , sí ?
+%mor:	cop|se-3S&PRES=be prep|de=of inf|come-INF=eat cm|cm co|sí=yes ?
+*CHI:	sí , es chique [: chicle] [*]; ay [!] , a baja(r)lo .
+%mor:	co|sí=yes cm|cm cop|se-3S&PRES=be n|chicle&m=chewing_gum co|ay=ay
+	cm|cm aprep|a=to inf|baja-INF~pro:clit|OBJ&MASC .
+%exp:	se refiere a un ala plegable de la mesa .
+*MJO:	ah , vas a bajar la mesa ?
+%mor:	co|ah cm|cm v|i-2S&PRES=go aprep|a=to inf|baja-INF=come_down
+	det:art|el&FEM&SG=the n|mesa&f=table ?
+*CHI:	a fubí [: subir] [*] .
+%mor:	aprep|a=to inf|subi-INF=go_up .
+*MJO:	la vas a bajar ?
+%mor:	pro:obj|la&f=she v|i-2S&PRES=go aprep|a=to inf|baja-INF=come_down ?
+*CHI:	oy [!] oy , éste es chique [: chicle] [*] [= la bola] .
+%mor:	co|oy co|oy cm|cm pro:dem|éste=this_one cop|se-3S&PRES=be
+	n|chicle&m=chewing_gum .
+*MJO:	quieres que juguemos con la granja ?
+%mor:	v|quere-2S&PRES=want pro:rel|que=that v|juga-1P&SUB&PRES=play
+	prep|con=with det:art|el&FEM&SG=the n|granja&f=grange ?
+*CHI:	<yo fubo [: subo] [*] bo [: por] [*] aquí> [x 5] .
+%mor:	pro:sub|yo=I v|subi-1S&PRES=go_up prep|por=for adv|aquí=here .
+%act:	subiéndose al respaldo del sofá .
+*MJO:	subes por ahí ?
+%mor:	v|subi-2S&PRES=go_up prep|por=for adv|ahí=there ?
+*CHI:	sí; ay , ay , a taí [: caí] [*]; tú no sabes fubí [: subir] [*] aquí .
+%mor:	co|sí=yes co|ay=ay cm|cm co|ay=ay cm|cm aprep|a=to
+	v|cae-1S&PRET=fall pro:sub|tú=you adv|no=no v|sabe-2S&PRES=know
+	inf|subi-INF=go_up adv|aquí=here .
+*MJO:	no sé ?
+%mor:	adv|no=no v|sabe-1S&PRES=know ?
+*CHI:	no .
+%mor:	adv|no=no .
+*MJO:	hola , Alfon .
+%mor:	co|hola=hi cm|cm n:prop|Alfon .
+%act:	imitando una voz infantil , como si hablara la vaquita .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	mira , la vaquita .
+%mor:	co|mira=look cm|cm det:art|el&FEM&SG=the n|vaca-DIM-FEM=cow .
+*CHI:	uy , acolo [: socorro] [*] , no bebo [: puedo] [*] .
+%mor:	co|uy cm|cm co|socorro cm|cm adv|no=no v|pode-1S&PRES=can .
+%act:	haciendo equilibrios en el sofá .
+*MJO:	no puedes ?
+%mor:	adv|no=no v|pode-2S&PRES=can ?
+*MJO:	te ayudo ?
+%mor:	pro:obj|te=you v|ayuda-1S&PRES=help ?
+*CHI:	no bebo [: puedo] [*] .
+%mor:	adv|no=no v|pode-1S&PRES=can .
+*MJO:	te ayudo ?
+%mor:	pro:obj|te=you v|ayuda-1S&PRES=help ?
+*MJO:	espera .
+%mor:	imp|espera-2S&IMP=wait .
+*CHI:	uy , ya a taí [: caí] [*] .
+%mor:	co|uy cm|cm adv|ya=already aprep|a=to v|cae-1S&PRET=fall .
+*MJO:	te caíste , verdad ?
+%mor:	pro:obj|te=you v|cae-2S&PRET=fall cm|cm co|verdad=right ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	mira , Alfon , este animalito .
+%mor:	co|mira=look cm|cm n:prop|Alfon cm|cm imp|esta-3S&IMP=be
+	n|animal-DIM-MASC=animal .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	cuál es éste ?
+%mor:	pro:int|cuál=which cop|se-3S&PRES=be pro:dem|éste=this_one ?
+*CHI:	uno pelo [: perro] [*] .
+%mor:	det:art|un-MASC=one n|perro-MASC=dog .
+*MJO:	un perro; y éste ?
+%mor:	det:art|un&m=one n|perro-MASC=dog coord|y=and pro:dem|éste=this_one
+	?
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	una ovejita .
+%mor:	det:art|un-FEM=one n|oveja-DIM-FEM=ewe .
+*CHI:	ah , bien , voy a da(r)la a momé [: comer] [*] una f(l)o(r); ay .
+%mor:	co|ah cm|cm adv|bien=well cm|cm v|i-1S&PRES=go aprep|a=to
+	inf|da-INF~pro:clit|OBJ&FEM aprep|a=to inf|come-INF=eat
+	det:art|un-FEM=one n|flor&f=blossom co|ay=ay .
+*MJO:	vas a coger una flor ?
+%mor:	v|i-2S&PRES=go aprep|a=to inf|coge-INF=take det:art|un-FEM=one
+	n|flor&f=blossom ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	vale , y sabes lo que tengo yo aquí , Alfon ?
+%mor:	co|vale=okay cm|cm coord|y=and v|sabe-2S&PRES=know pro:obj|lo&m=him
+	pro:rel|que=that v|tene-1S&PRES=have pro:sub|yo=I adv|aquí=here
+	cm|cm n:prop|Alfon ?
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	aquí hay &+sálo [?] no &+bólas , aquí hay &+sálo [?] no &+bólas .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have adv|no=no cm|cm
+	adv|aquí=here v|habe-3S&PRES&SPEC=have adv|no=no .
+*MJO:	no , éstas son gallinas .
+%mor:	adv|no=no cm|cm pro:dem|éste-FEM-PL=this_one cop|se-3P&PRES=be
+	n|gallina&f-PL=hen .
+*CHI:	(g)allinas ?
+%mor:	n|gallina&f-PL=hen ?
+*MJO:	gallinas , sí , gallinitas .
+%mor:	n|gallina&f-PL=hen cm|cm co|sí=yes cm|cm n|gallina-DIM-FEM-PL=hen .
+*CHI:	ay !
+%mor:	co|ay=ay !
+%act:	subiéndose al respaldo del sofá .
+*CHI:	ay , ay , ay , oh .
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm co|ay=ay cm|cm co|oh=oh .
+%com:	exclamaciones por el esfuerzo de subirse al sofá .
+*MJO:	quieres que veamos algún libro ?
+%mor:	v|quere-2S&PRES=want pro:rel|que=that v|ve-1P&SUB&PRES=see
+	det:indef|algún&m=some v|libra-1S&PRES=save_from ?
+*CHI:	no; bah , no , mojó [: mejor] [*] no .
+%mor:	adv|no=no co|bah=bah cm|cm adv|no=no cm|cm adj|mejor=better
+	adv|no=no .
+%com:	hablando con esfuerzo , por estar encaramándose al sofá .
+*MJO:	mejor no ?
+%mor:	adj|mejor=better adv|no=no ?
+*CHI:	vale , s(í) .
+%mor:	co|vale=okay cm|cm co|sí=yes .
+*MJO:	ven , vamos a_ver estos libros , vale ?
+%mor:	co|ven=come cm|cm co|vamos=go co|a_ver=see
+	det:dem|este-MASC-PL=this adj|libre-MASC-PL=free cm|cm co|vale=okay
+	?
+%act:	mostrándoselos .
+*CHI:	vale .
+%mor:	co|vale=okay .
+*MJO:	ven , siéntate aquí conmigo .
+%mor:	co|ven=come cm|cm imp|senta-2S&IMP~pro:clit|2S adv|aquí=here
+	adv|conmigo=with_me .
+*CHI:	e(s) (u)no gola [: bola] [*] , e(s) &+báte [?] (par)a momé [: comer] [*] ; está buena [*] .
+%mor:	cop|se-3S&PRES=be det:art|un-MASC=one n|bola&f=ball cm|cm
+	cop|se-3S&PRES=be prep|para=for inf|come-INF=eat cop|esta-3S&PRES=be
+	adj|buen-FEM=good .
+%act:	cogiendo la bola de caramelo .
+*MJO:	está buena ?
+%mor:	cop|esta-3S&PRES=be adj|buen-FEM=good ?
+*MJO:	es de comer , sí ?
+%mor:	cop|se-3S&PRES=be prep|de=of inf|come-INF=eat cm|cm co|sí=yes ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	está dulce ?
+%mor:	cop|esta-3S&PRES=be adj|dulce=sweet ?
+*CHI:	sí , es du(l)ce [*] .
+%mor:	co|sí=yes cm|cm cop|se-3S&PRES=be adj|dulce=sweet .
+*MJO:	es dulce ?
+%mor:	cop|se-3S&PRES=be adj|dulce=sweet ?
+*MJO:	es caramelo ?
+%mor:	cop|se-3S&PRES=be n|caramelo&m=caramel ?
+*CHI:	ajá .
+%mor:	co|ajá=hah .
+*MJO:	sí ?
+%mor:	co|sí=yes ?
+*MJO:	seguro ?
+%mor:	co|seguro=sure ?
+*CHI:	es rico .
+%mor:	cop|se-3S&PRES=be adj|rico-MASC=rich .
+*MJO:	es rico , sí ?
+%mor:	cop|se-3S&PRES=be adj|rico-MASC=rich cm|cm co|sí=yes ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	será de comer seguro ?
+%mor:	cop|se-3S&FUT=be prep|de=of inf|come-INF=eat co|seguro=sure ?
+*CHI:	0 [=! se mete la bola en la boca] .
+*CHI:	ay , a mí no a gusta !
+%mor:	co|ay=ay cm|cm aprep|a=to pro:prep|mí=me adv|no=no aprep|a=to
+	imp|gusta-2S&IMP=like !
+%act:	sacándosela de la boca .
+*MJO:	no te gusta ?
+%mor:	adv|no=no pro:obj|te=you v|gusta-3S&PRES=like ?
+*MJO:	ah , es que es de anís , es fuerte .
+%mor:	co|ah cm|cm cop|se-3S&PRES=be pro:rel|que=that cop|se-3S&PRES=be
+	prep|de=of n|anís&m=anise cm|cm cop|se-3S&PRES=be adj|fuerte=strong
+	.
+*CHI:	es f(u)erte [*] .
+%mor:	cop|se-3S&PRES=be adj|fuerte=strong .
+*MJO:	es un sabor fuerte , verdad ?
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|sabor&m=flavor
+	adj|fuerte=strong cm|cm co|verdad=right ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y no te gusta .
+%mor:	coord|y=and adv|no=no pro:obj|te=you v|gusta-3S&PRES=like .
+*CHI:	no , c(l)aro [*] que no , a mí no a gusta , está dulo [: duro] [*] .
+%mor:	adv|no=no cm|cm co|claro=obvious pro:rel|que=that adv|no=no cm|cm
+	aprep|a=to pro:prep|mí=me adv|no=no aprep|a=to v|gusta-3S&PRES=like
+	cm|cm imp|esta-2S&IMP=be v|dura-1S&PRES=endure .
+*MJO:	jugamos con la granja ?
+%mor:	v|juga-1P&PRES&PRET=play prep|con=with det:art|el&FEM&SG=the
+	n|granja&f=grange ?
+*CHI:	ay , cole [: corre] [*] .
+%mor:	co|ay=ay cm|cm v|corre-3S&PRES=run .
+%act:	haciendo andar a la ovejita .
+*MJO:	quieres que corra la ovejita ?
+%mor:	v|quere-2S&PRES=want pro:rel|que=that v|corre-13S&SUB&PRES=run
+	det:art|el&FEM&SG=the n|oveja-DIM-FEM=ewe ?
+*MJO:	uy , cómo va corriendo !
+%mor:	co|uy cm|cm pro:int|cómo=how co|va=go ger|corre-PROG=run !
+*CHI:	&+ába &+a , &+ábe .
+%mor:	cm|cm .
+*MJO:	los ponemos a dormir a los animales ?
+%mor:	pro:obj|él&m-PL=he v|pone-1P&PRES=put aprep|a=to
+	inf|dormi-INF=sleep aprep|a=to det:art|el&MASC-PL=the
+	n|animal&m-PL=animal ?
+*CHI:	vale; t(i)enen +...
+%mor:	co|vale=okay v|tene-3P&PRES=have +...
+%act:	acostándolos .
+*MJO:	porque tienen sueño , verdad ?
+%mor:	conj|porque=because v|tene-3P&PRES=have v|soña-1S&PRES=dream cm|cm
+	co|verdad=right ?
+*CHI:	sí , &+ka [/] calo [: claro] [*] que sí .
+%mor:	co|sí=yes cm|cm co|claro=obvious pro:rel|que=that co|sí=yes .
+*MJO:	claro que sí , verdad ?
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes cm|cm co|verdad=right ?
+*MJO:	ahora cierras la puerta ?
+%mor:	adv|ahora=now v|cerra-2S&PRES=close det:art|el&FEM&SG=the
+	n|puerta&f=door ?
+*CHI:	oy , pela [: espera] [*] .
+%mor:	co|oy cm|cm v|espera-3S&PRES=wait .
+*CHI:	ola [: ahora] [*] (l)a cielo [*] no e(n)t(r)en .
+%mor:	adv|ahora=now det:art|el&FEM&SG=the co:voc|cielo=angel adv|no=no
+	imp|entra-3P&IMP=come_in .
+%act:	cerrando la puertecita de la granja .
+*MJO:	ya está .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+*CHI:	ya está; é(s)te es [/] é(s)te es a (g)allinas .
+%mor:	adv|ya=already cop|esta-3S&PRES=be pro:dem|éste=this_one
+	pro:dem|éste=this_one cop|se-3S&PRES=be aprep|a=to
+	n|gallina&f-PL=hen .
+%act:	señalando un compartimento de la granja .
+*MJO:	ésta es la casa de las gallinas , sí .
+%mor:	pro:dem|éste-FEM=this_one cop|se-3S&PRES=be det:art|el&FEM&SG=the
+	n|casa&f=house prep|de=of det:art|el&FEM-PL=the n|gallina&f-PL=hen
+	cm|cm co|sí=yes .
+*CHI:	é(s)te [/] é(s)te a [/] es (.) a (ani)males .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be aprep|a=to
+	n|animal&m-PL=animal .
+*MJO:	de los animales .
+%mor:	prep|de=of det:art|el&MASC-PL=the n|animal&m-PL=animal .
+*CHI:	que no t(i)ene; ala [: ahora] [*] va bebe(r) .
+%mor:	pro:rel|que=that adv|no=no v|tene-3S&PRES=have adv|ahora=now
+	v|i-3S&PRES=go inf|bebe-INF=drink .
+*MJO:	ahora van a beber ?
+%mor:	adv|ahora=now v|i-3P&PRES=go aprep|a=to inf|bebe-INF=drink ?
+*MJO:	a_ver , animales , queréis agua ?
+%mor:	co|a_ver=see cm|cm n|animal&m-PL=animal cm|cm v|quere-2P&PRES=want
+	imp|agua-2S&IMP=water_down ?
+%act:	colocando el bebedero .
+*CHI:	vale .
+%mor:	co|vale=okay .
+*MJO:	ay , han dicho que sí quieren; a_ver , vaquita , quieres agua ?
+%mor:	co|ay=ay cm|cm aux|habe-3P&PRES=have part|deci-PPART-MASC=say
+	pro:rel|que=that co|sí=yes v|quere-3P&PRES=want co|a_ver=see cm|cm
+	n|vaca-DIM-FEM=cow cm|cm v|quere-2S&PRES=want
+	imp|agua-2S&IMP=water_down ?
+*CHI:	vale .
+%mor:	co|vale=okay .
+*MJO:	ah , dice que sí quiere; a_ver , cerdito , quieres agua ?
+%mor:	co|ah cm|cm v|deci-3S&PRES=say pro:rel|que=that co|sí=yes
+	v|quere-3S&PRES=want co|a_ver=see cm|cm n|cerdo-DIM-MASC=hog cm|cm
+	v|quere-2S&PRES=want imp|agua-2S&IMP=water_down ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	0 [=! lo pone a beber] .
+*CHI:	ay [!] ala [: ahora] [*] éste .
+%mor:	co|ay=ay adv|ahora=now pro:dem|éste=this_one .
+*MJO:	a_ver , ovejita , quieres agua ?
+%mor:	co|a_ver=see cm|cm n|oveja-DIM-FEM=ewe cm|cm v|quere-2S&PRES=want
+	imp|agua-2S&IMP=water_down ?
+*CHI:	vale .
+%mor:	co|vale=okay .
+*MJO:	ah , sí que quiere , se la bebió .
+%mor:	co|ah cm|cm co|sí=yes pro:rel|que=that v|quere-3S&PRES=want cm|cm
+	pro:refl|se=itself pro:obj|la&f=she v|bebe-3S&PRET=drink .
+*CHI:	ola [: ahora] [*] (l)a piela [: cierra] [*] (l)a p(u)erta [*] +...
+%mor:	adv|ahora=now pro:obj|la&f=she v|cerra-3S&PRES=close
+	det:art|el&FEM&SG=the n|puerta&f=door +...
+*MJO:	ahora cerramos la puerta , no ?
+%mor:	adv|ahora=now v|cerra-1P&PRES&PRET=close det:art|el&FEM&SG=the
+	n|puerta&f=door cm|cm adv|no=no ?
+*CHI:	sí; ala [: ahora] [*] a papá .
+%mor:	co|sí=yes adv|ahora=now aprep|a=to n|papá&m=papa .
+*CHI:	no , ala [: ahora] [*] no es .
+%mor:	adv|no=no cm|cm adv|ahora=now adv|no=no cop|se-3S&PRES=be .
+*CHI:	ala [: ahora] [*] t(i)ene [//] no es a momí [: dormir] [*] ya .
+%mor:	adv|ahora=now adv|no=no cop|se-3S&PRES=be aprep|a=to
+	inf|dormi-INF=sleep adv|ya=already .
+*MJO:	es hora de dormir ya ?
+%mor:	cop|se-3S&PRES=be n|hora&f=hour prep|de=of inf|dormi-INF=sleep
+	adv|ya=already ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	ah , pues vamos a decirles a los animales que hay que ir a acostar .
+%mor:	co|ah cm|cm co|pues=well v|i-1P&PRES=go aprep|a=to
+	inf|deci-INF~pro:clit|3P aprep|a=to det:art|el&MASC-PL=the
+	n|animal&m-PL=animal pro:rel|que=that v|habe-3S&PRES&SPEC=have
+	pro:rel|que=that inf|i-INF=go aprep|a=to inf|acosta-INF=put_to_bet .
+*CHI:	sí; voy a baja(r) a vata [: vaca] [*] .
+%mor:	co|sí=yes v|i-1S&PRES=go aprep|a=to inf|baja-INF=come_down
+	aprep|a=to n|vaca&f=cow .
+*CHI:	sí a ve(r) , está acostalos [: acostados] [*] .
+%mor:	co|sí=yes aprep|a=to inf|ve-INF=see cm|cm aux|esta-3S&PRES=be
+	part|acosta-PPART-MASC-PL=put_to_bet .
+*MJO:	sí , están acostados .
+%mor:	co|sí=yes cm|cm aux|esta-3P&PRES=be
+	part|acosta-PPART-MASC-PL=put_to_bet .
+*CHI:	así no es , es así .
+%mor:	adv|así=thus adv|no=no cop|se-3S&PRES=be cm|cm cop|se-3S&PRES=be
+	adv|así=thus .
+%act:	mostrando cómo hay que acostarlos .
+*MJO:	sí , acuéstalos; eso , así .
+%mor:	co|sí=yes cm|cm imp|acosta-2S&IMP~pro:clit|OBJ&MASC&PL
+	pro:dem|eso=that_one cm|cm adv|así=thus .
+*MJO:	muy bien; ya está .
+%mor:	adv|muy=very adv|bien=well adv|ya=already cop|esta-3S&PRES=be .
+*CHI:	ala [: ahora] [*] e(s) a momé [: comer] [*] .
+%mor:	adv|ahora=now cop|se-3S&PRES=be aprep|a=to inf|come-INF=eat .
+%com:	entra Aurora en la habitación .
+*AUR:	cómo tiene los ojos papá ?
+%mor:	pro:int|cómo=how v|tene-3S&PRES=have det:art|el&MASC-PL=the
+	n|ojo&m-PL=eye n|papá&m=papa ?
+*CHI:	veles [: verdes] [*] .
+%mor:	adj|verde-PL=green .
+*AUR:	y mamá ?
+%mor:	coord|y=and n|mamá&f=mommy ?
+*CHI:	ay , auch@i !
+%mor:	co|ay=ay cm|cm int|auch !
+*AUR:	cómo tiene los ojitos mamá ?
+%mor:	pro:int|cómo=how v|tene-3S&PRES=have det:art|el&MASC-PL=the
+	n|ojo-DIM-MASC-PL=eye n|mamá&f=mommy ?
+*CHI:	malones [: marrones] [*] .
+%mor:	n|marron&m-PL=chestnut .
+*AUR:	y Rafita ?
+%mor:	coord|y=and n:prop|Rafita ?
+*CHI:	(t)ambién a malones [: marrones] [*] .
+%mor:	adv|también=also aprep|a=to n|marron&m-PL=chestnut .
+*MJO:	también marrones , sí .
+%mor:	adv|también=also n|marron&m-PL=chestnut cm|cm co|sí=yes .
+*CHI:	uy , elen [: quieren] [*] más agua [= los animales] .
+%mor:	co|uy cm|cm v|quere-3P&PRES=want adv|más=more
+	imp|agua-2S&IMP=water_down .
+*MJO:	quieren más agua ?
+%mor:	v|quere-3P&PRES=want adv|más=more imp|agua-2S&IMP=water_down ?
+*MJO:	pues vamos a darles; a_ver , vaquita , levanta la cabeza para poder beber bien .
+%mor:	co|pues=well v|i-1P&PRES=go aprep|a=to inf|da-INF~pro:clit|3P
+	co|a_ver=see cm|cm n|vaca-DIM-FEM=cow cm|cm v|levanta-3S&PRES=raise
+	det:art|el&FEM&SG=the n|cabeza&f=head prep|para=for inf|pode-INF=can
+	inf|bebe-INF=drink adv|bien=well .
+%act:	subiéndole la cabeza .
+*MJO:	así .
+%mor:	adv|así=thus .
+*CHI:	así .
+%mor:	adv|así=thus .
+*MJO:	ya está .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+*CHI:	ola [: ahora] [*] éste .
+%mor:	adv|ahora=now pro:dem|éste=this_one .
+%act:	cogiendo a la ovejita .
+*MJO:	la ovejita quiere más también ?
+%mor:	det:art|el&FEM&SG=the n|oveja-DIM-FEM=ewe v|quere-3S&PRES=want
+	adv|más=more adv|también=also ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	muy bien , ovejita; ahora ?
+%mor:	adv|muy=very adv|bien=well cm|cm n|oveja-DIM-FEM=ewe adv|ahora=now
+	?
+*CHI:	a(l) selo [: cerdo] [*] .
+%mor:	aprep|a~det|el&MASC n|cerdo&m=hog .
+*MJO:	el cerdo .
+%mor:	det:art|el&MASC&SG=the n|cerdo&m=hog .
+%act:	poniéndolo a beber .
+*CHI:	ya; ala [: ahora] [*] va a momí [: dormir] [*] .
+%mor:	adv|ya=already adv|ahora=now v|i-3S&PRES=go aprep|a=to
+	inf|dormi-INF=sleep .
+*MJO:	van a dormir , verdad ?
+%mor:	v|i-3P&PRES=go aprep|a=to inf|dormi-INF=sleep cm|cm co|verdad=right
+	?
+*CHI:	ésta e(s) (l)a p(u)e(r)ta [*] ; (l)a cierro [*] (l)a p(u)e(r)ta [*] yo .
+%mor:	pro:dem|éste-FEM=this_one cop|se-3S&PRES=be det:art|el&FEM&SG=the
+	n|puerta&f=door pro:obj|la&f=she v|cerra-1S&PRES=close
+	det:art|el&FEM&SG=the n|puerta&f=door pro:sub|yo=I .
+*MJO:	muy bien , les cierras la puerta , y ahora las gallinitas +...
+%mor:	adv|muy=very adv|bien=well cm|cm pro:ind|le-PL=them
+	v|cerra-2S&PRES=close det:art|el&FEM&SG=the n|puerta&f=door cm|cm
+	coord|y=and adv|ahora=now det:art|el&FEM-PL=the
+	n|gallina-DIM-FEM-PL=hen +...
+*CHI:	éstas son (g)allinas ?
+%mor:	pro:dem|éste-FEM-PL=this_one cop|se-3P&PRES=be n|gallina&f-PL=hen ?
+%act:	señalando unos dibujos en las paredes exteriores de la granja .
+*MJO:	ésos son pollitos .
+%mor:	pro:dem|ése-MASC-PL=that_one cop|se-3P&PRES=be
+	n|pollo-DIM-MASC-PL=chicken .
+*CHI:	éste son (g)allinas .
+%mor:	pro:dem|éste=this_one cop|se-3P&PRES=be n|gallina&f-PL=hen .
+%act:	señalándolo .
+*MJO:	sí , ésa es una gallina y éstos son pollitos .
+%mor:	co|sí=yes cm|cm pro:dem|ése-FEM=that_one cop|se-3S&PRES=be
+	det:art|un-FEM=one n|gallina&f=hen coord|y=and
+	pro:dem|éste-MASC-PL=this_one cop|se-3P&PRES=be
+	n|pollo-DIM-MASC-PL=chicken .
+*CHI:	ése son (g)allinas .
+%mor:	pro:dem|ése=that_one cop|se-3P&PRES=be n|gallina&f-PL=hen .
+%act:	señalándolas .
+*MJO:	le damos agua a esta gallinita roja ?
+%mor:	pro:ind|le=him v|da-1P&PRES&PRET=give imp|agua-2S&IMP=water_down
+	aprep|a=to imp|esta-2S&IMP=be n|gallina-DIM-FEM=hen adj|rojo-FEM=red
+	?
+%act:	cogiéndola .
+*CHI:	vale .
+%mor:	co|vale=okay .
+*MJO:	a_ver , gallinita , quieres agua ?
+%mor:	co|a_ver=see cm|cm n|gallina-DIM-FEM=hen cm|cm v|quere-2S&PRES=want
+	imp|agua-2S&IMP=water_down ?
+%act:	poniéndola a beber en el bebedero .
+*MJO:	sí .
+%mor:	co|sí=yes .
+%act:	imitando una voz infantil .
+*MJO:	mira cómo bebe .
+%mor:	co|mira=look pro:int|cómo=how v|bebe-3S&PRES=drink .
+*CHI:	ya; ha bilo [: bebido] [*] .
+%mor:	adv|ya=already aux|habe-3S&PRES=have part|bebe-PPART-MASC=drink .
+*MJO:	ya ha bebido , verdad ?
+%mor:	adv|ya=already aux|habe-3S&PRES=have part|bebe-PPART-MASC=drink
+	cm|cm co|verdad=right ?
+*MJO:	y la otra gallinita ?
+%mor:	coord|y=and det:art|el&FEM&SG=the det:indef|otro-FEM=other
+	n|gallina-DIM-FEM=hen ?
+*CHI:	ot(r)a (g)allina ?
+%mor:	det:indef|otro-FEM=other n|gallina&f=hen ?
+*MJO:	mmhm mmhm .
+%mor:	co|mmhm co|mmhm .
+*CHI:	0 [=! pone a la gallina a beber en el bebedero] .
+*MJO:	muy bien , gallinita , ya has bebido , verdad ?
+%mor:	adv|muy=very adv|bien=well cm|cm n|gallina-DIM-FEM=hen cm|cm
+	adv|ya=already aux|habe-2S&PRES=have part|bebe-PPART-MASC=drink
+	cm|cm co|verdad=right ?
+*CHI:	ya; ala [: ahora] [*] bielo [: cierro] [*] a p(u)e(r)ta [*] +...
+%mor:	adv|ya=already adv|ahora=now v|cerra-1S&PRES=close aprep|a=to
+	n|puerta&f=door +...
+%act:	cerrándola .
+*CHI:	ay [/] a &+áma [/] a a(ni)males +...
+%mor:	aprep|a=to aprep|a=to n|animal&m-PL=animal +...
+*MJO:	a los animales les damos agua otra vez ?
+%mor:	aprep|a=to det:art|el&MASC-PL=the n|animal&m-PL=animal
+	pro:ind|le-PL=them v|da-1P&PRES&PRET=give imp|agua-2S&IMP=water_down
+	det:indef|otro-FEM=other n|vez&f=turn ?
+*CHI:	cuánto s(u)ena (l)a vata [: vaca] [*] !
+%mor:	pro:int|cuánto-MASC=how_much v|sona-3S&PRES=sound
+	det:art|el&FEM&SG=the n|vaca&f=cow !
+*MJO:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	cuánto s(u)ena [*] (l)a vaca !
+%mor:	pro:int|cuánto-MASC=how_much v|sona-3S&PRES=sound
+	det:art|el&FEM&SG=the n|vaca&f=cow !
+*MJO:	cuánto suena ?
+%mor:	pro:int|cuánto-MASC=how_much v|sona-3S&PRES=sound ?
+*CHI:	(l)a vaca , s(u)ena [*] (l)a vaca .
+%mor:	det:art|el&FEM&SG=the n|vaca&f=cow cm|cm v|sona-3S&PRES=sound
+	det:art|el&FEM&SG=the n|vaca&f=cow .
+*MJO:	la vaca ?
+%mor:	det:art|el&FEM&SG=the n|vaca&f=cow ?
+*MJO:	sí ?
+%mor:	co|sí=yes ?
+%exp:	se refiere al ruido que hace la puerta al cerrarse .
+*CHI:	0 [=! pone a beber al cerdito] .
+*MJO:	muy bien , ya bebió el cerdito .
+%mor:	adv|muy=very adv|bien=well cm|cm adv|ya=already
+	v|bebe-3S&PRET=drink det:art|el&MASC&SG=the n|cerdo-DIM-MASC=hog .
+*CHI:	ala [: ahora] [*] a coca [: toca] [*] a mí .
+%mor:	adv|ahora=now aprep|a=to v|toca-3S&PRES=touch aprep|a=to
+	pro:prep|mí=me .
+*MJO:	ahora te toca a ti ?
+%mor:	adv|ahora=now pro:obj|te=you v|toca-3S&PRES=touch aprep|a=to
+	pro:prep|ti=you ?
+*CHI:	sí; no bebe , ya no bebe .
+%mor:	co|sí=yes adv|no=no v|bebe-3S&PRES=drink cm|cm adv|ya=already
+	adv|no=no v|bebe-3S&PRES=drink .
+%exp:	refiriéndose a la vaca .
+*MJO:	ya no bebe ?
+%mor:	adv|ya=already adv|no=no v|bebe-3S&PRES=drink ?
+*CHI:	(le)va(n)ta (l)a (c)abeza [*] .
+%mor:	v|levanta-3S&PRES=raise det:art|el&FEM&SG=the n|cabeza&f=head .
+*MJO:	tiene que levantar la cabeza .
+%mor:	v|tene-3S&PRES=have pro:rel|que=that inf|levanta-INF=raise
+	det:art|el&FEM&SG=the n|cabeza&f=head .
+*CHI:	está amilo [: dormido] [*] .
+%mor:	aux|esta-3S&PRES=be part|dormi-PPART-MASC=sleep .
+*MJO:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	está amilo [: dormido] [*] .
+%mor:	aux|esta-3S&PRES=be part|dormi-PPART-MASC=sleep .
+*MJO:	está dormida ?
+%mor:	cop|esta-3S&PRES=be part|dormi-PPART-FEM=sleep ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	sí ?
+%mor:	co|sí=yes ?
+*MJO:	haha; todavía no se ha despertado , verdad ?
+%mor:	co|haha adv|todavía=still adv|no=no pro:refl|se=itself
+	aux|habe-3S&PRES=have part|desperta-PPART-MASC=wake_up cm|cm
+	co|verdad=right ?
+*CHI:	uy [!] uy , qué pasó ?
+%mor:	co|uy co|uy cm|cm pro:int|qué=what v|pasa-3S&PRET=pass ?
+*CHI:	uy , qué pasó ?
+%mor:	co|uy cm|cm pro:int|qué=what v|pasa-3S&PRET=pass ?
+%exp:	se sorprende porque a la vaca se le han doblado las patas .
+*MJO:	cómo le has puesto las patas ?
+%mor:	pro:int|cómo=how pro:ind|le=him aux|habe-2S&PRES=have
+	part|pone-PPART-MASC=put det:art|el&FEM-PL=the
+	n|pata&f-PL=animal_foot ?
+*CHI:	voy baja(r)la .
+%mor:	v|i-1S&PRES=go inf|baja-INF~pro:clit|OBJ&FEM .
+*MJO:	bájalas , sí .
+%mor:	imp|baja-2S&IMP~pro:clit|OBJ&FEM&PL cm|cm co|sí=yes .
+*CHI:	uy , qué pasó ?
+%mor:	co|uy cm|cm pro:int|qué=what v|pasa-3S&PRET=pass ?
+*MJO:	qué pasó ?
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass ?
+*CHI:	no sé , a pon(g)o yo .
+%mor:	adv|no=no v|sabe-1S&PRES=know cm|cm aprep|a=to v|pone-1S&PRES=put
+	pro:sub|yo=I .
+*CHI:	0 [=! le coloca las patas a la vaca] .
+*CHI:	ya está .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+*MJO:	ya está , verdad ?
+%mor:	adv|ya=already cop|esta-3S&PRES=be cm|cm co|verdad=right ?
+*CHI:	patas ya .
+%mor:	n|pata&f-PL=animal_foot adv|ya=already .
+*MJO:	ya están las patas colocadas .
+%mor:	adv|ya=already cop|esta-3P&PRES=be det:art|el&FEM-PL=the
+	n|pata&f-PL=animal_foot part|coloca-PPART-FEM-PL=place .
+*CHI:	ya; ala [: ahora] [*] vamos a momé [: comer] [*] ; a ve(r) , selo [: cerdo] [*] .
+%mor:	adv|ya=already adv|ahora=now v|i-1P&PRES=go aprep|a=to
+	inf|come-INF=eat aprep|a=to inf|ve-INF=see cm|cm n|cerdo&m=hog .
+%act:	cogiéndolo .
+*MJO:	a_ver , cerdo .
+%mor:	co|a_ver=see cm|cm n|cerdo&m=hog .
+*CHI:	ay , t(i)ene se(d) .
+%mor:	co|ay=ay cm|cm v|tene-3S&PRES=have imp|se-2P&IMP=be .
+%act:	cogiendo a la ovejita .
+*MJO:	la oveja ?
+%mor:	det:art|el&FEM&SG=the n|oveja&f=ewe ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+%act:	poniéndola a beber en el bebedero .
+*MJO:	qué sed tiene; cuánto bebe , verdad ?
+%mor:	pro:int|qué=what n|sed&f=thirst v|tene-3S&PRES=have
+	det:int|cuánto=how_much v|bebe-3S&PRES=drink cm|cm co|verdad=right ?
+*CHI:	sí; uy , t(i)ene agua .
+%mor:	co|sí=yes co|uy cm|cm v|tene-3S&PRES=have
+	imp|agua-2S&IMP=water_down .
+*MJO:	claro , porque ha bebido y se le ha quedado una gotita .
+%mor:	co|claro=obvious cm|cm conj|porque=because aux|habe-3S&PRES=have
+	part|bebe-PPART-MASC=drink coord|y=and pro:refl|se=itself
+	pro:ind|le=him aux|habe-3S&PRES=have part|queda-PPART-MASC=stay
+	det:art|un-FEM=one n|gota-DIM-FEM=drop .
+*CHI:	t(i)ene uno (gran)ito , t(i)ene uno (gran)ito .
+%mor:	v|tene-3S&PRES=have pro:dem|uno-MASC=one n|granito&m=pimple cm|cm
+	v|tene-3S&PRES=have pro:dem|uno-MASC=one n|granito&m=pimple .
+*MJO:	sí ?
+%mor:	co|sí=yes ?
+*CHI:	t(i)ene uno (gran)ito .
+%mor:	v|tene-3S&PRES=have pro:dem|uno-MASC=one n|granito&m=pimple .
+*MJO:	tiene un ?
+%mor:	v|tene-3S&PRES=have det:art|un&m=one ?
+*CHI:	uno (gran)ito .
+%mor:	det:art|un-MASC=one n|granito&m=pimple .
+*MJO:	un granito ?
+%mor:	det:art|un&m=one n|granito&m=pimple ?
+*CHI:	sí , mila [: mira] [*] .
+%mor:	co|sí=yes cm|cm co|mira=look .
+*MJO:	anda , es verdad , tiene un granito .
+%mor:	co|anda=come_on cm|cm cop|se-3S&PRES=be co|verdad=right cm|cm
+	v|tene-3S&PRES=have det:art|un&m=one n|granito&m=pimple .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*CHI:	0 [=! suspira] .
+*CHI:	a ve(r) .
+%mor:	aprep|a=to inf|ve-INF=see .
+*MJO:	a_ver , dime , esto qué es ?
+%mor:	co|a_ver=see cm|cm imp|deci-2S&IMP~pro:clit|1S cm|cm
+	pro:dem|esto=this_one pro:int|qué=what cop|se-3S&PRES=be ?
+%act:	señalando los ojos de la ovejita .
+*CHI:	uno oveja .
+%mor:	det:art|un-MASC=one n|oveja&f=ewe .
+*MJO:	una oveja , pero esto qué son ?
+%mor:	det:art|un-FEM=one n|oveja&f=ewe cm|cm conj|pero=but
+	pro:dem|esto=this_one pro:int|qué=what cop|se-3P&PRES=be ?
+*CHI:	uno +...
+%mor:	det:art|un-MASC=one +...
+*MJO:	sus ojitos , verdad ?
+%mor:	det:pos|su&3S-PL=his n|ojo-DIM-MASC-PL=eye cm|cm co|verdad=right ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y esto ?
+%mor:	coord|y=and pro:dem|esto=this_one ?
+%act:	señalando la boca .
+*CHI:	no sabes acá &+sa [/] sa(l)ta(r) a s(u)elo .
+%mor:	adv|no=no v|sabe-2S&PRES=know adv|acá=there inf|salta-INF=jump
+	aprep|a=to n|suelo&m=floor .
+*MJO:	que si sé saltar en el suelo ?
+%mor:	pro:rel|que=that conj|si=if v|sabe-1S&PRES=know inf|salta-INF=jump
+	prep|en=in det:art|el&MASC&SG=the n|suelo&m=floor ?
+*CHI:	no sabes .
+%mor:	adv|no=no v|sabe-2S&PRES=know .
+*MJO:	yo sí sé .
+%mor:	pro:sub|yo=I co|sí=yes v|sabe-1S&PRES=know .
+*CHI:	no , mila [: mira] [*] .
+%mor:	adv|no=no cm|cm co|mira=look .
+*MJO:	mira .
+%mor:	co|mira=look .
+%act:	empezando a saltar .
+*CHI:	bien !
+%mor:	adv|bien=well !
+*MJO:	a que lo hago bien ?
+%mor:	aprep|a=to pro:rel|que=that pro:obj|lo&m=him v|hace-1S&PRES=do
+	adv|bien=well ?
+*CHI:	sí , e(s) que (al)canzas [*] .
+%mor:	co|sí=yes cm|cm cop|se-3S&PRES=be pro:rel|que=that
+	v|alcanza-2S&PRES=persue .
+*MJO:	es divertido saltar , verdad ?
+%mor:	cop|se-3S&PRES=be part|diverti-PPART-MASC=divert inf|salta-INF=jump
+	cm|cm co|verdad=right ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	oye , Alfon , te acuerdas en navidad cuando teníamos el nacimiento puesto ?
+%mor:	co|oye=listen cm|cm n:prop|Alfon cm|cm pro:obj|te=you
+	v|acorda-2S&PRES=remind prep|en=in n|navidad&f=christmas
+	pro:rel|cuando=when v|tene-1P&PAS=have det:art|el&MASC&SG=the
+	n|nacimiento&m=birth part|pone-PPART-MASC=put ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	qué había en el nacimiento ?
+%mor:	pro:int|qué=what aux|habe-13S&PAS=have prep|en=in
+	det:art|el&MASC&SG=the n|nacimiento&m=birth ?
+*CHI:	mila [: mira] [*] xxx haha .
+%mor:	co|mira=look co|haha .
+*MJO:	y te acuerdas que vinieron +...
+%mor:	coord|y=and pro:obj|te=you v|acorda-2S&PRES=remind pro:rel|que=that
+	v|veni-3P&PRET=come +...
+*CHI:	vale , (l)o (d)ejo aquí [= el animalito] .
+%mor:	co|vale=okay cm|cm pro:obj|lo&m=him v|deja-1S&PRES=leave
+	adv|aquí=here .
+*MJO:	lo dejas aquí a mi lado ?
+%mor:	pro:obj|lo&m=him v|deja-2S&PRES=leave adv|aquí=here aprep|a=to
+	det:pos|mi=my n|lado&m=side ?
+*CHI:	auch@i .
+%mor:	int|auch .
+*MJO:	a_ver si se sujeta .
+%mor:	co|a_ver=see conj|si=if pro:refl|se=itself v|sujeta-3S&PRES=subject
+	.
+*CHI:	no tae [: cae] [*] , e(s) que +...
+%mor:	adv|no=no v|cae-3S&PRES=fall cm|cm cop|se-3S&PRES=be
+	pro:rel|que=that +...
+*MJO:	no se cae , verdad ?
+%mor:	adv|no=no pro:refl|se=itself v|cae-3S&PRES=fall cm|cm
+	co|verdad=right ?
+*CHI:	mí sí [//] mí no .
+%mor:	pro:prep|mí=me pro:prep|mí=me adv|no=no .
+*MJO:	no se te cae ?
+%mor:	adv|no=no pro:refl|se=itself pro:obj|te=you v|cae-3S&PRES=fall ?
+*CHI:	no , mila [: mira] [*] .
+%mor:	adv|no=no cm|cm co|mira=look .
+*MJO:	muy bien !
+%mor:	adv|muy=very adv|bien=well !
+*CHI:	no [/] no a tae [: cae] [*] , mila [: mira] [*] .
+%mor:	adv|no=no aprep|a=to v|cae-3S&PRES=fall cm|cm co|mira=look .
+*MJO:	no se cae , muy bien [!] , mirad , animalitos .
+%mor:	adv|no=no pro:refl|se=itself v|cae-3S&PRES=fall cm|cm adv|muy=very
+	adv|bien=well cm|cm imp|mira-2P&IMP=look cm|cm
+	n|animal-DIM-MASC-PL=animal .
+*CHI:	a mí no , mila [: mira] [*] .
+%mor:	aprep|a=to pro:prep|mí=me adv|no=no cm|cm co|mira=look .
+*MJO:	no se te cae , no .
+%mor:	adv|no=no pro:refl|se=itself pro:obj|te=you v|cae-3S&PRES=fall
+	cm|cm adv|no=no .
+*CHI:	no a sí [//] a te [: ti] [*] sí .
+%mor:	adv|no=no aprep|a=to aprep|a=to pro:prep|ti=you co|sí=yes .
+*MJO:	a mí sí .
+%mor:	aprep|a=to pro:prep|mí=me co|sí=yes .
+*MJO:	qué bien lo haces , Alfon !
+%mor:	pro:int|qué=what adv|bien=well pro:obj|lo&m=him v|hace-2S&PRES=do
+	cm|cm n:prop|Alfon !
+*CHI:	e(s) que +...
+%mor:	cop|se-3S&PRES=be pro:rel|que=that +...
+*CHI:	yo sí , sí , soy mayo(r) .
+%mor:	pro:sub|yo=I co|sí=yes cm|cm co|sí=yes cm|cm cop|se-1S&PRES=be
+	adj|mayor=elder .
+*MJO:	eres mayor , muy mayor; eres un mayorzote , eh ?
+%mor:	cop|se-2S&PRES=be adj|mayor=elder cm|cm adv|muy=very
+	adj|mayor=elder cop|se-2S&PRES=be det:art|un&m=one
+	adj|mayor-AUG=greater cm|cm co|eh ?
+*CHI:	ay , qué vitilo [: divertido] [*] sa(l)ta(r) .
+%mor:	co|ay=ay cm|cm pro:int|qué=what part|diverti-PPART-MASC=divert
+	inf|salta-INF=jump .
+%act:	poniéndose a saltar en el sofá .
+*MJO:	es divertido saltar , sí , es muy divertido .
+%mor:	cop|se-3S&PRES=be part|diverti-PPART-MASC=divert inf|salta-INF=jump
+	cm|cm co|sí=yes cm|cm cop|se-3S&PRES=be adv|muy=very
+	part|diverti-PPART-MASC=divert .
+%com:	saltando Alfon se acerca al vídeo , da a un botón y se abre la puertecita que protege los mandos .
+*CHI:	eh ?
+%mor:	co|eh ?
+*MJO:	qué pasó ?
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass ?
+*CHI:	no sé; qué ha pasa(d)o ?
+%mor:	adv|no=no v|sabe-1S&PRES=know pro:int|qué=what
+	aux|habe-3S&PRES=have part|pasa-PPART-MASC=pass ?
+*MJO:	no sé , qué crees tú que ha pasado ?
+%mor:	adv|no=no v|sabe-1S&PRES=know cm|cm pro:int|qué=what
+	v|cree-2S&PRES=believe pro:sub|tú=you pro:rel|que=that
+	aux|habe-3S&PRES=have part|pasa-PPART-MASC=pass ?
+*CHI:	e(s) que e(s)te botón ab(r)e aquí po(r) e(s)te botón .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that cop|esta-13S&SUB&PRES=be
+	n|botón&m=button v|abri-3S&PRES=open adv|aquí=here prep|por=for
+	imp|esta-3S&IMP=be n|botón&m=button .
+%exp:	refiriéndose a la puertecita del vídeo .
+*MJO:	qué quieres hacer ?
+%mor:	pro:int|qué=what v|quere-2S&PRES=want inf|hace-INF=do ?
+*CHI:	e(s)te botón a(b)re éste [= la puertecita] .
+%mor:	det:dem|este=this n|botón&m=button v|abri-3S&PRES=open
+	pro:dem|éste=this_one .
+*MJO:	quieres abrir esa puertecita ?
+%mor:	v|quere-2S&PRES=want inf|abri-INF=open det:dem|ese-FEM=that
+	n|puerta-DIM-FEM=door ?
+*CHI:	ves ?
+%mor:	co|ves=see ?
+*CHI:	ves ?
+%mor:	co|ves=see ?
+*CHI:	ves ?
+%mor:	co|ves=see ?
+%act:	abriéndola .
+*MJO:	uy , si yo no lo sabía , cómo lo has hecho ?
+%mor:	co|uy cm|cm conj|si=if pro:sub|yo=I adv|no=no pro:obj|lo&m=him
+	v|sabe-13S&PAS=know cm|cm pro:int|cómo=how pro:obj|lo&m=him
+	aux|habe-2S&PRES=have part|hace-PPART-MASC=do ?
+*CHI:	aquí e(s)te botón; mila [: mira] [*] , ves ?
+%mor:	adv|aquí=here det:dem|este=this n|botón&m=button co|mira=look cm|cm
+	co|ves=see ?
+%act:	señalándolo .
+*MJO:	anda , yo no lo sabía , Alfon .
+%mor:	co|anda=come_on cm|cm pro:sub|yo=I adv|no=no pro:obj|lo&m=him
+	v|sabe-13S&PAS=know cm|cm n:prop|Alfon .
+*CHI:	ves ?
+%mor:	co|ves=see ?
+*CHI:	aquí ab(r)e e(s)te botón , aquí ab(r)e .
+%mor:	adv|aquí=here v|abri-3S&PRES=open det:dem|este=this
+	n|botón&m=button cm|cm adv|aquí=here v|abri-3S&PRES=open .
+*MJO:	abre ahí , verdad ?
+%mor:	v|abri-3S&PRES=open adv|ahí=there cm|cm co|verdad=right ?
+*CHI:	ves ?
+%mor:	co|ves=see ?
+*MJO:	sí [!] yo sabes cómo lo hacía ?
+%mor:	co|sí=yes pro:sub|yo=I v|sabe-2S&PRES=know pro:int|cómo=how
+	pro:obj|lo&m=him v|hace-13S&PAS=do ?
+*MJO:	así , con la mano .
+%mor:	adv|así=thus cm|cm prep|con=with det:art|el&FEM&SG=the
+	n|mano&f=hand .
+%act:	abriendo la puertecita manualmente .
+*CHI:	no , que no .
+%mor:	adv|no=no cm|cm pro:rel|que=that adv|no=no .
+*MJO:	pero se hace con el botón , verdad ?
+%mor:	conj|pero=but pro:refl|se=itself v|hace-3S&PRES=do prep|con=with
+	det:art|el&MASC&SG=the n|botón&m=button cm|cm co|verdad=right ?
+*CHI:	que no .
+%mor:	pro:rel|que=that adv|no=no .
+*MJO:	qué bien lo haces .
+%mor:	pro:int|qué=what adv|bien=well pro:obj|lo&m=him v|hace-2S&PRES=do .
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+%act:	lo abre .
+*MJO:	oy , qué bien .
+%mor:	co|oy cm|cm pro:int|qué=what adv|bien=well .
+*CHI:	ab(r)e uno botón; a ve(r) qué a sale a [/] a la uno botón (chiqui)tito .
+%mor:	v|abri-3S&PRES=open pro:dem|uno-MASC=one n|botón&m=button
+	aprep|a=to inf|ve-INF=see pro:int|qué=what aprep|a=to
+	v|sali-3S&PRES=leave aprep|a=to det:art|el&FEM&SG=the
+	det:art|un-MASC=one n|botón&m=button n|chico-DIM-DIM-MASC=child .
+*MJO:	un botón chiquitito ?
+%mor:	det:art|un&m=one n|botón&m=button n|chico-DIM-DIM-MASC=child ?
+*CHI:	mira , e(s) que +...
+%mor:	co|mira=look cm|cm cop|se-3S&PRES=be pro:rel|que=that +...
+%act:	señalando el botón .
+*MJO:	ah sí , un botón chiquitito .
+%mor:	co|ah co|sí=yes cm|cm det:art|un&m=one n|botón&m=button
+	n|chico-DIM-DIM-MASC=child .
+*CHI:	sí , ves ?
+%mor:	co|sí=yes cm|cm co|ves=see ?
+*CHI:	sale .
+%mor:	v|sali-3S&PRES=leave .
+*MJO:	qué bien , me has enseñado , Alfon .
+%mor:	pro:int|qué=what adv|bien=well cm|cm pro:obj|me=me
+	aux|habe-2S&PRES=have part|enseña-PPART-MASC=teach cm|cm
+	n:prop|Alfon .
+*CHI:	ab(r)e solo , ab(r)e solo .
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm v|abri-3S&PRES=open
+	adj|solo-MASC=alone .
+*MJO:	abre solo , verdad ?
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm co|verdad=right ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	dándole al botón abre , a que sí ?
+%mor:	ger|da-PROG~pro:clit|3S aprep|a~det|el&MASC n|botón&m=button
+	v|abri-3S&PRES=open cm|cm aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	ves ?
+%mor:	co|ves=see ?
+%act:	abriéndolo .
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	este botón titito [: chiquitito] [*] ?
+%mor:	det:dem|este=this n|botón&m=button n|chico-DIM-DIM-MASC=child ?
+*MJO:	ese botón chiquitito , pero te ha dicho Tanina que no le des a eso .
+%mor:	det:dem|ese=that n|botón&m=button adj|chico-DIM-DIM-MASC=small
+	cm|cm conj|pero=but pro:obj|te=you aux|habe-3S&PRES=have
+	part|deci-PPART-MASC=say n:prop|Tanina pro:rel|que=that adv|no=no
+	pro:ind|le=him v|da-2S&SUB&PRES=give aprep|a=to pro:dem|eso=that_one
+	.
+*CHI:	e(s) que +...
+%mor:	cop|se-3S&PRES=be pro:rel|que=that +...
+*MJO:	a que sí ?
+%mor:	aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	que [//] a que no .
+%mor:	aprep|a=to pro:rel|que=that adv|no=no .
+*MJO:	no ?
+%mor:	adv|no=no ?
+*CHI:	mila [: mira] [*] , ab(r)e solo .
+%mor:	co|mira=look cm|cm v|abri-3S&PRES=open adj|solo-MASC=alone .
+%act:	abriéndolo de nuevo .
+*MJO:	abre solo , sí .
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm co|sí=yes .
+*CHI:	0 [=! suspira] .
+*CHI:	oh , dale tú , dale tú; yo soy mayo(r) .
+%mor:	co|oh=oh cm|cm imp|da-2S&IMP~pro:clit|3S pro:sub|tú=you cm|cm
+	imp|da-2S&IMP~pro:clit|3S pro:sub|tú=you pro:sub|yo=I
+	cop|se-1S&PRES=be adj|mayor=elder .
+*MJO:	tú eres muy mayor .
+%mor:	pro:sub|tú=you cop|se-2S&PRES=be adv|muy=very adj|mayor=elder .
+*CHI:	éste sí [= otro botón] .
+%mor:	pro:dem|éste=this_one co|sí=yes .
+*MJO:	a ése sí le puedes dar , sí; pero sabes lo que pasa ?
+%mor:	aprep|a=to pro:dem|ése=that_one co|sí=yes pro:ind|le=him
+	v|pode-2S&PRES=can inf|da-INF=give cm|cm co|sí=yes conj|pero=but
+	v|sabe-2S&PRES=know pro:obj|lo&m=him pro:rel|que=that
+	v|pasa-3S&PRES=pass ?
+%exp:	refiriéndose al botón que expulsa la cinta .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	que ahora no hay ninguna cinta dentro .
+%mor:	pro:rel|que=that adv|ahora=now adv|no=no v|habe-3S&PRES&SPEC=have
+	det:indef|ningún-FEM=none n|cinta&f=ribbon adv|dentro=inside .
+*CHI:	no .
+%mor:	adv|no=no .
+*MJO:	entonces no va a salir ninguna .
+%mor:	adv|entonces=then adv|no=no v|i-3S&PRES=go aprep|a=to
+	inf|sali-INF=leave det:indef|ningún-FEM=none .
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+%act:	dándole al botón .
+*MJO:	a_ver .
+%mor:	co|a_ver=see .
+*CHI:	&+améño [?] mira .
+%mor:	co|mira=look .
+*MJO:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+*CHI:	ves ?
+%mor:	co|ves=see ?
+*MJO:	qué bien , Alfon .
+%mor:	pro:int|qué=what adv|bien=well cm|cm n:prop|Alfon .
+*CHI:	éste es asul [: azul] [*] [= un símbolo de un botón] .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be adj|azul=blue .
+*MJO:	éste es azul , sí .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be adj|azul=blue cm|cm
+	co|sí=yes .
+*CHI:	es rojo este botón , a sí ?
+%mor:	cop|se-3S&PRES=be adj|rojo-MASC=red imp|esta-3S&IMP=be
+	n|botón&m=button cm|cm aprep|a=to co|sí=yes ?
+%act:	señalando otro de los botones .
+*MJO:	ése es rojo , sí .
+%mor:	pro:dem|ése=that_one cop|se-3S&PRES=be adj|rojo-MASC=red cm|cm
+	co|sí=yes .
+*CHI:	éste [/] éste sí voy a lá [: dar] [*] , vale ?
+%mor:	pro:dem|éste=this_one co|sí=yes v|i-1S&PRES=go aprep|a=to
+	inf|da-INF=give cm|cm co|vale=okay ?
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	ves ?
+%mor:	co|ves=see ?
+*CHI:	ab(r)e solo .
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone .
+%act:	pulsando el botón .
+*MJO:	abre solo , sí .
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm co|sí=yes .
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+*MJO:	a_ver .
+%mor:	co|a_ver=see .
+*CHI:	ab(r)e solo , ves ?
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm co|ves=see ?
+%act:	pulsándolo de nuevo .
+*MJO:	abre solo , es verdad .
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm cop|se-3S&PRES=be
+	co|verdad=right .
+*CHI:	ves ?
+%mor:	co|ves=see ?
+*CHI:	uh .
+%mor:	co|uh .
+*MJO:	pues es precioso lo que me has enseñado , Alfon .
+%mor:	co|pues=well cop|se-3S&PRES=be adj|precioso-MASC=precious
+	pro:obj|lo&m=him pro:rel|que=that pro:obj|me=me
+	aux|habe-2S&PRES=have part|enseña-PPART-MASC=teach cm|cm
+	n:prop|Alfon .
+*CHI:	ay , qué ?
+%mor:	co|ay=ay cm|cm pro:int|qué=what ?
+*MJO:	es precioso .
+%mor:	cop|se-3S&PRES=be adj|precioso-MASC=precious .
+*CHI:	ya , uy .
+%mor:	adv|ya=already cm|cm co|uy .
+%act:	encendiendo otro botón .
+*MJO:	uy , has encendido eso también ?
+%mor:	co|uy cm|cm aux|habe-2S&PRES=have part|encende-PPART-MASC=light
+	pro:dem|eso=that_one adv|también=also ?
+*CHI:	<e(s) que> [x 4] +...
+%mor:	cop|se-3S&PRES=be pro:rel|que=that +...
+*MJO:	y de qué color es esa luz ?
+%mor:	coord|y=and prep|de=of pro:int|qué=what n|color&m=hue
+	cop|se-3S&PRES=be det:dem|ese-FEM=that n|luz&f=light ?
+*CHI:	é(s)te e(s) [//] uy , mila [: mira] [*] , é(s)te e(s) bojo [: rojo] [*] , é(s)te e(s) bojo [: rojo] [*] .
+%mor:	pro:dem|éste=this_one co|uy cm|cm co|mira=look cm|cm
+	pro:dem|éste=this_one cop|se-3S&PRES=be adj|rojo-MASC=red cm|cm
+	pro:dem|éste=this_one cop|se-3S&PRES=be adj|rojo-MASC=red .
+*MJO:	es rojo , claro que sí .
+%mor:	cop|se-3S&PRES=be adj|rojo-MASC=red cm|cm co|claro=obvious
+	pro:rel|que=that co|sí=yes .
+*CHI:	é(s)te e(s) bojo [: rojo] [*] .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be adj|rojo-MASC=red .
+*MJO:	sí; mira este libro , sabes de quién es este libro ?
+%mor:	co|sí=yes co|mira=look det:dem|este=this adj|libre-MASC=free cm|cm
+	co|sabes=you_know prep|de=of pro:int|quién=who cop|se-3S&PRES=be
+	cop|esta-13S&SUB&PRES=be v|libra-1S&PRES=save_from ?
+%act:	mostrándole un libro titulado el album de mi bebé .
+*CHI:	es [/] es uno cue(n)to a miño [: niño] [*] .
+%mor:	cop|se-3S&PRES=be det:art|un-MASC=one v|conta-1S&PRES=count_tell
+	aprep|a=to co:voc|niño=child .
+*MJO:	es de mamá .
+%mor:	cop|se-3S&PRES=be prep|de=of n|mamá&f=mommy .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	mira , aquí qué tiene ?
+%mor:	co|mira=look cm|cm adv|aquí=here pro:int|qué=what
+	v|tene-3S&PRES=have ?
+*MJO:	verás .
+%mor:	v|ve-2S&FUT=see .
+*CHI:	velás [: verás] [*] .
+%mor:	v|ve-2S&FUT=see .
+*MJO:	tiene un bebé .
+%mor:	v|tene-3S&PRES=have det:art|un&m=one n|bebé&m=baby .
+*CHI:	au , mila [: mira] [*] (.) e(s)te botón (.) oy !
+%mor:	co|au=ow cm|cm co|mira=look det:dem|este=this n|botón&m=button
+	co|oy !
+*MJO:	no , a esos botones no les des , Alfon , porque se pueden estropear .
+%mor:	adv|no=no cm|cm aprep|a=to det:dem|ese-MASC-PL=that
+	n|botón&m-PL=button adv|no=no pro:ind|le-PL=them
+	v|da-2S&SUB&PRES=give cm|cm n:prop|Alfon cm|cm conj|porque=because
+	pro:refl|se=itself v|pode-3P&PRES=can inf|estropea-INF=damage .
+%act:	refiriéndose de nuevo a los botones del vídeo .
+*CHI:	no , &+kal [/] c(l)aro [*] que no .
+%mor:	adv|no=no cm|cm co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	no se estropean ?
+%mor:	adv|no=no pro:refl|se=itself v|estropea-3P&PRES=damage ?
+*CHI:	(és)te sí ?
+%mor:	pro:dem|éste=this_one co|sí=yes ?
+%act:	señalando otro de los botones .
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	vale [!] ves ?
+%mor:	co|vale=okay co|ves=see ?
+%act:	abre la puertecita .
+*MJO:	muy bien , se abre , verdad ?
+%mor:	adv|muy=very adv|bien=well cm|cm pro:refl|se=itself
+	v|abri-3S&PRES=open cm|cm co|verdad=right ?
+*CHI:	au; ha pillalo [: pillado] [*] .
+%mor:	co|au=ow aux|habe-3S&PRES=have part|pilla-PPART-MASC=catch .
+*MJO:	te has pillado ?
+%mor:	pro:obj|te=you aux|habe-2S&PRES=have part|pilla-PPART-MASC=catch ?
+*CHI:	sí , (l)a p(u)e(r)ta .
+%mor:	co|sí=yes cm|cm det:art|el&FEM&SG=the n|puerta&f=door .
+*MJO:	la puerta te ha pillado ?
+%mor:	det:art|el&FEM&SG=the n|puerta&f=door pro:obj|te=you
+	aux|habe-3S&PRES=have part|pilla-PPART-MASC=catch ?
+*CHI:	uy , ves ?
+%mor:	co|uy cm|cm co|ves=see ?
+*CHI:	ab(r)e solo , ves ?
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm co|ves=see ?
+%act:	abre la puertecita otra vez .
+*MJO:	sí , qué bien .
+%mor:	co|sí=yes cm|cm pro:int|qué=what adv|bien=well .
+%com:	empieza a funcionar el cuentavueltas del vídeo .
+*CHI:	mila [: mira] [*] qué pasa; mila [: mira] [*] qué pasa !
+%mor:	co|mira=look pro:int|qué=what v|pasa-3S&PRES=pass co|mira=look
+	pro:int|qué=what v|pasa-3S&PRES=pass !
+*MJO:	se cambian los números , verdad ?
+%mor:	pro:refl|se=itself v|cambia-3P&PRES=change det:art|el&MASC-PL=the
+	n|número&m-PL=number cm|cm co|verdad=right ?
+*CHI:	mila [: mira] [*] qué pasa !
+%mor:	co|mira=look pro:int|qué=what v|pasa-3S&PRES=pass !
+*MJO:	sale un puntito , a que sí ?
+%mor:	imp|sali-2S&IMP=leave det:art|un&m=one
+	n|punto-DIM-MASC=point_in_time cm|cm aprep|a=to pro:rel|que=that
+	co|sí=yes ?
+*CHI:	haha sale solo .
+%mor:	co|haha v|sali-3S&PRES=leave adj|solo-MASC=alone .
+*MJO:	sale solo , sí; y mira , Alfon .
+%mor:	v|sali-3S&PRES=leave adj|solo-MASC=alone cm|cm co|sí=yes
+	coord|y=and co|mira=look cm|cm n:prop|Alfon .
+*CHI:	yo voy quita(r)la .
+%mor:	pro:sub|yo=I v|i-1S&PRES=go inf|quita-INF~pro:clit|OBJ&FEM .
+*MJO:	vas a quitarlo ?
+%mor:	v|i-2S&PRES=go aprep|a=to inf|quita-INF~pro:clit|OBJ&MASC ?
+*MJO:	y cómo lo quitas ?
+%mor:	coord|y=and pro:int|cómo=how pro:obj|lo&m=him
+	v|quita-2S&PRES=remove ?
+*MJO:	lo abres otra vez ?
+%mor:	pro:obj|lo&m=him v|abri-2S&PRES=open det:indef|otro-FEM=other
+	n|vez&f=turn ?
+*CHI:	yo voy quita(r)la és(te) [//] éste +...
+%mor:	pro:sub|yo=I v|i-1S&PRES=go inf|quita-INF~pro:clit|OBJ&FEM
+	pro:dem|éste=this_one +...
+*MJO:	mmhm .
+%mor:	co|mmhm .
+*CHI:	mila [: mira] [*] qué pasa; oh , mila [: mira] [*] qué pasa , mila [: mira] [*] qué pasa .
+%mor:	co|mira=look pro:int|qué=what v|pasa-3S&PRES=pass co|oh=oh cm|cm
+	co|mira=look pro:int|qué=what v|pasa-3S&PRES=pass cm|cm co|mira=look
+	pro:int|qué=what v|pasa-3S&PRES=pass .
+*MJO:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+*MJO:	anda , se han cambiado los números .
+%mor:	co|anda=come_on cm|cm pro:refl|se=itself aux|habe-3P&PRES=have
+	part|cambia-PPART-MASC=change det:art|el&MASC-PL=the
+	n|número&m-PL=number .
+*CHI:	sí , anda !
+%mor:	co|sí=yes cm|cm co|anda=come_on !
+*MJO:	sí , verdad ?
+%mor:	co|sí=yes cm|cm co|verdad=right ?
+*CHI:	uy , ah .
+%mor:	co|uy cm|cm co|ah .
+%com:	sigue manipulando los botones .
+*CHI:	ya .
+%mor:	adv|ya=already .
+*MJO:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+*CHI:	uy , no sé .
+%mor:	co|uy cm|cm adv|no=no v|sabe-1S&PRES=know .
+*MJO:	no sabes ?
+%mor:	adv|no=no v|sabe-2S&PRES=know ?
+*CHI:	c(l)aro [*]; uy !
+%mor:	co|claro=obvious co|uy !
+*MJO:	mira , Alfon , unos conejitos .
+%mor:	co|mira=look cm|cm n:prop|Alfon cm|cm det:art|un-MASC-PL=one
+	n|conejo-DIM-MASC-PL=rabbit .
+%act:	mostrándole un dibujo del libro .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	mira , unos conejitos .
+%mor:	co|mira=look cm|cm det:art|un-MASC-PL=one
+	n|conejo-DIM-MASC-PL=rabbit .
+*CHI:	ah !
+%mor:	co|ah !
+*MJO:	qué monos , verdad ?
+%mor:	pro:int|qué=what adj|mono-MASC-PL=cool cm|cm co|verdad=right ?
+*MJO:	y mira cuántas flores .
+%mor:	coord|y=and co|mira=look pro:int|cuánto-FEM-PL=how_much
+	n|flor&f-PL=blossom .
+*CHI:	cuá(n)tas foles [: flores] [*] .
+%mor:	pro:int|cuánto-FEM-PL=how_much n|flor&f-PL=blossom .
+*MJO:	cuántas , verdad ?
+%mor:	pro:int|cuánto-FEM-PL=how_much cm|cm co|verdad=right ?
+*CHI:	uy , uy , hay muchos; qué [/] y qué lalas [: raras] [*] .
+%mor:	co|uy cm|cm co|uy cm|cm v|habe-3S&PRES&SPEC=have
+	det:indef|mucho-MASC-PL=many coord|y=and pro:int|qué=what
+	adj|raro-FEM-PL=rare .
+*MJO:	qué raras , verdad ?
+%mor:	pro:int|qué=what adj|raro-FEM-PL=rare cm|cm co|verdad=right ?
+*CHI:	sí , haha .
+%mor:	co|sí=yes cm|cm co|haha .
+*MJO:	mira , ésta de qué color es ?
+%mor:	co|mira=look cm|cm pro:dem|éste-FEM=this_one prep|de=of
+	pro:int|qué=what n|color&m=hue cop|se-3S&PRES=be ?
+%act:	señalando una .
+*CHI:	(amar)il(l)o .
+%mor:	adj|amarillo-MASC=yellow .
+*MJO:	amarillo; y ésta ?
+%mor:	adj|amarillo-MASC=yellow coord|y=and pro:dem|éste-FEM=this_one ?
+%act:	señalando otra .
+*CHI:	e(s) que yo no sé .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:sub|yo=I adv|no=no
+	v|sabe-1S&PRES=know .
+*MJO:	no sabes ?
+%mor:	adv|no=no v|sabe-2S&PRES=know ?
+*CHI:	oh , está abie(r)to , está abie(r)to .
+%mor:	co|oh=oh cm|cm aux|esta-3S&PRES=be part|abri-PPART-MASC=open cm|cm
+	aux|esta-3S&PRES=be part|abri-PPART-MASC=open .
+%exp:	refiriéndose de nuevo a la puertecita del vídeo .
+*MJO:	está abierto sí , lo has abierto tú , verdad ?
+%mor:	aux|esta-3S&PRES=be part|abri-PPART-MASC=open co|sí=yes cm|cm
+	pro:obj|lo&m=him aux|habe-2S&PRES=have part|abri-PPART-MASC=open
+	pro:sub|tú=you cm|cm co|verdad=right ?
+*CHI:	e(s)te bototito [: botoncito] [*] .
+%mor:	det:dem|este=this n|botón-DIM-MASC=button .
+%act:	pulsándolo otra vez .
+*MJO:	uy , ese botoncito .
+%mor:	co|uy cm|cm det:dem|ese=that n|botón-DIM-MASC=button .
+*CHI:	uy , mira .
+%mor:	co|uy cm|cm co|mira=look .
+*MJO:	cómo suena , verdad ?
+%mor:	pro:int|cómo=how v|sona-3S&PRES=sound cm|cm co|verdad=right ?
+*CHI:	ya .
+%mor:	adv|ya=already .
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+%act:	pulsándolo otra vez .
+*TAN:	Alfon , cielo .
+%mor:	n:prop|Alfon cm|cm co:voc|cielo=angel .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*TAN:	es que se va a romper de tanto tocarlo y no vamos a poder poner películas [= el botón del vídeo] .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:refl|se=itself
+	v|i-3S&PRES=go aprep|a=to inf|rompe-INF=break prep|de=of
+	det:indef|tanto-MASC=so_much inf|toca-INF~pro:clit|OBJ&MASC
+	coord|y=and adv|no=no v|i-1P&PRES=go aprep|a=to inf|pode-INF=can
+	inf|pone-INF=put n|película&f-PL=film .
+*CHI:	claro [*] que no [//] claro [*] que sí; mila [: mira] [*] qué pasa , ab(r)e solo , ab(r)e solo , mila [: mira] [*] .
+%mor:	co|claro=obvious pro:rel|que=that co|claro=obvious pro:rel|que=that
+	co|sí=yes co|mira=look pro:int|qué=what v|pasa-3S&PRES=pass cm|cm
+	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm v|abri-3S&PRES=open
+	adj|solo-MASC=alone cm|cm co|mira=look .
+%act:	pulsándolo de nuevo .
+*MJO:	mira , Alfon , mira este libro de mamá .
+%mor:	co|mira=look cm|cm n:prop|Alfon cm|cm co|mira=look
+	det:dem|este=this v|libra-1S&PRES=save_from prep|de=of
+	n|mamá&f=mommy .
+%act:	mostrándole otra vez el album de mi bebé .
+*CHI:	eh ?
+%mor:	co|eh ?
+*MJO:	mira , aquí hay un payasito; aquí un +...
+%mor:	co|mira=look cm|cm adv|aquí=here v|habe-3S&PRES&SPEC=have
+	det:art|un&m=one n|payaso-DIM-MASC=clown adv|aquí=here
+	det:art|un&m=one +...
+%act:	señalando un dibujo .
+*CHI:	uno afate [: elefante] [*] .
+%mor:	det:art|un-MASC=one n|elefante&m=elephant .
+*MJO:	un elefante; y aquí ?
+%mor:	det:art|un&m=one n|elefante&m=elephant coord|y=and adv|aquí=here ?
+%act:	señalando otro dibujo .
+*CHI:	osos .
+%mor:	n|oso-MASC-PL=bear .
+*MJO:	no , son conejitos; ah , éste es un oso , pero éste tiene las orejas de conejo .
+%mor:	adv|no=no cm|cm cop|se-3P&PRES=be n|conejo-DIM-MASC-PL=rabbit co|ah
+	cm|cm pro:dem|éste=this_one cop|se-3S&PRES=be det:art|un&m=one
+	n|oso-MASC=bear cm|cm conj|pero=but pro:dem|éste=this_one
+	v|tene-3S&PRES=have det:art|el&FEM-PL=the n|oreja&f-PL=ear
+	prep|de=of n|conejo-MASC=rabbit .
+*CHI:	c(l)aro [*] que no es uno (con)ejo .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no cop|se-3S&PRES=be
+	det:art|un-MASC=one n|conejo-MASC=rabbit .
+*MJO:	no es un conejo ?
+%mor:	adv|no=no cop|se-3S&PRES=be det:art|un&m=one n|conejo-MASC=rabbit ?
+*CHI:	e(s) que lleva una nanis [: nariz] [*] .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that v|lleva-3S&PRES=carry
+	det:art|un-FEM=one n|nariz&f=nose .
+*MJO:	tiene nariz ?
+%mor:	v|tene-3S&PRES=have n|nariz&f=nose ?
+*CHI:	sí , mila [: mira] [*] , mila [: mira] [*] .
+%mor:	co|sí=yes cm|cm co|mira=look cm|cm co|mira=look .
+%act:	señalándola .
+*MJO:	sí , ahí está su nariz; y mira , está tocando la flauta .
+%mor:	co|sí=yes cm|cm adv|ahí=there cop|esta-3S&PRES=be det:pos|su&3S=his
+	n|nariz&f=nose coord|y=and co|mira=look cm|cm aux|esta-3S&PRES=be
+	ger|toca-PROG=touch det:art|el&FEM&SG=the n|flauta&f=flute .
+*CHI:	sí; é(s)te no [= el bebé] .
+%mor:	co|sí=yes pro:dem|éste=this_one adv|no=no .
+*MJO:	no , el bebé no , porque es pequeño , verdad ?
+%mor:	adv|no=no cm|cm det:art|el&MASC&SG=the n|bebé&m=baby adv|no=no
+	cm|cm conj|porque=because cop|se-3S&PRES=be adj|pequeño-MASC=small
+	cm|cm co|verdad=right ?
+*CHI:	sí; &+te [/] t(i)ene (l)a n(ar)iz [*] a &+nánes au , auch@i .
+%mor:	co|sí=yes v|tene-3S&PRES=have det:art|el&FEM&SG=the n|nariz&f=nose
+	aprep|a=to co|au=ow cm|cm int|auch .
+*MJO:	uh , te has hecho daño ?
+%mor:	co|uh cm|cm pro:obj|te=you aux|habe-2S&PRES=have
+	part|hace-PPART-MASC=do v|daña-1S&PRES=harm ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	te doy un besito ?
+%mor:	pro:obj|te=you v|da-1S&PRES=give det:art|un&m=one
+	n|beso-DIM-MASC=kiss ?
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	éste es bojo [: rojo] [*] , (tam)b(i)én es bojo [: rojo] [*] .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be adj|rojo-MASC=red cm|cm
+	adv|también=also cop|se-3S&PRES=be adj|rojo-MASC=red .
+*MJO:	ése es rojo , sí; y mira qué juguetes tiene el bebé .
+%mor:	pro:dem|ése=that_one cop|se-3S&PRES=be adj|rojo-MASC=red cm|cm
+	co|sí=yes coord|y=and co|mira=look pro:int|qué=what
+	n|juguete&m-PL=toy v|tene-3S&PRES=have det:art|el&MASC&SG=the
+	n|bebé&m=baby .
+%act:	señalando el dibujo .
+*CHI:	a ve(r) , mila [: mira] [*] .
+%mor:	aprep|a=to inf|ve-INF=see cm|cm co|mira=look .
+*MJO:	mira , tiene un trenecito .
+%mor:	co|mira=look cm|cm v|tene-3S&PRES=have det:art|un&m=one
+	n|tren-DIM-MASC=train .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	tiene una pelota , tiene un tambor +...
+%mor:	v|tene-3S&PRES=have det:art|un-FEM=one n|pelota&f=ball cm|cm
+	v|tene-3S&PRES=have det:art|un&m=one n|tambor&m=drum +...
+*CHI:	mila [: mira] [*] , mila [: mira] [*] qué pa(sa) .
+%mor:	co|mira=look cm|cm co|mira=look pro:int|qué=what
+	v|pasa-3S&PRES=pass .
+*CHI:	oh , uh , qué pa(sa) ?
+%mor:	co|oh=oh cm|cm co|uh cm|cm pro:int|qué=what v|pasa-3S&PRES=pass ?
+*CHI:	mila [: mira] [*] qué pasa .
+%mor:	co|mira=look pro:int|qué=what v|pasa-3S&PRES=pass .
+%exp:	refiriéndose a los números del vídeo .
+*MJO:	se ha cambiado el número , verdad ?
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have
+	part|cambia-PPART-MASC=change det:art|el&MASC&SG=the
+	n|número&m=number cm|cm co|verdad=right ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y eso qué es , Alfon ?
+%mor:	coord|y=and pro:dem|eso=that_one pro:int|qué=what cop|se-3S&PRES=be
+	cm|cm n:prop|Alfon ?
+%act:	señalando un mando del vídeo .
+*CHI:	no sé .
+%mor:	adv|no=no v|sabe-1S&PRES=know .
+*MJO:	una rueda .
+%mor:	pro:dem|uno-FEM=one v|roda-3S&PRES=roll .
+*CHI:	mila [: mira] [*] qué pasa; uy [!] , no bebe , no bebe .
+%mor:	co|mira=look pro:int|qué=what v|pasa-3S&PRES=pass co|uy cm|cm
+	adv|no=no v|bebe-3S&PRES=drink cm|cm adv|no=no v|bebe-3S&PRES=drink
+	.
+*MJO:	eso es para poner al bebé .
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be prep|para=for
+	inf|pone-INF=put aprep|a~det|el&MASC n|bebé&m=baby .
+%act:	señalando un dibujo del libro .
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+*MJO:	mmhm mmhm; anda , mira lo que hay aquí , Alfon .
+%mor:	co|mmhm co|mmhm co|anda=come_on cm|cm co|mira=look pro:obj|lo&m=him
+	pro:rel|que=that v|habe-3S&PRES&SPEC=have adv|aquí=here cm|cm
+	n:prop|Alfon .
+%act:	señalando otro dibujo .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	hay (con)ejos .
+%mor:	v|habe-3S&PRES&SPEC=have n|conejo-MASC-PL=rabbit .
+*MJO:	mira , el osito y el conejito le van a llevar flores al bebé , ves ?
+%mor:	co|mira=look cm|cm det:art|el&MASC&SG=the n|oso-DIM-MASC=bear
+	coord|y=and det:art|el&MASC&SG=the n|conejo-DIM-MASC=rabbit
+	pro:ind|le=him v|i-3P&PRES=go aprep|a=to inf|lleva-INF=carry
+	n|flor&f-PL=blossom aprep|a~det|el&MASC n|bebé&m=baby cm|cm
+	co|ves=see ?
+%act:	mostrando el dibujo en el libro .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	qué monos .
+%mor:	pro:int|qué=what adj|mono-MASC-PL=cool .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y qué tiene aquí colgado en la cuna ?
+%mor:	coord|y=and pro:int|qué=what v|tene-3S&PRES=have adv|aquí=here
+	part|colga-PPART-MASC=hang prep|en=in det:art|el&FEM&SG=the
+	n|cuna&f=cradle ?
+%act:	señalándolo en el libro .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	un osito .
+%mor:	det:art|un&m=one n|oso-DIM-MASC=bear .
+*CHI:	sí , c(l)a(r)o que sí .
+%mor:	co|sí=yes cm|cm co|claro=obvious pro:rel|que=that co|sí=yes .
+*MJO:	cómo se llamará este osito ?
+%mor:	pro:int|cómo=how pro:refl|se=itself v|llama-3S&FUT=call
+	cop|esta-13S&SUB&PRES=be n|oso-DIM-MASC=bear ?
+*CHI:	Yal xxx es asul [: azul] [*] .
+%mor:	n:prop|Yal cop|se-3S&PRES=be adj|azul=blue .
+*MJO:	es azul , verdad ?
+%mor:	cop|se-3S&PRES=be adj|azul=blue cm|cm co|verdad=right ?
+*CHI:	éste es b(l)a(n)co , mila [: mira] [*] [= un perrito] .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be adj|blanco-MASC=white cm|cm
+	co|mira=look .
+%act:	señalando un dibujo .
+*MJO:	ése es blanco , sí , con manchas negras , a que sí ?
+%mor:	pro:dem|ése=that_one cop|se-3S&PRES=be adj|blanco-MASC=white cm|cm
+	co|sí=yes cm|cm prep|con=with n|mancha&f-PL=stain
+	adj|negro-FEM-PL=black cm|cm aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	c(l)aro [*] que sí , c(l)aro [*] que sí .
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes cm|cm co|claro=obvious
+	pro:rel|que=that co|sí=yes .
+*MJO:	y mira , este pollito le lleva un juguete que es un trenecito .
+%mor:	coord|y=and co|mira=look cm|cm imp|esta-3S&IMP=be
+	n|pollo-DIM-MASC=chicken pro:ind|le=him v|lleva-3S&PRES=carry
+	det:art|un&m=one n|juguete&m=toy pro:rel|que=that cop|se-3S&PRES=be
+	det:art|un&m=one n|tren-DIM-MASC=train .
+%act:	señalándolo .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y mira , en el tren van unas jirafas .
+%mor:	coord|y=and co|mira=look cm|cm prep|en=in det:art|el&MASC&SG=the
+	n|tren&m=train v|i-3P&PRES=go det:art|un-FEM-PL=one
+	n|jirafa&f-PL=giraffe .
+%act:	señalándolo .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y aquí ?
+%mor:	coord|y=and adv|aquí=here ?
+%act:	señalando otro dibujo .
+*CHI:	&+amíla , es &+amíla .
+%mor:	cm|cm cop|se-3S&PRES=be .
+*MJO:	qué es ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be ?
+*CHI:	&+amíla .
+*MJO:	son frutas , no ?
+%mor:	cop|se-3P&PRES=be n|fruta&f-PL=fruit cm|cm adv|no=no ?
+*CHI:	son f(r)utas .
+%mor:	cop|se-3P&PRES=be n|fruta&f-PL=fruit .
+*MJO:	y mira , esto ?
+%mor:	coord|y=and co|mira=look cm|cm pro:dem|esto=this_one ?
+%act:	señalando otro dibujo .
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+*MJO:	qué es ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be ?
+*CHI:	no sé .
+%mor:	adv|no=no v|sabe-1S&PRES=know .
+*CHI:	son más foles [: flores] [*] .
+%mor:	cop|se-3P&PRES=be adv|más=more n|flor&f-PL=blossom .
+*MJO:	sí , son flores , pero esto es un corazón .
+%mor:	co|sí=yes cm|cm cop|se-3P&PRES=be n|flor&f-PL=blossom cm|cm
+	conj|pero=but pro:dem|esto=this_one cop|se-3S&PRES=be
+	det:art|un&m=one co:voc|corazón=heart .
+*MJO:	uy , mira qué bonito; mira , aquí hay más flores , ves ?
+%mor:	co|uy cm|cm co|mira=look pro:int|qué=what adj|bonito-MASC=pretty
+	co|mira=look cm|cm adv|aquí=here v|habe-3S&PRES&SPEC=have
+	adv|más=more n|flor&f-PL=blossom cm|cm co|ves=see ?
+%act:	mostrando los dibujos .
+*CHI:	ay .
+%mor:	co|ay=ay .
+*MJO:	y mira quién está aquí .
+%mor:	coord|y=and co|mira=look pro:int|quién=who cop|esta-3S&PRES=be
+	adv|aquí=here .
+%act:	señalando en el dibujo .
+*CHI:	qué &+pépe [?] ?
+%mor:	pro:int|qué=what ?
+*MJO:	mira quién está aquí .
+%mor:	co|mira=look pro:int|quién=who cop|esta-3S&PRES=be adv|aquí=here .
+%act:	señalándolo .
+*CHI:	uno bebito .
+%mor:	det:art|un-MASC=one n|bebito&m=baby .
+*MJO:	el bebito , sí; y ésta es su cuna .
+%mor:	det:art|el&MASC&SG=the n|bebito&m=baby cm|cm co|sí=yes coord|y=and
+	pro:dem|éste-FEM=this_one cop|se-3S&PRES=be det:pos|su&3S=his
+	n|cuna&f=cradle .
+%act:	señalándola .
+*CHI:	t(i)ene f(r)ío .
+%mor:	v|tene-3S&PRES=have adj|frío-MASC=cold .
+*MJO:	tiene frío , por eso está tan tapadito , verdad ?
+%mor:	v|tene-3S&PRES=have adj|frío-MASC=cold cm|cm prep|por=for
+	pro:dem|eso=that_one cop|esta-3S&PRES=be adv|tan=such
+	part|tapa-PPART-MASC&DIM=cover cm|cm co|verdad=right ?
+*CHI:	éste [/] éste es [//] éste qué es ?
+%mor:	pro:dem|éste=this_one pro:dem|éste=this_one pro:int|qué=what
+	cop|se-3S&PRES=be ?
+%act:	señalándolo .
+*MJO:	ésa es la capota de la cuna , se llama capota .
+%mor:	pro:dem|ése-FEM=that_one cop|se-3S&PRES=be det:art|el&FEM&SG=the
+	n|capa-AUG-FEM=cape prep|de=of det:art|el&FEM&SG=the n|cuna&f=cradle
+	cm|cm pro:refl|se=itself v|llama-3S&PRES=call n|capa-AUG-FEM=cape .
+*CHI:	sí , t(i)ene f(r)ío !
+%mor:	co|sí=yes cm|cm v|tene-3S&PRES=have adj|frío-MASC=cold !
+*MJO:	y éstos quienes son , Alfon ?
+%mor:	coord|y=and pro:dem|éste-MASC-PL=this_one pro:rel|quien-PL=who
+	cop|se-3P&PRES=be cm|cm n:prop|Alfon ?
+%act:	señalando el dibujo .
+*CHI:	uno (con)ejo , uno oso .
+%mor:	det:art|un-MASC=one n|conejo-MASC=rabbit cm|cm det:art|un-MASC=one
+	n|oso-MASC=bear .
+*MJO:	un conejo y un oso , exacto; sabes lo que están haciendo ?
+%mor:	det:art|un&m=one n|conejo-MASC=rabbit coord|y=and det:art|un&m=one
+	n|oso-MASC=bear cm|cm co|exacto=exactly co|sabes=you_know
+	pro:obj|lo&m=him pro:rel|que=that aux|esta-3P&PRES=be
+	ger|hace-PROG=do ?
+*MJO:	escuchar la radio .
+%mor:	inf|escucha-INF=listen det:art|el&FEM&SG=the n|radio&m=radius .
+*CHI:	c(l)aro [*] que sí .
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes .
+*MJO:	y esto sabes lo que es ?
+%mor:	coord|y=and pro:dem|esto=this_one co|sabes=you_know
+	pro:obj|lo&m=him pro:rel|que=that cop|se-3S&PRES=be ?
+%act:	señalándola .
+*CHI:	una casita .
+%mor:	det:art|un-FEM=one n|casa-DIM-FEM=house .
+*MJO:	pero sabes ?
+%mor:	conj|pero=but v|sabe-2S&PRES=know ?
+*MJO:	esta casita es un reloj; y este pajarito sabes cómo se llama ?
+%mor:	det:dem|este-FEM=this n|casa-DIM-FEM=house cop|se-3S&PRES=be
+	det:art|un&m=one n|reloj&m=clock coord|y=and
+	cop|esta-13S&SUB&PRES=be n|pájaro-DIM-MASC=bird v|sabe-2S&PRES=know
+	pro:int|cómo=how pro:refl|se=itself v|llama-3S&PRES=call ?
+*MJO:	cuco .
+%mor:	v|cuca-1S&PRES=emerge_cocoon .
+*CHI:	cu@o .
+%mor:	on|cu .
+*MJO:	cucú; y a cada hora sale y hace cucú .
+%mor:	n|cucú&m=cuckoo coord|y=and aprep|a=to det:indef|cada=each
+	n|hora&f=hour v|sali-3S&PRES=leave coord|y=and v|hace-3S&PRES=do
+	n|cucú&m=cuckoo .
+*CHI:	cucú@o ?
+%mor:	on|cucú ?
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	ay !
+%mor:	co|ay=ay !
+*MJO:	y esto sabes lo que es ?
+%mor:	coord|y=and pro:dem|esto=this_one co|sabes=you_know
+	pro:obj|lo&m=him pro:rel|que=that cop|se-3S&PRES=be ?
+%act:	señalando el dibujo .
+*CHI:	a nuná [: luna] [*] .
+%mor:	aprep|a=to n|luna&f=moon .
+*MJO:	la luna ?
+%mor:	det:art|el&FEM&SG=the n|luna&f=moon ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	se parece , sí; es la tierra , pero se parece a la luna , sí .
+%mor:	pro:refl|se=itself v|parece-3S&PRES=seem cm|cm co|sí=yes
+	cop|se-3S&PRES=be det:art|el&FEM&SG=the n|tierra&f=earth cm|cm
+	conj|pero=but pro:refl|se=itself v|parece-3S&PRES=seem aprep|a=to
+	det:art|el&FEM&SG=the n|luna&f=moon cm|cm co|sí=yes .
+*CHI:	ay , uno oso y uno (con)ejo &+xos .
+%mor:	co|ay=ay cm|cm det:art|un-MASC=one n|oso-MASC=bear coord|y=and
+	det:art|un-MASC=one n|conejo-MASC=rabbit .
+%act:	señalándolos .
+*MJO:	sí , otra vez el conejo y el oso , sí; sabes lo que están haciendo ?
+%mor:	co|sí=yes cm|cm det:indef|otro-FEM=other n|vez&f=turn
+	det:art|el&MASC&SG=the n|conejo-MASC=rabbit coord|y=and
+	det:art|el&MASC&SG=the n|oso-MASC=bear cm|cm co|sí=yes
+	v|sabe-2S&PRES=know pro:obj|lo&m=him pro:rel|que=that
+	aux|esta-3P&PRES=be ger|hace-PROG=do ?
+*MJO:	abren la puerta .
+%mor:	v|abri-3P&PRES=open det:art|el&FEM&SG=the n|puerta&f=door .
+*MJO:	abren la puerta porque mira quién viene , la abuelita del bebé , su abuelito y su hermanita .
+%mor:	v|abri-3P&PRES=open det:art|el&FEM&SG=the n|puerta&f=door
+	conj|porque=because co|mira=look pro:int|quién=who
+	v|veni-3S&PRES=come cm|cm det:art|el&FEM&SG=the
+	n|abuelo-DIM-FEM=grandparent prep|de~det|el&MASC n|bebé&m=baby cm|cm
+	det:pos|su&3S=his n|abuelo-DIM-MASC=grandparent coord|y=and
+	det:pos|su&3S=his n|hermano-DIM-FEM=sibling .
+%act:	mostrando el dibujo .
+*CHI:	un oso .
+%mor:	det:art|un&m=one n|oso-MASC=bear .
+%act:	señalándolo en el dibujo .
+*MJO:	sí , el abuelito le trae un oso , verdad ?
+%mor:	co|sí=yes cm|cm det:art|el&MASC&SG=the
+	n|abuelo-DIM-MASC=grandparent pro:ind|le=him v|trae-3S&PRES=carry
+	det:art|un&m=one n|oso-MASC=bear cm|cm co|verdad=right ?
+*MJO:	cómo se llama la abuelita ?
+%mor:	pro:int|cómo=how pro:refl|se=itself v|llama-3S&PRES=call
+	det:art|el&FEM&SG=the n|abuelo-DIM-FEM=grandparent ?
+*CHI:	Paqui .
+%mor:	n:prop|Paqui .
+*MJO:	Paqui ?
+%mor:	n:prop|Paqui ?
+*CHI:	mmhm mmhm .
+%mor:	co|mmhm co|mmhm .
+*MJO:	si ?
+%mor:	conj|si=if ?
+*MJO:	y el abuelito ?
+%mor:	coord|y=and det:art|el&MASC&SG=the n|abuelo-DIM-MASC=grandparent ?
+*CHI:	xxx .
+*MJO:	Alfon le podemos llamar al abuelito .
+%mor:	n:prop|Alfon pro:ind|le=him v|pode-1P&PRES=can inf|llama-INF=call
+	aprep|a~det|el&MASC n|abuelo-DIM-MASC=grandparent .
+*MJO:	y dónde está el bebé ?
+%mor:	coord|y=and pro:int|dónde=where cop|esta-3S&PRES=be
+	det:art|el&MASC&SG=the n|bebé&m=baby ?
+*MJO:	aquí .
+%mor:	adv|aquí=here .
+%act:	señalándolo .
+*CHI:	c(l)aro [*] que sí .
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes .
+*MJO:	claro que sí , verdad ?
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes cm|cm co|verdad=right ?
+*MJO:	en la cuna , a que sí ?
+%mor:	prep|en=in det:art|el&FEM&SG=the n|cuna&f=cradle cm|cm aprep|a=to
+	pro:rel|que=that co|sí=yes ?
+*CHI:	e(s)te &+batíto ?
+%mor:	det:dem|este=this ?
+*MJO:	y mira , Alfon , esto es el campo .
+%mor:	coord|y=and co|mira=look cm|cm n:prop|Alfon cm|cm
+	pro:dem|esto=this_one cop|se-3S&PRES=be det:art|el&MASC&SG=the
+	n|campo&m=countryside .
+%act:	mostrando el dibujo .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	mira qué árbol , es grande ?
+%mor:	co|mira=look pro:int|qué=what n|árbol&m=tree cm|cm
+	cop|se-3S&PRES=be adj|grande=big ?
+%act:	señalándolo .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	fíjate , tiene hojas , frutos , de todo; esto sabes lo que es ?
+%mor:	imp|fija-2S&IMP~pro:clit|2S cm|cm v|tene-3S&PRES=have
+	n|hoja&f-PL=leaf cm|cm n|fruto&m-PL=fruit cm|cm prep|de=of
+	det:indef|todo-MASC=all pro:dem|esto=this_one co|sabes=you_know
+	pro:obj|lo&m=him pro:rel|que=that cop|se-3S&PRES=be ?
+%act:	señalándolo .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	es una fruta .
+%mor:	cop|se-3S&PRES=be det:art|un-FEM=one n|fruta&f=fruit .
+*CHI:	es una f(r)uta .
+%mor:	cop|se-3S&PRES=be det:art|un-FEM=one n|fruta&f=fruit .
+*MJO:	sí , sabes cómo se llama ?
+%mor:	co|sí=yes cm|cm v|sabe-2S&PRES=know pro:int|cómo=how
+	pro:refl|se=itself v|llama-3S&PRES=call ?
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	mora .
+%mor:	n|mora&f=blueberry .
+*CHI:	mola [: mora] [*] ?
+%mor:	n|mora&f=blueberry ?
+*MJO:	mora , sí; es muy rica .
+%mor:	imp|mori-3S&IMP=die cm|cm co|sí=yes cop|se-3S&PRES=be adv|muy=very
+	adj|rico-FEM=rich .
+*CHI:	mila [: mira] [*] , ab(r)e solo .
+%mor:	co|mira=look cm|cm v|abri-3S&PRES=open adj|solo-MASC=alone .
+%act:	pulsando de nuevo el botón del vídeo .
+*MJO:	abre solo , sí .
+%mor:	v|abri-3S&PRES=open adj|solo-MASC=alone cm|cm co|sí=yes .
+*MJO:	sabes dónde hay moras , Alfon ?
+%mor:	v|sabe-2S&PRES=know pro:int|dónde=where v|habe-3S&PRES&SPEC=have
+	n|mora&f-PL=blueberry cm|cm n:prop|Alfon ?
+*MJO:	en Soto .
+%mor:	prep|en=in n:prop|Soto .
+*CHI:	en Foto hay molas ?
+%mor:	prep|en=in n:prop|Foto v|habe-3S&PRES&SPEC=have v|mola-2S&PRES ?
+*MJO:	sí; quieres que un día cojamos ?
+%mor:	co|sí=yes v|quere-2S&PRES=want pro:rel|que=that det:art|un&m=one
+	n|día&m=day imp|coge-1P&IMP=take ?
+*CHI:	vale .
+%mor:	co|vale=okay .
+*MJO:	un día que vayamos a Soto cogemos , vale ?
+%mor:	det:art|un&m=one n|día&m=day pro:rel|que=that v|i-1P&SUB&PRES=go
+	aprep|a=to n:prop|Soto v|coge-1P&PRES=take cm|cm co|vale=okay ?
+*CHI:	ése a cayó .
+%mor:	pro:dem|ése=that_one aprep|a=to v|cae-3S&PRET=fall .
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	ése pa(ra) ti .
+%mor:	pro:dem|ése=that_one prep|para=for pro:prep|ti=you .
+*MJO:	sí ?
+%mor:	co|sí=yes ?
+*CHI:	mila [: mira] [*] , éste no , éste +...
+%mor:	co|mira=look cm|cm pro:dem|éste=this_one adv|no=no cm|cm
+	pro:dem|éste=this_one +...
+*MJO:	ah , y mira lo que hay aquí , Alfon .
+%mor:	co|ah cm|cm coord|y=and co|mira=look pro:obj|lo&m=him
+	pro:rel|que=that v|habe-3S&PRES&SPEC=have adv|aquí=here cm|cm
+	n:prop|Alfon .
+%act:	mostrándole otro dibujo del libro .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	esto sabes lo que es ?
+%mor:	pro:dem|esto=this_one co|sabes=you_know pro:obj|lo&m=him
+	pro:rel|que=that cop|se-3S&PRES=be ?
+*CHI:	qué es ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be ?
+*MJO:	son biberones .
+%mor:	cop|se-3P&PRES=be n|biberón&m-PL=baby_bottle .
+*CHI:	sí; sí , son papis [: lápiz] [*] !
+%mor:	co|sí=yes co|sí=yes cm|cm cop|se-3P&PRES=be n|lápiz&m=pencil !
+*MJO:	no , no son lápices .
+%mor:	adv|no=no cm|cm adv|no=no cop|se-3P&PRES=be n|lápices&m=pencil .
+*CHI:	no ?
+%mor:	adv|no=no ?
+*MJO:	son biberones .
+%mor:	cop|se-3P&PRES=be n|biberón&m-PL=baby_bottle .
+*CHI:	ése momé [: comer] [*] , éstos son bebés .
+%mor:	pro:dem|ése=that_one inf|come-INF=eat cm|cm
+	pro:dem|éste-MASC-PL=this_one cop|se-3P&PRES=be n|bebé&m-PL=baby .
+%act:	señalándolos en el libro .
+*MJO:	son bebés , es un osito bebé y un conejito bebé .
+%mor:	cop|se-3P&PRES=be n|bebé&m-PL=baby cm|cm cop|se-3S&PRES=be
+	det:art|un&m=one n|oso-DIM-MASC=bear n|bebé&m=baby coord|y=and
+	det:art|un&m=one n|conejo-DIM-MASC=rabbit n|bebé&m=baby .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y es que los bebés toman biberones , verdad ?
+%mor:	coord|y=and cop|se-3S&PRES=be pro:rel|que=that pro:obj|él&m-PL=he
+	n|bebé&m-PL=baby v|toma-3P&PRES=take n|biberón&m-PL=baby_bottle
+	cm|cm co|verdad=right ?
+*CHI:	c(l)aro [*] que sí , &+ka +...
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes cm|cm +...
+*MJO:	y qué es lo que se mete en los biberones ?
+%mor:	coord|y=and pro:int|qué=what cop|se-3S&PRES=be pro:obj|lo&m=him
+	pro:rel|que=that pro:refl|se=itself v|mete-3S&PRES=put prep|en=in
+	det:art|el&MASC-PL=the n|biberón&m-PL=baby_bottle ?
+*CHI:	(l)a boca .
+%mor:	det:art|el&FEM&SG=the n|boca&f=mouth .
+*MJO:	sí , se meten en la boca , pero dentro del biberón hay +...
+%mor:	co|sí=yes cm|cm pro:refl|se=itself v|mete-3P&PRES=put prep|en=in
+	det:art|el&FEM&SG=the n|boca&f=mouth cm|cm conj|pero=but
+	adv|dentro=inside prep|de~det|el&MASC n|biberón&m=baby_bottle
+	v|habe-3S&PRES&SPEC=have +...
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+*MJO:	leche .
+%mor:	n|leche&f=milk .
+*CHI:	beche [: leche] [*] .
+%mor:	n|leche&f=milk .
+*MJO:	leche , exacto .
+%mor:	n|leche&f=milk cm|cm co|exacto=exactly .
+*CHI:	éste son uno qüenos [: buenos] [*] .
+%mor:	pro:dem|éste=this_one cop|se-3P&PRES=be pro:dem|uno-MASC=one
+	adj|buen-MASC-PL=good .
+%act:	señalando un personaje del dibujo .
+*MJO:	son buenos , sí .
+%mor:	cop|se-3P&PRES=be adj|buen-MASC-PL=good cm|cm co|sí=yes .
+*CHI:	éste está falalos [: enfadados] [*] .
+%mor:	pro:dem|éste=this_one aux|esta-3S&PRES=be
+	part|enfada-PPART-MASC-PL=anger .
+%act:	señalando otro personaje .
+*MJO:	éste está enfadado ?
+%mor:	pro:dem|éste=this_one aux|esta-3S&PRES=be
+	part|enfada-PPART-MASC=anger ?
+*CHI:	mmhm .
+%mor:	co|mmhm .
+*MJO:	lo que pasa es que tiene una nariz muy grande , verdad ?
+%mor:	pro:obj|lo&m=him pro:rel|que=that v|pasa-3S&PRES=pass
+	cop|se-3S&PRES=be pro:rel|que=that v|tene-3S&PRES=have
+	det:art|un-FEM=one n|nariz&f=nose adv|muy=very adj|grande=big cm|cm
+	co|verdad=right ?
+*CHI:	mmhm .
+%mor:	co|mmhm .
+*MJO:	sí , y mira , esto qué es ?
+%mor:	co|sí=yes cm|cm coord|y=and co|mira=look cm|cm
+	pro:dem|esto=this_one pro:int|qué=what cop|se-3S&PRES=be ?
+%act:	señalándola .
+*CHI:	una bella [: estrella] [*] .
+%mor:	pro:dem|uno-FEM=one v|estrella-3S&PRES=shatter .
+*MJO:	una estrella .
+%mor:	pro:dem|uno-FEM=one v|estrella-3S&PRES=shatter .
+*CHI:	éste es uno [//] éste es (l)a talle [: calle] [*] .
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be pro:dem|éste=this_one
+	cop|se-3S&PRES=be det:art|el&FEM&SG=the n|calle&f=street .
+%act:	señalándolo en el dibujo .
+*MJO:	ésta es la calle ?
+%mor:	pro:dem|éste-FEM=this_one cop|se-3S&PRES=be det:art|el&FEM&SG=the
+	n|calle&f=street ?
+*CHI:	éste es [/] éste es (l)a talle [: calle] [*] .
+%mor:	pro:dem|éste=this_one pro:dem|éste=this_one cop|se-3S&PRES=be
+	det:art|el&FEM&SG=the n|calle&f=street .
+*MJO:	sí , y mira dónde está el bebé .
+%mor:	co|sí=yes cm|cm coord|y=and co|mira=look pro:int|dónde=where
+	cop|esta-3S&PRES=be det:art|el&MASC&SG=the n|bebé&m=baby .
+%act:	mostrando el dibujo .
+*CHI:	uy [!] haha .
+%mor:	co|uy co|haha .
+*MJO:	qué gracioso , verdad ?
+%mor:	pro:int|qué=what adj|gracioso-MASC=graceful cm|cm co|verdad=right ?
+*CHI:	mila [: mira] [*] , (es)tá [/] (es)tá aquí [= a gatas , en el suelo] .
+%mor:	co|mira=look cm|cm aux|esta-3S&PRES=be adv|aquí=here .
+%act:	señalándolo en el libro .
+*MJO:	no sabe andar todavía , verdad ?
+%mor:	adv|no=no v|sabe-3S&PRES=know inf|anda-INF=walk adv|todavía=still
+	cm|cm co|verdad=right ?
+*CHI:	c(l)aro [*] que no .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	no sabe porque es pequeño , a que sí ?
+%mor:	adv|no=no v|sabe-3S&PRES=know conj|porque=because cop|se-3S&PRES=be
+	adj|pequeño-MASC=small cm|cm aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	c(l)aro [*] que no , c(l)aro [*] que no .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no cm|cm co|claro=obvious
+	pro:rel|que=that adv|no=no .
+*MJO:	y va como un gato , a que sí ?
+%mor:	coord|y=and v|i-3S&PRES=go adv|como=like det:art|un&m=one
+	n|gato-MASC=cat cm|cm aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	sí , va como uno gato .
+%mor:	co|sí=yes cm|cm co|va=go adv|como=like det:art|un-MASC=one
+	n|gato-MASC=cat .
+*MJO:	va como un gato .
+%mor:	v|i-3S&PRES=go adv|como=like det:art|un&m=one n|gato-MASC=cat .
+*CHI:	no +...
+%mor:	adv|no=no +...
+*MJO:	no sabe ponerse de pie , verdad ?
+%mor:	adv|no=no v|sabe-3S&PRES=know inf|pone-INF~pro:clit|3S&REFL
+	prep|de=of imp|pia-3S&IMP=chirp cm|cm co|verdad=right ?
+*CHI:	no .
+%mor:	adv|no=no .
+*MJO:	no sabe todavía .
+%mor:	adv|no=no v|sabe-3S&PRES=know adv|todavía=still .
+*CHI:	(tod)avía no .
+%mor:	adv|todavía=still adv|no=no .
+*MJO:	todavía no .
+%mor:	adv|todavía=still adv|no=no .
+*CHI:	mila [: mira] [*] .
+%mor:	co|mira=look .
+*MJO:	anda , mira lo que hay aquí , Alfon .
+%mor:	co|anda=come_on cm|cm co|mira=look pro:obj|lo&m=him
+	pro:rel|que=that v|habe-3S&PRES&SPEC=have adv|aquí=here cm|cm
+	n:prop|Alfon .
+%act:	mostrándole otro dibujo .
+*CHI:	e(s) uno (pay)aso .
+%mor:	cop|se-3S&PRES=be det:art|un-MASC=one n|payaso-MASC=clown .
+*MJO:	un payaso , eso es; mira que nariz tiene .
+%mor:	det:art|un&m=one n|payaso-MASC=clown cm|cm pro:dem|eso=that_one
+	cop|se-3S&PRES=be co|mira=look pro:rel|que=that n|nariz&f=nose
+	v|tene-3S&PRES=have .
+%act:	señalándola .
+*CHI:	uy , es ay [!] haha .
+%mor:	co|uy cm|cm cop|se-3S&PRES=be co|ay=ay co|haha .
+*MJO:	es como una bola , verdad ?
+%mor:	cop|se-3S&PRES=be adv|como=like pro:dem|uno-FEM=one n|bola&f=ball
+	cm|cm co|verdad=right ?
+*CHI:	es (u)na bola , sí; c(l)aro [*] que sí .
+%mor:	cop|se-3S&PRES=be det:art|un-FEM=one n|bola&f=ball cm|cm co|sí=yes
+	co|claro=obvious pro:rel|que=that co|sí=yes .
+*MJO:	y de qué color ?
+%mor:	coord|y=and prep|de=of pro:int|qué=what n|color&m=hue ?
+*CHI:	bojo [: rojo] [*]; uy , mila [: mira] [*] , hay t(r)es bolas .
+%mor:	adj|rojo-MASC=red co|uy cm|cm co|mira=look cm|cm
+	v|habe-3S&PRES&SPEC=have det:num|tres=three n|bola&f-PL=ball .
+%act:	señalando la nariz y los pompones de los zapatos .
+*MJO:	tiene bolas también en los zapatos , verdad ?
+%mor:	v|tene-3S&PRES=have n|bola&f-PL=ball adv|también=also prep|en=in
+	det:art|el&MASC-PL=the n|zapato&m-PL=shoe cm|cm co|verdad=right ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y también son rojos .
+%mor:	coord|y=and adv|también=also cop|se-3P&PRES=be adj|rojo-MASC-PL=red
+	.
+*CHI:	é(s)te qué tiene ?
+%mor:	pro:dem|éste=this_one pro:int|qué=what v|tene-3S&PRES=have ?
+%act:	señalando otro dibujo .
+*MJO:	un sombrero rojo y también con una bolita , a que sí ?
+%mor:	det:art|un&m=one n|sombrero&m=hat adj|rojo-MASC=red coord|y=and
+	adv|también=also prep|con=with det:art|un-FEM=one
+	n|bola-DIM-FEM=ball cm|cm aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y mira , mira dónde están .
+%mor:	coord|y=and co|mira=look cm|cm co|mira=look pro:int|dónde=where
+	cop|esta-3P&PRES=be .
+*CHI:	hijos .
+%mor:	n|hijo-MASC-PL=child .
+%act:	dirigiéndose a los animales de la granja .
+*MJO:	qué , Papi ?
+%mor:	pro:int|qué=what cm|cm n:prop|Papi ?
+%com:	imitando una voz infantil , como si hablaran los hijos .
+*CHI:	yo acoto [: acuesto] [*] aquí &+tas .
+%mor:	pro:sub|yo=I v|acosta-1S&PRES=put_to_bet adv|aquí=here .
+*MJO:	los llevas a casa a los animalitos ?
+%mor:	pro:obj|él&m-PL=he v|lleva-2S&PRES=carry aprep|a=to
+	imp|casa-2S&IMP=marry aprep|a=to det:art|el&MASC-PL=the
+	n|animal-DIM-MASC-PL=animal ?
+*CHI:	sí , (l)a bielo [: cierro] [*] [= la puerta] .
+%mor:	co|sí=yes cm|cm pro:obj|la&f=she v|cerra-1S&PRES=close .
+%act:	cerrando la puerta de la granja .
+*MJO:	les cierras la puerta ?
+%mor:	pro:ind|le-PL=them v|cerra-2S&PRES=close det:art|el&FEM&SG=the
+	n|puerta&f=door ?
+*CHI:	ay , cuánto s(u)ena [*] a vaca .
+%mor:	co|ay=ay cm|cm det:int|cuánto=how_much v|sona-3S&PRES=sound
+	aprep|a=to n|vaca&f=cow .
+%exp:	se refiere de nuevo al ruido que hace la puerta al cerrarse .
+*MJO:	cuánto suena , verdad ?
+%mor:	pro:int|cuánto-MASC=how_much v|sona-3S&PRES=sound cm|cm
+	co|verdad=right ?
+*CHI:	&+kwa [/] cuánto s(u)ena [*] a vaca , &+sen .
+%mor:	pro:int|cuánto-MASC=how_much v|sona-3S&PRES=sound aprep|a=to
+	n|vaca&f=cow cm|cm .
+*MJO:	la vaca suena ?
+%mor:	det:art|el&FEM&SG=the n|vaca&f=cow v|sona-3S&PRES=sound ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	la vaca suena , verdad ?
+%mor:	det:art|el&FEM&SG=the n|vaca&f=cow v|sona-3S&PRES=sound cm|cm
+	co|verdad=right ?
+*CHI:	sí , s(u)ena [*] (l)a vaca haha .
+%mor:	co|sí=yes cm|cm v|sona-3S&PRES=sound det:art|el&FEM&SG=the
+	n|vaca&f=cow co|haha .
+*CHI:	beva [: lleva] [*] uno bobo [: globo] [*] .
+%mor:	v|lleva-3S&PRES=carry pro:dem|uno-MASC=one n|globo&m=balloon .
+%act:	refiriéndose otra vez al payaso del libro y señalándolo en el dibujo .
+*MJO:	sí , un globo .
+%mor:	co|sí=yes cm|cm det:art|un&m=one n|globo&m=balloon .
+*CHI:	&+éto volato [: volando] [*] .
+%mor:	ger|vola-PROG=fly .
+*MJO:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	&+éto volato [: volando] [*] el [*] bobo [: globo] [*] , &+éto &+bóla +...
+%mor:	ger|vola-PROG=fly det:art|el&MASC&SG=the n|globo&m=balloon cm|cm
+	+...
+*MJO:	está volando ?
+%mor:	aux|esta-3S&PRES=be ger|vola-PROG=fly ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	sí , está volando el globo , verdad ?
+%mor:	co|sí=yes cm|cm aux|esta-3S&PRES=be ger|vola-PROG=fly
+	det:art|el&MASC&SG=the n|globo&m=balloon cm|cm co|verdad=right ?
+*CHI:	yo &+abóto e(s)to [= la puerta de la granja] .
+%mor:	pro:sub|yo=I pro:dem|esto=this_one .
+%act:	abriendo la puerta de la granja .
+*CHI:	ala [/] ala [: ahora] [*] es a momé [: comer] [*] .
+%mor:	adv|ahora=now cop|se-3S&PRES=be aprep|a=to inf|come-INF=eat .
+*MJO:	vale , pues vamos a darles de comer .
+%mor:	co|vale=okay cm|cm co|pues=well v|i-1P&PRES=go aprep|a=to
+	inf|da-INF~pro:clit|3P prep|de=of inf|come-INF=eat .
+*MJO:	qué queréis de comer , animalitos ?
+%mor:	pro:int|qué=what v|quere-2P&PRES=want prep|de=of inf|come-INF=eat
+	cm|cm n|animal-DIM-MASC-PL=animal ?
+*CHI:	ay , qué haces , p(u)e(r)ta [*] ?
+%mor:	co|ay=ay cm|cm pro:int|qué=what v|hace-2S&PRES=do cm|cm
+	n|puerta&f=door ?
+%exp:	se le vuelve a cerrar la puerta .
+*MJO:	las gallinas sabes lo que comen ?
+%mor:	det:art|el&FEM-PL=the n|gallina&f-PL=hen co|sabes=you_know
+	pro:obj|lo&m=him pro:rel|que=that v|come-3P&PRES=eat ?
+*MJO:	comen maíz y trigo .
+%mor:	v|come-3P&PRES=eat n|maíz&m=maise coord|y=and n|trigo&m=wheat .
+*CHI:	bien .
+%mor:	adv|bien=well .
+*MJO:	y la ovejita sabes lo que come ?
+%mor:	coord|y=and det:art|el&FEM&SG=the n|oveja-DIM-FEM=ewe
+	co|sabes=you_know pro:obj|lo&m=him pro:rel|que=that
+	v|come-3S&PRES=eat ?
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	hierba .
+%mor:	n|hierba&f=grass .
+*CHI:	hie(r)ba ?
+%mor:	n|hierba&f=grass ?
+*MJO:	hierba , sí .
+%mor:	n|hierba&f=grass cm|cm co|sí=yes .
+*CHI:	hie(r)ba ?
+%mor:	n|hierba&f=grass ?
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	no [/] no bebo [: puedo] [*] (le)va(n)ta(r) (l)a cabeza [*] bebe(r) bien .
+%mor:	adv|no=no v|pode-1S&PRES=can inf|levanta-INF=raise
+	det:art|el&FEM&SG=the n|cabeza&f=head inf|bebe-INF=drink
+	adv|bien=well .
+%act:	tratando de levantarle la cabeza a un animalito y poniéndolo a beber .
+*MJO:	levanta la cabeza para beber bien .
+%mor:	v|levanta-3S&PRES=raise det:art|el&FEM&SG=the n|cabeza&f=head
+	prep|para=for inf|bebe-INF=drink adv|bien=well .
+*CHI:	ya .
+%mor:	adv|ya=already .
+*MJO:	ya está , ya bebió .
+%mor:	adv|ya=already cop|esta-3S&PRES=be cm|cm adv|ya=already
+	v|bebe-3S&PRET=drink .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	está mojado ?
+%mor:	aux|esta-3S&PRES=be part|moja-PPART-MASC=moisten ?
+*CHI:	sí , sí está mojado; ola [: ahora] [*] éste .
+%mor:	co|sí=yes cm|cm co|sí=yes cop|esta-3S&PRES=be
+	part|moja-PPART-MASC=moisten adv|ahora=now pro:dem|éste=this_one .
+%act:	poniendo a beber a la ovejita .
+*MJO:	la ovejita; está mojada ?
+%mor:	det:art|el&FEM&SG=the n|oveja-DIM-FEM=ewe cop|esta-3S&PRES=be
+	part|moja-PPART-FEM=moisten ?
+*CHI:	sí , au; ola [: ahora] [*] ?
+%mor:	co|sí=yes cm|cm co|au=ow adv|ahora=now ?
+*MJO:	la gallina .
+%mor:	det:art|el&FEM&SG=the n|gallina&f=hen .
+%act:	la pone a beber .
+*CHI:	oy , ya; é(s)te no .
+%mor:	co|oy cm|cm adv|ya=already pro:dem|éste=this_one adv|no=no .
+*MJO:	y ahora el cerdito , que no ha bebido todavía .
+%mor:	coord|y=and adv|ahora=now det:art|el&MASC&SG=the
+	n|cerdo-DIM-MASC=hog cm|cm pro:rel|que=that adv|no=no
+	aux|habe-3S&PRES=have part|bebe-PPART-MASC=drink adv|todavía=still .
+%act:	poniéndolo a beber .
+*MJO:	bien , ya bebió .
+%mor:	adv|bien=well cm|cm adv|ya=already v|bebe-3S&PRET=drink .
+*CHI:	é(s)te no (l)a mete (c)abeza [*] agua .
+%mor:	pro:dem|éste=this_one adv|no=no pro:obj|la&f=she v|mete-3S&PRES=put
+	n|cabeza&f=head imp|agua-2S&IMP=water_down .
+*MJO:	haha .
+%mor:	co|haha .
+*CHI:	que no , a momé [: comer] [*] .
+%mor:	pro:rel|que=that adv|no=no cm|cm aprep|a=to inf|come-INF=eat .
+*MJO:	bueno , pues ya los ponemos a dormir ?
+%mor:	co|bueno=good cm|cm co|pues=well adv|ya=already pro:obj|él&m-PL=he
+	v|pone-1P&PRES=put aprep|a=to inf|dormi-INF=sleep ?
+*CHI:	sí; (l)a bielo [: cierro] [*] (l)a p(u)e(r)ta .
+%mor:	co|sí=yes pro:obj|la&f=she v|cerra-1S&PRES=close
+	det:art|el&FEM&SG=the n|puerta&f=door .
+%act:	cerrándola .
+*MJO:	cierras la puerta , vale .
+%mor:	v|cerra-2S&PRES=close det:art|el&FEM&SG=the n|puerta&f=door cm|cm
+	co|vale=okay .
+%com:	suena el ruido del cierre de la puerta .
+*CHI:	uy !
+%mor:	co|uy !
+*MJO:	uy , qué ruido hace !
+%mor:	co|uy cm|cm pro:int|qué=what n|ruido&m=noise v|hace-3S&PRES=do !
+*CHI:	qué lido [: ruido] [*] hace [*] !
+%mor:	pro:int|qué=what n|ruido&m=noise v|hace-3S&PRES=do !
+*MJO:	cerramos el otro lado de la puerta , ponemos el cerrojo +...
+%mor:	v|cerra-1P&PRES&PRET=close det:art|el&MASC&SG=the
+	pro:indef|otro-MASC=other n|lado&m=side prep|de=of
+	det:art|el&FEM&SG=the n|puerta&f=door cm|cm v|pone-1P&PRES=put
+	det:art|el&MASC&SG=the n|cerrojo&m=latch +...
+*CHI:	es [/] es [//] qué es esto ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one ?
+*MJO:	el cerrojo .
+%mor:	det:art|el&MASC&SG=the n|cerrojo&m=latch .
+*CHI:	esto [//] qué es esto ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one ?
+*MJO:	el cerrojo .
+%mor:	det:art|el&MASC&SG=the n|cerrojo&m=latch .
+*CHI:	no , éste es b(l)a(n)co .
+%mor:	adv|no=no cm|cm pro:dem|éste=this_one cop|se-3S&PRES=be
+	adj|blanco-MASC=white .
+*MJO:	es blanco , sí .
+%mor:	cop|se-3S&PRES=be adj|blanco-MASC=white cm|cm co|sí=yes .
+*CHI:	y esto qué es ?
+%mor:	coord|y=and pro:dem|esto=this_one pro:int|qué=what
+	cop|se-3S&PRES=be ?
+*MJO:	el cerrojo de la puerta .
+%mor:	det:art|el&MASC&SG=the n|cerrojo&m=latch prep|de=of
+	det:art|el&FEM&SG=the n|puerta&f=door .
+*CHI:	c(l)aro [*] que sí !
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes !
+*MJO:	verdad ?
+%mor:	co|verdad=right ?
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	aquinas [: gallinas] [*] [x 2] !
+%mor:	n|gallina&f-PL=hen !
+*MJO:	las gallinas están ahí dentro; mételas en el gallinero .
+%mor:	det:art|el&FEM-PL=the n|gallina&f-PL=hen cop|esta-3P&PRES=be
+	adv|ahí=there adv|dentro=inside imp|mete-2S&IMP~pro:clit|OBJ&FEM&PL
+	prep|en=in det:art|el&MASC&SG=the n|gallinero&m=henhouse .
+*CHI:	está beto [: dentro] [*] .
+%mor:	cop|esta-3S&PRES=be adv|dentro=inside .
+*MJO:	están dentro , sí .
+%mor:	cop|esta-3P&PRES=be adv|dentro=inside cm|cm co|sí=yes .
+*CHI:	ah , oh !
+%mor:	co|ah cm|cm co|oh=oh !
+%act:	las mete en el gallinero .
+*MJO:	ya están metidas en el gallinero .
+%mor:	adv|ya=already cop|esta-3P&PRES=be adj|metido-FEM-PL=lodged
+	prep|en=in det:art|el&MASC&SG=the n|gallinero&m=henhouse .
+*CHI:	ya; ay .
+%mor:	adv|ya=already co|ay=ay .
+*MJO:	mira aquí qué hay , Alfon [= en los dibujos de las paredes exteriores de la granja] .
+%mor:	co|mira=look adv|aquí=here pro:int|qué=what
+	v|habe-3S&PRES&SPEC=have cm|cm n:prop|Alfon .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	más gallinas .
+%mor:	adv|más=more n|gallina&f-PL=hen .
+*CHI:	que sí , c(l)aro [*] que sí; uy , qué es esto ?
+%mor:	pro:rel|que=that co|sí=yes cm|cm co|claro=obvious pro:rel|que=that
+	co|sí=yes co|uy cm|cm pro:int|qué=what cop|se-3S&PRES=be
+	pro:dem|esto=this_one ?
+%act:	señalándolo en el dibujo .
+*MJO:	paja , eso es paja .
+%mor:	n|paja&f=straw cm|cm pro:dem|eso=that_one cop|se-3S&PRES=be
+	n|paja&f=straw .
+*CHI:	éste es paja ?
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be n|paja&f=straw ?
+%act:	señalándolo .
+*CHI:	0 [=! suspira] .
+*MJO:	sí porque sabes que +...
+%mor:	co|sí=yes conj|porque=because v|sabe-2S&PRES=know pro:rel|que=that
+	+...
+*CHI:	ay , a mí no a gusta !
+%mor:	co|ay=ay cm|cm aprep|a=to pro:prep|mí=me adv|no=no aprep|a=to
+	imp|gusta-2S&IMP=like !
+*MJO:	a ti no te gusta , no , porque los niños no comen paja , verdad ?
+%mor:	aprep|a=to pro:prep|ti=you adv|no=no pro:obj|te=you
+	v|gusta-3S&PRES=like cm|cm adv|no=no cm|cm conj|porque=because
+	det:art|el&MASC-PL=the n|niño-MASC-PL=child adv|no=no
+	v|come-3P&PRES=eat n|paja&f=straw cm|cm co|verdad=right ?
+*CHI:	no , c(l)aro [*] que no , a mí no .
+%mor:	adv|no=no cm|cm co|claro=obvious pro:rel|que=that adv|no=no cm|cm
+	aprep|a=to pro:prep|mí=me adv|no=no .
+*MJO:	sólo las gallinas , los caballitos +...
+%mor:	adv|sólo=only det:art|el&FEM-PL=the n|gallina&f-PL=hen cm|cm
+	det:art|el&MASC-PL=the n|caballo-DIM-MASC-PL=horse +...
+*CHI:	a mí no [//] a [/] a ti no a gusta acoco [: tampoco] [*] .
+%mor:	aprep|a=to pro:prep|mí=me aprep|a=to pro:prep|ti=you adv|no=no
+	aprep|a=to v|gusta-3S&PRES=like adv|tampoco=neither .
+*MJO:	a mí tampoco , no .
+%mor:	aprep|a=to pro:prep|mí=me adv|tampoco=neither cm|cm adv|no=no .
+*CHI:	osos sí &+kom hie(r)ba .
+%mor:	n|oso-MASC-PL=bear co|sí=yes n|hierba&f=grass .
+*MJO:	a los osos sí; y sabes una cosa ?
+%mor:	aprep|a=to det:art|el&MASC-PL=the n|oso-MASC-PL=bear co|sí=yes
+	coord|y=and v|sabe-2S&PRES=know det:art|un-FEM=one
+	imp|cose-3S&IMP=sew ?
+*MJO:	en los gallineros se pone paja porque a las gallinas les sirve de camita .
+%mor:	prep|en=in det:art|el&MASC-PL=the n|gallinero&m-PL=henhouse
+	pro:refl|se=itself v|pone-3S&PRES=put n|paja&f=straw
+	conj|porque=because aprep|a=to det:art|el&FEM-PL=the
+	n|gallina&f-PL=hen pro:ind|le-PL=them v|servi-3S&PRES=serve
+	prep|de=of n|cama-DIM-FEM=bed .
+*CHI:	a mí no a gusta .
+%mor:	aprep|a=to pro:prep|mí=me adv|no=no aprep|a=to
+	imp|gusta-2S&IMP=like .
+*MJO:	a ti no te gusta , verdad ?
+%mor:	aprep|a=to pro:prep|ti=you adv|no=no pro:obj|te=you
+	v|gusta-3S&PRES=like cm|cm co|verdad=right ?
+*CHI:	c(l)aro [*] que no .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	no , porque tú eres un niño; y mira qué más hay por aquí , qué más animalitos .
+%mor:	adv|no=no cm|cm conj|porque=because pro:sub|tú=you
+	cop|se-2S&PRES=be det:art|un&m=one n|niño-MASC=child coord|y=and
+	co|mira=look pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have
+	prep|por=for adv|aquí=here cm|cm pro:int|qué=what adv|más=more
+	n|animal-DIM-MASC-PL=animal .
+%act:	mostrándole los dibujos de la granja .
+*CHI:	no quilo [: quiero] [*] éste , no quilo [: quiero] [*] és(te) [= un vídeo] .
+%mor:	adv|no=no v|quere-1S&PRES=want pro:dem|éste=this_one cm|cm
+	adv|no=no v|quere-1S&PRES=want pro:dem|éste=this_one .
+*MJO:	quieres ver ese vídeo ?
+%mor:	v|quere-2S&PRES=want inf|ve-INF=see det:dem|ese=that
+	n|vídeo&m=video ?
+*CHI:	es papá (No)el !
+%mor:	cop|se-3S&PRES=be n|papá&m=papa n:prop|Noel !
+*MJO:	papá Noel ?
+%mor:	n|papá&m=papa n:prop|Noel ?
+*MJO:	no , no es papá Noel .
+%mor:	adv|no=no cm|cm adv|no=no cop|se-3S&PRES=be n|papá&m=papa
+	n:prop|Noel .
+*CHI:	eh ?
+%mor:	co|eh ?
+*MJO:	papá Noel está aquí , es ese otro .
+%mor:	n|papá&m=papa n:prop|Noel imp|esta-2S&IMP=be adv|aquí=here cm|cm
+	cop|se-3S&PRES=be det:dem|ese=that det:indef|otro-MASC=other .
+*CHI:	sí , es éste , no veo .
+%mor:	co|sí=yes cm|cm cop|se-3S&PRES=be pro:dem|éste=this_one cm|cm
+	adv|no=no v|ve-1S&PRES=see .
+*MJO:	es que está estropeado .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that aux|esta-3S&PRES=be
+	part|estropea-PPART-MASC=damage .
+*CHI:	sí , (es)tá estropea(d)o [*] .
+%mor:	co|sí=yes cm|cm aux|esta-3S&PRES=be part|estropea-PPART-MASC=damage
+	.
+*CHI:	éste sí , éste [/] éste no estropea(d)o [*] .
+%mor:	pro:dem|éste=this_one co|sí=yes cm|cm pro:dem|éste=this_one
+	adv|no=no part|estropea-PPART-MASC=damage .
+*MJO:	ése no está estropeado ?
+%mor:	pro:dem|ése=that_one adv|no=no cop|esta-3S&PRES=be
+	part|estropea-PPART-MASC=damage ?
+*CHI:	no !
+%mor:	adv|no=no !
+*MJO:	pero es que ése es de mayores , me parece .
+%mor:	conj|pero=but cop|se-3S&PRES=be pro:rel|que=that
+	pro:dem|ése=that_one cop|se-3S&PRES=be prep|de=of adj|mayor-PL=elder
+	cm|cm pro:obj|me=me v|parece-3S&PRES=seem .
+*CHI:	c(l)aro [*] que no , c(l)aro [*] que no !
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no cm|cm co|claro=obvious
+	pro:rel|que=that adv|no=no !
+*MJO:	es que ése es de mayores , es una película que grabó Tanina .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:dem|ése=that_one
+	cop|se-3S&PRES=be prep|de=of adj|mayor-PL=elder cm|cm
+	cop|se-3S&PRES=be det:art|un-FEM=one n|película&f=film
+	pro:rel|que=that v|graba-3S&PRET=engrave n:prop|Tanina .
+*CHI:	no; &+ka [/] c(l)aro [*] que no; é(s)te es a ve(r) .
+%mor:	adv|no=no co|claro=obvious pro:rel|que=that adv|no=no
+	pro:dem|éste=this_one cop|se-3S&PRES=be aprep|a=to inf|ve-INF=see .
+*MJO:	no , Alfon , es que esa película no es de ese vídeo .
+%mor:	adv|no=no cm|cm n:prop|Alfon cm|cm cop|se-3S&PRES=be
+	pro:rel|que=that det:dem|ese-FEM=that n|película&f=film adv|no=no
+	cop|se-3S&PRES=be prep|de=of det:dem|ese=that n|vídeo&m=video .
+*MJO:	es de mayores , sabes ?
+%mor:	cop|se-3S&PRES=be prep|de=of adj|mayor-PL=elder cm|cm
+	co|sabes=you_know ?
+*CHI:	no es a moles [: mayores] [*] !
+%mor:	adv|no=no cop|se-3S&PRES=be aprep|a=to adj|mayor-PL=elder !
+*TAN:	sí es de mayores , Alfon .
+%mor:	co|sí=yes cop|se-3S&PRES=be prep|de=of adj|mayor-PL=elder cm|cm
+	n:prop|Alfon .
+*CHI:	no , no , yo quilo [: quiero] [*] ese &+potíto da(r)le ese botón; da(r)le ese botón .
+%mor:	adv|no=no cm|cm adv|no=no cm|cm pro:sub|yo=I v|quere-1S&PRES=want
+	det:dem|ese=that inf|da-INF~pro:clit|3S det:dem|ese=that
+	n|botón&m=button inf|da-INF~pro:clit|3S det:dem|ese=that
+	n|botón&m=button .
+*MJO:	es que primero tienes que darle a éste .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that adv|primero=first
+	v|tene-2S&PRES=have pro:rel|que=that inf|da-INF~pro:clit|3S
+	aprep|a=to pro:dem|éste=this_one .
+%act:	señalando otro botón .
+*CHI:	&+ka que [/] c(l)aro [*] que no .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no .
+*CHI:	oh oh [!] ala (l)o voy a da(r) .
+%mor:	co|oh=oh co|oh=oh v|ala-3S&PRES=call pro:obj|lo&m=him
+	v|i-1S&PRES=go aprep|a=to inf|da-INF=give .
+*MJO:	no , pero cuando venga Tani , Alfon , que se puede estropear; hay que hacerlo con el dedo .
+%mor:	adv|no=no cm|cm conj|pero=but conj|cuando=when
+	v|veni-13S&SUB&PRES=come n:prop|Tani cm|cm n:prop|Alfon cm|cm
+	pro:rel|que=that pro:refl|se=itself v|pode-3S&PRES=can
+	inf|estropea-INF=damage v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|hace-INF~pro:clit|OBJ&MASC prep|con=with det:art|el&MASC&SG=the
+	n|dedo&m=finger .
+*CHI:	éste ya está !
+%mor:	pro:dem|éste=this_one adv|ya=already cop|esta-3S&PRES=be !
+%act:	encendiendo el vídeo .
+*TAN:	Alfon , se rompe; por_favor .
+%mor:	n:prop|Alfon cm|cm pro:refl|se=itself v|rompe-3S&PRES=break
+	co|por_favor=please .
+*CHI:	no a pope [: rompe] [*] ; ya vete .
+%mor:	adv|no=no aprep|a=to v|rompe-3S&PRES=break adv|ya=already
+	imp|i-2S&IMP~pro:clit|2S .
+*TAN:	ya me voy , ya me voy .
+%mor:	adv|ya=already pro:obj|me=me v|i-1S&PRES=go cm|cm adv|ya=already
+	pro:obj|me=me v|i-1S&PRES=go .
+*MJO:	mira , Alfon , Alfon .
+%mor:	co|mira=look cm|cm n:prop|Alfon cm|cm n:prop|Alfon .
+%act:	mostrándole de nuevo el libro .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	mira , vamos a seguir viendo aquí cosas [= en el libro] .
+%mor:	co|mira=look cm|cm v|i-1P&PRES=go aprep|a=to inf|segui-INF=follow
+	ger|ve-PROG=see adv|aquí=here v|cose-2S&SUB&PRES=sew .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	mira , esto es el bosque .
+%mor:	co|mira=look cm|cm pro:dem|esto=this_one cop|se-3S&PRES=be
+	det:art|el&MASC&SG=the n|bosque&m=forest .
+%act:	señalándolo en el dibujo .
+*CHI:	es sí , é(s)te es a coque [: bosque] [*] .
+%mor:	cop|se-3S&PRES=be co|sí=yes cm|cm pro:dem|éste=this_one
+	cop|se-3S&PRES=be aprep|a=to n|bosque&m=forest .
+*MJO:	mira qué de árboles .
+%mor:	co|mira=look pro:int|qué=what prep|de=of n|árbol&m-PL=tree .
+%act:	señalándolos .
+*CHI:	guau !
+%mor:	on|guau=wow !
+*MJO:	cuántos , verdad ?
+%mor:	pro:int|cuánto-MASC-PL=how_much cm|cm co|verdad=right ?
+*CHI:	guau !
+%mor:	on|guau=wow !
+*MJO:	mira , hojitas que se caen .
+%mor:	co|mira=look cm|cm n|hoja-DIM-FEM-PL=leaf pro:rel|que=that
+	pro:refl|se=itself v|cae-3P&PRES=fall .
+%act:	señalándolas .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	y mira el bebé ha crecido , va con sus amigos el osito y el conejito , y le llevan en su silla , verdad ?
+%mor:	coord|y=and co|mira=look det:art|el&MASC&SG=the n|bebé&m=baby
+	aux|habe-3S&PRES=have part|crece-PPART-MASC=grow cm|cm co|va=go
+	prep|con=with co|sus n|amigo-MASC-PL=friend det:art|el&MASC&SG=the
+	n|oso-DIM-MASC=bear coord|y=and det:art|el&MASC&SG=the
+	n|conejo-DIM-MASC=rabbit cm|cm coord|y=and pro:ind|le=him
+	v|lleva-3P&PRES=carry prep|en=in det:pos|su&3S=his n|silla&f=chair
+	cm|cm co|verdad=right ?
+%act:	mostrándole el dibujo .
+*CHI:	sí , c(l)aro [*] que no [//] que sí , e(s) que +...
+%mor:	co|sí=yes cm|cm co|claro=obvious pro:rel|que=that pro:rel|que=that
+	co|sí=yes cm|cm cop|se-3S&PRES=be pro:rel|que=that +...
+*MJO:	tú también vas con mamá en la silla a veces de paseo , a que sí ?
+%mor:	pro:sub|tú=you adv|también=also v|i-2S&PRES=go prep|con=with
+	n|mamá&f=mommy prep|en=in det:art|el&FEM&SG=the n|silla&f=chair
+	aprep|a=to n|vez&f-PL=turn prep|de=of v|pasea-1S&PRES=stroll cm|cm
+	aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	0 [=! se pone a saltar alrededor de la mesa] .
+*CHI:	estoy da(n)do v(u)e(l)tas .
+%mor:	aux|esta-1S&PRES=be ger|da-PROG=give part|volve-PPART-FEM-PL=turn .
+*MJO:	estás dando vueltas , verdad ?
+%mor:	aux|esta-2S&PRES=be ger|da-PROG=give n|vuelta&f-PL=turn cm|cm
+	co|verdad=right ?
+*CHI:	ay , vamos a [//] estamos &+éto , &+amom [?] .
+%mor:	co|ay=ay cm|cm co|vamos=go cop|esta-1P&PRES&PRET=be cm|cm .
+*MJO:	estás contento ?
+%mor:	cop|esta-2S&PRES=be adj|contento-MASC=content ?
+*CHI:	sí , estoy co(n)te(n)to .
+%mor:	co|sí=yes cm|cm aux|esta-1S&PRES=be v|contenta-1S&PRES=satisfy .
+*MJO:	estás contento ?
+%mor:	cop|esta-2S&PRES=be adj|contento-MASC=content ?
+*CHI:	sí; uay [!] ay !
+%mor:	co|sí=yes co|uay co|ay=ay !
+%act:	sin parar de dar vueltas .
+*MJO:	y mira , Alfon .
+%mor:	coord|y=and co|mira=look cm|cm n:prop|Alfon .
+%act:	mostrándole el libro .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	mira este payasito qué mono , a que es simpático ?
+%mor:	v|mira-3S&PRES=look cop|esta-13S&SUB&PRES=be
+	n|payaso-DIM-MASC=clown pro:int|qué=what adj|mono-MASC=cool cm|cm
+	aprep|a=to pro:rel|que=that cop|se-3S&PRES=be
+	adj|simpático-MASC=congenial ?
+*CHI:	&+e [/] é(s)te e(s) uno oso , velá [: verdad] [*] ?
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be det:art|un-MASC=one
+	n|oso-MASC=bear cm|cm co|verdad=right ?
+%act:	señalándolo en el dibujo .
+*MJO:	éste es un oso , sí; y éste es un conejo , y éste sabes quién es ?
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be det:art|un&m=one
+	n|oso-MASC=bear cm|cm co|sí=yes coord|y=and pro:dem|éste=this_one
+	cop|se-3S&PRES=be det:art|un&m=one n|conejo-MASC=rabbit cm|cm
+	coord|y=and pro:dem|éste=this_one v|sabe-2S&PRES=know
+	pro:int|quién=who cop|se-3S&PRES=be ?
+*MJO:	papá Noel .
+%mor:	n|papá&m=papa n:prop|Noel .
+%act:	señalándolo en el dibujo .
+*CHI:	papá (No)el ?
+%mor:	n|papá&m=papa n:prop|Noel ?
+*MJO:	sí , lo que pasa es que se le ve muy chiquitito , porque está muy lejos .
+%mor:	co|sí=yes cm|cm pro:obj|lo&m=him pro:rel|que=that
+	v|pasa-3S&PRES=pass cop|se-3S&PRES=be pro:rel|que=that
+	pro:refl|se=itself pro:ind|le=him co|ve=see adv|muy=very
+	adj|chico-DIM-DIM-MASC=small cm|cm conj|porque=because
+	cop|esta-3S&PRES=be adv|muy=very adv|lejos=far .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	ves ?
+%mor:	co|ves=see ?
+*MJO:	y el sol , y un pajarito .
+%mor:	coord|y=and det:art|el&MASC&SG=the n|sol&m=sun cm|cm coord|y=and
+	det:art|un&m=one n|pájaro-DIM-MASC=bird .
+%act:	señalándolos .
+*CHI:	t(i)ene boca , mila [: mira] [*] , haha [= el sol] .
+%mor:	v|tene-3S&PRES=have n|boca&f=mouth cm|cm co|mira=look cm|cm co|haha
+	.
+*MJO:	tiene boca y ojos .
+%mor:	v|tene-3S&PRES=have n|boca&f=mouth coord|y=and n|ojo&m-PL=eye .
+*CHI:	uy , t(i)ene boca , qué ivitilo [: divertido] [*] .
+%mor:	co|uy cm|cm v|tene-3S&PRES=have n|boca&f=mouth cm|cm
+	pro:int|qué=what part|diverti-PPART-MASC=divert .
+*MJO:	qué divertido , verdad ?
+%mor:	pro:int|qué=what adj|divertido-MASC=fun cm|cm co|verdad=right ?
+*CHI:	uy , <mila [: mira] [*] qué ha pasalo [: pasado] [*]> [x 2] .
+%mor:	co|uy cm|cm co|mira=look pro:int|qué=what aux|habe-3S&PRES=have
+	part|pasa-PPART-MASC=pass .
+%act:	subiendo la pierna a la mesa .
+*MJO:	que has puesto la pierna encima de la mesa; y mira , este conejito se ha sentado encima de un tambor .
+%mor:	pro:rel|que=that aux|habe-2S&PRES=have part|pone-PPART-MASC=put
+	det:art|el&FEM&SG=the n|pierna&f=leg adv|encima=on_top prep|de=of
+	det:art|el&FEM&SG=the n|mesa&f=table coord|y=and co|mira=look cm|cm
+	imp|esta-3S&IMP=be n|conejo-DIM-MASC=rabbit pro:refl|se=itself
+	aux|habe-3S&PRES=have part|senta-PPART-MASC=sit adv|encima=on_top
+	prep|de=of det:art|un&m=one n|tambor&m=drum .
+%act:	señalándolo en el dibujo .
+*CHI:	sí , uy , haha .
+%mor:	co|sí=yes cm|cm co|uy cm|cm co|haha .
+*CHI:	0 [=! haciendo ruidos como exclamaciones] .
+*CHI:	auch@i .
+%mor:	int|auch .
+*MJO:	y mira esto , una tarta de cumpleaños; y esto qué es ?
+%mor:	coord|y=and v|mira-3S&PRES=look pro:dem|esto=this_one cm|cm
+	det:art|un-FEM=one n|tarta&f=tart prep|de=of
+	n|cumpleaño&m-PL=birthday coord|y=and pro:dem|esto=this_one
+	pro:int|qué=what cop|se-3S&PRES=be ?
+*MJO:	sabes tú ?
+%mor:	v|sabe-2S&PRES=know pro:sub|tú=you ?
+%act:	mostrándole otro dibujo .
+*CHI:	ay , eso e(s) maño [: cumpleaños] [*] .
+%mor:	co|ay=ay cm|cm pro:dem|eso=that_one cop|se-3S&PRES=be
+	n|cumpleaño&m-PL=birthday .
+*MJO:	es un cumpleaños; y esto qué es ?
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|cumpleaño&m-PL=birthday
+	coord|y=and pro:dem|esto=this_one pro:int|qué=what cop|se-3S&PRES=be
+	?
+%act:	señalándolo en el dibujo .
+*CHI:	uno vela .
+%mor:	det:art|un-MASC=one n|vela&f=candle .
+*MJO:	la vela; y qué se hace con las velas ?
+%mor:	det:art|el&FEM&SG=the n|vela&f=candle coord|y=and pro:int|qué=what
+	pro:refl|se=itself v|hace-3S&PRES=do prep|con=with
+	det:art|el&FEM-PL=the n|vela&f-PL=candle ?
+*CHI:	egüidé [: encender] [*] a velas .
+%mor:	inf|encende-INF=light aprep|a=to n|vela&f-PL=candle .
+%act:	dando vueltas .
+*MJO:	qué se hace con las velas ?
+%mor:	pro:int|qué=what pro:refl|se=itself v|hace-3S&PRES=do prep|con=with
+	det:art|el&FEM-PL=the n|vela&f-PL=candle ?
+*MJO:	se sopla , a que sí ?
+%mor:	pro:refl|se=itself v|sopla-3S&PRES=blow cm|cm aprep|a=to
+	pro:rel|que=that co|sí=yes ?
+*CHI:	c(l)aro [*] que no .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	ah no ?
+%mor:	co|ah adv|no=no ?
+*MJO:	no se soplan las velas ?
+%mor:	adv|no=no pro:refl|se=itself v|sopla-3P&PRES=blow
+	det:art|el&FEM-PL=the n|vela&f-PL=candle ?
+*CHI:	no , c(l)aro [*] que no .
+%mor:	adv|no=no cm|cm co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	sí , se soplan y se canta cumpleaños feliz .
+%mor:	co|sí=yes cm|cm pro:refl|se=itself v|sopla-3P&PRES=blow coord|y=and
+	pro:refl|se=itself v|canta-3S&PRES=sing n|cumpleaño&m-PL=birthday
+	adj|feliz=happy .
+*MJO:	tú te lo sabes ?
+%mor:	pro:sub|tú=you pro:obj|te=you pro:obj|lo&m=him v|sabe-2S&PRES=know
+	?
+*CHI:	no .
+%mor:	adv|no=no .
+*MJO:	cumpleaños feliz +...
+%mor:	n|cumpleaño&m-PL=birthday adj|feliz=happy +...
+%act:	cantando .
+*CHI:	ay !
+%mor:	co|ay=ay !
+*MJO:	tú no te la sabes ?
+%mor:	pro:sub|tú=you adv|no=no pro:obj|te=you pro:obj|la&f=she
+	v|sabe-2S&PRES=know ?
+*CHI:	no sé .
+%mor:	adv|no=no v|sabe-1S&PRES=know .
+*MJO:	no ?
+%mor:	adv|no=no ?
+*CHI:	(cumple)año feliz [*] , (cumple)años melis [: feliz] [*] .
+%mor:	n|cumpleaño&m=birthday adj|feliz=happy cm|cm
+	n|cumpleaño&m-PL=birthday adj|feliz=happy .
+%act:	entonando un poco .
+*MJO:	y esto sabes lo que es ?
+%mor:	coord|y=and pro:dem|esto=this_one co|sabes=you_know
+	pro:obj|lo&m=him pro:rel|que=that cop|se-3S&PRES=be ?
+%act:	señalando el dibujo .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	lo que lleva el conejito sabes lo que es ?
+%mor:	pro:obj|lo&m=him pro:rel|que=that v|lleva-3S&PRES=carry
+	det:art|el&MASC&SG=the n|conejo-DIM-MASC=rabbit v|sabe-2S&PRES=know
+	pro:obj|lo&m=him pro:rel|que=that cop|se-3S&PRES=be ?
+*CHI:	c(u)ál ?
+%mor:	pro:int|cuál=which ?
+*MJO:	un regalo .
+%mor:	det:art|un&m=one v|regala-1S&PRES=give_present .
+*CHI:	yo [/] yo mila [: mira] [*] , mila [: mira] [*] .
+%mor:	pro:sub|yo=I v|mira-3S&PRES=look cm|cm co|mira=look .
+%com:	se oye sonar el teléfono en la habitación de al lado .
+*CHI:	quién e(s) ?
+%mor:	pro:int|quién=who cop|se-3S&PRES=be ?
+*MJO:	te vas a subir al sofá ?
+%mor:	pro:obj|te=you v|i-2S&PRES=go aprep|a=to inf|subi-INF=go_up
+	aprep|a~det|el&MASC n|sofá&m=sofa ?
+*CHI:	sí , e(s) que es éste [//] e(s) que voy a fubí [: subir] [*] a sofá [*] , voy a se(n)ta(r) .
+%mor:	co|sí=yes cm|cm cop|se-3S&PRES=be pro:rel|que=that
+	cop|se-3S&PRES=be cop|se-3S&PRES=be pro:rel|que=that v|i-1S&PRES=go
+	aprep|a=to inf|subi-INF=go_up aprep|a=to n|sofá&m=sofa cm|cm
+	v|i-1S&PRES=go aprep|a=to inf|senta-INF=sit .
+*MJO:	vale , siéntate .
+%mor:	co|vale=okay cm|cm imp|senta-2S&IMP~pro:clit|2S .
+*CHI:	au , voy a sentar [*] aquí , (es)toy (s)ubie(n)do aquí .
+%mor:	co|au=ow cm|cm v|i-1S&PRES=go aprep|a=to inf|senta-INF=sit
+	adv|aquí=here cm|cm aux|esta-1S&PRES=be ger|subi-PROG=go_up
+	adv|aquí=here .
+*MJO:	muy bien; estás subiendo , no ?
+%mor:	adv|muy=very adv|bien=well aux|esta-2S&PRES=be ger|subi-PROG=go_up
+	cm|cm adv|no=no ?
+*CHI:	(es)toy (s)ubie(n)do .
+%mor:	aux|esta-1S&PRES=be ger|subi-PROG=go_up .
+%com:	se interrumpe la grabación un momento .
+@New Episode
+@Activities:	María José muestra a Alfon otro dibujo del libro y le pregunta qué es.
+*CHI:	un ca(ra)col [*] .
+%mor:	det:art|un&m=one n|caracol&m=snail .
+*MJO:	un caracol !
+%mor:	det:art|un&m=one n|caracol&m=snail !
+*CHI:	0 [=! ruido de engullir algo] .
+*MJO:	ah , te lo vas a comer ?
+%mor:	co|ah cm|cm pro:obj|te=you pro:obj|lo&m=him v|i-2S&PRES=go
+	aprep|a=to inf|come-INF=eat ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	te gustan ?
+%mor:	pro:obj|te=you v|gusta-3P&PRES=like ?
+*CHI:	0 [=! ruido de asco] .
+*CHI:	no a &+gus [/] a gustan; es uno ca(ra)col [*] .
+%mor:	adv|no=no aprep|a=to aprep|a=to v|gusta-3P&PRES=like
+	cop|se-3S&PRES=be det:art|un-MASC=one n|caracol&m=snail .
+*MJO:	no te gustan , verdad ?
+%mor:	adv|no=no pro:obj|te=you v|gusta-3P&PRES=like cm|cm co|verdad=right
+	?
+*MJO:	es un caracol; y mira , éstos qué son ?
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|caracol&m=snail coord|y=and
+	co|mira=look cm|cm pro:dem|éste-MASC-PL=this_one pro:int|qué=what
+	cop|se-3P&PRES=be ?
+%act:	señalándolos en el dibujo .
+*MJO:	pajaritos !
+%mor:	n|pájaro-DIM-MASC-PL=bird !
+*CHI:	0 [=! ruido de comer algo que está rico] .
+*CHI:	am !
+%mor:	co|am !
+*MJO:	te los comes ?
+%mor:	pro:obj|te=you pro:obj|él&m-PL=he v|come-2S&PRES=eat ?
+*CHI:	0 [=! ruido de escupir algo] .
+*MJO:	y esto qué son [= flores] ?
+%mor:	coord|y=and pro:dem|esto=this_one pro:int|qué=what
+	cop|se-3P&PRES=be ?
+%act:	señalándolo .
+*CHI:	qué es esto ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one ?
+*MJO:	esto qué son ?
+%mor:	pro:dem|esto=this_one pro:int|qué=what cop|se-3P&PRES=be ?
+*CHI:	am !
+%mor:	co|am !
+*MJO:	también te comes las flores ?
+%mor:	adv|también=also pro:obj|te=you v|come-2S&PRES=eat
+	det:art|el&FEM-PL=the n|flor&f-PL=blossom ?
+*MJO:	pareces un caballito o una vaquita .
+%mor:	v|parece-2S&PRES=seem det:art|un&m=one n|caballo-DIM-MASC=horse
+	coord|o=or det:art|un-FEM=one n|vaca-DIM-FEM=cow .
+*CHI:	0 [=! ruido de asco] .
+*CHI:	ay , ay , uno malo .
+%mor:	co|ay=ay cm|cm co|ay=ay cm|cm pro:dem|uno-MASC=one
+	adj|malo-MASC=bad .
+%act:	dando vueltas .
+*MJO:	te vas a marear , eh , Alfon ?
+%mor:	pro:obj|te=you v|i-2S&PRES=go aprep|a=to inf|marea-INF=navigate
+	cm|cm co|eh cm|cm n:prop|Alfon ?
+*CHI:	sí , voy a leá [: marear] [*] .
+%mor:	co|sí=yes cm|cm v|i-1S&PRES=go aprep|a=to inf|marea-INF=navigate .
+*MJO:	te vas a marear .
+%mor:	pro:obj|te=you v|i-2S&PRES=go aprep|a=to inf|marea-INF=navigate .
+*CHI:	uy , uy , uay !
+%mor:	co|uy cm|cm co|uy cm|cm co|uay !
+*MJO:	al suelo !
+%mor:	aprep|a~det|el&MASC n|suelo&m=floor !
+%exp:	se cae .
+*CHI:	ay , al s(u)elo; no sabes fubí [: subir] [*] bo [: por] [*] aquí , mila [: mira] [*]; no , que &+n [/] que no [= al respaldo del sofá] .
+%mor:	co|ay=ay cm|cm aprep|a~det|el&MASC n|suelo&m=floor adv|no=no
+	v|sabe-2S&PRES=know inf|subi-INF=go_up prep|por=for adv|aquí=here
+	cm|cm co|mira=look adv|no=no cm|cm pro:rel|que=that pro:rel|que=that
+	adv|no=no .
+*MJO:	ay , y mira , Alfon , mira aquí cuántos juguetes [= en el libro] .
+%mor:	co|ay=ay cm|cm coord|y=and co|mira=look cm|cm n:prop|Alfon cm|cm
+	co|mira=look adv|aquí=here pro:int|cuánto-MASC-PL=how_much
+	n|juguete&m-PL=toy .
+%act:	mostrándole otro dibujo .
+*CHI:	ay , no bebo [: puedo] [*] .
+%mor:	co|ay=ay cm|cm adv|no=no v|pode-1S&PRES=can .
+*MJO:	mira aquí cuántos juguetes .
+%mor:	co|mira=look adv|aquí=here pro:int|cuánto-MASC-PL=how_much
+	n|juguete&m-PL=toy .
+*CHI:	a ve(r) .
+%mor:	aprep|a=to inf|ve-INF=see .
+*MJO:	mira , qué son estos juguetes ?
+%mor:	co|mira=look cm|cm pro:int|qué=what cop|se-3P&PRES=be
+	det:dem|este-MASC-PL=this n|juguete&m-PL=toy ?
+%act:	señalándolos .
+*CHI:	Yiye , he fubido [: subido] [*] aquí .
+%mor:	n:prop|Yiye cm|cm aux|habe-1S&PRES=have part|subi-PPART-MASC=go_up
+	adv|aquí=here .
+*MJO:	quieres subir ahí ?
+%mor:	v|quere-2S&PRES=want inf|subi-INF=go_up adv|ahí=there ?
+*MJO:	te ayudo ?
+%mor:	pro:obj|te=you v|ayuda-1S&PRES=help ?
+*CHI:	no , &+ka [/] c(l)aro [*] que no .
+%mor:	adv|no=no cm|cm co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	te ayudo , Alfon ?
+%mor:	pro:obj|te=you v|ayuda-1S&PRES=help cm|cm n:prop|Alfon ?
+*CHI:	mila [: mira] [*] , qué ha pasalo [: pasado] [*] ?
+%mor:	co|mira=look cm|cm pro:int|qué=what aux|habe-3S&PRES=have
+	part|pasa-PPART-MASC=pass ?
+*MJO:	que has puesto una pierna en el sofá .
+%mor:	pro:rel|que=that aux|habe-2S&PRES=have part|pone-PPART-MASC=put
+	det:art|un-FEM=one n|pierna&f=leg prep|en=in det:art|el&MASC&SG=the
+	n|sofá&m=sofa .
+*CHI:	uy , &+ne &+ne [//] no a taía [: caía] [*] .
+%mor:	co|uy cm|cm adv|no=no aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	te caías ?
+%mor:	pro:obj|te=you v|cae-2S&PAS=fall ?
+*CHI:	no , c(l)aro [*] que no .
+%mor:	adv|no=no cm|cm co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	ah , bueno , eres mayor , verdad ?
+%mor:	co|ah cm|cm co|bueno=good cm|cm cop|se-2S&PRES=be adj|mayor=elder
+	cm|cm co|verdad=right ?
+*CHI:	no a taía [: caía] [*]; qué pasa ?
+%mor:	adv|no=no aprep|a=to v|cae-13S&PAS=fall pro:int|qué=what
+	v|pasa-3S&PRES=pass ?
+*CHI:	yo a taía [: caía] [*] .
+%mor:	pro:sub|yo=I aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	te caías ?
+%mor:	pro:obj|te=you v|cae-2S&PAS=fall ?
+*CHI:	sí; e(s) güeno [: bueno] [*] e(s)ta(r) aquí .
+%mor:	co|sí=yes cop|se-3S&PRES=be co|bueno=good inf|esta-INF=be
+	adv|aquí=here .
+*MJO:	es bueno estar ahí , sí ?
+%mor:	cop|se-3S&PRES=be co|bueno=good inf|esta-INF=be adv|ahí=there cm|cm
+	co|sí=yes ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	te gusta a ti ?
+%mor:	pro:obj|te=you v|gusta-3S&PRES=like aprep|a=to pro:prep|ti=you ?
+*CHI:	uy , no bebo [: puedo] [*] .
+%mor:	co|uy cm|cm adv|no=no v|pode-1S&PRES=can .
+*MJO:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	xxx .
+*MJO:	uy , fíjate cómo te colocas , Alfon .
+%mor:	co|uy cm|cm imp|fija-2S&IMP~pro:clit|2S pro:int|cómo=how
+	pro:obj|te=you v|coloca-2S&PRES=place cm|cm n:prop|Alfon .
+*CHI:	no a taía [: caía] [*] .
+%mor:	adv|no=no aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	no te caes ?
+%mor:	adv|no=no pro:obj|te=you v|cae-2S&PRES=fall ?
+*CHI:	oh , oy , no pelo [: puedo] [*] cabe(r) , uy .
+%mor:	co|oh=oh cm|cm co|oy cm|cm adv|no=no v|pode-1S&PRES=can
+	inf|cabe-INF=fit cm|cm co|uy .
+*CHI:	quilo [: quiero] [*] fubí [: subir] [*] aquí mojó [: mejor] [*] .
+%mor:	v|quere-1S&PRES=want inf|subi-INF=go_up adv|aquí=here
+	adj|mejor=better .
+*MJO:	quieres subir a esa mesa ?
+%mor:	v|quere-2S&PRES=want inf|subi-INF=go_up aprep|a=to
+	det:dem|ese-FEM=that n|mesa&f=table ?
+*CHI:	vale .
+%mor:	co|vale=okay .
+*MJO:	sí ?
+%mor:	co|sí=yes ?
+*CHI:	vale que sí , vale que [//] &+ka c(l)aro [*] que sí .
+%mor:	co|vale=okay pro:rel|que=that co|sí=yes cm|cm co|vale=okay
+	co|claro=obvious pro:rel|que=that co|sí=yes .
+*MJO:	claro que sí .
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes .
+*CHI:	no a taía [: caía] [*] .
+%mor:	adv|no=no aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	no te caes , verdad ?
+%mor:	adv|no=no pro:obj|te=you v|cae-2S&PRES=fall cm|cm co|verdad=right ?
+*CHI:	qué es esto ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one ?
+*MJO:	pues un niño subido en un sofá , haha .
+%mor:	co|pues=well det:art|un&m=one n|niño-MASC=child
+	part|subi-PPART-MASC=go_up prep|en=in det:art|un&m=one n|sofá&m=sofa
+	cm|cm co|haha .
+*CHI:	no , (es)toy aquí; no a taía [: caía] [*] .
+%mor:	adv|no=no cm|cm cop|esta-1S&PRES=be adv|aquí=here adv|no=no
+	aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	no te caías , verdad ?
+%mor:	adv|no=no pro:obj|te=you v|cae-2S&PAS=fall cm|cm co|verdad=right ?
+*CHI:	que [//] c(l)aro [*] que no , c(l)aro [*] que no .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no cm|cm co|claro=obvious
+	pro:rel|que=that adv|no=no .
+*MJO:	porque eres grande , a que sí ?
+%mor:	conj|porque=because cop|se-2S&PRES=be adj|grande=big cm|cm
+	aprep|a=to pro:rel|que=that co|sí=yes ?
+*CHI:	ay , qué &+álo , Yiye , qué &+álo .
+%mor:	co|ay=ay cm|cm pro:int|qué=what cm|cm n:prop|Yiye cm|cm
+	pro:int|qué=what .
+%act:	subiéndose al respaldo del sofá .
+*MJO:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	que qué haces ?
+%mor:	pro:rel|que=that pro:int|qué=what v|hace-2S&PRES=do ?
+*CHI:	0 [=! ruido de estar haciendo esfuerzo] .
+*CHI:	estoy a tu tasa [: casa] [*] , aquí setalo [: sentado] [*] .
+%mor:	aux|esta-1S&PRES=be aprep|a=to det:pos|tu=your n|casa&f=house cm|cm
+	adv|aquí=here part|senta-PPART-MASC=sit .
+*MJO:	estás en mi casa ?
+%mor:	cop|esta-2S&PRES=be prep|en=in det:pos|mi=my imp|casa-2S&IMP=marry
+	?
+*CHI:	sí , (a)quí estoy; yo a quelo [: quedo] [*] aquí .
+%mor:	co|sí=yes cm|cm adv|aquí=here cop|esta-1S&PRES=be pro:sub|yo=I
+	aprep|a=to v|queda-1S&PRES=stay adv|aquí=here .
+*MJO:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	yo a quelo [: quedo] [*] aquí .
+%mor:	pro:sub|yo=I aprep|a=to v|queda-1S&PRES=stay adv|aquí=here .
+*MJO:	tú quieres estar aquí ?
+%mor:	pro:sub|tú=you v|quere-2S&PRES=want inf|esta-INF=be adv|aquí=here ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	ah , muy bien; oh , la luz .
+%mor:	co|ah cm|cm adv|muy=very adv|bien=well co|oh=oh cm|cm
+	det:art|el&FEM&SG=the n|luz&f=light .
+%exp:	Alfon apaga la luz .
+*CHI:	así no veo , así no vemos .
+%mor:	adv|así=thus adv|no=no v|ve-1S&PRES=see cm|cm adv|así=thus
+	adv|no=no v|ve-1P&PRES=see .
+*MJO:	así no vemos; así sí , verdad ?
+%mor:	adv|así=thus adv|no=no v|ve-1P&PRES=see adv|así=thus co|sí=yes
+	cm|cm co|verdad=right ?
+%exp:	la enciende .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	así sí , con luz .
+%mor:	adv|así=thus co|sí=yes cm|cm prep|con=with n|luz&f=light .
+*CHI:	eh ?
+%mor:	co|eh ?
+*CHI:	ey , ababa [: apaga] [*] &+ef .
+%mor:	co|ey cm|cm v|apaga-3S&PRES=extinguish .
+*MJO:	se apaga , verdad ?
+%mor:	pro:refl|se=itself v|apaga-3S&PRES=extinguish cm|cm co|verdad=right
+	?
+*CHI:	es una &+fóca .
+%mor:	cop|se-3S&PRES=be det:art|un-FEM=one .
+*MJO:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	es una &+fóca .
+%mor:	cop|se-3S&PRES=be det:art|un-FEM=one .
+*MJO:	es ?
+%mor:	cop|se-3S&PRES=be ?
+*CHI:	una &+fóca .
+%mor:	pro:dem|uno-FEM=one .
+*MJO:	una foca ?
+%mor:	det:art|un-FEM=one n|foca&f=seal ?
+*CHI:	no , que no; oh , oh , oy , tayó [: cayó] [*] uno .
+%mor:	adv|no=no cm|cm pro:rel|que=that adv|no=no co|oh=oh cm|cm co|oh=oh
+	cm|cm co|oy cm|cm v|cae-3S&PRET=fall pro:dem|uno-MASC=one .
+*MJO:	se cayó , verdad ?
+%mor:	pro:refl|se=itself v|cae-3S&PRET=fall cm|cm co|verdad=right ?
+*MJO:	no , pero no lo pongas encima , Alfon .
+%mor:	adv|no=no cm|cm conj|pero=but adv|no=no pro:obj|lo&m=him
+	v|pone-2S&SUB&PRES=put adv|encima=on_top cm|cm n:prop|Alfon .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	e(s) pa(ra) ti .
+%mor:	cop|se-3S&PRES=be prep|para=for pro:prep|ti=you .
+*MJO:	ah , es para mí ?
+%mor:	co|ah cm|cm cop|se-3S&PRES=be prep|para=for pro:prep|mí=me ?
+*MJO:	ay , muchas gracias .
+%mor:	co|ay=ay cm|cm det:indef|mucho-FEM-PL=many n|gracia&f-PL=grace .
+*CHI:	tú no &+básas [?] &+básas , no &+básas .
+%mor:	pro:sub|tú=you adv|no=no cm|cm adv|no=no .
+*MJO:	muchas gracias .
+%mor:	det:indef|mucho-FEM-PL=many n|gracia&f-PL=grace .
+*CHI:	c(l)aro [*] , c(l)aro [*] , no &+básas .
+%mor:	co|claro=obvious cm|cm co|claro=obvious cm|cm adv|no=no .
+*MJO:	gracias , Alfon .
+%mor:	n|gracia&f-PL=grace cm|cm n:prop|Alfon .
+*CHI:	quilo [: quiero] [*] baja(r)me aquí [= de la mesa] .
+%mor:	v|quere-1S&PRES=want inf|baja-INF~pro:clit|1S adv|aquí=here .
+*MJO:	quieres bajar ?
+%mor:	v|quere-2S&PRES=want inf|baja-INF=come_down ?
+*MJO:	te ayudo a bajar ?
+%mor:	pro:obj|te=you v|ayuda-1S&PRES=help aprep|a=to
+	inf|baja-INF=come_down ?
+*CHI:	no , yo sé baja(r)me .
+%mor:	adv|no=no cm|cm pro:sub|yo=I v|sabe-1S&PRES=know
+	inf|baja-INF~pro:clit|1S .
+*MJO:	tú sabes ?
+%mor:	pro:sub|tú=you v|sabe-2S&PRES=know ?
+*CHI:	uy !
+%mor:	co|uy !
+*MJO:	ah , pues bájate y siéntate aquí , que vamos a_ver estos juguetes .
+%mor:	co|ah cm|cm co|pues=well imp|baja-2S&IMP~pro:clit|2S coord|y=and
+	imp|senta-2S&IMP~pro:clit|2S adv|aquí=here cm|cm pro:rel|que=that
+	v|i-1P&PRES=go co|a_ver=see det:dem|este-MASC-PL=this
+	n|juguete&m-PL=toy .
+*CHI:	uy , qué pasa ?
+%mor:	co|uy cm|cm pro:int|qué=what v|pasa-3S&PRES=pass ?
+*CHI:	a taía [: caía] [*] .
+%mor:	aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	te caías ?
+%mor:	pro:obj|te=you v|cae-2S&PAS=fall ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	ven .
+%mor:	co|ven=come .
+*CHI:	uy , quilo [: quiero] [*] fubí [: subir] [*] , quilo [: quiero] [*] fubí [: subir] [*] .
+%mor:	co|uy cm|cm v|quere-1S&PRES=want inf|subi-INF=go_up cm|cm
+	v|quere-1S&PRES=want inf|subi-INF=go_up .
+*MJO:	quieres volver a subir ?
+%mor:	v|quere-2S&PRES=want inf|volve-INF=turn aprep|a=to
+	inf|subi-INF=go_up ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	pues venga , sube .
+%mor:	co|pues=well co|venga=come_on cm|cm v|subi-3S&PRES=go_up .
+*CHI:	ay [!] , au , au , auch@i , fubí [: subir] [*] .
+%mor:	co|ay=ay cm|cm co|au=ow cm|cm co|au=ow cm|cm int|auch cm|cm
+	inf|subi-INF=go_up .
+*CHI:	yo [/] (.) yo puedo [*] fubí [: subir] [*] , yo puedo [*] fubí [: subir] [*] .
+%mor:	pro:sub|yo=I v|pode-1S&PRES=can inf|subi-INF=go_up cm|cm
+	pro:sub|yo=I v|pode-1S&PRES=can inf|subi-INF=go_up .
+*CHI:	Yiye , ay , qué pasa ?
+%mor:	n:prop|Yiye cm|cm co|ay=ay cm|cm pro:int|qué=what
+	v|pasa-3S&PRES=pass ?
+*MJO:	Alfon , por_qué no le das un besito a Tanina ?
+%mor:	n:prop|Alfon cm|cm pro:int|por_qué=why adv|no=no pro:ind|le=him
+	v|da-2S&PRES=give det:art|un&m=one n|beso-DIM-MASC=kiss aprep|a=to
+	n:prop|Tanina ?
+*TAN:	bueno , pues me voy .
+%mor:	co|bueno=good cm|cm co|pues=well pro:obj|me=me v|i-1S&PRES=go .
+*CHI:	(es)toy aquí , (es)toy a(l)to , a taía [: caía] [*] .
+%mor:	cop|esta-1S&PRES=be adv|aquí=here cm|cm aux|esta-1S&PRES=be
+	adj|alto-MASC=tall cm|cm aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	te caías ?
+%mor:	pro:obj|te=you v|cae-2S&PAS=fall ?
+*CHI:	sí; a va a talle [: calle] [*] Tani .
+%mor:	co|sí=yes aprep|a=to v|i-3S&PRES=go aprep|a=to
+	v|calla-13S&SUB&PRES=silence n:prop|Tani .
+*MJO:	no , no se va a la calle , se va a dormir , a la cama , tiene sueño .
+%mor:	adv|no=no cm|cm adv|no=no pro:refl|se=itself v|i-3S&PRES=go
+	aprep|a=to det:art|el&FEM&SG=the n|calle&f=street cm|cm
+	pro:refl|se=itself v|i-3S&PRES=go aprep|a=to inf|dormi-INF=sleep
+	cm|cm aprep|a=to det:art|el&FEM&SG=the n|cama&f=bed cm|cm
+	v|tene-3S&PRES=have v|soña-1S&PRES=dream .
+*CHI:	a va a talle [: calle] [*] no ?
+%mor:	aprep|a=to v|i-3S&PRES=go aprep|a=to v|calla-13S&SUB&PRES=silence
+	adv|no=no ?
+*MJO:	no , a la calle no .
+%mor:	adv|no=no cm|cm aprep|a=to det:art|el&FEM&SG=the n|calle&f=street
+	adv|no=no .
+*CHI:	ay , qué es esto ?
+%mor:	co|ay=ay cm|cm pro:int|qué=what cop|se-3S&PRES=be
+	pro:dem|esto=this_one ?
+*CHI:	hay t(r)es mesas , hay t(r)es mesas .
+%mor:	v|habe-3S&PRES&SPEC=have det:num|tres=three n|mesa&f-PL=table cm|cm
+	v|habe-3S&PRES&SPEC=have det:num|tres=three n|mesa&f-PL=table .
+%act:	señalando tres mesitas auxiliares que encajan una dentro de otra .
+*MJO:	hay tres mesas , sí , hay tres mesas .
+%mor:	v|habe-3S&PRES&SPEC=have det:num|tres=three n|mesa&f-PL=table cm|cm
+	co|sí=yes cm|cm v|habe-3S&PRES&SPEC=have det:num|tres=three
+	n|mesa&f-PL=table .
+*CHI:	qué ralas [: raras] [*] .
+%mor:	pro:int|qué=what adj|raro-FEM-PL=rare .
+*MJO:	qué raras , verdad ?
+%mor:	pro:int|qué=what adj|raro-FEM-PL=rare cm|cm co|verdad=right ?
+*CHI:	sí , mila [: mira] [*] , haha , mila [: mira] [*] , hay t(r)es mesas , qué ralas [: raras] [*] .
+%mor:	co|sí=yes cm|cm co|mira=look cm|cm co|haha cm|cm co|mira=look cm|cm
+	v|habe-3S&PRES&SPEC=have det:num|tres=three n|mesa&f-PL=table cm|cm
+	pro:int|qué=what adj|raro-FEM-PL=rare .
+*MJO:	sí , verdad ?
+%mor:	co|sí=yes cm|cm co|verdad=right ?
+*CHI:	estoy aquí , setalo [: sentado] [*] ; uay éste e(s) fofa [: sofá] [*] .
+%mor:	cop|esta-1S&PRES=be adv|aquí=here cm|cm part|senta-PPART-MASC=sit
+	co|uay pro:dem|éste=this_one cop|se-3S&PRES=be n|sofá&m=sofa .
+*MJO:	eso es un sofá , verdad ?
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be det:art|un&m=one
+	n|sofá&m=sofa cm|cm co|verdad=right ?
+*MJO:	estás ahí sentado .
+%mor:	cop|esta-2S&PRES=be adv|ahí=there part|senta-PPART-MASC=sit .
+*CHI:	estoy setalo [: sentado] [*] aquí; ves esto ?
+%mor:	cop|esta-1S&PRES=be part|senta-PPART-MASC=sit adv|aquí=here
+	v|ve-2S&PRES=see pro:dem|esto=this_one ?
+*MJO:	mira , Tanina te va a arreglar el vídeo de papá Noel .
+%mor:	co|mira=look cm|cm n:prop|Tanina pro:obj|te=you v|i-3S&PRES=go
+	aprep|a=to inf|arregla-INF=order det:art|el&MASC&SG=the
+	n|vídeo&m=video prep|de=of n|papá&m=papa n:prop|Noel .
+%com:	Tanina rebobina la cinta manualmente con ayuda de un lápiz .
+*CHI:	esto ha pintado [*] ?
+%mor:	pro:dem|esto=this_one aux|habe-3S&PRES=have
+	part|pinta-PPART-MASC=paint ?
+*CHI:	(es)to ha pitalo [: pintado] [*] [= el vídeo] !
+%mor:	pro:dem|esto=this_one aux|habe-3S&PRES=have
+	part|pinta-PPART-MASC=paint !
+*MJO:	no , no lo ha pintado , Alfon , es que utiliza el lápiz para abrir la puertecita .
+%mor:	adv|no=no cm|cm adv|no=no pro:obj|lo&m=him aux|habe-3S&PRES=have
+	part|pinta-PPART-MASC=paint cm|cm n:prop|Alfon cm|cm
+	cop|se-3S&PRES=be pro:rel|que=that v|utiliza-3S&PRES=use
+	det:art|el&MASC&SG=the n|lápiz&m=pencil prep|para=for
+	inf|abri-INF=open det:art|el&FEM&SG=the n|puerta-DIM-FEM=door .
+*CHI:	así no vemos , así no vemos , mila [: mira] [*] .
+%mor:	adv|así=thus adv|no=no v|ve-1P&PRES=see cm|cm adv|así=thus
+	adv|no=no v|ve-1P&PRES=see cm|cm co|mira=look .
+%act:	apagando de nuevo la luz .
+*MJO:	no , así no vemos bien .
+%mor:	adv|no=no cm|cm adv|así=thus adv|no=no v|ve-1P&PRES=see
+	adv|bien=well .
+*CHI:	hay t(r)es mesas , mila [: mira] [*] , qué ralas [: raras] [*] , hay t(r)es mesas , mila [: mira] [*] , hay t(r)es mesas , hay t(r)es mesas , Yiye .
+%mor:	v|habe-3S&PRES&SPEC=have det:num|tres=three n|mesa&f-PL=table cm|cm
+	co|mira=look cm|cm pro:int|qué=what adj|raro-FEM-PL=rare cm|cm
+	v|habe-3S&PRES&SPEC=have det:num|tres=three n|mesa&f-PL=table cm|cm
+	co|mira=look cm|cm v|habe-3S&PRES&SPEC=have det:num|tres=three
+	n|mesa&f-PL=table cm|cm v|habe-3S&PRES&SPEC=have det:num|tres=three
+	n|mesa&f-PL=table cm|cm n:prop|Yiye .
+*MJO:	hay tres mesas , es verdad .
+%mor:	v|habe-3S&PRES&SPEC=have det:num|tres=three n|mesa&f-PL=table cm|cm
+	cop|se-3S&PRES=be co|verdad=right .
+*CHI:	mila [: mira] [*] , hay t(r)es mesas .
+%mor:	co|mira=look cm|cm v|habe-3S&PRES&SPEC=have det:num|tres=three
+	n|mesa&f-PL=table .
+*MJO:	sí .
+%mor:	co|sí=yes .
+*CHI:	qué raras [*] .
+%mor:	pro:int|qué=what adj|raro-FEM-PL=rare .
+*TAN:	cuál es la más grande ?
+%mor:	pro:int|cuál=which cop|se-3S&PRES=be det:art|el&FEM&SG=the
+	adv|más=more adj|grande=big ?
+*CHI:	ésos son bates [: grandes] [*] [= las mesas] .
+%mor:	pro:dem|ése-MASC-PL=that_one cop|se-3P&PRES=be adj|grande-PL=big .
+*MJO:	son grandes , verdad ?
+%mor:	cop|se-3P&PRES=be adj|grande-PL=big cm|cm co|verdad=right ?
+*TAN:	cuál es la más grande ?
+%mor:	pro:int|cuál=which cop|se-3S&PRES=be det:art|el&FEM&SG=the
+	adv|más=more adj|grande=big ?
+*CHI:	éste .
+%mor:	pro:dem|éste=this_one .
+%act:	señalándola .
+*TAN:	y la más pequeña ?
+%mor:	coord|y=and det:art|el&FEM&SG=the adv|más=more
+	adj|pequeño-FEM=small ?
+*CHI:	e(s) que +...
+%mor:	cop|se-3S&PRES=be pro:rel|que=that +...
+*TAN:	cuál es la más pequeña ?
+%mor:	pro:int|cuál=which cop|se-3S&PRES=be det:art|el&FEM&SG=the
+	adv|más=more adj|pequeño-FEM=small ?
+*CHI:	voy pi(n)ta(r)la [= la cinta de vídeo] .
+%mor:	v|i-1S&PRES=go inf|pinta-INF~pro:clit|OBJ&FEM .
+*MJO:	vas a pintar ?
+%mor:	v|i-2S&PRES=go aprep|a=to inf|pinta-INF=paint ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	el qué ?
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what ?
+*CHI:	esto .
+%mor:	pro:dem|esto=this_one .
+*MJO:	la cinta ?
+%mor:	det:art|el&FEM&SG=the n|cinta&f=ribbon ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+%com:	apaga de nuevo la luz .
+*CHI:	uy , mila [: mira] [*] , qué pasa ?
+%mor:	co|uy cm|cm co|mira=look cm|cm pro:int|qué=what v|pasa-3S&PRES=pass
+	?
+*TAN:	enciende la luz , Alfon , cielo .
+%mor:	v|encende-3S&PRES=light det:art|el&FEM&SG=the n|luz&f=light cm|cm
+	n:prop|Alfon cm|cm co:voc|cielo=angel .
+*CHI:	vale !
+%mor:	co|vale=okay !
+*TAN:	gracias .
+%mor:	n|gracia&f-PL=grace .
+*CHI:	c(l)aro [*] que no .
+%mor:	co|claro=obvious pro:rel|que=that adv|no=no .
+*MJO:	está hecha papilla [= la cinta de vídeo] .
+%mor:	cop|esta-3S&PRES=be part|hace-PPART-FEM=do n|papilla&f=pap .
+*CHI:	oy , está boto [: roto] [*] .
+%mor:	co|oy cm|cm aux|esta-3S&PRES=be part|rompe-PPART-MASC=break .
+%exp:	refiriéndose a un defecto del suelo .
+*MJO:	está roto ?
+%mor:	aux|esta-3S&PRES=be part|rompe-PPART-MASC=break ?
+*CHI:	oy , está boto [: roto] [*] , oy , &+e um (.) está boto [: roto] [*] a s(u)elo .
+%mor:	co|oy cm|cm aux|esta-3S&PRES=be part|rompe-PPART-MASC=break cm|cm
+	co|oy cm|cm co|um cop|esta-3S&PRES=be part|rompe-PPART-MASC=break
+	aprep|a=to n|suelo&m=floor .
+*CHI:	mmmm@i .
+%mor:	int|mmmm .
+*TAN:	la de Snoopy se ha visto bien ?
+%mor:	det:art|el&FEM&SG=the prep|de=of n:prop|Snoopy pro:refl|se=itself
+	aux|habe-3S&PRES=have part|ve-PPART-MASC=see adv|bien=well ?
+*MJO:	sí , muy bien .
+%mor:	co|sí=yes cm|cm adv|muy=very adv|bien=well .
+*CHI:	éste no topeau [: estropeado] [*] .
+%mor:	pro:dem|éste=this_one adv|no=no part|estropea-PPART-MASC=damage .
+*MJO:	la de Snoopy no está estropeada , verdad ?
+%mor:	det:art|el&FEM&SG=the prep|de=of n:prop|Snoopy adv|no=no
+	cop|esta-3S&PRES=be part|estropea-PPART-FEM=damage cm|cm
+	co|verdad=right ?
+*TAN:	dale ahí con el lápiz .
+%mor:	imp|da-2S&IMP~pro:clit|3S adv|ahí=there prep|con=with
+	det:art|el&MASC&SG=the n|lápiz&m=pencil .
+*CHI:	0 [=! le da] .
+*TAN:	más , otra vez .
+%mor:	adv|más=more cm|cm det:indef|otro-FEM=other n|vez&f=turn .
+*CHI:	0 [=! le da] .
+*MJO:	ayudas a Tanina , eh Alfon ?
+%mor:	v|ayuda-2S&PRES=help aprep|a=to n:prop|Tanina cm|cm co|eh
+	n:prop|Alfon ?
+*TAN:	un poquito más , más fuerte .
+%mor:	det:art|un&m=one pro:indef|poquito=little adv|más=more cm|cm
+	adv|más=more adj|fuerte=strong .
+*CHI:	más f(u)e(r)te; ya está !
+%mor:	adv|más=more adj|fuerte=strong adv|ya=already cop|esta-3S&PRES=be !
+*MJO:	uy , cuidado , Alfonsito .
+%mor:	co|uy cm|cm co|cuidado=careful cm|cm n:prop|Alfonsito .
+%exp:	porque arranca un trozo de una planta .
+*CHI:	uy , (es)tá boto [: roto] [*] , (es)tá boto [: roto] [*] .
+%mor:	co|uy cm|cm aux|esta-3S&PRES=be part|rompe-PPART-MASC=break cm|cm
+	aux|esta-3S&PRES=be part|rompe-PPART-MASC=break .
+*MJO:	está rota , sí , pero no las rompas las flores , pobres .
+%mor:	cop|esta-3S&PRES=be part|rompe-PPART-FEM=break cm|cm co|sí=yes
+	cm|cm conj|pero=but adv|no=no pro:obj|la&f-PL=she
+	v|rompe-2S&SUB&PRES=break det:art|el&FEM-PL=the n|flor&f-PL=blossom
+	cm|cm adj|pobre-PL=poor .
+*TAN:	cuidado , que como venga Aina vas a_ver .
+%mor:	co|cuidado=careful cm|cm pro:rel|que=that adv|como=like
+	co|venga=come_on n:prop|Aina v|i-2S&PRES=go co|a_ver=see .
+*CHI:	no viene Aina .
+%mor:	adv|no=no v|veni-3S&PRES=come n:prop|Aina .
+*MJO:	mira , Alfon , mira qué juguetes tenemos aquí [= en el libro] .
+%mor:	co|mira=look cm|cm n:prop|Alfon cm|cm co|mira=look pro:int|qué=what
+	n|juguete&m-PL=toy v|tene-1P&PRES=have adv|aquí=here .
+%act:	mostrándole un dibujo .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	<egüiedo [: enciendo] [*] a lu(z)> [x 2] .
+%mor:	v|encende-1S&PRES=light aprep|a=to n|luz&f=light .
+*MJO:	enciendes la luz , verdad ?
+%mor:	v|encende-2S&PRES=light det:art|el&FEM&SG=the n|luz&f=light cm|cm
+	co|verdad=right ?
+%com:	tira el trozo de planta al sofá .
+*CHI:	mila [: mira] [*] , uh , qué pasa ?
+%mor:	co|mira=look cm|cm co|uh cm|cm pro:int|qué=what v|pasa-3S&PRES=pass
+	?
+*CHI:	uy , ah [!] mila [: mira] [*] a f(l)o(r) ésta , mila [: mira] [*] ahí está .
+%mor:	co|uy cm|cm co|ah co|mira=look aprep|a=to n|flor&f=blossom
+	pro:dem|éste-FEM=this_one cm|cm co|mira=look adv|ahí=there
+	cop|esta-3S&PRES=be .
+*MJO:	aquí está , verdad ?
+%mor:	adv|aquí=here cop|esta-3S&PRES=be cm|cm co|verdad=right ?
+*MJO:	la has tirado tú aquí .
+%mor:	pro:obj|la&f=she aux|habe-2S&PRES=have part|tira-PPART-MASC=throw
+	pro:sub|tú=you adv|aquí=here .
+*CHI:	sí , a(l) fofá [: sofá] [*] .
+%mor:	co|sí=yes cm|cm aprep|a~det|el&MASC n|sofá&m=sofa .
+*MJO:	ah , sí .
+%mor:	co|ah cm|cm co|sí=yes .
+*CHI:	ola [: ahora] [*] a taía [: caía] [*] .
+%mor:	adv|ahora=now aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	mira , Alfon , mira , una pelota muy grande .
+%mor:	co|mira=look cm|cm n:prop|Alfon cm|cm co|mira=look cm|cm
+	det:art|un-FEM=one n|pelota&f=ball adv|muy=very adj|grande=big .
+%act:	mostrándole un dibujo en el libro .
+*CHI:	uy [!] haha haha .
+%mor:	co|uy co|haha co|haha .
+*MJO:	es grande , eh ?
+%mor:	cop|se-3S&PRES=be adj|grande=big cm|cm co|eh ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	tiene aquí un payasito muy gordo .
+%mor:	v|tene-3S&PRES=have adv|aquí=here det:art|un&m=one
+	n|payaso-DIM-MASC=clown adv|muy=very adj|gordo-MASC=fat .
+%act:	señalándolo .
+*CHI:	qué golo [: gordo] [*] !
+%mor:	pro:int|qué=what adj|gordo-MASC=fat !
+*MJO:	es gordo , verdad ?
+%mor:	cop|se-3S&PRES=be adj|gordo-MASC=fat cm|cm co|verdad=right ?
+*MJO:	tiene también un elefante .
+%mor:	v|tene-3S&PRES=have adv|también=also det:art|un&m=one
+	n|elefante&m=elephant .
+%act:	señalándolo .
+*CHI:	ya .
+%mor:	adv|ya=already .
+*MJO:	a que sí , Alfon ?
+%mor:	aprep|a=to pro:rel|que=that co|sí=yes cm|cm n:prop|Alfon ?
+*CHI:	ay , cayó [*] uno .
+%mor:	co|ay=ay cm|cm v|cae-3S&PRET=fall pro:dem|uno-MASC=one .
+*MJO:	se cayó uno ?
+%mor:	pro:refl|se=itself v|cae-3S&PRET=fall pro:dem|uno-MASC=one ?
+*CHI:	sí; ése no es .
+%mor:	co|sí=yes pro:dem|ése=that_one adv|no=no cop|se-3S&PRES=be .
+*MJO:	mira , tiene también aquí un pez .
+%mor:	co|mira=look cm|cm v|tene-3S&PRES=have adv|también=also
+	adv|aquí=here det:art|un&m=one n|pez&m=fish .
+%act:	señalándolo .
+%com:	vuelve donde está la planta .
+*MJO:	Alfon , no , cielo , es que se va a estropear .
+%mor:	n:prop|Alfon cm|cm adv|no=no cm|cm co:voc|cielo=angel cm|cm
+	cop|se-3S&PRES=be pro:rel|que=that pro:refl|se=itself v|i-3S&PRES=go
+	aprep|a=to inf|estropea-INF=damage .
+*CHI:	yo (l)a fopo [: soplo] [*] , yo (l)a fopo [: soplo] [*] .
+%mor:	pro:sub|yo=I pro:obj|la&f=she v|sopla-1S&PRES=blow cm|cm
+	pro:sub|yo=I pro:obj|la&f=she v|sopla-1S&PRES=blow .
+*CHI:	0 [=! sopla] .
+*MJO:	la soplas ?
+%mor:	pro:obj|la&f=she v|sopla-2S&PRES=blow ?
+*MJO:	para qué la soplas ?
+%mor:	prep|para=for pro:int|qué=what pro:obj|la&f=she
+	v|sopla-2S&PRES=blow ?
+*CHI:	(par)a taé [: caer] [*] .
+%mor:	prep|para=for inf|cae-INF=fall .
+*MJO:	por_qué ?
+%mor:	pro:int|por_qué=why ?
+*CHI:	(par)a taé [: caer] [*] a(l) s(u)elo uno .
+%mor:	prep|para=for inf|cae-INF=fall aprep|a~det|el&MASC n|suelo&m=floor
+	pro:dem|uno-MASC=one .
+*MJO:	ah , para que se caiga al suelo ?
+%mor:	co|ah cm|cm prep|para=for pro:rel|que=that pro:refl|se=itself
+	v|cae-13S&SUB&PRES=fall aprep|a~det|el&MASC n|suelo&m=floor ?
+*CHI:	sí; uy , &+ta &+ta voy a fopá [: soplar] [*] uno .
+%mor:	co|sí=yes co|uy cm|cm v|i-1S&PRES=go aprep|a=to inf|sopla-INF=blow
+	pro:dem|uno-MASC=one .
+*MJO:	soplas una ?
+%mor:	v|sopla-2S&PRES=blow pro:dem|uno-FEM=one ?
+*MJO:	mira , Alfon , mira .
+%mor:	co|mira=look cm|cm n:prop|Alfon cm|cm co|mira=look .
+%act:	mostrándole otro dibujo del libro .
+*CHI:	qué ?
+%mor:	pro:int|qué=what ?
+*MJO:	aquí hay una tarta de cumpleaños con dos velas .
+%mor:	adv|aquí=here v|habe-3S&PRES&SPEC=have det:art|un-FEM=one
+	n|tarta&f=tart prep|de=of n|cumpleaño&m-PL=birthday prep|con=with
+	det:num|dos=two n|vela&f-PL=candle .
+%act:	señalándola .
+*CHI:	(l)a ta(r)ta a ñiño [: niño] [*] .
+%mor:	det:art|el&FEM&SG=the n|tarta&f=tart aprep|a=to co:voc|niño=child .
+*MJO:	el niño ya tiene dos años , como tú .
+%mor:	det:art|el&MASC&SG=the n|niño-MASC=child adv|ya=already
+	v|tene-3S&PRES=have det:num|dos=two n|año&m-PL=year cm|cm
+	adv|como=like pro:sub|tú=you .
+*CHI:	(co)mo yo ?
+%mor:	adv|como=like pro:sub|yo=I ?
+*MJO:	es como tú .
+%mor:	cop|se-3S&PRES=be adv|como=like pro:sub|tú=you .
+*CHI:	sí , mayo(r) , ya está (l)a ta(r)ta .
+%mor:	co|sí=yes cm|cm adj|mayor=elder cm|cm adv|ya=already
+	cop|esta-3S&PRES=be det:art|el&FEM&SG=the n|tarta&f=tart .
+*MJO:	y mira , le ayudan a soplar las velas de cumpleaños el osito y el conejito .
+%mor:	coord|y=and co|mira=look cm|cm pro:ind|le=him v|ayuda-3P&PRES=help
+	aprep|a=to inf|sopla-INF=blow det:art|el&FEM-PL=the
+	n|vela&f-PL=candle prep|de=of n|cumpleaño&m-PL=birthday
+	det:art|el&MASC&SG=the n|oso-DIM-MASC=bear coord|y=and
+	det:art|el&MASC&SG=the n|conejo-DIM-MASC=rabbit .
+%act:	señalándolo en el dibujo .
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	porque son sus amigos , verdad ?
+%mor:	conj|porque=because cop|se-3P&PRES=be det:pos|su&3S-PL=his
+	n|amigo-MASC-PL=friend cm|cm co|verdad=right ?
+*CHI:	uy , a taía [: caía] [*] .
+%mor:	co|uy cm|cm aprep|a=to v|cae-13S&PAS=fall .
+*MJO:	te caías ?
+%mor:	pro:obj|te=you v|cae-2S&PAS=fall ?
+*CHI:	sí .
+%mor:	co|sí=yes .
+*MJO:	mira , de qué es la tarta ?
+%mor:	co|mira=look cm|cm prep|de=of pro:int|qué=what cop|se-3S&PRES=be
+	det:art|el&FEM&SG=the n|tarta&f=tart ?
+%act:	señalándola .
+*CHI:	ya [/] ya (l)a fopé [: soplé] [*] [= una hoja de la planta] !
+%mor:	adv|ya=already pro:obj|la&f=she v|sopla-1S&PRET=blow !
+*MJO:	ya la soplaste ?
+%mor:	adv|ya=already pro:obj|la&f=she v|sopla-2S&PRET=blow ?
+*CHI:	sí , a tae [: cae] [*] a s(u)elo aquí .
+%mor:	co|sí=yes cm|cm aprep|a=to v|cae-3S&PRES=fall aprep|a=to
+	n|suelo&m=floor adv|aquí=here .
+*MJO:	ha caído al suelo ?
+%mor:	aux|habe-3S&PRES=have part|cae-PPART-MASC=fall aprep|a~det|el&MASC
+	n|suelo&m=floor ?
+@End

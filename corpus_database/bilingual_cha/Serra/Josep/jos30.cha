@@ -1,0 +1,1209 @@
+@UTF8
+@PID:	11312/c-00001949-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Josep Target_Child , CAR carme Nurse , HUG hugo Brother , PAR pare Father , INV Investigator
+@ID:	spa , cat|Serra|CHI|2;6.04||||Target_Child|||
+@ID:	spa , cat|Serra|CAR|||||Nurse|||
+@ID:	spa , cat|Serra|HUG|||||Brother|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	j esta dret a la banyera , dins d' una banyera mes petita plena d' aigua , davant seu hi ha c seguda
+*CAR:	venga xxx
+	[= sembla que vulgui convencer j de que es posi dins la banyera] .
+*CHI:	no .
+*CAR:	com los cuac@c cuacs@c .
+*CHI:	no .
+*CAR:	va .
+*CHI:	no .
+@Comment:	hi ha un tall a la cinta , j ja esta segut dins la banyera
+*CHI:	esta roto [% "xxx roto"] .
+*CAR:	esta roto ?
+*CHI:	si .
+*CAR:	no .
+*CHI:	no se ha roto ?
+*CAR:	no .
+*CHI:	es tonto ?
+*CAR:	quien es tonto ?
+*CHI:	este .
+*CAR:	quien ?
+*CHI:	no .
+*CAR:	quien ?
+*CHI:	el guapo este [= mira cap avall] .
+*CAR:	quien es guapo ?
+*CHI:	este .
+*CAR:	la esponja ?
+*CHI:	si .
+*CAR:	por que ?
+*CHI:	pcf [% "eposa"] .
+*CAR:	esponja .
+*CHI:	si .
+*CAR:	si .
+*CAR:	quieres los cuac@c cuacs@c ?
+*CHI:	si .
+*CAR:	0 .
+%act:	agafa uns anecs de plastic i els posa dins la banyera
+*CHI:	xxx cuac@c cuac@c [% "atelo cuacuacs"] ?
+*CAR:	si .
+*CHI:	este [= te l' esponja a la ma] ?
+*CAR:	si .
+*CHI:	este [= te l' esponja a la ma] ?
+*CAR:	0 [=! fa si amb el cap] .
+*CHI:	pcf [% "sss" , sembla que j faci aquest soroll] .
+*CHI:	cuac@c cuac@c .
+*CAR:	cuac@c cuacs@c .
+*CAR:	que hacen los cuac@c cuacs@c ?
+*CHI:	a la banyera .
+*CAR:	a la banyera ?
+*CAR:	pero que hacen en la banyera ?
+*CHI:	los cuac@c cuacs@c [% "a cacuats"] .
+*CAR:	pero que hacen ?
+*CHI:	cuac@c cuacs@c .
+*CAR:	estan nadando ?
+*CHI:	si .
+*CAR:	tu sabes nadar ?
+*CHI:	si .
+*CAR:	mucho ?
+*CHI:	si .
+*CAR:	yo no te he visto .
+*CAR:	a ver como nadas !
+*CAR:	mueves los pies .
+*CAR:	mueves los pies , que yo te vea nadar , va .
+*CHI:	0 .
+%act:	pica l' aigua amb les mans i riu
+*CAR:	uix , que se salen de la banyera !
+*CHI:	xxx banyera [% "eira banyera"] !
+*CAR:	que salen .
+*CHI:	que salen [% "que selen"] ?
+*CAR:	hum [= com volent dir si] .
+*CHI:	si ?
+*CAR:	pcf [% "oi" , esquitxa l' aigua] .
+*CHI:	el pie [% "a pie"] .
+*CAR:	el pie , que hace el pie ?
+*CHI:	0 .
+%act:	juga amb els anecs
+*CAR:	has ido al cole@c hoy ?
+*CAR:	eh ?
+*CAR:	has ido al cole@c con el oscar [= omple un dels anecs amb aigua] ?
+*CHI:	ara yo .
+*CHI:	yo , yo .
+*CAR:	0 .
+%act:	mulla a j
+*CHI:	no , xxx yo [% "no mara yo" , agafa l' anec que c tenia abans] .
+*CHI:	0 .
+%act:	posa l' anec sota l' aigua i mulla l' esponja
+*CAR:	y ahora que haces ?
+*CHI:	agua .
+*CAR:	agua ?
+*CHI:	si .
+*CAR:	con la esponja ?
+*CHI:	si .
+*CAR:	la estas banyando ?
+*CHI:	si .
+*CAR:	hummm !
+*CAR:	te banyamos a ti ?
+*CHI:	no , yo no [>] , yo .
+*CAR:	si [<] ?
+*CAR:	pues venga .
+*CAR:	pontelo asi .
+*CAR:	asi [= agafa l' esponja] .
+%com:	c passa l' esponja pel cos de j
+*CHI:	yo no .
+*CHI:	yo , yo , yo .
+*CAR:	pues venga , va .
+*CHI:	yo aqui [= mira cap avall] ?
+*CHI:	0 .
+%act:	va jugant amb l' aigua
+*CHI:	mas ?
+*CAR:	si , mas .
+*CHI:	0 .
+%act:	continua jugant
+*CHI:	mas ?
+*CAR:	si .
+*CHI:	0 .
+%act:	continua jugant
+*CHI:	mas ?
+*CAR:	hum [= afirmatiu] .
+*CHI:	0 .
+%act:	continua jugant
+*CAR:	te traigo el snoopy para que salte ?
+*CHI:	si .
+*CAR:	si ?
+*CHI:	si [>] .
+*CAR:	quieres [<] que salte el snoopy ?
+*CHI:	si .
+@Comment:	c s' aixeca i se sent com h arriba , hi ha un tall a la cinta , c esta davant de j , amb el snoopy a la ma
+*CHI:	pcf [% "sacato"] .
+*CAR:	un salto [= posa el snoopy a la sabonera] ?
+*CHI:	si .
+*CAR:	pcf
+	[% "mm , piux" , fa com que el snoopy cau de la sabonera a l' aigua]
+	.
+*CHI:	ara yo .
+*CAR:	ara tu , va [= dona el snoopy a j] .
+*CHI:	a la cabeza [% "a la cabesa"] ?
+*CAR:	a la cabeza [>] [% "a la cabesa"] ?
+*HUG:	<hasta ahora> [<] [= se sent com h s' acomiada] .
+*CAR:	adeu !
+*CAR:	0 .
+%act:	va jugant amb un anec
+*CHI:	este ?
+*CAR:	hum [= afirmatiu] .
+*CAR:	xxx pegar un salto el snoopy ?
+*CHI:	un salto xxx [% "un salto go" , es mira la sabonera] ?
+*CAR:	venga !
+*CAR:	desde aqui [= assenyala el canto de la banyera] .
+*CHI:	aqui [= posa el snoopy al canto de la banyera] ?
+*CAR:	si .
+*CHI:	pcf [% "puaj" , fa saltar el snoopy a l' aigua] .
+*CAR:	anda , que salto [>] .
+*CHI:	<ara tu> [<] [= dona el snoopy a c] .
+*CAR:	ahora yo [= agafa el snoopy] ?
+*CAR:	desde aqui [= fica el snoopy a la sabonera] ?
+*CHI:	si .
+*CAR:	pcf [% "niiii piuj" , fa saltar el snoopy a l'aigua] .
+*CHI:	ara yo .
+*CAR:	y ara tu .
+*CHI:	aqui [= posa el snoopy al canto de la banyera] ?
+*CAR:	aqui ?
+*CHI:	pcf [% "ooooooo" , fa saltar el snoopy] .
+*CAR:	pcf [% "piuj" , ajuda al snoopy a caure] .
+*CHI:	pcf [% "puj" , llanca el snoopy a l' aigua] .
+*CAR:	ai , que salto !
+*CHI:	que salto [% "que chato"] .
+*CHI:	ara este [= agafa un anec] .
+*CAR:	tambien quieres que salte ese ?
+*CHI:	si [% "ji"] .
+*CHI:	yo salto .
+*CAR:	tu saltas ?
+*CAR:	te lavamos y despues (.) sigues jugando ?
+*CAR:	hummm ?
+*CAR:	te pasamos la esponjita ?
+*CHI:	no .
+*CAR:	si .
+*CAR:	y te lavamos la cabeza .
+*CAR:	eh !
+*CHI:	no .
+*CAR:	si , que tienes tierra del colegio en el patio .
+*CHI:	no .
+*CAR:	si , del patio .
+*CHI:	no .
+*CAR:	si .
+*CHI:	no .
+*CAR:	si .
+*CHI:	no .
+*CAR:	si .
+*CHI:	no .
+*CAR:	no .
+*CHI:	no y si .
+*CAR:	ah , si ?
+*CHI:	no .
+*CAR:	ah !
+*CAR:	si .
+*CHI:	no .
+*CAR:	no .
+*CHI:	no y si .
+*CAR:	como que no y si ?
+*CHI:	no .
+*CHI:	0 .
+%act:	mira la camera i llanca aigua cap a la camera
+*INV:	oh !
+*CAR:	eh !
+*CAR:	sino te mojare la cabeza .
+*CAR:	0 .
+%act:	agafa l' esponja
+*CHI:	no .
+*CAR:	si si [>] [= posa l' esponja sobre el cap de j] .
+*CHI:	no [<] .
+*CHI:	no [>] .
+*CAR:	va [<] , echala para atras , va .
+*CHI:	no , malo .
+*CAR:	malo , quies es malo ?
+*CHI:	no .
+*CAR:	echa la cabeza para atras , va .
+*CHI:	es mio .
+*CAR:	xxx <es tuyo> [>] pero dejalo .
+*CHI:	pcf [<] [% "aaa" , es queixa] .
+*CAR:	0 .
+%act:	va rentant el cap de j amb l' esponja
+*CHI:	es mio [=! plora] .
+*CHI:	no [=! plora] .
+*CHI:	es mio .
+*CHI:	no , no .
+*CAR:	xxx para [% "pst para" , fa callar a j] .
+*CAR:	0 .
+%act:	continua rentant
+*CHI:	pcf [% "aaaai" , es queixa] .
+*CHI:	pcf [% "aeio"] .
+*CHI:	pcf [% "iai" , plora] .
+*CAR:	0 .
+%act:	continua rentant
+*CHI:	no .
+*CAR:	0 .
+%act:	ensabona el cap de j
+*CHI:	pcf [% "aaai"] .
+*CHI:	no .
+*CHI:	ara yo .
+*CAR:	ara tu ?
+*CHI:	si .
+*CAR:	va , tu .
+@Comment:	j dona uns cops a la banyera , c va ensabonant el cap de j
+*CHI:	yo .
+*CAR:	tu .
+*CHI:	ya esta !
+*CAR:	no , no esta .
+*CHI:	ves ?
+*CHI:	y [/?] ya esta !
+*CHI:	ves ?
+*CHI:	ya esta !
+*CHI:	ves ?
+*CHI:	ya esta !
+*CHI:	<ya esta> [>] !
+*CAR:	<ole , ya esta> [<] !
+*CAR:	ahora a lavarte la cabeza , vale [= para d' ensabonar el cap de j]
+	?
+*CHI:	vale [= sembla que diu aixo] .
+*CAR:	0 .
+%act:	s' aixeca del terra
+*CHI:	pcf [>] [% "abanyic"] .
+*CAR:	xxx [<] ?
+*CHI:	cabeza no [% "cabesa no"] .
+*CAR:	la cabeza si .
+*CAR:	un poquito si , vale [= prepara la dutxa per a esbandir a j] ?
+*CHI:	no .
+*CAR:	y tu te la echas para atras y ya esta , y no te pasa nada , vale ?
+*CAR:	mira , esta no es como la otra , que te pega un susto
+	[= va regulant la temperatura de l' aigua] .
+*CAR:	xxx susto .
+*CHI:	0 .
+%act:	posa la ma a l' aigua que raja
+*CAR:	como esta ?
+*CHI:	0 .
+%act:	aparta la ma
+*CAR:	quema o esta fria ?
+*CHI:	este [/?] esta fria .
+*CAR:	0 .
+%act:	esbandeix el cap de j
+*CHI:	pcf [>] [% "eieia" , es queixa] .
+*CAR:	echa [<] la cabeza para atras .
+@Comment:	j posa el cap cap enrera , c va esbandint el cap de j
+*CHI:	xxx esta [% "a esta"] .
+*CHI:	ay ay !
+*CHI:	ay !
+*CHI:	ah , ah !
+*CHI:	ya esta !
+*CHI:	pcf [% "aiiba" , es queixa i es toca els ulls] .
+*CAR:	tranquilo , que no pasa nada .
+*CAR:	echate la cabeza para atras .
+*CHI:	pcf [% "yaya"] .
+*CHI:	pcf [% "huha" , es queixa] .
+*CAR:	la cabeza para atras .
+*CHI:	pcf [% "ahaha"] .
+*CHI:	pcf [% "al" , es toca l' ull] .
+*CHI:	ya esta .
+*CHI:	ya esta .
+*CHI:	ya esta .
+*CHI:	pcf [% "a"] .
+*CHI:	pcf [% "aha"] .
+*CHI:	no .
+*CAR:	si .
+*CHI:	ya esta .
+*CAR:	ves ?
+*CHI:	<ya esta> [>] .
+*CAR:	<ya esta> [<] .
+*CHI:	ya esta xxx xxx [% "ya esta , aka suba"] .
+*INV:	que guapo .
+*CHI:	ya esta [= sembla que diu aixo] .
+*CAR:	ahora el cuerpo .
+*CHI:	ahora el cuerpo [% "afa fuertu" , dona el snoopy a c] .
+*CAR:	primero el snoopy , vale ?
+*CAR:	le lavamos primero al snoopy ?
+*CAR:	0 .
+%act:	comenca a rentar el snoopy
+*CAR:	ay , que guapo que va a estar !
+*CAR:	ven , mira , ves como el snoopy no llora ?
+*CAR:	ves ?
+*CAR:	ay , que guapo !
+*CAR:	que limpio !
+*CHI:	no llora snoopy .
+*CAR:	no llora , es muy valiente .
+*CAR:	0 [= deixa de rentar el snoopy] .
+*CAR:	ahora tu , vale ?
+*CHI:	yo valiente [% "yo valiento" , agafa el snoopy] .
+*CAR:	ahora tu un poquito , vale ?
+*CHI:	snoopy .
+*CAR:	de pie .
+@Comment:	c posa de peu a j , j es queixa , c comenca a ensabonar a j
+*CHI:	ay ay !
+*CAR:	<ay ay> [>] !
+*CHI:	<ay ay> [<] la banyera !
+*CAR:	eh ?
+*CHI:	la banyera [= seu un altre cop] .
+*CAR:	no , pero primero de pie [= aixeca a j] .
+*CHI:	la banyera .
+*CAR:	ahora , despues a la banyera , vale ?
+*CHI:	si .
+*CHI:	0 .
+%act:	s' intenta seure un altre cop
+*CAR:	de pie .
+*CAR:	0 .
+%act:	acaba d' ensabonar la ma de j
+*CHI:	<ya esta> [>] .
+*CAR:	<me das la> [<] otra mano ?
+*CAR:	0 .
+%act:	agafa el brac de j
+*CHI:	otro .
+*CHI:	y ya esta .
+*CHI:	ara assenta't [= intenta seure's a la banyera] .
+*CAR:	no , de pie .
+*CHI:	pcf [% "e iei" , es queixa] .
+*CHI:	pcf [% "ei" , es queixa] .
+*CAR:	que panxa !
+*CHI:	pcf [% "a" , es queixa] .
+*CHI:	ya esta .
+*CAR:	espera .
+*CHI:	ya esta , ya esta [= agita el brac] .
+*CAR:	0 .
+%act:	comenca a rentar les cames de j
+*CHI:	pcf [% "em" , seu a la banyera] .
+*CAR:	ara un pie .
+*CHI:	ara un pie .
+*CAR:	0 .
+%act:	renta un peu
+*CAR:	ara otro pie .
+*CAR:	0 .
+%act:	renta l' altre peu
+*CAR:	ale@i , que guapo !
+*CAR:	ya esta , ves ?
+*CAR:	ves como ya esta ?
+*CAR:	0 .
+%act:	deixa l' esponja a l' aigua
+*CHI:	ara a jugar .
+*CAR:	i ara a jugar .
+*CHI:	este [= agafa un anec] ?
+*CAR:	este que ?
+*CHI:	o este [= agafa l' esponja] ?
+*CAR:	va , xxx [>] .
+*CHI:	pcf [<] [% "obaba"] .
+*CAR:	acabalo !
+*CHI:	o este [= ajunta l' anec i l' esponja] ?
+*CAR:	si .
+*CHI:	pcf [% "oralo"] ?
+*CAR:	si .
+@Comment:	sembla que j aboqui l' aigua que te l' anec a l'esponja
+*CHI:	ya esta !
+*CHI:	a la cabeza .
+*CAR:	hum [= volent dir si] .
+*CHI:	cabeza yo [= treu l' esponja de l' aigua i l' acosta a c] ?
+*CAR:	si [= posa be el cap] .
+@Comment:	sembla que j vulgui mullar el cap de c
+*CAR:	no .
+*CHI:	y yo .
+@Comment:	sembla que j vulgui mullar el cap de c
+*CAR:	no .
+*CHI:	tu [= ofereix l' esponja a c] ?
+*CAR:	no .
+*CAR:	ah , la cara [= agafa l' esponja] .
+*CHI:	no , no .
+*CAR:	si .
+*CHI:	a la cara no yo .
+*CAR:	si .
+*CAR:	espera .
+*CHI:	no .
+*CAR:	0 .
+%act:	comenca a netejar la cara de j
+*CHI:	xxx no [% "at no" , mou el cap] .
+*CAR:	hala !
+*CHI:	0 [= escup] .
+*CAR:	xxx que sucia !
+*CHI:	si .
+*CAR:	y claro .
+*CHI:	xxx cole@c [% diu "a cole"] ?
+*CAR:	eh ?
+*CAR:	del cole@c , claro , lo tienes sucio del cole@c
+	[= continua netejant] .
+*CHI:	ay !
+*CAR:	0 [= para de netejar'li la cara] .
+*CAR:	pcf [% "ale"] .
+*CHI:	<&+a> [//] ara yo [= agafa l' esponja] .
+*CHI:	pcf [% "pega , mia" , deixa l' esponja i agafa un anec] .
+*CHI:	oye , rentar este [= te l' anec a la ma] ?
+*CAR:	hum [= volent dir si] .
+*CHI:	esto [= posa l' anec sota l' aigua] .
+*CAR:	renta , renta .
+*CHI:	0 .
+%act:	va jugant amb l' anec
+*CHI:	ostra !
+*CAR:	ostra !
+*CAR:	que pasa ?
+*CHI:	xxx cuac@c cuac@c [% "a cuacua"] .
+*CAR:	que ha pasado al cuac@c cuac@c [% "que ha pasado al cuacua"] ?
+*CHI:	este [= deixa l' anec a l' aigua] .
+*CAR:	este xxx [>] [= agafa l' anec] ?
+*CHI:	pcf [<] [% "xii"] .
+*CAR:	aqui [= posa l' anec sobre la banyera petita] ?
+*CHI:	si .
+*CAR:	o aqui [= posa l' anec a la sabonera] ?
+*CHI:	si .
+*CAR:	0 .
+%act:	comenca a fer saltar l' anec a l' aigua
+*CHI:	aqui no .
+*CHI:	aqui no .
+*CAR:	0 .
+%act:	acaba de llencar l' anec a l' aigua
+*CAR:	pcf [% "piuj"] .
+*CHI:	y yo .
+*CHI:	ya xxx (.) y ya esta [% "ya ostiro y ya esta" , agafa l'anec] .
+*CHI:	0 .
+%act:	posa l' anec sobre la banyera gran
+*CAR:	cuidado [= toca l' anec per a que no caigui] .
+*CHI:	pcf [% "ieeee" , comenca a fer caure l' anec] .
+*CHI:	pcf [% "pua" , fa caure l' anec a l' aigua] .
+*CAR:	toma .
+*CHI:	ara este [= agafa un altre anec] .
+*CAR:	xxx [>] .
+*CHI:	toma [<] este [= dona l' anec a c] .
+*CAR:	<y tu> [>] ?
+*CHI:	<ara aqui> [<] .
+*CHI:	aqui [= pica el canto de la banyera gran] .
+*CAR:	uno para ti y uno para mi .
+*CHI:	si .
+*CAR:	xxx [>] .
+*CHI:	otro [<] para mi ?
+*CHI:	aqui [= agafa un altre anec] .
+*CHI:	aqui [^ posa l' anec sobre el canto de la banyera] .
+*CAR:	aqui.
+%com:	sembla que diu aixo , posa l' altre anec sobre el canto de la banyera.
+*CAR:	pcf [% "aaaaa"] .
+@Comment:	c i j fan caure els anecs a l' aigua
+*CHI:	pcf [% "puja"] .
+*CAR:	los dos a la vez .
+*CHI:	los dos [= posa l' anec sobre la banyera gran] ?
+*CHI:	<los dos> [>] ?
+*CAR:	<otra vez> [<] ?
+*CAR:	0 .
+%act:	posa l' altre anec sobre la banyera gran
+*CAR:	pcf [>] [% "uaaaa" , fa caure l' anec a l' aigua] .
+*CHI:	pcf [<] [% "iiii" , fa caure l' anec a l' aigua] .
+*CAR:	pcf [>] [% "puauj"] .
+*CHI:	pcf [<] [% "pa"] .
+@Comment:	sona el telefon , c s' aixeca i se'n va del bany
+*CHI:	osti@c [= estira el brac per agafar l' esponja] !
+*CHI:	pcf [% "pk" , agafa l' esponja] .
+@Comment:	c parla per telefon , hi ha un tall a la cinta
+*CHI:	pcf [% "ijte" , juga amb un anec] .
+@Comment:	c arriba al bany
+*CHI:	pcf [% "pff" , continua jugant] .
+*CAR:	que ?
+*CHI:	0 [= va mirant pels voltants] .
+*CAR:	y el snoopy ?
+*CHI:	y el snoopy .
+*CAR:	donde esta ?
+*CHI:	0 [= va mirant pels voltants] .
+*CHI:	aqui .
+*CAR:	buscalo .
+*CHI:	aqui esta [= assenyala el sota de la banyera] .
+*CAR:	no esta .
+*CHI:	snoopy .
+*CAR:	donde esta ?
+*CHI:	xxx patio [% "a patio"] .
+*CAR:	0 .
+%act:	posa la ma darrera de j
+*CAR:	donde esta ?
+*CAR:	0 .
+%act:	agafa el snoopy
+*CHI:	xxx , aqui [= es gira cap enrera] .
+*CHI:	no .
+*CHI:	malo .
+*CHI:	malo [>] [= es vol treure de sobre el snoopy] .
+*CAR:	<ah , es malo> [<] , es malo ?
+*CHI:	pcf [% "machu" , es mou i tira aigua a fora de la banyera petita] .
+*CAR:	anda !
+*CAR:	mira
+	[= es posa el snoopy al nas , ja que el snoopy es tambe una pinca] .
+*CAR:	cuac@c cuac@c [% "cuacua"] .
+*CAR:	0 .
+%act:	es treu el snoopy del nas
+*CAR:	donde lo ponemos ?
+*CHI:	pcf [>] [% "iiiio" , estira el brac per agafar el snoopy] .
+*CAR:	<a ver> [<] [= vol posar el snoopy a la sabonera] .
+*CAR:	aqui [= posa el snoopy a la sabonera] ?
+*CAR:	ay , no se coge !
+*CAR:	y aqui [= posa el snoopy a un altre lloc de la sabonera] ?
+*CAR:	si .
+*CAR:	anda !
+*CHI:	y yo [= es vol aixecar per a agafar'lo] .
+*CAR:	mira , ya te lo doy yo , ten [= ofereix el snoopy a j] .
+*CHI:	yo aqui ?
+*CHI:	vale [= agafa el snoopy] .
+*CAR:	no te muevas tanto , que te caeras .
+*CHI:	snoopy ?
+*CHI:	xxx snoopy [% "lobemos snoopy" , es vol aixecar] ?
+*CAR:	no .
+*CAR:	ahi sentado [% "ahi sentao"] .
+*CAR:	ponlo aqui [= assenyala el davant de la banyera] .
+*CHI:	0 .
+%act:	posa el snoopy al canto de la banyera gran
+*CAR:	aqui , ponlo aqui [= agafa el snoopy] .
+*CAR:	si tu no sabes cogerlo .
+*CAR:	mira , se coge de aqui (.) y se pone asi
+	[= posa els dits a la pinca i el col'loca al davant de la banyera] .
+*CAR:	pcf [% "chom"] .
+*CHI:	se pone aqui
+	[% "se uele" , agafa el snoopy i li intenta fer la pinca] .
+*CAR:	si , pero tienes que apretar .
+*CHI:	apretar [% "pretar"] .
+*CAR:	mira , asi [= agafa el snoopy] .
+*CAR:	pcf [% "chan" , fa la pinca el snoopy] .
+*CAR:	ves ?
+*CHI:	pcf [% "e paste" , agafa el snoopy] .
+*CHI:	pcf [% "patachan"] .
+*CAR:	<xxx no> [>] [% "patachan no"] .
+*CHI:	xxx [<] .
+*CHI:	asi [= intenta fer la pinca al snoopy] .
+*CAR:	0 .
+%act:	agafa el snoopy
+*CHI:	pcf [% "etachana"] .
+*CAR:	asi [= col'loca el snoopy] .
+*CHI:	0 .
+%act:	toca el snoopy
+*CHI:	asi .
+*CAR:	muy bien .
+*CHI:	0 .
+%act:	treu el snoopy i l' intenta posar
+*CAR:	asi [= agafa el snoopy] .
+*CHI:	asi .
+*CAR:	se le coge de aqui (.) y aprietas
+	[= torna a mostrar a j com fer'li la pinca] .
+*CHI:	0 [=! riu] .
+*CHI:	ara aqui [= intenta col'locar el snoopy al davant de la banyera] .
+*CAR:	si .
+*CAR:	0 .
+%act:	ajuda a j a col'locar el snoopy
+*CAR:	anda !
+*CHI:	0 [=! riu] .
+*CHI:	ara tu [= treu el snoopy i el dona a c] .
+*CAR:	ara yo [= agafa el snoopy] .
+*CAR:	0 .
+%act:	el col'loca
+*CAR:	ara ponlo tu .
+*CHI:	pcf [% "ixki" , l' agafa] .
+*CAR:	no , asi no .
+*CAR:	como te lo he dicho yo (.) que se tiene que hacer ?
+*CAR:	donde lo tienes que apretar ?
+*CHI:	0 .
+%act:	treu una peca del snoopy
+*CHI:	se ha roto .
+*CAR:	si , se ha roto .
+*CAR:	seguro que se ha roto solo [= agafa la peca] .
+*CHI:	snoopy .
+*CHI:	snoopy [= mira cap a on c ha deixat la peca] .
+*CAR:	que ?
+*CHI:	xxx [= mostra el snoopy] +/.
+*CAR:	es la nariz , es el nas .
+*CHI:	se ha roto el nas .
+*CAR:	l' has trencat tu [= agafa el snoopy] .
+*CHI:	si .
+*CAR:	si .
+*CHI:	se ha roto .
+*CAR:	bueno [>] no pasa nada .
+*CHI:	te [<] [= estira el brac cap a la peca] .
+*CHI:	cogelo [>] .
+*CAR:	<ya se lo preguntaremos> [<] , ya se lo preguntaremos , vale ,
+	luego ?
+*CHI:	0 .
+%act:	desisteix i agafa el snoopy , continua jugant
+*CAR:	pero no le sigas arrancado cosas .
+*CAR:	ponlo aqui (.) <y dejalo> [>] que nade
+	[= assenyala el davant de la banyera] .
+*CHI:	aqui [<] [= posa el snoopy al davant de la banyera] !
+*CAR:	aprietalo aqui [= toca la pinca del snoopy] .
+*CHI:	aqui [^ te agafat el snoopy] ?
+*CAR:	aqui [= agafa el snoopy] .
+*CAR:	aqui [= agafa el snoopy] .
+*CAR:	0 .
+%act:	va a col'locar el snoopy un altre cop
+*CHI:	aquest no .
+*CHI:	<aqui no> [>] .
+*CAR:	xxx [<] a la vez ?
+*CHI:	aqui [= posa la ma al davant de la banyera] .
+*CAR:	0 .
+%act:	vol enganxar el snoopy al brac de j
+*CHI:	no [= aparta el brac] .
+*CAR:	en el dedo , va .
+*CAR:	el dit [= enganxa el snoopy al seu dit] .
+*CAR:	mira [= mou el snoopy] .
+*CAR:	ara tu [= ofereix el snoopy a j] .
+*CHI:	pcf [% "echetengo"] .
+*CAR:	venga , va a poner el dit [= ofereix el snoopy amb la pinca oberta]
+	.
+*CHI:	0 .
+%act:	ho agafa
+*CAR:	en el dit .
+*CAR:	xxx [= vol agafar la ma de j] .
+*CHI:	no , no , no .
+*CAR:	mira , si no pasa nada , no hace nada
+	[= es posa el snoopy al dit i el mostra] .
+*CHI:	no .
+*CAR:	ves [^ mostra el snoopy] ?
+*CAR:	pcf [% "a" , toca el nas de j amb el snoopy] .
+*CHI:	no .
+*CAR:	0 .
+%act:	col'loca el snoopy al davant de la banyera i es desenganxa
+*CAR:	ondia , ha pegado un salto [% "ondia , ha pegao un salto"] !
+*CHI:	un salto .
+*CHI:	0 .
+%act:	agafa el snoopy
+*CHI:	snoopy [% "osnupi"] .
+*CHI:	snoopy .
+*CHI:	pcf [% "xo" , es mira el ninot] .
+*CHI:	0 .
+%act:	intenta col'locar el snoopy al davant de la banyera i el posa a l' aigua
+*CHI:	snoopy .
+*CHI:	0 .
+%act:	fa anar el snoopy per l' aigua
+*CAR:	como nada !
+*CHI:	0 .
+%act:	llanca de sobte el ninot a l' aigua
+*CHI:	ostras !
+*CHI:	snoopy [>] .
+*CAR:	xxx [<] , que se va a ahogar .
+*CHI:	se ha roto .
+*CAR:	se ha roto ?
+*CAR:	a ver , vamos a ponerlo encima del cuac@c cuac@c a ver si nada ,
+	vale [= agafa un anec] .
+*CAR:	0 .
+%act:	deixa l' anec i agafa el snoopy
+*CHI:	nada .
+*CAR:	xxx [= eixuga el snoopy] .
+*CAR:	vamos .
+*CAR:	xxx [= posa el snoopy sobre l' anec] .
+*CAR:	oh , que se hunde !
+*CHI:	que hunde [% "ke hunde"] .
+*CAR:	se hunde el cuac@c cuac@c , pesa mucho .
+*CAR:	0 .
+%act:	enganxa el snoopy a l' anec , els deixa a l' aigua
+*CHI:	este .
+@Comment:	l' anec i el snoopy s' enfonsen
+*CHI:	0 [=! riu] .
+*CAR:	se ha hundido .
+*CHI:	hundido [% "eio"] .
+*CHI:	0 .
+%act:	agafa el ninot i el llenca a l' aigua
+*CHI:	ostras snoopy !
+*CHI:	0 .
+%act:	torna a llencar el ninot
+*CHI:	ostras [=! riu] !
+*CAR:	0 [=! riu] .
+*CHI:	xxx se ha roto [% "etiro se ha roto" , mostra el snoopy] .
+*CAR:	el que se ha roto ?
+*CHI:	snoopy .
+*CAR:	el snoopy ?
+*CHI:	si .
+*CAR:	que le has arrancado tu ?
+*CHI:	yo .
+*CAR:	tu has sido ?
+*CHI:	cogelo [= assenyala cap a la peca que abans j havia trencat] !
+*CAR:	y esto que es [= agafa la peca] ?
+*CHI:	snoopy .
+*CAR:	el nas del snoopy (.) se ha roto .
+*CAR:	0 .
+%act:	es col'loca la peca al seu nas
+*CHI:	se ha roto .
+*CHI:	ten [= ofereix el snoopy a c] !
+*CAR:	ten [= agafa el snoopy] !
+*CAR:	lo dejamos para arreglarlo [= eixuga al snoopy] ?
+*CHI:	si .
+*CHI:	arreglarlo .
+*CAR:	arreglarlo [= va eixugant el snoopy] .
+*CHI:	arreglarlo tu , tu [>] .
+*CAR:	cuando [<] se seque el snoopy lo arreglaremos , vale ?
+*CHI:	si .
+*CAR:	xxx no le tienes que tirar nada a la nariz , eh !
+*CHI:	si .
+*CAR:	0 .
+%act:	s' aixeca de terra amb el snoopy a les mans
+*CHI:	esta .
+*CHI:	dame [= estira el brac] .
+*CAR:	que te doy ?
+*CHI:	dame [= estira el brac] .
+*CAR:	que no has dicho que lo ibamos a dejar secar ?
+*CAR:	0 .
+%act:	dona el snoopy a j
+*CHI:	se ha roto .
+*CAR:	esta aqui el nas [= estira el brac cap a on esta el nas] .
+*CHI:	0 .
+%act:	estira el brac cap a on esta el nas , amb el snoopy a la ma
+*CHI:	no xxx [% "no fuele"] .
+*CAR:	eh ?
+*CHI:	no xxx [% "no fuele"] .
+*CAR:	no huele ?
+*CHI:	no xxx [% "no fuede"] .
+*CAR:	no xxx [% "no fuede" , imita a j] ?
+*CAR:	no puede ?
+*CHI:	no .
+*CAR:	ah !
+*CHI:	xxx [>] .
+*CAR:	que [<] no puede que ?
+*CHI:	se ha roto [= mostra el ninot] .
+*CHI:	el oso .
+*CAR:	0 .
+%act:	agafa el snoopy
+*CAR:	pobrecito .
+*CHI:	0 [= fa un soroll amb la boca] .
+*CAR:	que lastima !
+*CHI:	eh , xxx [% "eh ero" , agafa el snoopy] !
+*CHI:	pcf [% "atiro" , posa el snoopy al davant de la banyera] .
+*CHI:	el pie [% "a pie"] .
+*CAR:	anda !
+*CHI:	el pie anda a la boca
+	[% "a pie anda a la boca" , toca els peus del ninot] .
+*CHI:	0 .
+%act:	posa el ninot al davant de la banyera
+*CHI:	pcf [% "pa , fa" , fica el snoopy a dins l' aigua] .
+*CHI:	0 .
+%act:	treu i llenca el snoopy a l' aigua , i esquitxa aigua
+*CAR:	anda !
+*CHI:	ay , snoopy [= mostra el ninot] !
+*CHI:	snoopy !
+*CAR:	snoopy !
+*CAR:	dame ese pie [= estira el brac cap al peu de j] .
+*CAR:	damelo (.) <que me lo llevo> [>] .
+*CHI:	pcf [<] [% "oooo"] .
+*CHI:	no .
+*CAR:	dame ese pie .
+*CHI:	0 .
+%act:	posa el snoopy al davant de la banyera i el sacseja contra la banyera
+*CAR:	anda !
+*CHI:	0 .
+%act:	continua picant'lo
+*CAR:	vale , vale .
+*CHI:	0 [=! riu] .
+*CHI:	tiro ?
+*CAR:	si .
+*CHI:	0 .
+%act:	llanca el snoopy cap en davant
+*CAR:	anda !
+*CHI:	cogelo .
+*CAR:	no lo cojo .
+*CHI:	se ha caido [% "se ha caio"] .
+*CAR:	pobrecito .
+*CAR:	lo que le estas haciendo al snoopy [= cull el snoopy i l' eixuga] .
+*CHI:	pcf [% "m" , estira el brac per agafar el snoopy] .
+*CHI:	0 .
+%act:	agafa el snoopy i es refrega contra la banyera
+*CAR:	anda !
+*CHI:	0 .
+%act:	posa el snoopy dins l' aigua
+*CHI:	pcf [% "bumba"] .
+*CAR:	pcf [% "bumba"] .
+*CHI:	se ha caido [% "se ha caio"] .
+*CAR:	si ?
+*CHI:	pcf [% "bumba" , posa al snoopy dins l' aigua i el treu] .
+@Comment:	se senten uns sorolls que venen de fora el bany
+*CAR:	que salto !
+*CHI:	es papa ?
+*CAR:	si .
+*CHI:	es papa .
+*CAR:	si , es papa , si .
+*PAR:	hola [= se'l sent de fora el bany] !
+*CHI:	hola rei !
+*PAR:	que haceis ?
+*CHI:	pcf [% "ba" , posa el ninot dins l' aigua] .
+*PAR:	hola !
+*CAR:	hola !
+@Comment:	hi ha un tall a la cinta
+*CHI:	pcf [% "xxx bumba" , te el ninot fora de la banyera] .
+*CHI:	pcf [% "ba" , posa el snoopy dins l' aigua] .
+*CHI:	0 .
+%act:	sacseja el ninot contra l' aigua
+*CAR:	anda , anda , anda !
+*CHI:	0 .
+%act:	continua sacsejant el snoopy
+*CAR:	pcf [% "aaa"] .
+*CHI:	0 .
+%act:	esquitxa a c
+*CAR:	eh !
+*CAR:	no tires agua afuera .
+*CHI:	xxx puedo [% "a puedo"] ?
+*CAR:	no .
+*CHI:	0 .
+%act:	fa un gest amb el brac
+*CHI:	puedo ?
+*CAR:	no .
+*CAR:	pues entonces me enfadare yo .
+*CHI:	0 .
+%act:	eixuga el snoopy
+*CHI:	ya esta .
+*CAR:	vale .
+*CAR:	vamos fuera ?
+*CHI:	no .
+*CAR:	si , que hace frio .
+*CHI:	no , no .
+*CAR:	si , que ya esta fria el agua .
+*CHI:	no .
+*CAR:	si .
+*CHI:	no .
+*CAR:	si .
+*CHI:	no .
+*CAR:	si .
+*CHI:	no puedo [>] .
+*CAR:	<esta fria> [<] [= deixa caure aigua a l' esquena de j] ?
+*CAR:	esta fria el agua ?
+*CAR:	esta fria [= deixa caure aigua a l' esquena de j] ?
+*CHI:	si .
+*CAR:	ah !
+*CAR:	pues venga , fuera .
+*CHI:	no .
+*CAR:	si , venga .
+*CAR:	y te vestimos y luego xxx , hummm ?
+*CAR:	vale ?
+*CAR:	te quieres vestir para irnos a la calle ?
+*CHI:	no .
+*CAR:	con el coche de papa ?
+*CHI:	no .
+*CAR:	no te quieres ir con el coche de papa ?
+*CHI:	si .
+*CAR:	ah !
+*CHI:	mas [>] ?
+*CAR:	vamos [<] ?
+*CAR:	vamos a vestirte ?
+*CHI:	xxx unyas [% "oior unyas" , agafa el seu peu i el mostra] .
+*CHI:	xxx unyas [% "arar unyas" , deixa el peu a l' aigua] .
+*CAR:	las unyas ?
+*CHI:	si .
+*CAR:	te las cortamos el miercoles .
+*CHI:	si .
+*CAR:	pues a mi me parece que no .
+@Comment:	p arriba al bany i sembla que obri una aixeta
+*PAR:	que josep ?
+*CHI:	molt malo .
+*CHI:	malo .
+*PAR:	xxx o que ?
+*CAR:	xxx [>] ?
+*CHI:	<un pito> [<]
+	[% "un pitu" , ho diu com si fos paraula catalana , es toca el penis]
+	.
+*CHI:	un pito [% "un pitu" , es toca el penis] .
+*CHI:	un pito [% "un pitu" , es toca el penis] .
+*CAR:	anda !
+*PAR:	que , anem a passejar , josep ?
+*CHI:	un pito [% "un pitu"] .
+*PAR:	anem a passejar xxx ?
+*CHI:	un pito [% "un pitu"] .
+*CAR:	<un pito> [>] [% "un pitu"] ?
+*PAR:	eh [<] ?
+*CHI:	un pito [% "un pitu"] .
+*CAR:	anda !
+*CHI:	tocame [= encara es toca el penis] .
+*CAR:	anda !
+*CAR:	te la has [>] encontrado [% "te la ha encontrao"] ?
+*CHI:	xxx [<] +...
+*CHI:	si .
+*CAR:	si ?
+*CHI:	si .
+*CAR:	y donde estaba ?
+*CHI:	a ver [= mira cap a l' aigua] .
+*CHI:	el pito [% "a pitu" , assenyala el penis] .
+*CAR:	el pito , donde esta el pito [% "el pitu , donde esta el pitu"] ?
+*CHI:	aqui [= es toca el penis] .
+*CAR:	anda !
+*CAR:	y que hace el pito [% diu "pitu" com si fos en catala] ?
+*CHI:	pcf [% "ff , opopo" , amb la ma fa com si li sortis l'orina] .
+*CAR:	hace pipi ?
+*CHI:	si .
+*CAR:	donde ?
+*CHI:	pcf
+	[% "ff , ff" , mou l' aigua amb les mans com si sortis l' orina] .
+*CHI:	0 .
+%act:	comenca a esquitxar l' aigua
+*CAR:	vamos fuera ?
+*CHI:	no .
+*CAR:	<xxx a vestirte xxx> [>] .
+*PAR:	<i que , (anem) anem a passejar amb el cotxe , josep> [<] ?
+*PAR:	eh ?
+*CHI:	0 .
+%act:	mou l' aigua amb les cames
+*CAR:	vale !
+*CHI:	0 .
+%act:	continua movent l' aigua
+*CAR:	0 .
+%act:	s' acosta a j amb una tovallola
+*CHI:	pcf [% "aaa" , xiscla] .
+*CAR:	venga !
+*CHI:	pcf [% "aa" , continua movent l' aigua] .
+*CAR:	0 .
+%act:	treu a j de l' aigua i el fa seure a la falda
+*CHI:	pcf [% "ii , oiii" , es queixa] .
+*PAR:	va , que ens anem a molins .
+*PAR:	eh !
+*CHI:	pcf [% "aaa"] .
+*PAR:	vale , amb el cotxe .
+*CHI:	si .
+*PAR:	vale [= s' allunya del bany] .
+*CHI:	tu no .
+*CAR:	que ?
+*CHI:	tu no .
+*CAR:	no , yo no me voy ?
+*CHI:	tu si .
+*CAR:	ah , si ?
+*CHI:	si .
+*CAR:	donde me voy yo ?
+*CAR:	dimelo , donde me voy yo ?
+*CAR:	0 [= besa j] .
+*CAR:	hummm ?
+*CAR:	di .
+*CHI:	ya esta .
+*PAR:	anem a veure als cuac@c cuacs@c ?
+*CHI:	si .
+*PAR:	el pio@c pio@c .
+*CHI:	si .
+@Comment:	hi ha un tall a la cinta , c ja ha acabat d' eixugar a j , c acomoda mes be a j
+*CHI:	pcf [% "at a"] .
+*PAR:	venga , xxx .
+*CHI:	si .
+*PAR:	vale ?
+*CHI:	vale .
+*PAR:	amb el cotxe .
+*CHI:	pcf [% "al"] .
+*PAR:	a passejar .
+*CHI:	si .
+*PAR:	oi oi oi , que guapo que esta el josep !
+*CAR:	0 .
+%act:	prepara els pols de talc i fa estirar a j
+*CHI:	pcf [% "mm" , s' estira] .
+*PAR:	la barriga .
+*CAR:	0 .
+%act:	tira pols de talc sobre el pit i l' abdomen de j
+*PAR:	ay , la barriga !
+*CAR:	0 .
+%act:	escampa el pols de talc
+*CHI:	pcf [% "ai , a"] .
+*PAR:	de quien es la barriga ?
+*CHI:	pcf [% "a"] .
+*PAR:	de quien es esta barriga ?
+*CHI:	<&+e> [//] es mio .
+*CAR:	ah , es tuyo ?
+*CHI:	si .
+*CAR:	ay , que xxx [= posa pols talc a l' aixella de j] .
+*CAR:	anda !
+@Comment:	j i c riuen , c escampa el pols de talc
+*CHI:	ya .
+*CAR:	xxx .
+*CAR:	0 .
+%act:	posa pols de talc a l' esquena de j
+*CHI:	uix [= es queixa] !
+*CHI:	uy [= es queixa] !
+*CAR:	0 .
+%act:	escampa el pols de talc
+*CHI:	pcf [% "oi"] .
+*CAR:	pcf [% "oi"] .
+*CAR:	que bien [= escampa el pols de talc] !
+*CAR:	ara el otro [= agafa l' altre brac de j] .
+*CHI:	ara &+ot +/.
+*CAR:	pcf
+	[% "chan chan" , es prepara per a tirar pols de talc a l' altra aixella]
+	.
+*CHI:	0 [=! riu] .
+*CHI:	pcf [% "chachachan"] .
+*CAR:	pcf [% "chachachan" , tira el pols de talc] .
+*CHI:	0 [=! riu] .
+*CAR:	pcf [% "chachan"] .
+*CAR:	que bien !
+*CHI:	ara este [= estira el brac que li havia posat per primera vegada] .
+*CAR:	no , ahora la camiseta .
+*CHI:	la camiseta .
+*CHI:	camiseta .
+*CAR:	0 .
+%act:	agafa una samarreta
+*CHI:	la camiseta .
+*CAR:	pcf [% "hum hum"] .
+*CAR:	0 .
+%act:	posa la samarreta a j i li tapa la cara
+*CAR:	pcf [% "uuu"] .
+*CAR:	pcf [% "ui"] .
+*CHI:	0 [=! riu] .
+*PAR:	qui t' ha fet aquestes pupes@c [= toca la cama de j] ?
+*CHI:	pcf [% "aaa" , es queixa] .
+*PAR:	qui te les ha fet ?
+*CHI:	si .
+*PAR:	i tu que li has fet ?
+*CHI:	yo +...
+*PAR:	eh ?
+*CAR:	tu tambien le <has hecho> [>] .
+*PAR:	<doncs no et deixis> [<] fer altres pupes@c pel nacho , eh , josep
+	.
+*CHI:	si .
+*CAR:	nacho ?
+*CHI:	si .
+*CAR:	y tu que le has hecho al nacho ?
+*CHI:	y yo .
+*CAR:	y que le has hecho ?
+*CHI:	yo .
+*CAR:	tu que ?
+*CHI:	yo [>] .
+*CAR:	tambien [<] le has hecho pupa@c [= comenca a posar els mitjons a j]
+	?
+*CHI:	si .
+*CAR:	adonde ?
+*CHI:	si .
+*CAR:	si , pero donde ?
+*CAR:	en el pie ?
+*CHI:	si .
+*CAR:	le has pegado una patada [% "le has pegao una pata"] ?
+*CHI:	si .
+*CAR:	anda !
+*CAR:	y el tambien a ti ?
+*CHI:	si .
+*CAR:	hummm , hummm !
+*CAR:	0 .
+%act:	continua vestint a j
+*CAR:	y esto de la cabeza quien te lo hizo el otro dia
+	[= es mira el front de j] ?
+*CHI:	al cole@c [% "a cole"] .
+*CAR:	al cole@c , pero como te lo hiciste ?
+*CAR:	te chocaste [= comenca a posar les calces a j] ?
+@Comment:	se sent un soroll indiscriminable
+*CAR:	si [= torna a treure'li les calces] ?
+*CHI:	este no .
+*CAR:	0 .
+%act:	torna a posar les calces a j
+*CHI:	este no .
+*CAR:	este si .
+*CHI:	este si ?
+*CAR:	pcf [% "uh , ah" , aixeca a j] .
+*CHI:	pcf [% "upa"] .
+*CAR:	pcf [% "aaa"] .
+*CHI:	era mama [= assenyala cap a l' armari i el mirall] .
+*CAR:	dios mio , que grande !
+*CHI:	0 [=! somriu] .
+*CHI:	este [= toca l' armari] .
+*CAR:	este que ?
+*CHI:	pcf [% "eraroiakita" , encara toca l' armari] .
+*CAR:	ah , si ?
+*CHI:	pcf [% "aroiaquita" , te el brac estirat cap a l'armari] .
+*CAR:	bueno .
+*CHI:	pcf [% "quita anunyas"] .
+*CAR:	las unyas ?
+*CHI:	si [= assenyala cap a l' armari] .
+*CAR:	y que hacen las unyas ?
+*CHI:	aqui [= assenyala l' armari] .
+*CAR:	que hacen las unyas ahi ?
+*CHI:	aqui [= assenyala l' armari] .
+*CAR:	si , pero que hacen ?
+*CHI:	<&+a> [//] alli [= assenyala l' armari] .
+*CAR:	alli .
+*CAR:	0 .
+%act:	va posant el pantalo a j
+*CAR:	explica .
+*CAR:	pcf [% "aa" , posa dret a j] .
+*CHI:	pcf [% "chon"] .
+*CAR:	pcf [% "chochochon"] .
+*CHI:	pcf [% "chochochon"] .
+*CAR:	que grande !
+*CHI:	pcf
+	[% "chochochon , chochochon , chochochon , chochocha , chachacha"] .
+*CAR:	pcf [% "oup" , fa seure a j] .
+*CHI:	pcf [% "chanchanchan"] .
+*CAR:	ahora la cabeza [= agafa la tovallola] .
+*CAR:	esa cabecita [= comenca a eixugar el cap de j] .
+*CHI:	pcf [% "epea" , aparta la ma de c de la seva cara] .
+*CHI:	ay [= es queixa] !
+*CAR:	ya lo se que no te gusta .
+*CAR:	0 .
+%act:	deixa d' eixugar a j
+*CHI:	pcf [% "sapato"] .
+*CAR:	y esto [= agafa un palet per a netejar les orelles] ?
+*CHI:	las unyas [% "a unyas"] .
+*CAR:	no .
+*CAR:	esto para que es ?
+*CHI:	xxx orella [% "ara urella"] .
+*CAR:	ah !
+*CAR:	te gusta [= comenca a netejar l' orella a j] ?
+*CHI:	si .
+*CAR:	que , te gusta , verdad ?
+*CHI:	si .
+*CAR:	0 .
+%act:	va netejant i para
+*CAR:	la otra ?
+*CAR:	0 .
+%act:	va netejant l' altra orella
+*CAR:	y ahora que vamos a hacer ?
+*CAR:	ahora que te toca ?
+*CAR:	hummm [= obre el pot dels palets] ?
+*CHI:	otra .
+*CAR:	no , ahora que te toca ?
+*CAR:	que te toca ?
+*CAR:	vas a llorar ?
+*CHI:	si .
+*CAR:	0 .
+%act:	comenca a netejar el nas de j
+*CAR:	no .
+*CAR:	ahora te toca los bichos .
+*CHI:	los bichos .
+*CAR:	esos bichos .
+*CAR:	pcf [% "baj" , so de fastic] .
+*CHI:	0 .
+%act:	es vol aixecar i vol tirar'se els mocs cap a munt
+*CAR:	pcf [% "date" , torna a estirar a j] .
+*CHI:	0 [=! es queixa] .
+*CAR:	mira que bicho !
+*CAR:	ya veras ahora , cuando yo te ensenye el bicho que tienes aqui .
+*CAR:	ya veras .
+*CHI:	0 .
+%act:	va tirant'se els mocs cap a munt
+*CAR:	pero no te los xxx para dentro [% "pero no te los xxx pa dentro] .
+*CHI:	pcf [% "a , a" , es queixa] .
+*CAR:	pcf [% "ale" , fa seure a j] .
+*CHI:	pcf [% "a"] .
+*CAR:	ya esta .
+*CAR:	0 .
+%act:	comenca a pentinar a j
+*CHI:	ya esta .
+*CAR:	ya esta .
+*CAR:	quejica .
+*CHI:	0 [= escup] .
+*CAR:	que tienes ?
+*CAR:	0 .
+%act:	continua pentinant a j
+*CAR:	pcf [% "ai" , col'loca a j mes be] .
+*CHI:	pcf [% "m" , so d' esforc] .
+*CHI:	los zapatos [% "a sapatos"] .
+*CAR:	los zapatos ahora , eh !
+*CHI:	si .
+*CAR:	0 .
+%act:	continua pentinant a j
+*CAR:	ay , que no te veo [= mira a j del davant] !
+*CAR:	0 .
+%act:	continua pentinant a j
+*CHI:	vamos poner una camisa .
+*CAR:	una camisa ya te la hemos puesto .
+*CAR:	ahora que te vamos a poner mas ?
+*CAR:	ahora que falta ?
+*CHI:	una camisa .
+*CAR:	que falta ?
+*CHI:	una [/?] una camisa .
+*CAR:	no .
+*CAR:	que falta ?
+*CHI:	el zapato [% "a sapato"] .
+*CAR:	ah !
+*CAR:	0 .
+%act:	va posant les sabates a j
+*CHI:	mama no .
+*CAR:	0 .
+%act:	continua posant'li les sabates
+*CAR:	ya esta .
+*CAR:	se acabo .
+*CAR:	ay , que unyas , eh [= mira les ungles de la ma de j] !
+*CAR:	0 .
+%act:	comenca a posar a j a terra
+*CHI:	pcf [% "a"] .
+*CAR:	0 [= besa a j] .
+*CHI:	no .
+*CAR:	0 .
+%act:	acaba de posar'lo a terra
+*CAR:	xxx , ya esta [% "ale ya esta"] !
+*CHI:	0 .
+%act:	corre cap a fora del bany
+*CAR:	que guapo !
+@End

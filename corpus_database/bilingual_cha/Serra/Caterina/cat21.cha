@@ -1,0 +1,1484 @@
+@UTF8
+@PID:	11312/c-00001925-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Caterina Target_Child , MAR mare Mother , PAR pare Father , SUS susso Brother , INV Investigator
+@ID:	spa , cat|Serra|CHI|1;9.15||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@ID:	spa , cat|Serra|SUS|||||Brother|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	barregen catala i castella , c i m estan al menjador , c porta penjada la cartera d' anar a la guarderia , c esta molt atenta a la camera
+*CHI:	0 [= mira la camera amb molta atencio] .
+*MAR:	eh , que la magda te un video ?
+*MAR:	que te la magda ?
+*CHI:	0 [= mira alguna cosa de sobre de la taula del menjador] .
+*CHI:	pcf [% "toio"] .
+*CHI:	pcf [% "toio cabaio too" , assenyala el que ha vist] .
+*MAR:	que es allo d' alla ?
+*CHI:	0 [= mira a m] .
+*CHI:	0 [= mira el que li ha cridat l' atencio] .
+*MAR:	escolta caterina .
+*MAR:	digues'li a la [% "diga'li a la"] +...
+*MAR:	a la +...
+*MAR:	explica +...
+*CHI:	0 [= mira a m] .
+*MAR:	que et posem al demati en a la cartera ?
+*CHI:	0 [= mira la cartera] .
+*MAR:	que hi posem al demati en a la cartera per anar al cole@c
+	<col'legi> [/?] ?
+*CHI:	pcf [% "eto kambe" , obrint la cremallera de la cartera] .
+*MAR:	que es guarda aqui dintre ?
+*MAR:	que s' hi guarda ?
+*MAR:	la bata ?
+%com:	m te la bata del collegi de c a les mans
+*CHI:	0 .
+%act:	intenta agafar la bata
+*MAR:	la pleguem (.) per aixo .
+*MAR:	no ?
+*MAR:	espera , la plegarem .
+%act:	va plegant la bata mentre parla
+*MAR:	la plegarem (.) i despues dema la rentarem .
+*MAR:	eh ?
+@Comment:	c quan veu la bata plegada obre la cartera
+*MAR:	aqui dintre la poses la bata ?
+@Comment:	m li ofereix la bata i ella la fica amb la dreta a dintre de la cartera
+*MAR:	que es aixo ?
+*MAR:	a veure .
+@Comment:	c estira la bata
+*MAR:	no ho despleguis .
+%act:	m li plega
+*MAR:	no , aixi , ben plegat , aixi .
+%act:	li fica a la cartera la bata plegada
+*MAR:	aixo que es ?
+*MAR:	aixo es la bata o el bocata@c entrepa [/?] ?
+*MAR:	que es aixo ?
+@Comment:	c va acabant de collocar la bata a la cartera i tancantla
+*CHI:	bocata@c entrepa [/?] .
+*MAR:	aixo es la bata .
+*CHI:	0 [= mira a m] .
+*CHI:	bocata@c entrepa [/?] no [= negant amb el cap] .
+*MAR:	el bocata@c entrepa [/?] no hi es ara .
+*CHI:	al cole@c <col'legi> [/?] .
+*MAR:	el bocata@c entrepa [/?] es per anar al cole@c <col'legi> [/?] .
+*MAR:	i ara no es hora d' anar al cole@c <col'legi> [/?] .
+*MAR:	eh , que no ?
+*MAR:	al cole@c <col'legi> [/?] ara ?
+@Comment:	c ja ha tancat la cartera
+*MAR:	on el guardaras ara la cartera ?
+*CHI:	la bata .
+*MAR:	la bata , que vols ?
+*MAR:	me l' ha dones per anar'la a rentar ?
+*CHI:	si [% "ti" , fent que si amb el cap] .
+*MAR:	l' anem a rentar ?
+*CHI:	te [= li dona la bata a m] .
+*MAR:	la vols portar tu a rentar ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	pues mira (.) la magda que et segueixi .
+@Comment:	c va a portar a rentar la bata
+*MAR:	tira'la a rentar .
+*MAR:	ves a portar'la a rentar .
+@Comment:	en un moment donat c s' atura a observar la bata
+*CHI:	pcf [% "ti ti"] .
+*PAR:	porta'la tu .
+*PAR:	va .
+*MAR:	porta'la a rentar .
+*MAR:	porta'la .
+*MAR:	on te'n vas a rentar <la (.) > [/?] la bata ?
+*CHI:	alla [= assenyalant en direccio al bany , amb la ma esquerra] .
+@Comment:	c porta la bata a la ma dreta , c va cap al bany amb la bata
+*CHI:	la llum [% "la llu" , obrint la llum amb la ma dreta] .
+*CHI:	xxx xxx xxx aqui
+	[% "turo toto pata aqui" , obrint el cistell de la roba bruta amb la ma dreta]
+	.
+%com:	c no fica la bata a dintre
+*CHI:	aqui no [= negant amb el cap] .
+*CHI:	<aqui no> [>]
+	[= amb molta entonacio i allargant la o , negant amb el cap i mirant m]
+	.
+*MAR:	si [<] .
+*MAR:	si .
+*MAR:	si que hi cap , si .
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	si ?
+*MAR:	si .
+*MAR:	aqui .
+@Comment:	c obre el cove amb la dreta i fica la bata amb l'esquerra
+*CHI:	si [% "ti" , mira a m] ?
+*MAR:	si .
+*MAR:	molt be .
+@Comment:	c abans de ficar la bata ha demanat confirmacio a m
+*MAR:	molt be !
+*MAR:	i ara la cartera al seu &+pu +...
+*MAR:	i ara la cartera al seu lloc .
+@Comment:	c esta tancant be el cove
+*MAR:	molt be !
+*MAR:	ara guarda la cartera .
+@Comment:	c surt del bany
+*MAR:	que [/?] que li ensenyarem en a la magda el conte .
+*MAR:	ara no es hora de cartera .
+@Comment:	c es treu la cartera que tenia penjada
+*MAR:	guarda'la al seu puesto la cartera .
+@Comment:	c es torna a posar la cartera penjada
+*MAR:	per dema anar al cole@c <col'legi> [/?] .
+@Comment:	c tanca la cremallera amb la ma esquerra aguantant la cartera amb la dreta , la te penjada
+*CHI:	0 [= mira a m] .
+*MAR:	ara porta'la alla en el seu puesto .
+*MAR:	molt be !
+*CHI:	pcf [% "ne" , prement la cremallera] .
+*MAR:	ja esta .
+@Comment:	c es treu la cartera i va a penjarla al seu lloc al costat de la porta del carrer
+*MAR:	molt be !
+@Comment:	c torna pel passadis cap al menjador
+*MAR:	ara que vols anar ?
+*MAR:	anem a buscar el conte .
+*CHI:	el jersei [% "e contei"] .
+*MAR:	eh ?
+*CHI:	el jersei [% "e quetei"] .
+*MAR:	ja esta el jersei .
+%com:	m esta al bany agafant uns contes que hi ha alla
+*CHI:	0 .
+%act:	va cap al bany
+*MAR:	te , porta'ls cap alla .
+*MAR:	porta'ls alla que els ensenyaras al papa
+	[% "porta'ls alla que lis ensenyaras al papa"] .
+*MAR:	que fa molts dies que no els veiem .
+%act:	li dona els contes a CAT
+*CHI:	ai !
+*MAR:	ai !
+@Comment:	m li treu un conte per que li pesin menys , c se'n va cap al menjador amb els contes i els deixa a sobre d' una butaca , per mirarlos , p esta al menjador
+*CHI:	pcf [% "totabo"] .
+*CHI:	xxx jersei [% "ai katei" , te un conte obert a les mans] .
+*MAR:	porta jersei aquest nen ?
+*CHI:	si [% "ti" , mirant el conte] .
+*MAR:	i una cartera ?
+*MAR:	tambe la porta ?
+*CHI:	tambe [% "kambe"] .
+*MAR:	tambe .
+*CHI:	a l' altre [% "a lata" , passant fulls del conte] .
+*CHI:	jersei [% "quetei" , assenyalant el jersei d' un nen] .
+*MAR:	un jersei .
+*CHI:	<te una cartera tambe> [>]
+	[% "e a catera kambe" , assenyala la cartera] .
+*MAR:	si [<] .
+*MAR:	tambe .
+*MAR:	i el rellotge ?
+*MAR:	on el te el rellotge ?
+*CHI:	&+a +...
+%com:	esta buscant el rellotge
+*CHI:	aqui [= mostrant el rellotge de la portada del conte] .
+*MAR:	aqui .
+*MAR:	i que fa el rellotge ?
+*CHI:	tictac@c [= seguint el moviment amb el cap] .
+*MAR:	tictac@c .
+*CHI:	un nen [% "tun nen" , agafa un altre conte amb un nen a la portada]
+	.
+*CHI:	un nen [% "ton nen"] .
+*CHI:	xxx xxx babero [% "akaba kaba mabeo"] .
+*MAR:	porta un babero ?
+*CHI:	si [% "ti"] .
+*MAR:	i que te aquest nen ?
+*MAR:	amb qui esta ?
+%com:	amb un gat
+*CHI:	pcf [% "al bai"] .
+*MAR:	al gat ?
+*CHI:	si
+	[% "ti" , deixant el conte a sobre del brac de la butaca com ja vist]
+	.
+*MAR:	i quin color es aquest gat ?
+*CHI:	aqui [= agafa el conte i li dona la volta] .
+@Comment:	el conte te la mateixa imatge a la portada i a la contraportada
+*MAR:	de quin color es el gat ?
+*CHI:	tambe [% "kambe" , mostra el conte a m] .
+*MAR:	tambe ?
+*MAR:	tambe al davant i al darrera [% "tambe al davant i al radera"] .
+*MAR:	pero el gat de quin color es ?
+*MAR:	els pantalons .
+*MAR:	els pantalons .
+*MAR:	de quin color son els pantalons del nen ?
+@Comment:	c es mira els seus pantalons
+*MAR:	del nen .
+*CHI:	el nen [% "e nen"] .
+*MAR:	el nen del conte .
+*CHI:	ai [= mira el conte] !
+*MAR:	de quin color porta els pantalons el nen ?
+*CHI:	vermell [% "telmei" , mira el conte] .
+*MAR:	com ?
+*CHI:	me xxx pantalons
+	[% "me deu zapalon" , ensenyant el seu pantalo a m] .
+*MAR:	tu tambe portes pantalons .
+*MAR:	pero de quin color son els del nen ?
+*CHI:	el nen [% "e nen" , mira el conte] .
+*MAR:	el nen de quin color els te ?
+*CHI:	marron [% "mabon" , mirant el conte] .
+*MAR:	els pantalons son ?
+*MAR:	de quin color son [= agafant'li el conte] ?
+*CHI:	vermell [% "ketmei"] .
+*MAR:	vermells .
+*CHI:	vermell [% "vemei"] .
+*MAR:	ai !
+*MAR:	que ja no te'n recordes .
+*CHI:	caterina pantalons vermells [% "cateina patoa vemei" , els ensenya]
+	.
+*MAR:	no .
+*MAR:	la caterina blancs .
+*CHI:	blanc [% "panc"] ?
+*MAR:	la caterina blancs .
+@Comment:	c agafa un altre conte
+*CHI:	jersei [% "quetei" , mirant el conte] .
+*MAR:	un altre nen que tambe porta jersei ?
+*CHI:	si [% "ti" , fent que si amb el cap , mirant el conte] .
+*MAR:	t' agraden molt els jerseis ara .
+*CHI:	pongo esto aqui
+	[% "poro eto aqui" , posa un conte en un brac del sofa] .
+*CHI:	aqui [= posa un altre conte damunt l' anterior] .
+*MAR:	i aquest qui es
+	[= assenyala un personatge de la portada d' un conte] ?
+*CHI:	0 [= mira el que assenyala m] .
+*CHI:	tren [% "ten"] .
+%com:	a la portada hi ha un tren
+*CHI:	teo [= sembla que ha rectificat] .
+*MAR:	el teo .
+*CHI:	el tren [% "a ten" , assenyala un altre dibuix de la portada] ?
+*MAR:	aquest es el tren .
+*CHI:	aqui [= assenyala un altre dibuix] ?
+*MAR:	<aqui un altre tren> [>] .
+*CHI:	tren [<] [% "ten"] .
+*CHI:	el teo [% "a teo" , assenyala el dibuix del teo] .
+*MAR:	el teo .
+*CHI:	sabata [% "kapata" , assenyala els peus del teo] .
+*MAR:	porta sabates ?
+*CHI:	si [% "ti" , diu si amb el cap tambe] .
+*MAR:	i tu ?
+*CHI:	0 [= es mira els peus] .
+*CHI:	tambe [% "kambe" , dona un cop a terra amb el peu] .
+*MAR:	tambe .
+*CHI:	aixo [= assenyala a terra , davant seu , mirant a la camera] ?
+*MAR:	que en porta la magda de sabates ?
+*CHI:	si [% "ti"] .
+*MAR:	si .
+@Comment:	m obre un conte , c s' hi acosta
+*MAR:	escolta aqui dintre qui hi tenim que ens agrada tant ?
+*CHI:	pcf [% "kalteto"] .
+*CHI:	xxx caballo [% "alaolo caballo" , assenyala imatges de cavalls] .
+*MAR:	els caballos ?
+*CHI:	tania [% "tanda" , mira cap a un costat] .
+*CHI:	el caballo ja esta aqui
+	[% "ana caballo ia ta quim" , assenyala uns cavalls] .
+*CHI:	pcf [% "caro"] .
+*MAR:	i aquest on va [= assenyala un dibuix] ?
+*CHI:	pcf [% "mano"] .
+*MAR:	en moto .
+*CHI:	aquest [= assenyalant una imatge] .
+*MAR:	aquest qui es ?
+*CHI:	pcf [% "mano"] .
+*CHI:	aquest [= continua assenyalant el mateix] .
+*MAR:	i aqui darrera que hi ha [= assenyala un dibuix] ?
+*CHI:	xxx xxx coche [% "tabo a coche"] .
+@Comment:	p comenta quelcom amb m i els dos riuen
+*CHI:	el caballo [% "a caballo" , assenyala un dibuix] .
+*MAR:	<caterina , caterina> [>] .
+*CHI:	<este el caballo> [<] [% "ater al caballo" , assenyala el dibuix] .
+*MAR:	caballo .
+*CHI:	caballo .
+*MAR:	i que porta aquest nen [= assenyala un nen] ?
+*CHI:	caballo [= assenyala el mateix que m] .
+*MAR:	i en el cap ?
+*MAR:	que hi porta en el cap ?
+*CHI:	vermell [% "vamei" , assenyala el dibuix altre cop] .
+*MAR:	no , vermell , no m' enredis .
+*CHI:	caballo xxx [% "caballo todai" , assenyala un altre dibuix] .
+*MAR:	hum ?
+%act:	passa full
+*CHI:	un , dos , trestorce , setze , ocho , nueve
+	[% "un , do , tre , catroe , setse , oto , neve" , assenyala uns quant cotxes dibuixats a la pagina del conte]
+	.
+*MAR:	ocho , nueve [= somriu] .
+*MAR:	aixo son el numero del cotxes que hi ha .
+*MAR:	veus que n' hi ha nou de numeros .
+%add:	INV
+*CHI:	el coche [= va assenyalant cotxes] .
+*CHI:	el coche catorce aquest
+	[% "a coche catorche aquest" , assenyala un cotxe] .
+*MAR:	aquest .
+*MAR:	i aqui hi ha el siete , el cuatro [= assenyala uns quants cotxes] .
+*CHI:	hum [= assenyala un del cotxes que ha assenyalant m] !
+*CHI:	el tres [% "e te" , assenyala un cotxe] .
+*CHI:	un , dos y tres [% "un , do y te" , assenyala el mateix cotxe] .
+*MAR:	uno , dos y tres .
+*CHI:	ja esta [% "ye ta" , vol tancar el llibre] .
+*MAR:	ja esta ?
+*MAR:	ja no el vols veure mes [= torna a obrir el llibre] ?
+*MAR:	mira , qui es aquest [= assenyala una altra imatge] ?
+*CHI:	avion [% "uauon"] .
+*MAR:	un avion .
+*MAR:	i un altre avion [= assenyala una altra imatge] .
+*CHI:	&-uh [= mira el que assenyala m] !
+*MAR:	muchos .
+*CHI:	muchos [% "mundo"] .
+%act:	passa full
+*MAR:	muchos .
+*CHI:	pcf [% "piputo" , assenyala una imatge] .
+*MAR:	que son aixo ?
+*CHI:	globos [% "pubo" , continua assenyalant] .
+*MAR:	globos .
+*CHI:	un altre globo [% "e tata bobo" , assenyala una altra cosa] .
+*MAR:	un globo blau [= assenyala un dibuix] .
+*CHI:	un altre globo [% "on ata bobo" , assenyala una imatge] .
+*MAR:	un globo +...
+*MAR:	un globo verd [= assenyala una imatge] .
+*MAR:	un vermell [= assenyala un dibuix] .
+*CHI:	otro [% "toto" , assenyala una imatge] .
+*MAR:	otro .
+*MAR:	<un globo> [>] .
+*CHI:	<otro vermell> [<] [% "oto vemei" , assenyala una imatge] .
+*MAR:	i un altre de groc [= assenyala una imatge] .
+*CHI:	xxx xxx iaio [% "a tundo iaio" , assenyala una imatge] .
+*MAR:	aquest es un iaio [= assenyala la mateixa imatge] .
+*CHI:	un coche [= assenyala un dibuix] .
+*MAR:	un coche .
+*CHI:	un bebe [= assenyala una imatge] .
+*MAR:	un bebe [= assenyala la mateixa imatge] .
+*CHI:	pcf [% "cava ca"] .
+*MAR:	i aquest [= assenyalant una imatge] ?
+*MAR:	que porta aquest nen ?
+*CHI:	la xxx [% "la catei" , assenyala una imatge] .
+*MAR:	i aqui en els ulls [= assenyala la imatge] ?
+*MAR:	que hi porta en els ulls [= assenyalant la imatge] ?
+*CHI:	tambe [% "ambe"] .
+*MAR:	que hi porta +/.
+*CHI:	caterina els ulls [% "ataina e ui" , es toca i tanca els ulls] .
+*MAR:	els ulls .
+*CHI:	pcf [% "ata ai tu agamma" , assenyala i mira cap a un canto] ?
+*MAR:	pero que hi porta aquest nen en els ulls [= assenyala la imatge] ?
+*CHI:	0 [= mira la imatge] .
+*MAR:	que hi porta ?
+*CHI:	pcf [% "aradaque"] .
+*MAR:	que hi te aqui [= assenyala la imatge] ?
+*MAR:	com se'n diu d' aixo ?
+*CHI:	l' ull de la mama [% "a iu a mama" , assenyala la cara de m] .
+*MAR:	i el papa ?
+*MAR:	que son aixo [= assenyala una imatge] ?
+*CHI:	0 [= mira el que assenyala m] .
+*CHI:	pcf [% "nem"] .
+*MAR:	mira com els del papa
+	[= desapareix de la imatge , ensenya quelcom a c] .
+*CHI:	0 [= mira m] .
+*MAR:	que son aixo ?
+*MAR:	que son aixo ?
+*CHI:	tu [= mira a m] .
+@Comment:	apareix m posantse unes ulleres de sol
+*MAR:	me les poso jo ?
+*CHI:	no , no .
+*MAR:	no , son del papa [= es treu les ulleres] .
+*CHI:	e X papa [% "e te papa"] .
+*MAR:	i que son aixo ?
+*CHI:	papa .
+*MAR:	pero com se'n diu d' aixo [= mostra les ulleres] .
+*CHI:	papa .
+*MAR:	aixo que son ?
+*CHI:	0 [= mira les ulleres] .
+*CHI:	papa .
+*MAR:	son del papa .
+*MAR:	pero son ulleres .
+%com:	s' acosta altre cop a mirar el conte
+*CHI:	pcf [% "poeto" , mira la portada del conte] .
+*MAR:	papa , tens aqui les ulleres .
+*PAR:	que ha fet [= fora d' imatge] ?
+*MAR:	jo que les he agafat perque hi ha un nen que en porta d' ulleres
+	tambe .
+@Comment:	c mira de tant en quant a m
+*CHI:	no [= mirant a m i al llibre] .
+*MAR:	on esta el nen de les ulleres ?
+*MAR:	a veure si el trobes .
+*CHI:	0 .
+%act:	busca al voltant del llibre de contes
+*CHI:	no , no [= mira a m] .
+*MAR:	si que ho es .
+*MAR:	mira , que esta aqui [= assenyala el llibre] .
+*CHI:	oh [>] [= mira a sota del llibres] !
+*MAR:	<on esta> [<] el nen de les ulleres ?
+*MAR:	aqui , mira'te'l [= assenyala la imatge de la portada del llibre] .
+*CHI:	oh [= mira la imatge assenyalada] !
+*MAR:	el veus ?
+*CHI:	el nen [% "na nen" , assenyala una imatge] .
+*MAR:	el nen .
+*CHI:	pcf [% "tu pipa" , assenyala una altra imatge] .
+*MAR:	escolta caterina .
+*MAR:	i en el cole@c <col'legi> [/?] quina canco cantes que t' ha
+	ensenyat la isa ?
+*CHI:	0 [= mira a m] .
+*CHI:	isa [% "icha"] .
+*MAR:	la isa .
+*MAR:	quina canco cantes ?
+*CHI:	caterina [% "cataina"] .
+*MAR:	la caterina quina canco canta ?
+*CHI:	un nen [= assenyala una imatge del conte] .
+*MAR:	un nen .
+*CHI:	un globo [% "un uobo" , assenyala una imatge] .
+*MAR:	ah !
+*CHI:	otro teo [% "utu teo" , assenyala una imatge] .
+*MAR:	aquest es el teo .
+*CHI:	un bebe [= assenyala una imatge] .
+*MAR:	un bebe .
+@Comment:	c tanca el llibre
+*MAR:	ai , que es cau [= aguanta els llibres per que no caiguin] !
+*MAR:	escolta caterina .
+*MAR:	per que no ens cantes la canco que cantes en el cole@c <col'legi>
+	[/?] ?
+@Comment:	c s' allunya de la butaca on estan els contes
+*MAR:	escolta [= intenta aturar c] .
+@Comment:	c no s' atura i continua
+*MAR:	i li has dit a la magda si hi ha lluna ?
+@Comment:	c desapareix de la imatge
+*MAR:	on vas ?
+*CHI:	el bebe [% "a bebe" , fora d' imatge] .
+*MAR:	ah , a buscar el bebe !
+*MAR:	vas a buscar el bebe .
+@Comment:	la camera s' apropa de nou a c , c esta en una habitacio agafant una nina
+*CHI:	pcf
+	[% "ietetaquim" , te a la nina agafada per la cama , a l' altra ma te un drap de la nina]
+	.
+*MAR:	el bebe esta aqui ?
+*CHI:	bebe [% "be"] .
+*MAR:	ole !
+*CHI:	tapar al bebe no [% "papar a bebe no" , mira a m] .
+*MAR:	no el vols tapar el bebe ?
+*CHI:	a dormir .
+@Comment:	c surt fora de l' habitacio i va pel passadis de casa seva
+*MAR:	a dormir el vols posar ?
+*CHI:	si .
+*CHI:	pcf [% "altitati" , camina pel passadis amb la nina a la ma] .
+%com:	arriba a la butaca
+*CHI:	bebe voy a vestirte aqui
+	[% "bebe veiatite aqui" , col'loca a la nina damunt la butaca] .
+*CHI:	pcf [% "eh te" , col'loca be la nina damunt la butaca] .
+*CHI:	venga .
+*CHI:	ara X
+	[% "ara popoto" , agafa el drap i es prepara per tapar la nina] .
+*CHI:	pcf [% "te" , prepara be el drap] .
+*CHI:	a ver [% "a ve"] .
+*CHI:	pcf [% "atiu"] .
+*CHI:	venga , tapar [% "venga papa" tapa la nina] .
+*CHI:	els peus tapar aqui
+	[% "e peu papa aqui" , estira una mica el drap per tapar els peus de la nina]
+	.
+*CHI:	pcf [% "tera papa tinti"] .
+*CHI:	primer a dormir
+	[% "primer a ormir" , acarona el cap de la nina i se'n va] .
+%com:	va a una altra butaca a on hi ha els llibres
+*MAR:	i no li cantes una canco al bebe per a que dormi ?
+*CHI:	0 .
+%act:	deixa els llibres que manipula i va cap a la butaca on dorm la nina
+*MAR:	quina canco li cantes per a que dormi ?
+*CHI:	venga , dormir [% "venga mi" , es mira a la nina de prop] .
+*CHI:	pcf [% "sten"] .
+*CHI:	venga , aqui , a dormir [% "venga , ati , a mi" , acarona la nina]
+	.
+*MAR:	canta'li una canco .
+*CHI:	pcf
+	[% "monina" , sembla que entona una canco , aixeca la nina i la torna a deixar a la butaca]
+	.
+*CHI:	venga , venga , dormir [% "venga , venga , mi"] .
+*CHI:	0 .
+%act:	reincorpora altre cop la nina
+*CHI:	mira , esto tapar aqui [= manipula la nina i el drap que la tapa] .
+*CHI:	els peus X aqui
+	[% "e peu tabou aqui" , li destapa els peus i li posa el drap damunt l' esquena]
+	.
+*CHI:	aqui no [= mira els peus i cames sense tapar de la nina] .
+*CHI:	pcf [% "taiaia"] .
+*CHI:	aqui .
+*CHI:	el peu aixi [% "e peu ati" , li torna a tapar el peu] .
+*MAR:	aixi [= imitant a c] .
+*CHI:	venga [= toca la nina i s' allunya del sofa] .
+%com:	c va al sofa on hi ha els llibres
+*CHI:	el teo [% "a teo" , agafant quelcom del sofa] .
+*CHI:	mira el teo [= li ensenya el que ha agafat a la nina] .
+*CHI:	bebe , mira el teo [= agafa a la nina i li posa davant la cara] .
+*CHI:	bebe [= agafa a la nina amb una ma i li cau a terra] .
+*CHI:	ui [= la cull rapidament] !
+*MAR:	ui !
+*CHI:	pcf [% "utetaco" , cull el drap que tapa la nina] .
+*CHI:	te [= li dona el drap a m] .
+*CHI:	pcf
+	[% "te toto teo" , no li dona el drap i deixa ho que havia agafat damunt la butaca dels llibres]
+	.
+*CHI:	pcf
+	[% "a bato teso teso" , s' acosta al lloc on encara esta la nina a terra]
+	.
+*CHI:	pcf [% "abo apopotota"] .
+*CHI:	no , bebe , tapo no
+	[% "no , bebe , a popo no" , s' allunya de la nina amb el drap de tapar'la a la ma]
+	.
+*MAR:	oh , pero no el deixis a <terra pobre bebe> [>] .
+*CHI:	bebe [% "be"] [<] .
+*CHI:	bebe .
+*CHI:	ai , xxx [% "ai , mimi" , torna cap a la nina] !
+*CHI:	bebe [= s' ajup i toca la nina] .
+*CHI:	vine [% "mina" , agafa la nina de terra] .
+%com:	c s' acosta cap a m i li mostra el bebe
+*CHI:	mira .
+*MAR:	on el posaras en +/.
+*CHI:	mira bebe [% "mia bebe" , l' ensenya a m] .
+*MAR:	assenta'l per que senti el conte , no ?
+*CHI:	0 .
+%act:	mira a m mentre s' acosta a les butaques
+*MAR:	vols assenta'l .
+*CHI:	a veure
+	[% "avea" , amb les mans ocupades pel drap i la nina , mira indecisa les butaques]
+	.
+*MAR:	a veure .
+*MAR:	espero .
+@Comment:	c deixa la nina a la butaca
+*CHI:	pcf [% "bonatepe comu" , se'n va de l' habitacio] .
+*CHI:	pcf
+	[% "ebeu taala teteti" , mira la camera i entra en una altra habitacio]
+	.
+*CHI:	mira , mira para taparla
+	[% "mira mira pa papata" , s' ajup damunt el llit de la nina i hi fica dins el drap per tapar'la]
+	.
+*CHI:	ai !
+*CHI:	ay , no cabe [= continua ajupida] !
+*CHI:	pcf [% "titaqui" , s' aixeca i mira la camera] .
+*CHI:	tapala [= marxa de l' habitacio] .
+*CHI:	mama .
+*CHI:	tapa al bebe
+	[% "talalala bebe" , torna a l' habitacio on esta la nina] .
+*CHI:	bebe mira [= camina decidida cap on esta la nina] .
+*CHI:	bebe [= agafa la nina i la posa dreta] .
+*CHI:	tapar aqui pum@c [= parla amb la nina] .
+*CHI:	xxx xxx xxx xxx cabe aqui
+	[% "oto a ba a cabe aqui" , parla amb la nina i la manipula] .
+*CHI:	xxx tapar aqui [% "bobo tapar aqui" , manipula la nina] .
+*CHI:	venga .
+*CHI:	els peus no [% "a peu no" , manipula les cames de la nina] .
+*CHI:	venga .
+*CHI:	tete@c aqui , teo aqui
+	[= agafa la nina i la posa a la butaca del costat] .
+*CHI:	bebe esta aqui
+	[% "bebe ta qui" , col'loca la nina a l' altra butaca] .
+*CHI:	venga [= no pot col'locar la nina seguda tal i com ella vol] .
+*MAR:	oi , que es fa +...
+*MAR:	que li passa al bebe ?
+@Comment:	c va cap a m mostrantli la nina
+*CHI:	pcf
+	[% "a bebe aaoaata e pepen" , assenyala cap a la porta i li dona la nina a m]
+	.
+*MAR:	s' esta fent pipi , no ?
+*CHI:	si [% "ti"] .
+*MAR:	s' esta fent pipi perque com que +...
+*MAR:	i on el te que fer el pipi ?
+*CHI:	aqui [= assenyala i toca el sofa] .
+*MAR:	aqui no es fa el pipi .
+*MAR:	<eh que no> [>] ?
+*CHI:	<aqui no pipi> [<] [% "qui no pipim" , alcant la veu] .
+*CHI:	bebe [= mira la nina] !
+*MAR:	aqui no es fa el pipi , bebe .
+*CHI:	mira , X cadira [% "mia la cuta caia" , assenyala la butaca] .
+*MAR:	es clar , la cadira ha d' estar brut .
+*CHI:	0 .
+%act:	neteja la butaca amb la ma
+*MAR:	<ho tindrem que netejar> [>] .
+*CHI:	<mira , mira> [<] [% "mia mia" , continua netejant] .
+*MAR:	<on el tens que posar a fer pipi> [>] ?
+*CHI:	<tete@c alla> [<] [= agafa la nina] .
+*MAR:	alla ?
+*MAR:	posa'l alla a fer pipi .
+*MAR:	posa'l al seu puesto a fer pipi .
+@Comment:	c marxa amb la nina , entra al bany i obre la llum
+*CHI:	pipi [% "pepen"] .
+*CHI:	venga , pipi aqui [% "venga pepen aqui" , vol agafar un orinal] .
+*CHI:	ui [= li ha caigut la nina a terra] !
+*CHI:	X caido [% "ta caido" , recull la nina] .
+*CHI:	venga , pipi
+	[% "e menga pipen" , agafa l' orinal i el posa a terra] .
+*CHI:	pipi [% "pepe"] .
+*CHI:	venga pipi [= agafa la nina i la vol seure a l' orinal] .
+*CHI:	oi , no xxx [% "oi , no taque" , no s' aguanta asseguda] .
+*CHI:	aqui !
+*CHI:	bebe [% "beben"] .
+*CHI:	aqui .
+*CHI:	pcf [% "ug" , agafa la nina] .
+*CHI:	X caido , mama [% "oa caio , mama" , dona la nina a m] .
+*MAR:	digues .
+*MAR:	que vols que faci la mama ?
+*CHI:	pon [= vol que segui la nina a l' orinal] .
+*MAR:	lo &+pon +/?
+*CHI:	bebe aqui [= assenyala l' orinal] .
+*MAR:	0 .
+%act:	ajup i seu la nina a l' orinal
+*MAR:	ja esta , eh ?
+*CHI:	0 .
+%act:	ho mira i s' encamina fora del bany
+*MAR:	ara tu , mentrestant , vas a veure el conte ?
+*MAR:	eh ?
+@Comment:	c va a l' habitacio del sofa , agafa un dels contes de la butaca
+*MAR:	escolta , vols que mirem la lluna i li cantem la canco a la lluna ?
+*MAR:	caterina ?
+*CHI:	el teo no esta aqui
+	[% "a teo no ta qui" , te un llibre a la ma pero mira els altres de la butaca]
+	.
+*MAR:	la lluna on esta , caterina ?
+@Comment:	c deixa el llibre que tenia i n' agafa un de petit , mira uns moments , i amb atencio , el conte
+*CHI:	xxx jersei [% "iamata catei" , continua mirant el conte] .
+*MAR:	pero que busques ara , la lluna o el jersei ?
+*CHI:	0 .
+%act:	continua mirant i manipulant el conte
+*MAR:	quan trobem la lluna .
+*CHI:	te , venga xxx xxx
+	[% "te , venga tete raqui" , posa el conte damunt la butaca] .
+*CHI:	te , venga xxx
+	[% "te , venga tete" , torna a agafar i mirar el conte] .
+*CHI:	ui , el jersei [% "ui a catei" , mira el conte] !
+*CHI:	mira la cartera , la cartera esta aqui
+	[% "mira la cartera a cartera ta qui" , mostra el conte a m] .
+*MAR:	esta aqui la cartera i el jersei [= s' ajup a mirar el conte] ?
+*CHI:	nen .
+*MAR:	i el nen ?
+*CHI:	si [% "ti"] .
+*MAR:	si .
+*CHI:	el jersei [% "a catei"] .
+*MAR:	i aqui que hi ha [= assenyala una imatge] ?
+*CHI:	pcf [% "queti" , passa full] .
+*CHI:	esto [% "eto" , continua mirant el conte] .
+*CHI:	aixo la forquilla [% "aito la poquilla" , assenyala una imatge] .
+*MAR:	la forquilla .
+@Comment:	passen el full
+*CHI:	el jersei [% "o a catei" , assenyala un dibuix] .
+*MAR:	<el jersei> [>] .
+*CHI:	tambe [<] [% "cambe"] .
+*CHI:	el jersei xxx xxx xxx xxx [% "el jersei ma ado ma teti"] .
+@Comment:	passen full
+*CHI:	aqui .
+*MAR:	i aixo que es [= assenyala una imatge] ?
+*CHI:	aixo [% "to"] .
+*MAR:	la casa .
+*CHI:	la casa [% "a cala"] .
+*MAR:	que t' agrada molt venir a casa a tu
+	[% "que t' agrada molt vindre a casa a tu"] ?
+*CHI:	<el nen> [>] [= assenyala una imatge] .
+*MAR:	mira [<] [= assenyala una imatge] .
+*MAR:	i te la banyera i aigua .
+@Comment:	passen full
+*CHI:	forquilla [% "uquiia" , assenyala una imatge] .
+*MAR:	la forquilla .
+*MAR:	i aquesta que es [= assenyala una imatge] ?
+*CHI:	0 [= mira pero no contesta] .
+*MAR:	una forquilla grossa i una +/.
+*CHI:	una pala [% "ta pala"] .
+*MAR:	una pala ?
+*CHI:	si [% "ti"] .
+*MAR:	si , mes aviat sembla una pala .
+*MAR:	pero em penso que es una cullera petita .
+*CHI:	cullera [= mira la imatge] .
+*MAR:	si .
+*MAR:	una forquilla i una cullera [= assenyala les imatges] .
+*CHI:	cullera [% "culera"] .
+*MAR:	pero es molt petita la cullera i la forquilla es molt grossa .
+*CHI:	0 .
+%act:	marxa del costat de m amb el llibre
+*MAR:	on vas ara a portar'lo .
+@Comment:	c marxa de l' habitacio
+*CHI:	pcf [% "tabuque a tataquen"] .
+%com:	c entra a la cuina amb el llibre a la ma
+*CHI:	forquilla [% "uquiia" , mira al seu voltant] .
+*MAR:	on esta la +...
+*CHI:	forquilla [% "uquiia" , mira a m] ?
+*MAR:	on esta la forquilla ?
+*CHI:	pcf [% "ato" , busca pel seu voltant] .
+*MAR:	on son les forquilles de casa ?
+*MAR:	on estan ?
+*CHI:	a casa forquilles [% "a casa po poquiia" , mira a m] .
+*MAR:	on son les forquilles ?
+*CHI:	a casa .
+*MAR:	a casa , pero on es guarden ?
+*MAR:	on les guardes les forquilles ?
+*CHI:	pcf [% "tomi" , li dona el llibre a m] .
+*MAR:	ja l' has fet servir , eh ?
+@Comment:	c surt d' aquesta habitacio
+*CHI:	el bebe ja no te pipi
+	[% "a bebe a o te pipi" , va cap a on abans havia deixat la nina] .
+*MAR:	ja ha acabat de fer pipi , ja , el bebe ?
+*CHI:	si [= va cap a la nina] .
+*CHI:	venga pipi vine [= acaricia la nina] .
+*CHI:	si esta [% "tita"] .
+*MAR:	ja estas ?
+*CHI:	si esta pipi [% "ti ta pipi"] .
+*CHI:	anem [= agafa la nina i se l' emporta] .
+*CHI:	X esta pipi [% "que ta pipi"] .
+*MAR:	ara que tens que fer amb la llum ?
+*MAR:	que tens que fer ?
+*CHI:	0 [= mira a m] .
+*MAR:	si has acabat que fas amb la llum ?
+*CHI:	0 .
+%act:	col'loca be les cames de la nina
+*MAR:	l' assentes alla que et llegeixi contes ?
+*CHI:	contes [% "cota"] .
+*CHI:	xxx peu [= manipula i mostra els peus de la nina a m] ?
+*CHI:	peu [= dona la nina a m] .
+*MAR:	els peus [= agafa la nina] ?
+*CHI:	te [= li dona la nina] .
+*MAR:	ara tanca la llum que ja has acabat , no ?
+*CHI:	0 .
+%act:	tanca el llum
+*MAR:	molt be .
+@Comment:	la imatge es mante sense llum , c sembla que intenta tancar la porta
+*MAR:	t' ajudo ?
+*CHI:	pcf [% "quo"] .
+*MAR:	ajudo ?
+*CHI:	si [% "ti"] .
+*MAR:	si ?
+*MAR:	vols que t' ajudi ?
+*MAR:	tens que creixer una mica encara [= tanca la porta] .
+*MAR:	va , anem alli [= es dirigeix cap a altres habitacions] .
+%com:	m li ha donat la nina a c
+*CHI:	pcf [% "ehh"] .
+*MAR:	l' assentes alla .
+*MAR:	no cal que li estiris les cames .
+*MAR:	si ?
+*CHI:	si [% "ti"] .
+*CHI:	avall xxx el brac aqui
+	[% "avai atic a ba aqui" , manipula els bracos de la nina] .
+*CHI:	el brac aqui
+	[% "a ba aqui" , baixa els bracos de la nina i camina cap una altra habitacio]
+	.
+@Comment:	c es troba en una altra habitacio amb la nina als bracos
+*CHI:	ui [= mira cap al llum] !
+*CHI:	ui , aquesta llum [% "ui , tata llum"] !
+*CHI:	mira , treu'la [% "mira tara"] .
+*CHI:	pcf [% "buf" , es posa la ma a la cara i aparta la mirada] !
+*MAR:	ui !
+*CHI:	ui [= camina d' un canto a l' altre] !
+*MAR:	la llum fa mal els ulls , eh ?
+*CHI:	0 .
+%act:	obre i tanca els ulls i sospira
+*MAR:	fa mal els ulls la llum .
+*CHI:	0 .
+%act:	es frega els ulls amb el puny
+*MAR:	com el sol .
+*MAR:	el sol tambe et fa mal els ulls .
+*CHI:	no [= continua fregant'se els ulls i ploriqueja] .
+*CHI:	pcf [% "o" , ploriqueja] !
+*MAR:	ells ulls .
+*MAR:	ja esta .
+*MAR:	no exageris , eh ?
+*CHI:	0 .
+%act:	es treu la ma de la cara
+*MAR:	pots mirar ara ?
+*MAR:	si .
+*CHI:	0 [= mira en direccio al llum i es gira] .
+*MAR:	escolta , caterina .
+*CHI:	pcf
+	[% "to toro me tania" , assenyala unes plantes que hi ha damunt la xemeneia]
+	.
+*CHI:	pcf [% "eto taia"] .
+*INV:	tania .
+*MAR:	a qui li dius ?
+*MAR:	que li dius a les plantes ?
+*CHI:	pcf [% "uh" , mira les plantes] !
+*MAR:	que tens moquitos ?
+*CHI:	0 [= diu que si amb el cap] .
+*MAR:	si ?
+@Comment:	c s' acosta a la taula de l' habitacio
+*CHI:	pcf [% "to cumbe" , agafa una cosa de la taula] .
+*CHI:	pcf [% "to cambe" , mostra ho que ha agafat a la camera] .
+@Comment:	apareix a per a mocarla
+*CHI:	pcf [% "to am"] .
+*MAR:	treu moquitos [= moca c] .
+*MAR:	com es que no m' ho has demanat ?
+*CHI:	bebe a dormir [% "be a domi"] .
+*CHI:	<bebe a dormir> [>] [% "be bomi" , mira la nina] .
+*MAR:	eh [<] ?
+*MAR:	on el poses ara ?
+*CHI:	0 .
+%act:	marxa de l' habitacio
+*MAR:	on el portes ?
+*CHI:	alla .
+*MAR:	a on alla [= segueix c] .
+*CHI:	a dormir .
+*MAR:	a dormir el vols posar ?
+*CHI:	mira [= obre el llum de l' habitacio] .
+%com:	c va a l' habitacio dels llits
+*CHI:	pcf [% "u a te que"] .
+*MAR:	tu tambe hi vols anar a dormir ?
+*CHI:	no .
+*CHI:	alla bebe [= es disposa a posar la nina al llit] .
+*CHI:	aqui bebe .
+*CHI:	a dormir [% "a ormir"] .
+*CHI:	xxx bebe a dormir [% "ota bebe a dormir" , deixa la nina al llit] .
+*MAR:	i tu ?
+*MAR:	tambe te'n vas a dormir ?
+*CHI:	tambe [= posa be la nina] .
+*MAR:	tu tambe ?
+*CHI:	el bebe a dormir [% "a bebe a mi"] .
+*CHI:	bebe , venga [= col'loca be la nina] .
+*CHI:	a dormir [% "mi"] .
+*CHI:	bebe .
+*CHI:	venga , venga [= s' allunya del llit de la nina] .
+*MAR:	tu tambe vols dormir ?
+*CHI:	no .
+*MAR:	no ?
+*MAR:	estas segura que no vols dormir ?
+*CHI:	tanca la llum [% "aca la dum"] .
+*CHI:	0 .
+%act:	tanca la llum
+*MAR:	tanca la llum , tanca [= imita ho que ha dit c] .
+@Comment:	m i c van a una altra habitacio
+*CHI:	psst@c <demanda de silenci> [/?] !
+*CHI:	venga , a dormir , bebe [% "venga , mi , bebe"] .
+*CHI:	llum [% "dum"] .
+*CHI:	la llum , venga [% "a dum menga"] .
+*CHI:	tanca la llum [% "aca dum"] .
+*CHI:	tanca la llum
+	[= es posa davant la llum que abans li havia fet mal als ulls] .
+*MAR:	has tancat la llum ?
+*MAR:	aquesta tambe la tanquem de llum ?
+*CHI:	si [% "ti"] .
+*MAR:	no [= allarga la lletra o] .
+*MAR:	no hi veuriem .
+*CHI:	0 [= mira a m] .
+*CHI:	tanca la llum [% "ta la iu" , en veu mes baixa] .
+%com:	c encara te a la ma l' objecte que abans havia agafat de la taula
+*MAR:	aixo d' on es [= es refereix a l' objecte que c manipula] ?
+*CHI:	del papa [= mira a m] .
+*MAR:	del papa ?
+*CHI:	si [% "ti"] .
+*MAR:	on estava ?
+@Comment:	c es desplaca per l' habitacio
+*CHI:	alla [= assenyala a un canto de l' habitacio] .
+%act:	colloca l' objecte on abans estava , damunt la taula
+*MAR:	aqui es guarda ?
+*CHI:	si [% "ti" , col'loca be l' objecte] .
+*MAR:	escolta , caterina .
+*MAR:	i ara vindra l' agatha ?
+*CHI:	si .
+*MAR:	amb qui vindra l' agatha ?
+@Comment:	c es fixa en una bossa penjant a la cadira
+*CHI:	la cartera esta aqui [% "a cartera ta qui" , toca la bossa] .
+*MAR:	de qui es aquesta cartera ?
+*CHI:	pcf [% "tatalababon" , toca la bossa] .
+*MAR:	de qui es aquesta cartera ?
+*CHI:	tania .
+*MAR:	no , la tania no .
+*CHI:	0 [= diu no amb el cap mirant a m] .
+*CHI:	xxx tambe [% "eteteta tambe"] .
+*MAR:	es de la magda .
+*CHI:	es de la magda [% "e ta manda" , mira a e] .
+*MAR:	de la magda .
+*CHI:	pcf [% "cue" , continua tocant i mirant la bossa] .
+*CHI:	es de la magda [% "e ta mada"] .
+*CHI:	de la magda [% "o malda" , mira a e] .
+*INV:	si .
+*CHI:	ui !
+*CHI:	i caterina [% "i tainina" , assenyala cap a un canto] ?
+%com:	es disposa a sortir de l' habitacio
+*MAR:	no , el de la caterina esta alla .
+*CHI:	esta alla [= va a buscar la seva cartera] .
+*MAR:	escolta , caterina , vine que t' ensenyare una cosa .
+*MAR:	mira .
+*CHI:	0 .
+%act:	continua caminant cap a la cartera
+*MAR:	vine que li ensenyarem una cosa a la magda , vine .
+*MAR:	vine .
+*CHI:	0 .
+%act:	agafa la cartera que esta al fons del passadis
+*MAR:	que vols , posar'la amb la de la magda ?
+*MAR:	la magda no la fa <servir ara> [>] .
+*CHI:	si [<] [% "ti" , manipula la seva cartera] .
+*MAR:	aixo es per anar al cole@c <col'legi> [/?] .
+*MAR:	amb pijama no .
+*CHI:	xxx cole@c <col'legi> [/?] xxx mama
+	[% "ta cole tama mama" , torna cap a l' habitacio i es penja la cartera al coll]
+	.
+*CHI:	xxx cole@c <col'legi> [/?] xxx [% "ta cole tama"] .
+*CHI:	ui [= descobreix un barret damunt la taula i l' agafa] !
+*CHI:	mira [= mira el barret i es treu la cartera del coll] .
+*CHI:	te [= dona la cartera a e] .
+*CHI:	la cartera [% "a cartera" , mira a la camera] .
+*INV:	no , deixa'la al puesto , deixa'la al puesto .
+*CHI:	0 .
+%act:	deixa el barret damunt la taula i va a posar la cartera al seu lloc
+*INV:	molt be !
+*CHI:	0 .
+%act:	torna , agafa el barret i se'l posa al cap
+*MAR:	ai !
+*MAR:	que es aixo ?
+*CHI:	0 [= mira a m] .
+*MAR:	que es aixo ?
+*CHI:	0 [=! somriu] .
+*MAR:	oi !
+*CHI:	te , xxx [= dona el barret a m] .
+*MAR:	que es aixo ?
+*CHI:	tambe [% "cambe" , es torna a allunyar de m] .
+*MAR:	que es aixo ?
+*MAR:	pero diga'm que es aixo ?
+*CHI:	tambe [% "cambe"] .
+%com:	c , fora d' imatge , sembla que manipula un casc
+*CHI:	oi [= se sent quelcom que cau] !
+*MAR:	ui , aquest !
+@Comment:	apareix c collint un casc de terra
+*CHI:	ui [= somrient , cull el casc de terra] !
+*MAR:	que es aixo ?
+*CHI:	tambe [% "cambe" , va a donar el cas a m] .
+*MAR:	no , tambe no .
+*MAR:	que es aixo .
+*CHI:	0 .
+%act:	abans de donar els casc se'l fica
+*CHI:	pcf [% "jo" , mira el casc] .
+*MAR:	un casco .
+*CHI:	un casco [% "caco" , mira el casc] .
+*MAR:	un casco .
+*MAR:	qui porta casco ?
+*CHI:	caterina [% "tallina"] .
+%act:	es fica el casc
+*MAR:	i per que et poses el casco ?
+*MAR:	per anar amb que ?
+*CHI:	0 [= riu amb el casc posat i mira a m] .
+*MAR:	per anar amb que [= riu] ?
+*MAR:	mira a la magda .
+*MAR:	ensenya'li a la magda .
+*CHI:	0 .
+%act:	es gira cap a e amb cuidado
+*INV:	ui [>] [= riu] !
+*MAR:	<digues'li> [<] mira el casco per anar amb moto
+	[% "diga'li" en comptes de digues'li] .
+*CHI:	0 .
+%act:	es treu el cas
+*MAR:	el casco es per anar amb moto .
+*INV:	i amb qui vas amb moto ?
+*CHI:	0 .
+%act:	deixa el casc damunt la taula
+*INV:	eh ?
+*MAR:	caterina , qui et porta amb moto ?
+*INV:	qui et porta ?
+*CHI:	tambe [% "kambe" , es disposa a agafar un altre barret] .
+%com:	c agafa el barret , se'l posa i va cap a m
+*MAR:	ai !
+*MAR:	aquest es mes gran que tu .
+*MAR:	digues'li a la magda <que es aixo> [>]
+	[% "diga'li" en comptes de digues'li] .
+*CHI:	te [<] .
+*CHI:	0 .
+%act:	es treu el barret
+*MAR:	pero ensenya'li a la magda i no a mi .
+*CHI:	ui [= es mira el barret] !
+*MAR:	es un sombrero .
+*CHI:	sombrero [% "tombero"] ?
+*MAR:	aixo es un sombrero .
+*CHI:	0 .
+%act:	es posa el barret , s' acosta mes a m
+*CHI:	pcf [% "bua"] !
+*MAR:	oi !
+%com:	te l' altre barret a la ma
+*MAR:	mira aquest +...
+*MAR:	mira caterina , aixo es un sombrero andalus
+	[= assenyala el barret que c porta al cap] .
+*MAR:	i aixo es un gorro [= mostra el casc] .
+*CHI:	0 [= es mira el barret que te a la ma] .
+*CHI:	gorro [% "goo"] .
+*MAR:	i el casco ?
+*MAR:	on esta el casco ?
+*CHI:	aqui [= assenyala el barret cordoves que porta posat] .
+*MAR:	a on ?
+*MAR:	aquest no ho es el casco .
+*CHI:	ta [/?] esta aqui
+	[% "ta ta quim" , assenyala i mira cap a un canto] .
+*MAR:	alla esta el casco .
+*CHI:	0 [= diu que si amb el cap] .
+*MAR:	el casco per a que serveix ?
+*MAR:	per anar amb que ?
+*CHI:	pcf [% "atquem"] .
+*MAR:	digues , el casco per que es ?
+*CHI:	pcf [% "ate co" , es mira el barret que te a la ma] .
+*MAR:	aqui hi ha una ploma [= assenyala una ploma que hi ha al barret] .
+*MAR:	d' un ocell .
+*CHI:	ocell [% "cel" , toca la ploma] .
+%act:	c fa un pas enrera i mira a terra
+*CHI:	oi [= mira a terra] !
+*MAR:	que ha passat ?
+*CHI:	pcf [% "taquim"] .
+*MAR:	un ocell [= mira a terra] .
+*CHI:	si [% "ti" , mira a terra] .
+*MAR:	no , no n' hi ha cap d' ocell .
+*MAR:	aqui nomes hi ha la ploma [= assenyala la ploma del barret] .
+*CHI:	la ploma [% "la puma" , mira i toca la ploma] ?
+*MAR:	<si , la ploma> [>] .
+*CHI:	<aqui el ocell> [<] [% "aqui e otell" , assenyala la ploma] .
+*MAR:	i el ocell , eh ?
+*CHI:	0 [= diu que si amb el cap] .
+*CHI:	oi [= es treu sobtadament el barret cordoves] !
+*MAR:	oi [= rep un cop amb el barret] !
+*MAR:	m' aixafes el nas [% "m' axafes el nas"] .
+*CHI:	0 .
+%act:	es torna a ficar el barret
+*CHI:	treu [% "teu" , es torna a treure el barret i el dona a m] .
+*MAR:	oi , que m' has aixafat el nas
+	[% "axafat" en comptes de aixafat , es posa la ma al nas] .
+*CHI:	<te mama> [>]
+	[= li dona el barret i s' allunya unes passes d' ella] .
+*MAR:	oi [<] !
+*MAR:	i ara que farem amb el nas aixafat de la mama
+	[% "xafat" en comptes de aixafat] ?
+*CHI:	0 .
+%act:	es torna a acostar a m per agafar'li el barret i l'altre barret
+*MAR:	saps que m' has fet mal [= es fica la ma al nas] ?
+*CHI:	pcf [% "unno" , es mira el barret] .
+*MAR:	caterina [= toca el brac de c] .
+*CHI:	0 [= mira a m] .
+*MAR:	caterina , que farem ara [= es toca el nas] ?
+*MAR:	m' has fet mal .
+*CHI:	t' has fet mal [% "ta fe man"] ?
+*MAR:	com me curaras ?
+*CHI:	0 .
+%act:	s' acosta a m i li fa un peto al nas
+*MAR:	ah , bueno !
+*CHI:	el sombrero aqui
+	[% "e babero aqui" , va , amb els dos barrets cap a la taula] .
+*CHI:	el sombrero esta aqui
+	[% "a babero ta qui" , posa un barret damunt la taula] .
+*CHI:	ui [= li cau un barret a terra] !
+*MAR:	el sombrero el guardes aqui ?
+*CHI:	0 .
+%act:	cull el barret
+*CHI:	si [% "ti" , el torna a posar a la taula] .
+*MAR:	0 .
+%act:	l' ajuda
+*MAR:	si , que aixo es un xxx
+	[% "si , que aixo es un emedo" , ordena be els diferents barrets] .
+*MAR:	eh ?
+*CHI:	el sombrero esta aqui
+	[% "e bambero ta qui" , manipula el barret cordoves] .
+*MAR:	i aixo tambe es un sombrero o es un casco aixo
+	[= li mostra el casc] ?
+*CHI:	un casco [% "un caco"] ?
+*MAR:	aixo es un casco [= li fica el casc a c] ?
+*CHI:	si [% "ti"] .
+*MAR:	i ara et falta la moto .
+*MAR:	on esta la moto ?
+*CHI:	0 .
+%act:	deixa el barret cordoves
+*CHI:	alla [= assenyala a un canto mirant la camera] .
+*MAR:	alla ?
+*MAR:	qui la porta la moto ?
+@Comment:	c camina per l' habitacio acostantse a la camera
+*CHI:	tambe [% "cambe" , es treu el casc i se'l mira] .
+*CHI:	0 .
+%act:	es torna a posar el casc i continua caminant
+*CHI:	oh [= s' atura] !
+*CHI:	ui [= es posa les mans al cap] !
+*CHI:	se ha caido [% "sa caio" , s' aguanta el casc perque li cau] .
+*CHI:	pcf [% "bete" , camina amb el casc tapant'li els ulls] .
+*CHI:	oi [= llenca el casc a terra] !
+*MAR:	ui , ui !
+*CHI:	pcf [% "cai" , cull el casc i se'l torna a posar] .
+%com:	c esta uns moments posantse be el casc , finalment se'l treu i ho va a donar a m
+*CHI:	X X aqui [% "na to qui" , li dona el casc a m] .
+*MAR:	per anar amb moto +/.
+*CHI:	ara tu [= assenyala el cap de m] .
+*MAR:	ara jo ?
+*CHI:	si [% "ti"] .
+@Comment:	m es fica el cas i se'l treu
+*CHI:	caterina esta aqui [% "cacina ta qui" , assenyala cap a dalt] .
+*MAR:	escolta , caterina , vine [= va cap a un canto de l' habitacio] .
+*MAR:	vine .
+*MAR:	a veure si la veiem [= obre la porta del balco] ?
+*MAR:	a veure si la magda tambe te llum aqui fora i veiem una cosa .
+@Comment:	c segueix a m al balco
+*MAR:	vine .
+*MAR:	vine , a veure si tambe te llum .
+%act:	agafa c de la ma
+*MAR:	es que ahir la vaig veure .
+@Comment:	m i c miren al cel
+*MAR:	no la veig avui tampoc , caterina .
+*MAR:	no hi es .
+*MAR:	no hi es .
+*CHI:	0 .
+%act:	toca una bicicleta que hi ha al balco
+*MAR:	cuidado aqui .
+*MAR:	que es aixo [= assenyala la bicicleta] ?
+*CHI:	bicicleta [% "caqueta" , l'assenyala tambe] .
+*MAR:	la bicicleta ?
+*CHI:	si [% "ti"] .
+*MAR:	de qui es aquesta ?
+*MAR:	no es de la caterina aquesta de bicicleta [= puja a coll a c] .
+*MAR:	a veure si la veus [= es refereix a la lluna] .
+*CHI:	0 [= mira el cel] .
+*MAR:	que hi es ?
+*CHI:	xxx .
+*MAR:	que hi es avui ?
+*MAR:	no .
+*CHI:	no esta [% "o ta"] .
+*MAR:	no esta .
+*CHI:	no esta [% "ton ta"] .
+*MAR:	que es lo que no hi es ?
+*CHI:	pcf [% "taque" , mira i assenyala la camera de molt a prop] .
+*MAR:	on se n' ha anat ?
+*MAR:	s' ha amagat ?
+*CHI:	si [>] [% "ti"] .
+*MAR:	<torna a estar> [<] amagada darrera un nuvol ?
+*CHI:	nuvol [% "dubu"] .
+*MAR:	un nuvol l' ha amagat perque tenia fred ?
+*MAR:	o que ha passat ?
+*CHI:	0 [= mira el cel] .
+*MAR:	crida'la , crida'la .
+*CHI:	lluna vine [% "nuna mina"] .
+*CHI:	pcf [% "no mengi"] .
+*CHI:	a xxx s' amagat [% "a cote tamagat"] .
+*MAR:	s' ha amagat ?
+*CHI:	un nuvol [% "u bubu"] ?
+*MAR:	hi ha un nuvol i l' ha amagat .
+@Comment:	c es gira i mira i assenyala la camera
+*MAR:	digues'li , vine , vine lluna , vine
+	[% "diga'li" en comptes de digues'li] .
+*CHI:	vine [% "mie" , li fa gestos amb el brac per a que vingui] .
+*MAR:	i que li cantarem a la lluna quan vingui ?
+*CHI:	0 .
+%act:	es gira i estira el brac com si volgues agafar la camera
+*CHI:	dame [% "name" , amb el brac estirat] .
+*MAR:	no , aixi no es toca .
+*MAR:	escolta , quan vingui la lluna que li cantarem ?
+*CHI:	0 .
+%act:	es gira i mira cap al cel
+*MAR:	la lluna [= inicia una canco] .
+*MAR:	a veure com to fas tu ?
+*MAR:	0 .
+%act:	es dona la volta
+*CHI:	no , no [= no volia que es dones la volta] .
+*MAR:	canta'li a veure si ve .
+*MAR:	potser si li cantes vindra .
+*CHI:	aixo [% "acho" , mira cap a baix al carrer] .
+*CHI:	0 [= assenyala les bicicletes] .
+*MAR:	aixo no que estan molt brutes aquestes bicicletes .
+*MAR:	a veure si ve .
+*MAR:	que jo tinc ganes de veure'la , la lluna .
+*MAR:	canta'li a la lluna .
+*CHI:	pcf [% "egg" , remuga] .
+*MAR:	no en tinc ganes , bueno [= es gira i mira a c] .
+*MAR:	no vols veure la lluna ?
+*CHI:	0 [= diu no amb el cap] .
+*MAR:	no ?
+*CHI:	0 [= diu no amb el cap] .
+*MAR:	no , pues fuera [= baixa a c a terra] .
+*CHI:	lluna [% "tuna" , no vol que la baixi a terra] .
+*MAR:	no , com que no li cantes la canco no ve .
+*CHI:	lluna [% "tuna" , comenca a gemegar perque no la pugen a coll] .
+*MAR:	canta'li la canco [= la penja un altre cop a coll] .
+*CHI:	la lluna , vestida
+	[% "a lluna patina" , somriu i s' abraca amb m perque te vergonya] .
+*MAR:	de que ?
+@Comment:	se sent un soroll de fons del carrer
+*MAR:	ui !
+*MAR:	ui !
+*MAR:	que es aixo ?
+*CHI:	0 [= mira al carrer amb atencio] .
+*MAR:	un avion ?
+*CHI:	avion .
+*MAR:	un avion ?
+*CHI:	0 [= mira el cel] .
+*MAR:	no es veu perque esta molt fosc .
+*CHI:	molt fos [% "o foc"] ?
+*MAR:	esta fosc .
+*MAR:	no es veu l' avio .
+*MAR:	pero segur .
+*MAR:	jo l' he sentit .
+*MAR:	tu el sents ?
+*CHI:	ui [= mira el cel] !
+*MAR:	<el sents> [>] ?
+*CHI:	pcf [% "tagul"] [<] .
+*CHI:	el cotxe s' ha caigut [% "a cota ta caigu" , toca la bicicleta] .
+*MAR:	esta bruta , esta molt bruta aixo [= es refereix a la bicicleta] .
+*MAR:	eh que esta molt bruta [= s' allunya del balco] ?
+*MAR:	tenim que buscar la teva .
+@Comment:	m i c entren del balco
+*MAR:	on esta la teva de bicicleta ?
+*CHI:	alla [= assenyala a un canto] .
+*MAR:	alla [= baixa a c] .
+*CHI:	si [% "ti"] .
+*MAR:	o la tenen a baix els nens .
+@Comment:	un cop a terra , c camina per l' habitacio , c va a l'habitacio de les joguines i alla agafa tres pilotes de tenis , arriba m a l' habitacio
+*CHI:	<te , pilota> [>] [= li mostra una pilota] .
+*MAR:	eh [<] ?
+*MAR:	que son aixo ?
+*CHI:	pilota .
+*MAR:	pilotes ?
+*MAR:	i amb qui jugaras a la pilota .
+@Comment:	c surt de l' habitacio i va cap a una altra
+*CHI:	xxx pilota [= deixa caure una pilota a terra] .
+*CHI:	pcf [% "toma mea" , s gira i mira a la camera] .
+*CHI:	pilota aqui .
+*CHI:	xxx xxx pilota xxx [% "a patins pilota e"] .
+*CHI:	ui [= li cauen les dues pilotes de les mans] !
+*CHI:	pcf
+	[% "ta ta ta" , cridant , cull les dues pilotes que li han caigut] .
+%com:	c camina per l' habitacio i veu una maleta
+*CHI:	pcf [% "o popa com" , agafa la maleta] .
+*CHI:	aixo tambe [% "cho kambe"] ?
+*CHI:	aixo tambe
+	[% "aito kambe" , amb la maleta agafada en una ma i les dues pilotes en l' altra mira la camera]
+	.
+*CHI:	si [% "ti"] ?
+*INV:	no .
+*CHI:	no ?
+*INV:	pesa molt .
+@Comment:	fent un esforc agafa la maleta i la torna al seu lloc
+*CHI:	pilota bom@c bom@c
+	[= mira les pilotes que te a la ma i les colpeja una contra l' altra]
+	.
+*CHI:	uy , se ha caido
+	[% "uy , sa caido" , cull una tercera pilota que era darrera seu] !
+*CHI:	pcf [% "ala tata" , amb tres pilotes a les mans] .
+*CHI:	pom@c [= deixa caure una pilota] !
+*CHI:	pcf [% "iuia tatat" , mira com roda la pilota] .
+*CHI:	pcf [% "iana taqui"] .
+*CHI:	mira una altra [% "mia u nata" , mira cap a terra i camina enrera]
+	.
+*CHI:	has visto [% "ha vito"] ?
+*CHI:	pcf [% "ato" , va cap a la pilota i la xuta amb el peu] .
+*CHI:	pcf [% "iaootato" , mira la pilota de terra] .
+*CHI:	mira xxx [= agafa la pilota] .
+*CHI:	tambe [% "kambe"] .
+*CHI:	pcf [% "camoda ata" , es mira les tres pilotes que te a les mans] .
+*SUS:	mira caterina [= li porta una bicicleta] .
+*CHI:	te [= li ofereix una pilota] .
+*SUS:	dona'm [= para la ma] .
+*CHI:	0 .
+%act:	li dona la pilota
+@Comment:	s para la ma una altra vegada , c li dona les dues pilotes , c es disposa a pujar a la bicicleta
+*SUS:	ale , la moto !
+*CHI:	0 .
+%act:	puja a la bicicleta
+*CHI:	pcf [% "puqueta"] .
+@Comment:	c engega amb la bicicleta cap al passadis , a mig passadis intenta pedalejar pero dona la volta i torna cap a l' habitacio on esta la camera
+*CHI:	dame pilota [% "mame pilota" , baixa de la bicicleta] .
+*CHI:	dame pilota susso [% "mame piota tuvo"] .
+*CHI:	dame pilota susso [% "mame pilota tuvo" , va cap al passadis] .
+*CHI:	dame pilota [% "mame piota" , s' atura davant una porta] .
+@Comment:	c davant la porta mira la camera i es posa be el pantalo , apareix m mentre c es posa be el pantalo
+*MAR:	que fa la caterina ?
+*CHI:	pcf
+	[% "teoa tote" , s' esta arreglant el jersei i el pantalo del pijama]
+	.
+*MAR:	que et passa ?
+*MAR:	que se t' escapa el pijama ?
+*MAR:	eh [= s' ajup] ?
+*MAR:	espera't , posem'l' ho be [= li posa be el pijama] .
+*CHI:	no [= mira com li arreglen el pijama] .
+*MAR:	<aixi no t' agrada> [>] ?
+*CHI:	pcf [% "no mia"] [<] .
+*CHI:	0 .
+%act:	es fica finalment be el pijama
+*MAR:	muy bien .
+*CHI:	0 .
+%act:	va cap a l' habitacio on esta la camera i s' acosta a la bicicleta
+*MAR:	que es aixo [= es refereix a la bicicleta] ?
+*MAR:	que t' ha pujat el susso ?
+*MAR:	que ha pujat el susso ?
+*CHI:	susso pilota [% "tuo piota"] .
+*MAR:	les pilotes on se n' han anat ?
+*MAR:	s' han amagat ?
+*CHI:	dame [% "amme" , para la ma a m] .
+*MAR:	on estan ?
+*CHI:	dame pilota
+	[% "amme piota" , agafa de la ma a m , assenyala el passadis i es dirigeixen les dues cap alla]
+	.
+*MAR:	<on estan> [>] ?
+*CHI:	<dame , dame> [<] [% "ame , ame"] .
+*MAR:	on estan ?
+*MAR:	que les has tirat ?
+@Comment:	van fins el final del passadis
+*MAR:	on les has tirat les pilotes ?
+*CHI:	xxx .
+*MAR:	no , el susso la te alla la pilota .
+*CHI:	0 .
+%act:	al sentir aixo , agafada a m , torna pel passadis
+@Comment:	c i m entren en una nova habitacio
+*CHI:	pilota [% "piota"] ?
+*MAR:	aqui , mira'te'les [= assenyala una pilota gran] .
+*CHI:	0 .
+%act:	busca per l' habitacio
+*MAR:	les veus ?
+*CHI:	pcf [% "ug" , mira la pilota gran] .
+*MAR:	que vols les petitones ?
+*CHI:	si [% "ti"] .
+*MAR:	vols les pilots petites ?
+*MAR:	on les has tirat , suso ?
+*SUS:	estan alla sobre l' estanteria .
+*CHI:	aqui [= agafa una pilota gran] .
+*MAR:	que les has amagat tu ?
+*SUS:	no , no les he amagades .
+*SUS:	les he posat sobre l' estanteria .
+@Comment:	se sent la veu de p
+*CHI:	pcf
+	[% "toara taquim" , veu les pilotes petites damunt el prestatge i va cap alla]
+	.
+*PAR:	que dius caterina ?
+*CHI:	que esta aqui [% "ca ta qui" , agafa unes pilotes del prestatge] .
+*MAR:	aqui n' hi ha mes , encara , de pilotes ?
+*CHI:	te , dame , te [% "te pame te" , dona la pilota a m] .
+*MAR:	dame no , ten .
+*CHI:	pcf [% "me me" , agafa una altra pilota] .
+*CHI:	te [= li dona a m] .
+*MAR:	gracies .
+*CHI:	te [= li dona l' ultima pilota] .
+*MAR:	gracies .
+*CHI:	te [= li dona la pilota gran] .
+*MAR:	gracies .
+@Comment:	c va cap a un canto de l' habitacio
+*PAR:	no en tenia mes de pilotes .
+*MAR:	0 [=! riu] .
+*CHI:	0 [= mira a m] .
+*MAR:	va , no m' enganyis .
+*MAR:	que n' hi ha mes de pilotes ?
+*CHI:	si [% "ti" , va a agafar'ne una altra] .
+*MAR:	si .
+*MAR:	el que passa es que sembla que no me n' entero .
+*MAR:	ara aquesta com l' agafare ?
+*CHI:	0 .
+%act:	va cap a m amb la pilota
+*MAR:	no puedo .
+*MAR:	al papa li tindras que donar .
+*MAR:	la mama no pot ja .
+*CHI:	0 .
+%act:	es dirigeix amb la pilota cap a p
+*CHI:	te [= li dona la pilota a p] .
+*PAR:	0 .
+%act:	agafa la pilota
+*MAR:	i la caterina cap ?
+*CHI:	0 [= diu si amb el cap] .
+*MAR:	a on les te que agafar la caterina ?
+*PAR:	0 .
+%act:	s' ajup amb la pilota
+*CHI:	0 .
+%act:	mira la pilota de p pero s' allunya
+*CHI:	caterina te pilota [% "cateina te pilota"] .
+*CHI:	te pilota caterina [% "te pilota teina"] ?
+*PAR:	te , juga [= li fa rodar cap a ella la pilota] .
+*CHI:	0 [=! somriu] .
+%act:	agafa la pilota i li torna
+*PAR:	bravo !
+*PAR:	0 .
+%act:	li torna a llancar la pilota
+*CHI:	0 [= somriu i la torna] .
+*PAR:	te , agafa'la tu [= li ofereix la pilota a c] .
+*CHI:	0 .
+%act:	es disposa a agafar'la
+*PAR:	ai , que s' ha caigut
+	[= deixa caure la pilota abans que c l' agafi] !
+*MAR:	<tira'li al papa , tira'li> [>] .
+*PAR:	<agafa'la> [<]
+	[= li torna a oferir la pilota i la deixa caure en el moment en que c va per agafar'la]
+	.
+*MAR:	ai !
+@Comment:	p repeteix l' accio uns quants cops mentre c somriu
+*MAR:	ai , que s' escapa !
+*CHI:	0 .
+%act:	agafa la pilota i la llanca a p
+*MAR:	ai !
+*CHI:	0 .
+%act:	pega cops de peu a la pilota
+*PAR:	una patada , va .
+*CHI:	pcf [% "di" , mira a p] .
+*MAR:	i les altres ?
+*MAR:	on son les altres que t' has emportat ?
+*CHI:	caterina [% "ataina"] .
+*MAR:	on son les altres que s' ha endut la caterina
+	[= te les pilotes a la ma] ?
+*CHI:	dame [= agafa dues de pilotes petites que m te a la ma] .
+*CHI:	aqui [= col'loca les pilotes al prestatge] .
+*CHI:	ja esta [% "ata"] .
+*CHI:	0 .
+%act:	agafa la tercera pilota petita i la deixa al mateix lloc que les altres
+*CHI:	aqui [= en el moment de deixar'la] .
+*CHI:	x tambe [% "ate kambe"] .
+*CHI:	aquesta pilota caterina
+	[% "ta pioota cataina" , agafa la pilota gran i va cap a un canto amb ella per guardar'la]
+	.
+*PAR:	no , estava alla , alla .
+*PAR:	ah , ha vist una altra cosa !
+*CHI:	0 [= es gira i mira cap a p] .
+*CHI:	si [% "ti"] .
+*PAR:	estava alla , al cistell .
+*CHI:	si [% "ti" , mira a p] ?
+*PAR:	si .
+*CHI:	si [% "ti" , amb veu baixa i mirant a p] ?
+*PAR:	si .
+*MAR:	0 [=! riu] .
+*CHI:	0 .
+%act:	col'loca la pilota dins el cistell
+*PAR:	aqui .
+*CHI:	altra [% "ata" , agafa la pilota gran que li dona m] .
+*CHI:	pcf [% "caia qui"] .
+%act:	va cap el mateix lloc on abans ha guardat la pilota gran , agafa una corda del costat de la pilota
+*CHI:	altre aixo tambe venga
+	[% "ata aiso ambe venga" , es mira i manipula la corda] .
+*MAR:	que es aixo ?
+*CHI:	saltar [% "tata" , desenrotlla la corda] .
+*MAR:	aixo es per saltar ?
+*CHI:	0 .
+%act:	posa la corda a terra per a desenrotllar'la amb el peu
+*CHI:	ay , no puede [% "no pede"] !
+*MAR:	no puede ?
+*PAR:	dona'm , dona'm .
+*MAR:	el papa ajuda .
+*CHI:	te [= li dona la corda a p] .
+*MAR:	demana'li al papa .
+*MAR:	digues'li , papa , per favor , m' ajudes
+	[% "diga'li" en comptes de digues'li] ?
+*PAR:	0 .
+%act:	desenrotlla la corda
+*MAR:	com li dius ?
+*CHI:	papa ajuda [% "papa aiud" , mira com p desenrotlla la corda] .
+*MAR:	per favor .
+*CHI:	0 .
+%act:	ajuda a p a desenrotllar'la
+*MAR:	com es demana caterina ?
+*CHI:	0 .
+%act:	estira la corda ja desenrotllada
+*PAR:	ja esta .
+*CHI:	venga [% "menga"] .
+*CHI:	mama te [= estira la corda pel terra] .
+*CHI:	mama saltar aqui [% "mama tata aqui"] .
+*MAR:	<la mama salta> [>] ?
+*CHI:	<mama salta> [<] [% "mama ta"] .
+@Comment:	c , un cop ha estirat la corda a terra , la trepitja i fa veure que salta
+*PAR:	salta [= riu] !
+*MAR:	no li havia vist mai [= riu] .
+*CHI:	0 .
+%act:	agafa la corda i la plega
+*MAR:	ara la plega .
+*PAR:	i avui que en el cotxe cantava tua@c tua@c melodia [/?] .
+*MAR:	si , avui cantava <tutua@c tutua@c (melodia)> [>]
+	[= cantussejant la canco] .
+*CHI:	tu [<] .
+*CHI:	venga , venga [% "menga , menga" , prepara la corda un altre cop] .
+*PAR:	tu .
+*MAR:	va , te , tu agafa per alla , que deus voler dir aixo
+	[= assenyala al p per a que agafi un extrem de la corda] .
+*MAR:	i jo agafo per aqui i tu saltes , va .
+*PAR:	va , salta .
+*CHI:	0 .
+%act:	passa per damunt la corda un parell de cops i es llanca , somrient , als bracos de p
+*PAR:	pumba@c !
+*MAR:	0 [=! riu] .
+*MAR:	escolta , salta i agaxat com en el carro de la patata .
+*MAR:	com fem agachate ?
+*CHI:	aquest papa [= dona un extrem de la corda a p] .
+*CHI:	venga papa .
+*CHI:	te papa , venga .
+@Comment:	p i m agafen cadascu d' un extrem de la corda
+*CHI:	aqui [= estira la corda a terra] .
+*PAR:	venga , on va ?
+*CHI:	venga , papa .
+*PAR:	a dormir , venga .
+*CHI:	no , mama [= continua preparant la corda] .
+*MAR:	ah , la mama no ?
+*CHI:	no , mama [= no vol que m agafi la corda] .
+*MAR:	la mama no ?
+*CHI:	aqui [= continua estirant la corda] .
+*CHI:	aqui , caterina esta aqui [% "aqui catina ta aqui"] .
+*CHI:	mama , te [= dona un extrem de corda a m] .
+*CHI:	papa , te [= dona un extrem de corda a p] .
+*PAR:	gracies .
+*CHI:	ara ja esta [% "ara iata"] .
+@End

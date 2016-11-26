@@ -1,0 +1,505 @@
+@UTF8
+@PID:	11312/c-00028042-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , FER ferran Child , HMA hmain Nurse , MAR mare Mother , PAR pare Father , GAV avia Grandmother , INV examinador Investigator
+@ID:	cat|Serra|CHI|2;3.16||||Target_Child|||
+@ID:	cat|Serra|FER|||||Child|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|GAV|||||Grandmother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	p esta banyant al germa petit , a s' ho mira
+*PAR:	es un ogro alvar [% parlant al gemanet] .
+*PAR:	tu eres un ogro , alvar ?
+*CHI:	si .
+*PAR:	si ?
+*PAR:	i +...
+*CHI:	que es aixo [% que e aixo"] ?
+*MAR:	l' esponja .
+*CHI:	per que ?
+*MAR:	per que ?
+*MAR:	perque s' ha de rentar el nen amb l' esponja .
+*CHI:	si ?
+*MAR:	si [>] .
+*PAR:	claro [<] .
+*MAR:	<xxx xxx> [>] .
+*PAR:	<tu con que> [<] te banyas ?
+*CHI:	i que fas [% mirant al nen] ?
+*CHI:	que fa ?
+*CHI:	banyant ?
+*PAR:	s' esta banyant si , ja ho veus , mira .
+@Comment:	p treu al nen de la banyera , la camera enfoca al nen i no se sent be a a que parla
+*CHI:	xxx xxx xxx hi ha un xxx aqui ?
+*MAR:	xxx .
+*CHI:	per que ?
+@Comment:	tall , ara estan a la cuina , a i f asseguts a taula amb el plat davant , hi ha un parell de cotxes sobre la taula
+*HMA:	ahora dejad de jugar que [% posant'li el pitet a f] +/.
+@Comment:	tall a la cinta
+*FER:	xxx xxx que caca .
+*HMA:	va , no digas tonterias .
+*HMA:	por que dices esas tonterias tan grandes [>] ?
+*CHI:	<un jeep> [<] [% jugant amb un cotxet] .
+*CHI:	<un &co> [/?] un jeep .
+*HMA:	venga alvar , tu tambien , a dejar de jugar y a comer .
+*FER:	jo no tinc cullera .
+*FER:	0 .
+%act:	agafa la cullera d' a i comenca a menjar
+*HMA:	despacito y bien comido que te estan cogiendo con la camara [% assenyala la camera amb el dit] .
+*HMA:	y luego lo pondremos en el video de francis y te veremos .
+*CHI:	jo tambe ?
+*HMA:	tu tambien , si .
+*HMA:	0 .
+%act:	comenca a donar el menjar a a
+*CHI:	m' agrada molt aixo [% "m' agada"] ?
+*HMA:	t' agrada mucho eso , si [% donant'li una cullerada] .
+*HMA:	la verdurita la gusta mucho a alvar .
+*HMA:	a que si ?
+*CHI:	0 [= estossega] .
+*HMA:	ei !
+*HMA:	que es verdurita .
+*HMA:	mira ferran .
+*HMA:	venga [% omple la cullera] .
+*CHI:	xxx [% agafant un cotxet] .
+*HMA:	y a donde has ido (.) con la tia ?
+*CHI:	al parque [% "a parque"] .
+*HMA:	0 .
+%act:	va donant'li menjar
+*HMA:	y a quien has visto en el parque ?
+*CHI:	oriol .
+*HMA:	has visto a l' oriol ?
+*CHI:	0 [= fa que si amb el cap] .
+*HMA:	si [% donant'li una cullerada] ?
+*HMA:	y que te ha dicho ?
+*CHI:	hola [% ha trigat en contestar perque tenia la boca plena] .
+*HMA:	te ha dicho hola ?
+*CHI:	si .
+*CHI:	mira [% "mia" , posa un cotxet sobre una peca] .
+*HMA:	anda , lo que ha hecho alvar !
+*HMA:	ha puesto (.) la avioneta pequenya encima de [% li dona una cullerada] +...
+*HMA:	la torre .
+*FER:	avion [>] .
+*HMA:	<eso es> [<] una xxx tambien pequenya , eh ?
+*CHI:	es un cotxe .
+*HMA:	hum ?
+*CHI:	aixo (.) cotxe [% ensenya un cotxe] .
+*HMA:	abre [% li dona una cullerada] .
+@Comment:	se sent un helicopter , a assenyala cap al sostre amb el dit
+*HMA:	mira , un helicoptero .
+*HMA:	mira (.) ferran que poquito le queda .
+*HMA:	quien va a ser primero ?
+*FER:	yo .
+*HMA:	a ver , a ver si es verdad .
+*FER:	a mi poquito .
+*HMA:	no se quien sera primero .
+*FER:	yo primero .
+*HMA:	no se , no se .
+*HMA:	venga , que te gusta tambien la verdurita , a si es que no hagas tonterias , eh [% a f] .
+*CHI:	0 .
+%act:	va jugant amb els cotxes i mira alternativament a f i h
+*CHI:	yo primero , ale [% mirant a f] !
+*HMA:	a ver , a ver quien sera primero [% donant'li una cullerada a a] .
+*HMA:	has visto al nene pequenyo de banyarlo [% a a] ?
+*CHI:	si .
+*FER:	si .
+*HMA:	tu tambien [% a f] ?
+*FER:	0 [= fa que si amb el cap] .
+*CHI:	que no .
+*HMA:	tu si [% a a] .
+*CHI:	el ferran no .
+*HMA:	el ferran me parece que no .
+*HMA:	<hoy no> [>] .
+*FER:	<yo si> [<] , ale !
+*HMA:	ale , ale [% imita el ale de f] !
+*FER:	yo si .
+*CHI:	0 .
+%act:	toca amb el dit a f i fa que no amb el cap , te la boca plena
+*CHI:	tu no .
+*HMA:	dice ferran , yo si , ale !
+*CHI:	yo no .
+*HMA:	tu si .
+*CHI:	tu no [% mirant a f] .
+*HMA:	pero hay muchos dias que lo has visto cuando han de banyar al ninyo [% va donant el menjar a a] .
+*CHI:	0 .
+%act:	juga amb els cotxes i se n' hi escapa un
+*CHI:	hum , hum [% te la boca plena , allarga el brac per dir que vol recuperar el cotxe] !
+*FER:	0 .
+%act:	li dona el cotxe
+*CHI:	0 .
+%act:	pica amb el cotxes sobre la taula
+*HMA:	cuidado .
+*CHI:	jo acabo , ale [% mirant a f] !
+*HMA:	si , pero aun no acabas .
+*HMA:	aun te falta [% donant'li una cullerada] .
+*FER:	yo acabo .
+*CHI:	yo poquito [% "yo quipitito"] ?
+*HMA:	poquito , si , te queda +/.
+*CHI:	yo poquito , ves [% "yo piquito" , assenyala el seu plat , li diu a f] .
+*HMA:	ves , poquito .
+*FER:	y a mi ?
+*HMA:	a ver , a ver a ti , a ver , a ver .
+*HMA:	anda !
+*HMA:	que tambien le queda muy poquito .
+*HMA:	venga [% a f] .
+*FER:	xxx [% "piqui"] .
+*HMA:	esas tonterias tan grandes .
+*CHI:	mira [% ensenya dos cotxes a camera] .
+*HMA:	despacito [% a f] .
+*FER:	ganando [% posant'se una cullerada a la boca] .
+*CHI:	<no has ganado> [>] .
+*HMA:	<(aun) aun no> [<] has ganado [% donant una cullerada a a] .
+*HMA:	vamos [% a f] .
+*HMA:	0 .
+%act:	pica amb la ma sobre la taula
+*HMA:	rovira , venga , que es carne [% a f] .
+*FER:	pero no puedo .
+*HMA:	si que la puedes mascar porque es pollo , asi es que +...
+*HMA:	no digas ninguna mentira , eh .
+@Comment:	h va donant el menjar a a , f treu el que te a la boca , h el renya i li torna a omplir la boca sense parar de parlar
+*HMA:	0 .
+%act:	s' aixeca de la cadira
+*CHI:	on vas [% "on pas"] ?
+*HMA:	hum ?
+*CHI:	on vas [% "on pas"] ?
+*CHI:	on vas [% "on pas"] ?
+*FER:	mira [% ensenya el que te a la cullera] .
+*CHI:	on vas [% "on pas" , mirant com menja f] ?
+*CHI:	on vas [% "on pas"] ?
+*HMA:	a hechar agua en el vaso .
+*CHI:	vull aigua [% "vull aia"] .
+*HMA:	si , por eso te lo he puesto aqui , porque sabia que tambien ibas a pedir tu agua [% deixant el got davant] .
+*CHI:	0 [= beu] .
+@Comment:	enraonen h i f perque f es posa una cullerada a la boca i se la treu sense haver menjat , a se'ls mira mentre va bebent
+*HMA:	va , ya no mas [% li agafa el got a a i li dona una cullerada] .
+*HMA:	venga , que le vamos a decir al papa hoy que ha sido el alvar el campeon .
+*HMA:	eh ?
+*HMA:	lo vamos a decir alvar ?
+*FER:	no , yo .
+*HMA:	no .
+*CHI:	yo .
+*CHI:	tu no , tu +/.
+*FER:	si !
+*CHI:	tu no [% toca el nas de f amb el cotxet que te a la ma i es posa a riure mirant a camera] .
+*FER:	yo si .
+*CHI:	tu no .
+*HMA:	sin dar golpe , si , venga .
+*CHI:	tu no .
+*HMA:	no se , no se , veremos a ver .
+*HMA:	mira , ya ferran se esta dando mucha prisa y , no se , no se , me parece que al final sera ferran campeon [% donant'li una cullerada a a] .
+*CHI:	0 [= fa que no amb el cap] .
+*HMA:	0 [= fa que si amb el cap] .
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	que yo +...
+*HMA:	tu +/.
+*CHI:	yo [/?] yo segundo .
+*HMA:	tu segundo ?
+*HMA:	si , si tu te conformas siempre con el segundo , eh ?
+*CHI:	quito aixo [/?] aixo [% vol desenganxar alguna cosa del cotxet] .
+*HMA:	no quites eso .
+*CHI:	aixo [% insisteix] .
+*HMA:	eso es una ventanita .
+*HMA:	como la combi del papa , tiene muchas ventanitas .
+*CHI:	van els nens aqui ?
+*HMA:	eh ?
+*CHI:	els nens aqui van ?
+*HMA:	los nenes ?
+*HMA:	si .
+*HMA:	aqui atras van los nenes [% assenyala la part posterior del cotxe] .
+%com:	h renya a f perque no vol menjar i fa marranades
+*HMA:	al final va a ser campeon alvar .
+*CHI:	si [% mirant el plat de f] .
+*CHI:	yo .
+*HMA:	0 .
+%act:	dona una cullerada a a
+*CHI:	encara no ha vingut el papa ?
+*FER:	xxx [% te la boca plena] .
+@Comment:	enraonen h i f , a va jugant amb els cotxes
+*HMA:	tu despacito , no hay prisa [% a a omplint'li la boca] .
+@Comment:	enraonen f i h sobre la fruita que menjaran
+*FER:	nada mas hay uno [% "na mas" , es refereix a un platan] ?
+*HMA:	si , nada mas hay uno .
+*HMA:	a alvar la mandarina .
+*HMA:	eh , alvar ?
+*CHI:	<hi han> [/?] hi ha dos , no [% "hi han" , mou el cap negativament mentre diu el no] ?
+*HMA:	no , no hay mas que uno .
+@Comment:	f diu a h que ja li portara platans de casa seva que en te molts , h va donant menjar a a
+*CHI:	ves , ves , ya acabo [% mirant a f] .
+*HMA:	ves , ya ha acabado [% donant una cullerada a a] .
+*FER:	pero , yo no puedo +...
+*HMA:	te comes tu solito las mandarinas ?
+*CHI:	0 [= fa que si amb el cap] .
+*HMA:	xxx [>] .
+*FER:	<(pero)> [<] pero llavors no ganaras .
+*CHI:	yo ganare .
+*HMA:	si porque a ti te queda el platano y aun mucha verdura y a el solo la fruta [% a f] .
+@Comment:	enraonen h i f per questions del menjar , a va jugant amb els cotxes
+*HMA:	deja ya los coches que ahora vas a comer .
+*CHI:	si .
+*HMA:	venga [% li deixa la mandarina pelada davant] .
+*CHI:	0 .
+%act:	es posa un grill a la boca
+*HMA:	asi .
+*HMA:	despacito , eh !
+*FER:	no [/?] no me falta mucha .
+*HMA:	0 .
+%act:	s' aixeca i va a donar'li el menjar a la boca a f
+*CHI:	ves , yo acabado [% "acabao" , allargant la ma amb un grill de mandarina] .
+@Comment:	f i h enraonen mentre aquesta li va donant menjar a f , a se'ls mira mentre menja la mandarina
+*HMA:	despacito , eh , alvar .
+*HMA:	una y despues otra .
+*CHI:	0 [= fa que si amb el cap] .
+@Comment:	h va donant menjar a f
+*CHI:	ya no , yo me +/.
+*HMA:	ya no ganaras [% a f] .
+*HMA:	hoy no seras tu campeon [% a f] .
+@Comment:	enraonen h i f , a va menjant mandarina i se'ls mira
+*HMA:	0 .
+%act:	treu alguna cosa del grill que te a a la ma
+*CHI:	xxx no [% ensenyant el grill a h] .
+*HMA:	pero si solo hay uno .
+*HMA:	venga .
+*FER:	mira que poquito platano [% ensenya el platan] .
+*HMA:	di bueno , pero yo ya he sido campeon .
+*FER:	0 [= fa que no amb el cap] .
+*CHI:	no porta [/?] porta +...
+*CHI:	i al segundo [% "sigundo" , mira a f] ?
+*HMA:	no , tu has sido hoy el primero .
+*CHI:	primero [% "pimero"] ?
+*HMA:	si , porque tu te has comido toda la verdura , pero +...
+*HMA:	y al [/?] el ferran no se ha comido toda la verdura .
+*CHI:	per que ?
+*HMA:	porque [>] +/.
+*FER:	que [<] me has puesto mucha [% "ponido"] .
+*HMA:	no , te he puesto como todos los dias .
+*FER:	que no .
+*HMA:	que si .
+*FER:	0 [= fa que no amb el cap] .
+*HMA:	que si .
+*CHI:	que no .
+*CHI:	0 [= mira a camera i fa que no amb el cap] .
+*HMA:	despacito [% a a] .
+*CHI:	no hi ha mes .
+*HMA:	no , ya te lo has comido todo .
+*HMA:	ahora donde hay que ir ?
+*HMA:	donde , donde ?
+*CHI:	0 [= fa que no amb el cap] .
+@Comment:	f ja ha acabat , h li treu el pitet i li neteja les mans i la cara
+*CHI:	<a a> [/?] papa .
+*CHI:	<on (.)> [/?] on vas ?
+*PAR:	me'n vaig a fer un recadet .
+*CHI:	a jo no ?
+*HMA:	no , tu no .
+*PAR:	no , tu no , tu has d' anar a fer nonetes ara , eh .
+@Comment:	enraonen p i h , a diu alguna cosa pero no s' enten perque parla alhora que p
+*PAR:	bueno , adios , adios .
+*CHI:	<a jo vull vull> [/?] jo vull +/.
+*HMA:	no .
+*CHI:	vull un peto .
+*HMA:	ah , <bueno , eso> [>] si .
+*PAR:	<ah , un peto> [<] si , ara si que et donare un peto .
+*HMA:	0 .
+%act:	baixa a a de la cadira
+*HMA:	bueno , el papa eso , para decirle al papa que no , eh .
+*PAR:	vine .
+*HMA:	despacio .
+*PAR:	ai , quina cosa mes xxx [% s' abracen i p li fa un peto a a] !
+*CHI:	on vas [% a h] ?
+*HMA:	on vas ?
+*HMA:	a coger una cosa para limpiar la plata .
+*CHI:	xxx .
+*CHI:	a papa [% li agafa la ma] .
+*HMA:	ven alvar .
+*PAR:	vinga , vinga , va .
+@Comment:	tall , ara estan a l' habitacio
+*CHI:	mira , mira , mira [% amb cantirella] .
+*PAR:	que es ?
+*PAR:	un hipopotamo ?
+*CHI:	no .
+*PAR:	que es ?
+*CHI:	un garatge [% "garatx"] .
+*PAR:	un garatge [% "garatx"] ?
+*CHI:	fer un peto .
+*PAR:	un peto vols ?
+*PAR:	pero si ja te n' he donat un .
+*PAR:	un altre petonet , a veure , vine .
+@Comment:	p i a s' abracen
+*CHI:	dos petons .
+*PAR:	dos petons .
+*PAR:	ai , quina cosa mes +...
+*CHI:	0 .
+%act:	li fa els petons
+*PAR:	ale !
+*PAR:	escolta'm una cosa , ja has explicat allo que hem anat al zoo ?
+*CHI:	al zoo .
+*PAR:	i que hem vist en el zoo ?
+*CHI:	el hipopotamo [% "el popomo"] .
+*PAR:	no , l' hipopotam no l' hem vist [% "el popomo"] .
+*PAR:	que es el que hem vist ?
+*CHI:	a &po +...
+*PAR:	hem vist +...
+*PAR:	que ?
+*HMA:	un gatito .
+*CHI:	no .
+*HMA:	no .
+*HMA:	un [/?] un pajarito .
+*PAR:	0 [= vocalitza alguna cosa] .
+*CHI:	un tigre [% "un tigue"] .
+*HMA:	un tigre !
+*PAR:	ai , un tigre !
+*CHI:	0 .
+%act:	va cap al garatge de plastic
+*CHI:	a on vas ?
+*PAR:	vaig a fer el recadet que em tancaran el banc , vinga .
+*HMA:	va a un recado y enseguida viene .
+*CHI:	correns [% "codens"] ?
+*HMA:	corriendo , si .
+*CHI:	por que [% "po que"] ?
+*HMA:	<&po> [/?] porque es tarde y cerraran , si no va corriendo le cerraran y entonces no podra hacer el recado .
+*CHI:	por que [% "po que"] ?
+*HMA:	por que , por que no , <venga ven> [>] .
+*CHI:	<porque si> [<] [% "poque"] .
+*HMA:	porque no .
+*CHI:	porque si [% "poque"] .
+*HMA:	que no .
+%com:	h posa a a sobre el llit i el despulla
+*CHI:	a papa .
+*HMA:	a papa .
+*CHI:	a papa .
+*HMA:	0 [= treu la llengua] .
+*CHI:	a papa .
+*HMA:	0 [= treu la llengua] .
+*CHI:	a papa .
+*HMA:	0 [= treu la llengua] .
+*CHI:	a papa .
+*HMA:	dejame [% li vol treure la sabata i a no es deixa] .
+*HMA:	0 .
+%act:	posa el peu d' a entre els seus genolls
+*CHI:	no [% mig rient , mig queixant'se] !
+*HMA:	shhh@c shhh@c !
+*HMA:	ay [% li treu el pantalo] !
+*CHI:	ay !
+*HMA:	oh !
+*HMA:	el culete , que se le ve el culetito .
+*CHI:	0 [=! riu] .
+*HMA:	culetito .
+*CHI:	0 [= riu] .
+*HMA:	te como .
+*CHI:	a ti no .
+*HMA:	te como .
+*CHI:	no .
+*HMA:	si .
+*CHI:	<que no , que no , que no> [>] .
+*HMA:	<que si , que si , que si> [<] .
+*CHI:	0 [= riu de les moneries que li fa h] .
+*HMA:	que no , que si , si [>] .
+*CHI:	no [<] .
+*HMA:	un poquito .
+*CHI:	no , molt no .
+*HMA:	no , molt no .
+*HMA:	un poquito ?
+*CHI:	no .
+*CHI:	0 [= riu i es mou] .
+*HMA:	pero dejame que te xxx .
+*CHI:	0 [=! riu] .
+*HMA:	mira quien ha venido .
+*MAR:	buenas .
+*CHI:	la iaia .
+*MAR:	no , no ha vingut la iaia , ha vingut la mama .
+*HMA:	quien es ?
+*CHI:	la mama [% "a mama"] .
+*MAR:	la mama .
+*CHI:	la mama [% "a mama"] .
+*HMA:	la mama que ?
+*CHI:	xxx .
+*HMA:	xxx [% em sembla que repeteix el que ha dit a] .
+*CHI:	0 [= va vocalitzacions sense sentit] .
+@Comment:	h li fa moneries i riuen tots dos , h deixa a a i aquest s' estira a terra
+*GAV:	que et fa la maria ?
+*GAV:	moltes pessigolles xxx , eh ?
+*GAV:	que fas la tombarrella ?
+*HMA:	ahi vas a dormir +...
+*CHI:	no .
+*HMA:	la siesta ?
+*HMA:	vas a dormir aqui la siesta ?
+*CHI:	si .
+*CHI:	0 .
+%act:	agafa un ninot de sota el llit
+*GAV:	mira que ha sortit d' aqui sota .
+*GAV:	que es aixo ?
+*CHI:	a ferran [% "a fedan"] .
+*GAV:	es del ferran , ja ho se que es del ferran , pero quin es aquest monstre ?
+*GAV:	qui es aquest ?
+*GAV:	com se diu ?
+*CHI:	xxx [% "janpol"] .
+*GAV:	com es diu ?
+*CHI:	xxx xxx [% "chupa chuma"] .
+*GAV:	xxx xxx , que vol dir aixo de xxx xxx [% "chupa chuma"] ?
+*GAV:	no se que vol dir aixo .
+*CHI:	0 [=! riu] .
+*CHI:	xxx xxx dormir aqui .
+*GAV:	vols dormir aqui terra ?
+*GAV:	aqui per terra ?
+*CHI:	si .
+*GAV:	com un gosset ?
+*GAV:	aixo vols fer ?
+*CHI:	si .
+*GAV:	pero si aqui no et podem tapar amb la manteta .
+*CHI:	per que ?
+*GAV:	perque et destaparies .
+*GAV:	en canvi al llitet , la mama et lliga una mica amb la manteta i no et destapes , i no tens fred .
+*CHI:	que es aixo [% ensenya el nino a m] ?
+*GAV:	ah , no se .
+*GAV:	el que ?
+*GAV:	aixo son els cabells .
+*CHI:	aixo [% assenyala en el nino] .
+*GAV:	aixo son els cabells [% assenyala en el nino] .
+*CHI:	aixo [% assenyala en el nino] .
+*GAV:	aixo es el front [% assenyala] .
+*GAV:	com tu , que tens el front mes dur que una pedra [% li toca el front] .
+*CHI:	que es aixo [% mira a camera] ?
+*CHI:	ha vingut el nen petit .
+*GAV:	com es diu el nen petit ?
+*CHI:	xandre .
+*GAV:	alexandre .
+*CHI:	alex .
+*GAV:	alex , molt be .
+*GAV:	alex o xandre ?
+*CHI:	no , alex .
+*GAV:	alex o xandre [% ho repeteix mentre li fa pessigolles] .
+*GAV:	vine aqui sardineta [% l' agafa] .
+*GAV:	ale !
+*GAV:	digues bona nit .
+*CHI:	a on es el nen petit ?
+*GAV:	dona'li un petonet al nen petit a la closqueta del capet [% l' acosta al nen que te m en bracos per a que li faci un peto] .
+*CHI:	a mans no ?
+*MAR:	les mans les te aqui amagadetes .
+*MAR:	aqui en te una [% es gira per a que a li vegi una ma al nen] .
+*CHI:	0 .
+%act:	fa un peto a la ma del nen
+*CHI:	ja esta [% "a ta"] .
+@Comment:	enraonen g i m
+*GAV:	0 .
+%act:	posa a a al llit
+*CHI:	un monstre [% "un mon (#) ta"] .
+*CHI:	un monstre [% "un monta"] .
+*GAV:	un monstre , si .
+*CHI:	monstre [% "monta"] .
+*CHI:	un monstre [% "un monsta"] .
+*GAV:	un monstre , un monstre .
+*CHI:	0 .
+%act:	s' estira al llit
+*GAV:	no , el cap te que anar alla [% assenyala l' altra banda del llit] .
+*CHI:	avui aixi [% "avui axis"] .
+*GAV:	el cap te que anar alla .
+*CHI:	tapa'm [% "tapama"] .
+*CHI:	avui aqui .
+@Comment:	enraonen m i e i no se sent el que diu g
+*CHI:	no .
+*INV:	alvar , me'n vaig , eh .
+*GAV:	veus , que se'n va ja .
+*INV:	adeu .
+*CHI:	per que ?
+*INV:	perque te'n vas a dormir tu .
+*GAV:	ella se'n va a casa seva , tu te'n vas a dormir , i l' alexandre tambe , tothom se'n va a dormir .
+@End

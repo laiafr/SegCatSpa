@@ -1,0 +1,1361 @@
+@UTF8
+@PID:	11312/c-00001928-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Caterina Target_Child , MAR mare Mother , AGA agata Sister , BER berto Brother , TAN tania Sister , INV Investigator
+@ID:	spa , cat|Serra|CHI|2;2.24||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|AGA|||||Sister|||
+@ID:	spa , cat|Serra|BER|||||Brother|||
+@ID:	spa , cat|Serra|TAN|||||Sister|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	estan al menjador , c esta buscant uns contes
+*MAR:	corre caterina que esta esperant la magda .
+*MAR:	penses acabar avui ?
+*CHI:	si .
+*MAR:	diga'li adeu al toni .
+*CHI:	adeu .
+*CHI:	m' aguantes els contes [% "m' agantes els contes"] ?
+*CHI:	agafo una cadena .
+*MAR:	no , no .
+*CHI:	aqui .
+@Comment:	no li deixen agafar el que vol
+*CHI:	0 [=! plora] .
+*MAR:	mira que lletja sortiras .
+*MAR:	mira que ha portat la magda .
+*AGA:	fas una carrera amb mi ?
+*AGA:	0 .
+%act:	agafa de la ma a c i corren
+*AGA:	he guanyat .
+*CHI:	mira .
+*AGA:	que es aixo ?
+*MAR:	que es ?
+*CHI:	la magda [% "la manda" , mira a e] .
+*MAR:	a la magda li has d' explicar moltes coses avui .
+*CHI:	els contes .
+*MAR:	els he deixat a la cuina .
+*CHI:	0 .
+%act:	va a buscar els contes
+*AGA:	caterina ensenya'li els esclops a la magda .
+*CHI:	espera [% "apera"] .
+*CHI:	0 .
+%act:	agafa els contes
+*AGA:	ensenya'li els esclops .
+*CHI:	espera [% "apera"] .
+*AGA:	i els escolps catherina ?
+*CHI:	no , no tinc .
+*AGA:	si .
+*MAR:	els has trobat ?
+*CHI:	si .
+*MAR:	els esclops els hi has ensenyat a la magda ?
+*CHI:	no .
+*AGA:	estan aqui .
+*CHI:	estan aqui .
+*AGA:	mira .
+*CHI:	no .
+*CHI:	yo .
+*CHI:	yo [= agafa els esclops] .
+*AGA:	pero li van petits .
+*CHI:	si .
+*CHI:	mira .
+*INV:	ui que bonics que son !
+*AGA:	son d' holanda .
+*INV:	que bonics !
+*CHI:	son d' holanda [% "son landa"] .
+*AGA:	ensenya'ls hi al papa .
+*CHI:	no .
+*INV:	qui te'ls ha portat ?
+*CHI:	el papa i la mama [% "a papa i la mama"] .
+*MAR:	no .
+*MAR:	te'ls ha portat l' agata .
+*CHI:	l' agata .
+*MAR:	ja no te'n recordes ?
+*CHI:	aixo .
+*CHI:	aixo [= mira l' esclop que te a la ma] .
+*CHI:	hay mar [% "hay ma"] .
+*AGA:	i aixo es una caseta [= l' esclop te dibuixos] .
+*CHI:	si .
+*CHI:	una caseta .
+*AGA:	i un moli .
+*CHI:	si .
+*AGA:	si .
+*AGA:	hi ha aigua aqui .
+*AGA:	al mar hi ha un barco .
+*CHI:	si .
+*AGA:	ensenya'li els del papa .
+*CHI:	0 .
+%act:	va a buscar els esclops del papa
+*CHI:	xxx xxx xxx [= corre i no s' enten] .
+*CHI:	vaig a buscar .
+*CHI:	mira .
+*CHI:	de la catherina .
+*INV:	ui !
+*INV:	de qui son aquests tan grans ?
+*CHI:	del papa .
+*MAR:	que son aixo ?
+*CHI:	del papa .
+*MAR:	com se diuen ?
+*MAR:	esclops ?
+*CHI:	si .
+*MAR:	i als teus que els hi passa als teus ?
+*AGA:	els del papa no etan pintats .
+*CHI:	no .
+*AGA:	els de la tania si .
+*CHI:	si .
+*AGA:	pero estan a baix .
+*CHI:	si .
+*MAR:	i els teus que passa ?
+*MAR:	que no et caben ?
+*CHI:	no .
+*AGA:	et van petits .
+*CHI:	em van petits [% "te me va petis"] .
+*CHI:	els del papa si [% "a de papa si"] .
+*CHI:	mira [= fa la intencio de posar'se'ls] .
+*CHI:	si que cap .
+*CHI:	oi [= intenta posar'se els esclops] !
+*CHI:	m' ajudes ?
+*MAR:	d' on t' ho ha portat aixo l' agata ?
+*AGA:	d' holanda .
+*CHI:	si .
+*CHI:	els del papa no estan pintats [% "a de papa no tan pintas"] .
+*CHI:	els de la caterina i de la tania si
+	[% "a la catherina i a tania si"] .
+*CHI:	estan pintats [% "tan pintas"] .
+*MAR:	on son els de la tania ?
+*AGA:	estan a baix .
+*CHI:	estan a baix [% "tan a baix"] .
+*INV:	on a baix ?
+*CHI:	a sota la teva taula [% "a soa a teva taula"] .
+*AGA:	si .
+*CHI:	els de papa em van grans a mi [% "a de papa me va grans a mi"] .
+*CHI:	mira [= camina amb els esclops] .
+*CHI:	oi !
+*AGA:	oi que cauras !
+*CHI:	tut@c tu@c [= camina amb els esclops] .
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	tut@c tut@c .
+*CHI:	uy !
+*CHI:	que t' atropello [% "que t' atopello"] .
+*INV:	que m' atropelles !
+*BER:	que fas ?
+*CHI:	la catherina esta fent de pallassin
+	[% "a catherina ta fent de pallasin"] .
+*BER:	que ?
+*CHI:	esta fent de pallasso [% "ta fent de pallasso"] .
+*BER:	bueno , bueno .
+*INV:	ai , ai !
+*INV:	que m' atropelles !
+*CHI:	si .
+*INV:	no .
+*CHI:	que t' atropello [% "que t' atopello"] .
+*AGA:	no me atropelles .
+*CHI:	la &+cateri +...
+*CHI:	jo caigut .
+*CHI:	aixo [/?] aixo no em van be .
+*CHI:	els del papa no van be .
+*CHI:	que te atropello [% "que te topello"] .
+*INV:	no me atropelles .
+*INV:	no , no , no .
+*INV:	ui que cauras !
+*CHI:	nya@c nya@c nya@c [= va caminant amb els esclops] .
+*CHI:	no veo .
+*CHI:	xxx xxx [= esta d' esquena a la camera] .
+*CHI:	tu@c , tu@c , tu@c [= s' ha tret els esclops] .
+*AGA:	aquestes no es poden posar .
+*CHI:	si [= es torna a posar els esclops] .
+*CHI:	que t' atropello [% "que te tropello"] .
+*INV:	no , no , no , no !
+*CHI:	nyam@c , nyam@c .
+*INV:	que m' atropelles !
+*CHI:	si , si .
+*INV:	no , no .
+*CHI:	nya@c , nyam@c , nyam@c .
+*CHI:	espera .
+*CHI:	ara les de la tania [% "ara le a tania"] .
+*TAN:	no , les meves no .
+*TAN:	que me les faras malbe .
+*CHI:	no .
+*CHI:	tutu@c .
+*CHI:	que t' atropello [% "que te pello"] .
+*CHI:	tu !
+*INV:	que em trepitxes !
+*TAN:	i la tania que ?
+*TAN:	amb quines sabates va ?
+*CHI:	aquestes .
+*TAN:	pues dona'me'les .
+*CHI:	no puc treure .
+*CHI:	treure tambe .
+*CHI:	aquesta tambe .
+*CHI:	no puc treure .
+*TAN:	i els esclops de la catherina que li caben a la tania ?
+*CHI:	no .
+*TAN:	no caben ?
+*CHI:	no .
+*TAN:	como son estos ?
+*TAN:	son pequenyos .
+*CHI:	si .
+*CHI:	me voy a sacar las &+ba +...
+*TAN:	quin color es aquest caterina ?
+*CHI:	ara si [= es treu les bambes] ?
+*CHI:	cap ?
+*TAN:	no , no t' hi cap .
+*TAN:	quin color es aquest ?
+*CHI:	a [/?] a [/?] m' hi cap .
+*TAN:	no t' hi cap .
+*CHI:	<a a> [/?] si <m' hi qui qui> [/?] m' hi cap .
+*TAN:	no t' hi cap .
+*CHI:	ara m' hi cap ?
+*TAN:	que no .
+*CHI:	ara si m' hi cap .
+*TAN:	no t' hi cap .
+*CHI:	veus [= s' ha tret la bamba] .
+*TAN:	mira como no te cabe .
+*TAN:	tozuda [= li posa l' esclop] .
+*CHI:	no ?
+*TAN:	no cabe .
+*CHI:	no .
+*CHI:	ahora esta [% "ora esta" , es treu l' altra bamba] .
+*TAN:	este tampoco cabra .
+*CHI:	si .
+*TAN:	no .
+*TAN:	son igualitos .
+*TAN:	si son igualitos tus pies .
+*TAN:	tampoco cabe .
+*CHI:	ara este .
+*TAN:	mira .
+*TAN:	tampoco cabe .
+*CHI:	no .
+*CHI:	era el otro .
+*TAN:	no .
+*TAN:	es este .
+*TAN:	ves que gira para aqui .
+*TAN:	este no se puede poner aqui .
+*TAN:	no cabe .
+*CHI:	no .
+*CHI:	aqui .
+*TAN:	no cabe .
+*CHI:	no .
+*TAN:	no cabe .
+*CHI:	no .
+*TAN:	te gustan ?
+*CHI:	si .
+*TAN:	como son ?
+*TAN:	grandes , medianos o pequenyos ?
+*CHI:	pequenyos [% "pecanyos"] .
+*CHI:	pequenyos .
+*TAN:	y estos [= assenyala els del pare] ?
+*CHI:	grandes [% "gandes"] .
+@Comment:	tall a la cinta , un parell de frames
+*CHI:	a ver si me cabe [% "a ve si mi cabe"] .
+*TAN:	no te cabe .
+*CHI:	si .
+*CHI:	no me cap .
+*CHI:	mira [= es posa el seu esclop] .
+*CHI:	mira .
+*TAN:	pero asi no los puedes llevar .
+*CHI:	no .
+*CHI:	asi no me cap .
+*CHI:	el meu no me cap [% "el men no mi cap"] .
+*CHI:	eh que no ?
+*CHI:	a mi me poso les &+saba +...
+*TAN:	esta va aqui .
+*CHI:	no .
+*TAN:	yo no te la pongo .
+*CHI:	si .
+*CHI:	xxx xxx papa [= es torna a posar els esclops del pare] .
+*TAN:	volveras a caer .
+*CHI:	no .
+*TAN:	cuidado .
+*CHI:	ti@c ti@c .
+*CHI:	que te atropello [% "que te topello"] .
+*INV:	no !
+*CHI:	si .
+*INV:	no , no , no !
+*TAN:	si l' atropelles no et podra fer la pelicula .
+*CHI:	no .
+*TAN:	veus .
+*TAN:	esta filmant'te .
+*CHI:	no .
+*CHI:	no vol fer la pelicula [% "no vol fer la pelica"] .
+*TAN:	la pelicula no [% "la pelica no"] .
+*TAN:	la pelicula .
+*CHI:	la pelicula [% "la pelicua"] .
+*TAN:	pelicula .
+*CHI:	xxx [% "patutu"] .
+*TAN:	xxx tampoc [% "patutu tampoc"] .
+*TAN:	pelicula .
+*CHI:	pelicula [% "pelicua"] .
+*TAN:	pelicula .
+*CHI:	atropello a la mama [% "atopello a la mama"] .
+*TAN:	a la mama vols atropellar ?
+*CHI:	si .
+*TAN:	pobre mama .
+*CHI:	no .
+*TAN:	no es pobre la mama ?
+*CHI:	si .
+*CHI:	que te atropello [% "que ti topello"] .
+*CHI:	jo vaig xxx a la mama .
+*CHI:	espera't [% "apera't"] .
+*CHI:	si no t' atropello [% "si no te topello"] .
+*CHI:	yo no puedo xxx .
+*TAN:	caterina vine .
+*TAN:	vine .
+*CHI:	que no .
+*CHI:	que yo atropello a la mama [% "que yo pello a la mama"] .
+*TAN:	vine .
+*CHI:	que quieres [% "que quiere"] ?
+*CHI:	que yo atropello a la mama [% "que yo topello a la mama"] .
+*MAR:	caterina .
+*MAR:	has vist com ha apres a girar .
+*MAR:	com si sigues un barco .
+*CHI:	mira quin barco [% "mia quin baco"] .
+*MAR:	eh que semblem barcos aquest zuecos ?
+*CHI:	tutu@c tutu@c tutu@c [= camina amb els esclops] .
+*MAR:	ja li has cantat alguna canco a la magda ?
+*MAR:	li cantem una canco ?
+*CHI:	si .
+*MAR:	li cantem la canco del pare no te pa ?
+*CHI:	no .
+*MAR:	quan el pare no te +...
+*CHI:	pa .
+*CHI:	espera't [% "apera't"] .
+*MAR:	treiem els zuecos que fan molt soroll per poder cantar .
+*CHI:	si [= se'ls treu] .
+*MAR:	portem'los alla ?
+*CHI:	no .
+*CHI:	aqui .
+*MAR:	alla amb els teus .
+*CHI:	aqui .
+*CHI:	aqui me'ls poso [% "aqui me'ls posi"] .
+*MAR:	que no deies que anavem a cantar ?
+*CHI:	pero la caterina posare el peu .
+*MAR:	pero val mes que els guardis alla .
+*CHI:	alla ?
+*MAR:	si .
+*MAR:	que fant molt de soroll .
+*CHI:	si .
+*MAR:	eh que fant molt de soroll ?
+*CHI:	si .
+*MAR:	una altra vegada te'ls tens que posar ?
+*CHI:	xxx xxx .
+*CHI:	un cop [= es tomba un esclop i fa soroll] .
+*CHI:	ha fet un soroll [% "ha fe un soroll"] .
+*CHI:	0 .
+%act:	es posa els esclops i pica l' un amb l' altre
+*MAR:	pero aixi es trencaran i es petaran .
+*CHI:	no .
+*MAR:	no ?
+*CHI:	ui [= pica amb els esclops] !
+*CHI:	ja esta [= se'ls treu] .
+*MAR:	ara anem a veure els teus zuecos ?
+*CHI:	espera't .
+*MAR:	que tinc que esperar ?
+*CHI:	on estan els zuecos de la caterina
+	[% "on esta a ueco de a caterina"] ?
+*CHI:	on estan ?
+*MAR:	el que ?
+*CHI:	els <&+me a> [/?] a catherina .
+*MAR:	els zuecos ?
+*CHI:	si .
+*MAR:	on els has guardat abans ?
+*INV:	aqui .
+*MAR:	mira .
+*MAR:	al costat de les teves sabates i de la baldufa .
+*MAR:	i aquesta baldufa ?
+*MAR:	que es ?
+*CHI:	mira .
+*MAR:	a veure com balla .
+*CHI:	te [= li dona la baldufa a m] .
+*MAR:	que la saps fer ballar tu la baldufa ?
+*CHI:	no .
+*MAR:	aquesta no va a ballet com la tania .
+*MAR:	eh que no ?
+*CHI:	no .
+*MAR:	que balla la tania ?
+*CHI:	0 .
+%act:	es mou com si balles
+*MAR:	aixi balla la tania ?
+*CHI:	amb les mans [% "amb la mans"] .
+*MAR:	amb les mans tambe balla la tania ?
+*CHI:	no .
+*MAR:	com se diu la senyoreta que ensenya a ballar a la tania ?
+*CHI:	jo tambe vull ballar amb la tania .
+*MAR:	alla amb la maria angeles ?
+*CHI:	si .
+*MAR:	o amb la silvia ?
+*CHI:	no .
+*MAR:	amb qui vols ballar ?
+*CHI:	0 .
+%act:	s' intenta posar les bambes
+*MAR:	aqui va aquesta bamba ?
+*MAR:	tu creus que va aqui aquesta bamba ?
+*CHI:	no .
+*MAR:	ah !
+*CHI:	es aquesta [= es posa la bamba al peu correcte] .
+*MAR:	va corda .
+*CHI:	mira .
+*CHI:	mira [= li allarga el peu amb la bamba mig posada] .
+*MAR:	costen de posar quan no les obres del tot .
+*MAR:	va corda .
+*MAR:	quantes n' hi ha aqui de coses per cordar ?
+*CHI:	uno .
+*CHI:	dos .
+*CHI:	tres .
+*MAR:	no m' enganyis .
+*CHI:	aquest .
+*MAR:	no m' enganyis .
+*MAR:	quantes n' hi ha ?
+*CHI:	una , dos , tres .
+*MAR:	tres no .
+*MAR:	no m' enganyis .
+*MAR:	quants anys tens tu ?
+*CHI:	0 .
+%act:	posa dos dits
+*MAR:	quants son aquests ?
+*CHI:	uno , dos , tres .
+*MAR:	tu tienes tres anyos ?
+*CHI:	0 .
+%act:	posa cinc dits
+*CHI:	uno , dos , tres , tres i tres .
+*MAR:	no , m' enganyes .
+*MAR:	cuantos tienes tu de anyos ?
+*CHI:	asi [= posa dos dits] .
+*MAR:	cuantos son estos ?
+*CHI:	uno , dos i tres .
+*MAR:	no .
+*MAR:	no me enganyes .
+*CHI:	uno pequenyito .
+*CHI:	otro grande [% "oto gande"] .
+*MAR:	y cuantos son uno y uno ?
+*CHI:	0 .
+%act:	posa dos dits
+*MAR:	uno y uno ?
+*CHI:	dos .
+*MAR:	ah !
+*MAR:	a la ma en tenim mes de dits .
+*CHI:	si .
+*MAR:	cuantos tenemos en la mano ?
+*MAR:	cuentalos .
+*CHI:	uno , dos , tres , cinco , tres i cuatro
+	[% "uno do te inco te y ato"] .
+*MAR:	eres un trasto .
+*CHI:	tu , tu .
+*MAR:	corda't la bamba .
+*CHI:	aixi .
+*MAR:	si , aixi .
+*MAR:	i l' altra tambe .
+*CHI:	no .
+*CHI:	mira .
+*CHI:	no es aixi .
+*MAR:	no ?
+*CHI:	no .
+*MAR:	t' ajudo un poquito ?
+*CHI:	si .
+*CHI:	ara l' altra [% "ara la lata"] .
+*MAR:	ja esta .
+*MAR:	que t' ha passat amb els zuecos ?
+*MAR:	que no et caben .
+*MAR:	eh que no ?
+*CHI:	no .
+*CHI:	a veure si em cap [% "a ve si me cap"] .
+*CHI:	no em cap [% "no me cap"] .
+*MAR:	no cabe .
+*CHI:	no .
+*CHI:	a veure si em cap [% "a ve si me cap"] .
+*CHI:	no .
+*CHI:	a veure aquesta [% "a ve aquesta" , es vol treure la bamba] .
+*MAR:	no .
+*MAR:	ni aquesta ni l' altra .
+*MAR:	no caben .
+*MAR:	no te la treguis .
+*MAR:	que si no no donara temps de cantar una miqueta .
+*MAR:	i tenim ganes de cantar tu i jo .
+*CHI:	si .
+*MAR:	que avui no hem cantat quan veniem en el cotxe .
+*CHI:	quan el pare no te pa .
+*MAR:	que fa ?
+*MAR:	quan el pare no te pa la canalla la +/.
+*CHI:	espera [% "apera"] .
+*CHI:	calla .
+*CHI:	que xxx xxx .
+*CHI:	mira [= assenyala la bamba] .
+*CHI:	m' has posat be ?
+*MAR:	oh si tu el treus i el poses malament !
+*MAR:	va , cantem ?
+*CHI:	si el pare no te pa [= canta] .
+*CHI:	la canalla [% "la gavalla" , canta] .
+*CHI:	si el pare no te pa .
+*CHI:	la canalla , la canalla [% "la gavanya , la cabanya"] .
+*CHI:	fa dormir .
+*MAR:	ja m' estas enredant .
+*CHI:	no .
+*CHI:	0 [= continua cantant] .
+*CHI:	la canalla , la canalla [% "la cabanya , la cabanya"] .
+*MAR:	fa ?
+*MAR:	ballar .
+*CHI:	ballar .
+*MAR:	i quan es que el fa dormir ?
+*MAR:	quan el pare no te +...
+*CHI:	pa .
+*MAR:	vi .
+*CHI:	vi .
+*MAR:	ahir ho canviaves tambe .
+*MAR:	<quan el pare no te vi> [>] .
+*CHI:	<quan el pare no te pa> [<] .
+*CHI:	vi .
+*MAR:	que fa ?
+*CHI:	fa dormir .
+*MAR:	si ?
+*CHI:	si .
+*CHI:	0 [= canta] .
+*MAR:	la canalla fa ?
+*CHI:	ballar .
+*MAR:	la del julivert , te'n recordes ?
+*CHI:	no .
+*MAR:	com que no !
+*MAR:	les nenes .
+*CHI:	maques al demati .
+*CHI:	s' alcen i regen el seu jardi .
+*CHI:	jo tambe rego el meu hortet .
+*MAR:	fabes .
+*CHI:	i pessols i julivert [% "i peso i julivet"] .
+*CHI:	ara que mes ?
+*MAR:	julivert meu .
+*CHI:	com ha quedat .
+*CHI:	sense cap fulla i el cap pelat [% "senta cap fulla i el cap pelat"]
+	.
+*MAR:	molt be .
+*MAR:	i quina es l' altra que tambe ens agrada ?
+*CHI:	el de plou i fa sol [% "el de plo i fa sol"] .
+*MAR:	el del plou i fa sol ?
+*CHI:	si .
+*MAR:	va .
+*CHI:	mira el plou i fa sol [% "mia el pol i fa sol"] .
+*MAR:	ara ni plou ni fa sol .
+*CHI:	no ?
+*MAR:	ara no .
+*MAR:	ara es fosc .
+*MAR:	qui surt ara ?
+*CHI:	la lluna .
+*MAR:	la lluna .
+*CHI:	i no sol .
+*MAR:	no hi ha sol .
+*CHI:	ara la lluna .
+*CHI:	m' agrada [% "m' alada"] .
+*MAR:	t' agrada ?
+*CHI:	si .
+*MAR:	i com es la canco de la lluna ?
+*CHI:	el pare no .
+*MAR:	cantem la lluna ?
+*CHI:	si .
+*CHI:	mira [= s' apropa a la finestra] .
+*MAR:	em sembla que encara no ha sortit .
+*CHI:	que n' hi ha [% "a hi ha"] ?
+*MAR:	em penso que esta amagada .
+*CHI:	si .
+*MAR:	la cantem a veure si ve ?
+*CHI:	si .
+*MAR:	canta'la .
+*CHI:	aqui sentada [= seu al terra] .
+*CHI:	la lluna vestida de dol [% "la lluna tila de dal"] .
+*CHI:	son pare la crida [% "son pare la quida"] .
+*CHI:	sa mare no vol .
+*CHI:	un pam .
+*CHI:	tres pams .
+*CHI:	cinc pams .
+*MAR:	i dema que sortira ?
+*CHI:	el sol .
+*MAR:	el sol .
+*MAR:	i quina canco li cantaras ?
+*MAR:	plou .
+*CHI:	plou .
+*MAR:	i ?
+*CHI:	fa sol .
+*MAR:	no !
+*MAR:	ara ens hem enredat .
+*MAR:	el que cantem per a que faci bon dia es el sol solet .
+*CHI:	si .
+*MAR:	com es el sol solet ?
+*CHI:	sol solet vine'm a veure .
+*CHI:	vine'm a veure .
+*CHI:	sol solet vine'm a veure .
+*CHI:	tu senta alla .
+*MAR:	jo m' asec alla ?
+*CHI:	hi ha moltes coses [% "hi ha motal coses"] .
+*MAR:	hi ha moltes coses , si .
+*MAR:	pero encara hi cap la mama .
+*MAR:	a pesar de que te el pompis gros .
+*CHI:	si .
+*CHI:	aqui si .
+*MAR:	i llavors +/.
+*CHI:	la lluna vestida de dol .
+*CHI:	son pare la crida .
+*CHI:	sa mare no vol .
+*CHI:	un pam .
+*CHI:	tres pams [% "tre pams"] .
+*MAR:	quatre pams , cinc pams .
+*CHI:	cinc pams .
+*MAR:	i saps quina es aquella que a la mama li agrada molt i no se la sap
+	i li ensenyes tu ?
+*CHI:	quina ?
+*MAR:	aquella que t' ensenya la senyoreta judit dels gats .
+*MAR:	com era ?
+*MAR:	don ?
+*MAR:	com era ?
+*CHI:	don meliton tenia tres gatos que los hacia bailar en un plato
+	[% "don meliton tenia te gato que los hacia lar en un pato"] .
+*CHI:	que los hacia bailar en un plato
+	[% "que los hacia balar en un pato"] .
+*CHI:	que los hacia bailar en un plato
+	[% "que los hacia balar en un pato"] .
+*MAR:	que t' has rallat el disco ?
+*CHI:	tu .
+*MAR:	i com acaba la canco ?
+*MAR:	i per la noche que passava ?
+*CHI:	que los hacia (.) bailar en un plato
+	[% "que los hacia balar en un pato"] .
+*CHI:	i por la noche les daba turron .
+*CHI:	que viva los gatos de don meliton .
+*MAR:	aquesta me l' ha ensenyat la caterina .
+*MAR:	eh que me l' has ensenyat tu ?
+*CHI:	si .
+*MAR:	i encara n' hi ha una altra que m' has ensenyat tu .
+*CHI:	espera [= dona tombs sobre si mateixa] .
+*MAR:	la senyoreta judit te n' ensenya moltes de cancons .
+*CHI:	si .
+*MAR:	i la tania .
+*CHI:	si .
+*MAR:	i l' agata .
+*CHI:	mira [= continua donant tombs] .
+*MAR:	que fas ?
+*CHI:	voltes .
+*MAR:	tambe balles com els gats ?
+*CHI:	si .
+*MAR:	fas voltes ?
+*CHI:	si .
+*MAR:	i tambe saltes ?
+*CHI:	no .
+*CHI:	espera .
+*MAR:	i al cole com la fas la gimnasia ?
+*CHI:	0 .
+%act:	s' aixeca i camina de puntetes
+*MAR:	aixi de puntetes ?
+*CHI:	oi [= ha xocat amb els socs] !
+*MAR:	xoques amb els zuecos .
+*CHI:	xxx xxx atropellar [% "xxx xxx atopellar"] .
+*MAR:	aixi de puntetes fas la gimnasia ?
+*CHI:	si .
+*MAR:	i que mes fas ?
+*CHI:	i [/?] i corria .
+*MAR:	corries i que mes ?
+*CHI:	feiem aixi .
+*MAR:	vine cap aqui .
+*MAR:	vine .
+*CHI:	aixi corria .
+*MAR:	aixi corries ?
+*CHI:	si .
+*MAR:	a veure com entres .
+*CHI:	els xxx [= entra amb els socs] .
+*CHI:	del papa .
+*MAR:	zuecos .
+*CHI:	te [= els dona a m] .
+*MAR:	els guardo jo ?
+*CHI:	si .
+*MAR:	com se'n diu d' aixo ?
+*CHI:	zuecos .
+*MAR:	els de la caterina els posem dins dels del papa .
+*CHI:	si .
+*MAR:	quants n' hi ha aqui .
+*MAR:	vine que els contarem .
+*MAR:	contem quants en tenim aqui ?
+*CHI:	si .
+*MAR:	quants ens tenim a veure ?
+*CHI:	uno , dos , tres , cinco , siete i ocho
+	[% "uno dos te cinco sete oto"] .
+*MAR:	em penso que n' enredes .
+*MAR:	despres del tres quin ve ?
+*MAR:	uno .
+*CHI:	uno .
+*MAR:	dos .
+*CHI:	dos .
+*CHI:	tres i cuatro [% "te i cato"] .
+*MAR:	i despres del cuatro ?
+*MAR:	cinco .
+*CHI:	cinco .
+*CHI:	tres , siete , ocho i nueve [% "te sete oto i nueve"] .
+*MAR:	y despres del nueve ?
+*CHI:	el doce .
+*MAR:	no , primero viene el diez y el once .
+*MAR:	y despues donde llegamos ?
+*MAR:	donde vives tu ?
+*CHI:	alla arriba [% "alla riba"] .
+*MAR:	cuando tocas en el ascensor , que numero tocas ?
+*MAR:	el ?
+*CHI:	el numero .
+*MAR:	que numero tocas ?
+*CHI:	este [= toca amb el dit a terra] .
+*MAR:	el de arriba de todo ?
+*CHI:	xxx .
+*MAR:	pero como se llama ?
+*MAR:	quince .
+*CHI:	0 .
+%act:	comenca a donar tombs sobre ella mateixa
+*MAR:	que fas la pallassa ?
+*CHI:	si .
+*CHI:	no .
+*MAR:	no fas la pallassa ?
+*CHI:	no .
+*MAR:	quan feies la pallassa ?
+*MAR:	l' altre dia a la taula .
+*CHI:	aixi [= es posa la ma a la boca] .
+*MAR:	aixi feies l' altre dia a la taula perque tothom ries .
+*CHI:	si .
+*MAR:	com ho feies ?
+*CHI:	el papa reia [% "el papa rieu"] .
+*MAR:	el papa reia .
+*CHI:	aixi reia [= riu] .
+*CHI:	i jo fent el pallasso (.) a la taula .
+*MAR:	i quan estem tristos que fem ?
+*MAR:	riem ?
+*CHI:	si .
+*MAR:	no .
+*MAR:	no m' enganyis .
+*CHI:	si .
+*MAR:	que fem quan estem tristos ?
+*MAR:	ho vas mirar al conte del tobogan .
+*MAR:	que deien al conte del tobogan ?
+*MAR:	ploraven ?
+*CHI:	no [= agafa el conte] .
+*MAR:	que feien ?
+*CHI:	caterina [% "a te rina" , llegeix el conte] .
+*MAR:	caterina hi posa aqui ?
+*CHI:	aquesta es la caterina .
+*MAR:	aquesta es la caterina .
+*MAR:	i aquesta nena com se diu ?
+*CHI:	pepa .
+*MAR:	i el seu gat ?
+*CHI:	missi .
+*MAR:	i el seu germa ?
+*CHI:	manolo .
+*MAR:	i aqui va prendre que ?
+*CHI:	mira quin ratolins .
+*MAR:	s' han amagat .
+*MAR:	s' han disfressat de ratolins ?
+*CHI:	si .
+*CHI:	mira .
+*MAR:	que tenen ?
+*CHI:	mira .
+*MAR:	que tenen ?
+*MAR:	aixo ?
+*CHI:	xxx mira .
+*MAR:	que tenen aqui ?
+*MAR:	que s' han posat en el cap ?
+*MAR:	unes orelles ?
+*CHI:	si .
+*MAR:	i que mes s' han enganxat ?
+*CHI:	una cua .
+*MAR:	una cua per a disfressar'se de ratolins ?
+*CHI:	si .
+*MAR:	i per que s' han disfressat de ratolins ?
+*MAR:	ho posa aqui ?
+*CHI:	ratolins [% "la to lins" , com si llegis"] .
+*MAR:	em sembla que n' enredes .
+*MAR:	aqui hi posa raton .
+*CHI:	raton [% "laton"] .
+*CHI:	mira .
+*CHI:	xxx ratolins [% "mira xxx latolins"] .
+*MAR:	aixo es un raton .
+*MAR:	perque aquest llibre parla en castellano .
+*CHI:	aqui raton [% "aqui laton"] .
+*MAR:	un raton .
+*CHI:	aqui .
+*MAR:	tiene orejas .
+*CHI:	si .
+*CHI:	i aqui ?
+*MAR:	aqui dos colitas con dos lazos .
+*MAR:	dice saltan arriba .
+*MAR:	corren un rato .
+*MAR:	ves ?
+*MAR:	se ha subido no se donde .
+*MAR:	a ver si se cae .
+*MAR:	como los ratones .
+*CHI:	si .
+*MAR:	que llegan hasta las puntitas .
+*CHI:	xxx .
+*CHI:	mira .
+*MAR:	mira pepa es una rata .
+*MAR:	i manolo un raton .
+*MAR:	como pepa es una ninya es una rata .
+*MAR:	manolo como es un ninyo <se ha> [>] disfrazado de raton .
+*CHI:	<la rata> [<] [% "la lata"] .
+*MAR:	pepa .
+*CHI:	pepa se disfraza de rata [% "pepa se diplata la lata"] .
+*MAR:	de rata .
+*MAR:	y manolo ?
+*CHI:	manolo .
+*MAR:	manolo de que se ha disfrazado ?
+*CHI:	de raton [% "de laton"] .
+*MAR:	y llevan un rabo .
+*CHI:	si .
+*MAR:	y mira aqui ademas llevan un sombrero .
+*CHI:	no .
+*MAR:	un gorro .
+*MAR:	como el del dia del cumpleanyos de caterina .
+*CHI:	no .
+*MAR:	no te hicieron una corona ?
+*CHI:	aixo es la corona .
+*MAR:	esto es una corona claro .
+*MAR:	no es un gorro .
+*CHI:	no .
+*MAR:	no es una corona .
+*CHI:	mira [= passa full] .
+*CHI:	mira .
+*MAR:	aqui que son ?
+*CHI:	els ratolins [% "a latolins"] .
+*MAR:	estan els ratolins aqui ?
+*CHI:	si .
+*CHI:	de qui es aquesta cua ?
+*MAR:	em penso que es del gat que s' ha amagat aqui radera .
+*MAR:	mira [= passa full] .
+*MAR:	veus .
+*MAR:	s' ha amagat aqui i s' ha deixat la cua a la pagina anterior .
+*CHI:	mira .
+*CHI:	de qui es [% "a qui es"] ?
+*MAR:	de qui es la cua ?
+*CHI:	la missi .
+*MAR:	la missi no .
+*MAR:	el missi .
+*MAR:	que mes te el missi ?
+*MAR:	amb qui juga ?
+*MAR:	no s' ha disfressat el missi .
+*CHI:	no .
+*CHI:	no s' ha disfressat [% "no s' ha diprassat"] .
+*MAR:	no .
+*CHI:	no te orejas .
+*MAR:	no te orejas de raton .
+*CHI:	no .
+*CHI:	mira <el &+ore> [/?] el raton .
+*CHI:	mira .
+*MAR:	las orejas del raton .
+*CHI:	si mira .
+*MAR:	hay orejas de raton .
+*MAR:	orejas de burro .
+*CHI:	mira .
+*MAR:	si .
+*CHI:	la pepa .
+*CHI:	se ha disfrazado [% "s' ha diprasado"] .
+*MAR:	y tambien se ha puesto bigotes .
+*CHI:	si .
+*CHI:	bigotes .
+*MAR:	como los del tio .
+*MAR:	quien lleva bigote ?
+*CHI:	el tiet .
+*MAR:	que tiet ?
+*CHI:	tu tens esto [% "tu te esto" , es toca la cella] .
+*MAR:	yo tengo esto .
+*CHI:	i els meus [% "i e meus"] .
+*MAR:	els teus tambe .
+*MAR:	esto como se llama ?
+*MAR:	lo hemos aprendido hoy .
+*MAR:	cejas .
+*CHI:	mira aqui .
+*CHI:	mira , mira el manolo .
+*CHI:	xxx xxx xxx .
+*MAR:	que hace ?
+*CHI:	xxx l' avion [% "xxx la bayon"] .
+*MAR:	que es la xxx [% "que es la bayon"] ?
+*CHI:	esto [= assenyala al conte] .
+*MAR:	esto es un avion ?
+*CHI:	si .
+*MAR:	me parece que es un hueso .
+*CHI:	un hueso .
+*CHI:	s' ha amagat la cua [% "ta magat la cua"] .
+*MAR:	on s' ha amagat la cua ?
+*CHI:	aqui .
+*MAR:	explica'li a la magda .
+*CHI:	mira [= ensenya el conte a e] .
+*CHI:	mira .
+*INV:	que ha passat ?
+*CHI:	<a que> [/?] s' ha escapat la cua [% "s' ha capat la cua"] .
+*INV:	s' ha amagat la cua ?
+*CHI:	si .
+*INV:	a on ?
+*CHI:	<a a> [/?] aqui .
+*CHI:	aqui .
+*CHI:	xxx xxx xxx xxx .
+*MAR:	explica'li tu .
+*MAR:	explica'li .
+*CHI:	mira .
+*CHI:	mira .
+*INV:	que m' ensenyes ?
+*CHI:	mira .
+*INV:	a veure .
+*CHI:	mira .
+*CHI:	espera .
+*CHI:	que m' asento .
+*CHI:	mira .
+*CHI:	el manolo [% "el malolo"] .
+*CHI:	xxx aquest manolo .
+*CHI:	mira .
+*INV:	qui es ?
+*CHI:	la pepa .
+*INV:	la pepa ?
+*CHI:	i el manolo [% "malolo"] .
+*INV:	i el manolo ?
+*CHI:	si .
+*CHI:	la caterina esta explicant el conte a la magda
+	[% "la caterina ta plicant el conte a la mada"] .
+*CHI:	mira .
+*CHI:	aquesta xxx la cua .
+*BER:	aixo es la cua .
+*CHI:	si .
+*CHI:	que es esto ?
+*CHI:	aixo es per agafar la pilota .
+*CHI:	0 .
+%act:	passa fulls de conte
+*BER:	m' expliques mes coses ?
+*CHI:	si .
+*CHI:	mira .
+*BER:	a veure .
+*BER:	explica'm .
+*CHI:	no .
+*CHI:	a la magda [% "a la mada"] .
+*BER:	ah a la magda !
+*BER:	a mi ja m' ho has explicat moltes vegades , veritat ?
+*CHI:	si .
+*CHI:	<i i i> [/?] i
+	[= esta buscant uns contes que b a agafat al seure a la butaca] +...
+*BER:	aqui estan .
+*CHI:	i xxx estava allo .
+*CHI:	mira .
+*BER:	estas molt bruta .
+*CHI:	mira .
+*CHI:	mira que bruta [= es toca el genoll] .
+*BER:	i per que estas tan bruta ?
+*CHI:	perque si .
+*BER:	perque si no es cap rao .
+*CHI:	la bamba tambe s' ha embrutat .
+*BER:	les bambes tambe s' embruten , si .
+*CHI:	si .
+*BER:	la mama tenia mal de cap al cotxe ?
+*CHI:	si .
+*BER:	i que es dona pel mal de cap ?
+*CHI:	la medicina .
+*BER:	quina medicina ?
+*CHI:	la de la mama .
+*BER:	que es ?
+*BER:	un xerop o una pastilla ?
+*CHI:	0 .
+%act:	va a buscar a m
+*BER:	no , no hi vagis .
+*BER:	ja la te .
+*BER:	ja l' ha pres abans .
+*BER:	explica'li a la magda .
+*CHI:	no .
+*BER:	explica'li a la magda .
+*CHI:	no .
+*BER:	no ?
+*CHI:	no .
+*CHI:	en menja una .
+*BER:	una que ?
+*BER:	una medicina ara ?
+*CHI:	si .
+*BER:	no .
+*BER:	ja se l' ha pres la mama abans .
+*CHI:	no .
+*BER:	quan ha arribat a casa s' ha pres una que ?
+*CHI:	<jo (.) > [/?] jo vull donar (.) una medicina a la mama .
+*BER:	ja li donaras depres de sopar .
+*BER:	i que es pren ?
+*BER:	un xerop ?
+*BER:	o una +...
+*BER:	que es allo que es pren la mama ?
+*CHI:	si .
+*BER:	una &+as +...
+*BER:	una que ?
+*CHI:	ja esta [= ha fullejat el conte] .
+*CHI:	te .
+*CHI:	aqui [= deixa el conte amb els altres] .
+*CHI:	aqui .
+*CHI:	aqui xxx .
+*BER:	saps que es aixo catherina ?
+*CHI:	que es aixo ?
+*BER:	saps que es aixo [= li ensenya un disquet d' ordinador] ?
+*BER:	un &+dis +...
+*CHI:	un &+dis +...
+*BER:	disco .
+*CHI:	disco .
+*BER:	aixo es posa a l' ordinador .
+*CHI:	mira .
+*CHI:	com se diu &+ai +...
+*CHI:	com se diu ?
+*CHI:	mira [= li ensenya un conte] .
+*CHI:	mira esto .
+*CHI:	mira .
+*BER:	aixo es la mama .
+*CHI:	si .
+*BER:	amb dos nenes que porten paquets .
+*CHI:	si .
+*CHI:	paquet [% "pacat"] .
+*CHI:	mira .
+*CHI:	mira paquet .
+*BER:	els porten als bracos .
+*CHI:	si .
+*BER:	han comprat coses .
+*CHI:	si .
+*CHI:	han comprat coses .
+*CHI:	mira magda [% "mira manda"] .
+*INV:	qui es ?
+*CHI:	el manolo [% "el malolo"] .
+*INV:	el manolo ?
+*CHI:	la pepa i la mama .
+*CHI:	que te paquet mira .
+*CHI:	el paquet .
+*CHI:	este grande <i este &+pe> [/?] i este pequenyito .
+*CHI:	i &+est +...
+*CHI:	aquest es la mama .
+*CHI:	entonces [= passa full] .
+*CHI:	esto mira .
+*CHI:	mira .
+*CHI:	se acabo [% "s' acabo"] .
+*INV:	s' ha acabat ja ?
+*CHI:	ja esta .
+*BER:	tu et quedes aqui explicant cuentos a la magda , no ?
+*CHI:	si .
+*CHI:	ara vindra la sopa [% "a vinga la sopa" , obre un conte] .
+*BER:	molt be .
+*CHI:	mira .
+*INV:	mi sopa .
+*CHI:	mira .
+*CHI:	a mi sopa .
+*CHI:	mi (.) sopa .
+*CHI:	mi .
+*CHI:	s' ha caigut la sopa .
+*INV:	s' ha caigut ?
+*CHI:	si .
+*INV:	qui l' ha tirat ?
+*CHI:	la pepa .
+*INV:	la pepa ?
+*CHI:	si .
+*INV:	i s' ha cremat ?
+*CHI:	si .
+*INV:	s' ha cremat ?
+*CHI:	no .
+*INV:	no , no s' ha cremat .
+*CHI:	no .
+*INV:	perque no li ha caigut a sobre , no ?
+*CHI:	no .
+*INV:	on ha caigut ?
+*CHI:	aqui [= assenyala el conte] .
+*INV:	aqui a on ?
+*INV:	al terra ?
+*CHI:	si .
+*INV:	i que mes ?
+*CHI:	jo tinc un xerop .
+*INV:	tu tens un xerop ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	per que ?
+*CHI:	<perque m' ha &+com> [/?] perque m' ha regalat l' agata
+	[% "perque m' ha galat l' agata"] .
+*INV:	te l' ha donat l' agata ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	d' on te l' ha portat ?
+*CHI:	<de a a> [/?] ha donat a la <&+cat> [/?] caterina , meu .
+*CHI:	s' acabat .
+*INV:	s' acabat aquest ?
+*INV:	vas molt rapid eh !
+*CHI:	si .
+*INV:	quin m' expliques ara ?
+*CHI:	aquest , mira .
+*INV:	aquest quin es ?
+*CHI:	d' un que se'n va al col'legi .
+*INV:	d' un nen que se'n va al cole ?
+*CHI:	si .
+*INV:	si ?
+*INV:	i com es diu ?
+*CHI:	manolo .
+*INV:	el manolo ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	que es el germanet <de la pepa> [>] el manolo ?
+*CHI:	germa [<] .
+*CHI:	colegio .
+*INV:	<es el germa> [>] de la pepa ?
+*CHI:	<que no atropella> [<] el cotxe [% "que no atopella el cotxes"] .
+*INV:	eh ?
+*CHI:	que no t' atropelli el cotxe [% "que no t' atopelli el cotxe"] .
+*INV:	ah !
+*INV:	que no els atropellin els cotxes quan van al cole .
+*CHI:	no .
+*INV:	clar que no .
+*INV:	la mare els hi diu que no us atropellin els cotxes .
+*CHI:	mira .
+*CHI:	se'n va al colegio .
+*CHI:	se'n va a &+co +...
+*CHI:	iba yo a seva mama .
+*CHI:	el paquet ha deixat .
+*CHI:	el paquet s' ha deixat .
+*INV:	que ha passat ?
+*CHI:	el paquet s' ha deixat .
+*CHI:	<el &+mano> [/?] la pepa .
+*CHI:	<i i> [/?] i ara este .
+*CHI:	on estas cotxes [= passa full] ?
+*CHI:	mira .
+*CHI:	l' autobus [% "l' atubus"] .
+*CHI:	l' autobus [% "l' atubus"] .
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	ja xxx [= sona com "cantat"] .
+*INV:	canten ?
+*CHI:	no .
+*INV:	que fan ?
+*CHI:	xxx .
+*CHI:	i arriba el manolo [% "malolo"] .
+*INV:	ha arribat el manolo ?
+*CHI:	si .
+*INV:	a on ?
+*CHI:	al cole .
+*INV:	i la pepa ?
+*CHI:	no .
+*INV:	la pepa no ha arribat ?
+*CHI:	mira .
+*INV:	no hi es la pepa ?
+*CHI:	si .
+*INV:	on esta ?
+*CHI:	mira .
+*CHI:	<el &+me> [/?] el &+manol +...
+*CHI:	i aquest el manolo tambe [% "malolo"] .
+*CHI:	ja esta .
+*CHI:	mira .
+*CHI:	caterina , caterina .
+*CHI:	se acabo [% "se cabo"] .
+*INV:	se acabo .
+*CHI:	ara aqui .
+*CHI:	no cal amagar'lo [% "no cal amaga'l"] .
+*CHI:	me'l poses alla ?
+*INV:	te'ls poso jo alla ?
+*CHI:	aqui .
+*INV:	perque no es caiguin ?
+*INV:	on vols que els posi ?
+*CHI:	alla .
+*CHI:	perque no se caiguin .
+*INV:	aqui ?
+*CHI:	mira [= obre un altre conte] .
+*CHI:	esta pintant [% "sa pintant"] .
+*CHI:	esta pintant .
+*CHI:	la xxx i el manolo .
+*CHI:	xxx el manolo .
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	mira .
+*INV:	qui es ?
+*CHI:	aixo .
+*INV:	que es aixo ?
+*CHI:	un clip [% "un quic"] .
+*CHI:	aixo es un clip [% "aixo es un quic"] .
+*INV:	un clip ?
+*CHI:	si .
+*INV:	pels cabells ?
+*CHI:	si .
+*INV:	un llacet ?
+*CHI:	si .
+*CHI:	per [/] per la pepa [% "pa pa la pepa"] .
+*INV:	un clip pel cabell de la pepa .
+*CHI:	si .
+*INV:	ah !
+*CHI:	mira el cabell .
+*CHI:	xxx xxx xxx .
+*CHI:	mira .
+*CHI:	esta tirant la pilota .
+*INV:	la pepa esta tirant la pilota ?
+*CHI:	i aquesta tambe .
+*INV:	ja hem acabat aquest ?
+*INV:	vas molt rapid eh !
+*CHI:	si .
+*INV:	em sembla que no me'ls expliques sencers aquests contes .
+*CHI:	si .
+*INV:	vols dir ?
+*CHI:	si .
+*CHI:	alla [= li dona el conte per a que el posi amb els altres] .
+*CHI:	explicare aquest .
+*CHI:	mira .
+*CHI:	0 .
+%com:	li cau el conte
+*CHI:	mira .
+*CHI:	m' agafes ?
+*CHI:	ha caigut .
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	un peix [% "un peixu"] .
+*INV:	un peix ?
+*CHI:	si .
+*INV:	no .
+*INV:	no m' enganyis .
+*INV:	aixo es un cucu@c rellotge [/?] .
+*CHI:	un cucu@c .
+*INV:	el cuco .
+*INV:	es un cuc .
+*CHI:	si , un cuc .
+*CHI:	el cuc s' ha amagat .
+*CHI:	aqui .
+*INV:	ah no !
+*INV:	que no es un cuc .
+*INV:	es un cucu@c de rellotge .
+*CHI:	si .
+*CHI:	mira el cucu@c .
+*CHI:	mira el cucu@c .
+*CHI:	mira .
+*CHI:	cucu@c .
+*INV:	que fa quan es l' hora ?
+*INV:	cucu@c .
+*CHI:	cucu@c .
+*INV:	cucu@c .
+*CHI:	cucu@c [= imiten el rellotge] .
+*TAN:	hola !
+*CHI:	esta mirant el conte [% "ta mirant el conte"] .
+*TAN:	que fas ?
+*CHI:	esta mirant el conte [% "ta mirant el conte"] .
+*TAN:	de qui es aquest conte ?
+*CHI:	meu .
+*TAN:	i que es aixo ?
+*CHI:	mira .
+*TAN:	que es aixo ?
+*CHI:	es un cucu@c .
+*TAN:	i que fa ?
+*CHI:	tu sentar al taburet .
+*TAN:	jo m' assec al taburet ?
+*CHI:	si .
+*TAN:	el vas a buscar ?
+*CHI:	si .
+*CHI:	el taburet .
+*CHI:	es aquest el teu .
+*TAN:	aquest es el meu ?
+*CHI:	si .
+*TAN:	i on em poso jo ?
+*CHI:	aqui .
+*CHI:	aqui xxx [% sona com "aqui tapada"] .
+*TAN:	i on es aqui ?
+*TAN:	al costat de qui ?
+*CHI:	la caterina .
+*MAR:	tu et dius caterina ?
+*CHI:	si .
+*MAR:	i que mes ?
+*CHI:	real rovira .
+*TAN:	diga'ho mes lent .
+*TAN:	caterina que ?
+*CHI:	caterina real rovira .
+*MAR:	i els cosinets ?
+*MAR:	com es diuen el quenet i l' alex ?
+*CHI:	alex i quenet .
+*MAR:	i es diuen real ?
+*CHI:	no .
+*MAR:	com se diuen ?
+*CHI:	planas .
+*MAR:	ah te'n recordes !
+*CHI:	real rovira .
+*MAR:	planas real .
+*MAR:	rovira no .
+*CHI:	planas real [% "planas reas"] .
+*CHI:	a l' ani tambe .
+*TAN:	explica'li el conte a la magda .
+*TAN:	que fa el cucu@c ?
+*CHI:	mira [= obre el conte] .
+*CHI:	el cucu@c .
+*CHI:	aqui no hi es ja el cucu@c [% "aqui no di e ja el cucu@c"] .
+*TAN:	aqui ja no hi es .
+*CHI:	no .
+*TAN:	i qui hi ha aqui ?
+*CHI:	el manolo .
+*TAN:	aqui qui hi ha ?
+*CHI:	la pepa i el &+manol +...
+*TAN:	i que fan ?
+*CHI:	tu xxx on esta ?
+*TAN:	el que ?
+*CHI:	aixo .
+*TAN:	com es diu aixo ?
+*CHI:	a posar aqui .
+*TAN:	com es diu aixo ?
+*TAN:	en castella peonza .
+*TAN:	com es diu aixo ?
+*TAN:	en castella es diu peonza .
+*CHI:	si .
+*TAN:	a veure .
+*CHI:	peonza [% "peoza"] .
+*TAN:	i en catala ?
+*TAN:	baldufa .
+*CHI:	baldufa .
+*CHI:	mira .
+*MAR:	tu ets una baldufa ?
+*CHI:	0 .
+%act:	llenca la baldufa
+*TAN:	pero no la tiris .
+*CHI:	si .
+*TAN:	no .
+*TAN:	tu ets un potipoti@c ?
+*CHI:	no .
+*MAR:	feu un potipoti@c .
+*TAN:	fem el potipoti@c ?
+*CHI:	feu el potipoti@c ?
+*CHI:	feu un potipoti@c .
+*TAN:	fem un potipoti@c .
+*CHI:	mira .
+*CHI:	el cucu@c .
+*CHI:	el cucu@c .
+*CHI:	mira .
+*CHI:	mira el cucu@c .
+*TAN:	fem un potipoti@c ?
+*CHI:	si .
+*TAN:	pues va .
+*CHI:	0 .
+%act:	agafa la baldufa
+*MAR:	no la tiris caterina .
+*CHI:	si .
+*MAR:	no la tiris que es fa mal i es trenca .
+*TAN:	s' ha amagat [= amaga la baldufa] .
+*MAR:	el cucu@c tambe s' amaga , veritat ?
+*CHI:	si .
+*TAN:	ara esta amagat ?
+*CHI:	si .
+*TAN:	jo el veig .
+*MAR:	tu no cantaves una canco que deia cucut@c ?
+*CHI:	si .
+*CHI:	cucuta@c .
+*CHI:	cucut@c .
+*TAN:	canta'm una canco .
+*TAN:	vale ?
+*CHI:	si .
+*MAR:	a mi me n' ha cantat moltes .
+*CHI:	a tu cantat ?
+*TAN:	canta'm les nenes maques .
+*CHI:	a tu .
+*TAN:	canta les nenes maques .
+*CHI:	no .
+*CHI:	ja cantat la mama .
+*MAR:	a mi ja me l' has cantat .
+*MAR:	eh que si ?
+*CHI:	no .
+*CHI:	a la mama cantat les nenes maques .
+*TAN:	doncs ara me la cantes a mi .
+*CHI:	a tu t' he &+cant +...
+*CHI:	a tu te canto <el el> [/] el papa no te pa .
+*TAN:	com es ?
+*CHI:	el pare no te pa .
+*CHI:	el pare no te +...
+*MAR:	quan el pare [= li dona la tonada] .
+*CHI:	quan el pare no te pa la canalla , la canalla
+	[% en lloc de canalla diu "cabanya"] .
+*CHI:	si el pare no te pa la canalla fa ballar
+	[% "si el pare no te pa la gavalla fa ballar"] .
+*MAR:	quan el pare no te +...
+*CHI:	pa .
+*MAR:	vi .
+*CHI:	vi .
+*MAR:	la +...
+*CHI:	la cabanya , la cabanya .
+*CHI:	quan el pare no te pa la cabanya te (.) vi .
+*MAR:	quan el pare no te vi .
+*MAR:	la canalla fa ?
+*CHI:	ballar .
+*MAR:	no .
+*CHI:	dormir .
+@End

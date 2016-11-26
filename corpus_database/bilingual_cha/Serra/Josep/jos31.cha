@@ -1,0 +1,1385 @@
+@UTF8
+@PID:	11312/c-00001950-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Josep Target_Child , MAR mare Mother , CAR carme Nurse , GUI gui Child , INV Investigator
+@ID:	spa , cat|Serra|CHI|2;7.28||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|CAR|||||Nurse|||
+@ID:	spa , cat|Serra|GUI|||||Child|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	c , j , g i quim estan a l' exterior d' una torre , c esta seguda i j esta davant seu
+*CAR:	xxx lo tienes alli .
+*CAR:	vale ?
+*CAR:	hummm ?
+*CAR:	si ?
+*CHI:	si [>] !
+*CAR:	<me echas> [<] agua ?
+*CHI:	si .
+*CAR:	y me mojas ?
+*CHI:	si .
+*CAR:	venga , ven .
+*CHI:	0 [= es resisteix a anar amb c] .
+*CAR:	ven .
+*CHI:	no .
+*CAR:	por que ?
+*CHI:	no .
+*CAR:	eso no se toca , eh !
+*CHI:	xxx .
+*CAR:	no , se rompe !
+@Comment:	hi ha un tall a la cinta , no hi ha produccions per part de j , hi ha un altre tall a la cinta , c esta desvestint a j
+*CAR:	xxx le vamos a poner el banyador al ninyo !
+*CHI:	yo despues [% "yo pues"] .
+*CAR:	tu despues ?
+*CHI:	si .
+*CAR:	no , tu ahora .
+*CAR:	eh ?
+*CHI:	si .
+*CAR:	vamos a xxx una [% continua desvestint a j] .
+*CAR:	anda !
+*CAR:	i la sabata ?
+*CAR:	0 .
+%act:	treu una sabata a j
+*CAR:	una +...
+*GUI:	<y dos> [>] !
+*CAR:	<y dos> [<] [% treu l' altra sabata a j] .
+*CHI:	0 [= esta agafat a la camisa de c] .
+*CAR:	agarrate fuerte , eh !
+*CAR:	0 .
+%act:	comenca a posar el banyador a j
+*CHI:	xxx estan mojadas [% "fatala estan mojadas"] .
+*CAR:	esta mojado , ya ves .
+*CAR:	y no xxx .
+*GUI:	ah , prou [>] !
+*CAR:	tu [/?] <el banyador xxx> [<] ?
+*GUI:	<pero si es> [/?] pero si es molt gran aquest banyador .
+*CAR:	si .
+*GUI:	y por que ?
+%com:	c acaba de posar el banyador a j
+*CHI:	xxx estan mojados
+	[% "nak estan mojados" , assenyala cap a la dreta] ?
+*CAR:	claro .
+*CAR:	xxx [% agafa a j pels bracos i se'l va a posar a l' esquena] ?
+*CHI:	si .
+*CAR:	bumba [% es posa a j a l' esquena] !
+%com:	c porta a j cap a una piscina que hi ha al jardi i el deixa a terra
+*CAR:	xxx [% deixa j a terra] .
+*CHI:	xxx .
+*CAR:	al agua [% posa a j a l' aigua] .
+*CAR:	esta fria ?
+*CAR:	o esta calentita ?
+*CHI:	no esta xxx [% "no esta fre"] .
+*CAR:	limpiamos la piscina ?
+*CHI:	no .
+*CAR:	por que ?
+*CAR:	0 .
+%act:	s' allunya de la piscina
+*CHI:	pcf [% "neplam"] .
+*CHI:	si .
+*CAR:	si ?
+*CHI:	quiero inflar .
+*CAR:	quieres inflar ?
+*CHI:	no , xxx [% "no e"] ?
+*CHI:	no quiero inflar , no .
+*CAR:	si no , xxx .
+*CAR:	va .
+*CHI:	0 .
+%act:	es tira a l' aigua
+*CAR:	ale !
+*CAR:	ala !
+*CHI:	0 .
+%act:	acaba de nedar
+*CAR:	y la cabeza ?
+*CAR:	que le pasa a la cabeza ?
+*CHI:	esta mojado [% es toca el cap] .
+*CAR:	xxx mojatela .
+*CHI:	0 .
+%act:	es tira a l' aigua
+*CAR:	ale !
+*CAR:	ahora si que me has mojado , eh !
+*CHI:	si .
+*CAR:	0 .
+%act:	neteja l' aigua amb una xarxa
+*CAR:	xxx la cabeza .
+*CHI:	0 .
+%act:	va tirant'se a l' aigua
+*CAR:	ale , que xxx !
+*CHI:	0 .
+%act:	continua tirant'se a l' aigua
+*CAR:	muy bien !
+*CAR:	como nadas !
+*CHI:	0 .
+%act:	continua tirant'se a l' aigua
+*CAR:	xxx el agua ?
+*CAR:	no te la bebas , eh !
+*CAR:	xxx [% mulla el cap de j] .
+*CHI:	0 .
+%act:	es tira un altre cop a l' aigua
+%com:	hi ha un tall a la cinta
+*CAR:	pcf [% "mm" , ve amb un flotador a la ma] .
+*CAR:	los tiramos ?
+*CHI:	si .
+*CAR:	si ?
+*CHI:	no .
+*CAR:	no ?
+*CAR:	si .
+*CHI:	pcf [% "uebo"] .
+*CAR:	luego ?
+*CHI:	pcf [% "ala uebo"] .
+*CAR:	para luego no , para ahora .
+*CAR:	oy , que xxx arbol !
+*CAR:	pcf [% "hum"] .
+*CAR:	mira josep .
+*CAR:	josep .
+*CAR:	0 .
+%act:	llanca el flotador a l' aigua
+*CAR:	pumba !
+*CHI:	xxx no quiero [% "a no quiero"] .
+*CAR:	por que ?
+*CHI:	para despues [% "pa despue" , treu el flotador de l' aigua] .
+*CAR:	para despues [% "pa despues"] ?
+*CHI:	si .
+*CHI:	0 .
+%act:	es llenca a l' aigua
+*CAR:	anda !
+*CAR:	que cantas al caracol ?
+*CHI:	no .
+*CAR:	te traigo los caracoles y les cantas la cancion ?
+*CHI:	si .
+*CAR:	que la sabes ?
+*CAR:	xxx [>] .
+*CHI:	si [<] .
+*CHI:	pcf [% "ara saba"] .
+*CAR:	mira !
+*CHI:	un [/?] caracoles , <los cojo> [>] yo
+	[% estira els bracos i ajunta les mans] .
+*CAR:	xxx [<] .
+*CAR:	ah , los coges tu ?
+*CHI:	mira [% s' acosta a c] .
+*CAR:	a ver .
+*CHI:	que voy a coger un cargol .
+*CAR:	0 .
+%act:	mostra uns cargols que te al palmell de la ma
+*CHI:	0 [= se'ls mira] .
+*CHI:	que me des <&+e , &+es> [/?] ese grande
+	[% assenyala el palmell de la ma] .
+*CAR:	este es pequenyo .
+*CHI:	xxx es pequenyo [% "narete es pequenyo"] ?
+*CHI:	pcf [% "narete"] +/.
+*CAR:	este es pequenyo [% assenyala el palmell] .
+*CAR:	este es mediano [% va tirant els cargols] .
+*CAR:	xxx uno grande .
+*CAR:	que grande !
+*CAR:	y estos pequenyitos tambien .
+*CAR:	0 .
+%act:	mostra els cargols a j
+*CHI:	hola !
+*CAR:	venga , cantale la cancion , a ver si salen .
+*CAR:	cargol [% canta] +...
+*CHI:	treu banya [% "te banya" , canta] .
+*CHI:	0 [= mou ells llavis] .
+*CAR:	fuerte .
+*CAR:	venga !
+*CHI:	0 .
+%act:	es tira a l' aigua
+*CAR:	va , cantala fuerte , va !
+*CAR:	cargol +...
+*CAR:	no sabes , eh !
+*CHI:	si .
+*CAR:	a ver .
+*CAR:	venga .
+*CAR:	cargol <treu banya> [>] [% canta] .
+*CHI:	<treu banya> [<] [% canta] .
+*CHI:	cuantas te [% toca els cargols] ?
+*CHI:	xxx .
+*CAR:	si , venga va .
+*CAR:	puja [% canta] +...
+*CHI:	puja a la muntanya [>] [% "pusa a la muntanya" , canta] .
+*CAR:	pcf [<] [% "ta"] .
+*CHI:	cargol xxx jo tambe vindre
+	[% "cargol buver , jo tambe vindre" , canta] .
+*CAR:	molt be !
+*CHI:	pcf [% "a"] .
+*CAR:	ara la lluna , canta'la , a la lluna .
+*CHI:	cargol , me voy a coger un cargol
+	[% "cargol , me voy a coge un cargol"] .
+*CAR:	si , venga , ara cantale para que salga la lluna .
+*CHI:	si ?
+*CAR:	va .
+*CHI:	cargol treu banya , puja a la muntanya , cargol xxx jo tambe vindre
+	[% "cargol treu banya , pusa a la muntanya , cargol buver jo tambe vindre" , canta]
+	.
+*CAR:	muy bien !
+*CHI:	me tiro ?
+*CAR:	si .
+*CHI:	0 .
+%act:	es tira a l' aigua
+*CAR:	ole !
+*CHI:	me tiro otra vez ?
+*CHI:	eh [>] ?
+*CAR:	venga [<] , va , tirate otra vez .
+*CHI:	pcf [% "chanta"] .
+*CAR:	venga .
+*CHI:	me llama [% s' acosta a c] .
+*CAR:	xxx .
+*CHI:	a ver , xxx
+	[% "a ve , a" , s' aixeca de l' aigua i es dirigeix a c] .
+*CHI:	a ver , a [/?] voy <a coger> [/?] a coger un cargol , espera .
+*CAR:	xxx coge un cargol .
+*CHI:	xxx esta [% agafa un cargol] .
+*CHI:	tu coge un cargol .
+*CAR:	xxx [% agafa un cargol] .
+*CHI:	yo cojo otro [% mira el palmell de la ma de c] .
+*CHI:	xxx cojo [% "are cojo" , te la ma al palmell] .
+*CHI:	yo cojo , yo cojo [% encara te la ma al seu palmell] .
+*CHI:	yo cojo [% encara te la ma al palmell de c] .
+*CAR:	y yo ?
+*CHI:	coge con [/?] este .
+*CAR:	ah , gracias !
+%com:	sembla que j deixi el cargol a l' aigua
+*CAR:	ahora cantale .
+*CHI:	ya [/?] que se escapa [% mira a l' aigua] .
+*CAR:	oy !
+*CHI:	cogelo .
+*CAR:	cogelo tu .
+*CHI:	dame otro cargol .
+*CHI:	0 .
+%act:	agafa un cargol
+*CAR:	ara xxx por una toalla , vale , para sentarme ?
+*CHI:	si [% sembla que ho diu] .
+*CAR:	vas cantando tu la cancion [% se'n va de la imatge] .
+*CHI:	llevas tu cargol [% "llevas tu cargole" , estira el brac cap a c] .
+*CAR:	hummm ?
+*CHI:	quiero con [/?] este [% encara te el brac estirat] .
+*CAR:	cantale .
+*CHI:	cargol +...
+*CHI:	0 [= va movent els llavis] .
+*CAR:	que le cantes la cancion .
+*CAR:	sino se esconderan y se iran .
+*CHI:	se ira ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	si ?
+*CAR:	si que se iran .
+*CAR:	va , cantale la cancion .
+*CHI:	0 [=! es queixa] .
+*CAR:	va !
+*CHI:	cargol treu banya [% canta] .
+*CHI:	<&+vo> [/?] voy a coger una [% mira cap abaix] .
+*CAR:	una .
+*CHI:	xxx [% dona un cargol a c] .
+*CAR:	gracias !
+*CHI:	con [/?] este [/?] son para mi [% "con este son pa mi"] .
+*CAR:	ah , pero son para ti ?
+*CAR:	muy bien .
+%com:	j va jugant amb els cargols
+*CHI:	todos <&+ca> [/?] caracoles son mios
+	[% "tos ca caoles son mios" , mostra el palmell de la ma] .
+*CAR:	si .
+*CHI:	si .
+*CAR:	son tuyos .
+*CHI:	a ver ?
+*CAR:	quien los ha cogido ?
+*CHI:	yo .
+*CAR:	ah , ves ?
+*CAR:	son tuyos .
+*CAR:	y me das uno ?
+*CHI:	si .
+*CHI:	con [/?] este [% mira les seves mans] .
+*CHI:	am [/?] grande , con [/?] este es gran
+	[% "am gande , con este es gran"] .
+*CAR:	este es grande ?
+*CHI:	si , mira [% mostra la ma] .
+*CAR:	ay , que grande !
+*CHI:	es gran [% sembla que ho diu] .
+*CAR:	y uno pequenyito ?
+*CHI:	aqui [% mira la seva ma] .
+*CHI:	uno pequenyito .
+*CAR:	a donde ?
+*CHI:	con [/?] este grande [% assenyala la seva ma] .
+*CAR:	pcf [% "hum"] .
+*CHI:	voy a cantar [% mira cap abaix] .
+*CHI:	<voy a> [/?] voy a cantar .
+*CHI:	voy a cantar .
+*CHI:	xxx [% continua mirant cap a baix] .
+*CAR:	este lo pondremos aqui [% posa un cargol a la vorera de la piscina]
+	.
+*CHI:	0 [= mira cap a l' aigua] .
+*CHI:	se escapa .
+*CAR:	se escapa ?
+*CHI:	mira [>] .
+*CAR:	<y donde> [<] se va ?
+*CHI:	se va a su casa .
+*CAR:	a su casa ?
+*CHI:	no .
+*CHI:	no esta , falta uno [% mira cap a la resta de la piscina] .
+*CHI:	no hay mas .
+*CAR:	no hay mas ?
+*CHI:	pcf [% "nuki" , mira cap a la resta de la piscina] .
+*CAR:	pcf [% "hum"] .
+*CHI:	esta aqui [% assenyala la resta de la piscina] .
+*CAR:	estan por ahi , dando un paseo .
+*CHI:	paseo ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	pcf [% "ekon , ekon" , mira les seves mans] .
+*CHI:	0 .
+%act:	deixa cargols al canto de la piscina
+*CAR:	que hacen xxx ?
+*CHI:	estan banyando [% continua posant cargols] .
+*CAR:	estan banyando ?
+*CAR:	xxx ?
+*CHI:	y se va .
+*CAR:	y se va ?
+*CHI:	da mucha xxx [% torna a posar mes cargols] .
+*CAR:	pcf [% "hum"] .
+*CHI:	con [/?] estas xxx
+	[% "con estas blake" , mostra la ma amb els cargols] ?
+*CAR:	0 [= fa si amb el cap] .
+*CHI:	con [/?] estas (.) xxx
+	[% "con estas blanke" , mostra l' altra ma amb cargols a dins] ?
+*CAR:	no .
+*CHI:	con [/?] estas (.) para ti
+	[% "con estas pa ti" , estira una ma amb cargols a dins] ?
+*CAR:	es para ti [% "es pa ti" , fa si amb el cap] .
+%com:	hi ha un tall a la cinta
+*CHI:	un cargol lleva [% va posant mes cargols a la vorera] .
+*CAR:	xxx cargol treu banya .
+*CHI:	<un &+ca> [/?] un +...
+*CHI:	<&+quie , &+quie quiero> [/?] quiero coger un cargol .
+*CAR:	xxx .
+*CHI:	si ?
+*CAR:	uy , mira [% mira cap al terra] !
+*CHI:	otro cargol .
+*CAR:	xxx un altre [% mostra un cargol que te a la ma] .
+*CHI:	un altre ?
+*CHI:	se ha roto ?
+*CAR:	no .
+*CAR:	un altre , un altre i un altre
+	[% va posant mes cargols a la vorera] .
+*CAR:	un altre .
+*CHI:	cargol treu
+	[% canta i continua movent els llavis sense emetre sons] +...
+*CAR:	ara cantale la lluna .
+*CHI:	la lluna vestida (.) de dol [% "la lluna vesti de lol"] +...
+*CAR:	que mes ?
+*CHI:	0 [= mira cap a on els altres nens estan jugant] .
+*CAR:	que miras ?
+*CHI:	los nenes .
+*CAR:	0 .
+%act:	mulla el cap de j
+*CAR:	que hacen los nenes ?
+*CHI:	estan buscando un cargol xxx [% "esta buscando un cargol mia"] .
+*CAR:	ah , si ?
+*CHI:	yo cojo otro [% mira cap a fora de la piscina] .
+*CHI:	se ha acabado ?
+*CAR:	hummm ?
+*CHI:	se ha acabado [% "se ha acabai"] .
+*CAR:	se ha acabado ya .
+*CAR:	pcf [% "m" , toca la cara de j] .
+*CHI:	se ha acabado ya [% "se ha acabao ya"] ?
+%com:	se sent un soroll
+*CAR:	uy !
+*CAR:	mira los bichitos [% posa la ma a la piscina] .
+*CHI:	a ver [% mira cap a on c te la ma] .
+*CHI:	bichito .
+*CAR:	quieres agua ?
+*CAR:	0 .
+%act:	llanca aigua on abans tenia la ma
+*CAR:	xxx bicho .
+*CHI:	xxx .
+*CHI:	xxx bichito , salio ?
+*CAR:	pcf [% "um" volent dir si] .
+*CHI:	salio ?
+*CHI:	pcf [% "unof" , allarga molt la lletra f , com si imites un animal]
+	.
+*CAR:	pcf [% "hum hum"] .
+*CHI:	0 .
+%act:	es mulla la cara
+*CAR:	asi , xxx , que bien !
+*CHI:	0 [= continua] .
+*CAR:	xxx .
+*CHI:	0 [= es queda mirant a c] .
+*CAR:	te .
+*CHI:	te .
+*CAR:	te .
+*CHI:	ay ay ay [% estira el brac cap a c amb el puny tancat] !
+*CHI:	papa [% es posa la ma a la boca , com si menges quelcom] .
+*CAR:	<que comes> [>] ?
+*CHI:	pcf [<] [% "tarra"] .
+*CAR:	que comes ?
+*CHI:	pan .
+*CAR:	pcf [% "hum"] .
+*CAR:	quieres merendar ?
+*CHI:	si .
+*CAR:	si ?
+*CHI:	pcf [% "ni" , s' inclina cap en davant] .
+*CAR:	quieres un yogurt ?
+*CHI:	pcf [% "nyaca nyaca"] .
+*CHI:	pcf [% "nyam nyam"] .
+*CHI:	pcf [% "ieso" , fa veure que menja quelcom] .
+*CHI:	pcf [% "am" , encara ho fa veure] .
+*CAR:	esta bueno ?
+*CHI:	si .
+*CAR:	no ?
+*CAR:	la boca no .
+*CHI:	pcf [% "ascara"] .
+*CHI:	pcf [% "eis canso"] .
+*CHI:	ya .
+*CAR:	que ?
+*CAR:	que ?
+*CAR:	hummm ?
+*CHI:	un bicho [% te un fil a la ma] .
+*CAR:	no [% agafa el fil i el llenca] .
+*CHI:	pcf [% "noarararenya" , dona mes fil a c] ?
+*CAR:	hummm ?
+*CHI:	pcf [% "noararalele"] ?
+*CAR:	pcf [% "hum" , volent dir si , llenca el fil] .
+*CHI:	si a la xxx [% "si a la cunica"] .
+*CHI:	tu visto [% assenyala cap a c] ?
+*CAR:	que ?
+*CHI:	la [/?] tiro aigua ?
+*CAR:	si .
+*CHI:	0 .
+%act:	mulla a c
+*CAR:	a mi no .
+*CHI:	<&+a> [/?] al bicho ?
+*CAR:	al bicho , pero a mi no .
+*CHI:	no bicho ?
+*CAR:	yo soy un bicho ?
+*CAR:	eh ?
+*CHI:	no [>] [% sembla que ho diu ell] .
+*CAR:	<yo soy> [<] un bicho , josep ?
+*CHI:	no .
+*CAR:	ah !
+*CAR:	entonces como me tiras agua a mi ?
+*CAR:	mira , alli hay un bicho , echale agua a aquel bicho (.) que no te
+	pique [% assenyala cap al fons de la piscina] .
+*CHI:	0 .
+%act:	llenca aigua , bastant a la vora de c
+*CAR:	anda , me xxx tirando a mi , si el bicho esta alli
+	[% assenyala cap al fons de la piscina] .
+*CHI:	esta alli ?
+*CAR:	claro , miralo , oy !
+*CHI:	0 .
+%act:	tira aigua a la vora de c i la mulla
+*CHI:	aqui , la tiro +/.
+*CAR:	vale , vale , ya no tires mas agua .
+*CAR:	ya se ha ido volando .
+*CHI:	0 .
+%act:	llenca alguns cargols a l' aigua
+*CAR:	anda , els cargols !
+*CHI:	ah , cogelos !
+*CHI:	&+lo cojo yo [% recull els cargols] ?
+*CAR:	si .
+*CHI:	vale ?
+*CHI:	se escapa ?
+*CAR:	tengo calor .
+*CAR:	josep .
+*CHI:	y tienes calor ?
+*CAR:	xxx mucha [% "hum mucha"] .
+*CHI:	a ver ?
+*CAR:	a ver ?
+*CHI:	mira [% "mia"] .
+*CAR:	mira , toca , mira que calor [% es toca el front i l' acosta a j] !
+%com:	g s' acosta a c
+*GUI:	eh !
+*CHI:	0 .
+%act:	toca el front de c
+*CAR:	ay , que calor , verdad ?
+*GUI:	eh !
+*CAR:	pcf [>] [% "hum"] .
+*GUI:	pcf [<] [% "hum"] .
+*GUI:	puc posar aquells ninos a l' aigua
+	[% assenyala cap a la piscina gran] ?
+*CAR:	que ?
+*GUI:	aquella aigua [% torna a assenyalar'hi] .
+*CAR:	que ?
+*GUI:	a la piscina aquella , uns ninos que jo tenia .
+*GUI:	ahir vaig xxx .
+%com:	se sent la veu d' un Adult que interve per a aclarir la situacio
+*CAR:	ah , si !
+*CAR:	<el munyeco> [/?] el munyeco ese que tu tenias ahi arriba ?
+*CAR:	<si , si que lo puedes poner en el agua , no le pasa nada> [>] .
+*CHI:	pcf [<] [% "tem patim patim patim" , parla sol] .
+*INV:	un xxx [% "un patman"] ?
+*CHI:	pcf [% "patim , patim pata patia" , parla sol] .
+%com:	g se'n va
+*CHI:	ay , malo !
+*CHI:	vamos al carrer .
+*CAR:	al carrer ?
+*CHI:	si .
+*CAR:	xxx ?
+*CHI:	0 .
+%act:	te les mans al canto de la piscina
+*CAR:	que me comen esa mano debajo , por ahi [% toca les mans de j] .
+*CHI:	0 .
+%act:	aparta les mans
+%com:	c fa un soroll i aparta les mans de j un altre cop , fa com si els seus dits fossin un animal que persegueix j , i j riu
+*CHI:	pcf [% "epememe" , s' aparta de c] .
+*CAR:	pcf [% "iao" , llanca aigua a j] .
+*CHI:	pcf [% "iao"] .
+*CHI:	0 .
+%act:	es posa les mans a la boca
+*CAR:	a la boca no .
+*CAR:	0 .
+%act:	tira mes aigua a j
+*CAR:	va , preparados , listos , ya !
+*CAR:	va !
+*CHI:	pcf [% "a" , es tira a l' aigua] .
+*CHI:	<xxx aigua> [>] .
+*INV:	<estas moscas estan tontas , no> [<] ?
+*CAR:	no me tires agua .
+*CHI:	<e , &+a> [/?] ara tiro cargols [% "ala tiro cargoles"] ?
+*CAR:	si .
+*CHI:	0 .
+%act:	tira aigua a c
+*CAR:	a mi no , eh !
+*CHI:	si .
+*CAR:	a mi no .
+*CHI:	0 [=! riu] .
+*CAR:	escucha , a mi no [% tira aigua a j] .
+*CHI:	0 [=! riu] .
+*CHI:	pcf [% "e , etir"] ?
+*CAR:	hummm ?
+*CHI:	<e , e> [/?] me tiro ?
+*CAR:	que <te tiras> [>] ?
+*CHI:	pcf [<] [% "a"] .
+*CAR:	ay , que me tiras !
+%com:	j esquitxa amb l' aigua
+*CAR:	no , vale , vale , vale , vale !
+*CHI:	no vols aigua [% "nobos aiga"] ?
+*CAR:	no ves que la tata@c esta vestida y la vas a mojar ?
+*CHI:	si ?
+*CAR:	si .
+*CHI:	aqui no fa nonnon@c ?
+*CAR:	no .
+*CHI:	0 .
+%act:	torna a esquitxar
+*CAR:	vale !
+*CHI:	0 .
+%act:	riu i torna a esquitxar
+*CAR:	xxx chorreando .
+*CHI:	0 .
+%act:	riu i torna a esquitxar
+*CAR:	ay , va !
+*CHI:	0 [=! riu] .
+*CAR:	que te mojo la cabeza , eh !
+*CHI:	0 .
+%act:	torna a esquitxar
+*CAR:	te la mojo ?
+*CHI:	0 .
+%act:	torna a esquitxar
+*CAR:	voy , voy [% s' aixeca] .
+*CHI:	ya te vas .
+*CAR:	pues no me eches agua .
+*CHI:	no ?
+*CAR:	no .
+*CHI:	sientate .
+*CAR:	vale , pero no me eches , eh [% seu] ?
+*CAR:	sino me voy .
+*CHI:	<aqui tet> [/?] la xxx tira aqui
+	[% "aqui tet la tara tira aqui" , canvia de lloc dins de la piscina]
+	?
+*CAR:	si .
+*CHI:	con la banyera .
+*CAR:	si , con la banyera [>] .
+*CHI:	pcf [<] [% "tututut" , va esquitxant aigua] .
+*CHI:	0 .
+%act:	continua esquitxant
+*CAR:	quieres el flotador ?
+*CHI:	si .
+*CAR:	ahi esta , cogelo .
+*CHI:	no .
+*CAR:	si , venga , que jugamos con el , va .
+*CAR:	ponlo dentro .
+*CHI:	no .
+*CAR:	jugamos .
+*CAR:	por que no ?
+*CHI:	tengo pupa@c aqui [% es mira les cames] .
+*CAR:	como te lo has hecho ?
+*CHI:	nadando [% "a nacho"] .
+*CAR:	como te lo has hecho ?
+*CAR:	nadando ?
+*CHI:	si .
+*CAR:	a ver , ven aqui .
+*CHI:	0 .
+%act:	es tira a l' aigua i va cap a c
+*CAR:	ay , que nadador !
+%com:	c i j miren la ma de j
+*CHI:	mira .
+*CAR:	ay , si no tienes nada !
+*CHI:	no , no tengo pupa@c , nada [>] ?
+*CAR:	<claro que no> [<] .
+*CAR:	aqui si <y aqui tambien> [>] [% assenyala el genoll i la cama de j]
+	.
+*CHI:	<aqui si> [<] .
+*CAR:	pero aqui en el dedo no tienes nada [% assenyala el peu de j] .
+*CHI:	no ?
+*CAR:	aqui si que tienes pupa@c [% assenyala l' altre genoll] .
+*CHI:	si ?
+*CAR:	mi ninyo , que pupa@c !
+*CHI:	y aqui si [% assenyala el peu] ?
+*CAR:	como te lo has hecho esto , en la piscina
+	[% assenyala la cama de j] ?
+*CHI:	con este [% assenyala cap en davant] .
+*CAR:	con que ?
+*CHI:	xxx con este [% "saio con este" , assenyala cap en davant] .
+*CAR:	con este te lo hiciste ?
+*CHI:	si .
+*CAR:	te caiste ?
+*CHI:	si .
+*CAR:	pcf [% "hum"] .
+*CHI:	un [/?] un coco@c .
+*CAR:	y la tata@c no estaba , verdad ?
+*CHI:	no .
+*CHI:	0 .
+%act:	esquitxa amb l' aigua
+*CHI:	pcf [% "tengut soja , eh"] ?
+*CAR:	hummm ?
+*CHI:	pcf [% "sss" , estira els bracos cap a c i mou els dits] .
+*CAR:	0 .
+%act:	intenta mossegar les mans de j dos cops
+*CHI:	un [/?] un poco mas .
+*CAR:	un poco mas de que ?
+*CHI:	aixo [% ajunta les mans] .
+*CAR:	ah , con jabon , lavame las manitas [% ofereix la ma a j] .
+*CHI:	0 .
+%act:	acaricia les mans de c
+*CHI:	te has duchado ?
+*CAR:	si .
+*CHI:	tienes pupa@c [% continua acariciant] ?
+*CAR:	si .
+*CHI:	si ?
+*CAR:	si , me hice pupa@c ahi .
+*CHI:	<&+ena> [/?] echo aigua ?
+*CAR:	si , pero ten cuidado , no me la vayas a echar a mi .
+*CHI:	aqui a zapatos ?
+*CAR:	no , a los zapatos no me eches agua .
+*CHI:	no ?
+*CAR:	no , mira , ves ?
+*CAR:	ya se va [% mou el peu] .
+*CHI:	<&+erere , &+re> [/?] xxx echo aigua , xxx
+	[% "erere , re re echo aigua picho"] ?
+*CAR:	no , no me eches agua .
+*CAR:	cuando este en la piscina el bicho si .
+*CAR:	te lo tengo dicho , para que no te pique le echas agua .
+*CAR:	mira , uy , mira ese [% assenyala el fons de la piscina] !
+*CAR:	echa a ese .
+*CAR:	uy , que grande !
+*CHI:	0 .
+%act:	esquitxa aigua
+*CAR:	echa !
+*CHI:	0 [= para de llencar aigua] .
+*CHI:	no esta .
+*CHI:	pcf [% "kerase"] .
+*CHI:	0 .
+%act:	torna a esquitxar
+*CAR:	muy bien .
+*CAR:	mas .
+*CAR:	mas , corre , que te pica [% llenca aigua] .
+%com:	hi ha un tall a la cinta
+*CAR:	ay !
+*CAR:	tengo suenyo .
+*CHI:	tienes suenyo ?
+*CAR:	pcf [% "um" , volent dir si] .
+*CAR:	<me duermo> [>] ?
+*CHI:	pcf [<] [% "e nene"] .
+*CAR:	me voy a dormir ?
+*CHI:	no .
+*CAR:	aqui [% mira la tovallola que te a sota] ?
+*CHI:	si .
+*CHI:	aqui .
+*CAR:	pero no me vas a mojar ?
+*CHI:	no .
+*CAR:	no .
+*CAR:	ahora me duermo .
+%com:	c fa veure que ronca , j i c riuen
+*CAR:	ay , que suenyo !
+*CAR:	<ay , un mosquito> [>] !
+*CHI:	<un cargol> [<] [% estira el brac] .
+*CHI:	pcf [% "sss sss" , estira el brac] .
+*CHI:	pcf [% "sss sss sss" , estira el brac] .
+*CHI:	la tiro .
+*CHI:	tiro aigua , al bicho [% "atiro aigua a bicho" , llanca aigua] .
+*CHI:	tiro aigua al bicho [% "atiro aigua a bicho"] .
+*CAR:	a los bichos si .
+*CHI:	si ?
+*CAR:	pcf [% "hum"] .
+*CHI:	tiro a l' aigua [% "atiro a la aigua"] .
+*CHI:	las mojo yo antes ?
+*CAR:	pcf [% "hum"] .
+*CHI:	las mojo yo antes ?
+*CAR:	si , a las grandes las mojas .
+*CHI:	y ?
+*CHI:	mira , un cargol treu
+	[% sembla que agafi un cargol del canto de la piscina] .
+*CHI:	ay , que se escapan !
+*CAR:	se escapan ?
+*CHI:	si , mira [% mira a l' aigua] .
+*CHI:	no se escapan , no [% mira a l' aigua] .
+*CAR:	no , no se escapan , no .
+*CHI:	no ?
+*CAR:	contigo no se escapan .
+*CHI:	0 .
+%act:	va agafant cargols
+*CHI:	conmigo no ?
+*CAR:	pcf [% "hum"] .
+*CHI:	no ?
+*CHI:	xxx cargols xxx , eh [% "asta cargoles sej , eh"] ?
+*CHI:	en [/?] este cargol si [% continua agafant cargols] .
+*CAR:	con este y con este .
+*CHI:	no ?
+*CAR:	no .
+*CHI:	pcf [% "a a" , com si estigues tip de menjar] .
+*CHI:	quieres un cargol [% "quieres un cargole"] ?
+*CAR:	pcf [% "hum"] .
+*CHI:	xxx te dejo este [% "a te dejo este"] .
+*CAR:	pcf [% "hum"] .
+*CHI:	pcf [% "mm" , va mirant les seves mans] .
+*CAR:	pcf [% "mm" , imita a j] .
+*CHI:	te dejo este ?
+*CAR:	pcf [% "hum"] .
+*CHI:	vale , ten [% dona un cargol a c] .
+*CAR:	gracias [% agafa un cargol] .
+*CHI:	yo tengo uno .
+*CHI:	anda que son para luego [% mostra la ma amb els cargols] ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	este es para mi
+	[% "este es pa mi" , es mira una de les mans on te un cargol] .
+*CHI:	<que se> [>] +/.
+*CAR:	<venga va> [<] .
+*CAR:	va !
+*CAR:	josep .
+*CHI:	que se escapa .
+*CHI:	que se escapa con este , mira .
+*CAR:	uix !
+*CAR:	que se escapan y te &+muerde el pito
+	[% diu "pitu" en comptes de pito com si fos una paraula catalana] .
+*CHI:	te muerde el pito [% "pitu" en comptes de pito] ?
+*CAR:	si .
+*CHI:	si ?
+*CAR:	es muy malo .
+*CHI:	es muy mal [/?] malo ?
+*CAR:	pcf [% "hum"] .
+*CHI:	xxx yo este
+	[% "teme yo este" , sembla que busqui quelcom i assenyala la ma de c]
+	.
+*CHI:	pcf [>] [% "e"] .
+*CAR:	ah [<] , este me lo quitas ya ?
+*CAR:	yo , yo quiero uno .
+*CHI:	0 .
+%act:	agafa el cargol que c tenia a les mans
+*CAR:	0 .
+%act:	para la ma per a que li doni algun cargol
+*CHI:	no .
+*CAR:	oh , pues a dormir [% s' estira sobre la tovallola] !
+*CHI:	te [% ofereix un cargol a c] .
+*CAR:	eh , me das uno ?
+*CHI:	si , te .
+*CAR:	gracias [% agafa un cargol] .
+*CHI:	con este son amics [% "con este son amis"] .
+*CAR:	0 .
+%act:	posa el cargol al canto de la piscina
+*CAR:	cargol treu banya [>] [% canta] .
+*CHI:	pcf [<] [% "ba"] .
+*CAR:	puja a la muntanya [>] [% posa el cargol pel cos de j] .
+*CHI:	<&+anya> [<] .
+*CAR:	cargol xxx [% "cargol buver" , canta i posa el cargol pel cos de j]
+	.
+*CHI:	pcf [% "boibollas"] .
+*CHI:	pessigolles .
+*CAR:	pessigolles ?
+*CAR:	0 .
+%act:	torna a posar'li el cargol sobre la pell
+*CHI:	pcf [% "boibo"] .
+*CAR:	pcf [% "ao"] .
+%com:	c fa un soroll amb la boca , per espantar , j riu
+*CAR:	ay , el reloj [% s' aparta de la piscina] !
+*CHI:	pcf [% "mo kes"] .
+*CAR:	el tictac@c .
+*CHI:	se ha mojado ?
+*CAR:	si .
+*CAR:	ya esta seco [% s' acosta a la piscina] .
+*CHI:	ya esta seco ?
+*CHI:	o no ?
+*CAR:	esta vivo , eh , se va a ahogar
+	[% mira un cargol que te a la seva ma] .
+*CHI:	se va ha ahogar [% "sa bogar"] ?
+*CAR:	con tanta agua .
+*CHI:	0 .
+%act:	agafa el cargol
+*CHI:	se va a ahogar [% "sen va ahogar"] ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	con [/?] este cargol ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	xxx xxx contar un cargol [% "am , mamese contar un cargol] .
+*CAR:	venga cuenta .
+*CHI:	un cargol .
+*CAR:	uno , aqui [% para la ma] .
+*CAR:	uno .
+*CHI:	uno [% posa un cargol al palmell de la ma de c] .
+*CHI:	yo .
+*CHI:	ya esta .
+*CAR:	y ese que ?
+*CAR:	que hace ese [% mostra el palmell de la ma] ?
+*CAR:	uno .
+*CHI:	uno .
+*CAR:	y ese (.) dos .
+*CHI:	dos [% va a posar un altre cargol al palmell de la ma de c] .
+*CAR:	no , dejalo aqui .
+*CHI:	no [% no deixa el cargol] .
+*CAR:	aqui , por que ?
+*CAR:	entonces hace solo que uno , eh ?
+*CAR:	solo aqui hay uno .
+*CHI:	mira , una xxx comida [% "mira , una selo comida" , mostra la ma] .
+*CAR:	ah , la comida [>] ?
+*CHI:	no [<] ?
+*CHI:	si , xxx [% "si , mia"] .
+*CHI:	0 .
+%act:	toca el palmell de la ma que havia mostrat
+*CAR:	esta buscando comida .
+*CAR:	ay , que me come [% toca la ma de j] !
+*CHI:	que te come .
+*CAR:	ay , que me come !
+*CAR:	tiene hambre .
+*CHI:	tiene hambre ?
+*CAR:	lo ponemos aqui ?
+*CHI:	si .
+*CAR:	0 .
+%act:	arrenca herba
+*CAR:	come [% ofereix l' herba al cargol] .
+*CAR:	a ver si sale .
+*CAR:	caracol , col , col , saca los cuernos al sol , que tu padre y tu
+	madre ya lo saco [% canta] .
+*CAR:	esa no la sabes , eh ?
+*CAR:	0 .
+%act:	agafa un cargol i en deixa un altre al canto de la piscina
+*CAR:	diselo .
+*CAR:	dile , caracol , col , col , saca los cuernos al sol que tu padre y
+	tu madre ya lo saco [% canta] .
+*CAR:	a ver si sale .
+*CAR:	hay que dejarlo ahi .
+*CAR:	este no sale [% dona un cargol a j] .
+*CHI:	este no sale [>] ?
+*CAR:	este [<] si [% es refereix al cargol del canto de la piscina] .
+*CHI:	este si ?
+*GUI:	hola , <ja he vingut> [>] .
+*CAR:	<se supone que si> [<] .
+*CAR:	hola !
+*INV:	hola !
+*CAR:	quien es ?
+*CHI:	el nene [% "a nene"] .
+*CAR:	el nene ?
+%com:	g arriba a on c i j estan , amb unes nines a les mans
+*GUI:	son aquests ninos .
+*CAR:	uy !
+*CAR:	que tiene ?
+*CAR:	que tiene el nene ?
+*CAR:	tirale agua .
+*CHI:	0 .
+%act:	esquitxa aigua
+*CAR:	vale , vale , vale , vale [% riu] .
+*INV:	i el quim ?
+*GUI:	xxx .
+*CAR:	0 .
+%act:	espanta mosques
+*CAR:	ay , que mosca mas pesada !
+*CAR:	0 .
+%act:	espanta mosques
+*CAR:	uy , una abeja !
+*CHI:	<&+pi> [/?] pica una abeja
+	[% "pi pica una ameja" , s' esta mirant les mans] ?
+*CHI:	a ver ?
+%com:	se senten les veus d' altres nens , c s' acosta a j
+*CHI:	pcf [% "ek"] .
+*CHI:	pcf [% "kese"] ?
+*CHI:	voy a comer con este , <que xxx> [>]
+	[% "voy a comen con este , que xxx" , estira el brac] +/.
+*CAR:	<ah , tambien> [<] quiere comer [% agafa el cargol de j] ?
+*CHI:	si tambien .
+*CAR:	vamos a ponerlo aqui para que coma .
+*CHI:	ara con [% es mira les mans] +/.
+*CAR:	come , caracol .
+*CHI:	ara con este se come [% es mira les mans] .
+*CAR:	<o tambien> [/?] ese no , ese no esta
+	[% agafa un cargol de la ma de j] .
+*CAR:	<ya no esta> [>] aqui .
+*GUI:	saps [<] ?
+*CAR:	ha abandonado la casa .
+*CHI:	la casa ?
+*CAR:	xxx [>] .
+*GUI:	saps [<] ?
+*CHI:	con ese no esta ?
+*CAR:	<estaba xxx> [>] .
+*GUI:	saps [<] ?
+*CAR:	que [>] [% es dirigeix a g] ?
+*GUI:	saps [<] ?
+*GUI:	quan a buscar aquests ninos he vist un gos
+	[% mostra les nines que te a la ma] .
+*CAR:	un gos ?
+*CAR:	molt gran ?
+*GUI:	si .
+*CAR:	pcf [% "hum"] .
+*GUI:	que tenia una panxa aixi
+	[% diu "aixins" en comptes de aixi , tira cap en davant l' abdomen]
+	.
+*CAR:	si ?
+*GUI:	l' he vist que s' aixeca i anava (.) cap [>] alla que estava lligat
+	.
+*CAR:	pcf [<] [% "hum"] .
+%com:	g se'n va de la imatge
+*CAR:	sera +...
+*INV:	que t' ha mossegat ?
+*CAR:	el sky .
+*GUI:	no .
+*GUI:	no , m' ha mossegat .
+*CHI:	<con este suba> [>] .
+*GUI:	<perque estava> [<] lligat .
+*CHI:	con este no hay .
+*CAR:	no hay .
+*CHI:	con este no .
+*CAR:	no hay .
+*CHI:	si ?
+*CHI:	0 .
+%act:	li cau un cargol que estava al canto de la piscina
+*CHI:	<a que> [/?] se ha caido cargol .
+*CHI:	cogelo .
+%com:	c cull el cargol i el posa al canto , j va posant mes cargols
+*CAR:	ay , que calor !
+*CHI:	con [/?] este no tiene comida [% es mira la ma] .
+*CHI:	con [/?] este tiene comida [% ofereix un cargol a c] ?
+*CAR:	a ver quita , a ver si tiene [% agafa el cargol i el mira] ?
+*CAR:	no , aqui tampoco vive nadie .
+*CAR:	0 .
+%act:	deixa el cargol
+*CHI:	no ?
+*CAR:	0 .
+%act:	agafa un altre cargol , el mira i el deixa
+*CAR:	aqui tampoco .
+*CAR:	0 .
+%act:	agafa un altre cargol i el mira
+*CAR:	aqui (.) tampoco .
+*CHI:	xxx si hay [% "conet si hay" , es mira les mans] .
+*CHI:	con [/?] este si .
+*CAR:	a ver ese .
+*CAR:	a ver , a ver ?
+*CHI:	mira [% dona un cargol a c] .
+*CAR:	0 .
+%act:	l' agafa
+*CAR:	no .
+*CHI:	no .
+*CAR:	aqui no hay nadie [% deixa el cargol] .
+*CAR:	aqui si , hay dos [% assenyala el canto de la piscina] .
+%com:	la imatge del video salta
+*CHI:	xxx cargol [% "a cargol"] .
+*CHI:	cogelo .
+*CAR:	otra vez se ha caido ?
+*CAR:	pcf [% "mecachi"] !
+*CHI:	pcf [% "siano"] .
+*CHI:	con este no tengo comida
+	[% assenyala els cargols que c abans havia dit que eren vius] .
+*CHI:	con este si ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	si ?
+*CHI:	con este si ?
+*CAR:	si .
+*CHI:	que tiene comida ?
+*CAR:	si , si , comida .
+*CHI:	con este si [% assenyala uns altres cargols] ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	eh ?
+*CHI:	<a que> [/?] que tiene [% mira un cargol] ?
+*CHI:	tiene comida [% mostra un cargol] ?
+*CAR:	si .
+*CHI:	vale .
+*CHI:	con este si [% assenyala uns cargols] ?
+*CAR:	si .
+*CHI:	este xxx [% "este sanle"] .
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	pcf [% "esensal"] .
+*CAR:	pero ten cuidado , eh , no salpiques mucho , eh ?
+*CHI:	no .
+*CHI:	no xxx [% "no cuche"] .
+*CHI:	0 [= estossega] .
+*CHI:	pcf [% "a" , sembla que ho diu ell] .
+*CHI:	pcf [% "e" , sembla que ho diu ell] .
+*CHI:	pcf [% "ai , a" , sembla que ho diu ell] .
+*CAR:	quieres que me banye contigo ?
+*CHI:	no , tu despues [% "no , tu pue"] .
+*CAR:	ah , yo despues ?
+*CHI:	si .
+*CAR:	por que ?
+*CHI:	no .
+*CAR:	por que no ahora ?
+*CAR:	hummm ?
+*CAR:	te vienes a mi casa ?
+*CHI:	no .
+*CAR:	conmigo y con el manuel ?
+*CHI:	no .
+*CAR:	por que ?
+*CHI:	no quiero ver .
+*CHI:	no quiero ver xxx [% "no quiero ver a"] .
+*CAR:	a quien ?
+*CHI:	yo [/?] yo xxx [% "yo yo tolo"] .
+*CAR:	ah !
+*CAR:	solo te quieres quedar ?
+*CHI:	si .
+*CAR:	y quieres que te de la tata@c la casita ?
+*CHI:	si .
+*CAR:	entonces , si no quieres venir a mi casa como te voy a dar ?
+*CHI:	si te xxx y te xxx xxx xxx xxx
+	[% "si te cachos y te cachotitesstu titet pachos"] .
+*CAR:	de agua no [% es toca el pantalo] .
+*CAR:	te lo he dicho .
+*CHI:	tengo , tengo +...
+*CAR:	que tienes ?
+*CHI:	unyas [% mostra la ma] .
+*CAR:	unyas ?
+*CHI:	unya .
+*CAR:	a ver .
+*CAR:	uy , cuantas unyas que tiene mi ninyo !
+*CHI:	ara con estas [% mostra l' altra ma] .
+*CAR:	a ver .
+*CAR:	uix , madre mia !
+*CAR:	y en los pies ?
+*CHI:	mira .
+*CAR:	aqui tambien .
+*CAR:	madre mia , cuantas unyas !
+*CHI:	en este [% mostra un peu] .
+*CAR:	pcf [% "hum" , volent dir si] .
+*CHI:	xxx con este [% "eia con este"] .
+*CHI:	camiseta .
+*CAR:	<a ver> [>] +/.
+*CHI:	despues [<] , despues , a poner la camiseta
+	[% "pue , pue , a poner la camisam"] .
+*CHI:	mira , se ha caido
+	[% "mia , se ha caio" , mira cap al canto de la piscina] .
+*CAR:	que se ha caido ?
+*CHI:	se ha caido aqui [% "se ha caio aqui" , mira a fora de la piscina]
+	.
+*CAR:	la comida de los caracoles ?
+%com:	se senten veus de nen , pero sembla que cap es de j
+*CAR:	ay , ay , para que coman [% posa l' herba al canto de la persona] !
+*CAR:	ya esta .
+*CAR:	que tienes mas ?
+*CHI:	unos .
+*CAR:	unos que ?
+*CHI:	pcf [% "bot , but" , es cau a l' aigua] .
+*CHI:	pcf [% "bebeate"] .
+*CAR:	unes sabates .
+*CHI:	sabates .
+*CHI:	tens sabates ?
+*CAR:	si .
+*CHI:	xxx caracol xxx xxx xxx [% "am caracol ten manya pusala"] .
+*CHI:	0 [= continua movent els llavis] .
+*CAR:	a que puja ?
+*CHI:	un cargol .
+*CAR:	pero donde puja ?
+*CHI:	en este [% estira el brac cap als cargols] .
+*CAR:	a la muntanya .
+*CHI:	<a la> [/?] a la muntanya .
+*CAR:	pcf [% "hum hum" , volent dir si] .
+*CHI:	pcf [% "hum" , volent dir si] .
+*CAR:	pcf [>] [% "hum hum"] .
+*CHI:	pcf [<] [% "hum hum"] .
+*CAR:	pcf [% "hum hum hum hum"] .
+*CAR:	bicho .
+*CHI:	pcf [% "hum hum hum hum"] .
+*CAR:	pcf [% "hum hum"] .
+%com:	se senten veus de m i de la mare d' en guillem , j i c s' orienten cap a les veus , j crida l' atencio a c; m , c i g continuen xerrant , j i c atenen als adults
+*CAR:	estas bailando ?
+%com:	sembla que j es mogui a l' aigua
+*CHI:	pcf [% "hum" , volent dir si] .
+*CAR:	si ?
+*CAR:	pues canta .
+*CHI:	0 .
+%act:	es llenca a l' aigua
+*CHI:	pcf [% "xup"] .
+*CAR:	0 [= fa un soroll amb els llavis] .
+*CHI:	quema mucho aqui ?
+*CAR:	si , quema ?
+*CHI:	si .
+*CHI:	0 .
+%act:	va xipollejant
+*CHI:	ay , quema xxx [% "ai , quema koia"] !
+*MAR:	ha trucat l' hugo [% "ha trucat el hugo"] .
+*CAR:	ha trucat l' hugo [% "ha trucat el hugo"] ?
+*MAR:	si .
+*MAR:	i m' ha dit que vindra tres dies .
+*CHI:	un recado [% "un recadu" , ho diu com si fos una paraula catalana]
+	?
+*MAR:	m' ha dit un recado , si [% diu "recadu" com si fos catala] .
+*MAR:	tres dies vindra +...
+*CHI:	el hugo [% "el logo"] .
+*MAR:	el hugo , amb un autocar .
+*CHI:	pcf [% "hi"] .
+*MAR:	anirem a buscar'lo , eh ?
+*CHI:	si .
+%com:	j va jugant amb l' aigua , els adults van xerrant
+*CHI:	xxx [% llenca quelcom a l' aigua i sembla que ho digui j] .
+*CHI:	0 [= va mirant quelcom que te a les mans] .
+*CAR:	que es eso ?
+*CAR:	eh ?
+*CHI:	un xxx xxx [% "un senyo agulla"] .
+*CAR:	una fulla ?
+*CHI:	pcf [% "hum" , sembla que ho diu ell] .
+*CAR:	no es una fulla .
+*CHI:	una floreta .
+*CAR:	no .
+*CHI:	si .
+*CAR:	tampoc .
+*CAR:	tampoc es una floreta .
+*CHI:	no es esto una floreta .
+*CAR:	no .
+*CHI:	una planta [% "una flanta"] .
+*CAR:	es una planta .
+*CHI:	si ?
+*CAR:	si .
+*CHI:	una planta [% "una flanta"] ?
+*CAR:	si , una hierba .
+*CHI:	mira roger [% "mia roger"] .
+*CAR:	oh , miralo a roger .
+*CHI:	<xxx un xxx> [>] [% "xxx un tiraro"] .
+*CAR:	<que te vas a banyar> [<] ?
+*CHI:	ves ?
+*CHI:	se va un xxx [% "se va un tiraro"] .
+*CAR:	quien se va a fumar un cigarro ?
+%com:	es veu com roger va cap a l' altra piscina
+*CHI:	pcf [% "aki"] .
+*CAR:	pcf [% "hum"] .
+*CAR:	ah , tu ?
+*CHI:	si .
+*CAR:	a ver .
+*CHI:	0 .
+%act:	es posa quelcom a la boca que sembla que sigui herba
+*CAR:	uix [% so de fastic] !
+*CAR:	un cigarro [% "un chigarro"] .
+*CAR:	que bicho .
+%com:	j fa veure que treu el fum d' una calada de cigarreta , j continua fent veure que fuma , c mulla a j
+*CHI:	pcf [% "a" , gira el cap] .
+*CAR:	mojate tu la cabeza , va .
+*CAR:	mojate tu la cabeza [% continua mullant a j] .
+*CHI:	no .
+*CAR:	si .
+*CHI:	no .
+*CAR:	si .
+*CHI:	xxx .
+*CAR:	vamos a coger caracoles ?
+*CHI:	no .
+*CAR:	vamos a buscar ?
+*CAR:	si ?
+*CHI:	pcf [% "ff" , fa veure que fuma] .
+*CAR:	vamos a buscar caracoles ?
+*CHI:	no .
+*CAR:	por que ?
+*CHI:	pcf [% "fum" , continua fent veure que fuma] .
+*CAR:	por que ya los tienes aqui ?
+*CAR:	deja de fumar , hombre .
+*CHI:	ya dejo pito ?
+*CAR:	claro .
+*CHI:	pito , pito
+	[% "pitu pitu" , sembla que apagui la simulada cigarreta a l' aigua]
+	.
+*CAR:	muy bien .
+*CHI:	no , es mio .
+*CHI:	0 .
+%act:	es torna a posar la cigarreta
+*CAR:	ah , es tuyo ?
+*CHI:	0 .
+%act:	continua fent veure que fuma
+*CAR:	0 .
+%act:	mulla j
+*CHI:	nene .
+*CAR:	hummm ?
+*CAR:	mira los nenes .
+*CAR:	el guillem .
+*CHI:	otro guillem .
+*CAR:	si .
+*CHI:	otro guillem .
+*CAR:	otro no , solo que hay uno .
+*CHI:	un cigarro ara fuma [% "un sidaro ara fuma" , fa veure que fuma] .
+*CAR:	un cigarro [% "un sigarro"] ?
+*CAR:	tienes uno ?
+*CHI:	si , un cigar [% "si , un sigar"] .
+*CAR:	dame uno .
+*CHI:	a veure .
+*CHI:	quieres con [/?] este ?
+*CAR:	hummm ?
+*CHI:	val .
+*CHI:	que [/?] quieres que fume , si [% "que quieres que chume"] ?
+*CAR:	no .
+*CAR:	0 .
+%act:	intenta treure l' herba a j
+*CAR:	dona'm .
+*CAR:	&-uh [% sembla que ho digui ella] !
+*CAR:	dona'm .
+*CHI:	0 .
+%act:	es llenca a l' aigua
+*CAR:	quieres olas ?
+*CHI:	si .
+*CAR:	pues va [% sembla que digui aixo] .
+*CAR:	0 .
+%act:	mou l' aigua de la piscina
+*CHI:	0 [=! riu] .
+*CAR:	mas ?
+*CHI:	si .
+*CAR:	0 .
+%act:	continua movent l' aigua
+*CAR:	ole , cuantas olas !
+%com:	una ona salta mes que les altres
+*CAR:	uy !
+*CAR:	mas ?
+*CHI:	si .
+*CAR:	0 .
+%act:	continua movent l' aigua
+*CAR:	pcf [% "nyiao"] .
+*CHI:	0 .
+%act:	es tira a l' aigua
+*CAR:	pcf [% "nyinyinyinyinyi" , va movent l' aigua] .
+*CAR:	pcf [% "nyiau" , va movent l' aigua] .
+*CAR:	pcf [% "nyiau"] .
+*CAR:	pcf [% "nyia" , encara mou l' aigua] .
+*CAR:	0 .
+%act:	para de moure l' aigua
+*CAR:	que lleva mama ?
+*CHI:	pantalones .
+*CAR:	pantalones ?
+*CAR:	estas seguro ?
+*CAR:	falta un llapis .
+*CHI:	falta un llapis ?
+*CAR:	pcf [% "hum" , volent dir si] .
+*CAR:	per la piscina .
+*CAR:	i roger , que fa roger ?
+*CHI:	ara banyando [% assenyala cap a l' altra piscina] .
+*CAR:	esta banyando ?
+*CAR:	mira , esta banyando [% assenyala cap a l' altra piscina] .
+*CAR:	a ver ?
+*CAR:	uy , si , se esta banyando !
+*CAR:	sabe nadar ?
+*CHI:	si .
+*CAR:	si ?
+*CAR:	molt be ?
+%com:	e i c parlen entre elles , j continua amb l' herba a la boca
+*CAR:	quieres que me banye contigo ?
+*CHI:	no .
+*CAR:	en la piscina ?
+*CHI:	pcf [% "hum"] .
+*CAR:	aquesta ?
+*CHI:	si .
+*CAR:	que hagamos eso de la xxx .
+*CHI:	tu esta alla [% assenyala a l' altra piscina] .
+*CHI:	tu esta , yo esta , xxx
+	[% "tu esta , yo esta , tatata" , assenyala l' altra piscina] .
+*CAR:	ah , yo aquella y yo en esta ?
+*CHI:	si .
+*CAR:	y tu conmigo aqui ?
+*CHI:	pcf [% "hum" , volent dir si] .
+*CAR:	a nadar ?
+*CAR:	hummm ?
+*CHI:	no .
+*CAR:	ah !
+*CHI:	0 .
+%act:	fa veure que fuma
+*CAR:	es un caguica .
+*CAR:	uix !
+*CAR:	quieres dejar eso (.) bicho ?
+*CHI:	0 .
+%act:	riu , es tira a l' aigua i riu
+*CAR:	te cogere y te comere .
+*CHI:	0 .
+%act:	crida i esquitxa aigua
+*CAR:	te cogere y te comere , bicho .
+*CHI:	0 [=! riu] .
+*CAR:	0 .
+%act:	fa veure que es vol menjar a j
+*CHI:	0 [=! riu] .
+*CAR:	0 .
+%act:	fa veure que agafa a j
+*CHI:	0 .
+%act:	riu i esquitxa a c
+*CAR:	eh !
+*CAR:	0 .
+%act:	toca la cara de j , sembla que prengui l' herba a j
+*CHI:	pcf [% "uhu"] .
+*CAR:	te lo quite .
+*CAR:	oh , ya no tienes !
+*CHI:	el cigarro [% "a sigaro"] .
+*CAR:	se ha perdido el cigarro .
+*CAR:	0 .
+%act:	llenca els cargols a terra
+*CHI:	els cargols [% "a cargoles"] .
+*CAR:	vamos a buscar ?
+*CHI:	els cargols [% "a cargoles"] .
+*CAR:	buscamos por alli por [/?] mas caracoles , a ver si los encontramos
+	mas grandes [% assenyala al seu davant] ?
+*CHI:	si .
+*CAR:	venga , va sal .
+*CHI:	no quiero salir .
+*CAR:	por que no quieres salir ?
+*CHI:	me quedo aqui .
+*CAR:	pues yo voy a abuscarlos [% se'n va de la imatge] .
+*CHI:	si ?
+*CHI:	con este [>] ?
+*CAR:	<por aqui> [<] hay muchos .
+*CAR:	mira , aqui hay uno .
+*CHI:	grande [% "glanke"] ?
+*CAR:	si .
+*CHI:	hay uno grande [% "hay uno glanke"] ?
+*CAR:	si , hay grandes .
+*CAR:	un altre .
+*CAR:	un altre .
+*CAR:	vols ?
+*CHI:	si .
+*CHI:	cargols mi [% "cargoles mi"] .
+*CAR:	0 .
+%act:	surt a la imatge oferint cargols a la ma
+*CHI:	a ver ?
+*CHI:	que tienes ?
+*CHI:	0 [= mira la ma de c] .
+*CHI:	tienes aqui .
+*CAR:	no tengo mas .
+*CHI:	no [% intenta agafar algun cargol de la ma de c] ?
+*CAR:	xxx +/.
+*CHI:	mas .
+*CHI:	xxx mas [% "ponke mas"] .
+*CAR:	mas ?
+*CAR:	pues vamos a buscar , va [% intenta emportar'se a j] .
+*CHI:	no , no , yo espero aqui [% es resisteix] .
+*CAR:	ah , tu me esperas aqui ?
+*CHI:	si .
+*CAR:	0 [= se'n va de la imatge] .
+*CAR:	oh !
+*CAR:	grande , grande .
+*CHI:	grande , grande [% "grangue , drangue"] .
+*CAR:	mira .
+*CHI:	otro .
+*CAR:	0 .
+%act:	apareix a la imatge , oferint un cargol a la ma
+*CHI:	dame otro <gre , gre> [/?] ese [% agafa un cargol de la ma de c] .
+*CHI:	grande ?
+*CAR:	este es gigante , xxx .
+*CAR:	0 [= se'n va de la imatge] .
+*CHI:	<xxx mas> [>] [% "ponke mas"] .
+*CAR:	<canta una> [<] cancion .
+*CHI:	pcf [% "lupatim papu" , pica l' aigua] .
+*CHI:	pcf [% "patim , patim" , pica l' aigua] .
+*CHI:	asi xxx xxx [>] [% "asi rora sapate" , mou els bracos a l' aire] .
+*MAR:	josep [<] .
+*CHI:	pcf [% "patim"] .
+*MAR:	josep .
+*MAR:	que vols venir a la piscina gran ?
+*CHI:	no .
+*MAR:	no ?
+*CHI:	no .
+*MAR:	hi han els nens .
+*CHI:	soy aqui [% "sor aqui"] .
+*MAR:	a la piscina gran .
+*MAR:	vine .
+*CHI:	no .
+*MAR:	amb la mama .
+*MAR:	vine a la piscina gran .
+*CAR:	te llevo a la grande ?
+*CHI:	no [>] .
+*MAR:	<hi ha> [<] el llapis .
+*CHI:	no .
+%com:	s' acaba la sessio
+@End

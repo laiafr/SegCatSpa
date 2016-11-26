@@ -1,0 +1,420 @@
+@UTF8
+@PID:	11312/c-00028052-1
+@Begin
+@Languages:	cat
+@Participants:	CHI gisela Target_Child , MAR mare Mother , ULI uli Nurse , ARI ario Child , INV Investigator
+@ID:	cat|Serra|CHI|1;7.14||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|ULI|||||Nurse|||
+@ID:	cat|Serra|ARI|||||Child|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	ario es un nen que es diu mario i portara la inicial a , uli , inicial u , es la mainadera de gisela , g esta asseguda a la falda de m al costat de una taula a on a toca alguna cosa , g esta plorant
+*MAR:	mira , mira .
+*MAR:	mira el mario com t' ho deixa .
+*MAR:	mira el mario com t' ho deixa allo .
+*CHI:	0 [= gemega i s' acosta a la taula] .
+*MAR:	si .
+*MAR:	agafa'ho home .
+*MAR:	si ja t' ho deixa .
+*CHI:	0 .
+%act:	agafa quelcom
+*ARI:	0 .
+%act:	intenta posar una peca en el joc de construccio
+*CHI:	no [= agitant el brac] .
+*ARI:	si .
+*ARI:	te pongo una pieza .
+*MAR:	deixa'li posar un gisela [= agafant la peca] .
+*MAR:	mira una aqui [= posa la peca] .
+*MAR:	vale ?
+*MAR:	te .
+*MAR:	hi poses tu [= oferint'li la peca a g] ?
+*CHI:	0 .
+%act:	agafa la peca
+*MAR:	que ho poses tu ?
+*MAR:	molt be .
+*ARI:	0 .
+%act:	ajuda a posar'la
+*MAR:	mira .
+*MAR:	el mario t' ajuda .
+*MAR:	vale ?
+*ARI:	ahora una aqui .
+*ARI:	altra aqui [= va posant peces mentre g se'l mira] .
+*MAR:	ho veus que be que parla el catala el mario ara ?
+*MAR:	altra aqui .
+*ARI:	ui !
+*ARI:	altra aqui .
+*ARI:	i dos aqui .
+*ARI:	espera gise [= s' ajup per agafar mes peces] .
+*CHI:	0 [= se'l mira] .
+*ARI:	te traigo mas piezas .
+*MAR:	baixem aqui al terra a jugar [= dirigint'se a g] ?
+*MAR:	eh ?
+*MAR:	baixem aqui al terra ?
+*CHI:	0 [= segueix mirant a] .
+@Comment:	g esta a terra amb m i a , plorant mentre segueix agafant la construccio feta , m se'n va
+*MAR:	un cafetito para la carme .
+*CHI:	0 [= es posa a plorar quan a intenta agafar la peca gran de les mans de g] .
+*ARI:	xxx xxx .
+*CHI:	0 [= segueix plorant] .
+*ARI:	una casita ?
+*CHI:	no .
+*CHI:	no [% "na" , donant un cop de peu des del terra] .
+*ARI:	xxx xxx .
+*CHI:	0 [= segueix plorant] .
+*ARI:	una casa ?
+*CHI:	0 [= deixa de plorar] .
+*ARI:	si [= agafa mes peces] ?
+*ARI:	vale .
+*CHI:	0 [= torna a plorar] .
+*ARI:	0 .
+%act:	ofereix una peca a g
+*CHI:	0 [= plora i llenca la peca gran] .
+@Comment:	g i a van a buscar la peca que ha caigut a sota la taula
+*CHI:	no [= plorant] .
+*ARI:	0 .
+%act:	agafa la peca mentre g protesta
+@Comment:	g s' aixeca plorant i va cap a la cuina on esta m , amb la peca a la ma m va cap a g
+*MAR:	que ha passat ?
+*CHI:	0 [= plorant , assenyala cap a la taula] .
+*MAR:	aqui ?
+*MAR:	posem'ho aqui [= assenyalant una cadira] ?
+@Comment:	g s' estira a terra plorant mentre a segueix jugant , m se'n va cap a g , s' aixeca i va cap a on esta a , gemegant
+*MAR:	te gisela .
+*MAR:	te .
+*CHI:	0 [= es gira cap a m] .
+*MAR:	mira [= fa rodar unes rodes] .
+*MAR:	mira .
+*CHI:	0 [= refrega el brac per el nas] .
+*MAR:	aixo .
+*MAR:	eixuga't el nas .
+@Comment:	g gemega i assenyala cap a a que segueix jugant tot sol
+*MAR:	no .
+*MAR:	shhhh@c [= fent'la callar] !
+*CHI:	0 [= calla i va cap a m] .
+*MAR:	xxx xxx la pelicula .
+*CHI:	0 [= torna a plorar , tirant'se a terra] .
+@Comment:	g , m i a seuen junts a terra al voltant de les peces de construccio , g agafa una de les peces gemegant
+*INV:	mira , ja , ja .
+*MAR:	ets cabrona gisela .
+*MAR:	esta treballant el mario .
+*CHI:	0 [= comenca a ploriquejar] .
+%com:	g asseguda a terra mira cap a e
+*MAR:	que fa xxx xxx .
+*MAR:	ui !
+*MAR:	digues hola hola hola que fa la maria rosa .
+*MAR:	digues hola hola hola .
+*MAR:	hola hola .
+*CHI:	0 [= es gira un moment cap a m] .
+*MAR:	mira [= li acosta una peca] .
+*MAR:	un +...
+*MAR:	una altra .
+*MAR:	una altra [= va posant una peca a sobre de una altra] .
+*CHI:	0 [= se la mira] .
+*MAR:	una altra .
+*MAR:	una altra .
+*MAR:	que mes ?
+*CHI:	0 [= comenca a mirar la peca que te a les mans] .
+*MAR:	una altra .
+*MAR:	te [= oferint a g el que ha fet] .
+*ARI:	aixo aixo [= li agafa una peca a g] .
+*CHI:	0 [=! gemega] .
+*MAR:	no vols ?
+*CHI:	no .
+*CHI:	no [= donant cops de peu i gemegant] .
+*MAR:	les rabietes .
+*MAR:	les rabietes [= seguda davant de g i amb un to de burla tipus pam i pipa] .
+*CHI:	0 [= segueix gemegant] .
+*MAR:	gisela .
+*CHI:	0 [= esta mirant a a] .
+*MAR:	poc en treura la maria rosa si nomes plores .
+*MAR:	poc en treura la maria rosa si nomes plores .
+@Comment:	g s' aixeca i se'n va cap a a que esta jugant
+*ARI:	mira que bonic .
+*CHI:	0 .
+%act:	intenta agafar la peca que munta a
+*ARI:	espera , espera [= estira de la peca] .
+*CHI:	no [= girant'se cap a m] .
+*CHI:	0 [= es posa a plorar] .
+*MAR:	gisela .
+*MAR:	que t' esta ensenyant .
+*MAR:	mira [= agafa una peca] .
+*MAR:	te [= dirigint'se a g] .
+*MAR:	mira .
+*MAR:	posa'li aqui [= ensenyant a on va la peca] .
+*MAR:	te , posa'li .
+*CHI:	0 [= segueix gemegant] .
+*CHI:	0 [= agafa la peca , gemegant] .
+@Comment:	a segueix muntant , quan vol agafar una peca de g aquesta li gemega , despres g calla i es queda mirant a a , m s' aixeca i es posa a parlar amb e , a acaba el muntatge i l' ensenya a la camera fent un somriure , g tambe mira a la camera , a torna a comencar
+*CHI:	0 [= gemega , buscant a m amb la mirada] .
+@Comment:	m esta a la cuina mentre gisela sent que algu entra a casa
+*INV:	gisela [= fa un xiulet] .
+*CHI:	0 [= la mira] .
+*INV:	hola .
+*INV:	tiene un pelo mas corto xxx xxx .
+*CHI:	0 [=! gemega] .
+*CHI:	0 [= mira al pare que apareix per la porta per tancar'la] .
+*CHI:	0 [= segueix gemegant] .
+*MAR:	que tens mocs [= acostant'se a g amb un tovallo de paper] ?
+*CHI:	0 [= fa que no amb el cap i s' acosta cap a a] .
+*MAR:	et trec els mocs xxx [= intentant mocar a g] ?
+*CHI:	0 [= gemega mentre intenta agafar el que te a] .
+@Comment:	g es a la porta de la cuina agafant alguna cosa de menjar que li donen , va cap a on estava abans , g seu a terra recolzantse amb unafira , va menjant la galeta , a es posa a jugar a prop de g , g agafa una peca li acosta a a , a l' agafa
+*ARI:	gracies .
+*CHI:	0 .
+%act:	li ofereix una altra peca que a agafa
+*ARI:	gracies .
+@Comment:	a comenca a recollir totes les peces del voltant mentre g se'l mira , a s' allunya i g es dirigeix cap a una cadira i se'n torna cap on estava abans seguda a terra , s' arrossega simulant el soroll de motor , s' acosta cap a m i se la mira , m ha muntat un vehicle i l'arrossega pel terra donant voltes fins que torna a on esta g , m segueix donant voltes mentre g juga amb un cotxe i unes peces , m esta parlant a la cuina amb algu
+*ARI:	hola [= fa putxinel'lis des de darrera de una cadira] .
+*MAR:	mira el putxinel'li [= esta a prop de a] .
+@Comment:	a segueix jugant amb el putxinelli , i g amb el cotxe , a fa xocar els putxinellis com si aplaudissin
+*MAR:	te aplauden mario ?
+*MAR:	y el publico te aplaude o no ?
+*MAR:	gisela .
+*MAR:	gisela .
+*CHI:	0 .
+%act:	es gira un moment i segueix jugant
+*MAR:	hola !
+*CHI:	0 .
+%act:	mira a e i a i es fica al davant
+@Comment:	a es posa a correr mentre g se'l mira , a porta un piano de joguina i el fica davant de una cadira a on seu per tocarlo , g se'l mira i somriu , m s' acosta a g quan a acaba de tocar
+*MAR:	giseleta .
+*MAR:	mira .
+*MAR:	que t' estan tocant el piano .
+*CHI:	pcf [% "anana"] .
+*MAR:	que t' estan tocant el piano .
+@Comment:	a torna a tocar el piano mentre m ajuda a g a muntar el cotxe
+*CHI:	pcf [% "aa"] .
+@Comment:	a esta tocant el piano i colpejant un cub , fa tant soroll que no es sent el que diuen g i m , g s' aixeca i se'n va cap a a , g agafa el cub i el fa servir de timbal mentre a segueix tocant el piano
+*ARI:	nuria .
+*MAR:	que ?
+*ARI:	tu toca el piano que yo xxx xxx .
+@Comment:	m toca el piano , a colpeja dues peces de fusta i el cub mentre g intenta pujar a l' esquena de m que esta agenollada a terra
+*MAR:	que no em deixes tocar .
+*MAR:	deixa'm tocar [= somriu] .
+*CHI:	0 [=! somriu] .
+@Comment:	m segueix tocant i a fent soroll , g va caient de l' esquena de m
+*MAR:	ui que cau !
+*MAR:	ui que cau !
+*ARI:	0 .
+%act:	s' acosta
+*MAR:	ara et caus .
+*ARI:	0 .
+%act:	segueix fent molt soroll
+*MAR:	a la una .
+*MAR:	a les dos .
+*MAR:	i a les tres [= es deixa caure cap enrera fins que g toca a terra] .
+@Comment:	m i a juguen amb el piano mentre g se'ls mira , a fa tant soroll que no se sent res. g se'n va cap a un cotxet i torna cap a a , a qui li pren una tapa de plastic i despres les peces de fusta amb les que a feia soroll
+*CHI:	pcf [% "aaa"] .
+@Comment:	g comenca a picar amb la tapa i les peces , m segueix tocant el piano mentre g pica amb la tapa al cap de m , a s' aixeca
+*MAR:	prou ja .
+@Comment:	g seu a la cama de m i toca primer el piano i despres el colpeja amb les peces de fusta , a juga amb una pilota , g deixa el piano i s'acosta a a , arrossegantse
+*MAR:	cuidado .
+*MAR:	cuidado .
+@Comment:	hi ha un tall a la filmacio es perd l' imatge i el so , frame 878 , g seu a la falda de u , estan a la taula , g esta tocant una construccio mentre a juga amb la pilota
+*ULI:	no chutes mas ahi la pelota al suelo .
+*ULI:	eh , mario ?
+*ULI:	xxx .
+@Comment:	a s' acosta a la camera tapant el objectiu amb la ma
+*ULI:	ves ?
+*ULI:	malo [= dirigint'se a g] .
+@Comment:	g i u estan mirant un llibre
+*ULI:	xxx xxx las fotos y todas las cosas .
+@Comment:	a s' acosta i agafa el llibre per ensenyarlo a la carrera
+*ULI:	venga tu .
+*ULI:	dejalo [= traiem'li el llibre a a] .
+*ULI:	que esta mirandolo la gisela .
+*ULI:	ya lo ve [= ensenyant'li a g] .
+*ULI:	ya lo ve .
+*CHI:	pcf [% "aa"] .
+*ULI:	oh !
+*ULI:	la ninya .
+*ULI:	que es ?
+*ULI:	traje de banyo rojo [= passa full] .
+*CHI:	a nene .
+*ULI:	un pijama rojo .
+*CHI:	0 .
+%act:	passa el full
+*CHI:	agua [% "aguagua" assenyalant un got en el llibre] .
+*ULI:	ves ?
+*CHI:	agua .
+*ULI:	un vaso rojo .
+*ULI:	de agua si .
+*ULI:	agua .
+*CHI:	agua [= passant el full] .
+*ULI:	agua .
+*CHI:	agua .
+*ULI:	agua [= passa el full] .
+*CHI:	agua .
+*ULI:	mira [= assenyalant el llibre] .
+*ULI:	tinta en rojo .
+*ULI:	ves ?
+*ULI:	tinta en rojo .
+*CHI:	pcf [% "ieie"] .
+*ARI:	0 [= estossega] .
+*MAR:	que te ha pasado [% "pasao" en comptes de pasado] ?
+*ARI:	0 [= segueix estossegant] .
+*MAR:	que te ha pasado a ti [% "pasao" en comptes de pasado] ?
+@Comment:	g i u segueixen mirant el llibre
+*ULI:	no me gusta el rojo porque el rojo xxx xxx .
+*CHI:	0 .
+%act:	acaba de passar l' ultim full
+*ULI:	ves ?
+*CHI:	pcf [% s' enten "ie"] .
+*ULI:	ya esta !
+*CHI:	ya esta .
+*ULI:	esta ?
+*CHI:	0 .
+%act:	aparta el llibre
+@Comment:	se sent un soroll i g es gira en la direccio del soroll
+*ULI:	que ves ?
+@Comment:	u esta seguda a la cadira i g esta dreta als peus d' u
+*CHI:	0 [= gemega estirant el pantalo d' u] .
+*ULI:	no corras [= negant amb el cap] .
+*CHI:	0 [= segueix gemegant] .
+*ULI:	que no voy [= segueix negant amb el cap] .
+*CHI:	0 [= gemega i estira del brac a u] .
+*ULI:	que no voy .
+@Comment:	hi ha un petit tall , g , m i a estan davant del televisor , a i m estan agenollats i g dreta
+*CHI:	pcf [% "ia"] .
+*MAR:	hum , no n' hi ha .
+@Comment:	g s' ajup mentre m sintonitza la tele i toca el volum , g es mira la part baixa de la tele , hi ha un tall sense imatge ni so des del frame 958 fins al 964 , a i g estan seguts a terra jugant amb blocs , pero cadascu te les seves peces
+*ARI:	ay !
+*ARI:	que bonic !
+@Comment:	a i g segueixen muntant els blocs , a esta fent una columna de 6 blocs mentre que g intenta posarne tambe un sobre d' altre
+*INV:	ui !
+*INV:	la tuya que grande es [= dirigint'se a a] .
+*ARI:	si [= mirant a e] .
+*ARI:	un dia hice una torre que pasaba de la mesa .
+*CHI:	0 .
+%act:	cau la seva pila i mira a e
+*ARI:	xxx no me la +/.
+*INV:	ui !
+*ARI:	esta torre .
+*ARI:	esta torre me saldria .
+@Comment:	g esta agafant blocs de la caixa , fa soroll i no es sent el que diu a
+*ARI:	xxx xxx .
+*ARI:	le estas haciendo una foto a la torre ?
+*INV:	0 [=! somriu] .
+@Comment:	a segueix posant blocs a la torre mentre g fa picar els blocs
+*CHI:	pcf [% s' enten "amame"] .
+*ARI:	pcf [% "amame" , somriu] .
+*ARI:	no sabe xxx xxx .
+*CHI:	0 .
+%com:	esta fent soroll i no es sent el que diu a
+*CHI:	pcf [% "amame" , remenant el calaix] .
+*ARI:	te estoy xxx xxx [= li cau la torre] .
+*ARI:	ya empezamos como siempre .
+*CHI:	pcf [% "ie"] .
+*ARI:	ya empezamos [% "empesamos" en comptes de empezamos , recollint els blocs] .
+*ARI:	ahora ya lo tenia [= torna a comencar la torre] +...
+*CHI:	pcf [% "ii"] .
+*CHI:	pcf [% "ee"] .
+*CHI:	pcf [% "ee" , fa picar els blocs amb el terra] .
+*ARI:	que pasa ?
+*CHI:	pcf [% "bibi" , fa picar el blocs] .
+*ARI:	no se que le pasa a la gisela [= muntant una torre] .
+*ARI:	que esta cantando .
+%com:	a comenca a cantar
+*ARI:	pcf [% "mmm"] .
+*ARI:	pcf [% "tutututu"] .
+*CHI:	0 [= mira a e] .
+*CHI:	0 [= fa com si s' enganxes] .
+*ARI:	el vint'i'cinc de desembre [= cantant] .
+*CHI:	0 .
+%act:	cau d' esquena i s' aixeca
+*ARI:	0 [=! somriu] .
+@Comment:	g s' acosta els blocs cap a ella i llanca alguns cap a a
+*ARI:	que fas gis ?
+*ARI:	tirar les coses ?
+*CHI:	0 .
+%act:	segueix llencant'li blocs
+*ARI:	oh !
+*ARI:	que bonic [= segueix posant blocs a la torre] !
+*ARI:	que fas gis ?
+*ARI:	no , no .
+*ARI:	no .
+@Comment:	la torre cau i a mira a e fent un somriure
+*ARI:	pues hare una cosa mas preciosa [= mentre recull els blocs] .
+*CHI:	pcf [% "utitia" , mentre s' acosta a a] .
+*ARI:	que fas pituca ?
+*ARI:	gis , sal !
+*CHI:	0 .
+%act:	agafa un bloc i s' aixeca
+*CHI:	0 [= estossega] .
+*ARI:	gis , sal !
+*CHI:	0 [= segueix estossegant , es gira i torna cap a a] .
+*ARI:	ay !
+*ARI:	ya lo +...
+*ARI:	tengo .
+*ARI:	ya lo tengo .
+*CHI:	0 .
+%act:	s' ajup al costat de a
+*ARI:	que te salgas de aqui gisela [= comenca una altra torre] .
+*ARI:	de aqui .
+*CHI:	0 .
+%act:	agafa un bloc
+*ARI:	que no me cojas [= segueix muntant la torre] .
+*CHI:	0 .
+%act:	agafa uns quants blocs
+*ARI:	jolin !
+*CHI:	0 .
+%act:	se'n va
+*ARI:	si es que me coje todo la gise .
+@Comment:	g se'n va cap al piano i comenca a colpejarlo , a segueix muntant la torre
+*ARI:	ah , ya lo se hacer !
+*ARI:	primero la redonda .
+*CHI:	0 .
+%act:	va a buscar mes blocs
+*ARI:	aqui [= muntant la torre] .
+*ARI:	ya esta bien .
+*ARI:	y luego lo alargado .
+*ULI:	despues acuerdate que tienes que guardarlo todo .
+*ULI:	eh , mario ?
+*ARI:	si .
+@Comment:	g va portant blocs i posantlos a sobre del teclat del piano
+*ARI:	ay !
+*ARI:	me se ha caido .
+*CHI:	0 .
+%act:	s' acosta a a
+*CHI:	pcf [% "aa"] .
+*ARI:	que fas gis ?
+*CHI:	0 .
+%act:	allarga el brac cap al cap d' a
+*ARI:	que no [= apartant'li la ma] !
+@Comment:	g se'n va cap al sofa
+*CHI:	pcf [% "tete"] .
+*CHI:	pcf [% "tete" , intenta pujar al sofa] .
+%com:	g manipula peces de un tente
+*CHI:	pcf [% "o"] .
+*CHI:	pcf [% "mimi"] .
+*CHI:	pcf [% "ta" , agafa una peca] .
+@Comment:	g desmunta unes peces i les posa a una torreta que ja esta feta , despres li cau una peca i la recull , g puja al sofa i s' estira , te singlot , g desmunta una columna feta i en munta algunes mes petites sobre una base del tente , segueix amb el singlot , a agafa el piano mentre g segueix amb les columnes
+*CHI:	pcf [% "alapic" , mentre segueix muntant] .
+*ULI:	que silencio !
+*ULI:	ah , que esta distraida .
+*CHI:	0 .
+%act:	segueix amb el que fa
+@Comment:	g desmunta les columnes mentre a ja fa una altra torre mes alta que les altres que ha fet
+*INV:	caramba !
+@Comment:	g ha muntat una columna nova
+*CHI:	0 [= gemega mentre busca alguna peca a terra] .
+*CHI:	pcf [% "auui"] .
+*CHI:	pcf [% "atilica" , mentre baixa del sofa] .
+@Comment:	g ha llencat algunes peces i n' agafa d' altres , ara intenta pujar al sofa i a la vegada colloca una columna
+*CHI:	pcf [% "ti"] .
+*CHI:	pcf [% "tete"] .
+*ARI:	0 [= estossega] .
+*CHI:	pcf [% "tetete"] .
+@Comment:	hi ha un tall , g apareix a terra , al costat del sofa amb un cubell de plastic al cap , el cubell li cau , el va a buscar , se'l posa i va cap a e i a
+*CHI:	pcf [% "tetete"] .
+*CHI:	pcf [% "tete"] .
+@Comment:	g seu a un tamboret , s' aixeca i se'n va cap a a
+*CHI:	pcf [% "tete"] .
+*CHI:	pcf [% "tetetete" , passejant'se per davant d' a] .
+*CHI:	pcf [% "tete" , davant a] .
+*CHI:	0 .
+%act:	agafa a a pel coll i espatlles
+@Comment:	g estira la cremallera del xandall d' a i aquest l' aparta , g torna a agafar i estirar la cremallera , cau la torre de a i aquest empeny a g
+*ARI:	que [= recull els blocs] ?
+@Comment:	g marxa
+@End

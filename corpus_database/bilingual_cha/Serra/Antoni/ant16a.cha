@@ -1,0 +1,554 @@
+@UTF8
+@PID:	11312/c-00001897-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI antoni Target_Child , MAR mama Mother , PAR pare Father , UGE eugeni Child
+@ID:	spa , cat|Serra|CHI|1;4.01||||Target_Child|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@ID:	spa , cat|Serra|UGE|||||Child|||
+@Comment:	a segut al cotxet , m es davant d' ell , seguda a una cadira , li dona el menjar
+*CHI:	pcf [% s' enten "nyo oo" , assenyala la camera i mira a m] .
+*MAR:	que ?
+*MAR:	video .
+*MAR:	0 .
+%act:	li posa la cullera a la boca
+*MAR:	es un video , eh !
+*MAR:	que te gusta [= mentre li dona menjar] ?
+*CHI:	pcf [% "to" , mira i assenyala la camera] .
+@Comment:	m mira la camera
+*MAR:	que hace la carme ?
+*MAR:	que tiene , eh ?
+@Comment:	a manipula la cullera que te a la ma
+*CHI:	pcf [% "na , na"] .
+*MAR:	carme ?
+*MAR:	carme !
+*CHI:	carme [% "anna"] .
+*MAR:	carme !
+@Comment:	a es posa la cullera que manipula a la boca
+*MAR:	chsss@c antoni !
+*MAR:	antoni .
+*CHI:	pcf [% s' enten "mm" , es treu la cullera de la boca] .
+*MAR:	pure que bueno .
+*MAR:	0 .
+%act:	li acosta la cullera a la boca
+*MAR:	pure [= mentre li posa la cullera a la boca] .
+*CHI:	pcf [% "aaah" , mentre juga amb la cullera] .
+*CHI:	pcf [% "omi"] .
+*PAR:	que passa aqui , eh ?
+@Comment:	a es posa la cullera a la boca
+*MAR:	0 .
+%act:	xiula per cridar l' atencio d' a
+*CHI:	pcf [% "oto" , es treu la cullera de la boca] .
+%com:	a es gira i allarga el brac , pica un moble proxim
+*MAR:	no , eso no .
+*CHI:	pcf [% "tele" , mentre mou la cullera] .
+*PAR:	aixo com es diu ?
+*PAR:	cullera .
+@Comment:	a es gira intentant picar el moble amb la cullera , m acosta el cotxet cap a ella
+*CHI:	chiquitita
+	[% "titita" , es gira mirant cap a p i ensenyant la cullera] .
+*PAR:	no , cullera .
+*MAR:	es chiquitita , dice .
+*CHI:	pcf [% "odauabu" , mira a m] .
+*CHI:	pcf [% "mimo" , assenyala a la taula] .
+*MAR:	0 .
+%act:	li posa la cullera a la boca
+*MAR:	que es esto ?
+*MAR:	pure .
+*CHI:	0 .
+%act:	es posa la cullera a la boca
+@Comment:	a va jugant amb la cullera i m espera
+*MAR:	va antoni , quieres pure ?
+*MAR:	un poquito de pure ?
+@Comment:	apareix p i a li ensenya una cullera
+*PAR:	com es diu aixo ?
+*PAR:	cullera [= mentre agafa la cullera d' a] .
+*PAR:	eh ?
+*CHI:	0 [= mira el video i assenyala] .
+*CHI:	pcf [% "mou" , mira el video i l'assenyala] .
+*MAR:	eso es un video .
+*MAR:	video .
+*MAR:	lo que tiene la carme , <quieres saber lo que es> [>] ?
+*PAR:	<xxx xxx xxx xxx> [<] .
+*MAR:	es un video .
+*CHI:	pcf [% "ma" , mira la camera] .
+%com:	a mira la camera mentre m li dona menjar
+*MAR:	xxx xxx xxx .
+*CHI:	pcf [% "ami" , mentre dirigeix el brac cap a la camera , mira a m]
+	.
+*PAR:	dejalo , dejalo [= mentre baixa el brac esquerre d' a] .
+*CHI:	pcf
+	[% "aue" , mira la camera i dirigeix el seu brac dret cap a ella] .
+*PAR:	si , escolta .
+*CHI:	pcf [% "otu" , el pure de la boca li cau sobre el pitet] .
+*PAR:	ale xxx !
+@Comment:	a mira el pitet
+*MAR:	venga va [= mentre acosta la cullera amb pure] .
+@Comment:	p li dona la cullera , a es gira , dona un cop al barrot del cotxet amb la cullera
+*CHI:	pcf [% "eeh" , es gira cap als pares] .
+*MAR:	un poquito de pure , eh ?
+@Comment:	a toca de nou el barrot sense girarse , a agafa una altra vegada la cullera i dona cops al barrot
+*MAR:	xxx .
+*MAR:	venga .
+@Comment:	a es gira i intenta donar cops a un moble proxim amb la cullera
+*CHI:	agua [% "aba" , mirant els pares] .
+*PAR:	no ara no .
+*MAR:	agua , esta mal esto del agua , no hemos traido el biberon .
+@Comment:	m acosta la cullera de pure i a aparta la cara
+*CHI:	agua [% "aba" , mirant a p] .
+*PAR:	espera't home .
+*PAR:	primer menja .
+*CHI:	agua [% "aba"] .
+*CHI:	agua [% "aba" , es gira cap al moble del costat] .
+*PAR:	aixo es campari , o sigui que ja veus la cosa que va mal encaminada
+	.
+@Comment:	a es gira cap als pares
+*CHI:	agua [% "aba"] .
+*PAR:	no , campari .
+@Comment:	a es gira cap al moble
+*MAR:	venga va .
+%com:	m toca el brac d' a per cridarli l' atencio
+*MAR:	antoni .
+@Comment:	a es gira cap a m
+*CHI:	pcf [% "esture" , mentre assenyala el moble] .
+*MAR:	pure , oh , pure que bueno , va .
+*MAR:	ah , que rico !
+*CHI:	pcf [% "yuuh lu" , mentre assenyala cap a la camera] !
+*PAR:	xxx xxx xxx [= desapareix de la imatge] .
+*CHI:	pcf [% "lu" , assenyala la camera] .
+*MAR:	que ?
+*CHI:	pcf [% "laaa" , mira a la camera] .
+@Comment:	m li dona menjar
+*MAR:	que hace la carme , eh ?
+*MAR:	que tiene la carme ?
+*MAR:	que es eso ?
+*PAR:	si , com va aixo com va aixo [= parla amb una altra persona] .
+*CHI:	carme [% "amma"] .
+*MAR:	carme ?
+*PAR:	0 [= es continua sentint la seva conversa] .
+*MAR:	<llama a la carme> [>] .
+*CHI:	<pcf [% "aaah"]> [<] .
+*MAR:	carme !
+*MAR:	a ver como la llamas ?
+*CHI:	carme [% "amma" , mirant a m] .
+*MAR:	carme .
+*MAR:	donde esta la carme , eh ?
+*MAR:	esta aqui ?
+*MAR:	es aquella [= assenyalant a la camera] ?
+*MAR:	donde esta la carme ?
+*CHI:	carme [% "amma"] ?
+*MAR:	ah !
+*CHI:	carme [% "ama"] .
+*MAR:	ah !
+*CHI:	pcf [% s' enten "nana"] .
+*CHI:	pcf [% "nana"] .
+*MAR:	oh , cuando se vea en la tele !
+*MAR:	el otro dia cuando salio antoni fue tan divertido porque cuando
+	llego a casa +...
+*MAR:	<dice papa papa> [>] .
+*MAR:	y assenyalaba con el dedo la tele
+	[= mentre es gira cap a la camera] .
+*CHI:	<pcf [% "teta"]> [<] .
+*MAR:	luego te veras en la tele , antoni .
+*CHI:	mi tele .
+*MAR:	la tele si , venga [= donant'li la cullerada] .
+*MAR:	pure , un poquito de pure , eh ?
+*MAR:	que esta buenisimo .
+*MAR:	hum , que rico !
+*CHI:	tato@c .
+*MAR:	xxx es tato@c .
+*MAR:	venga xxx [= posant'li la cullera a la boca] .
+*CHI:	pcf [% "totote" , mirant a m] .
+*MAR:	donde esta la tortuguita , antoni ?
+*CHI:	tortuga [% "totuta"] .
+*MAR:	donde esta ?
+*CHI:	pcf [% "tot"] .
+@Comment:	des de'l frame 545 fins al 565 la imatge parpelleja i el so se'n va , a mira el moble
+*CHI:	agua [% "aba"] .
+*MAR:	agua .
+%com:	m li toca el brac a a
+*MAR:	veu .
+*CHI:	pcf [% "baba"] .
+*MAR:	si , agua .
+@Comment:	a es gira cap al moble
+*CHI:	pcf [% "durpe" , mirant a m] .
+*MAR:	que [= allarga la lletra e] ?
+*CHI:	agua [% "aba"] .
+*MAR:	agua ?
+*MAR:	pero para que quieres el agua , para jugar o para beber , eh ?
+*MAR:	me parece que la quieres para jugar .
+*CHI:	agua [% "aba" , mirant a m] .
+*CHI:	agua [% "aba"] .
+%com:	a juga amb la cullera
+*MAR:	antoni .
+*CHI:	nene .
+*MAR:	donde esta el nene ?
+*MAR:	no esta [= gira el cap cap a un costat de l' habitacio] .
+*MAR:	como se llama el nene ?
+*MAR:	eugeni .
+*CHI:	pcf [% "aah lala"] .
+*MAR:	0 .
+%act:	li acosta la cullera
+*CHI:	pcf [% "ammmh" , gira el cap cap al moble] .
+*MAR:	0 [=! somriu] .
+%com:	m xiula per a que el nen obri la boca per menjar
+*MAR:	no lo sabes hacer [= torna a xiular] .
+*CHI:	pcf [% "mm"] .
+*MAR:	0 [= torna a xiular] .
+*CHI:	pcf [% "eeh"] .
+*MAR:	que es eso , eh ?
+@Comment:	a es gira cap a la taula on hi ha el menjar
+*MAR:	0 [= torna a xiular] .
+*CHI:	pcf [% "eeh" , esten el brac cap al moble i intenta colpejar'lo] .
+*MAR:	va , venga , vamos a comer pure .
+*CHI:	0 .
+%act:	colpeja el cotxet
+*MAR:	antoni [= li toca la panxa per a que es giri] .
+*CHI:	0 .
+%act:	es gira cap a m
+*MAR:	<quieres pure> [>] ?
+*CHI:	<pcf [% "doda"]> [<] .
+*MAR:	pure ?
+*MAR:	que bueno que esta !
+*MAR:	bien bien bien .
+@Comment:	a retira la cara i no vol menjar
+*MAR:	va .
+@Comment:	a juga amb la cullera , posantsela a la boca
+*CHI:	pcf [% "aah"] .
+*PAR:	que hem de fer [= apareix en la imatge i s' acosta a a] ?
+@Comment:	a es treu la cullera de la boca
+*CHI:	pcf [% "ai"] .
+@Comment:	m li acosta la cullera
+*PAR:	escolta'm .
+*PAR:	que farem aquesta tarda , eh ?
+*CHI:	pcf [% "adro" , assenyalant cap endavant] .
+*PAR:	la radio , no [= somriu] .
+*PAR:	la radio no , aixo no es una radio .
+*MAR:	xxx .
+*CHI:	pcf [% "ao"] .
+*PAR:	no , la radio no .
+@Comment:	a es torna a posar la cullera a la boca , a ensenya la cullera
+*CHI:	agua [% "aba"] .
+%com:	a colpeja el cotxet
+*CHI:	agua [% "aba"] .
+*PAR:	espera't , home , espera't .
+*MAR:	no , quiere agua para jugar , siempre juega xxx [= li diu a p] .
+*PAR:	una ampolla vols ?
+*CHI:	agua [% "abua"] .
+@Comment:	m li posa la cullera a la boca
+*MAR:	para que quieres el agua , antoni ?
+*CHI:	pcf
+	[% "toe" , la cullera amb la que juga se li cau entre les cames] .
+*MAR:	para jugar ?
+*PAR:	estudi ?
+*CHI:	pcf [% "olo"] .
+@Comment:	p ensenya a a la cullera amb la que jugava
+*CHI:	pcf [% "yio yio" , agafa la cullera] .
+*CHI:	pcf [% "ieto"] .
+*MAR:	que hace el coche ?
+*PAR:	raletralet@c fem raletralet@c .
+*CHI:	pcf [% "ee" , rient] .
+*PAR:	fes raletralet@c .
+*CHI:	pcf [% "immmm"] .
+*PAR:	<ei , fem> [/?] ei fem raletralet@c
+	[= agafa la ma d' a i en ella fa el joc del ralet ralet] .
+*PAR:	fem raletralet@c .
+*PAR:	fem raletralet@c , raletralet@c [= dona una palmellada] .
+*PAR:	ralet ralet ralet ralet .
+@Comment:	a juga amb la cullera
+*CHI:	chiquitita [% "chichita" , mentre mira a m] .
+*MAR:	chiquitita la cuchara [= li dona una cullerada] .
+*MAR:	si .
+%com:	m neteja la ma d' a i li arregla una mica el pitet
+*PAR:	mira a ta mare quines cosetes fas .
+*CHI:	pcf [% "e eh"] .
+*PAR:	si .
+*MAR:	que pasa ?
+*MAR:	xxx [= no s' enten el que diu] .
+*MAR:	que no haces los globitos ?
+*MAR:	quieres hacer los globitos [= en veu baixa] ?
+*PAR:	ralet ralet ralet [= en veu baixa] .
+*CHI:	pcf [% "aah"] .
+*PAR:	ralet ralet ralet ralet
+	[= augmentant la veu mica en mies , ca riu a l' ultim ralet] .
+*PAR:	ralet ralet ralet ralet ralet ralet [= agafant la ma d' a] .
+%com:	la cullera li cau a terra
+*PAR:	0 .
+%act:	dona una palmellada a a
+@Comment:	a s' inclina allargant la ma cap a terra amb la intencio d' agafar la cullera , p agafa la cullera i la dona a a
+*PAR:	ralet ralet ralet ralet .
+*MAR:	venga , pure [= mentre ofereix la cullera a a] .
+*PAR:	ralet ralet ralet [= agafant la ma d' a] .
+*MAR:	es que si lo distraes de esta manera no comera [= dirigint'se a p]
+	.
+*MAR:	xxx .
+*MAR:	0 .
+%act:	arregla el pitet d' a
+*CHI:	0 [= gira el cap una mica] .
+*CHI:	pcf [% "to to" , mentre aixeca els bracos amb la cullera a la ma] .
+*CHI:	esto
+	[% "eto" , mentre allarga el brac cap el moble amb la cullera a la ma intentant tocar el moble]
+	.
+*CHI:	esto [% "eto" , movent el brac] .
+*CHI:	pcf [% "paba" , mentre mira el moble] .
+*CHI:	aba [% "agua"] .
+@Comment:	a es gira cap a m , p s' en va
+*MAR:	agua [= mentre li dona el menjar] ?
+*MAR:	oye antoni , la mari donde esta ?
+*CHI:	pcf [% "ane"] .
+*MAR:	0 .
+%act:	li dona menjar
+*MAR:	donde esta la mari ?
+*MAR:	llama a la mari .
+*MAR:	mari !
+*CHI:	pcf [% "dode" , mentre mira a m] .
+*MAR:	llama a la mari .
+*MAR:	mari .
+*CHI:	mari [% "aii"] .
+*CHI:	mari [% "aiii"] .
+*MAR:	si .
+*MAR:	esta en su casita la mari [= mentre li posa la cullera a la boca] ?
+*CHI:	pcf [% "aii"] .
+*MAR:	mari [= mentre li posa cullerada] .
+*CHI:	pcf [% "aoo" , amb la cullera a la boca] .
+@Comment:	a es gira una mica cap a la camera , despres es gira en direccio a m pero sense mirarla
+*CHI:	pcf [% "ay"] .
+%com:	a es pica la cama amb la seva cullera mirantsela
+*CHI:	pcf [% "dodee"] .
+@Comment:	m li ofereix la cullera amb el menjar
+*CHI:	0 .
+%act:	retira la cara en direccio a la camera
+*CHI:	pcf
+	[% "dori dori" , girant el cap i allargant el brac cap a la seva cullera cap el moble]
+	.
+%com:	a es canvia la cullera de ma
+*CHI:	pcf
+	[% "tutee" , ajupint'se i allargant el brac , assenyalant la part baixa del moble]
+	.
+@Comment:	m fa el gest d' aguantarlo per que no caigui
+*CHI:	pcf [% "tutee" , gira el cap cap a m , mantenint el brac estirat] .
+@Comment:	m agafa a a pel pitet , li posa la cullera de menjar a la boca
+*MAR:	venga va .
+*MAR:	llevas el pelo todo lleno de pure .
+@Comment:	a agita les mans , agafa la seva cullera amb les dos mans i se la posa a la boca
+*CHI:	pcf [% "adtudte"] .
+@Comment:	m neteja la roba d' a amb el pitet , a segueix amb la cullera a la boca , m agafa el brac esquerre d' a
+*MAR:	a ver .
+*MAR:	xxx .
+@Comment:	a segueix amb la cullera a la boca
+*MAR:	baja la cabecita un poco
+	[= mentre li baixa una mica el cap amb la ma] .
+*MAR:	asi .
+*MAR:	oh , que bien !
+%com:	m neteja el cabell d' a amb el pitet
+*MAR:	vamos a limpiar el pelito que se ha llenado de pure .
+*CHI:	pcf [% s' enten "anita"] .
+*CHI:	0 .
+%act:	es posa la cullera a la boca
+@Comment:	m prepara una cullerada de menjar
+*MAR:	quieres mas pure ?
+*CHI:	pcf [% "coli" , mirant a m] .
+*MAR:	pure ?
+*MAR:	un poquito de pure ?
+*CHI:	0 .
+%act:	juga amb la cullera
+*MAR:	va .
+%com:	m arregla el pitet d' a
+*MAR:	mira que el eugeni come pure , eh
+	[= aparta la cullera amb la que juga a] ?
+*MAR:	xxx [= posa la cullera a la boca d' a] .
+*MAR:	oh , que rico el pure , eh ?
+@Comment:	a esta jugant amb la cullera
+*MAR:	antoni .
+*MAR:	un poquito de pure , carinyo [= oferint'li la cullera amb menjar] .
+*MAR:	no tienes hambre ?
+*MAR:	eh ?
+*MAR:	pcf [% "aum" , li posa la cullera a la boca] .
+*MAR:	no quieres mas ?
+*CHI:	pcf [% "ada"] .
+*MAR:	quieres pure o no ?
+*CHI:	pcf [% "talia" , juga amb la cullera] .
+*MAR:	xxx [= en veu baixa] .
+*MAR:	antoni .
+*MAR:	0 [= xiula] .
+*CHI:	0 .
+%act:	es gira cap a m
+*MAR:	quieres pure ?
+*CHI:	0 .
+%act:	es treu la cullera de la boca
+*MAR:	eh ?
+*MAR:	xxx bien [% la xxx vol dir "aum" , vol cridar l' atencio d' a] .
+@Comment:	a escup el pure sobre el pitet
+*MAR:	oi , si empiezas a hacer esto ya +...
+*MAR:	mal , eh [= neteja la boca d' a amb el pitet] .
+*MAR:	no quieres mas pure ?
+*CHI:	pcf [% "noni" , es mira la ma] .
+*MAR:	venga , si no quieres mas pure ya no hay mas pure .
+*MAR:	vamos a buscar el pollito
+	[% "tito" en comptes de pollito , neteja la ma d' a amb el pitet] .
+*MAR:	eh ?
+*CHI:	pollito [% "iito"] .
+*MAR:	quieres pollito ?
+*CHI:	pollito [% "iito"] .
+*MAR:	voy a buscar pollito .
+*MAR:	eh ?
+@Comment:	m agafa la tassa del pure i s' aixeca sortint de la imatge , a s' esta quiet en el cotxet jugant amb la cullera , apareix l' eugeni , es dir u en la transcripcio
+*UGE:	0 .
+%act:	acaricia les mans , nas i cap d' a
+*CHI:	0 [=! riu] .
+*CHI:	agua [% "aba" , mentre li ensenya la cullera a u] .
+*UGE:	agua ahora no .
+@Comment:	a es gira cap a un moble proxim acostant la cullera
+*CHI:	pcf [% "tude"] .
+*UGE:	li porto aigua [= mira a la camera] ?
+*CHI:	agua [% "aba"] .
+*UGE:	ara vindra el pollito .
+@Comment:	u fa pessigolles al nas d' a , a aixeca la cama i u l' hi agafa
+*CHI:	pcf [% "ole" , mentre gira el cap cap enrera] .
+*CHI:	0 .
+%act:	es gira cap a u
+*CHI:	pcf [% "tuti tute"] .
+*UGE:	0 .
+%act:	aixeca la cama esquerra d' a
+*CHI:	pcf [% "neeeieee"] .
+@Comment:	u desapareix de la imatge i es veu a m seguda preparant el menjar , a juga amb la cullera a la boca
+*MAR:	que rico , eh ?
+*MAR:	antoni ?
+*CHI:	0 .
+%act:	es gira cap a m intentant tocar la taula
+*MAR:	no , espera .
+*CHI:	pcf [% "e"] .
+*MAR:	es que quema , quema .
+*CHI:	quema [% "mema"] .
+*MAR:	quema si .
+*CHI:	quema [% "mema"] .
+@Comment:	a es toca la cama amb la cullera que esta jugant , a esta intentant treure's un mitjo
+*CHI:	quema [% "mema" , mentre segueix jugant amb el mitjo] .
+*CHI:	0 .
+%act:	es gira cap a m
+*CHI:	quema [% "mema"] .
+*CHI:	0 .
+%act:	es gira cap a m
+*CHI:	quema [% "mema"] .
+*MAR:	ah !
+*MAR:	bueno , que es esto [= li dona una mica de pollastre] ?
+*MAR:	pollo [= en veu baixa] .
+*MAR:	es bueno el pollo ?
+*CHI:	0 .
+%act:	allarga el brac cap a m
+%com:	li cau un tros de pollastre a m i el recull
+*CHI:	pcf [% "ti ti ti"] .
+*MAR:	si si .
+*MAR:	ah , que bueno [= mentre li posa la cullera a la boca] !
+@Comment:	a es gira cap a la camera , m li segueix donant menjar
+*MAR:	esta rico ?
+@Comment:	a passa els seus bracos sobre el cap
+*CHI:	pcf [% "um uh" , es gira cap a m i allarga el brac] .
+*MAR:	donde esta el pollo ?
+*MAR:	esta en la boca o te lo has tragado ?
+*MAR:	pcf [% "a a"] .
+*MAR:	abre la boca antoni .
+*MAR:	no hay pollo ?
+*MAR:	no [= mentre li dona de menjar] ?
+*MAR:	que rico !
+*MAR:	eh ?
+*CHI:	0 .
+%act:	allarga el brac cap a la taula
+*CHI:	pcf [% "i i"] .
+*CHI:	pcf [% "momo"] .
+*MAR:	que quieres ?
+*MAR:	quieres mas ?
+*CHI:	pcf [% "ana"] .
+*CHI:	pcf [% "ana"] .
+*MAR:	pcf [% "am am xxx xxx" , li posa la cullera a la boca d' a] .
+*MAR:	antoni , lo has masticado ?
+*MAR:	mira , entonces tienes que hacer [= fa el gest de mastegar] .
+*MAR:	masticar .
+*CHI:	pcf [% "uuuh"] .
+*MAR:	espera .
+*CHI:	pcf [% "ina"] ?
+*CHI:	pcf [% "nina"] .
+*CHI:	pcf [% "ina"] .
+*MAR:	0 .
+%act:	li dona el menjar
+*MAR:	xxx [= en veu baixa] .
+*MAR:	el pollo te gusta mas que el pure .
+*CHI:	pcf [% "ee" , estira el brac cap a la taula] .
+*MAR:	espera .
+*CHI:	pcf [% "ia"] ?
+*CHI:	pcf [% "na"] .
+*MAR:	xxx .
+*MAR:	0 .
+%act:	dona menjar a a i li arregla el pitet
+*CHI:	pcf [% "nina"] ?
+*CHI:	pcf [% "nina"] .
+*MAR:	no nena no .
+*MAR:	pollo .
+@Comment:	a juga mirant a u
+*CHI:	pcf [% "umm" , mirant cap a u que esta fora de la imatge] .
+*CHI:	0 .
+%act:	posa tot el seu cos cap al davant
+*MAR:	0 [= mira a u] .
+*MAR:	0 .
+%act:	es gira cap a a
+*CHI:	0 .
+%act:	posa el cos cap endavant
+*MAR:	que hace el eugeni ?
+*MAR:	eh !
+*CHI:	eugeni [% "ai" , mirant a m] !
+*MAR:	que hace el eugeni ?
+*MAR:	0 .
+%act:	dona de menjar a a
+*CHI:	0 .
+%act:	es gira cap a m
+*CHI:	eugeni [% "ani"] ?
+*MAR:	que hace el eni ?
+*MAR:	eni !
+*MAR:	como se llama ?
+*MAR:	eni !
+*CHI:	eni [% "ai"] .
+*CHI:	0 [= mira a m] .
+*MAR:	eni !
+*CHI:	eni [% "ai"] .
+*MAR:	si .
+*CHI:	pcf [% "dude" , aixecant el brac] .
+*PAR:	que passa aqui [= fora d' imatge] ?
+*CHI:	pcf [% "ani"] .
+*CHI:	pcf [% "ato"] .
+*CHI:	0 [= assenyala cap a p que esta fora d' imatge] .
+*CHI:	0 .
+%act:	es gira cap a m
+*CHI:	pcf [% "i i i" , somriu] .
+*CHI:	0 .
+%act:	es gira cap a p
+*MAR:	que ?
+*CHI:	0 .
+%act:	es gira cap a m i allarga el brac
+*CHI:	pcf [% "tonto"] .
+*MAR:	que ?
+*CHI:	pcf [% "iino"] .
+*MAR:	0 .
+%act:	dona de menjar a a
+*MAR:	donde esta el zapato , antoni ?
+*MAR:	donde esta el zapato ?
+*CHI:	donde [% "doe"] .
+*MAR:	donde ?
+*CHI:	0 .
+%act:	es toca i mira el peu
+*MAR:	aqui ?
+*MAR:	ui !
+*MAR:	no te lo quites , no .
+*MAR:	no , no podras ir a la calle .
+*CHI:	pcf [% "ato"] .
+*MAR:	pcf [% "ato"] .
+*MAR:	quieres mas pollo ?
+*CHI:	pcf [% "tuto"] ?
+*MAR:	mas pollo .
+*MAR:	ah !
+*MAR:	ja esta .
+*MAR:	0 .
+%act:	dona menjar a a
+*CHI:	0 .
+%act:	es toca la sabata
+@End

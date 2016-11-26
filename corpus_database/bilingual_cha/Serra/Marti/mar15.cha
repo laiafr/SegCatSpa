@@ -1,0 +1,830 @@
+@UTF8
+@PID:	11312/c-00001962-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Marti Target_Child , VIA avia Grandmother , INV Investigator
+@ID:	spa , cat|Serra|CHI|1;3.24||||Target_Child|||
+@ID:	spa , cat|Serra|VIA|||||Grandmother|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	son a l' habitacio , interaccio amb l' avia , hi ha joguines , m porta unes sabates cap a l' avia
+*VIA:	gracies [% "acies"] .
+*VIA:	molt be !
+*VIA:	gracies [% "acies"] .
+*VIA:	ara mira com l' avia es posa les sabatetes .
+*VIA:	eh ?
+*VIA:	espera't , espera't
+	[% "perat perat" , mentre es treu les sabates que porta i es posa les que li ha donat en m]
+	.
+*VIA:	mira .
+*VIA:	te .
+*VIA:	aixo .
+%act:	dona a m les sabates que s' ha tret
+*VIA:	porta aixo alla .
+*VIA:	porta aixo alla .
+*CHI:	0 .
+%act:	mira a v pero no agafa les sabates
+*VIA:	espera't [% "perat"] .
+*VIA:	au !
+%act:	deixa les sabates a una banda
+*VIA:	mira [= ensenya un globus a m] .
+*VIA:	ai !
+%act:	mentre tira el globus enlaire
+*CHI:	0 .
+%act:	mira el globus pero esta mes aviat pendent de la camera
+*VIA:	que fan en aqui .
+*VIA:	va !
+*VIA:	fes coses .
+@Warning:	hi ha un tall a la cinta , frame 5063
+*CHI:	0 [= esta mirant l' avia] .
+*VIA:	no , no .
+*VIA:	que tires un petonet , a veure .
+*VIA:	0 [=! fa el so de fer petons] .
+*CHI:	0 .
+%act:	s' acosta a l' avia fent el mateix so
+*CHI:	pcf [% "aaag"] .
+*VIA:	0 [=! imita el so d' en m i segueix fent petons] .
+*CHI:	0 .
+%act:	s' hi acosta fent petons
+*VIA:	ui , que fa petonets ell [= li para la galta] !
+*VIA:	pcf [% "mua" , li dona un peto] !
+*VIA:	fes petonets , corre .
+*CHI:	0 .
+%act:	se'n va cap el llit , agafa una part trencada d' un telefon de joguina i l' ensenya a l' avia
+*CHI:	0 [=! vocalitzacions inintel'ligibles] .
+*VIA:	ah , si ?
+*CHI:	0 .
+%act:	agafa l' altra part del telefon i se la posa a la boca
+*VIA:	mira , posa aqui .
+*VIA:	posa aqui .
+*CHI:	0 .
+%act:	se li atansa amb el telefon a la ma dreta estesa
+*VIA:	dona'm aixo en a mi .
+*CHI:	pcf [% "ata"] .
+*VIA:	pcf [% "ata" , imitant el que el nen ha produit abans] .
+*VIA:	ara poso en alla .
+*VIA:	pcf [% "ata"] .
+*CHI:	0 .
+%act:	torna cap al llit , agafa una nina i la porta cap a l' avia
+*VIA:	mira , escolta'm .
+*VIA:	mira la nina .
+*VIA:	pcf [% "aaah , aaah" , acaronant la nina] .
+*CHI:	0 .
+%act:	imita l' avia , acaronant el tros de telefon que encara duu
+*VIA:	te , te .
+%com:	li dona la nina a m pero aquest no en fa cas
+*VIA:	aixo no [% "aso no"] .
+*VIA:	mira , mira .
+%act:	deixa la nina i agafa el tros del telefon que es la base tot marcant un numero
+*CHI:	pcf [% "tata"] !
+*VIA:	crida papa [= allargant l' ultima lletra a] !
+*VIA:	te , guaita
+	[% "te oita" , molt fluixet , agafant la part de telefon de m] .
+*CHI:	aixo [% "atzo" , mirant la part del telefon que te l'avia] .
+*VIA:	si ?
+*CHI:	0 .
+%act:	col'loca la part del telefon que ha tornat a agafar a sobre la que te l' avia
+*VIA:	molt be !
+*VIA:	ara deixa la nina en alla .
+%act:	dona la nina a m
+*VIA:	te .
+*VIA:	deixa la nina en alla .
+*CHI:	0 [= es queda mirant la camera] .
+*VIA:	digues adios .
+%act:	fa adeu amb la ma
+*VIA:	fes adios .
+*VIA:	digues adios .
+*VIA:	fes adios amb la maneta , a veure .
+%act:	li toca la ma per intentar que m faci tambe adeu amb la ma
+*VIA:	adios !
+%act:	segueix fent adeu amb la ma
+*CHI:	0 [=! vocalitza tot mirant la camera] .
+*VIA:	ah , no !
+*VIA:	digues que no .
+*VIA:	digues no vull que em filmin .
+*VIA:	no .
+*VIA:	no !
+*CHI:	0 .
+%act:	mira l' avia i despres es gira per collir la nina de terra
+@Comment:	mentre m manipula la nina se sent bordar un gos
+*CHI:	alaska [% "aka" , mira cap a la finestra i despres a la camera] .
+*VIA:	ah , l' alaska !
+*CHI:	0 [= mira a v] .
+*VIA:	ah !
+*CHI:	0 [= continua mirant a v] .
+*VIA:	anem a veure al gosset ?
+*VIA:	a veure .
+*VIA:	puja , puja a veure el gos [= tot anant cap a la finestra] .
+*VIA:	vine , puja .
+*VIA:	puja aqui vine .
+*VIA:	vine aqui marti .
+@Comment:	m la segueix cap el llit que es sota la finestra
+*VIA:	puja aqui puja [= tot tocant el llit] .
+*VIA:	vine aqui marti [= tocant el llit] .
+*VIA:	puja aqui puja .
+*VIA:	mira , mira .
+*VIA:	a veure .
+*CHI:	alaska [% "aka" , tot mirant v] .
+*VIA:	a veure mirem a l' alaska .
+*VIA:	mira , ah !
+%act:	s' acosta a la finestra
+*VIA:	vine , puja aqui .
+*VIA:	vine [= picant fluixet al vidre] .
+*CHI:	0 [= va mirant v] .
+*VIA:	puja , vine .
+*VIA:	va .
+*CHI:	0 .
+%act:	puja dalt del llit
+*VIA:	asi , molt be [% 'asi' es paraula castellana] .
+*VIA:	aqui , aqui .
+%act:	toca el vidre tot assenyalant
+*VIA:	mira l' alaska , mira .
+*VIA:	oh !
+*CHI:	0 .
+%act:	s' ha enfilat al llit i mira per la finestra
+*VIA:	oh [= fluixet] !
+*VIA:	que no la veus .
+*VIA:	no ?
+*VIA:	que no la veus .
+*VIA:	no ?
+*CHI:	0 .
+%act:	es gira a mirar la camera
+*VIA:	qui hi ha en alla ?
+*VIA:	qui hi ha en alla ?
+@Warning:	hi ha un tall a la cinta
+*CHI:	0 .
+%act:	esta intentant enfilar'se mes amunt , entre el llit i la finestra
+*CHI:	pcf [% "axa atzi xo"] .
+*VIA:	ah , en aqui ?
+*VIA:	jo no la veia , no .
+*CHI:	0 [=! vocalitzacions tot mirant a fora] .
+*VIA:	au , baixa !
+*VIA:	baixa i anem marti .
+*VIA:	baixa i anem .
+*VIA:	baixa .
+*CHI:	0 .
+%act:	va baixant del llit
+*VIA:	vine , vine .
+*CHI:	0 .
+%act:	ja ha baixat
+*VIA:	molt be .
+*VIA:	anem cap alla ?
+*VIA:	anem ?
+*VIA:	anem cap alla ?
+@Comment:	m mira v i va cap a un moble on hi ha tot d'objectes i joguines
+*CHI:	0 [=! vocalitzacions] .
+*VIA:	ah , que es aixo ?
+*VIA:	la colonia .
+*CHI:	0 [=! vocalitzacions] .
+*VIA:	posa , posa colonia al caparro .
+*VIA:	posa colonia si .
+*VIA:	ah !
+*CHI:	0 .
+%act:	es posa el pot de colonia a la boca i en beu
+*VIA:	no [= molt fluixet , mentre li agafa el pot] .
+*VIA:	ara ha begut colonia .
+%add:	INV
+*CHI:	0 .
+%act:	surt de la imatge tot anant cap a v
+*VIA:	que has fet ?
+*VIA:	anem , anem .
+@Comment:	v enraona amb e
+@Warning:	hi ha un tall a la cinta
+@Comment:	m esta agafant una joguina i mirant la camera
+*CHI:	0 .
+%act:	tot vocalitzant li dona la joguina a e
+*INV:	gracies .
+*CHI:	pcf [% "aia" , podria ser "gracies"] .
+*VIA:	ell diu gracies tambe .
+*INV:	gracies .
+*CHI:	0 .
+%act:	agafa un altre pot de colonia i en mossega el tap
+*VIA:	no .
+*VIA:	aixo no [% "aso no"] .
+*VIA:	dona'm , dona'm [% "nona'm"] .
+*CHI:	te .
+%act:	dona la colonia a v
+*VIA:	gracies [% "acies"] .
+*VIA:	dona'li , dona'li a ella .
+*VIA:	digues , te .
+*CHI:	0 [= mira a e] .
+*VIA:	dona'li , dona'li .
+*CHI:	pcf [% "aa" , dona una joguina a e] .
+*INV:	gracies marti , gracies .
+*CHI:	0 .
+%act:	va cap a la taula de joguines tot vocalitzant , agafa el xumet i se'l posa a la boca
+*VIA:	ah !
+*VIA:	el pete@c no .
+*VIA:	no , no , no .
+*VIA:	dona'm el pete@c [= allarga la ma] .
+*CHI:	0 [=! fa que no amb el cap i mira a e] .
+*VIA:	dona el pete@c a l' avia .
+*VIA:	marti .
+*CHI:	0 .
+%act:	dona a v un altre xumet que te a la ma
+*VIA:	gracies , gracies [% "acies , acies"] .
+*CHI:	pcf
+	[% "ati tetetete" , toca una joguina que hi ha penjada al bressol i mira a v]
+	.
+*VIA:	oh , que be !
+*VIA:	mira .
+%act:	mou la joguina
+*VIA:	que has vist al papa ?
+*VIA:	marti , que has vist al papa ?
+*VIA:	papa .
+*VIA:	crida'l , crida'l .
+*VIA:	papa , papa .
+*CHI:	0 [= mira encisat la camera i no diu res] .
+@Comment:	enraonen v i e , hi ha un salt , m agafa una pinta de terra i es pentina
+*VIA:	molt ben pentinat .
+*VIA:	molt ben pentinat .
+*CHI:	pcf [% "ai a tototo" , remena les joguines de la taula] .
+*CHI:	pcf [% "a sheshe shae" , ensenya a v una ampolla] .
+*VIA:	aqui , aqui , aqui [= assenyala algun lloc que no es veu] .
+*CHI:	0 .
+%act:	es posa l' ampolla a la boca
+*VIA:	no , a la boqueta no , tonto .
+%act:	li pren l' ampolla
+*VIA:	mira , vols tocar el piano ?
+%act:	li apropa el piano
+*CHI:	pcf [% "aaa"] .
+*CHI:	pcf [% "pa"] .
+*CHI:	pcf [% "ta" , agafa el piano] .
+*CHI:	pcf [% "shi ti tititi" , canta] .
+*CHI:	0 .
+%act:	deixa el piano a terra i va cap al llit
+*CHI:	pcf [% "ato toto aix"] .
+*CHI:	0 .
+%act:	agafa el telefon de plastic
+*VIA:	vine .
+*VIA:	anem .
+@Situation:	canvi de context , estan al menjador , v i m miren un conte
+*VIA:	ui , una vaqueta [= assenyala la vaca del conte] !
+*VIA:	una vaca que fa muuu@c .
+*VIA:	muuu@c [= ho repeteix uns quants cops] .
+*CHI:	0 .
+%act:	apropa la cara a la vaca i agafa el conte
+*CHI:	pcf [% "a tita"] .
+*VIA:	pcf [% "a tita" , repeteix] .
+*VIA:	llegeix tu .
+*VIA:	llegeix marti , llegeix .
+*VIA:	llegeix tito@c .
+*VIA:	espera't que passarem la plana .
+%act:	passa full
+*CHI:	0 .
+%act:	continua passant planes
+*VIA:	ah , molt be !
+*VIA:	molt be .
+*CHI:	0 .
+%act:	arriba al final
+*VIA:	no , aqui ja no n' hi ha cap mes .
+*VIA:	mira , fem'ho al reves .
+*VIA:	mira .
+%act:	dona la volta al conte
+*VIA:	aixi , aixi , mira .
+%act:	obre el conte , posa una lamina de dibuixos sobre el conte
+*CHI:	pcf [% "a tut" , llenca la lamina a terra] .
+*VIA:	oh , que be [= li ensenya un altre conte] !
+*CHI:	0 .
+%act:	el llenca a terra
+*VIA:	digues , vaca [= assenyala la vaca d' abans] .
+*VIA:	la mama treu la llet [= assenyala l' altra plana] .
+*VIA:	llet .
+*VIA:	mira , fes , muuu@c .
+*VIA:	a veure si treus la llengueta .
+*CHI:	0 .
+%act:	comenca a donar petons a la vaca
+*VIA:	ah !
+*VIA:	0 [= fa petons a l' aire] !
+*VIA:	oh quins petonets fa ell !
+*CHI:	aqui [% "atiti" , senyala un conill del conte] .
+*VIA:	fes un petonet .
+*VIA:	fes un petonet .
+*VIA:	0 [= fa petons a l' aire] .
+*VIA:	fes'li un petonet marti .
+*CHI:	0 .
+%act:	passa de petons i agafa el piano
+*VIA:	no , el piano no .
+*CHI:	pcf [% "a shishi" , dona el piano a v] .
+*VIA:	gracies [% "acies"] .
+*VIA:	molt be .
+%act:	deixa el piano sobre el sofa
+*CHI:	0 .
+%act:	toca el piano
+*VIA:	ara en aqui [= assenyala el conte] .
+*VIA:	a llegir .
+*CHI:	0 .
+%act:	agafa el conte
+*VIA:	molt be .
+*CHI:	0 .
+%act:	vol agafar el cendrer
+*VIA:	no .
+*VIA:	ah [= aparta el cendrer] !
+*VIA:	marti .
+*VIA:	marti .
+*VIA:	aixo no [% "aso no"] .
+*VIA:	aixo no [% "aso no"] .
+*CHI:	aixo [% "aso" , assenyala el cendrer] .
+*VIA:	no .
+*VIA:	nen , aixo no .
+*VIA:	tito@c , aixo no .
+*CHI:	si .
+*CHI:	pcf [% "sisisisi" , cantusseja] .
+*VIA:	marti .
+*VIA:	per que no telefones al papa ?
+*VIA:	vine , vine .
+*VIA:	telefonem al papa ?
+*VIA:	mira , el telefono .
+*VIA:	vine a telefonar al papa .
+*CHI:	0 .
+%act:	va cap al telefon
+*VIA:	telefona , telefona .
+*CHI:	pcf [% "a shi toto"] .
+%act:	agafa el telefon
+*VIA:	va , digues , papa .
+*VIA:	papa .
+*CHI:	pcf [% "tete"] .
+%act:	es posa l' auricular al cap
+*VIA:	no , no .
+*VIA:	te .
+%act:	li posa el telefon be
+*CHI:	pcf [% "ue" , esta a punt de plorar] .
+*VIA:	t' has dat un cop al cap .
+*VIA:	va , torna a marcar .
+*VIA:	torna a marcar .
+*CHI:	pcf [% "ai tete" , sembla com si volgues dir 'ai el telefon'] .
+%act:	intenta agafar el telefon pero no hi arriba
+*CHI:	pcf [% "ais" , no arriba al telefon] .
+*CHI:	hola [% "oia" , per fi l' ha agafat] !
+*VIA:	<qui hi ha> [>] ?
+*CHI:	pcf [<] [% "ati titititeta" , enraona amb l'interlocutor fictici] .
+*CHI:	pcf [% "ati titieta"] .
+*VIA:	ah , si ?
+*VIA:	oh , que coses !
+*VIA:	pero parla al papa .
+*VIA:	digues , papa .
+%act:	agafa el telefon
+*VIA:	oh , mira , mira !
+*VIA:	hi ha en roger .
+%act:	li passa el telefon
+*VIA:	digues roger .
+*CHI:	0 .
+%act:	passa del telefon , va a buscar el conte i l' ensenya a v
+*VIA:	ah , que be !
+*CHI:	0 .
+%act:	fa petons a la vaca
+*VIA:	molt be .
+*VIA:	molt be .
+*CHI:	pcf [% "a toto"] .
+*CHI:	0 .
+%act:	va a buscar el piano i el dona a v
+*VIA:	gracies .
+*CHI:	0 .
+%act:	torna amb el conte , passa les planes
+*CHI:	0 [= es queda mirant a la camera] .
+*VIA:	tito@c , que fa ?
+*VIA:	marti , marti .
+*VIA:	fes xxx [% "fes aaaa" , deu fer alguna gesticulacio que no es veu]
+	.
+*VIA:	fes'li , fes'li .
+*CHI:	pcf [% "ati tititi" , mira el compte] .
+*VIA:	ah si ?
+*VIA:	aixo son porquets .
+*CHI:	0 .
+%act:	fa petons als porquets
+*CHI:	pcf [% "ashe tetete"] .
+*CHI:	aixi [% "axi"] .
+%act:	passa una plana
+*CHI:	0 [=! fa vocalitzacions que no s' entenen] .
+*VIA:	vine , marti , vine .
+*CHI:	pcf [% "ashi titititi" , assenyala el conte] .
+*VIA:	ah si ?
+*CHI:	pcf [% "titititi" , va mirant el conte] .
+*CHI:	caca [= mira el cendrer] .
+*VIA:	caca [= assenyala el cendrer] .
+*CHI:	0 .
+%act:	agafa el cendrer
+*VIA:	no !
+*VIA:	caca .
+%act:	li pren el cendrer
+@Comment:	fan un estira i arronsa
+*VIA:	no , no .
+*VIA:	no .
+*VIA:	caca .
+*CHI:	pcf [% "ate"] .
+*VIA:	no , aixo no .
+*CHI:	ja esta [% "a ta"] .
+%act:	tanca el conte
+*CHI:	0 .
+%act:	va cap al telefon
+*CHI:	pcf [% "tata" , no se si fa referent a algu] .
+*CHI:	pcf [% "ashe teteteate" va enraonant] .
+*CHI:	pcf [% "ata ate tetiul"] .
+*VIA:	ah si ?
+*VIA:	digues papa .
+*CHI:	0 .
+%act:	es dona un cop amb el telefon
+*VIA:	et dones cops al cap , oi ?
+*CHI:	0 .
+%act:	llenca el telefon
+*VIA:	0 .
+%act:	penja el telefon
+*CHI:	0 .
+%act:	el vol tornar a agafar
+*VIA:	marti .
+*VIA:	marti , vine .
+*VIA:	puja aqui dalt [= pica sobre la taula] .
+*CHI:	pcf [% "tata" , parla per telefon] .
+*VIA:	pcf [% "tata"] ?
+@Warning:	tall a la cinta
+@Comment:	m esta sobre la taula
+*VIA:	ole , ole !
+%act:	pica de mans
+*VIA:	baila que baila que baila .
+*CHI:	pcf [% "a tititi"] .
+*CHI:	0 .
+%act:	balla
+*CHI:	pcf [% "asheshe"] .
+*VIA:	ole , ole !
+*CHI:	aixi [% "axi"] .
+%act:	s' ajup i obre el compte
+*VIA:	dona aixo .
+*VIA:	dona'm .
+*CHI:	0 .
+%act:	vol baixar de la taula
+*VIA:	cuidado .
+*VIA:	pcf [% "aupala" , el baixa] .
+*VIA:	marti .
+*VIA:	que ve el papa ?
+*CHI:	0 [= mira a la porta] .
+*VIA:	ves a mirar si ve el papa , ves .
+*VIA:	anem a passejar ?
+*VIA:	au , anem a passejar !
+*VIA:	anem .
+*CHI:	0 .
+%act:	corre cap a la porta
+*VIA:	anem a passejar , anem .
+*CHI:	si , si .
+*VIA:	si , si , ja va .
+*VIA:	anem a passejar .
+*VIA:	anem .
+*CHI:	0 .
+%act:	agafa un disc
+*CHI:	pcf [% "ashu"] .
+*CHI:	pcf [% "ashishishi" , ensenya el disc a e] .
+*INV:	que me'l dones , marti ?
+*CHI:	0 .
+%act:	no contesta , deixa el disc al sofa , agafa el telefon i pica sobre el disc
+*CHI:	0 .
+%act:	es passeja amb el disc per l' habitacio
+*CHI:	pcf [% "ai shishisha"] .
+%act:	deixa el disc sobre la taula
+*CHI:	pcf [% "ashisha" , aixeca el disc ensenyant'lo] .
+*VIA:	0 [=! fa que no amb el cap] .
+*CHI:	0 [=! fa que no amb el cap , repeteix] .
+*CHI:	0 .
+%act:	pica amb el disc sobre la taula
+*VIA:	posa aqui , marti .
+*VIA:	posa aqui [= ensenya la funda del disc] .
+*CHI:	0 .
+%act:	va amb el disc cap a v , pero s' ho repensa i es dirigeix al moble dels disc
+*CHI:	ja esta [% "a ta"] .
+%act:	deixa el disc al moble
+*VIA:	ja esta [% "ja ta"] .
+%act:	agafa el disc i el col'loca mes amunt
+*CHI:	pcf [% "asheshe" , s' estira per agafar el disc] .
+*CHI:	0 .
+%act:	agafa un altre disc i el deixa a terra
+*CHI:	pcf [% "ai axi" , s' estira per agafar el disc anterior] .
+*CHI:	pcf [% "atete"] .
+*VIA:	0 .
+%act:	ensenya a m una fotografia
+*VIA:	qui es aquest ?
+*CHI:	0 .
+%act:	mira la foto , es tomba cap als discs
+*CHI:	pcf [% "aiai tia"] .
+*VIA:	0 .
+%act:	li dona el disc
+*CHI:	aquest si [% "a te si"] .
+*CHI:	pcf [% "a shia" , ensenya el disc] .
+*CHI:	pcf [% "ashi eata teta"] .
+%act:	va cap al sofa
+*CHI:	pcf [% "ashi ea teta"] .
+*CHI:	pcf [% "teta" , mira darrera del coixi] .
+*VIA:	pcf [% "ta" , allarga la lletra a] .
+*CHI:	0 .
+%act:	va a buscar el disc que havia deixat sobre la taula
+*VIA:	tito@c [= el crida] .
+*CHI:	0 .
+%act:	amaga el disc darrera el coixi
+*VIA:	no esta [% "no ta"] .
+*CHI:	aqui [% "ati" , agafa el disc] .
+*CHI:	ja esta [% "a ta"] .
+*VIA:	ja esta [% "ja ta"] .
+*CHI:	pcf [% "ashishishishi" , va a agafar el piano] .
+*VIA:	aixo ja esta , vine .
+*VIA:	no esta [% "no ta"] .
+%act:	amaga el disc darrera el coixi
+*VIA:	no esta , no esta [% "no ta , no ta"] .
+*CHI:	si .
+%act:	busca el disc
+*VIA:	no esta [% "no ta"] .
+*CHI:	ah si si !
+%act:	treu el disc
+*VIA:	ai , si que esta [% "si que ta"] !
+*CHI:	si , si .
+*VIA:	dona a l' avia , dona .
+*VIA:	dona [= allarga les mans] .
+*CHI:	pcf [% "aita"] .
+%act:	se'n va amb el disc
+*VIA:	vine cap aqui , vine .
+*CHI:	0 .
+%act:	ha obert un calaix
+*VIA:	aixo no , eh !
+*VIA:	dona , dona [= li agafa el disc] .
+*VIA:	aixo no , eh [= es refereix al calaix] !
+*VIA:	0 .
+%act:	guarda el disc
+*CHI:	ai !
+*CHI:	pcf [% "ashasha"] .
+%act:	va corrent cap a v
+*CHI:	pcf [% "atete"] .
+%act:	treu un disc i li cau a terra
+*VIA:	oh !
+*VIA:	ai la mama !
+*VIA:	ai la mama !
+*CHI:	0 .
+%act:	agafa el disc que tenia v i replega el que ha caigut , els deixa sobre la taula
+*VIA:	te .
+%act:	li dona el compte
+*VIA:	gracies [% "acies"] .
+*VIA:	gracies [% "acies"] .
+*CHI:	gracies [% "ates"] .
+%act:	agafa el compte i el deixa sobre la taula
+*VIA:	te .
+*VIA:	te .
+%act:	li dona un altre compte
+*VIA:	gracies [% "acies"] .
+*VIA:	gracies [% "acies"] .
+*CHI:	0 .
+%act:	agafa el compte i el deixa sobre la taula
+*CHI:	pcf [% "atete"] .
+%act:	agafa la funda d' un disc i la llenca
+*VIA:	ah , no esta [% "no ta"] !
+*VIA:	no esta no [% "no ta no"] .
+*CHI:	0 .
+%act:	remena els discs que havia deixat sobre la taula
+*VIA:	va , ara prou .
+*VIA:	ara prou .
+*VIA:	s' ha acabat .
+%act:	recull els discs
+*CHI:	0 .
+%act:	intenta impedir'ho
+*VIA:	no , no , no .
+*VIA:	ja esta [% "ja ta"] .
+*CHI:	aquest [% "ate"] .
+%act:	agafa un disc
+*VIA:	posa aqui .
+*VIA:	posa aqui .
+%act:	obre la funda
+*VIA:	ja esta [% "ja ta"] .
+%act:	posa el disc dins
+*CHI:	pcf [% "aitete"] .
+*VIA:	no , ja esta [% "no ja ta"] .
+*CHI:	no esta [% "no ta" , cridant] .
+*CHI:	pcf [% "asheshe"] .
+%act:	va corrent a buscar el disc
+*VIA:	no , ja esta [% "no ja ta"] .
+*VIA:	no .
+*VIA:	no .
+*CHI:	0 [=! plora] .
+@Comment:	disc que m treu , disc que v li pren
+*CHI:	0 .
+%act:	agafa un disc
+*VIA:	posa aqui .
+*VIA:	posa aqui .
+*CHI:	0 .
+%act:	se'n va amb el disc i el deixa sobre la taula
+*CHI:	iaia [= mira a v] .
+*VIA:	marti .
+*VIA:	que es aixo [% "que es aso"] .
+*VIA:	que es aixo [% "que es aso" , li ensenya un got d'aigua] .
+*CHI:	0 .
+%act:	beu
+*VIA:	agua [= separant les sil'labes] .
+*CHI:	pcf [% "ishishi" , assenyala el got] .
+*VIA:	que es aixo [% "aso"] .
+*CHI:	ai [= intenta agafar el got] !
+*VIA:	0 .
+%act:	li dona aigua
+*VIA:	marti , mira .
+*VIA:	agua .
+*VIA:	agua .
+*VIA:	digues agua .
+*CHI:	0 [=! fa que no amb el cap] .
+%act:	marxa corrent
+*VIA:	no .
+*CHI:	0 .
+%act:	agafa un disc
+*VIA:	te .
+%act:	li dona unes ulleres de sol i li pren el disc
+*CHI:	pcf [% "ateta" , no li ha agradat el canvi] .
+%act:	va a buscar el disc
+*VIA:	0 .
+%act:	posa a m les ulleres
+*CHI:	ai !
+%act:	es treu les ulleres
+*CHI:	pcf [% "ashishi"] .
+%act:	dona les ulleres a e
+*VIA:	vine .
+*VIA:	posa a l' avia , posa .
+*INV:	gracies .
+*INV:	te marti , te .
+%act:	els hi torna a donar
+*CHI:	pcf [% "ashisho"] .
+%act:	va cap a v
+*VIA:	posa a l' avia , posa .
+*VIA:	0 .
+%act:	es posa les ulleres
+*VIA:	mira tito@c .
+*VIA:	oh [% "oooh"] !
+*VIA:	0 .
+%act:	fa moneries a m
+*CHI:	0 [=! riu] .
+*VIA:	0 .
+%act:	posa les ulleres a m
+*CHI:	pcf [% "atete"] .
+%act:	llenca les ulleres
+*VIA:	on es l' aigua [% "on es l' acua"] ?
+*VIA:	on es l' aigua [% "on es l' acua"] ?
+*CHI:	aqui [% "ati"] .
+%act:	va cap a la taula on v ha deixat l'aigua
+@Comment:	m al voler agafar el got s' enreda amb una bossa que hi ha sobre la taula
+*CHI:	aquest [% "ate"] .
+*VIA:	que es aixo [% "que es aso"] ?
+*CHI:	0 .
+%act:	posa el dit dins el got
+*VIA:	ah !
+*VIA:	no .
+*VIA:	prou .
+*VIA:	ara prou .
+@Comment:	canvi de context , estan a la terrassa , m encara te el disc a la ma
+*CHI:	pcf [% "aba" , toca una planta] .
+*CHI:	caca .
+*VIA:	caca .
+*CHI:	0 .
+%act:	va a tocar un cactus
+*VIA:	no !
+*VIA:	aixo punxa .
+*VIA:	vine , vine .
+*VIA:	aixi .
+%act:	li pren el disc
+*CHI:	pcf [% "axixixoxi"] .
+%act:	agafa el disc
+*VIA:	vine .
+*VIA:	puja aqui .
+%act:	posa a m sobre una tauleta
+*CHI:	ai , ai !
+*VIA:	mira .
+*VIA:	crida a l' alaska .
+*VIA:	on es ?
+*VIA:	alaska [% "aska"] .
+*CHI:	pcf [% "aquexe" , mira cap a baix] .
+*VIA:	alaska [% "aska"] .
+@Comment:	al parc hi deu haver nens , es senten veus
+*VIA:	que diuen ?
+*VIA:	que diuen eh ?
+*VIA:	que has vist un cotxe ?
+*VIA:	on es un cotxet ?
+*CHI:	0 .
+%act:	mira per terra
+*VIA:	no hi es no .
+*VIA:	mira .
+*VIA:	anem a escoltar la radio .
+*VIA:	passa .
+%act:	baixa a m
+*CHI:	pcf [% "aiaia"] .
+*VIA:	no , no esta .
+*CHI:	esta [% "ata" , mira sobre la tauleta] .
+*VIA:	no esta [% "no ta"] .
+*VIA:	busca'l , busca'l .
+*VIA:	on es ?
+*CHI:	0 .
+%act:	entra al menjador
+@Comment:	sembla que buscava el disc , tall a la cinta , m a la terrassa , te el disc a la ma
+*CHI:	pcf [% "pa"] .
+*VIA:	papa .
+*VIA:	crida al papa .
+*VIA:	on es el papa ?
+*CHI:	0 .
+%act:	seu a terra
+*CHI:	pcf [% "ashia" , ensenya el disc a e] .
+*CHI:	pcf [% "ete shesho"] .
+%act:	deixa el disc sobre la tauleta
+*CHI:	pcf [% "asheshasha"] .
+%act:	torna a agafar el disc
+*CHI:	pcf [% "ashesho"] .
+%act:	entra al menjador
+*VIA:	dolent .
+*VIA:	dolent mes que dolent .
+*CHI:	0 [=! riu] .
+*CHI:	pcf [% "atetete"] .
+%act:	es passeja amb el disc a la ma
+*VIA:	dona'm .
+*VIA:	dona el disc , dona .
+*VIA:	gracies [% "acies"] .
+%act:	li pren el disc
+*CHI:	pcf [% "ateshe" , vol el disc] .
+*CHI:	0 [=! plora] .
+*VIA:	no .
+*CHI:	si .
+*CHI:	iaia .
+*VIA:	no esta [% "no ta"] .
+*VIA:	no esta no [% "no ta no"] .
+*CHI:	0 .
+%act:	veu uns comptes , els agafa i riu
+*VIA:	vine , vine .
+*VIA:	que mirarem els cuentos .
+*VIA:	vine .
+*CHI:	pcf [% "ta"] .
+*VIA:	dona , dona .
+*VIA:	a veure .
+*CHI:	0 .
+%act:	dona un compte a v
+*VIA:	gracies [% "acies"] .
+*VIA:	oh , que es maco !
+*VIA:	mira , mira .
+%act:	obre el compte
+*VIA:	aqui hi ha un nen [= assenyala al compte] .
+*VIA:	en marti .
+*VIA:	aqui hi ha una nena .
+*VIA:	0 .
+%act:	va passant planes
+*VIA:	mira aqui riu .
+*VIA:	riu tu tambe marti [= li fa moneries] .
+*CHI:	0 [=! riu] .
+@Comment:	toquen el timbre de la porta
+*VIA:	oh , qui hi ha ?
+*VIA:	qui hi ha ?
+*VIA:	anem a veure qui hi ha ?
+*VIA:	anem a veure qui hi ha .
+@Warning:	tall a la cinta
+@Comment:	son al menjador m i una nena
+*CHI:	tata@c .
+%act:	va corrent cap a e
+*INV:	i l' elena ?
+*INV:	on es l' elena , marti ?
+*INV:	se'n va l' elena ?
+@Comment:	les visites se'n van
+*CHI:	0 .
+%act:	juga sobre la tauleta amb els comptes
+*CHI:	0 .
+%act:	es posa un compte a la boca
+*VIA:	no , a la boqueta no .
+*VIA:	0 .
+%act:	agafa m en bracos
+*CHI:	0 [=! es queixa] .
+*VIA:	0 .
+%act:	el deixa a terra
+*VIA:	marti .
+%act:	posa en marxa un compta temps de solfeig
+*VIA:	ai !
+*VIA:	ah !
+*VIA:	que es aixo ?
+*CHI:	0 .
+%act:	juga amb el compta temps i riu
+*VIA:	oh , que es maco aixo marti !
+*CHI:	ja esta [% "a ta" , al agafar'lo s' ha parat] .
+*CHI:	0 .
+%act:	el torna a posar en marxa i riu
+*VIA:	aplaudeix marti .
+*VIA:	aplaudeix .
+*VIA:	ole , ole , ole !
+%act:	pica de mans
+*VIA:	fes tu , fes tu .
+*CHI:	0 .
+%act:	agafa un compte
+*VIA:	dona llibre .
+*VIA:	dona llibre [= allarga la ma] .
+*CHI:	0 .
+%act:	posa en marxa el compta temps
+*VIA:	ole , ole !
+*VIA:	bravo !
+*CHI:	ja esta [% "a ta" , s' ha parat l' aparell] .
+*VIA:	ja esta .
+*CHI:	ja esta [% "a ta" , l' agafa per donar'lo a v] .
+@Comment:	al agafarlo es torna a posar en marxa
+*CHI:	aixi [% "asi" , mou el cap seguint el compas] .
+*VIA:	dona'm , dona'm .
+*CHI:	0 .
+%act:	deixa l' aparell sobre la taula i continua movent el cap
+*CHI:	ja esta [% "a ta" , s' ha parat] .
+*VIA:	ja esta [% "a ta"] .
+*CHI:	0 .
+%act:	posa en marxa l' aparell
+*CHI:	ja esta [% "a ta" , s' ha parat] .
+*VIA:	ja esta [% "a ta"] ?
+*CHI:	ja esta [% "a ta"] .
+*CHI:	0 .
+%act:	el torna a posar en marxa
+*CHI:	ja esta [% "a ta" , s' ha parat] .
+@End

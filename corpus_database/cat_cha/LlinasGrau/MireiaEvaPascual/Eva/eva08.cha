@@ -1,0 +1,497 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MIR Mireia Sister, MOT Mother, FAT Father
+@ID:	cat|change_me_later|EVA|2;1.0||||Target_Child|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|FAT|||||Father|||
+@Date:	21-DEC-1997
+@Location:	In the living room
+@Activities:	Looking at books
+@Comment:	MOT is video-taping
+*EVA:	Lluís!
+*FAT:	Lluís &=laughs.
+*MOT:	ara a quin dia estem avui (.) quin dia estem?
+*MOT:	dia veintidos no (.) veintiuno (.)veintiuno de desembre.
+*FAT:	veintiuno de desembre abans de Nadal.
+*MIR:	www.
+*MOT:	Eva!
+*FAT:	Eva mira això.
+%act:	shows EVA a book
+*FAT:	què hi ha aquí?
+*EVA:	0.
+*MIR:	mama (.) hola!
+*FAT:	www.
+*MOT:	què veus Eva?
+*EVA:	0.
+*FAT:	què veus?
+*EVA:	0.
+*FAT:	www.
+*MOT:	www.
+*EVA:	(a)que(s)t e maco.
+%act:	takes a book
+*MOT:	quet a maco.
+%act:	repeats EVA's words
+*FAT:	vinga el mirem Eva!
+*EVA:	sí.
+*FAT:	a veure (.) què és això?
+*EVA:	0.
+*FAT:	mira (.) què és això?
+*EVA:	un conill.
+*MOT:	un conill?
+*FAT:	un conill?
+*FAT:	i què fa?
+*EVA:	0.
+*FAT:	què fa?
+*FAT:	què fa la Mireia &=laughs?
+%com:	MIR is imitating a rabbit
+*FAT:	què fa la Mireia Eva?
+*EVA:	0 &=laughs.
+%act:	looks at MIR. MIR hugs EVA
+@New Episode
+*FAT:	vermell.
+*MIR:	mira aquí Eva!
+*FAT:	aquí no hi ha res.
+*EVA:	no.
+*MIR:	no?
+*EVA:	aquí sí.
+*FAT:	aquí sí (.) què hi ha?
+*MIR:	aquest què és (.) què és això?
+*EVA:	pas(t)elina.
+%cod:	plastilina
+*MIR:	no!
+*MOT:	pastelina.
+*FAT:	un conill que està fent pastelina?
+*MIR:	un conill que està fent pastelina?
+*EVA:	0.
+*FAT:	de quin color?
+*MIR:	de quin color?
+*EVA:	0.
+*MIR:	de quin color Eva?
+*EVA:	mira aque(s)t.
+%act:	takes another book
+*FAT:	0 &=laughs.
+*FAT:	canvia de tema.
+*EVA:	mira aque(s)t.
+*MIR:	aquest de Boston?
+*EVA:	0.
+*MIR:	el de Boston?
+*EVA:	sí.
+*MOT:	aquest que hi ha aquí a sobre +/.
+*MIR:	xxx netes?
+*EVA:	sí.
+*MIR:	que els obriràs?
+*FAT:	mira.
+%act:	takes a book
+*FAT:	què hi ha aquí?
+*EVA:	hi ha una caseta.
+*FAT:	una caseta.
+*FAT:	i això?
+*EVA:	po(r)quet!
+*FAT:	un porquet.
+*FAT:	i això?
+*MIR:	i això?
+*FAT:	una balena petita.
+*EVA:	una balena.
+*MIR:	una balena petita.
+*EVA:	peix!
+*MOT:	peix.
+%act:	repeating EVA's words
+*MIR:	no balena balena (.) i també un peix.
+*FAT:	ui@i què són això?
+*MIR:	www.
+*EVA:	gossos.
+*MIR:	www.
+*FAT:	gossos.
+*MIR:	www aquest quin número és?
+*FAT:	val.
+*MIR:	el u.
+%act:	whispers to EVA
+*EVA:	el u.
+%act:	repeats MIR's words
+*FAT:	0 &=laughs.
+*MIR:	i aq [/] i aq [/] i aquest?
+*EVA:	0.
+*MIR:	el dos.
+%act:	whispers to EVA
+*MIR:	i aquest el tres.
+*EVA:	tres.
+*MIR:	i aquest el quatre.
+*EVA:	quatre.
+*MIR:	i això?
+*EVA:	gossos.
+*MOT:	gossos.
+%act:	repeats EVA's words
+*FAT:	xxx.
+*FAT:	quants hi ha [/] que hi ha molts gossos?
+*EVA:	sí.
+*FAT:	i això què és (.) una poma?
+*EVA:	una boma.
+*FAT:	o és un tomàquet?
+*MIR:	una poma xxx o un tomàquet.
+*FAT:	és una poma o un tomàquet (.) què és?
+*EVA:	una pilota!
+*FAT:	xxx una pilota.
+*MIR:	sí xxx i què és això?
+*EVA:	bota.
+*MOT:	bota.
+*EVA:	un ti ka.
+*MIR:	ki ka?
+*FAT:	tic tac (.) un rellotge.
+*MOT:	un tic tac.
+%act:	whispering
+*EVA:	van.
+*MOT:	elefant.
+*FAT:	elefant.
+*MIR:	un elefant (.) i la nena?
+*EVA:	0.
+*MIR:	aquí.
+%act:	points at the book
+*EVA:	aquí.
+*MIR:	aquí i aquí.
+*EVA:	aquí.
+*MIR:	petita i gran (.) a que sí Eva?
+*EVA:	sí.
+*EVA:	un evan@c.
+%cod:	un elefant
+*FAT:	elefant (.) i què fa l'elefant?
+*MIR:	i aquí què hi ha?
+*MIR:	xxx.
+*FAT:	on t'està on t'està pujat l'elefant?
+*EVA:	0.
+*MIR:	on està pujat?
+*EVA:	0.
+*FAT:	bueno (.) i un arbre ple de de plàtans.
+*MIR:	de pomes.
+*EVA:	pomes.
+*MOT:	0 &=laughs.
+*MIR:	aquí hi ha pomes.
+*FAT:	això són pomes?
+*EVA:	poma.
+*FAT:	molt bé.
+*EVA:	poma.
+*MOT:	0 &=laughs.
+*MIR:	i aquí quants [/] quants peixos hi ha?
+*EVA:	dos.
+*FAT:	dos peixos molt bé.
+*MIR:	i aquí?
+*EVA:	0.
+*MIR:	quants carmelos hi ha?
+*FAT:	és que és un lio@s (.) eh@i (.) perquè estan molt amagats.
+*MIR:	i aquí?
+*FAT:	www.
+*MIR:	www.
+*FAT:	www les enganxines.
+*EVA:	xixines.
+*MIR:	www.
+*FAT:	www.
+*FAT:	què és això?
+*EVA:	això.
+*MIR:	www.
+*FAT:	www.
+*MIR:	www.
+*EVA:	bumet (.) bumets.
+*MOT:	gomets gomets (.) va feu-la parlar amb ella!
+*EVA:	xxx.
+*MOT:	què Eva?
+*EVA:	van pintar.
+*MOT:	van pintar?
+*FAT:	van pintar?
+*MIR:	però què és això Eva?
+*EVA:	un a(r)b(r)e.
+*FAT:	un arbre.
+*MIR:	però què hi ha a dins?
+*EVA:	tireres.
+*MOT:	què hi ha?
+*FAT:	un niu.
+*MOT:	cireres?
+*EVA:	niu (.) mirem aque(s)t?
+*MOT:	mirem aquest &=laughs.
+%act:	repeating EVA's words
+*EVA:	Mireia e pira e llapis.
+*FAT:	la Mireia ha pintat amb el llapis.
+%act:	EVA nods
+*MIR:	www.
+*FAT:	www.
+*FAT:	Eva!
+*EVA:	un pus.
+*FAT:	un gos.
+*EVA:	sí (.) un gat.
+*FAT:	un gat.
+*EVA:	xxx.
+*MOT:	què Eva?
+*EVA:	xxx.
+*MOT:	què?
+*EVA:	està dormint e gat.
+*MOT:	està dormint el gat?
+*EVA:	sí.
+*MOT:	està dormint el gat.
+%act:	imitating EVA.
+*EVA:	sito dorm gat .
+*MIR:	i aquest.
+*MOT:	que?
+*MIR:	i la marieta xxx?
+*MIR:	s'assembla molt a la que porto jo a que sí Eva?
+*EVA:	sí.
+*MIR:	xxx.
+*EVA:	xxx.
+*MIR:	xxx a la que portava abans.
+*EVA:	abans.
+*FAT:	què hi ha aquí Eva?
+*EVA:	una casa.
+*MIR:	què hi ha aquí?
+*FAT:	obro?
+*MOT:	una casa.
+*FAT:	xxx.
+*FAT:	oh@i (.) què hi ha aquí dintre?
+*EVA:	un kus.
+%cod:	un gos
+*FAT:	un gos.
+%act:	EVA nods
+*FAT:	està dintre l'armari.
+*EVA:	sí.
+*MIR:	www.
+*FAT:	www.
+*FAT:	què hi ha a sota la manta?
+*MIR:	a sota el coixí.
+*EVA:	un gat.
+*FAT:	un gat &=laughs.
+*MIR:	el gat xxx.
+*EVA:	un!
+*FAT:	què hi ha aquí a sota del mantel@s?
+*EVA:	un kus.
+%cod:	un gos
+*FAT:	no.
+*MIR:	no.
+*EVA:	no.
+*FAT:	què hi ha?
+*FAT:	qui és aquest?
+*EVA:	kus.
+%cod:	gos
+*FAT:	no és un gos.
+*EVA:	no.
+*MIR:	és un osito@s.
+*FAT:	està menjant (.) què està menjant?
+*MIR:	està menjant Eva.
+*EVA:	majant.
+*FAT:	però què menja (.) què menja?
+*EVA:	0.
+*MIR:	què menja?
+*MIR:	menja Eva!
+*FAT:	galetes .
+*EVA:	xxx.
+*FAT:	xxx.
+*FAT:	i aquí a la banyera què hi ha?
+*MIR:	www.
+*FAT:	qui hi ha a la banyera?
+*EVA:	0.
+*FAT:	0 [=! sings] (.) ole@i (.) qui era?
+*EVA:	0.
+*MIR:	qui era?
+*MIR:	què és això (.) oh@i?
+*FAT:	és un osito@s.
+*EVA:	un osito.
+*FAT:	i això?
+*EVA:	un cac quac@c.
+%exp:	a duck
+*FAT:	un cac quac &=laughs.
+*MIR:	un cac quac.
+*MIR:	i aquí què hi haurà?
+%act:	EVA bends over the book
+*MIR:	què és això Eva (..) què és?
+*EVA:	0.
+*MIR:	què és?
+*FAT:	ai@i un ratolí!
+*EVA:	ratolí.
+*FAT:	0 &=laughs.
+*EVA:	i aquí.
+*FAT:	això què és (.) per fer què?
+*MIR:	per què?
+*FAT:	per a què és això Eva?
+*EVA:	0.
+*FAT:	què fas aquí?
+*EVA:	0.
+*FAT:	és el wàter.
+*EVA:	sí és el wàter.
+*FAT:	i què fas al wàter tu?
+*EVA:	0.
+*FAT:	què fas?
+*EVA:	pipi.
+*FAT:	i què més?
+*EVA:	caca.
+*FAT:	oh@i molt bé &=laughs.
+@New Episode
+*EVA:	sito@c.
+%cod:	osito@s.
+*FAT:	un osito@s molt bé (.) i això què és?
+*EVA:	un llit .
+*MIR:	però què hi ha aquí?
+*FAT:	què hi ha aquí?
+*FAT:	olé@i.
+*EVA:	un pe (.) un peix.
+*FAT:	un peix.
+*MIR:	molt bé (.) és un peix.
+*FAT:	i el llit (.) t'agrada aquest llit?
+*EVA:	sí.
+*FAT:	i el teu (.) que t'agrada molt?
+*EVA:	sí.
+%act:	pomits to her bedroom
+*FAT:	tens soneta?
+*EVA:	sí.
+*MIR:	mira aquí.
+*MOT:	i què fas al llit?
+*EVA:	jo dormo xxx llit.
+*MOT:	què (.) què (.) Eva?
+*MIR:	un tusete (.) tusete.
+*MOT:	què fas al llitet?
+*MIR:	un tusete.
+*MOT:	què hi fas al llit (.) Eva?
+*EVA:	mira (.) mira aquí.
+%act:	points to picture in book
+*FAT:	oh@i.
+*MIR:	un dos tres quatre.
+*FAT:	què fan sota el llit (.) estan amagats?
+*EVA:	sí.
+*FAT:	com sí (.) sí què?
+*MIR:	sí què?
+*EVA:	mats.
+%cod:	amagats
+*FAT:	amagats.
+*EVA:	un (.) un (.) un (.) un (.) un kus.
+%cod:	gos
+%act:	points to another picture
+*MIR:	un gos?
+*FAT:	no.
+*EVA:	no.
+*FAT:	un altre osito.
+*EVA:	un altre osito@s.
+%cod:	repeats FAT's words
+*FAT:	sí.
+*EVA:	un patal.
+*FAT:	s'ha acabat.
+*MOT:	què diu (.) un patal (.) què és (.) què era?
+*FAT:	lo que hi ha aquí.
+*FAT:	un cavall?
+*MOT:	què ha dit (.) un malalt?
+*EVA:	0.
+%act:	points to picture in book
+*FAT:	què li passa (.) què li passa a aquest osito?
+*MIR:	què li passa (.) Eva?
+*MOT:	què fa?
+*MIR:	què fa?
+*FAT:	està dormint?
+*EVA:	sí.
+%act:	nods
+*FAT:	i aquests?
+*EVA:	un kat.
+*FAT:	què?
+*EVA:	un osito@s.
+*EVA:	un vacall.
+%cod:	un cavall
+*MOT:	un cavall.
+*MIR:	no.
+*FAT:	aquest és el gos.
+*MIR:	i aquest?
+*FAT:	aquest.
+%act:	points to the picture in book
+*EVA:	vacall.
+%cod:	cavall
+*MIR:	vacall &=laughs!
+*FAT:	el cavall.
+*FAT:	i aquest?
+*EVA:	osito@s.
+*FAT:	xxx el papa osito.
+*EVA:	papa osito@s.
+*FAT:	aquí no hi res per aixecar?
+%cod:	wonders whether this is a folding book
+*FAT:	no.
+*EVA:	(es)tà dornint aquest.
+*EVA:	mira (.) (es)tà dormint aquest.
+%act:	points to picture in book
+*FAT:	està dormint aquest.
+*MIR:	s'ha acabat (.) mirem [/] vols mirar el dels tres porquets que ve
+	el llop (.) sí?
+%act:	picks another book
+*EVA:	0.
+%act:	yawns
+*FAT:	què tens soneta (.) Eva?
+*EVA:	sí.
+*FAT:	el porquet.
+*EVA:	sí (.) el porquet.
+*MIR:	el porquet petit (.) més petit que s'està fent la casa de palla.
+*FAT:	com (.) què fa (.) Eva?
+*EVA:	(es)tà content.
+*MOT:	està content.
+*FAT:	i per què (.) què fa ell (.) què fa (.) una casa de palla?
+%act:	points to another picture
+*FAT:	i aquest què fa?
+*MIR:	una casa de fusta.
+*FAT:	què fa aquest Eva?
+*EVA:	casa de fusta.
+*FAT:	i aquest?
+*FAT:	ui@i (.) es que falta tot el conte al mig (.) ha saltat directament
+	a quan cau a l'olla (.) només hi ha una fulla (.) va (.) colorín
+	colorado aquest conte se ha acabado!
+*MIR:	ara ve aquest.
+%act:	picks another book
+*MIR:	aquest està pintat (.) que he pintat tot això avui xxx.
+%act:	picks another book
+*MIR:	i aquest?
+*EVA:	0.
+%act:	yawns
+*MOT:	ui@i quina son que té l'Eva (.) i a més té febre avui (.) a veure
+	(.) Eva (.) mira el Teo.
+*EVA:	0.
+%act:	looks at Teo's book
+*EVA:	mira (.) a Pau.
+*MOT:	el Pau.
+*MIR:	el Pau.
+*MIR:	i qui més?
+*MIR:	el Teo i la se (.) va amigueta.
+*EVA:	(es)tà menjant.
+*EVA:	(es)tà pessant .
+*MIR:	no (.) li està donant menjar a la nina.
+*EVA:	sí (.) nina.
+*MOT:	i què pensaves que feia Eva (.) què ha dit?
+*MIR:	menjant estava.
+*EVA:	pessant.
+*MOT:	penjant.
+*MIR:	i ara què fa la nena (.) i el Teo (.) i el Pau?
+*MIR:	què fan?
+*EVA:	a papa.
+*FAT:	el seu papa.
+*MIR:	és l'avi.
+%cod:	clarifies identity of character in book
+*FAT:	ah@i és l'avi.
+*FAT:	i què fan?
+*EVA:	xxx (.) pujen.
+*FAT:	pujen i baixen pel tobogan.
+*MIR:	i aquestes nenes que salten?
+*EVA:	una cola.
+%cod:	una corda
+*FAT:	a la corda (.) molt bé!
+*MIR:	a la corda.
+*FAT:	i això què és?
+%act:	points to picture in book
+*FAT:	el tobogan?
+*EVA:	sí.
+*FAT:	i això?
+*EVA:	jo pujo.
+*FAT:	i baixes (.) no?
+*EVA:	sí.
+*MIR:	què fa el Teo?
+*EVA:	una font.
+*FAT:	una font.
+*FAT:	i beu aigua?
+*EVA:	sí.
+*EVA:	pollets.
+*FAT:	pollets.
+*MIR:	i ara què fa el Pau?
+*EVA:	a iaia.
+*MOT:	la iaia.
+*FAT:	la iaia del Teo.
+*EVA:	osito@s.
+*FAT:	osito (.) el porten al cotxet.
+*MIR:	www.
+@End

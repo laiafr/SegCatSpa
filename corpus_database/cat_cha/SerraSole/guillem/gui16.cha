@@ -1,0 +1,233 @@
+@UTF8
+@PID:	11312/c-00028072-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , ROS rosa Nurse , QUI quim Brother , LOG olga Nurse , PAR pare Father , MAR mare Mother , INV examinador Investigator
+@ID:	cat|Serra|CHI|1;1.29||||Target_Child|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|LOG|||||Nurse|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan a l' habitacio , l i q asseguts a terra jugant amb unes peces de contruccio , g s' apropa i els hi agafa una peca tot vocalitzant
+*CHI:	pcf [% "abiba" , ensenya la peca a e] .
+@Comment:	enraonen q i l , g els hi ha pres una altra peca , va jugant amb unes peces tot fent sons guturals
+*CHI:	mama [= remena unes peces d' un trencaclosques] .
+*CHI:	mama .
+*LOG:	dona , dona .
+*CHI:	pcf [% "aa"] .
+*CHI:	0 [=! vocalitza] .
+%act:	agafa com una capsa
+%com:	interfereix el joc amb q
+*CHI:	pcf [% "ta ata" , aixecant la capsa] .
+*LOG:	te , dona .
+*CHI:	0 .
+%act:	li atansa la capsa
+*LOG:	gracies [= mentre l' agafa] .
+*LOG:	te [= li dona la capsa] .
+*CHI:	0 .
+%act:	intenta agafar'la
+*LOG:	te .
+*CHI:	0 .
+%act:	l' agafa i es queda manipulant'la
+@Comment:	l i r juguen amb en quim , tall a la cinta
+*ROS:	te [= dona una joguina a en g] .
+*CHI:	gracies [% "ata" , l'agafa] .
+*ROS:	gracies .
+*CHI:	te [% "ta" , li torna la joguina tot oferint amb la ma aixecada] .
+*ROS:	gracies [= agafa la joguina] .
+*CHI:	gracies [% "ata" , amb emfasi i mirant r] .
+*ROS:	gracies [= mirant'lo] .
+*CHI:	<toaaaa@p> [>] [= com exigint continuitat en el joc] !
+*ROS:	te [<] .
+*ROS:	te .
+*CHI:	0 .
+%act:	va a agafar la joguina
+*ROS:	gracies .
+*CHI:	pcf [% "aaa" , l' agafa i camina de quatre potes fins el llit niu] .
+*CHI:	a te [= agafa una peca que hi ha sobre el llit i la dona a r] .
+*ROS:	gracies [= agafant'la] .
+@Comment:	enraonen q i l , g intenta pujar al llit pero rellisca
+*CHI:	0 [=! gemega mirant a r] .
+*ROS:	va , vinga , puja .
+*CHI:	0 [=! va gemegant] .
+*ROS:	va .
+*ROS:	va .
+@Comment:	com que no pot pujar al llit es decideix per agafar unes peces i jugar amb q i l
+*LOG:	que ens ajudes ?
+*LOG:	posa , posa aqui .
+*CHI:	pcf [% "ema" , jugant amb les peces] .
+@Comment:	enraonen q i o
+*CHI:	0 .
+%act:	manipula una peca tot dient hum
+*CHI:	pcf [% "mamamamamama"] .
+*CHI:	pcf [% "mamamamamama" , tot manipulant unes peces] .
+@Comment:	enraonen q i r , g va manipulant peces , tall a la cinta
+*LOG:	com et dius guillem ?
+*CHI:	pcf [% "mamama"] .
+@Comment:	tall a la cinta , enraonen q i r
+*CHI:	pcf [% "mamamama" , no surt en imatge] .
+@Comment:	tall a la cinta , g esta a la falda de p
+*PAR:	vols baixar ?
+*PAR:	no hi ha qui t' entengui [= el deixa a terra] .
+@Comment:	tall a la cinta
+*CHI:	pcf [% "aa" , des de la porta] .
+*PAR:	hola !
+*CHI:	0 [=! riu] .
+%act:	i se'n va gatejant .
+@Comment:	tall a la cinta , g no surt en imatge
+*CHI:	no .
+*CHI:	0 [=! riu] .
+*PAR:	0 [= repeteix el riure de g] .
+*PAR:	no , aquest no .
+@Comment:	apareix g en imatge , assegut a terra amb un trencaclosques de peces geometriques , mes que collocar peces , g , les putineja , enraonen q i r
+*CHI:	pcf [% "amamm" , col'loca una peca] .
+*PAR:	molt be .
+*CHI:	pcf [% "ada" , ensenya un martell a p] .
+*PAR:	gracies [= el vol agafar] .
+*CHI:	0 .
+%act:	no li dona , es pica el cap amb el martell
+*PAR:	ah !
+*PAR:	et faras mal .
+*CHI:	pcf [% "aim"] .
+*CHI:	0 [= fa vocalitzacions] .
+@Comment:	tall a la cinta , juguen q i p
+*CHI:	mama .
+*CHI:	mama [= ho diu tot seguit , se'n va cap a m] .
+*MAR:	vine .
+@Comment:	tall a la cinta
+*QUI:	mare .
+*CHI:	mare .
+*CHI:	mare .
+*CHI:	meva mare .
+@Comment:	enraonen q i p , se sent vocalitzar g , no es veu
+*CHI:	mama .
+*CHI:	mama .
+@Comment:	tall a la cinta , enraonen q i m , tall a la cinta , q juga amb un telefon , g agafa el telefon quan q el deixa
+*CHI:	0 [= vocalitza per telefon] .
+*MAR:	amb qui parles guillem ?
+*MAR:	amb qui parles ?
+*CHI:	0 [= vocalitza] .
+*MAR:	diguim .
+@Comment:	deixa el telefon i s' apropa a q i p , enraonen q i m , q , p i g posen el cap sobre el mateix coixi , g comenca a estirarli els cabells a q , vol el xumet que te q a la boca
+*PAR:	a dormir , a dormir .
+*CHI:	pcf [% "aaaaa" , agafa una peca de construccio] .
+*CHI:	0 .
+%act:	llenca la peca
+@Comment:	g obre un armari i comenca a remenar , tall a la cinta des del frame 1062 fins 1100 , g apareix a la banyera , q li renta el cap i g es queixa , enraonen q i r mentre r neteja g
+*CHI:	0 [=! plora] .
+*CHI:	0 .
+%act:	es posa una peca de plastic a la boca
+*ROS:	caca .
+*CHI:	0 [=! gemega] .
+*ROS:	ai , ai !
+*CHI:	0 [= vocalitza] .
+%act:	juga amb l' esponja .
+*ROS:	guillem .
+*ROS:	tat@c [= l' esquitxa] .
+*CHI:	pcf [% "tatata"] .
+*ROS:	guillem .
+*CHI:	pcf [% "tatatata"] .
+*ROS:	guillem .
+*ROS:	0 .
+%act:	l' esquitxa
+*CHI:	pcf [% "aioio"] .
+*ROS:	0 .
+%act:	l' esquitxa
+*CHI:	pcf [% "aioio"] .
+*ROS:	guillem [= l' esquitxa] .
+*CHI:	pcf [% "paba"] .
+*ROS:	guapo , guillem , guapo .
+*CHI:	0 .
+%act:	es dona cops al cap amb la ma
+*ROS:	no , no et peguis , no .
+*ROS:	guillem , no .
+*CHI:	0 [=! crida] .
+*ROS:	ai !
+*CHI:	0 [=! crida] .
+*CHI:	0 [= vocalitza] .
+*CHI:	0 [=! crida] .
+*ROS:	xumi@c xumi@c [= li toca la barbeta] .
+*CHI:	pcf [% "xoxi" , manipula l' esponja] .
+*ROS:	que fa el guillem ?
+*ROS:	frega guillem , frega [= el frega amb l' esponja] .
+*CHI:	0 [=! crida] .
+%act:	es pica a la panxa .
+*CHI:	0 .
+%act:	pica sobre l' aigua
+*INV:	ai , guillem !
+*INV:	quanta aigua , eh ?
+*CHI:	0 .
+%act:	frega la banyera amb l' esponja
+*CHI:	0 .
+%act:	ara es dedica a esmicolar l' esponja
+*INV:	no t' ho mengis , eh .
+*CHI:	pcf [% "bau"] .
+*INV:	a la boca no , eh .
+*CHI:	0 [= vocalitza] .
+*INV:	a la boca no , eh , guillem .
+*CHI:	0 [= vocalitza] .
+*INV:	no .
+*INV:	no t' ho mengis pas , eh .
+*INV:	qui ve ?
+*ROS:	hola !
+*ROS:	hola guillem !
+*ROS:	guillem , que vinc a banyar'me amb tu .
+@Comment:	tall a la cinta
+*CHI:	pcf [% "ta" , ensenya un trosset d' esponja] .
+*INV:	pcf [% "ta" , repeteix] .
+*CHI:	pcf [% "ta"] .
+*INV:	pcf [% "ta" , repeteix] .
+@Comment:	tall a la cinta
+*CHI:	pcf [% "eeee" , pica amb l' esponja sobre l' aigua] .
+*INV:	que tens pipi guillem ?
+*CHI:	0 [= vocalitza] .
+*INV:	tens pipi guillem ?
+*CHI:	pcf [% "eia" , ensenya una palangana] .
+*CHI:	0 [= treu la llengua] .
+*CHI:	0 [= vocalitza] .
+@Comment:	r posa a q a la banyera , enraonen q i r mentre aquesta el neteja , g va jugant amb unes peces que hi ha dins l' aigua , g s' ha posat alguna cosa a la boca
+*ROS:	ai , marrano !
+*ROS:	obre la boca .
+*ROS:	a veure aquesta boca .
+*ROS:	aaa@c .
+*CHI:	xxx .
+%act:	beu aigua i estossega
+*CHI:	pcf [% "da" , mirant a r] .
+*CHI:	0 [= vocalitza] .
+*CHI:	0 [= vocalitza] .
+%act:	juga amb una galleda .
+*CHI:	pcf [% "baba" , podria ser aigua perque treu aigua de la galleda] .
+*ROS:	si , guillem .
+*CHI:	0 [= vocalitza] .
+%act:	beu aigua amb la galleda i estossega
+*INV:	que fas guillem ?
+*CHI:	0 [= vocalitza] .
+@Comment:	enraonen q i r
+*CHI:	pcf [% "ato ato ato ato" , juga amb la galleda] .
+@Comment:	r esbandeix g i aquest es queixa , r porta a g al canviador , g es queixa mentre r l' aixuga
+*ROS:	no ploris , home .
+*CHI:	&ma [% vol dir "mama" , allarga el brac cap a m , no ho acaba perque li cau el xumet de la boca al comencar a parlar i es distreu seguint la trajectoria del xumet amb la mirada] .
+@Comment:	r el vol vestir , g plora , tall a la cinta , enraonen q i e , r vesteix g , aquest es queixa
+*CHI:	0 [= vocalitza] .
+*CHI:	0 [= vocalitza] .
+%act:	senyala amb el dit
+*ROS:	tot aixo m' expliques ?
+*ROS:	alla te'n vols anar guillem ?
+*CHI:	0 [= vocalitza] .
+*ROS:	ara te'n vas .
+*ROS:	un moment , un momentet , eh .
+*CHI:	0 [= vocalitza] .
+@Comment:	tall a la cinta , enraonen q i r
+*CHI:	0 [= vocalitza mentre l' acaben de vestir] .
+@Comment:	enraonen q i m
+*CHI:	0 [= va vocalitzant mentre r el pentina] .
+*ROS:	au , ja esta .
+*CHI:	0 .
+%act:	dona una pinta a r
+*ROS:	gracies guillem .
+*ROS:	vols venir ?
+%act:	agafa a g a coll
+@Comment:	tall a la cinta , r acaba de netejar q , g no surt en imatge pero se'l sent vocalitzar
+@End

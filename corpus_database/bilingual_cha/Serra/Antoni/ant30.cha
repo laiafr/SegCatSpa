@@ -1,0 +1,268 @@
+@UTF8
+@PID:	11312/c-00001914-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Antoni Target_Child , NOI noia Nurse , INV Investigator
+@ID:	spa , cat|Serra|CHI|2;5.18||||Target_Child|||
+@ID:	spa , cat|Serra|NOI|||||Nurse|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	a assegut a la taula de la cuina
+*INV:	i que mes menjaras ?
+*INV:	fideus ?
+*CHI:	si , fideus [% "si , pideus"] .
+*INV:	que bo !
+*INV:	escolta antoni , qui t' ha fet aquest mal a la galta ?
+*INV:	qui te l' ha fet ?
+*INV:	que no ho saps ?
+*CHI:	una xxx xxx [% "una piareta xxx"] .
+*INV:	una nena ?
+*CHI:	xxx .
+*INV:	i que li has fet tu ?
+*INV:	li has pegat tu ?
+*CHI:	no .
+*INV:	no ?
+*INV:	ai pobre !
+*INV:	quina [/?] quin mal , eh ?
+*INV:	com se diu aquesta nena que t' ha fet mal ?
+*CHI:	olga [% "ola"] .
+*INV:	olga ?
+*CHI:	olga [% "ora"] .
+*INV:	ah si ?
+*INV:	oh !
+*INV:	i el papa on es ?
+*CHI:	esta xxx el papa [% "teta xxx el papa"] .
+*INV:	esta a madrid ?
+*CHI:	si .
+*INV:	ah !
+*INV:	i la mama tambe ?
+*INV:	que be , no ?
+*INV:	i ara que faras antoni ?
+*INV:	menjaras ?
+*CHI:	xxx .
+@Comment:	hi ha soroll de fons
+*CHI:	n' hi ha xxx , n' hi ha xxx
+	[% "n' hi han talamu , n' hi han talamu"] ?
+*CHI:	n' hi ha avui , n' hi ha avui [% "n' hi han avui"] ?
+*INV:	no vols ?
+*CHI:	n' hi ha avui platano
+	[% "n hi han avui patanu" , assenyala un platano] ?
+*INV:	platano ?
+*CHI:	si .
+*INV:	hummm , que bo !
+*INV:	eh ?
+*INV:	t' agrada molt ?
+*CHI:	si .
+*INV:	i com te'l menges ?
+*CHI:	au [/?] amb tenedor [% "au tenedor"] .
+*INV:	amb un tenedor ?
+*CHI:	si .
+*INV:	ah !
+*INV:	no el menges amb els dits ?
+*CHI:	xxx .
+*INV:	eh ?
+*CHI:	xxx .
+*INV:	que fa la mare ?
+*INV:	que fa ?
+@Comment:	a s' aixeca , en diferents imatges se'l veu agafant coses d' un calaix i caminant , a torna a apareixer assegut a la taula de la cuina , menja un tros de pa
+*INV:	xxx aquesta jaqueta ?
+*CHI:	de la mama aquesta [% "de la mama aqueta"] .
+*INV:	de la mama ?
+*CHI:	aquesta [% "aqueta"] .
+*INV:	que aniras a l' escola despres ?
+*CHI:	hummm [= afirmatiu , esta mastegant] !
+*INV:	si ?
+*INV:	hi aniras a la tarda ?
+*CHI:	si .
+*INV:	hummm !
+*INV:	que es bo el pa eh ?
+*INV:	que tens gana ?
+*CHI:	si .
+*INV:	si ?
+*INV:	oi quina olor mes bona que sento !
+*INV:	que bo !
+*INV:	que es aixo que fa la mary ?
+*CHI:	jo dino xxx [% "jo nino come"] .
+*CHI:	la carn no [% "la can no"] .
+*INV:	si ?
+*INV:	mira , ja t' ho porta .
+@Comment:	n comenca a donarli menjar a a
+*CHI:	carn [% "can" , l'assenyala] .
+*NOI:	si , si .
+*NOI:	va .
+*CHI:	la carne [% "e cane" , eposa dret per agafar un tros de carn] .
+*NOI:	no , no que quema , antoni , que quema .
+*CHI:	no quema .
+*NOI:	si quema , si .
+*CHI:	xxx xxx [% "achi vena"] .
+*NOI:	espera .
+*CHI:	0 .
+%act:	agafa un tros de carn amb la forquilla , li cau a terra
+*CHI:	ay , he perdido la carne [% "ay , he perdio la carne"] !
+*CHI:	0 .
+%act:	s' ajup a collir la carn
+*NOI:	antoni , no .
+*NOI:	la carne no , eh !
+*NOI:	no , no , no .
+*CHI:	caca [= es refereix a la carn que ha caigut] .
+*NOI:	caca , si .
+*CHI:	caca [= mira a e] .
+*INV:	si .
+*INV:	esta brut , oi ?
+*CHI:	aquesta no esta bruta
+	[% "eta no sa buta" , agafa un nou tros de carn] .
+*NOI:	0 .
+%act:	posa el pitet a a
+@Comment:	a va menjant
+*CHI:	la &+cua menja .
+*CHI:	la xxx menja [% "la calalluc menja"] .
+*INV:	tambe menja ?
+*CHI:	si , la xxx [% "si , la calalluc"] .
+*INV:	a on menja ?
+*CHI:	a la taula .
+*INV:	tambe com tu ?
+*CHI:	0 [= mira a e pero no contesta] .
+*CHI:	xxx un xxx <e e> [/?] ala [% "tenta un comur ala"] .
+*INV:	que es amiga teva ?
+*CHI:	si .
+*CHI:	no vale eso [= assenyala un tros de carn] .
+*CHI:	eso no vale .
+*NOI:	si que vale eso , si [= punxa un tros de carn] .
+*NOI:	mira [= vol que a agafi la forquilla] .
+*CHI:	eso no [= assenyala] .
+*NOI:	antoni [= li enretira la maniga] !
+*CHI:	eso no vale [= continua assenyalant] .
+*CHI:	eso no vale .
+*NOI:	bueno .
+*CHI:	eso no vale .
+*NOI:	no vale ?
+*CHI:	no .
+*CHI:	la carne si vale .
+*NOI:	ah !
+*CHI:	0 .
+%act:	mulla un tros de pa en el plat de la carn
+*CHI:	es tomate [% "se comate"] .
+*NOI:	si .
+*CHI:	tomate [>] [% "comate"] .
+*NOI:	<tomate no> [<] .
+*INV:	si ?
+*CHI:	es tomate no , xxx tomate [% "e comate no , xxx comate"] .
+*NOI:	tomate no antoni .
+*CHI:	ah [= ensenya el pa a n interrogativament] ?
+*NOI:	tomate no .
+*CHI:	tomate [% "comate"] ?
+*NOI:	0 [= fa que no amb el cap] .
+*CHI:	0 .
+%act:	pica amb el pa al plat
+*CHI:	xxx tomate [% "tito comate"] .
+*NOI:	que no es tomate antoni .
+*CHI:	que ?
+*NOI:	no es tomate .
+*CHI:	xxx [% "ta"] ?
+*CHI:	0 .
+%act:	suca altre cop el pa
+*CHI:	si tomate [% "si comate" , ensenya el pa a n] .
+*NOI:	que no , no es tomate , no .
+*CHI:	si es tomate [% "si es comate"] .
+*CHI:	si es tomate
+	[% "si es comate" , ho olora i ho torna a ensenyar a n] .
+*NOI:	que no .
+*CHI:	si que es tomate [% "si que es comate"] .
+*CHI:	aqui hi ha tomate [% "qui ca comate" , ensenya el plat a n] .
+*NOI:	quieres tomate antoni ?
+*CHI:	si .
+*NOI:	0 .
+%act:	agafa el pa i el suca en el plat
+*NOI:	ya esta [= dona el pa a a] .
+*CHI:	ya esta [% "u ta" , mossega el tros de pa] .
+*CHI:	te a [/?] un poquito .
+*NOI:	no .
+*NOI:	antoni [= a no vol la carn] !
+*INV:	i la verdura que no la menges ?
+*CHI:	<encara no> [>] .
+*INV:	<eh , antoni> [<] ?
+*INV:	no encara ?
+*CHI:	0 .
+%act:	menja carn i suca pa
+*INV:	no t' agrada ?
+*CHI:	0 [= no contesta , continua menjant] .
+@Comment:	tall a la cinta , la situacio es la mateixa
+*INV:	que dius ?
+*CHI:	que ja s' ha acabat la carne [= assenyala el plat buit] .
+*INV:	ah si ?
+*INV:	oi , si !
+*INV:	doncs ara verdura , no ?
+*CHI:	si .
+*INV:	que bona !
+*INV:	hum !
+*CHI:	es espinacas [% "e epinaca"] .
+*CHI:	espinacas [% "apinacas" , assenyala la verdura] .
+*INV:	et faras molt alt i fort , no ?
+*INV:	amb tants espinacas .
+*CHI:	0 .
+%act:	agafa espinacs amb els dits
+*NOI:	antoni !
+*CHI:	xxx .
+*CHI:	espinacas no [% "taminacas no"] .
+*NOI:	si xxx .
+*NOI:	no son espinacas antoni .
+*CHI:	que ?
+@Comment:	del frame 4421 al 4505 nigu parla , a va menjant
+*NOI:	xxx antoni ?
+*CHI:	si .
+*NOI:	si ?
+*CHI:	0 .
+%act:	vol agafar espinacs amb els dits
+*NOI:	no [= li aparata la ma] !
+*CHI:	0 .
+%act:	es treu alguna cosa de la boca
+*NOI:	no quieres esto antoni ?
+*CHI:	xxx [= te la boca plena] .
+*CHI:	ara vindra el papa .
+*NOI:	claro .
+*CHI:	ara vindra el papa .
+*INV:	ara vindra el papa ?
+*CHI:	hum [= afirmatiu] !
+*INV:	que vols que vingui ?
+*INV:	antoni , que vas veure el futbol ahir ?
+*NOI:	si .
+*CHI:	si .
+*INV:	i que ?
+*INV:	et va agradar ?
+*INV:	qui va guanyar ?
+*CHI:	el barca [% "al basa"] .
+*INV:	el barca ?
+*INV:	sempre guanya el barca ?
+*CHI:	si .
+*INV:	que ets del barca tu ?
+*CHI:	no .
+*INV:	no ets del barca ?
+*CHI:	hum !
+*CHI:	la camisa del barca si [% "la camisa basa si"] .
+*INV:	la camisa del barca si ?
+*INV:	i que jugues a futbol tu ?
+*CHI:	no .
+*INV:	no jugues ?
+*CHI:	no .
+*INV:	per que ?
+*CHI:	xxx [% "asantu"] .
+*INV:	no en saps ?
+*INV:	no saps jugar a futbol ?
+*NOI:	si .
+*INV:	si que saps xutar la pilota .
+*INV:	pam@c !
+*INV:	eh que si ?
+*CHI:	<a i jo i jo> [/?] i jo futbol xuto la pilota
+	[% "i jo umbol tutu la pilota"] .
+*INV:	si ?
+*CHI:	el barca xuta la pilota [% "ca basa cuca la pilota"] .
+*INV:	xuta la pilota el barca ?
+*CHI:	si .
+*INV:	i fa gols ?
+*CHI:	hum [= afirmatiu] !
+*INV:	hum ?
+*INV:	molts , molts gols fa ?
+*CHI:	si .
+*CHI:	0 [= va menjant] .
+*INV:	ai que ja acabes !
+*INV:	ja acabes de dinar .
+@End

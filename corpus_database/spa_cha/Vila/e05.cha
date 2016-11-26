@@ -1,0 +1,114 @@
+@UTF8
+@PID:	11312/c-00032005-1
+@Begin
+@Languages:	spa
+@Participants:	CHI emilio Target_Child , INE ines Mother , PAP papa Father
+@ID:	spa|Vila|CHI|1;04.25||||Target_Child|||
+@ID:	spa|Vila|INE|||||Mother|||
+@ID:	spa|Vila|PAP|||||Father|||
+*CHI:	nacho .
+*CHI:	0 .
+%act:	balbucea .
+*CHI:	0 .
+%act:	llama mirando a la calle .
+*CHI:	0 .
+%act:	protesta .
+*CHI:	0 .
+%act:	balbucea y acompaña la acción .
+*CHI:	0 .
+%act:	protesta .
+*INE:	que quieres tocar el magnetofón ?
+*CHI:	sí .
+*INE:	sí .
+%com:	ambos ríen
+*CHI:	0 .
+%act:	toca el magnetofón .
+*CHI:	0 .
+%act:	balbucea .
+%com:	emilio corre hacia inés con los brazos abiertos
+*CHI:	0 .
+%act:	balbucea .
+*PAP:	silba .
+*CHI:	tono .
+*PAP:	silba .
+*CHI:	tono .
+*CHI:	0 .
+%act:	balbucea .
+*PAP:	lo has tirado , eh ?
+%com:	emilio le cae una cosa que ha querido coger
+*CHI:	0 .
+%act:	balbucea .
+*CHI:	coqui [% mirando una caja con objetos] .
+*CHI:	0 .
+%act:	requiere el objeto con el brazo estirado .
+%com:	emilio agita los brazos
+*PAP:	qué es esto ?
+*CHI:	0 .
+%act:	balbucea .
+%com:	emilio con el objeto en la mano
+*PAP:	es un dibujo .
+*CHI:	0 .
+%act:	balbucea .
+*PAP:	dibujo .
+*INE:	aquí .
+*CHI:	aquí .
+%com:	inés pone un objeto y emilio le imita
+*CHI:	aoh .
+%com:	se acaba de dar un golpe en la cabeza
+*CHI:	0 .
+%act:	balbucea .
+%com:	emilio estira de las piezas y no las puede sacar y quiere que inés le ayude
+*CHI:	0 .
+%act:	grita .
+*CHI:	0 .
+%act:	no quiere dar un objeto a inés que se lo está pidiendo .
+*CHI:	0 .
+%act:	extiende el brazo señalizando el objeto para cogerlo .
+%com:	emilio da a inés una pieza para que la esconda , emilio con el brazo extendido
+*INE:	qué quieres ?
+*CHI:	sí .
+%com:	emilio extiende el brazo
+*INE:	pla:to .
+*CHI:	pla:to .
+*INE:	0 .
+%act:	va dándole voces y emilio la imita .
+*INE:	cu:chara .
+*INE:	vaso .
+*CHI:	vaso .
+*INE:	mira .
+%com:	emilio coge el cuento
+*INE:	nene .
+*INE:	un nene .
+*INE:	mira .
+*INE:	un nene .
+*INE:	oh .
+*CHI:	oh .
+*INE:	espera .
+*INE:	xxx .
+*INE:	despacito .
+*INE:	xxx .
+*INE:	vamos a mirarlo .
+*INE:	espera .
+%com:	emilio se estira para coger unos lápices
+*INE:	mira .
+*INE:	oh qué bonito !
+*INE:	mira .
+*INE:	xxx .
+*INE:	xxx .
+*CHI:	ia .
+%com:	emilio no mira el cuento con los lápices
+*INE:	mira .
+*INE:	nene .
+*CHI:	nene .
+*INE:	mira .
+*INE:	emilio .
+*INE:	mira .
+*INE:	oso .
+*INE:	o:so .
+*INE:	y nene .
+*INE:	pájaro .
+*CHI:	oh .
+%com:	emilio se da la vuelta hacia los lápices y se estira para cogerlos
+*INE:	qué quieres ?
+*CHI:	té .
+@End

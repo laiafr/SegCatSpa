@@ -1,0 +1,463 @@
+@UTF8
+@PID:	11312/c-00032818-1
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , PAD Father
+@ID:	spa|Ornat|CHI|3;7.||||Target_Child|||
+@ID:	spa|Ornat|PAD|||||Father|||
+@Media:	16f, video
+@Comment:	DV Tape is maria16-06.mov
+@Tape Location:	Z-3;09-634
+@Situation:	María en el salón mientras papá está en la terraza intentando filmarla.
+*CHI:	espera un momentín ahí . 0_27605
+%mor:	imp|espera-2S&IMP=wait det:art|un&m=one n|momento-MASC&AUG=moment
+	adv|ahí=there .
+*CHI:	xxx . 27605_40830
+*CHI:	a_ver , olelá [: huélela] , de qué es , olelá [: huélela] . 40830_45070
+%mor:	co|a_ver=see cm|cm imp|ole-2S&IMP~pro:clit|OBJ&FEM cm|cm prep|de=of
+	pro:int|qué=what cop|se-3S&PRES=be cm|cm
+	imp|ole-2S&IMP~pro:clit|OBJ&FEM .
+*PAD:	el qué ? 45070_45853
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what ?
+*CHI:	la comida . 45853_46693
+%mor:	det:art|el&FEM&SG=the n|comida&f=food .
+*PAD:	qué le pasa a la comida ? 46693_48661
+%mor:	pro:int|qué=what pro:ind|le=him v|pasa-3S&PRES=pass aprep|a=to
+	det:art|el&FEM&SG=the n|comida&f=food ?
+*CHI:	a_ver , olelá [: huélela] . 48661_49861
+%mor:	co|a_ver=see cm|cm imp|ole-2S&IMP~pro:clit|OBJ&FEM .
+*PAD:	0 [% la huele] no sé de qué es . 49861_52381
+%mor:	adv|no=no v|sabe-1S&PRES=know prep|de=of pro:int|qué=what
+	cop|se-3S&PRES=be .
+*CHI:	0 [% sale] mira , toma . 52381_55286
+%mor:	co|mira=look cm|cm v|toma-3S&PRES=take .
+*PAD:	aum . 55286_56160
+%mor:	co|aum=yum .
+*CHI:	te gusta ? 56160_56796
+%mor:	pro:obj|te=you v|gusta-3S&PRES=like ?
+*PAD:	vaya , eso sí que está bueno . 56796_58225
+%mor:	co|vaya=come_on cm|cm pro:dem|eso=that_one co|sí=yes
+	pro:rel|que=that cop|esta-3S&PRES=be co|bueno=good .
+%com:	María entra al salón
+*CHI:	bueno pues ahora tómatelo . 58225_60131
+%mor:	co|bueno=good co|pues=well adv|ahora=now
+	imp|toma-2S&IMP~pro:clit|2S~pro:clit|OBJ&MASC .
+*PAD:	oye , una pregunta impertinente , tú te has toma(d)o la leche del desayuno ? 60131_66340
+%mor:	co|oye=listen cm|cm pro:dem|uno-FEM=one v|pregunta-3S&PRES=ask
+	adj|impertinente=impertinent cm|cm pro:sub|tú=you pro:obj|te=you
+	aux|habe-2S&PRES=have part|toma-PPART-MASC=take
+	det:art|el&FEM&SG=the n|leche&f=milk prep|de~det|el&MASC
+	v|desayuna-1S&PRES=breakfast ?
+*PAD:	no , verdad ? 66340_71258
+%mor:	adv|no=no cm|cm co|verdad=right ?
+*CHI:	sí , no , pero ahora tú . 71258_76755
+%mor:	co|sí=yes cm|cm adv|no=no cm|cm conj|pero=but adv|ahora=now
+	pro:sub|tú=you .
+*PAD:	ya , ya . 76755_78238
+%mor:	adv|ya=already cm|cm adv|ya=already .
+*CHI:	xxx 0 [% hace la comida] ya está . 78238_102065
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%com:	entra a la terraza
+*CHI:	0 [% se hace como si trae un plato y lo pone enfrente de Papá] . 102065_108775
+*CHI:	ya está . 108775_109790
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+*CHI:	ahora , qué quieres hacer ? 109790_114253
+%mor:	adv|ahora=now cm|cm pro:int|qué=what v|quere-2S&PRES=want
+	inf|hace-INF=do ?
+*PAD:	yo , nada . 114253_115405
+%mor:	pro:sub|yo=I cm|cm v|nada-3S&PRES=swim .
+*CHI:	un postie [: postre] . 115405_116430
+%mor:	det:art|un&m=one n|postre&m=dessert .
+*CHI:	un post(r)e [% va hacia el salón a hacer el postre] . 116430_120071
+%mor:	det:art|un&m=one n|postre&m=dessert .
+*CHI:	xxx lo que te estoy haciendo ? 120071_140253
+%mor:	pro:obj|lo&m=him pro:rel|que=that pro:obj|te=you
+	aux|esta-1S&PRES=be ger|hace-PROG=do ?
+%com:	sale
+*CHI:	mira si no te quieres comer la sopa me la como yo . 140253_158651
+%mor:	co|mira=look conj|si=if adv|no=no pro:obj|te=you
+	v|quere-2S&PRES=want inf|come-INF=eat det:art|el&FEM&SG=the
+	n|sopa&f=soup pro:obj|me=me det:art|el&FEM&SG=the adv|como=like
+	pro:sub|yo=I .
+%com:	se lleva la sopa
+*CHI:	no me mires . 158651_173098
+%mor:	adv|no=no pro:obj|me=me v|mira-2S&SUB&PRES=look .
+*PAD:	por_qué ? 173098_174113
+%mor:	pro:int|por_qué=why ?
+*CHI:	estoy enfadada contigo . 174113_176540
+%mor:	cop|esta-1S&PRES=be adj|enfadado-FEM=anger adv|contigo=with_you .
+*CHI:	porque no te has tomado tu sopa . 176540_179596
+%mor:	conj|porque=because adv|no=no pro:obj|te=you aux|habe-2S&PRES=have
+	part|toma-PPART-MASC=take det:pos|tu=your n|sopa&f=soup .
+*CHI:	mira , xxx ya he termina(d)o . 179596_188045
+%mor:	co|mira=look cm|cm adv|ya=already aux|habe-1S&PRES=have
+	part|termina-PPART-MASC=end .
+*CHI:	corta y ahora vengo para que tú me hagas más pelí(cula) . 188045_191786
+%mor:	v|corta-3S&PRES=cut coord|y=and adv|ahora=now v|veni-1S&PRES=come
+	prep|para=for pro:rel|que=that pro:sub|tú=you pro:obj|me=me
+	v|hace-2S&SUB&PRES=do adv|más=more n|película&f=film .
+*PAD:	vale . 191786_193006
+%mor:	co|vale=okay .
+*CHI:	corta que voy a hacer caca , vale ? 193006_195473
+%mor:	v|corta-3S&PRES=cut pro:rel|que=that v|i-1S&PRES=go aprep|a=to
+	inf|hace-INF=do n|caca&f=feces cm|cm co|vale=okay ?
+*PAD:	como has dicho que no te he entendido . 195473_196718
+%mor:	adv|como=like aux|habe-2S&PRES=have part|deci-PPART-MASC=say
+	pro:rel|que=that adv|no=no pro:obj|te=you aux|habe-1S&PRES=have
+	part|entende-PPART-MASC=understand .
+*CHI:	que voy a hacer caca y corta . 196718_198230
+%mor:	pro:rel|que=that v|i-1S&PRES=go aprep|a=to inf|hace-INF=do
+	n|caca&f=feces coord|y=and v|corta-3S&PRES=cut .
+%com:	corte
+@Tape Location:	Z-3;09-365
+@Situation:	María en el salón , en pijama con papá.
+*CHI:	mi pijama , mi pijamita . 198230_201638
+%mor:	det:pos|mi=my n|pijama&f=pyjamas cm|cm det:pos|mi=my
+	n|pijama-DIM-FEM=pyjamas .
+*PAD:	vamos a sentarnos anda , y hacemos la película senta(d)os . 201638_204710
+%mor:	v|i-1P&PRES=go aprep|a=to inf|senta-INF~pro:clit|1P co|anda=come_on
+	cm|cm coord|y=and v|hace-1P&PRES=do det:art|el&FEM&SG=the
+	n|película&f=film part|senta-PPART-MASC-PL=sit .
+*PAD:	vale , donde estábamos . 204710_206210
+%mor:	co|vale=okay cm|cm pro:rel|donde=where cop|esta-1P&PAS=be .
+*CHI:	oye , hazme una foto a esto . 206210_208991
+%mor:	co|oye=listen cm|cm imp|hace-2S&IMP~pro:clit|1S det:art|un-FEM=one
+	n|foto&m=photo aprep|a=to pro:dem|esto=this_one .
+%com:	señala su camiseta
+*PAD:	pero ponte sentada para que pueda hacerte bien la foto . 208991_211740
+%mor:	conj|pero=but imp|pone-2S&IMP~pro:clit|2S part|senta-PPART-FEM=sit
+	prep|para=for pro:rel|que=that v|pode-13S&SUB&PRES=can
+	inf|hace-INF~pro:clit|2S adv|bien=well det:art|el&FEM&SG=the
+	n|foto&m=photo .
+*CHI:	0 [% se sienta] aquí no , aquí hay bichitos de la madera en el suelo . 211740_219890
+%mor:	adv|aquí=here adv|no=no cm|cm adv|aquí=here
+	v|habe-3S&PRES&SPEC=have n|bicho-DIM-MASC-PL=creature prep|de=of
+	det:art|el&FEM&SG=the n|madera&f=wood prep|en=in
+	det:art|el&MASC&SG=the n|suelo&m=floor .
+%com:	se cambia de sitio
+*CHI:	aquí , aquí . 219890_225665
+%mor:	adv|aquí=here cm|cm adv|aquí=here .
+*PAD:	aquí estamos bien ? 225665_227995
+%mor:	adv|aquí=here cop|esta-1P&PRES&PRET=be adv|bien=well ?
+*CHI:	sí . 227995_229280
+%mor:	co|sí=yes .
+*PAD:	sabes que día es hoy el dieciocho , no ? 229280_231243
+%mor:	v|sabe-2S&PRES=know pro:rel|que=that n|día&m=day cop|se-3S&PRES=be
+	adv|hoy=today det:art|el&MASC&SG=the det:num|dieciocho=eighteen
+	cm|cm adv|no=no ?
+*CHI:	sí . 231243_232120
+%mor:	co|sí=yes .
+*PAD:	de Mayo , no ? 232120_232838
+%mor:	prep|de=of n:prop|Mayo cm|cm adv|no=no ?
+*CHI:	sí . 232838_233918
+%mor:	co|sí=yes .
+*PAD:	de noventa . 233918_234463
+%mor:	prep|de=of det:num|noventa=ninety .
+*CHI:	mnn . 234463_235360
+%mor:	co|mnn .
+*PAD:	vale . 235360_235998
+%mor:	co|vale=okay .
+*CHI:	mira [% se baja la hombrera de la camiseta] . 235998_238940
+%mor:	co|mira=look .
+*PAD:	qué es lo que quieres que haga ? 238940_242538
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:obj|lo&m=him
+	pro:rel|que=that v|quere-2S&PRES=want pro:rel|que=that
+	v|hace-13S&SUB&PRES=do ?
+*CHI:	no es de manga corta , e(s) de hombrera(s) +... 242538_248956
+%mor:	adv|no=no cop|se-3S&PRES=be prep|de=of n|manga&f=sleeve
+	v|corta-3S&PRES=cut cm|cm cop|se-3S&PRES=be prep|de=of
+	n|hombrera&f-PL=shoulder_pad +...
+*CHI:	y voy a dormir con él , voy a dormir con él . 248956_257241
+%mor:	coord|y=and v|i-1S&PRES=go aprep|a=to inf|dormi-INF=sleep
+	prep|con=with pro:sub|él&m=he cm|cm v|i-1S&PRES=go aprep|a=to
+	inf|dormi-INF=sleep prep|con=with pro:sub|él&m=he .
+*CHI:	voy a dormir con él . 257241_259425
+%mor:	v|i-1S&PRES=go aprep|a=to inf|dormi-INF=sleep prep|con=with
+	pro:sub|él&m=he .
+*PAD:	pero quizás tendrías que explicar un poquito , que es cariño . 259425_263746
+%mor:	conj|pero=but adv|quizás=perhaps v|tene-2S&COND=have
+	pro:rel|que=that inf|explica-INF=explain det:art|un&m=one
+	pro:indef|poquito=little cm|cm pro:rel|que=that cop|se-3S&PRES=be
+	co:voc|cariño=affection .
+*PAD:	en qué vas a dormir , un poquito . 263746_265628
+%mor:	prep|en=in pro:int|qué=what v|i-2S&PRES=go aprep|a=to
+	inf|dormi-INF=sleep cm|cm det:art|un&m=one pro:indef|poquito=little
+	.
+*CHI:	pues voy a dormir con esto . 265628_269725
+%mor:	co|pues=well v|i-1S&PRES=go aprep|a=to inf|dormi-INF=sleep
+	prep|con=with pro:dem|esto=this_one .
+*PAD:	con qué ? 269725_271070
+%mor:	prep|con=with pro:int|qué=what ?
+*CHI:	0 [% señala el pantalón de su pijama] . 271070_273180
+*PAD:	y eso qué es ? 273180_273995
+%mor:	coord|y=and pro:dem|eso=that_one pro:int|qué=what cop|se-3S&PRES=be
+	?
+*CHI:	con mi pijama . 273995_275180
+%mor:	prep|con=with det:pos|mi=my n|pijama&f=pyjamas .
+*PAD:	a:h ! 275180_275940
+%mor:	co|ah !
+*CHI:	es para verano . 275940_278268
+%mor:	cop|se-3S&PRES=be prep|para=for n|verano&m=summer .
+*CHI:	para primavera 0 [% hace un señal de así así] un poquito , sólo un poquito porque si hace mucho frío no me lo puedo quitar . 278268_290271
+%mor:	prep|para=for n|primavera&f=spring det:art|un&m=one
+	pro:indef|poquito=little cm|cm adv|sólo=only det:art|un&m=one
+	pro:indef|poquito=little conj|porque=because conj|si=if
+	v|hace-3S&PRES=do adv|mucho=much v|freí-1S&PRES=fry adv|no=no
+	pro:obj|me=me pro:obj|lo&m=him v|pode-1S&PRES=can
+	inf|quita-INF=remove .
+*CHI:	ahora que mient(r)as haga frío pues me da igual , no me lo voy a quitar . 290271_303231
+%mor:	adv|ahora=now pro:rel|que=that adv|mientras=while
+	v|hace-13S&SUB&PRES=do adj|frío-MASC=cold co|pues=well pro:obj|me=me
+	v|da-3S&PRES=give co|igual=equal cm|cm adv|no=no pro:obj|me=me
+	pro:obj|lo&m=him v|i-1S&PRES=go aprep|a=to inf|quita-INF=remove .
+*PAD:	ninguna noche ? 303231_306625
+%mor:	det:indef|ningún-FEM=none n|noche&f=night ?
+*CHI:	um ? 306625_308140
+%mor:	co|um ?
+*PAD:	ninguna noche ? 308140_309073
+%mor:	det:indef|ningún-FEM=none n|noche&f=night ?
+*CHI:	ninguna noche . 309073_310255
+%mor:	det:indef|ningún-FEM=none n|noche&f=night .
+*CHI:	bueno cuando tenga cole voy al cole pero si no tengo cole , no me lo quito . 310255_319196
+%mor:	co|bueno=good pro:rel|cuando=when v|tene-13S&SUB&PRES=have
+	v|cola-13S&SUB&PRES=drain/sneak v|i-1S&PRES=go aprep|a~det|el&MASC
+	v|cola-13S&SUB&PRES=drain/sneak conj|pero=but conj|si=if adv|no=no
+	v|tene-1S&PRES=have v|cola-13S&SUB&PRES=drain/sneak cm|cm adv|no=no
+	pro:obj|me=me pro:obj|lo&m=him v|quita-1S&PRES=remove .
+*CHI:	y si tengo que ir afuera pues me voy afuera , a la terraza . 319196_323918
+%mor:	coord|y=and conj|si=if v|tene-1S&PRES=have pro:rel|que=that
+	inf|i-INF=go adv|afuera=outside co|pues=well pro:obj|me=me
+	v|i-1S&PRES=go adv|afuera=outside cm|cm aprep|a=to
+	det:art|el&FEM&SG=the n|terraza&f=terrace .
+*CHI:	xxx calle . 323918_325421
+%mor:	v|calla-13S&SUB&PRES=silence .
+*PAD:	no he entendido bien . 325421_331316
+%mor:	adv|no=no aux|habe-1S&PRES=have part|entende-PPART-MASC=understand
+	adv|bien=well .
+*PAD:	dónde es afuera , mi vida ? 331316_339965
+%mor:	pro:int|dónde=where cop|se-3S&PRES=be adv|afuera=outside cm|cm
+	det:pos|mi=my co:voc|vida=life ?
+*CHI:	la terraza . 339965_344125
+%mor:	det:art|el&FEM&SG=the n|terraza&f=terrace .
+*PAD:	en pijama ? 344125_345385
+%mor:	prep|en=in n|pijama&f=pyjamas ?
+*CHI:	0 [% señala que sí] . 345385_347265
+*PAD:	y qué le pareciera eso a Mamá ? 347265_349758
+%mor:	coord|y=and pro:int|qué=what pro:ind|le=him
+	v|parece-13S&SUB&PAS=seem pro:dem|eso=that_one aprep|a=to
+	n:prop|Mamá ?
+*CHI:	muy bien . 349758_351326
+%mor:	adv|muy=very adv|bien=well .
+*CHI:	aquí [% señala la terraza] hace f(r)ío pero hace frío un poquito . 351326_355878
+%mor:	adv|aquí=here v|hace-3S&PRES=do adj|frío-MASC=cold conj|pero=but
+	v|hace-3S&PRES=do adj|frío-MASC=cold det:art|un&m=one
+	pro:indef|poquito=little .
+@Tape Location:	Z-3;09-636
+@Situation:	María en el salón con papá.
+*PAD:	te habría gustado ir al cine hoy , por ejemplo ? 355878_369115
+%mor:	pro:obj|te=you aux|habe-13S&COND=have part|gusta-PPART-MASC=like
+	inf|i-INF=go aprep|a~det|el&MASC n|cine&m=cinema adv|hoy=today cm|cm
+	prep|por=for n|ejemplo&m=example ?
+*CHI:	no . 369115_371230
+%mor:	adv|no=no .
+*PAD:	por_qué ? 371230_375101
+%mor:	pro:int|por_qué=why ?
+*CHI:	no , no he ido . 375101_376323
+%mor:	adv|no=no cm|cm adv|no=no aux|habe-1S&PRES=have
+	part|i-PPART-MASC=go .
+%com:	señala un mueble que hay a su derecha
+*CHI:	aquí tengo fotos , del cine . 376323_384910
+%mor:	adv|aquí=here v|tene-1S&PRES=have n|foto&m-PL=photo cm|cm
+	prep|de~det|el&MASC n|cine&m=cinema .
+*CHI:	porque está cerra(d)o , está cerra(d)o , no se puede . 384910_392371
+%mor:	conj|porque=because cop|esta-3S&PRES=be part|cerra-PPART-MASC=close
+	cm|cm aux|esta-3S&PRES=be part|cerra-PPART-MASC=close cm|cm
+	adv|no=no pro:refl|se=itself v|pode-3S&PRES=can .
+*CHI:	la tabla está cerrada porque como tiene esto , pues está cerrado . 392371_396321
+%mor:	det:art|el&FEM&SG=the n|tabla&f=plank cop|esta-3S&PRES=be
+	part|cerra-PPART-FEM=close conj|porque=because adv|como=like
+	v|tene-3S&PRES=have pro:dem|esto=this_one cm|cm co|pues=well
+	aux|esta-3S&PRES=be part|cerra-PPART-MASC=close .
+*CHI:	esto nunca se puede quitar , está cerrada . 396321_399531
+%mor:	pro:dem|esto=this_one adv|nunca=never pro:refl|se=itself
+	v|pode-3S&PRES=can inf|quita-INF=remove cm|cm imp|esta-2S&IMP=be
+	part|cerra-PPART-FEM=close .
+*PAD:	el qué tiene ? 399531_400681
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what v|tene-3S&PRES=have ?
+*CHI:	esto [% señala] pa(ra) que no se vean las fotos porque los malos vienen , ven las fotos . 400681_406730
+%mor:	pro:dem|esto=this_one prep|para=for pro:rel|que=that adv|no=no
+	pro:refl|se=itself v|ve-3P&SUB&PRES=see det:art|el&FEM-PL=the
+	n|foto&m-PL=photo conj|porque=because det:art|el&MASC-PL=the
+	adj|malo-MASC-PL=bad v|veni-3P&PRES=come cm|cm co|ven=come
+	det:art|el&FEM-PL=the n|foto&m-PL=photo .
+*CHI:	mira , mira , ja ja ja ja , ja , ja , ja . 406730_410808
+%mor:	co|mira=look cm|cm co|mira=look cm|cm co|ja=ha co|ja=ha co|ja=ha
+	co|ja=ha cm|cm co|ja=ha cm|cm co|ja=ha cm|cm co|ja=ha .
+%com:	hace que ve las fotos o que se las come
+*CHI:	y se comen toda(s) la(s) fotos y si se las comen +... 410808_417173
+%mor:	coord|y=and pro:refl|se=itself v|come-3P&PRES=eat
+	det:indef|todo-FEM-PL=all det:art|el&FEM-PL=the n|foto&m-PL=photo
+	coord|y=and conj|si=if pro:refl|se=itself pro:obj|la&f-PL=she
+	v|come-3P&PRES=eat +...
+*CHI:	no me hagas una foto a la pupa que tengo aquí . 417173_420511
+%mor:	adv|no=no pro:obj|me=me v|hace-2S&SUB&PRES=do det:art|un-FEM=one
+	n|foto&m=photo aprep|a=to det:art|el&FEM&SG=the n|pupa&f=pimple
+	pro:rel|que=that v|tene-1S&PRES=have adv|aquí=here .
+*PAD:	tienes una pupa venga ? 420511_422236
+%mor:	v|tene-2S&PRES=have det:art|un-FEM=one co:voc|pupa=pimple
+	co|venga=come_on ?
+*CHI:	sí , pero no me la mires . 422236_424163
+%mor:	co|sí=yes cm|cm conj|pero=but adv|no=no pro:obj|me=me
+	pro:obj|la&f=she v|mira-2S&SUB&PRES=look .
+*PAD:	no te la miro , solamente la carita . 424163_425846
+%mor:	adv|no=no pro:obj|te=you pro:obj|la&f=she v|mira-1S&PRES=look cm|cm
+	adv|solamente=only det:art|el&FEM&SG=the n|cara-DIM-FEM=face .
+*CHI:	y me puedes mirar esta que no me duele . 425846_429661
+%mor:	coord|y=and pro:obj|me=me v|pode-2S&PRES=can inf|mira-INF=look
+	imp|esta-2S&IMP=be pro:rel|que=that adv|no=no pro:obj|me=me
+	v|dole-3S&PRES=hurt .
+*PAD:	cuál es ? 429661_430598
+%mor:	pro:int|cuál=which cop|se-3S&PRES=be ?
+*CHI:	esta . 430598_431661
+%mor:	imp|esta-2S&IMP=be .
+%com:	señala
+*PAD:	ah ! 431661_432240
+%mor:	co|ah !
+*PAD:	esa es una pupa que no te duele . 432240_433278
+%mor:	det:dem|ese-FEM=that cop|se-3S&PRES=be det:art|un-FEM=one
+	co:voc|pupa=pimple pro:rel|que=that adv|no=no pro:obj|te=you
+	v|dole-3S&PRES=hurt .
+*CHI:	no: . 433278_433970
+%mor:	adv|no=no .
+*PAD:	cómo te la hiciste ? 433970_435288
+%mor:	pro:int|cómo=how pro:obj|te=you pro:obj|la&f=she v|hace-2S&PRET=do
+	?
+*CHI:	pues mira . 435288_437230
+%mor:	co|pues=well co|mira=look .
+*CHI:	mira esto es un patio cubierto muy , un poco pequeño que tiene una terraza [% escenifica] . 437230_442205
+%mor:	v|mira-3S&PRES=look pro:dem|esto=this_one cop|se-3S&PRES=be
+	det:art|un&m=one n|patio&m=courtyard adj|cubierto-MASC=covered
+	adv|muy=very cm|cm det:art|un&m=one adv|poco=few
+	adj|pequeño-MASC=small pro:rel|que=that v|tene-3S&PRES=have
+	det:art|un-FEM=one n|terraza&f=terrace .
+*CHI:	entonces es el patio de mi coche [: cole] . 442205_447175
+%mor:	adv|entonces=then cop|se-3S&PRES=be det:art|el&MASC&SG=the
+	n|patio&m=courtyard prep|de=of det:pos|mi=my
+	v|cola-13S&SUB&PRES=drain/sneak .
+*PAD:	⌈de tu cole⌉ ? 447175_449220
+%mor:	prep|de=of det:pos|tu=your v|cola-13S&SUB&PRES=drain/sneak ?
+*CHI:	y voy ⌊corriendo detrás de la⌋ y voy detrás de la señorita ves y me caigo , y me hago esta pupa , lo ves ? 449220_455586
+%mor:	coord|y=and v|i-1S&PRES=go ger|corre-PROG=run adv|detrás=behind
+	prep|de=of det:art|el&FEM&SG=the coord|y=and v|i-1S&PRES=go
+	adv|detrás=behind prep|de=of det:art|el&FEM&SG=the
+	n|señora-DIM-FEM=lady v|ve-2S&PRES=see coord|y=and pro:obj|me=me
+	v|cae-1S&PRES=fall cm|cm coord|y=and pro:obj|me=me v|hace-1S&PRES=do
+	det:dem|este-FEM=this co:voc|pupa=pimple cm|cm pro:obj|lo&m=him
+	v|ve-2S&PRES=see ?
+*PAD:	sí ? 455586_456530
+%mor:	co|sí=yes ?
+*CHI:	y luego me hago esta . 456530_457481
+%mor:	coord|y=and adv|luego=afterwards pro:obj|me=me v|hace-1S&PRES=do
+	imp|esta-2S&IMP=be .
+*PAD:	y esa otra cómo fue ? 457481_459058
+%mor:	coord|y=and det:dem|ese-FEM=that det:indef|otro-FEM=other
+	pro:int|cómo=how v|i-3S&PRET=go ?
+*CHI:	pues también en el patio cubierto . 459058_463930
+%mor:	co|pues=well adv|también=also prep|en=in det:art|el&MASC&SG=the
+	n|patio&m=courtyard adj|cubierto-MASC=covered .
+*CHI:	no , en otro patio , en otro que no es el patio cubierto , que también es de mi cole . 463930_469405
+%mor:	adv|no=no cm|cm prep|en=in pro:indef|otro-MASC=other
+	n|patio&m=courtyard cm|cm prep|en=in det:indef|otro-MASC=other
+	pro:rel|que=that adv|no=no cop|se-3S&PRES=be det:art|el&MASC&SG=the
+	n|patio&m=courtyard adj|cubierto-MASC=covered cm|cm pro:rel|que=that
+	adv|también=also cop|se-3S&PRES=be prep|de=of det:pos|mi=my
+	n|cole&m=school .
+*PAD:	sí ? 469405_470356
+%mor:	co|sí=yes ?
+*CHI:	sí . 470356_471503
+%mor:	co|sí=yes .
+@Tape Location:	Z-3;09-637
+@Situation:	María en el salón con papá.
+*CHI:	mira qué salto [% salta] . 471503_475740
+%mor:	co|mira=look pro:int|qué=what v|salta-1S&PRES=jump .
+*CHI:	ay , que me caigo ! 475740_477003
+%mor:	co|ay=ay cm|cm pro:rel|que=that pro:obj|me=me v|cae-1S&PRES=fall !
+*CHI:	um (.) , espera que voy a_ver si se ha seca(d)o esa ropa , vale ? 477003_485403
+%mor:	co|um cm|cm v|espera-3S&PRES=wait pro:rel|que=that v|i-1S&PRES=go
+	co|a_ver=see conj|si=if pro:refl|se=itself aux|habe-3S&PRES=have
+	part|seca-PPART-MASC=dry det:dem|ese-FEM=that n|ropa&f=clothes cm|cm
+	co|vale=okay ?
+*PAD:	y vas a tardar mucho ? 485403_486461
+%mor:	coord|y=and v|i-2S&PRES=go aprep|a=to inf|tarda-INF=delay
+	adv|mucho=much ?
+*CHI:	no . 486461_487445
+%mor:	adv|no=no .
+*PAD:	cuánto . 487445_488308
+%mor:	pro:int|cuánto-MASC=how_much .
+*CHI:	así . 488308_489158
+%mor:	adv|así=thus .
+%com:	señala con dos dedos un espacio chiquito
+*PAD:	así , de mucho ? 489158_492206
+%mor:	adv|así=thus cm|cm prep|de=of adv|mucho=much ?
+*CHI:	no , así de poquito . 492206_494131
+%mor:	adv|no=no cm|cm adv|así=thus prep|de=of pro:indef|poquito=little .
+*PAD:	yo creo que eso es un rato muy grande . 494131_496030
+%mor:	pro:sub|yo=I v|cree-1S&PRES=believe pro:rel|que=that
+	pro:dem|eso=that_one cop|se-3S&PRES=be det:art|un&m=one
+	n|rato-MASC=rat adv|muy=very adj|grande=big .
+*CHI:	así: . 496030_497956
+%mor:	adv|así=thus .
+*PAD:	bueno , vale . 497956_499156
+%mor:	co|bueno=good cm|cm co|vale=okay .
+@Tape Location:	Z-3;09-638
+@Situation:	María en la terraza. Pasa al salón.
+*CHI:	Mamá ! 499156_503395
+%mor:	n:prop|Mamá !
+*CHI:	xxx . 503395_515761
+%com:	corte
+*PAD:	a mi me gustaría , hace mucho tiempo que no , cuidado que no te veo , allá , que hace mucho tiempo que no te veo hablar con Mamá . 515761_522113
+%mor:	aprep|a=to det:pos|mi=my pro:obj|me=me v|gusta-13S&COND=like cm|cm
+	v|hace-3S&PRES=do adv|mucho=much n|tiempo&m=season pro:rel|que=that
+	adv|no=no cm|cm co|cuidado=careful pro:rel|que=that adv|no=no
+	pro:obj|te=you v|ve-1S&PRES=see cm|cm adv|allá=there cm|cm
+	pro:rel|que=that v|hace-3S&PRES=do adv|mucho=much n|tiempo&m=season
+	pro:rel|que=that adv|no=no pro:obj|te=you v|ve-1S&PRES=see
+	inf|habla-INF=speak prep|con=with n:prop|Mamá .
+*PAD:	dónde vas ? 522113_528826
+%mor:	pro:int|dónde=where v|i-2S&PRES=go ?
+*CHI:	a coger a mi muñeco Busiluz [% lo coge] . 528826_532841
+%mor:	aprep|a=to inf|coge-INF=take aprep|a=to det:pos|mi=my
+	n|muñeco-MASC=doll n:prop|Busiluz .
+*PAD:	bueno , cuéntale unas cosas . 532841_536283
+%mor:	co|bueno=good cm|cm imp|conta-2S&IMP~pro:clit|3S
+	det:art|un-FEM-PL=one n|cosa&f-PL=thing .
+*CHI:	pero si no habla . 536283_540205
+%mor:	conj|pero=but conj|si=if adv|no=no v|habla-3S&PRES=speak .
+*PAD:	cuéntaselas tú . 540205_541226
+%mor:	imp|conta-2S&IMP~pro:clit|3S&REFL~pro:clit|OBJ&FEM&PL
+	pro:sub|tú=you .
+*CHI:	ay ! 541226_544458
+%mor:	co|ay=ay !
+*CHI:	yo me llamo Busiluz y soy muy guapito y tengo ot(r)a carita . 544458_548888
+%mor:	pro:sub|yo=I pro:obj|me=me v|llama-1S&PRES=call n:prop|Busiluz
+	coord|y=and cop|se-1S&PRES=be adv|muy=very
+	adj|guapo-DIM-MASC=handsome coord|y=and v|tene-1S&PRES=have
+	det:indef|otro-FEM=other n|cara-DIM-FEM=face .
+%com:	con voz de muñeco , muestra la cara con ojos cerrados a Papá
+*PAD:	uy , qué feo es ! 548888_550575
+%mor:	co|uy cm|cm pro:int|qué=what adj|feo-MASC=ugly cop|se-3S&PRES=be !
+*CHI:	no , tonto . 550575_553015
+%mor:	adv|no=no cm|cm adj|tonto-MASC=stupid .
+*CHI:	mira [% da la luz] . 553015_556255
+%mor:	co|mira=look .
+*PAD:	ah , es verdad , que me he equivocado ! 556255_559310
+%mor:	co|ah cm|cm cop|se-3S&PRES=be co|verdad=right cm|cm
+	pro:rel|que=that pro:obj|me=me aux|habe-1S&PRES=have
+	part|equivoca-PPART-MASC=be_mistaken !
+*PAD:	a_ver . 559310_560355
+%mor:	co|a_ver=see .
+@Comment:	DV Tape is end maria16-06.mov
+*CHI:	y por aquí también se enciende . 560355_567120
+%mor:	coord|y=and prep|por=for adv|aquí=here adv|también=also
+	pro:refl|se=itself v|encende-3S&PRES=light .
+@End

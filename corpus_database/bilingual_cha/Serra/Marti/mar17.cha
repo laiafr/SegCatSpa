@@ -1,0 +1,1157 @@
+@UTF8
+@PID:	11312/c-00001963-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Marti Target_Child , BLA blanca Nurse , TIN cristina Adult , LEN elena Child , INV Investigator
+@ID:	spa , cat|Serra|CHI|1;5.20||||Target_Child|||
+@ID:	spa , cat|Serra|BLA|||||Nurse|||
+@ID:	spa , cat|Serra|TIN|||||Adult|||
+@ID:	spa , cat|Serra|LEN|||||Child|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	m esta assegut a la gespa en mig les cames de l , estan mirant un conte , s' escolten molts sorolls de nens jugant , comencen parlant castella , durant tota la transcripcio barregen paraules castellanes i catalanes
+*BLA:	mira .
+*BLA:	mira .
+*BLA:	mira .
+*BLA:	mira .
+*BLA:	mira .
+*BLA:	mira , mira , mira .
+*BLA:	mira .
+*BLA:	oh !
+*TIN:	hoy hace un dia medio medio .
+*BLA:	no quiere [= mirant vers on estan t i e] .
+*INV:	no esta muy bien .
+*INV:	se esta mejor ahora que por la manyana .
+*INV:	pero hace calor .
+*TIN:	si .
+*TIN:	se ha empezado a poner bien .
+*BLA:	mira la moto [= assenyalant el llibre] .
+*TIN:	la moto .
+*TIN:	las ruedas .
+*BLA:	mira .
+@Comment:	comencen a parlar en catala
+*BLA:	i aixo .
+*BLA:	aixo .
+*BLA:	que es aixo ?
+*BLA:	mira .
+*CHI:	la otra [% diu "aota" en castella , vol aixecar'se] .
+*BLA:	mira , mira , mira , mira .
+*BLA:	no .
+*BLA:	mira , mira , mira , mira .
+*BLA:	aqui ve papa .
+*BLA:	mira .
+*BLA:	aqui va el papa .
+*BLA:	aqui .
+*BLA:	el cotxe .
+*BLA:	ves .
+*BLA:	veus .
+*BLA:	mira el papa .
+*BLA:	aqui va el papa .
+*BLA:	i aqui tambe .
+*BLA:	mira , mira , mira [= ho diu seguit] .
+@Situation:	canvi de situacio , ara estan dins la casa m , l i t mirant contes
+*TIN:	aquest t' agrada mes fill .
+*TIN:	vine aqui .
+*CHI:	no .
+*CHI:	a vull aquest [% diu "aavuiaque"] .
+*TIN:	mira .
+*TIN:	mirem aquests contes .
+*TIN:	posat aqui .
+*TIN:	al costat del marti .
+*TIN:	mira .
+*TIN:	us explicare aquest .
+*TIN:	mira aquest es +/.
+*CHI:	oh !
+*TIN:	aquest es un +...
+*TIN:	oh !
+*TIN:	oh !
+*TIN:	oh !
+*TIN:	no que us explico .
+*TIN:	aquest es un nen .
+*TIN:	es un nen que esta banyant'se tambe .
+*TIN:	i porta una galleda .
+*TIN:	i aqui porta una pala .
+*TIN:	i aquesta es una nena .
+*TIN:	veieu .
+*TIN:	mira elena .
+*TIN:	mira .
+*TIN:	es una nena .
+*CHI:	ai !
+*TIN:	oh !
+*TIN:	oh , que maco !
+*TIN:	aqui la nena esta dormint .
+*TIN:	esta fent nonnon@c .
+*TIN:	aixi xxx [% la xxx es l' onomatopeia de roncar] .
+*TIN:	nonnon@c .
+*TIN:	tu tambe fas nonnon@c .
+*TIN:	si .
+*TIN:	tu tambien elena .
+*TIN:	espera .
+*TIN:	espera .
+*TIN:	no tan de pressa .
+*TIN:	no tan de pressa .
+*TIN:	aqui esta despert .
+*LEN:	0 .
+%act:	li vol treure el conte
+*TIN:	bueno .
+*TIN:	te .
+*TIN:	emporta't'ho .
+*TIN:	mira .
+*TIN:	i ara explicarem aquest .
+*TIN:	mira .
+*TIN:	mira .
+*TIN:	xxx xxx
+	[% les xxx volen dir "tsi" per cridar l'atencio dels dos nens] .
+*TIN:	mira .
+*TIN:	i +/.
+*LEN:	pcf [% s' enten "crac"] .
+*TIN:	pcf [% s' enten "crac"] .
+*TIN:	aquest .
+*TIN:	oh !
+*CHI:	oh !
+*TIN:	oh !
+*TIN:	que maco .
+*TIN:	aqui la nena riu .
+*TIN:	pcf [% diu "ja ja ja ja"] .
+*TIN:	aqui la nena plora .
+*TIN:	fa aixi oi oi oi oi oi !
+*TIN:	aquest es el nen que riu .
+*TIN:	aqui una nena plora .
+*TIN:	i aqui +...
+*TIN:	ala son amics i s' agafen la maneta !
+*TIN:	0 .
+%act:	intenta que s' agafin la ma m i l
+*TIN:	aixi .
+*TIN:	veus com tu i tu .
+*TIN:	agafeu'se la maneta .
+*TIN:	no .
+*TIN:	no voleu .
+*TIN:	bueno .
+*CHI:	conte [% diu "cota"] .
+*CHI:	pcf [% s' enten "bababa"] .
+*TIN:	aqui .
+*TIN:	un altre .
+*TIN:	aquest .
+@Comment:	l i t criden i es barallen per un conte
+*TIN:	no comenceu a barallar'se pel mateix conte .
+*TIN:	oh !
+*TIN:	mira .
+*TIN:	la platja .
+*TIN:	en teo .
+*CHI:	oh !
+*TIN:	oh !
+*TIN:	que maco que es !
+*CHI:	oh !
+*TIN:	oh !
+*TIN:	mira .
+*TIN:	aqui en teo sembla que s' en va de vacances .
+*TIN:	espera .
+*TIN:	espera .
+*TIN:	espera .
+*TIN:	vols que passem ?
+*CHI:	oh !
+*TIN:	oh !
+*TIN:	que maco !
+*CHI:	xxx .
+*TIN:	oi , la platja !
+*TIN:	mira .
+*TIN:	mira .
+*TIN:	no passem encara .
+*TIN:	no .
+*LEN:	0 .
+%act:	vol passar els fulls molt rapid
+*TIN:	bueno .
+*TIN:	passem .
+*CHI:	xxx [% diu "oj" , onomatopeia] !
+*TIN:	oh !
+*TIN:	que maco .
+*TIN:	com t' agrada a tu , oi ?
+*TIN:	marti .
+*TIN:	mira .
+*TIN:	espera .
+*TIN:	que tornarem a comencar .
+*TIN:	tornarem a comencar .
+*CHI:	pcf [% s' enten "uuu"] .
+*CHI:	xxx [% diu "oj"] !
+*TIN:	aqui es la platja .
+*LEN:	0 .
+%act:	vol passar full
+*TIN:	espera't .
+*TIN:	espera't .
+*TIN:	mira .
+*TIN:	aigua [% diu "acua" , parla com els nens] .
+*TIN:	aigua [% diu "acua"] .
+*TIN:	aixo es aigua [% diu "agua" en comptes de aigua] .
+*TIN:	aixo es la sorra .
+*TIN:	i aqui hi ha un nen .
+*TIN:	dos nens .
+*TIN:	oh !
+*TIN:	quants nens .
+*TIN:	tot son nens .
+*CHI:	aigua [% diu "acua"] .
+*TIN:	aigua [% diu "acua"] .
+*TIN:	aigua [% diu "acua"] .
+*TIN:	aqui .
+*TIN:	veus .
+*TIN:	aigua [% diu "acua"] .
+*TIN:	aigua [% diu "acua"] .
+*TIN:	vine aqui .
+%add:	LEN
+*TIN:	vine .
+*TIN:	mira .
+*TIN:	oh !
+*TIN:	aqui .
+*TIN:	se'n van .
+*TIN:	aqui hi ha una raqueta de tenis .
+*TIN:	aqui hi ha un nene .
+*TIN:	un nene .
+*TIN:	que vols tu .
+*TIN:	mira .
+*TIN:	aquest vols que +...
+*CHI:	pcf [% s' enten "cai cai cai"] .
+*TIN:	si .
+*TIN:	llibres i de tot hi ha per aqui .
+*CHI:	xxx .
+*TIN:	toma .
+*TIN:	aquest per tu .
+%act:	dona un conte a l
+*CHI:	xxx .
+*TIN:	si .
+*TIN:	tot aixo son llibres .
+*TIN:	veus .
+*CHI:	xxx .
+*TIN:	si .
+*TIN:	si .
+*TIN:	a l' elena li agrada mes aquest .
+*CHI:	xxx .
+*TIN:	si .
+*TIN:	passem la pagina .
+*CHI:	oh !
+*TIN:	es el no va mas .
+*TIN:	aquest conte .
+*CHI:	aigua [% diu "acua"] .
+*TIN:	aigua [% diu "acua" tambe] .
+*TIN:	a veure [% "a viam"] .
+*TIN:	porta una pagina que hi hagi aigua
+	[% diu "acua" en comptes de aigua] .
+*CHI:	aigua [% diu "acua"] .
+*TIN:	aigua [% diu "acua"] .
+*TIN:	tot aixo es aigua [% diu "acua" en comptes de aigua] .
+*CHI:	0 .
+%act:	tanca el llibre
+*CHI:	ja esta [% "iata"] .
+*TIN:	ja esta .
+*TIN:	ja esta [% "iata" , imitant m] .
+*TIN:	ja esta [% "iata" , imitant m] .
+*TIN:	mirem aquest de l' elena .
+*TIN:	el mirem tots .
+*TIN:	mira .
+*TIN:	un cotxe .
+*TIN:	oh !
+*TIN:	&+a moto .
+*TIN:	una moto .
+*TIN:	es de color groc .
+*TIN:	i te dues rodes .
+*TIN:	oh !
+*TIN:	que maco aquest .
+*TIN:	es un cotxe .
+*CHI:	ja esta [% "iata"] .
+%act:	tanca el llibre
+*TIN:	ja esta [% "iata" , imitant m] .
+*TIN:	ja esta [% "iata" , imitant m] .
+*TIN:	ja esta [% "iata" , imitant m] .
+*TIN:	aquest ja esta [% "aquest iata"] .
+*TIN:	aquest ja esta [% "aquest iata"] .
+*CHI:	pcf
+	[% s' enten "aog" , sembla que vulgui nomes fer soroll , no emetre cap paraula]
+	.
+*TIN:	aquest ja esta [% "aquest iata"] .
+*TIN:	mira .
+*TIN:	aigua [% "acua"] .
+*TIN:	aigua [% "acua"] .
+*TIN:	ho veus .
+*TIN:	tot es aigua [% diu "acua" en comptes de aigua] .
+*TIN:	i aqui tambe .
+*TIN:	aigua [% "acua"] .
+*TIN:	aigua [% "acua"] .
+*TIN:	pilota .
+*TIN:	mira .
+*TIN:	pilota .
+*TIN:	com la nostra .
+*TIN:	pelota , ho diu en castella ell .
+%add:	INV
+*TIN:	pelota .
+*TIN:	oh !
+*TIN:	a veure aquest [% "a viam aquest"] .
+*TIN:	un cotxe .
+*TIN:	mira .
+*TIN:	ara mirarem .
+*TIN:	fem una cosa .
+*TIN:	un cada un .
+*CHI:	ai !
+*TIN:	el marti aquest .
+*CHI:	pcf [% s' enten "papapa"] .
+*TIN:	aquest per l' elena .
+*CHI:	aquest [% "aque"] .
+*TIN:	si .
+*TIN:	nena .
+*TIN:	nene .
+*CHI:	pcf [% s' enten "apa"] .
+@Comment:	m i l obren i tanquen els contes sense mirarlos
+*CHI:	oh !
+*TIN:	li agraden molt aquests contes .
+%add:	INV
+*CHI:	ai !
+*TIN:	tren .
+*TIN:	tren .
+*TIN:	a vegades li diem adios al tren .
+*TIN:	te'n recordes ?
+*TIN:	fem aixi .
+*TIN:	adios [% "dios"] .
+*TIN:	adios [% "dios"] .
+*TIN:	tren .
+*TIN:	com els que passem per aqui .
+*TIN:	0 .
+%act:	fa amb la ma com si digues'hi adeu
+*TIN:	tren .
+*TIN:	que si .
+*TIN:	un tren .
+*TIN:	un camio .
+*TIN:	oh !
+*TIN:	oh !
+*TIN:	que maco .
+*CHI:	brrr@c [= imita el soroll de camio] .
+*TIN:	fa brrr@c .
+*TIN:	el camio .
+*TIN:	si .
+*TIN:	fa brrr@c .
+*TIN:	que de vegades quan juguem amb el camio fem brrr@c .
+*CHI:	ai !
+*TIN:	oh !
+*TIN:	un avio .
+*TIN:	aigua [% "acua"] .
+*TIN:	aigua [% "acua"] .
+*TIN:	aqui .
+*TIN:	hi ha un vaixell .
+*TIN:	aigua [% "acua"] .
+*TIN:	a veure [% "a viam"] .
+*TIN:	t' agrada mes allo d' abans ?
+%add:	LEN
+*CHI:	pcf [% s' enten "a"] !
+*CHI:	pcf [% s' enten "aojo" , soroll] .
+*TIN:	molt maco .
+*TIN:	passa a l' altra pagina .
+*TIN:	passem a l' altra pagina .
+*TIN:	ja .
+*TIN:	ja esta [% "jata" , imitant a m] .
+*TIN:	ja esta [% "jata" , imitant a m] .
+*CHI:	ai !
+*TIN:	ja esta [% "jata"] .
+*TIN:	aquest .
+*CHI:	aigua [% "acua"] .
+*TIN:	el del aigua [% diu "acua" en comptes de aigua] .
+*TIN:	el del aigua es el que t' agrada mes a tu
+	[% diu "acua" en comptes de aigua] .
+*TIN:	canviem aquest .
+*TIN:	donem aquest .
+*CHI:	aquest [% "ete"] .
+*TIN:	donem aquest .
+*TIN:	donem aquell .
+*TIN:	marti .
+*TIN:	no me'l dones .
+*TIN:	bueno .
+*CHI:	pcf [% s' enten "tai ta"] .
+*TIN:	aigua [% "acua"] .
+*LEN:	pcf [% s' enten "bua bua"] .
+*TIN:	un tractor .
+*TIN:	el cotxe .
+*LEN:	xxx .
+*TIN:	si .
+*TIN:	si .
+*TIN:	si .
+*TIN:	si .
+*TIN:	es +...
+*TIN:	aixo es un cotxe .
+*TIN:	pero veus , se'l emporta la grua perque esta mal aparcat .
+*TIN:	se'l emporta la grua .
+*TIN:	si .
+*TIN:	se'l emporta .
+*TIN:	ja passa a vegades aixo ja .
+*LEN:	xxx .
+*TIN:	aixo es una avio .
+*TIN:	un avio .
+*TIN:	mira .
+*TIN:	aquest nen plora .
+*TIN:	fa aixi .
+*TIN:	marti .
+*TIN:	aquesta nena riu .
+*TIN:	fa xxx xxx xxx xxx [% les xxx son "ja ja ja ja ja"] .
+*TIN:	i aquest veus , aquesta es la que riu .
+*TIN:	fa xxx xxx xxx xxx [% les xxx son "ja ja ja ja"] .
+*TIN:	i aquesta , en canvi , plora .
+*TIN:	fa oi oi oi !
+*TIN:	oi oi oi oi !
+*TIN:	que li fas petonets a la nena .
+*TIN:	fes'li un petonet .
+*CHI:	0 .
+%act:	li fa un peto al dibuix
+*CHI:	ja esta [% "jata"] .
+*TIN:	ja esta [% "jata" , imitant m] .
+*TIN:	ja esta [% "jata" , imitant m] .
+*TIN:	te .
+*TIN:	mira aquest .
+*TIN:	aquest de l' aigua [% diu "acua" en comptes de aigua] .
+*TIN:	t' agrada molt .
+*LEN:	xxx .
+*CHI:	aigua [% "acua"] .
+*TIN:	aigua .
+*TIN:	i pelota .
+*TIN:	pelota .
+*TIN:	la veus la pelota .
+*TIN:	nosaltres en tenim una tambe que tu jugues .
+*LEN:	xxx .
+*TIN:	si .
+*TIN:	es la pelota del marti .
+*TIN:	es aquesta .
+*LEN:	aquesta 0del marti [% "estamati"] .
+*TIN:	mira .
+*TIN:	mira .
+*TIN:	y esta es arantxa .
+*TIN:	arantxa [% "ancha"] .
+*TIN:	arantxa [% "arancha"] .
+*TIN:	mira .
+*TIN:	mira .
+*TIN:	mira .
+*TIN:	arantxa .
+*TIN:	i la pelota de [/] de elena .
+*TIN:	esta es la pelota de elena .
+*TIN:	esta es la pelota de marti .
+*TIN:	y esto es agua [% diu "acua" en comptes de agua] .
+*TIN:	mucha agua [% diu "acua" en comptes de agua] .
+*LEN:	eso .
+*TIN:	pelota de marti .
+*LEN:	de marti [% "dedati"] .
+*TIN:	de marti .
+*LEN:	xxx .
+*TIN:	si .
+*LEN:	pcf [% s' enten "cucuata"] .
+*CHI:	pcf
+	[% s' enten "ajo" , fa com un soroll amb la veu que no vol dir res]
+	.
+*TIN:	oi , la nena !
+*TIN:	aquesta riu .
+*TIN:	i aquesta nena plora .
+*LEN:	xxx .
+*TIN:	no .
+*TIN:	no .
+*TIN:	elena .
+*TIN:	no .
+*LEN:	ai , ai !
+*LEN:	cau [% "cai" , ha caigut un llibre a terra] .
+*TIN:	se ha caido .
+*TIN:	cogelo .
+%add:	LEN
+*LEN:	cogelo [% "oelo"] .
+*TIN:	cogelo .
+*TIN:	fa una gracia .
+%add:	INV
+*TIN:	cogelo .
+%add:	LEN
+*TIN:	cogelo .
+%add:	LEN
+*TIN:	ah !
+*TIN:	s' anat aqui .
+*LEN:	xxx .
+*TIN:	cogelo .
+%add:	LEN
+*TIN:	cogelo .
+%add:	LEN
+*TIN:	lo ha cogido marti .
+*TIN:	bueno .
+*LEN:	xxx .
+*TIN:	donde esta la pelota de marti ?
+*LEN:	xxx .
+*TIN:	si .
+*LEN:	xxx .
+*TIN:	si .
+*TIN:	y arancha ?
+*LEN:	xxx .
+*TIN:	si .
+@Comment:	en tot aixo en m segueix mirant el seu conte sense parar atencio a t i l
+*LEN:	xxx .
+*TIN:	si .
+*TIN:	li agrada mes el petit .
+*TIN:	em sembla .
+%add:	INV
+*LEN:	no .
+*TIN:	vine que ara explicarem aquest a tots dos .
+*TIN:	marti .
+*TIN:	deixa aquest .
+*TIN:	aquest ja esta [% "aquest iata"] .
+*CHI:	0 [=! crida perque no vol deixar el seu conte] .
+*TIN:	ja esta [% "iata"] .
+*TIN:	mirem aquest .
+*TIN:	mira .
+*CHI:	0 .
+%act:	agafa el seu llibre i se'n va a una altra part de l' habitacio
+*TIN:	on el portes ?
+*CHI:	oh !
+*TIN:	ensenya'm' ho .
+*TIN:	ensenya'm' ho aixo tant maco .
+*TIN:	vine .
+*TIN:	ensenya'm' ho .
+*TIN:	ensenya'm' ho .
+*TIN:	a veure [% "a viam"] .
+*TIN:	a veure [% "a viam"] .
+*TIN:	oh !
+*TIN:	oh !
+*TIN:	que maco !
+*CHI:	0 .
+%act:	s' acosta on esta t
+*CHI:	xxx [= no se l' enten perque esta lluny i el tapa l] .
+*TIN:	que maco !
+*TIN:	a veure , a veure [% "a viam , a viam"] .
+*CHI:	ja esta [% "iata"] .
+*TIN:	ja esta [% "iata" , imitant m] .
+*TIN:	ja esta [% "iata" , imitant m] .
+*CHI:	ja esta [% "iata"] .
+*TIN:	ja esta [% "iata" , imitant m] .
+*TIN:	ja esta [% "iata" , imitant m] .
+*LEN:	esta [% "ta"] .
+*TIN:	esta [% "ta"] .
+*TIN:	aquest tambe esta .
+*TIN:	ara aquest .
+%act:	agafa un altre llibre
+@Comment:	els dos nens miren t
+*TIN:	oh !
+*TIN:	veniu aqui .
+*TIN:	veniu .
+*TIN:	oh [= fa com si mires el llibre] !
+*TIN:	que maco .
+@Comment:	l i m s' acosten vers on esta t
+*TIN:	oh !
+*TIN:	mira .
+*TIN:	una nena petita (.) i un osito .
+*TIN:	oh !
+*TIN:	i el papa (.) aquest ja esta .
+%add:	LEN
+*CHI:	0 .
+%com:	mira a l i t amb poc interes , segueix mirant el seu conte
+*TIN:	ja esta [% "iata"] .
+*TIN:	aquest ja esta .
+*TIN:	ara aquest , eh ?
+*TIN:	mireu aquest .
+*TIN:	mireu .
+*TIN:	ara tu aquest .
+%add:	MAR
+*TIN:	bueno .
+*CHI:	0 .
+%act:	deixa caure el llibre que tenia a les mans
+*TIN:	aquest ja esta [% "aquest iata" , imitant la parla de m] .
+*LEN:	0 .
+%act:	se'n va vers m
+*TIN:	vine que te l' explico .
+*CHI:	ai !
+*CHI:	no .
+*TIN:	no .
+*CHI:	oh !
+*TIN:	que maco !
+*TIN:	no .
+%add:	LEN
+*TIN:	dame .
+*TIN:	dame .
+*TIN:	dame .
+*TIN:	dame .
+*TIN:	pcf [% s' enten "chocochoco" , li fa pessigolles a l sota el brac]
+	.
+*TIN:	aqui .
+*TIN:	aqui .
+*TIN:	aqui .
+@Comment:	els dos nens es posen d' esquena a t , sobre un banc mirant sols cada un llibre
+*TIN:	que estiguin d' esquena va malament o es igual que facin el que
+	vulguin .
+%add:	INV
+*LEN:	0 .
+%act:	s' acosta a on esta t
+*TIN:	oh !
+*TIN:	que rie xxx [% la xxx vol dir "rieba" , castella] .
+*TIN:	pcf [% "jo jo jo jo"] .
+*TIN:	hazlo tu .
+%add:	LEN
+*TIN:	hazlo tu .
+%add:	LEN
+*TIN:	pcf [% "jo jo jo jo"] .
+*CHI:	0 .
+%act:	s' acosta a on estan t i l
+*TIN:	fes'lo tu .
+*TIN:	pcf [% "jo jo jo jo"] .
+*TIN:	0 .
+%act:	li vol posar be un tirant del pantalo
+*TIN:	espera't , home , espera't .
+*TIN:	no siguis tan impacient .
+*CHI:	no .
+*CHI:	ai , ai !
+*CHI:	no .
+*CHI:	0 [=! comenca a plorar] .
+*TIN:	bueno .
+*TIN:	va , doncs ves a jugar .
+*TIN:	ves .
+*CHI:	pcf [% "jo jo"] .
+*TIN:	ara ho fa ell .
+*TIN:	pcf [% "jo jo"] .
+*CHI:	ai !
+*TIN:	a ver la ninya que fa xxx xxx .
+*TIN:	on es ?
+*TIN:	on es la nena que fa xxx xxx [% les xxx son "jo"] .
+*TIN:	perque riu i quan riu fa xxx xxx [% les xxx son "jo jo"] .
+*TIN:	s' ha tornat a escacharrar aixo
+	[% 'escacharrar' es paraula castellana , li arregla el tirant a m] .
+*TIN:	on esta la nena que fa +...
+*TIN:	espera't +...
+*CHI:	ai !
+*TIN:	on esta ?
+*TIN:	va , no t' enfadis .
+*TIN:	no t' enfadis .
+*CHI:	0 [=! comenca a plorar] .
+*TIN:	no t' enfadis .
+*TIN:	no t' enfadis .
+*TIN:	home .
+*TIN:	no t' enfadis .
+*TIN:	ves , ja esta .
+*TIN:	ves a jugar .
+*TIN:	ves .
+*TIN:	a ver , elena , a ver .
+*TIN:	a ver , a ver .
+*TIN:	ensenyamelo .
+*LEN:	0 .
+%act:	li porta un conte
+*TIN:	mira .
+*TIN:	ahora tu tens que fer .
+*TIN:	mira .
+*TIN:	aquest nens s' agafen de la maneta .
+*TIN:	se cogen asi .
+@Comment:	a partir d' aqui parlen la meitat castella i l'altra meitat catala
+*TIN:	hacen hola , hola , hola .
+*TIN:	y estos hacen adios .
+*TIN:	di tu adios [% "di tu aios" , fa el gest amb la ma de dir adeu] .
+*TIN:	dilo .
+*TIN:	que tu lo sabes hacer .
+*TIN:	adios .
+*TIN:	adios .
+*TIN:	asi , adios .
+*TIN:	si tu lo sabes hacer .
+*TIN:	asi com la manita y hacer adios .
+*CHI:	0 .
+%com:	mira un conte d' esquena a l i t
+*LEN:	este i el otro [% "ete i oto"] .
+*LEN:	adios [% "aios"] .
+*TIN:	adios .
+*TIN:	asi , claro .
+*TIN:	y estos , ves , estos a ver que hacen .
+*TIN:	oi !
+*TIN:	pequenyito .
+*TIN:	pequenyito .
+*TIN:	pequenyito .
+*LEN:	no .
+*TIN:	bueno .
+*TIN:	bueno .
+*CHI:	tengo .
+*TIN:	et cau aixo .
+*LEN:	oi !
+*LEN:	xxx .
+*TIN:	una silla .
+*TIN:	xxx .
+*TIN:	on es l' aigua [% diu "agua" en comptes de aigua] .
+*TIN:	marti .
+*TIN:	on es l' aigua [% diu "agua" en comptes de aigua] .
+*TIN:	on es l' aigua [% diu "agua" en comptes de aigua] .
+*LEN:	xxx .
+*TIN:	no .
+*TIN:	mira este .
+*TIN:	tu .
+*TIN:	este no lo has mirado , eh !
+*TIN:	este es muy bonito .
+*LEN:	si .
+*TIN:	mira este .
+*CHI:	agua .
+*CHI:	agua .
+*CHI:	agua .
+*LEN:	ai !
+*CHI:	agua .
+*CHI:	agua .
+*TIN:	agua .
+*TIN:	oi !
+*TIN:	marti .
+*TIN:	aigua .
+*TIN:	i pelota .
+*CHI:	pcf [% s' enten "apa apa"] .
+*CHI:	oh !
+*CHI:	no .
+*LEN:	0 .
+%act:	li treu el conte a m
+*CHI:	no , no , no , no .
+*CHI:	0 .
+%act:	agafa un altre conte i el mossega
+*LEN:	xxx .
+*LEN:	0 .
+%act:	li vol treure el conte que mossega m
+*CHI:	no .
+*LEN:	xxx .
+*CHI:	ai !
+*TIN:	mira .
+*TIN:	laska [= es el nom d' un gos] .
+*TIN:	laska .
+*TIN:	guau@c guau@c .
+*TIN:	es un gosset .
+*TIN:	fa guau@c guau@c .
+*TIN:	com la laska .
+*LEN:	xxx .
+*TIN:	i un tete@f [= el tete es el xumet] .
+*TIN:	tete@f .
+*TIN:	a viam [: veure] si trobem mes tetes@f .
+*TIN:	aqui trobarem molts tetes@f perque surten nens petits .
+*TIN:	a viam [: veure] si els veiem .
+*TIN:	mira , laska , laska .
+*TIN:	ho veieu .
+*TIN:	un gosset com la laska .
+*TIN:	ja veuras si trobem .
+*TIN:	laska .
+*TIN:	veieu .
+*TIN:	laska .
+*TIN:	a viam si troben tetes@f .
+*TIN:	perque segur que n' hi ha de tetes@f per aqui .
+*CHI:	0 .
+%act:	se'n va
+*CHI:	0 [=! comenca a plorar perque l li treu un conte] .
+*TIN:	mira .
+*TIN:	tete@f .
+*TIN:	que te l' han pres noi , doncs va , espavilat .
+*TIN:	que et cau aixo .
+%act:	intenta posar'li el tirant a m
+*CHI:	no [=! plora una mica] .
+*TIN:	bueno .
+*LEN:	xxx .
+*TIN:	si .
+@Comment:	l i m toquen una maquina d' escriure
+*TIN:	no , no .
+*TIN:	les copes no , eh !
+%add:	MAR
+*CHI:	ai !
+*LEN:	xxx .
+*TIN:	no , no , aixo no .
+%act:	s' aixeca i va vers on esta m
+*CHI:	no .
+*CHI:	0 [=! comenca a plorar] .
+*TIN:	vine .
+*TIN:	vine .
+*TIN:	mira aqui que tenim .
+*TIN:	0 .
+%act:	li posa el tirant del pantalo be a m
+*CHI:	0 [=! plora] .
+*TIN:	que hace el marti ?
+%add:	LEN
+*TIN:	dile , pobrecito marti , llora .
+*TIN:	que le pasa que llora .
+*LEN:	xxx .
+*TIN:	dile no pasa nada marti .
+*TIN:	mira , mira aqui .
+*CHI:	0 [=! plora] .
+*TIN:	mira .
+*TIN:	aqui tenim un tete@f .
+*TIN:	un tete@f .
+*CHI:	pcf [% s' enten "ma"] .
+*TIN:	un tete@f .
+*TIN:	un tete@f .
+*CHI:	0 [=! plora] .
+*TIN:	bueno , bueno .
+*TIN:	va mira .
+*TIN:	aquests son els dos nens .
+*CHI:	no .
+*TIN:	si .
+*TIN:	mira aquesta nena .
+*TIN:	i aquesta nena .
+*TIN:	mira aqui aquest altre .
+*LEN:	0 .
+%act:	li treu el llibre
+*TIN:	aquest no esta acostumat a que li prenguin les coses .
+%add:	INV
+*TIN:	mira , mira .
+*CHI:	no , no .
+*LEN:	0 .
+%act:	li vol treure el conte que agafen m i t
+*TIN:	va .
+*TIN:	hombre , no puedes +...
+*TIN:	no , no .
+*TIN:	tienes que dejarle algo .
+*CHI:	0 [=! plora mes] .
+*TIN:	bueno , bueno .
+*TIN:	mira este para nosotros .
+*TIN:	este para ti .
+%add:	LEN
+*TIN:	este para ti .
+*LEN:	mio .
+*TIN:	tuyo .
+*LEN:	0 .
+%act:	tira el conte
+*TIN:	para ti , cogelo .
+*LEN:	0 .
+%act:	vol agafar el conte d' en m
+*TIN:	no .
+*TIN:	aquel , cogelo .
+*LEN:	0 .
+%act:	l' agafa
+*TIN:	y mira coge aquel .
+*TIN:	trae aquel tambien .
+*TIN:	cogelo .
+*LEN:	0 .
+%act:	l' agafa
+*TIN:	aqui .
+*TIN:	muy bien .
+*TIN:	tots aqui , ahora este para ti .
+*TIN:	mira , i este lo explicaremos .
+*TIN:	mira , escucha , escucha .
+*LEN:	0 .
+%act:	li dona un altre conte
+*TIN:	este tambien .
+*TIN:	a ver , mira .
+*LEN:	0 .
+%act:	vol tancar el conte que miren t i m
+*CHI:	no .
+*LEN:	xxx .
+*TIN:	este tambien .
+%act:	agafa un conte que li dona l
+*LEN:	xxx .
+*TIN:	agua .
+*LEN:	ai !
+*TIN:	cogelo , cogelo .
+*LEN:	xxx .
+*TIN:	cogelo , cogelo .
+*LEN:	0 .
+%act:	es treu el vestit
+*TIN:	que haces ?
+*TIN:	tu , que te quedas en pelotas .
+*LEN:	no .
+*LEN:	xxx .
+*TIN:	que vas en vestido largo .
+*TIN:	muy elegante , eh !
+*TIN:	0 .
+%act:	li treu el vestit a l
+*CHI:	0 [= segueix mirant el conte] .
+*CHI:	ja esta [% "iata"] .
+*CHI:	ja esta [% "iata"] .
+%act:	agafa un altre conte
+*TIN:	ven , ven elena .
+*TIN:	no , el televisor no .
+*TIN:	ven aqui a jugar .
+*TIN:	que ?
+*TIN:	no , los zapatos no te los voy a quitar .
+*LEN:	0 .
+%act:	es comenca a deslligar ella mateixa les sabates
+*CHI:	oh !
+*CHI:	pcf [% s' enten "burr" , fa soroll] .
+*TIN:	oh !
+*TIN:	que maco !
+*TIN:	0 .
+%act:	li lliga les sabates a l
+*TIN:	toma , este para ti .
+%add:	LEN
+*LEN:	xxx .
+*TIN:	mira .
+*TIN:	aquesta es una nena que riu .
+*TIN:	te'n recordes que em explicat abans que riu .
+*TIN:	jo jo jo .
+*TIN:	feu'lo vosaltres .
+*CHI:	jo jo jo .
+*TIN:	aixi .
+*TIN:	jo jo jo jo .
+*TIN:	i aquesta es una nena que plora .
+*TIN:	oye elena no seas salvaje y destrozona .
+*LEN:	0 .
+%act:	agafa el conte que miren t i m i l' estira
+*CHI:	0 [=! comenca a plorar] .
+*TIN:	va , que lo estabamos explicando .
+*LEN:	no .
+*TIN:	si , va , vinga .
+*TIN:	hombre , eres un rollo .
+*LEN:	no .
+*TIN:	aquesta te quatre germans i esta acostumada a aixo .
+%add:	INV
+*TIN:	i aquest quan li fan algo o li prenen una cosa .
+%add:	INV
+*TIN:	va que ho teniem nosaltres .
+*LEN:	no .
+*TIN:	si .
+*TIN:	digo que si i es que si .
+*TIN:	elena salvaje .
+*TIN:	elena salvaje .
+*LEN:	0 [=! plora] .
+*TIN:	bueno .
+*TIN:	pues yo te quito este .
+*TIN:	ah !
+*TIN:	mira .
+*TIN:	todos para ti no .
+*LEN:	0 [=! crida] .
+*TIN:	0 [=! tambe crida] .
+*TIN:	te pongo este pero te cambio este .
+@Comment:	cau un conte
+*TIN:	cogelo .
+*TIN:	cogelo .
+%add:	LEN
+*TIN:	cogelo , cogelo , cogelo .
+*CHI:	0 .
+%act:	dona cops amb un llibre sobre la taula
+*TIN:	tenen moltes utilitats .
+*TIN:	per picar .
+*CHI:	0 .
+%act:	tira el conte
+*TIN:	agafa'l , agafa'l .
+*LEN:	0 .
+%act:	cau
+*TIN:	ui !
+*TIN:	elena que te has hecho danyo .
+*TIN:	ven , carinyo , ven .
+*TIN:	no ha sido nada , no ha sido nada .
+*CHI:	ai !
+*CHI:	ai !
+*LEN:	aqui .
+*LEN:	0 .
+%act:	li agafa el llibre a m
+*CHI:	0 [=! plora] .
+*TIN:	te'l prenen .
+*TIN:	pero tu tampoc has de ser tan figaflor .
+*TIN:	ves i pren'li tu , home .
+*TIN:	pren'li tu .
+*TIN:	tu has d' anar amb ella .
+*TIN:	jo t' ho explico .
+*TIN:	si l' elena t' el pren tu no has de plorar .
+*CHI:	0 [=! plora encara mes enfadat] .
+*TIN:	has d' anar alla i els hi has de prendre .
+*TIN:	els hi has de prendre .
+*TIN:	carinyo .
+*TIN:	ves alla , ves .
+*TIN:	mira aquest .
+*TIN:	aquest no els el pren .
+*TIN:	aquest no els el pren .
+*TIN:	va .
+*TIN:	i quan vingui ja els hi prendrem .
+*TIN:	vols aquest ?
+*CHI:	0 .
+%act:	assenyala el conte de l
+*TIN:	ves i pren'l' hi .
+*TIN:	pren'ls'hi .
+*TIN:	pren'ls'hi .
+*TIN:	ves alla , ves alla .
+*TIN:	agafa'ls'hi tu .
+*TIN:	t' has d' espavilar .
+*CHI:	0 .
+%act:	va a on esta l i es queda aturat mirant'la
+*LEN:	xxx .
+*TIN:	dale uno a marti .
+%add:	LEN
+*TIN:	daselo .
+*LEN:	no .
+*TIN:	si .
+*TIN:	tu tienes tres .
+*LEN:	xxx .
+*TIN:	dale uno , mujer .
+*LEN:	no .
+*TIN:	si .
+*TIN:	digo si .
+*CHI:	0 .
+%act:	passa de l i se'n va a tocar els calaixos
+*TIN:	no , no , no .
+*TIN:	tu els caixons no .
+*CHI:	0 [=! es queixa fent que plora] .
+*CHI:	no , no .
+*CHI:	0 [=! torna a plorar] .
+*TIN:	agafa'ls'hi .
+%add:	MAR
+*TIN:	agafa'ls'hi .
+*TIN:	agafa'ls'hi .
+*TIN:	ves i agafa'ls'hi quan no miri .
+*CHI:	si .
+*LEN:	no .
+*LEN:	ai !
+*TIN:	que +...
+*LEN:	xxx .
+*CHI:	no .
+*TIN:	no .
+*CHI:	0 .
+%act:	comenca a remenar dins els calaixos
+*LEN:	0 .
+%act:	deixa els contes i se'n va a mirar el calaix amb m i l' aparta
+*LEN:	xxx .
+*CHI:	0 [= mira a e] .
+*CHI:	0 .
+%act:	va cap a on es t
+*TIN:	ves a mirar els contes tu .
+*TIN:	ves a mirar els contes ara .
+*CHI:	0 .
+%act:	va cap on estan els contes pero s' atura per mirar la camera
+*LEN:	xxx .
+*TIN:	ves a mirar els contes .
+*CHI:	oh !
+*TIN:	ves a mirar els contes .
+*LEN:	xxx .
+*LEN:	0 .
+%act:	li dona una tarja a t que ha agafat de dins del calaix
+*TIN:	ponla alli .
+*TIN:	ponla alli , elena .
+*TIN:	pon esta alli .
+*LEN:	que +...
+*TIN:	esta aqui .
+*TIN:	guardala .
+*TIN:	mira [= li assenyala una carta o tarja que li tira a terra] .
+*TIN:	cogela , cogela , elena .
+*TIN:	cogela .
+*LEN:	ai !
+*LEN:	xxx .
+*TIN:	mira , marti , ves a jugar amb els contes tu .
+*LEN:	xxx .
+*TIN:	els contes .
+*TIN:	els contes .
+*CHI:	ai , ai !
+%act:	agafa un conte
+*TIN:	dame una carta .
+%add:	LEN
+*TIN:	dame una carta .
+*TIN:	damela .
+*LEN:	xxx .
+*LEN:	0 .
+%act:	va obrint calaixos i portes del moble
+*TIN:	no , no , no .
+*TIN:	no , no .
+*TIN:	cierra , cierra .
+*LEN:	0 .
+%act:	fa cas i tanca la porta pero se'n va a obrir un altre
+*LEN:	ai !
+*CHI:	0 .
+%act:	va cap on esta l amb el conte a la ma
+*TIN:	cuidado , cuidado .
+*LEN:	0 [=! crida] .
+*LEN:	pcf
+	[% s' enten "tate" , sembla que li vol dir a m que no toqui les portes perque a l' hora que ho diu el va empenyent]
+	.
+*LEN:	pcf [% s' enten "tate"] .
+*LEN:	pcf [% s' enten "tate"] .
+*LEN:	pcf [% s' enten "tate"] .
+*LEN:	xxx .
+*LEN:	pcf [% s' enten "tate"] .
+*LEN:	pcf [% s' enten "tate"] .
+*LEN:	pcf [% s' enten "tate"] .
+*CHI:	0 [=! comenca a plorar i a cridar] .
+%act:	va cap on esta t
+*LEN:	0 .
+%act:	segueix obrint i tancant portes
+*TIN:	vols que el veiem ?
+%act:	obre el conte que te m a les mans
+*TIN:	mira aquests son uns amics .
+*TIN:	0 .
+%act:	li va explicant el conte a m amb veu molt baixa
+*CHI:	0 .
+%act:	passa de t i segueix atent als moviments de l
+*CHI:	te .
+%act:	va cap a l i li dona el conte
+*LEN:	pcf [% s' enten "tate"] .
+%act:	empeny m
+*LEN:	pcf [% s' enten "tate"] .
+%act:	li dona un cop a m al cul
+*LEN:	xxx .
+*TIN:	tu te pasas el dia pegando .
+%add:	LEN
+*TIN:	eh , gordi@c ?
+*TIN:	eres una plasta .
+*TIN:	eres un rollo .
+*TIN:	si .
+*LEN:	xxx .
+*CHI:	0 .
+%act:	mira el conte que porta a les mans tot anant cap a la taula
+*CHI:	0 .
+%act:	agafa el cendrer de sobre la taula
+*CHI:	mira .
+*TIN:	dona'm'ho , dona'm'ho .
+*TIN:	0 .
+%act:	agafa el cendrer
+*CHI:	0 .
+%act:	agafa el vestit de l que esta a sobre del sofa
+*CHI:	aquest [% "ete" este] .
+%act:	ensenya el vestit a t
+*TIN:	de qui es ?
+*TIN:	es de l' elena .
+*TIN:	dona'li .
+*TIN:	es seu .
+*CHI:	0 .
+%act:	li porta el vestit a l
+*LEN:	0 .
+%act:	agafa el vestit que li dona m
+*LEN:	gracies [% "gacia"] .
+*TIN:	ponemos el vestido o no ?
+*LEN:	no .
+*LEN:	xxx .
+*CHI:	0 .
+%act:	tira el conte i comenca a obrir calaixos amb l
+*CHI:	oh !
+*CHI:	no .
+*LEN:	no .
+*LEN:	xxx .
+*LEN:	0 .
+%act:	fa fora a m
+*CHI:	0 .
+%act:	se'n va
+*TIN:	basta ya elena de abrir cajones .
+*LEN:	no .
+*LEN:	xxx .
+*CHI:	0 .
+%act:	li porta contes a l pero ella no li fa cas
+*TIN:	posem'los aqui [= a sobre la taula] .
+*CHI:	0 .
+%act:	mira els contes a sobre la taula
+*LEN:	xxx .
+*TIN:	saps quina llibreria hi ha oberta quan +...
+%add:	INV
+*TIN:	qualsevol +...
+@Comment:	l i m agafen els cendres
+*TIN:	aixo es guarda [= els hi pren] .
+*TIN:	pcf [% s' enten "ata"] .
+*LEN:	pcf [% s' enten "a"] .
+*LEN:	xxx .
+*LEN:	pcf [% s' enten "ola"] .
+*LEN:	pcf [% s' enten "ola" , vol agafar els cendrers] .
+*TIN:	no .
+*TIN:	esto he dicho que no .
+*LEN:	mio .
+*TIN:	quieres que te cuente el cuento ?
+%add:	LEN
+*LEN:	no .
+*TIN:	no .
+*LEN:	xxx .
+*CHI:	0 .
+%act:	agafa la maleta del video
+*CHI:	0 .
+%act:	se'n va cap a t i es posa sobre el seu peu
+*TIN:	que vols ?
+*TIN:	seure aqui .
+*TIN:	pcf [% s' enten "to to to to to"] .
+*CHI:	oh !
+*LEN:	xxx .
+*TIN:	agafa el conte .
+%add:	MAR
+*TIN:	mira , que l' estas fent malbe .
+*TIN:	agafa'l .
+*TIN:	marti .
+*TIN:	mira aquest conte .
+*TIN:	que al trepitja'l el faras malbe .
+*TIN:	marti .
+%act:	s' aixeca i l' agafa ella
+*LEN:	0 .
+%act:	juga amb el telefon
+*CHI:	0 .
+%act:	juga amb la maleta del video
+*INV:	que te'n vas de viatge ?
+*INV:	marti .
+*CHI:	apa !
+*LEN:	hola [= fa com si parles por telefon] .
+*LEN:	marti [% "mati"] .
+*CHI:	0 [=! plora perque no pot obrir la maleta] .
+*CHI:	0 .
+%act:	deixa la maleta
+@End

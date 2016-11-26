@@ -1,0 +1,151 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;9.25||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	04-SEP-1995
+@Location:	in the toy-room
+@Activities:	MIR is playing with her toy kitchen
+@Comment:	MOT is video-taping
+*MIR:	moment (.) moment (.) mama .
+*MOT:	què (.) un moment ?
+*MIR:	a Mimi sentar [= satà] (.) a Mimi sentar [= satà] .
+%act:	MIR sits on the floor
+*MOT:	la Mimi sentar ?
+*MIR:	aquí (.) aquí .
+*MOT:	aquí .
+*MIR:	a mama .
+*MIR:	a Mimi a mama aquí .
+*MIR:	a Mimi sentar [= tatà] mama .
+%exp:	la Mimi sentar amb la mama
+*MOT:	la Mimi tatà mama ?
+*MIR:	sí .
+%act:	sits next to MOT
+*MOT:	sí aquí (.) i la cuineta ?
+*MIR:	(a)quí a cuineta agafar tapes .
+%act:	goes to the toy kitchen
+*MOT:	a agafar tapes ?
+*MOT:	agafar tapes .
+*MIR:	ata (.) ata [= altre] vermell [= amei] .
+%act:	picks up a red lid and a green one
+*MOT:	amei (.) ata amei ?
+*MOT:	la vermella ?
+%exp:	the lid
+*MOT:	no sé on t'ès .
+*MOT:	on t'ès ?
+*MIR:	vermella [= bameia] ?
+*MIR:	a vermella [= bameia] té .
+%act:	gives the red and the green lids to MOT
+*MOT:	l'has trobat la vermella ?
+*MOT:	ah sí (.) la vermella i la verda .
+*MOT:	quina falta ara ?
+*MIR:	allà [= ?] .
+*MOT:	quina has perdut ?
+*MIR:	a tobogan petit [= pitit] .
+%act:	goes to the billard table and takes two toy toboggans and puts them on the floor
+*MOT:	el tobogan petit (.) un o dos (.) quants n'hi han ?
+*MIR:	dos .
+*MOT:	dos què ?
+*MIR:	dos .
+*MOT:	dos què eh ?
+*MIR:	xxx .
+%act:	takes a piece of a jigsaw and hands it to MOT
+*MIR:	té .
+*MOT:	ai què és això ?
+*MOT:	una peça del puzzle .
+*MOT:	oi que sí ?
+*MOT:	falta una tapa (.) oi (.) Mireia ?
+*MIR:	0 .
+%act:	goes to the toy kitchen
+*MIR:	una .
+*MOT:	on t'està l'altra tapa (.) quin color és l'altra tapa ?
+*MIR:	xxx potet potet .
+%act:	picks a pot from the floor
+*MOT:	potet ?
+*MIR:	xxx potet .
+*MOT:	tapes els potets ?
+*MIR:	xxx .
+*MOT:	un moment ?
+*MIR:	tapo a potet .
+*MOT:	tapo el potet .
+*MIR:	(a)quest aquí .
+%act:	puts something inside the pot
+*MOT:	aquest aquí .
+*MIR:	tapo (a)quest .
+%act:	picks another pot from the floor
+*MIR:	(a)quest (.) tapo (a)quest .
+%act:	tries to put the green lid on the pot
+*MOT:	tapes aquest (.) molt bé (.) tapo aquest .
+*MIR:	no tapo .
+%com:	it seems the green lid does not fit
+*MOT:	aquí no tapo .
+*MOT:	està al revés ?
+*MIR:	0 .
+%act:	puts the green lid on the pot
+*MIR:	(aga)fem .
+%act:	takes the red lid
+*MOT:	agafem .
+*MIR:	0 .
+%act:	tries to put the red lid on another pot
+*MIR:	aquí no puc .
+*MOT:	aquí no pots (.) no puc ?
+*MIR:	0 .
+%act:	puts the red lid on the pot
+*MOT:	ah sí (.) sí que has pogut Mireia (.) molt bé !
+*MIR:	(a)quest ?
+*MOT:	has tapat el potet .
+*MIR:	(a)quest ?
+%act:	takes another pot and shows it to MOT
+*MOT:	aquest (.) amb quina tapa va aquest (.) la groga ?
+*MOT:	no .
+*MOT:	on t'està la tapa d'aquest (.) quina falta ?
+*MOT:	tens la verda i la vermella .
+*MOT:	quina falta ?
+*MIR:	0 .
+%act:	finds the yellow lid
+*MOT:	quina és (.) què has trobat ?
+*MIR:	(a)questa .
+*MOT:	aquesta .
+*MOT:	quina és aquesta ?
+%com:	the yellow lid falls
+*MIR:	ui@i que cau !
+*MOT:	ai@i que cau !
+*MIR:	0 .
+%act:	puts the yellow lid on a pot and goes to the toy kitchen
+*MIR:	fer a cuina .
+*MOT:	fer la cuina (.) molt bé .
+*MIR:	cuina .
+%act:	closes the door of the fridge
+*MIR:	tanco .
+*MIR:	tanques .
+%com:	the door opens
+*MIR:	oberta oberta .
+%act:	opens the door of the oven
+*MIR:	ui@i a obert !
+*MOT:	ui@i a obert !
+*MOT:	sí (.) has obert la porta .
+*MIR:	tanco ?
+%exp:	the door of the fridge
+*MOT:	sí .
+*MIR:	0 .
+%act:	bangs the door of the fridge repeatedly
+*MOT:	ei@i que no es tanca !
+*MOT:	què passa ?
+%com:	the door of the oven falls open
+*MIR:	aquesta no va .
+%exp:	the door of the oven
+*MOT:	aquesta no va (.) no .
+*MIR:	aquesta .
+%act:	points to the open door of the fridge
+*MOT:	aquesta es tanca (.) la pots tancar ?
+*MIR:	0 .
+%act:	tries to close it
+*MIR:	no puc .
+*MOT:	no puc .
+*MIR:	aquesta no va .
+%act:	opens the door of the oven
+*MOT:	aquesta no va ?
+*MIR:	aquesta sí va .
+*MOT:	aquesta sí va .
+@End

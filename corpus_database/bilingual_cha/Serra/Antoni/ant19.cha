@@ -1,0 +1,404 @@
+@UTF8
+@PID:	11312/c-00001902-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Antoni Target_Child , NOI noia Nurse , MAR mare Mother
+@ID:	spa , cat|Serra|CHI|1;7.07||||Target_Child|||
+@ID:	spa , cat|Serra|NOI|||||Nurse|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@Comment:	la inicial n es per la mainadera d' a que es diu mary , a esta segut a la trona , mirant un conte
+*NOI:	pcf [% "ti"] .
+*CHI:	esto [% "to" , assenyala un dibuix del conte] .
+*NOI:	que es eso ?
+*CHI:	esto [% "to"] .
+*NOI:	que es ?
+*CHI:	yo [% "io" , enf l' o] .
+*NOI:	yo ?
+*NOI:	eres tu ?
+*CHI:	pcf [% "uuu" , salta sobre la trona] .
+*NOI:	es un osito .
+*NOI:	antoni .
+*CHI:	0 .
+%act:	passa fulls del llibre
+*CHI:	pipi [= assenyala un altre dibuix] .
+*NOI:	pipi .
+*CHI:	ah ah [= riu] !
+*NOI:	que fa pipi .
+*NOI:	oh !
+*NOI:	el biberon [% "el bibe"] .
+*NOI:	el biberon .
+*CHI:	biberon [% "bibe"] .
+*NOI:	el biberon .
+*NOI:	el biberon .
+*CHI:	esto [% "eto" , assenyala al llibre] .
+*CHI:	agua [% "abua" , demana aigua] .
+*CHI:	agua [% "abua"] .
+*NOI:	a ver , a ver , busca la trona .
+*NOI:	a ver como +/.
+*CHI:	agua [% "abua"] .
+*CHI:	agua [% "abua"] .
+*MAR:	si .
+*MAR:	ahora te la trae la mari .
+*CHI:	0 .
+%act:	manipula el llibre
+*MAR:	cuantos cuentos antoni !
+*NOI:	a ver como buscas la trona antoni .
+*CHI:	0 [= mira a n] .
+*NOI:	la trona , donde esta la trona ?
+*CHI:	alli [% "adi" , agafa el bibero i beu aigua] .
+*NOI:	va , buscala en el llibre .
+*NOI:	tenias sed .
+*CHI:	0 .
+%act:	deixa el bibero sobre la trona
+*NOI:	busca la trona , a ver .
+*CHI:	no esta [% "o ta"] .
+*NOI:	donde esta la trona ?
+*CHI:	alli [% "adi" , assenyala la trona] .
+*NOI:	alli ?
+*NOI:	va buscala , buscala .
+*CHI:	0 .
+%act:	tanca el llibre
+*NOI:	a ver como la buscas .
+*CHI:	no esta [% "to ta"] .
+*MAR:	en el cuento , en el cuento .
+*NOI:	esta en el llibre antoni .
+*CHI:	biberon [% "bebe"] .
+*NOI:	el biberon tambien esta [% "bibe" en comptes de biberon] .
+*CHI:	0 .
+%act:	torna a obrir el llibre
+*NOI:	no , en ese no .
+*CHI:	pure [% "pude"] .
+*NOI:	el del pure si .
+*NOI:	el del pure .
+*CHI:	0 .
+%act:	agafa un altre llibre de la taula
+*NOI:	ahora otro .
+*CHI:	nene .
+*CHI:	a nene [% "e nene"] .
+*NOI:	el nene .
+*CHI:	zapato [% "tato"] .
+*NOI:	zapato .
+*CHI:	esto [% "to" , assenyala amb el dit i mira cap a on esta n] .
+*CHI:	esto [% "to"] .
+*NOI:	jerseys .
+*CHI:	esto [% "to"] .
+*CHI:	esto [% "to"] .
+*NOI:	el jersey .
+*CHI:	calcetin [% "tin"] .
+*NOI:	jerseys .
+*CHI:	calcetin [% "etin"] .
+*NOI:	el calcetin [% "el tin"] .
+*NOI:	tambien esta el calcetin [% "tin"] .
+*NOI:	calcetin .
+*CHI:	calcetin [% "tin"] .
+*NOI:	y los pantalones .
+*CHI:	calcetin [% "tin" , tanca el llibre i agafa un altre] .
+*CHI:	otro [% "oto"] .
+*NOI:	otro ?
+*NOI:	a ver .
+*MAR:	quien es esta antoni ?
+*CHI:	a carme [% "a pama"] .
+*NOI:	<la carme> [>] .
+*MAR:	<la carme> [<] .
+*MAR:	y que hace la carme ?
+*MAR:	eh , que hace ?
+*CHI:	0 [= ha agafat un altre llibre] .
+*CHI:	llum .
+*NOI:	el llum .
+*NOI:	si .
+*CHI:	el guau@c [: gos] [% "e gua"] .
+*NOI:	el guaguau@c [: gos] .
+*NOI:	el llum .
+*CHI:	pcf [% "toc"] .
+*CHI:	pcf [% "toc"] .
+*CHI:	pcf [% "toc"] .
+*CHI:	alli [% "adi" , assenyala vers on estan n i m] .
+*NOI:	los miramos ?
+*NOI:	los miramos los cuentos antoni ?
+*NOI:	eh ?
+*CHI:	0 .
+%act:	llenca els contes
+*NOI:	a ver .
+*NOI:	busca (.) al nene que esta corriendo antoni .
+*CHI:	no esta [% "ta"] .
+*NOI:	si que esta .
+*NOI:	buscalo .
+*NOI:	ese no es .
+*NOI:	el nene que esta corriendo donde esta ?
+*CHI:	zapato [% "tato"] .
+*CHI:	zapato [% "tato"] .
+*NOI:	zapato .
+*CHI:	zapato [% "tato"] .
+*NOI:	zapato .
+*NOI:	ah !
+*NOI:	que es eso ?
+*CHI:	dodot [% "iolo"] .
+*NOI:	el &+do +...
+*CHI:	&+do .
+*CHI:	&+do .
+*CHI:	pito [% "upito" , es refereix al pene] .
+*CHI:	pito .
+*CHI:	pito .
+@Comment:	n i m riuen
+*NOI:	donde esta el pito ?
+*CHI:	no esta [% "ta"] .
+*NOI:	no esta .
+*NOI:	esta tapado , verdad ?
+*MAR:	es que lleva el dodot antoni .
+*MAR:	no se ve .
+@Comment:	m i n riuen
+*CHI:	pito [% "upito"] .
+*MAR:	no se ve .
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*NOI:	no esta el pito .
+*CHI:	alli [% "adi" , busca en el llibre] .
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*NOI:	no esta .
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*NOI:	ya esta .
+*NOI:	va !
+*NOI:	ahora busca +...
+*CHI:	pito [% "upito"] .
+*CHI:	pito [% "upito"] .
+*NOI:	mira ven .
+*NOI:	vamos a cambiar de tema muchacho .
+%com:	n agafa una cadira i seu al costat d' a
+*CHI:	pito [% "upito"] .
+*NOI:	a ver .
+*CHI:	pito [% "upito"] .
+*NOI:	mira , este quien es ?
+*NOI:	antoni , a ver , este quien es ?
+*NOI:	este quien es ?
+*CHI:	pcf [% "ti"] .
+*NOI:	este quien es ?
+*CHI:	pcf [% "pati"] .
+*NOI:	la pati ?
+*NOI:	no .
+*NOI:	este quien es ?
+*CHI:	nene .
+*NOI:	el nene .
+*NOI:	y este ?
+*NOI:	el osito ?
+*CHI:	0 .
+%act:	llenca el llibre sobre la taula
+*NOI:	no lo quieres ver ?
+*NOI:	cual ?
+*NOI:	va , cual quieres ver ?
+*CHI:	0 .
+%act:	agafa un altre llibre
+*NOI:	este ?
+*MAR:	ese es el de por la noche .
+*NOI:	lo vemos ?
+*NOI:	a ver .
+*NOI:	desde aqui .
+*CHI:	no esta [% "tota" , el llibre es tancat] .
+*NOI:	<la (.)> [/?] el nene .
+*NOI:	que fa el nene ?
+*CHI:	&+tes .
+*NOI:	nonetes@c .
+*NOI:	y esto que es ?
+*CHI:	guauguau@c [: gos] [% "babau"] .
+*NOI:	no .
+*NOI:	el osito .
+*CHI:	osito [% "otito"] .
+*NOI:	el osito .
+*NOI:	y esto ?
+*CHI:	pcf [% "noea"] .
+*NOI:	el pollito .
+*CHI:	pollito [% "llito"] .
+*NOI:	y esta quien es ?
+*CHI:	a mama [% "a mama"] .
+*NOI:	la mama .
+*NOI:	y este quien es , antoni ?
+*CHI:	mama [= la busca mirant cap l' altre costat] .
+*NOI:	la mama ahora vendra .
+*NOI:	y este quien es ?
+*NOI:	eh ?
+*CHI:	jo [% "io" , tanca el llibre] .
+*NOI:	tu ?
+*NOI:	eres tu ?
+*NOI:	oh !
+*NOI:	que es esto ?
+*NOI:	mira .
+*NOI:	a ver .
+*CHI:	0 .
+%act:	busca un altre llibre
+*NOI:	ahora este .
+*NOI:	venga .
+*NOI:	bebe un poco de agua .
+*CHI:	0 .
+%act:	agafa el bibero i beu aigua
+*NOI:	va .
+*NOI:	vamos a verlo .
+%com:	obrint un altre conte
+*NOI:	oh !
+*CHI:	oh , oh !
+*CHI:	no [= tanca el llibre] .
+*NOI:	el dodotis .
+*CHI:	0 .
+%act:	torna a beure aigua
+*NOI:	ya veras como te estas quieto antoni .
+*NOI:	tus cuentos preferidos .
+%com:	n se'n va a buscarlos
+*NOI:	aqui lo diras , eh ?
+*NOI:	mejor .
+*NOI:	porque esto +...
+*NOI:	a ver .
+*NOI:	ui !
+*NOI:	que hace el leon ?
+*CHI:	leon [% "mon"] .
+*NOI:	leon .
+*NOI:	y este quien es ?
+*CHI:	yo [% "io"] .
+*NOI:	no .
+*NOI:	este quien es ?
+*CHI:	guauguau@c [: gos] [% "bababau"] .
+*NOI:	el guauguau@c [: gos] .
+*NOI:	y este ?
+*CHI:	a guauguau@c [: gos] [% "a babau"] .
+*NOI:	otro guaguau@c [: gos] .
+*NOI:	cuantos guaguaus@c [: gossos] , verdad , que hay .
+*NOI:	a ver .
+*NOI:	oh !
+*CHI:	pcf [% "fio"] .
+*NOI:	ui !
+*NOI:	quien es este ?
+*NOI:	pcf [% "gaga"] .
+*NOI:	quien es este antoni ?
+*CHI:	nene .
+*CHI:	0 [=! riu] .
+*NOI:	los nenes .
+*NOI:	los nenes .
+*NOI:	y esto ?
+*CHI:	0 .
+%act:	salta damunt la trona i riu a la vegada
+*NOI:	esto que es ?
+*NOI:	esto que es ?
+*NOI:	ui !
+*NOI:	te haras pupa@c .
+*CHI:	esto [% "to" , assenyala la taula] .
+*MAR:	ves .
+*MAR:	cada vez te vas mas lejos .
+*NOI:	ahora que ?
+*CHI:	0 .
+%act:	agafa un altre llibre
+*NOI:	mira .
+*NOI:	esto que es ?
+*NOI:	eh ?
+*NOI:	que es esto ?
+*NOI:	cucu@c .
+*NOI:	cucu@c .
+*NOI:	cucu@c .
+*CHI:	0 .
+%act:	agafa el bibero i beu aigua
+*NOI:	oh !
+*NOI:	oi !
+*NOI:	pasamos de hoja ?
+*NOI:	oh !
+*NOI:	esto quien es ?
+*NOI:	quien es esta , antoni ?
+*CHI:	pcf [% "ioiaio"] .
+*NOI:	quien es ?
+*CHI:	esto [% "to"] .
+*NOI:	quien es este ?
+*CHI:	cucu@c .
+*NOI:	si .
+*NOI:	hace el cucu@c .
+*NOI:	pero quien es ?
+*NOI:	el &+le +...
+*CHI:	&+o .
+*NOI:	leon .
+*NOI:	y esta quien es ?
+*NOI:	lleo [% "mon"] .
+*NOI:	lleo [% "mon"] .
+*NOI:	esta quien es , antoni ?
+*CHI:	a mare [% "to maia"] .
+*NOI:	la mare ?
+*NOI:	y este ?
+*CHI:	pcf [% "iaioeia"] .
+*CHI:	a papa [% "a papa"] .
+*NOI:	el papa y la mama , verdad ?
+*NOI:	muy bien .
+*NOI:	todo hombre que haya con bigote es su papa
+	[% "haiga" en comptes de haya , ho diu a e] .
+*NOI:	ui !
+*NOI:	oh !
+*NOI:	ui !
+*NOI:	quien es este ?
+*CHI:	esto [% "to" , assenyala el llibre] .
+*NOI:	quien es ?
+*CHI:	esto [% "to"] .
+*NOI:	quien es ?
+*NOI:	quien es ?
+*NOI:	ui !
+*NOI:	la barca .
+*NOI:	oh !
+*CHI:	a barca [% "tata"] .
+*NOI:	la barca .
+*NOI:	y este ?
+*CHI:	pcf [% "coi"] .
+*CHI:	a papa [% "aiipapa"] .
+*NOI:	no , este no es el papa .
+*NOI:	este quien es ?
+*CHI:	mama .
+*NOI:	tampoco .
+*NOI:	ahora solo falta que digas otro nombre y ya esta .
+*NOI:	este quien es ?
+*CHI:	no .
+*NOI:	quien es ?
+*CHI:	no .
+*NOI:	el gua@c +...
+*CHI:	pcf [% "me"] .
+*CHI:	el gua@c +...
+*CHI:	guauguau@c [: gos] [% "bababau"] .
+*NOI:	el guauguau@c [: gos] .
+*NOI:	hombre !
+*NOI:	que te estabas equivocando , eh !
+*CHI:	el guauguau@c [: gos] [% "babau"] .
+*NOI:	mira , mira el leon .
+*CHI:	guau@c guau@c [% "bababau"] .
+*NOI:	cucu@c .
+*NOI:	cucu@c .
+*NOI:	cucu@c .
+*NOI:	y esto que es ?
+*CHI:	pcf [% "baeia"] .
+*NOI:	el munyeco de +...
+*NOI:	el munyeco de nieve , antoni , que te gustaba tanto .
+*NOI:	que te acuerdas ?
+*NOI:	cuando nevaba ?
+*CHI:	no .
+*NOI:	no te acuerdas ?
+*NOI:	bueno .
+*CHI:	no .
+*CHI:	no .
+*NOI:	oh !
+*NOI:	quien es este ?
+*CHI:	no .
+*CHI:	no .
+*NOI:	no quieres .
+*NOI:	otro ?
+*NOI:	este ?
+*NOI:	eh ?
+*NOI:	oh !
+*CHI:	no .
+*NOI:	ay el nene !
+*CHI:	no .
+*NOI:	y esto que es ?
+*NOI:	el avion .
+*CHI:	no .
+*CHI:	no [= gira el cap] .
+*NOI:	el avion .
+*NOI:	el ya sabe que es su hora [= mirant cap a m] .
+*NOI:	ui !
+*NOI:	el avion .
+*CHI:	avion [% "vion"] .
+*NOI:	el avion .
+*CHI:	otro [% "oto"] .
+@End

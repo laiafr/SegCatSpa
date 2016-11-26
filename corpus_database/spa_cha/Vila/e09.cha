@@ -1,0 +1,97 @@
+@UTF8
+@PID:	11312/c-00032009-1
+@Begin
+@Languages:	spa
+@Participants:	CHI emilio Target_Child , INE ines Mother , CEC cecilia Adult
+@ID:	spa|Vila|CHI|1;07.11||||Target_Child|||
+@ID:	spa|Vila|INE|||||Mother|||
+@ID:	spa|Vila|CEC|||||Adult|||
+@Comment:	emilio se está bañando
+*INE:	llama a nacho .
+*CHI:	nacho .
+*INE:	aquí .
+*CHI:	aquí .
+%com:	emilio pone la mano en la jabonera donde está el jabón
+*INE:	te vas a resbalar .
+*CHI:	no .
+*INE:	sí .
+*CHI:	sí .
+%com:	inés le echa agua por la cabeza
+*INE:	sí .
+*INE:	un poquito .
+*INE:	mira .
+*CHI:	ah .
+*CHI:	0 .
+%act:	protesta .
+*INE:	uh .
+*INE:	mira .
+*INE:	ya está .
+*INE:	vamos a vestirte ?
+*INE:	emilio .
+*CHI:	no .
+*INE:	sí .
+*CHI:	sí .
+*INE:	vamos a vestirte ?
+*CHI:	teu .
+%com:	emilio quiere coger el jabón de la jabonera
+*CHI:	teu .
+*CHI:	nacho .
+%com:	emilio está tumbado en la cuna
+*INE:	al nacho .
+*INE:	le llamas al nacho .
+*CHI:	nacho .
+%com:	inés le está vistiendo
+*INE:	ya está .
+*CHI:	ya está .
+*CHI:	bien !
+*INE:	bien ?
+*INE:	emilio .
+*INE:	mira .
+*INE:	hola .
+%com:	inés le pone la camisa y en el brazo hace titelles
+*CHI:	mira .
+*CHI:	hola .
+%com:	emilio señala su brazo
+*CHI:	cecilia .
+%com:	acaba de entrar cecilia
+*CHI:	0 .
+%act:	llama a cecilia .
+*CHI:	zapato .
+*INE:	ahora te los buscaré .
+%com:	cecilia da un trozo de pan a emilio
+*CHI:	pan .
+*CEC:	para emilio .
+*CEC:	pan para emilio .
+*CHI:	cecilia .
+*INE:	calcetín .
+*CHI:	calcetín .
+*CHI:	nacho .
+%com:	emilio se acerca a la cámara y pregunta por merche
+*CHI:	cuento .
+*INE:	cuento .
+*INE:	te gusta este cuento ?
+*CHI:	no .
+%com:	inés lo coge en brazos y lo pone otra vez en la cama
+*INE:	sí .
+*INE:	un poquito .
+%com:	emilio tumbado con el cuento abierto
+*INE:	está al revés .
+*CHI:	ta a evés .
+*INE:	está al revés .
+*INE:	así .
+*INE:	póntelo así .
+*CHI:	así .
+%com:	emilio va mirando el cuento
+*INE:	es un cuento esto .
+*CHI:	0 .
+%act:	balbucea cinco tres .
+*CHI:	nacho .
+%com:	emilio en la falda de inés mientras le pone el pantalón
+*INE:	te oye el nacho pero no te hace caso .
+*CHI:	nacho !
+*INE:	bueno .
+*INE:	ya está .
+*CHI:	sí .
+*CHI:	gato .
+*CHI:	gato .
+@End

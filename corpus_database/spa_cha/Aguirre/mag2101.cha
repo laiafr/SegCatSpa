@@ -1,0 +1,610 @@
+@UTF8
+@PID:	11312/c-00032088-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Target_Child , MOT Mother
+@ID:	spa|Aguirre|CHI|1;9.01||||Target_Child|||
+@ID:	spa|Aguirre|MOT|||||Mother|||
+@Date:	01-JUL-1992
+@Location:	Spain
+@Transcriber:	CAM
+@Room Layout:	Garden , bedroom , kitchen.
+@Situation:	Playing in the garden
+*CHI:	nanina@p .
+%mor:	phon|nanina .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	ay !
+%mor:	co|ay=ay !
+*MOT:	qué dices Magín , que no te entiendo ?
+%mor:	pro:int|qué=what v|deci-2S&PRES=say n:prop|Magín cm|cm
+	pro:rel|que=that adv|no=no pro:obj|te=you
+	v|entende-1S&PRES=understand ?
+*CHI:	xxx .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*MOT:	no des ahí .
+%mor:	adv|no=no v|da-2S&SUB&PRES=give adv|ahí=there .
+*CHI:	non [: no] de [*] .
+%mor:	adv|no=no prep|de=of .
+%err:	$MOR $VFL
+%com:	no está nada claro en el contexto la forma que debería emplear . simplemente repite y la s en posición final de sílaba , nunca la pronuncia .
+*MOT:	no des ahí .
+%mor:	adv|no=no v|da-2S&SUB&PRES=give adv|ahí=there .
+*CHI:	no de [*] nada .
+%mor:	adv|no=no prep|de=of pro:indef|nada=nothing .
+%err:	$MOR $VFL
+*CHI:	nadie .
+%mor:	pro:indef|nadie=nobody .
+*CHI:	nadie quita .
+%mor:	pro:indef|nadie=nobody v|quita-3S&PRES=remove .
+*CHI:	nadie .
+%mor:	pro:indef|nadie=nobody .
+*MOT:	nadie qué ?
+%mor:	pro:indef|nadie=nobody pro:int|qué=what ?
+*CHI:	naide [: nadie] .
+%mor:	pro:indef|nadie=nobody .
+*MOT:	nadie ?
+%mor:	pro:indef|nadie=nobody ?
+*MOT:	pero tú sabes lo que es nadie .
+%mor:	conj|pero=but pro:sub|tú=you v|sabe-2S&PRES=know pro:obj|lo&m=him
+	pro:rel|que=that cop|se-3S&PRES=be pro:indef|nadie=nobody .
+*CHI:	Mario .
+%mor:	n:prop|Mario .
+*MOT:	Mario .
+%mor:	n:prop|Mario .
+*MOT:	Mario no está .
+%mor:	n:prop|Mario adv|no=no cop|esta-3S&PRES=be .
+*MOT:	está durmiendo Mario .
+%mor:	aux|esta-3S&PRES=be ger|dormi-PROG=sleep n:prop|Mario .
+*CHI:	&+eno .
+*MOT:	está durmiendo .
+%mor:	aux|esta-3S&PRES=be ger|dormi-PROG=sleep .
+*CHI:	no .
+%mor:	adv|no=no .
+*MOT:	sí .
+%mor:	co|sí=yes .
+*CHI:	Mario .
+%mor:	n:prop|Mario .
+*CHI:	ot(r)o Mario .
+%mor:	det:indef|otro-MASC=other n:prop|Mario .
+*MOT:	otro Mario ?
+%mor:	det:indef|otro-MASC=other n:prop|Mario ?
+*CHI:	babau@o !
+%mor:	on|babau !
+*MOT:	el babau@o está abajo .
+%mor:	det:art|el&MASC&SG=the on|babau cop|esta-3S&PRES=be adv|abajo=below
+	.
+*CHI:	a ve(r) (l)a bau [: babau@o] .
+%mor:	aprep|a=to inf|ve-INF=see det:art|el&FEM&SG=the on|babau .
+*MOT:	el babau@o .
+%mor:	det:art|el&MASC&SG=the on|babau .
+*MOT:	has visto como xxx otro .
+%mor:	aux|habe-2S&PRES=have part|ve-PPART-MASC=see adv|como=like
+	det:indef|otro-MASC=other .
+*CHI:	&+aba a ve(r) (l)a bau@o .
+%mor:	aprep|a=to inf|ve-INF=see det:art|el&FEM&SG=the on|bau .
+*CHI:	ab(r)ir [*] .
+%mor:	inf|abri-INF=open .
+*MOT:	abrir ?
+%mor:	inf|abri-INF=open ?
+*MOT:	mira otro avión .
+%mor:	v|mira-3S&PRES=look det:indef|otro-MASC=other n|avión&f=airplane .
+*MOT:	mira allí .
+%mor:	co|mira=look adv|allí=there .
+*MOT:	lo ves ?
+%mor:	pro:obj|lo&m=him v|ve-2S&PRES=see ?
+*CHI:	se van [*] .
+%mor:	pro:refl|se=itself v|i-3P&PRES=go .
+%err:	van = va $MOR $VFL
+*MOT:	claro se va .
+%mor:	co|claro=obvious pro:refl|se=itself v|i-3S&PRES=go .
+*MOT:	mira .
+%mor:	co|mira=look .
+*MOT:	míralo .
+%mor:	imp|mira-2S&IMP~pro:clit|OBJ&MASC .
+*MOT:	espera .
+%mor:	imp|espera-2S&IMP=wait .
+*CHI:	&+tati .
+*MOT:	a_ver si sale .
+%mor:	co|a_ver=see conj|si=if v|sali-3S&PRES=leave .
+*MOT:	ahora está escondido con el árbol .
+%mor:	adv|ahora=now aux|esta-3S&PRES=be part|esconde-PPART-MASC=hide
+	prep|con=with det:art|el&MASC&SG=the n|árbol&m=tree .
+*CHI:	(es)tá (es)condido .
+%mor:	aux|esta-3S&PRES=be part|esconde-PPART-MASC=hide .
+*MOT:	está escondido .
+%mor:	aux|esta-3S&PRES=be part|esconde-PPART-MASC=hide .
+*MOT:	ves ?
+%mor:	co|ves=see ?
+*CHI:	(es)tá (es)condido .
+%mor:	aux|esta-3S&PRES=be part|esconde-PPART-MASC=hide .
+*MOT:	no , no se ve .
+%mor:	adv|no=no cm|cm adv|no=no pro:refl|se=itself v|ve-3S&PRES=see .
+*CHI:	a_ver .
+%mor:	co|a_ver=see .
+*MOT:	has visto relámpagos ?
+%mor:	aux|habe-2S&PRES=have part|ve-PPART-MASC=see n|relámpago&m-PL=flash
+	?
+*CHI:	no (es)tá pampo [: relámpago] .
+%mor:	adv|no=no cop|esta-3S&PRES=be n|relámpago&m=flash .
+*CHI:	no (es)tán .
+%mor:	adv|no=no cop|esta-3P&PRES=be .
+*MOT:	no están , los relámpagos ?
+%mor:	adv|no=no cop|esta-3P&PRES=be cm|cm det:art|el&MASC-PL=the
+	n|relámpago&m-PL=flash ?
+*MOT:	mira [x 2] el avión .
+%mor:	co|mira=look det:art|el&MASC&SG=the n|avión&f=airplane .
+*MOT:	mira como xxx ahora va a salir por allí otra vez .
+%mor:	co|mira=look adv|como=like adv|ahora=now v|i-3S&PRES=go aprep|a=to
+	inf|sali-INF=leave prep|por=for adv|allí=there
+	det:indef|otro-FEM=other n|vez&f=turn .
+*CHI:	xxx .
+*MOT:	el avión mírale .
+%mor:	det:art|el&MASC&SG=the n|avión&f=airplane
+	imp|mira-2S&IMP~pro:clit|3S .
+*CHI:	allí .
+%mor:	adv|allí=there .
+*MOT:	allí está .
+%mor:	adv|allí=there cop|esta-3S&PRES=be .
+*CHI:	xxx .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	abajo .
+%mor:	adv|abajo=below .
+*CHI:	s(e) ha ido pampo [: relámpago] .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|i-PPART-MASC=go
+	n|relámpago&m=flash .
+*CHI:	abampo [: relámpago] .
+%mor:	n|relámpago&m=flash .
+*MOT:	apampo [: relámpago] ?
+%mor:	n|relámpago&m=flash ?
+*MOT:	tú sabes lo que es apampo [: relámpago] ?
+%mor:	pro:sub|tú=you v|sabe-2S&PRES=know pro:obj|lo&m=him
+	pro:rel|que=that cop|se-3S&PRES=be n|relámpago&m=flash ?
+*CHI:	s(e) ha ido .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|i-PPART-MASC=go .
+*MOT:	qué quieres decir: el relámpago ?
+%mor:	pro:int|qué=what v|quere-2S&PRES=want inf|deci-INF=say
+	det:art|el&MASC&SG=the n|relámpago&m=flash ?
+*MOT:	el relámpago .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	pero sabes cómo es el relámpago ?
+%mor:	conj|pero=but v|sabe-2S&PRES=know pro:int|cómo=how
+	cop|se-3S&PRES=be det:art|el&MASC&SG=the n|relámpago&m=flash ?
+*MOT:	te has fijado ?
+%mor:	pro:obj|te=you aux|habe-2S&PRES=have part|fija-PPART-MASC=notice ?
+*CHI:	s(e) ha ido .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|i-PPART-MASC=go .
+*MOT:	que es una luz que hace así y luego desaparece .
+%mor:	pro:rel|que=that cop|se-3S&PRES=be det:art|un-FEM=one n|luz&f=light
+	pro:rel|que=that v|hace-3S&PRES=do adv|así=thus coord|y=and
+	adv|luego=afterwards v|desaparece-3S&PRES=disappear .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	el ampo [: relámpago] , sí .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash cm|cm co|sí=yes .
+*MOT:	el relámpago .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*CHI:	s(e) ha ido .
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|i-PPART-MASC=go .
+*MOT:	se ha ido ?
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|i-PPART-MASC=go ?
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	el ampo [: relámpago] se ha ido ?
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash pro:refl|se=itself
+	aux|habe-3S&PRES=have part|i-PPART-MASC=go ?
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*CHI:	po(br)ecito ampo [: relámpago] .
+%mor:	co:voc|pobrecito=poor_thing n|relámpago&m=flash .
+*CHI:	ay !
+%mor:	co|ay=ay !
+*CHI:	ay !
+%mor:	co|ay=ay !
+*MOT:	ay !
+%mor:	co|ay=ay !
+*MOT:	ay , qué bonito es mi niño !
+%mor:	co|ay=ay cm|cm pro:int|qué=what adj|bonito-MASC=pretty
+	cop|se-3S&PRES=be det:pos|mi=my n|niño-MASC=child !
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	ay [x 2] qué bonito es mi nene , madre !
+%mor:	co|ay=ay pro:int|qué=what adj|bonito-MASC=pretty cop|se-3S&PRES=be
+	det:pos|mi=my co:voc|nene=baby cm|cm n|madre&f=mother !
+*CHI:	quiero el ampo [: relámpago] .
+%mor:	v|quere-1S&PRES=want det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	qué le pasa al ampo [: relámpago] ?
+%mor:	pro:int|qué=what pro:ind|le=him v|pasa-3S&PRES=pass
+	aprep|a~det|el&MASC n|relámpago&m=flash ?
+*MOT:	cambia de disco ya .
+%mor:	v|cambia-3S&PRES=change prep|de=of n|disco&m=disk adv|ya=already .
+*CHI:	se van .
+%mor:	pro:refl|se=itself v|i-3P&PRES=go .
+*MOT:	sí , todo se van [*] .
+%mor:	co|sí=yes cm|cm pro:indef|todo-MASC=all pro:refl|se=itself
+	v|i-3P&PRES=go .
+%err:	van = va $MOR $VFL
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	todo se va .
+%mor:	pro:indef|todo-MASC=all pro:refl|se=itself v|i-3S&PRES=go .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	oye , vamos a_ver a papá ?
+%mor:	co|oye=listen cm|cm co|vamos=go co|a_ver=see aprep|a=to
+	n|papá&m=papa ?
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*CHI:	ay !
+%mor:	co|ay=ay !
+*CHI:	ay , xxx .
+%mor:	co|ay=ay cm|cm .
+*MOT:	vamos a_ver a papá ?
+%mor:	co|vamos=go co|a_ver=see aprep|a=to n|papá&m=papa ?
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*CHI:	quiero el ampo [: relámpago] .
+%mor:	v|quere-1S&PRES=want det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	ven .
+%mor:	co|ven=come .
+*MOT:	vamos a_ver a papá y le vamos +//.
+%mor:	co|vamos=go co|a_ver=see aprep|a=to n|papá&m=papa coord|y=and
+	pro:ind|le=him v|i-1P&PRES=go +//.
+*MOT:	le vamos a decir que hemos visto un relámpago .
+%mor:	pro:ind|le=him v|i-1P&PRES=go aprep|a=to inf|deci-INF=say
+	pro:rel|que=that aux|habe-1P&PRES=have part|ve-PPART-MASC=see
+	det:art|un&m=one n|relámpago&m=flash .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	venga , vamos .
+%mor:	co|venga=come_on cm|cm co|vamos=go .
+*MOT:	vamos a buscar a papá .
+%mor:	v|i-1P&PRES=go aprep|a=to inf|busca-INF=search aprep|a=to
+	n|papá&m=papa .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	porque no están los nenes , verdad ?
+%mor:	conj|porque=because adv|no=no cop|esta-3P&PRES=be
+	det:art|el&MASC-PL=the n|nene&m-PL=child cm|cm co|verdad=right ?
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	están , uy !
+%mor:	cop|esta-3P&PRES=be cm|cm co|uy !
+*MOT:	cuidado !
+%mor:	co|cuidado=careful !
+*CHI:	nadie .
+%mor:	pro:indef|nadie=nobody .
+*MOT:	claro , no hay nadie porque es muy de noche .
+%mor:	co|claro=obvious cm|cm adv|no=no v|habe-3S&PRES&SPEC=have
+	pro:indef|nadie=nobody conj|porque=because cop|se-3S&PRES=be
+	adv|muy=very prep|de=of n|noche&f=night .
+*CHI:	adió(s) , Mario .
+%mor:	co|adiós=goodbye cm|cm n:prop|Mario .
+*CHI:	uh !
+%mor:	co|uh !
+*CHI:	el avión .
+%mor:	det:art|el&MASC&SG=the n|avión&f=airplane .
+*MOT:	ah , avión .
+%mor:	co|ah cm|cm n|avión&f=airplane .
+*CHI:	un avión .
+%mor:	det:art|un&m=one n|avión&f=airplane .
+*MOT:	avión no .
+%mor:	n|avión&f=airplane adv|no=no .
+*MOT:	ahora no veo yo ninguno , cielo .
+%mor:	adv|ahora=now adv|no=no v|ve-1S&PRES=see pro:sub|yo=I
+	det:indef|ningún-MASC=none cm|cm co:voc|cielo=angel .
+*CHI:	e@c ampio [: relámpago] .
+%mor:	chi|e n|relámpago&m=flash .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*MOT:	vamos .
+%mor:	co|vamos=go .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*CHI:	miralo el ampo .
+%mor:	imp|mira-2S&IMP~pro:clit|OBJ&MASC det:art|el&MASC&SG=the
+	n|ampo&m=snowflake .
+*MOT:	a_ver , pasa .
+%mor:	co|a_ver=see cm|cm v|pasa-3S&PRES=pass .
+%com:	entran de nuevo en casa
+*CHI:	el ampo [: relámpago] (es)tá allí .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash cop|esta-3S&PRES=be
+	adv|allí=there .
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+*CHI:	mamá .
+%mor:	n|mamá&f=mommy .
+*MOT:	pasa .
+%mor:	imp|pasa-2S&IMP=pass .
+*MOT:	uy , madre que me caigo .
+%mor:	co|uy cm|cm n|madre&f=mother pro:rel|que=that pro:obj|me=me
+	v|cae-1S&PRES=fall .
+*MOT:	uy , qué calor hace aquí !
+%mor:	co|uy cm|cm pro:int|qué=what n|calor&m=heat v|hace-3S&PRES=do
+	adv|aquí=here !
+*CHI:	mano .
+%mor:	n|mano&f=hand .
+*CHI:	mano .
+%mor:	n|mano&f=hand .
+*MOT:	la mano , verdad ?
+%mor:	det:art|el&FEM&SG=the n|mano&f=hand cm|cm co|verdad=right ?
+*MOT:	qué querías ?
+%mor:	pro:int|qué=what v|quere-2S&PAS=want ?
+*MOT:	quieres de la mano ?
+%mor:	v|quere-2S&PRES=want prep|de=of det:art|el&FEM&SG=the n|mano&f=hand
+	?
+*CHI:	el ampo [: relámpago] .
+%mor:	det:art|el&MASC&SG=the n|relámpago&m=flash .
+%com:	la grabación se corta al entrar en casa y continúa un rato después en el salón y la cocina .
+*CHI:	hala .
+%mor:	co|hala .
+*CHI:	hala .
+%mor:	co|hala .
+*CHI:	hala .
+%mor:	co|hala .
+*MOT:	qué haces ?
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+*MOT:	hala , hala .
+%mor:	co|hala cm|cm co|hala .
+*MOT:	mira qué calor hace aquí .
+%mor:	co|mira=look pro:int|qué=what n|calor&m=heat v|hace-3S&PRES=do
+	adv|aquí=here .
+*MOT:	vamos .
+%mor:	co|vamos=go .
+*CHI:	a tatón [: salón] .
+%mor:	aprep|a=to n|sala-AUG=hall .
+*MOT:	al salón .
+%mor:	aprep|a~det|el&MASC n|sala-AUG=hall .
+*MOT:	qué has dicho antes ?
+%mor:	pro:int|qué=what aux|habe-2S&PRES=have part|deci-PPART-MASC=say
+	adv|antes=before ?
+*MOT:	que la ducha está fría .
+%mor:	pro:rel|que=that pro:obj|la&f=she v|ducha-3S&PRES=take_shower
+	cop|esta-3S&PRES=be v|freí-13S&SUB&PRES=fry .
+*CHI:	pollo .
+%mor:	n|pollo&m=chicken .
+%com:	él va a comer pollo , lo ha debido ver .
+*MOT:	qué has dicho ?
+%mor:	pro:int|qué=what aux|habe-2S&PRES=have part|deci-PPART-MASC=say ?
+*MOT:	ducha está fría , has dicho ?
+%mor:	n|ducha&f=shower cop|esta-3S&PRES=be v|freí-13S&SUB&PRES=fry cm|cm
+	aux|habe-2S&PRES=have part|deci-PPART-MASC=say ?
+*CHI:	fría .
+%mor:	v|freí-13S&SUB&PRES=fry .
+*MOT:	qué está fría ?
+%mor:	pro:int|qué=what cop|esta-3S&PRES=be v|freí-13S&SUB&PRES=fry ?
+*CHI:	&+batitu mamá .
+%mor:	n|mamá&f=mommy .
+*CHI:	patita@p .
+%mor:	phon|patita .
+*MOT:	qué dices ?
+%mor:	pro:int|qué=what v|deci-2S&PRES=say ?
+*MOT:	ven .
+%mor:	co|ven=come .
+*CHI:	pollo .
+%mor:	n|pollo&m=chicken .
+*CHI:	mamá .
+%mor:	n|mamá&f=mommy .
+%com:	le van a dar de comer , la madre habla del pollo con Rosana .
+*MOT:	nos estamos aquí ?
+%mor:	pro:obj|nos=us aux|esta-1P&PRES&PRET=be adv|aquí=here ?
+*MOT:	mira qué bien se está .
+%mor:	co|mira=look pro:int|qué=what adv|bien=well imp|se-2S&IMP=be
+	imp|esta-2S&IMP=be .
+*MOT:	qué bien se está .
+%mor:	pro:int|qué=what adv|bien=well imp|se-2S&IMP=be imp|esta-2S&IMP=be
+	.
+*MOT:	www .
+*CHI:	a ve(r) .
+%mor:	aprep|a=to inf|ve-INF=see .
+*MOT:	qué haces ?
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+*MOT:	ven Magín .
+%mor:	co|ven=come n:prop|Magín .
+*MOT:	ven .
+%mor:	co|ven=come .
+*CHI:	pana@p .
+%mor:	phon|pana .
+*CHI:	pana@p .
+%mor:	phon|pana .
+*MOT:	pana@p qué ?
+%mor:	phon|pana pro:int|qué=what ?
+*MOT:	qué dices ?
+%mor:	pro:int|qué=what v|deci-2S&PRES=say ?
+*CHI:	xxx .
+*MOT:	ponte ahí .
+%mor:	imp|pone-2S&IMP~pro:clit|2S adv|ahí=there .
+*MOT:	sal de ahí .
+%mor:	n|sal&f=salt prep|de=of adv|ahí=there .
+*MOT:	oye , hoy +//.
+%mor:	co|oye=listen cm|cm adv|hoy=today +//.
+*MOT:	ven .
+%mor:	co|ven=come .
+*MOT:	esta mañana te has pasado toda la mañana diciendo +/.
+%mor:	det:dem|este-FEM=this adv|mañana=tomorrow pro:obj|te=you
+	aux|habe-2S&PRES=have part|pasa-PPART-MASC=pass
+	det:indef|todo-FEM=all det:art|el&FEM&SG=the n|mañana&f=morning
+	ger|deci-PROG=say +/.
+*CHI:	tuta@p .
+%mor:	phon|tuta .
+*MOT:	se van .
+%mor:	pro:refl|se=itself v|i-3P&PRES=go .
+*MOT:	se va el bolso .
+%mor:	pro:refl|se=itself v|i-3S&PRES=go det:art|el&MASC&SG=the
+	n|bolso&m=money_bag .
+*MOT:	te acuerdas ?
+%mor:	pro:obj|te=you v|acorda-2S&PRES=remind ?
+*MOT:	www y luego decías otro moto .
+%mor:	coord|y=and adv|luego=afterwards v|deci-2S&PAS=say
+	det:indef|otro-MASC=other n|moto&m=guide_post .
+*CHI:	ot(r)o moto . [+ I]
+%mor:	det:indef|otro-MASC=other n|moto&m=guide_post .
+*MOT:	otro coche .
+%mor:	det:indef|otro-MASC=other co|coche .
+*CHI:	ot(r)o coche . [+ I]
+%mor:	det:indef|otro-MASC=other co|coche .
+*MOT:	y así te has pasado toda la mañana .
+%mor:	coord|y=and adv|así=thus pro:obj|te=you aux|habe-2S&PRES=have
+	part|pasa-PPART-MASC=pass det:indef|todo-FEM=all
+	det:art|el&FEM&SG=the adv|mañana=tomorrow .
+*MOT:	te acuerdas ?
+%mor:	pro:obj|te=you v|acorda-2S&PRES=remind ?
+*CHI:	ot(r)o coche .
+%mor:	det:indef|otro-MASC=other co|coche .
+*MOT:	otro coche decías , otra moto .
+%mor:	det:indef|otro-MASC=other co|coche v|deci-2S&PAS=say cm|cm
+	det:indef|otro-FEM=other n|moto&m=guide_post .
+*MOT:	así toda la mañana .
+%mor:	adv|así=thus det:indef|todo-FEM=all det:art|el&FEM&SG=the
+	adv|mañana=tomorrow .
+*MOT:	toda la mañana .
+%mor:	det:indef|todo-FEM=all det:art|el&FEM&SG=the adv|mañana=tomorrow .
+*CHI:	quito [*] moto .
+%mor:	v|quita-1S&PRES=remove n|moto&m=guide_post .
+%err:	$MOR $VFL
+%com:	el error no está claro , ser refieren a las motos que han visto por la mañana; sería un error de tiempo .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	a moto .
+%mor:	aprep|a=to n|moto&m=guide_post .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	a moto .
+%mor:	aprep|a=to n|moto&m=guide_post .
+*MOT:	la moto .
+%mor:	det:art|el&FEM&SG=the n|moto&m=guide_post .
+*MOT:	a_ver que vamos a +/.
+%mor:	co|a_ver=see pro:rel|que=that v|i-1P&PRES=go aprep|a=to +/.
+*CHI:	mamá .
+%mor:	n|mamá&f=mommy .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	no (es)tán ya@p .
+%mor:	adv|no=no aux|esta-3P&PRES=be phon|ya .
+*MOT:	notánya@p , qué es eso ?
+%mor:	phon|notánya cm|cm pro:int|qué=what cop|se-3S&PRES=be
+	pro:dem|eso=that_one ?
+*CHI:	tanya@p .
+%mor:	phon|tanya .
+*CHI:	tanya@p .
+%mor:	phon|tanya .
+*CHI:	tanya@p .
+%mor:	phon|tanya .
+*CHI:	no e(s)tán .
+%mor:	adv|no=no cop|esta-3P&PRES=be .
+*MOT:	qué quiere decir ?
+%mor:	pro:int|qué=what v|quere-3S&PRES=want inf|deci-INF=say ?
+*CHI:	&+nnya &+nnya no (es)tá xxx .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+*CHI:	que viene .
+%mor:	pro:rel|que=that v|veni-3S&PRES=come .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*CHI:	que viene .
+%mor:	pro:rel|que=that v|veni-3S&PRES=come .
+*MOT:	que viene ?
+%mor:	pro:rel|que=that v|veni-3S&PRES=come ?
+*CHI:	Totana que viene .
+%mor:	n:prop|Totana pro:rel|que=that v|veni-3S&PRES=come .
+*MOT:	ah , Rosana que viene .
+%mor:	co|ah cm|cm n:prop|Rosana pro:rel|que=that v|veni-3S&PRES=come .
+*MOT:	Rosana que viene .
+%mor:	n:prop|Rosana pro:rel|que=that v|veni-3S&PRES=come .
+*CHI:	Totana que viene .
+%mor:	n:prop|Totana pro:rel|que=that v|veni-3S&PRES=come .
+*MOT:	y te va a hacer +/.
+%mor:	coord|y=and pro:obj|te=you v|i-3S&PRES=go aprep|a=to
+	inf|hace-INF=do +/.
+*CHI:	Totana que viene .
+%mor:	n:prop|Totana pro:rel|que=that v|veni-3S&PRES=come .
+*MOT:	está arriba Rosana .
+%mor:	cop|esta-3S&PRES=be adv|arriba=above n:prop|Rosana .
+*MOT:	xxx pobrecito .
+%mor:	co:voc|pobrecito=poor_thing .
+*CHI:	po(br)ecito .
+%mor:	co:voc|pobrecito=poor_thing .
+*CHI:	pob(r)ecito .
+%mor:	co:voc|pobrecito=poor_thing .
+*MOT:	pobrecito [x 2] ?
+%mor:	co:voc|pobrecito=poor_thing ?
+*CHI:	mamoto@p .
+%mor:	phon|mamoto .
+*MOT:	uy va .
+%mor:	co|uy co|va=go .
+*CHI:	&+tate &+tate .
+%com:	le pega a la madre .
+*MOT:	no , que me has hecho pupa .
+%mor:	adv|no=no cm|cm pro:rel|que=that pro:obj|me=me
+	aux|habe-2S&PRES=have part|hace-PPART-MASC=do co:voc|pupa=pimple .
+*CHI:	&+tate &+tate &+tate .
+%act:	se ríe .
+*MOT:	uy va .
+%mor:	co|uy co|va=go .
+*MOT:	me haces daño , hombre .
+%mor:	pro:obj|me=me v|hace-2S&PRES=do v|daña-1S&PRES=harm cm|cm co|hombre
+	.
+*CHI:	&+tate .
+*MOT:	no !
+%mor:	adv|no=no !
+*MOT:	no !
+%mor:	adv|no=no !
+*CHI:	&+tate .
+*MOT:	Magín , no seas bruto .
+%mor:	n:prop|Magín cm|cm adv|no=no cop|se-2S&SUB&PRES=be
+	adj|bruto-MASC=coarse .
+*MOT:	vamos a_ver el pollo venga .
+%mor:	co|vamos=go co|a_ver=see det:art|el&MASC&SG=the n|pollo&m=chicken
+	co|venga=come_on .
+*CHI:	pollo no .
+%mor:	n|pollo&m=chicken adv|no=no .
+*MOT:	vamos a_ver el pollo .
+%mor:	co|vamos=go co|a_ver=see det:art|el&MASC&SG=the n|pollo&m=chicken .
+*CHI:	xxx &+merén &+merén .
+*MOT:	uy va .
+%mor:	co|uy co|va=go .
+*MOT:	Magín !
+%mor:	n:prop|Magín !
+*MOT:	eres un bruto .
+%mor:	cop|se-2S&PRES=be det:art|un&m=one adj|bruto-MASC=coarse .
+*MOT:	eh !
+%mor:	co|eh !
+*MOT:	por_qué +/?
+%mor:	pro:int|por_qué=why +/?
+%com:	se ríe
+*CHI:	b(r)uto .
+%mor:	adj|bruto-MASC=coarse .
+*CHI:	b(r)uto .
+%mor:	adj|bruto-MASC=coarse .
+*MOT:	vamos a_ver el pollo .
+%mor:	co|vamos=go co|a_ver=see det:art|el&MASC&SG=the n|pollo&m=chicken .
+*MOT:	a_ver si se va a caer y se va a quemar .
+%mor:	co|a_ver=see conj|si=if pro:refl|se=itself v|i-3S&PRES=go
+	aprep|a=to inf|cae-INF=fall coord|y=and pro:refl|se=itself
+	v|i-3S&PRES=go aprep|a=to inf|quema-INF=burn .
+*MOT:	ven aquí .
+%mor:	imp|veni-2S&IMP=come adv|aquí=here .
+*MOT:	ven .
+%mor:	co|ven=come .
+*CHI:	mi [x 2] e(s) mi pollo .
+%mor:	det:pos|mi=my cop|se-3S&PRES=be det:pos|mi=my n|pollo&m=chicken .
+*CHI:	pollo .
+%mor:	n|pollo&m=chicken .
+*CHI:	pollo .
+%mor:	n|pollo&m=chicken .
+*CHI:	pollo .
+%mor:	n|pollo&m=chicken .
+*CHI:	pa(ra) a(de)lante .
+%mor:	prep|para=for adv|adelante=forward .
+%xpho:	palante
+%com:	esta amalgama es muy corriente también en el lenguaje adulto .
+*CHI:	pa(ra) a(de)lante pollo xxx .
+%mor:	prep|para=for adv|adelante=forward n|pollo&m=chicken .
+%xpho:	palante
+*MOT:	cuidado , no toques , que quema !
+%mor:	co|cuidado=careful cm|cm adv|no=no v|toca-2S&SUB&PRES=touch cm|cm
+	pro:rel|que=that v|quema-3S&PRES=burn !
+@End

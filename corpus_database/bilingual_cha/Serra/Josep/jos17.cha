@@ -1,0 +1,381 @@
+@UTF8
+@PID:	11312/c-00001940-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Josep Target_Child , CAR carme Nurse , INV Investigator
+@ID:	spa , cat|Serra|CHI|1;5.18||||Target_Child|||
+@ID:	spa , cat|Serra|CAR|||||Nurse|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	j i c hi son a l' habitacio de j , j esta segut a terra amb el telefon als peus , c juga amb ell , a la major part de la transcripcio parlen en castella
+*CHI:	0 .
+%act:	agafa el telefon
+*CHI:	que hi ha [= donant l' auricular del telefon a c] ?
+*CAR:	0 .
+%act:	agafa l' auricular del telefon
+*CAR:	hola [= parlant amb el telefon de joguina] !
+*CAR:	0 .
+%act:	penja el telefon
+*CAR:	te [= donant el telefon a j] .
+*CHI:	0 .
+%act:	agafa l' auricular
+*CHI:	que hi ha [= posant'se l' auricular a l' orella] ?
+*CAR:	que [= penjant el telefon] !
+*INV:	hola josep andreu !
+*CHI:	0 [= mira a la camera amb una joguina a les mans] .
+*CAR:	0 .
+%act:	fa rodolar un cotxe
+*CAR:	pcf [% "&-um &-um" , intentant cridar l' atencio de j cap al cotxe]
+	.
+*CHI:	0 [= mira la joguina] .
+*CHI:	0 [= torna a mirar a la camera] .
+*INV:	hola !
+*CAR:	0 .
+%act:	toca la cama de j
+*CAR:	cuqui@c [= mirant a j] !
+*CHI:	0 [= segueix mirant a la camera] .
+*CAR:	mira [= agafant la joguina que te j a la ma] .
+*CHI:	0 [= mira com c juga amb la joguina] .
+*CAR:	0 .
+%act:	fa rodolar el cotxe de joguina
+*CHI:	0 .
+%act:	agafa la joguina i la manipula
+*CAR:	0 .
+%act:	fa rodar un altre cotxe
+*CHI:	0 .
+%act:	segueix mirant i manipulant la joguina que te a les mans
+*CHI:	0 .
+%act:	fa rodolar la joguina
+*CAR:	0 .
+%act:	seu a terra al costat de j
+*CHI:	0 [= mira a c i somriu] .
+@Comment:	j esta practicament encantat amb la camera , no deixa de mirar cap a la camera , c intenta cridarli l' atencio amb les joguines , j de vegades mira la joguina pero de seguida torna a mirar la camera , c agafa una joguina de construccio i construeix un pont , j , mentre tant , mira el que fa c
+*CAR:	pep [= li ensenya el pont i el fica a terra] !
+*CHI:	0 .
+%act:	allarga la ma per agafar'ho
+*CAR:	oi , el nen [= mirant a j] !
+*CHI:	0 [=! somriu] .
+*CHI:	0 .
+%act:	manipula el pont i se'l queda mirant
+*CAR:	0 .
+%act:	col'loca una peca en el pont que te j a la ma
+*CHI:	0 [= mira el pont] .
+*CHI:	nene [= mirant la peca que ha posat c] .
+*CAR:	uy , el nene [= col'locant mes peces] !
+*CHI:	0 [= mira el que fa c] .
+*CHI:	nene [= mirant el pont] .
+*CAR:	nene [= col'locant mes peces] .
+*CAR:	0 .
+%act:	segueix col'locant mes peces
+*CHI:	0 [= mira el que fa c] .
+*CHI:	nene [= mirant les peces] .
+*CAR:	el nene [= somrient] .
+*CHI:	nene [= mirant el pont] .
+*CAR:	si [= mirant a j] .
+*CHI:	0 .
+%act:	toca una de les peces i la tira
+*CAR:	ai !
+*CHI:	0 .
+%act:	segueix tirant les peces
+*CHI:	oh [= tirant peces] !
+*CAR:	oh [= imitant a j] !
+*CHI:	0 .
+%act:	desmunta tot el pont
+*CHI:	0 .
+%act:	manipula unes peces
+*CAR:	0 .
+%act:	li dona una peca
+*CHI:	0 .
+%act:	juga manipulant les peces
+*CAR:	0 .
+%act:	construeix un ninot
+*CHI:	0 .
+%act:	agafa la construccio i comenca a desmuntar'la
+*CHI:	0 .
+%act:	llenca les peces
+*CAR:	ai [= mirant a j] !
+*CHI:	0 .
+%act:	segueix desmuntant la construccio i es queda amb el cap del ninot
+*CHI:	0 [= mira el cap del ninot] .
+*CHI:	xxx .
+*CAR:	pcf [% "um" , mirant a j] ?
+@Comment:	j manipula les peces del joc de construccio , mentre c recull totes les peces i les fica de forma que j tingui que donarse la volta per que aixi estigui en direccio a la camera , c comenca a fer una altra construccio
+*CAR:	mira pep [= construint un cotxe o una nau] .
+*CAR:	pep !
+*CHI:	0 [= es torna cap a c] .
+*CHI:	pcf [>] [% "quii cua" , mirant el que fa c i somrient] .
+*CAR:	pcf [<] [% "quii" , imitant a j] .
+*CHI:	pcf [>] [% "cuaa" , somrient i mirant a c] .
+*CAR:	pcf [<] [% "quii" , posant peces] .
+*CAR:	pcf [% "jop"] .
+%act:	posa la construccio mes a prop de j
+*CHI:	oh
+	[= allarga la lletra o , mirant la construccio i aixecant un brac] !
+*CAR:	oh [= allarga la lletra o , posant peces] !
+*CHI:	0 .
+%act:	s' apropa a la construccio i li dona petons
+*CAR:	ay , cuantos besitos [= mirant a j i somrient] !
+*CHI:	0 .
+%act:	colpeja la construccio
+*CAR:	no la rompas [= posant peces] .
+*CAR:	0 .
+%act:	li apropa la construccio a j
+*CHI:	0 .
+%act:	agafa la construccio i se li cauen les peces
+*CAR:	ay !
+*CAR:	0 .
+%act:	s' apropa a j i li dona un peto a la ma
+*CHI:	0 .
+%act:	es fica una peca a la boca
+*CAR:	no , caca .
+*CHI:	0 .
+%act:	es treu la peca de la boca i la deixa caure
+*CAR:	0 .
+%act:	s' apropa i li mossega la ma
+*CHI:	0 [=! riu] .
+*CHI:	0 .
+%act:	es toca el cabell
+*CAR:	oy , que bien se peina [= agafant peces] !
+*CHI:	rum@c rum@c
+	[% "bruum , brum" , mirant cap a un canto de l' habitacio] .
+*CHI:	0 .
+%act:	es passa un altre cop la ma per els cabells
+*CAR:	<te , peinate> [>] [= girant'se per cercar quelcom] .
+*CHI:	<rum@c rum@c rum@c> [<] [% "brum brum brum"] .
+*CAR:	0 .
+%act:	li apropa un raspall
+*CHI:	0 .
+%act:	es pentina
+*CHI:	0 .
+%act:	li dona el raspall a c
+*CAR:	ahora a la tata@c , va [= donant el raspall a j] .
+*CAR:	peina a la tata@c [= abaixant el cap per a que j la pentini] .
+*CHI:	0 .
+%act:	pentina a c
+*CAR:	que bien , ay que bien [= mentre j la pentina] !
+*CHI:	0 .
+%act:	es pentina
+*CAR:	y a la tata@c xxx
+	[% "y a la tata um" , mirant a j que ha deixat el raspall a terra] .
+*CHI:	pcf
+	[% "aaah" , ficant'se els dits a la boca i inclinant el cap cap enrera]
+	.
+*CAR:	ay [= imitant a j] !
+*CHI:	0 .
+%act:	colpeja la construccio que esta a terra
+*CAR:	que haces [= mirant a j] ?
+*CAR:	que hace la tata@c ?
+*CHI:	0 .
+%act:	agafa una peca i se la fica a la boca
+*CHI:	pcf [% "aayy" , llanca la peca] .
+*CAR:	asi [= tocant'li la ma] .
+*CHI:	0 .
+%act:	torna a agafar una peca
+*CHI:	pcf [% "puyy" , es fica la peca al cap] .
+*CHI:	0 [=! riu] .
+%com:	li ha caigut la peca per darrera
+*CHI:	0 [= dona un peto al cap del ninot] .
+*CAR:	un besito al nene .
+*CHI:	0 .
+%act:	agafa el cap i se l' acosta a la boca
+*CHI:	0 [= li dona un peto] .
+*CAR:	y un ay [= mirant a j] .
+*CHI:	0 [=! riu] .
+%act:	deixa la peca a terra
+*CHI:	ay [= apropant'se a c] !
+*CAR:	ay [= imitant a j] !
+*CHI:	ay !
+*CHI:	0 .
+%act:	seu i aplaudeix
+*CAR:	bravo !
+*CHI:	0 .
+%act:	es dirigeix a quatre grapes cap al parc
+*CHI:	ay [= assenyalant quelcom que hi ha al parc] !
+*CHI:	0 .
+%act:	seu i agafa el telefon
+*CHI:	que hi ha [= ficant'se l' auricular a l' orella i mirant a c] ?
+*CAR:	que hi ha [= imitant a j] .
+*CHI:	0 .
+%act:	deixa l' auricular a terra
+*CHI:	oh [>] !
+*CAR:	<que hi ha> [<] .
+*CHI:	0 .
+%act:	es dirigeix cap a c
+*CHI:	0 .
+%act:	seu a prop de c
+*CAR:	0 .
+%act:	esta fent una construccio
+*CHI:	ay [= seient be] !
+*CAR:	ay [= imitant'lo] !
+*CHI:	0 .
+%act:	escup a la construccio que ha fet c
+*CAR:	0 .
+%act:	deixa la construccio a terra
+*CHI:	0 .
+%act:	es dirigeix a quatre grapes per agafar la construccio mentre riu
+*CAR:	0 .
+%act:	agafa la construccio
+*CHI:	0 [= mira a c] .
+*CHI:	pcf [% "ah ah" , mirant a c] .
+*CAR:	que [= deixant la construccio a terra] ?
+*CAR:	0 .
+%act:	fa rodolar la construccio i imita el soroll del cotxe
+*CHI:	0 .
+%act:	es dirigeix cap a la construccio de quatre grapes
+*CHI:	pcf [% "pi" , agafant la construccio] .
+*CHI:	pcf
+	[% "pi" , rient i tirant , per sobre el seu cap , la construccio] .
+*CAR:	anda !
+*CHI:	0 .
+%act:	seu amb una peca a la ma
+*CHI:	rum@c [% "brum" , tirant la peca per sobre el seu cap , cap enrera]
+	.
+*CHI:	ay !
+*CAR:	pcf [% "broon" , agafant una peca de terra] .
+*CAR:	rum@c [% "brum" , llancant la peca enlaire] .
+*CHI:	ay [= mirant el que fa c] !
+*CHI:	oh oh [= agafant una peca de la ma de c] !
+*CAR:	oh oh [= manipulant les peces del terra] !
+*CHI:	guau@c guau@c [% diu "guagua"] .
+*CHI:	ah [>] [= aixecant la ma i mirant cap a la finestra] ?
+*CAR:	<guau@c guau@c> [<] [% diu "guagua" , imitant a j] .
+*CAR:	no esta , no hay nada [= mirant al igual que j cap a la finestra] .
+*CHI:	0 .
+%act:	esta una estona quiet amb la peca a la ma i despres escup llancant la peca
+*CAR:	0 [=! somriu] .
+*CHI:	0 [= riu mentre manipula les peces] .
+*CHI:	pcf
+	[% "iiiii" , enf en l' ultima i , mentre aixeca la peca i despres la deixa caure]
+	.
+*CAR:	pcf [% "boom" , quan la peca cau] .
+*CAR:	0 .
+%act:	ha fet una construccio que sembla un vaixell i li ensenya a j
+*CHI:	pcf [% "ti" , dirigint el seu cos cap el vaixell , mentre somriu] .
+*CAR:	0 .
+%act:	atraca el vaixell
+*CHI:	pcf [% "ti" , intentant agafar'ho] .
+*CAR:	pcf [% "boing" , jugant amb el vaixell] .
+*CHI:	pcf [% "te te" , cada vegada que c canvia el vaixell de posicio] .
+*CHI:	rum@c rum@c [% "bruum , bruum"] .
+*CAR:	0 .
+%act:	fa rodolar el vaixell per terra
+@Comment:	c fa sorolls mentre mou el vaixell i j es queda quiet mirant a la camera , quan c deixa el vaixell j l' agafa , j desmunta el vaixell , fent pcf cada vegada que cau una peca a terra
+*CHI:	0 .
+%act:	agafa una altra peca
+*CHI:	rum@c rum@c [% "bruum bruum" , fa rodolar la peca per el terra] .
+*CHI:	0 .
+%act:	llanca la peca
+*CHI:	guau@c
+	[% diu "agua" , pero sembla que es refereix a gos , mirant cap a la finestra]
+	.
+*CAR:	que [= mirant a j] .
+*CHI:	pcf [>] [% "buf buf" , imitant els lladrucs del gos] .
+*CAR:	uy [<] !
+*CAR:	uy , que miedo !
+*CHI:	0 .
+%act:	es dirigeix de quatre grapes cap a un canto de l'habitacio per a agafar una peca
+*CHI:	pcf [% "pii" , mentre agafa la peca] .
+*CHI:	pcf [% "pi pi"] .
+%act:	va de quatre grapes darrera la peca que ha llancat
+@Comment:	j de quatre grapes va per l' habitacio i manipula les joguines , va fent pcf i riu , c l' arregla el jersei i j intenta treurese'l , c li diu que no , li apropa un cotxe i unes quantes joguines , j va de quatre grapes cap en davant i agafa un cotxe
+*CHI:	brrr@c brrr@c [% "brum rum" , agafa el cotxe a la ma , mirant'ho] .
+*CAR:	brrr@c brrr@c [% "rum rum" , imitant a j] .
+*CHI:	0 [= es gira cap a c amb la joguina a la ma] .
+*CAR:	que [= agafant la joguina que li dona j] ?
+*CHI:	brrr@c brrr@c [% "brum rum" , sembla que vulgui que c li imiti] .
+*CAR:	rum@c [% "ruum" , fent correr el cotxe] .
+*CHI:	pcf [% "pi pi pi pim" , mirant el cotxe que esta a terra] .
+*CAR:	pcf
+	[% "pi pi pi pi pi pi pi" , fent rodolar el cotxe entre les cames de j]
+	.
+*CHI:	0 [= mira el que fa c somrient] .
+%act:	aparta el cotxe
+*CHI:	0 [= mira a la camera] .
+*CAR:	pcf [% "pi pit" , tocant a j] .
+*CAR:	pcf [% "pi pi pi pi" , fent pessigolles a j] .
+*CAR:	pcf [% "pi pi pi" , fent pessigolles a j] .
+*CHI:	0 [= segueix mirant la camera] .
+*CHI:	pcf [% "pi pi" , tocant el coll de j] .
+*CHI:	0 .
+%act:	s' aparta perque sembla que li fa pessigolles
+*CHI:	0 .
+%act:	retira les nines i despres torna a seure's al costat de c
+@Comment:	c va fent pessigolles a j i li diu que el mossega , j va fent pcf i crits petits mentre c juga amb ell
+@Situation:	canvia la imatge , j esta amb un pot de colonia a les mans i se l' acosta a la boca
+@Comment:	c esta seguda vora l' armari i j te un pot de colonia , c li diu que es fiqui colonia , j fa el gest de posars' hi i despres li dona el pot a c , c li fica colonia , j es dirigeix cap a l' armari i intenta agafar quelcom que c li diu que no i llavors c li dona un altre pot de colonia , j esta jugant dintre del calaix de l' armari amb els dos pots de colonia , dona cops a l' armari , va fent pcfs
+*CHI:	pcf [% "illa" , mira dintre del calaix] .
+*CAR:	ya ya .
+*CAR:	cuidado
+	[= posant la seva ma sobre el cap de j per a que no es faci mal] .
+*CHI:	0 .
+%com:	esta amb mig cos dintre del calaix i fa soroll d'esforc
+*CAR:	hola hola [= mirant a j] !
+*CAR:	cucu@c [= quan j treu el cap] .
+*CHI:	0 .
+%act:	surt del calaix i mira les joguines que hi ha sobre l' armari
+*CHI:	ya ya [= agafant les joguines] .
+*CAR:	ya ya [= imitant'lo] .
+*CHI:	0 .
+%act:	juga amb un avio
+*CHI:	piii@c piii@c [% "pi pi" , manipula l' avio] .
+*CAR:	damelo , damelo .
+*CAR:	dame el avion [= esten el brac] .
+*CHI:	pcf [% "ajaa" , mirant l' avio] .
+*CAR:	dame [= esten la ma] .
+*CHI:	piii@c [% "piip" , mirant l' avio] .
+@Comment:	j es dirigeix cap a les peces de construccio i juga amb elles , llencantles i apartantles , mentre c comenca a cantar i para , per a que j continui , pero j segueix llencant les peces i va a buscarles de quatre grapes , j agafa el raspall i comenca a pentinar a c que fa veure que es fica molt contenta i que li agrada molt , despres j es pentina i llenca el raspall , c el renya i agafant el raspall el deixa a prop de j , aquest intenta agafarho per tornar a llencarho , pero c cada vegada que j allarga la ma , aparta el raspall
+*CHI:	nene [= intentant agafar el raspall] .
+*CAR:	nene [= imitant] .
+@Comment:	c juga amb j i li demana que li doni petons , cosa que fa j , aquesta escena es bonica per als pares
+*CHI:	pcf [% "pi" , aixecant la ma per pegar a c] .
+*CAR:	ay , xxx [% "ay pi" , queixant'se] !
+*CHI:	pcf [% "ah" , intenta agafar el raspall que te c] .
+@Comment:	c vol que j digui'dame , damelo' , i va amagant el raspall mentre j el busca i es queda bocabadat de no trobarho
+*CHI:	0 .
+%act:	es dirigeix cap a l' armari i agafa unes sabatilles
+*CHI:	pcf
+	[% "uh" , manipula les sabatilles , intentant treure els cordons] .
+@Comment:	c li diu que no renyantlo , j es dirigeix cap al cove del bany i agafa una cosa
+*CHI:	nene [= agafant una pomada] .
+*CAR:	pcf [% "um"] ?
+*CAR:	un nene .
+*CAR:	el nen .
+@Comment:	j imita els lladrucs del gos i c li demana que qui plora , j passeja per l' habitacio amb la pomada a la ma i manipulantla , c li apropa un encenedor ences i li diu que bufi pero j esta nomes per la pomada i juga amb ella , j s' aixeca i es dirigeix cap a la porta i c intenta que torni dientli que jugui amb el tocotoc i el guagua , despres j se'n va i c va darrera d' ell
+*CAR:	0 .
+%act:	entra a l' habitacio amb j als bracos
+*CHI:	guau@c guau@c [% diu "guagua"] .
+*CAR:	dale un besito al guau@c , dale un besito
+	[% diu "gua" en comptes de guau , apropant j cap a un poster que es veu un gos , tipus pastor alemany , que hi ha a la paret]
+	.
+*CHI:	0 .
+%act:	li dona un peto
+*CAR:	uy , que guau@c [% "gua"] !
+*CAR:	uy , que guau@c [% "gua"] .
+*CHI:	pcf [% "eigua eilla" , mirant el poster del gos] .
+*CAR:	oh !
+*CHI:	pcf [% "eilla" , mirant a c] .
+*CAR:	guau@c .
+*CHI:	pcf [% "yaya yayaa" , mirant el poster] .
+*CAR:	ah !
+*CHI:	pcf [% "yaya"] .
+*CAR:	ya ya , sentat .
+@Comment:	c juga amb j a que es cau del bressol i j riu , c li diu que segui a la cadira i j seu a sobre de l' os que hi ha a la cadira , j mira a la camera , c crida a j pero aquest esta jugant amb les barres del bressol , j s' aixeca i juga amb l' os , mossegantho , despres el porta a on te les peces de la construccio i seu a terra llancant l' os , c li diu que pobrecito osito
+*CHI:	0 .
+%act:	torna a agafar l' os
+*CHI:	pcf [% "agua , eh" , mirant a c] .
+*INV:	que fa l' os ?
+*INV:	que dorm l' os ?
+*CHI:	0 .
+%act:	es fica el dit a la boca i sembla negar amb el cap
+*INV:	josep andreu , que dorm l' os ?
+*CHI:	0 [= mira a e amb la ma a la boca] .
+*INV:	no ?
+*CHI:	0 .
+%act:	agafa l' os i el llenca
+@Comment:	j juga amb l' os i despres passa una estona parat amb l' os entre els bracos , c s' apropa i li dona una cullera dientli que doni'nyam-nyam' a l' os , pero j manipula la cullera i se la fica a la boca mentre mira a l' os , c i j juguen amb l' os i un vas , li donen de beure a l' os , quan c deixa el got a sobre la taula , j l'agafa i li dona a c per a que doni beure a l'os
+*CHI:	pcf [% "pi" , dirigint'se cap al bressol amb l' os a la ma] .
+*CHI:	0 .
+%act:	dona un cop amb l' os a terra
+*CHI:	te te [= agafant el got] .
+*CAR:	te te [= imitant a j i rient] .
+@Comment:	j agafa el got i li dona a c per a que doni de beure l' os , c agafa l' os a j i aquest plora , intenta agafarlo un altre cop , c li dona el got per a que li doni aigua a l' os i j fa veure que beu , deixa el got i es dirigeix cap a la cadira
+@End

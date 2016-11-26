@@ -1,0 +1,631 @@
+@UTF8
+@PID:	11312/c-00032013-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Emilio Target_Child , PAP Pap Father , NAC Nacho Observer
+@ID:	spa|Vila|CHI|1;10.10||||Target_Child|||
+@ID:	spa|Vila|PAP|||||Father|||
+@ID:	spa|Vila|NAC|||||Observer|||
+@Comment:	EMI acaba de despertarse y PAP vuelve de telefonear
+*CHI:	papá .
+*PAP:	qué ?
+*PAP:	emilio .
+*PAP:	qué ?
+*PAP:	te acuerdas de Nacho ?
+*CHI:	nacho .
+*PAP:	eh ?
+*CHI:	nacho .
+%com:	EMI señala hacia la cámara
+*PAP:	te quito esto ?
+%com:	PAP le quita el chupete
+*CHI:	no .
+*PAP:	todavía no .
+*CHI:	es Nacho .
+%com:	EMI señala a la cámara
+*PAP:	quién es aquel ?
+*PAP:	quién ?
+*PAP:	eh ?
+*CHI:	nacho .
+%com:	EMI señala a la cámara
+*PAP:	ah .
+*PAP:	nacho .
+%com:	PAP le va poniendo los zapatos
+*CHI:	nacho .
+*NAC:	qué ?
+%com:	PAP se da cuenta que un zapato no se corresponde con el otro
+*CHI:	sí .
+*PAP:	dónde está el otro zapato ?
+*PAP:	bueno .
+*PAP:	éste te va más grande .
+*CHI:	zapato no .
+%com:	EMI se toca el zapato recién puesto
+*PAP:	sí esto es un zapato hombre .
+*CHI:	no .
+%com:	PAP acaba de atarle los cordones
+*PAP:	sí ya está .
+*CHI:	zapato no .
+*PAP:	sí .
+*PAP:	ahora te pondré el otro zapato .
+%com:	PAP lo incorpora y lo baja
+*PAP:	has visto lo que hace ?
+*PAP:	nacho .
+*CHI:	nacho .
+*PAP:	sí Nacho .
+*PAP:	le has contado a Nacho todos los discos que nos has estropeado ?
+*CHI:	discos .
+%com:	EMI señala el tocadiscos
+*PAP:	sí .
+*PAP:	dónde están los discos ahora ?
+*CHI:	discos .
+%com:	EMI va hacia la habitación de al lado donde estan los discos
+*PAP:	dónde están ?
+*CHI:	discos .
+*PAP:	sí .
+*PAP:	pero no te vayas a la habitación .
+%com:	EMI ha desaparecido
+*PAP:	cuéntanos lo que ha pasado con los discos .
+*CHI:	discos .
+*PAP:	si ven .
+%com:	EMI vuelve , EMI va hacia la cámara
+*PAP:	ven aquí .
+*CHI:	qué ?
+*PAP:	siéntate aquí .
+*PAP:	vale ?
+*PAP:	que ahora te daré un poquito de merendar .
+*CHI:	sí .
+%com:	EMI vuelve y se sienta en el sofá
+*PAP:	qué quieres ?
+*CHI:	no .
+*PAP:	qué quieres ?
+*CHI:	no .
+*PAP:	me parece que no hay pan .
+*CHI:	pués sí .
+*PAP:	eh ?
+*CHI:	nacho .
+*PAP:	sí .
+*CHI:	nacho .
+%com:	EMI señala a Nac
+*NAC:	qué ?
+*PAP:	quieres galletas ?
+*CHI:	sí .
+*CHI:	galletas .
+%com:	EMI se baja del sofá
+*PAP:	no .
+*PAP:	pero no te vayas tú a buscarlas .
+*PAP:	ya te las traigo yo .
+*CHI:	nacho xxx .
+%com:	EMI en la puerta
+*NAC:	qué ?
+*CHI:	galletas ?
+*NAC:	sí .
+*NAC:	tráeme galletas .
+%com:	EMI entra corriendo
+*CHI:	nacho .
+*NAC:	qué ?
+*NAC:	dónde hay galletas ?
+*CHI:	galletas .
+%com:	EMI señala a la cocina
+*NAC:	en dónde ?
+*CHI:	galletas .
+*NAC:	dónde hay galletas ?
+%com:	EMI se va a la cocina
+*CHI:	galletas .
+%com:	EMI vuelve de la cocina
+*PAP:	vaya un desastre Emilio .
+*CHI:	galletas .
+%com:	EMI señala lo que trae PAP
+*PAP:	no .
+*PAP:	galletas no .
+*PAP:	mira .
+*PAP:	no hay galletas sino todo lo que hay es manzana .
+*PAP:	y si quieres leche .
+*PAP:	toma .
+%com:	PAP le da manzana
+*CHI:	manzana .
+%com:	EMI enseña la manzana a NAC estirando el brazo
+*NAC:	manzana .
+*NAC:	está buena la manzana ?
+*PAP:	ahora miraremos un cuento .
+*CHI:	cuento .
+*NAC:	ha ido a buscar un cuento .
+*CHI:	nacho .
+%com:	EMI va hacia PAP
+*PAP:	ven .
+*CHI:	cuento .
+%com:	PAP sienta a EMI en el sofá
+*PAP:	ay .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	0 .
+%act:	balbucea .
+%com:	PAP y EMI se miran riéndose y EMI se lleva el dedo al ojo
+*CHI:	ojo .
+*PAP:	ojo .
+*PAP:	y ésto ?
+%com:	PAP se señala la nariz
+*CHI:	ojo .
+%com:	EMI con el dedo en el ojo
+*PAP:	ojo .
+%com:	EMI se señala un zapato y se lo mira
+*CHI:	zapato ?
+*PAP:	zapato .
+*CHI:	zapato ?
+%com:	EMI se señala el otro zapato y se lo mira
+*PAP:	otro zapato .
+*CHI:	zapato .
+*PAP:	y ésto qué es ?
+%com:	PAP le señala la nariz
+*CHI:	nariz .
+*PAP:	y ésto ?
+*CHI:	nariz .
+%com:	PAP le señala la boca
+*PAP:	la boca .
+*PAP:	ésto ?
+*CHI:	ojo .
+%com:	EMI señala la cámara
+*PAP:	ojo .
+%com:	PAP le señala la cámara
+*PAP:	y ésto .
+*PAP:	ésto qué es ?
+*CHI:	oreja .
+*PAP:	oreja .
+*PAP:	y ésto ?
+%com:	PAP se señala la boca
+*CHI:	cuento .
+%com:	EMI señala el cuento
+*PAP:	ésto cuento sí .
+*PAP:	y ésto ?
+%com:	PAP le coge la mano
+*CHI:	ésto .
+*PAP:	y ésto qué es ?
+*CHI:	pupa .
+*PAP:	sí .
+*PAP:	ésto ya lo sabemos .
+%com:	PAP mueve su mano
+*PAP:	pero .
+*PAP:	y ésto ?
+*CHI:	pupa .
+%com:	EMI se mira el dedo
+*PAP:	sí .
+*PAP:	éso de ahí del dedo es pupa .
+*PAP:	daño .
+*PAP:	pupa .
+*PAP:	y ésto ?
+*PAP:	y todo ésto ?
+%com:	PAP le coge la mano
+*CHI:	no .
+%com:	EMI no deja que le toque el dedo
+*CHI:	pupa .
+*PAP:	bueno .
+*PAP:	sí pupa .
+*CHI:	nacho .
+*NAC:	qué ?
+*PAP:	y ésto qué es ?
+%com:	PAP hace adiós con la mano , EMI hace adiós con la mano
+*CHI:	adiós .
+*PAP:	sí .
+*CHI:	nacho .
+*NAC:	qué ?
+%com:	PAP y EMI con un cuento , PAP señala
+*PAP:	quién es ?
+*CHI:	mira .
+%com:	EMI pasa páginas
+*PAP:	a_ver .
+*PAP:	quién es ?
+*CHI:	no .
+%com:	PAP señala otro dibujo
+*PAP:	no ?
+*PAP:	y ésto qué es ?
+*CHI:	mira .
+%com:	EMI da la vuelta al cuento
+*PAP:	vamos a_ver .
+*CHI:	pupa .
+%com:	EMI roza el dedo con el cuento y pone cara de disgusto , PAP y EMI pasan páginas
+*CHI:	mira xxx .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	nacho .
+*CHI:	0 .
+%act:	ríe y mira a PAP
+*CHI:	mira .
+%com:	EMI señala el magnetoscópio
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	caca .
+%com:	EMI se señala la tripa
+*PAP:	quién ?
+*PAP:	tú tienes caca ahora .
+*CHI:	caca .
+%com:	EMI se va hacia el lavabo
+*PAP:	no .
+*CHI:	caca .
+%com:	EMI quieto
+*PAP:	de entrada no te cambio .
+*PAP:	todavía no te cambio .
+*PAP:	haz un poquito más .
+*PAP:	has hecho pipí también ?
+*CHI:	pipí .
+*CHI:	pipí .
+*PAP:	pipí y caca .
+*CHI:	caca sí .
+%com:	EMI vuelve
+*CHI:	caca .
+*PAP:	a_ver .
+*PAP:	acércanos el cuento éste .
+*PAP:	anda .
+%com:	PAP le alcanza un cuento
+*CHI:	oh .
+*PAP:	qué ?
+*CHI:	cuento .
+%com:	EMI coge el cuento
+*CHI:	oh .
+*PAP:	qué es ésto ?
+*CHI:	ojo .
+%com:	EMI señala un dibujo
+*PAP:	no .
+*PAP:	el ojo .
+*PAP:	dónde está el ojo ?
+*CHI:	ojo .
+*PAP:	dónde ?
+*CHI:	nariz .
+*PAP:	nariz ?
+*PAP:	dónde ?
+*CHI:	no .
+%com:	EMI vuelve hacia PAP
+*PAP:	dónde está el ojo y la nariz ?
+*CHI:	calla .
+*PAP:	calla ?
+*PAP:	calla tú .
+*CHI:	josé .
+%com:	EMI viene hacia la cámara
+*PAP:	ven aquí .
+*PAP:	corre .
+*PAP:	enséñame .
+*CHI:	josé .
+*PAP:	qué ?
+*PAP:	enséñame dónde está el ojo .
+*PAP:	dónde está el ojo ?
+%com:	EMI señala el cuento
+*CHI:	ojo .
+*PAP:	dónde ?
+*CHI:	nariz .
+*PAP:	dónde ?
+*CHI:	nariz .
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	mira xxx xxx xxx .
+%com:	EMI va hacia la cámara
+*CHI:	pupa .
+%com:	EMI se señala el dedo
+*PAP:	a_ver si sabes quién es ésta .
+*PAP:	quién es ?
+%com:	papa saca un dibujo de Cecilia , EMI se estira para cogerlo pero no puede
+*CHI:	no .
+*PAP:	quién es ?
+*CHI:	no .
+*CHI:	mira .
+%com:	EMI la señala , papa saca un dibujo de inés
+*PAP:	y ésta quién es ?
+*CHI:	no .
+*PAP:	quién es ?
+*CHI:	no .
+*PAP:	quién es ?
+*CHI:	quién es ?
+%com:	EMI va hacia la cámara
+*CHI:	josé .
+%com:	EMI con los dibujos en la mano
+*PAP:	qué ?
+*PAP:	mira .
+%com:	EMI le da a Papa uno
+*PAP:	gracias .
+%com:	EMI le da el otro a Papa pero cuando Papa está a punto de cogerlo retira la mano y se va hacia la cámara
+*PAP:	gracias .
+*PAP:	dámelo .
+*PAP:	quién es ?
+*CHI:	ten .
+%com:	EMI lo da a NAC
+*CHI:	quién es ?
+%com:	EMI vuelve hacia Papa y coge el otro dibujo y lo da a NAC
+*NAC:	toma .
+*NAC:	emilio .
+*NAC:	toma .
+*CHI:	ten .
+%com:	EMI coge los dibujos
+*CHI:	josé .
+*PAP:	qué ?
+*PAP:	va .
+*PAP:	que está .
+*CHI:	ya está .
+*PAP:	cuéntame el cuento ese .
+%com:	papá señala el cuento
+*CHI:	cuento .
+%com:	EMI coge el cuento , EMI da el cuento a NAC
+*CHI:	nacho .
+*PAP:	0 .
+%act:	bosteza .
+%com:	EMI imita el bostezo
+*PAP:	0 .
+%act:	ríe .
+*PAP:	no .
+*CHI:	nacho .
+%com:	EMI quiere coger un objeto del vídeo , papa no le deja
+*PAP:	no .
+*CHI:	nacho .
+*PAP:	yo soy papá .
+*CHI:	nacho .
+*PAP:	soy papá .
+*PAP:	qué quieres decir con Nacho ?
+*PAP:	eh ?
+*CHI:	nacho .
+*PAP:	qué quieres decir con éso ?
+*CHI:	mira .
+%com:	EMI extiende hacia Papa el objeto
+*PAP:	qué ?
+*CHI:	mira .
+*CHI:	nacho .
+%com:	EMI da el nuevo objeto a NAC
+*NAC:	té .
+*CHI:	ten .
+%com:	EMI se lo da a PAP pero no llega
+*CHI:	nacho .
+%com:	EMI se lo vuelve a traer
+*CHI:	nacho .
+*NAC:	qué ?
+*CHI:	no .
+*NAC:	no ?
+%com:	EMI se va
+*NAC:	para mí .
+*PAP:	para mí .
+%com:	EMI vuelve
+*CHI:	ten .
+%com:	EMI se lo da a PAP
+*CHI:	mira .
+%com:	EMI quiere mirar por la cámara
+*CHI:	quién es ?
+%com:	EMI mira por delante
+*PAP:	por ahí no verás nada .
+*CHI:	nada .
+*PAP:	nada .
+*CHI:	mira .
+*PAP:	quién es ?
+*PAP:	quién es el que hay ahí ?
+*CHI:	pa(ra) tí .
+*PAP:	eh ?
+*CHI:	ah .
+%com:	EMI sale corriendo detrás de la cámara
+*CHI:	nacho .
+%com:	EMI va hacia la cámara
+*NAC:	qué ?
+*CHI:	mira .
+*CHI:	ten .
+%com:	EMI quiere que NAC le de un cuento
+*CHI:	mamá ?
+%com:	EMI consigue el cuento
+*CHI:	cuento .
+%com:	EMI le da el cuento a PAP
+*PAP:	toma .
+*PAP:	emilio .
+*PAP:	a_ver .
+*PAP:	qué es ésto ?
+*CHI:	no .
+%com:	EMI va hacia la cámara
+*PAP:	no quieres jugar ?
+*PAP:	eh ?
+*CHI:	nacho .
+%com:	NAC no le deja la cámara y va hacia PAP
+*CHI:	josé .
+*PAP:	qué ?
+*CHI:	pupa .
+%com:	EMI extiende una mano
+*PAP:	sí , yo ya conozco ese juego .
+*PAP:	cuál es ?
+*CHI:	pupa .
+%com:	EMI extiende la otra mano
+*PAP:	es en la otra mano .
+*PAP:	ésto es la pupa .
+*CHI:	pupa .
+*CHI:	pupa .
+%com:	EMI quiere pasar y PAP no le deja
+*PAP:	qué ?
+*CHI:	no .
+*CHI:	nacho .
+*PAP:	qué ?
+*CHI:	pupa .
+%com:	EMI ve la estufa y la señala
+*PAP:	sí .
+*PAP:	te hiciste pupa con la estufa ?
+*CHI:	pupa .
+%com:	EMI mira a PAP con el dedo estirado
+*PAP:	te hiciste daño .
+*PAP:	dónde te hiciste daño con la estufa ?
+*PAP:	dónde ?
+%com:	EMI vuelve sobre sus pasos
+*CHI:	pupa .
+*PAP:	pero dónde ?
+%com:	EMI intenta subir a la mesa
+*PAP:	en el culo .
+*CHI:	papá .
+*CHI:	culo .
+*PAP:	qué ?
+*PAP:	culo .
+%com:	EMI va hacia NAC
+*PAP:	dónde está el culo ?
+*CHI:	culo .
+*CHI:	mira .
+*CHI:	nacho .
+*CHI:	manzana .
+*PAP:	manzana .
+*CHI:	ven .
+%com:	EMI va a donde PAP y le coge del brazo estirándole
+*CHI:	manzana .
+*PAP:	qué quieres ?
+*CHI:	manzana .
+*PAP:	vaya .
+*PAP:	te voy a dar un poquito más de manzana .
+*PAP:	ven .
+*CHI:	manzana .
+*CHI:	nacho .
+%com:	EMI vuelve comiendo manzana
+*CHI:	papá .
+%com:	EMI quiere subir a la falda
+*PAP:	qué ?
+*PAP:	qué quieres ?
+*CHI:	no .
+%com:	PAP lo sube a la falda
+*CHI:	josé .
+%com:	EMI se acaba la manzana
+*PAP:	qué ?
+*CHI:	manzana .
+%com:	EMI va hacia PAP y señala la cocina
+*PAP:	no .
+*PAP:	más manzana no .
+*CHI:	manzana !
+*PAP:	no .
+*PAP:	le has enseñado a Nacho Lili .
+*PAP:	el pajarito .
+*CHI:	no .
+*CHI:	lilí .
+%com:	EMI va hacia la terraza
+*PAP:	sí .
+*CHI:	vamos .
+%com:	EMI va hacia PAP
+*PAP:	vamos ?
+*PAP:	dónde ?
+*CHI:	vamos .
+%com:	EMI le coge del brazo
+*PAP:	dónde ?
+*CHI:	vamos .
+*PAP:	no .
+*PAP:	yo no voy a ningún sitio .
+*PAP:	yo me quedo aquí .
+*CHI:	música .
+%com:	el disco puesto deja de sonar
+*PAP:	ahora empezará otra vez .
+*PAP:	a_ver .
+%com:	comienza la música y baila
+*CHI:	josé .
+*PAP:	qué ?
+*CHI:	no sé que +...
+*CHI:	0 .
+%act:	canta .
+*PAP:	no sé que +...
+*PAP:	0 .
+%act:	canta .
+*CHI:	no sé .
+*CHI:	no sé qué .
+*PAP:	no sé qué .
+*CHI:	cuento .
+%com:	EMI coge un cuento
+*PAP:	sí .
+*CHI:	mira .
+%com:	EMI lo abre y señala un caballo
+*PAP:	un caballo .
+*PAP:	no hay un pájaro ahí también .
+*PAP:	no hay un Lilí ahí .
+*CHI:	caballo .
+%com:	EMI pasa páginas
+*PAP:	qué ?
+*CHI:	caballo .
+*PAP:	un caballo .
+*PAP:	ésto sí es un caballo .
+*PAP:	y ésto .
+*PAP:	ésto qué es ?
+%com:	papa señala un Papájaro
+*CHI:	lilí .
+*PAP:	ah .
+*PAP:	y ésto qué es ?
+%com:	EMI se va , PAP señala un Papájaro , EMI intenta subirse a la mesa
+*PAP:	y ésto qué es ?
+*CHI:	no .
+*PAP:	emilio .
+*PAP:	qué es ésto ?
+*CHI:	mira .
+*PAP:	emilio .
+*CHI:	mira .
+*PAP:	emilio .
+*CHI:	qué ?
+*PAP:	ésto qué es ?
+*CHI:	papá .
+*PAP:	qué es ésto ?
+*CHI:	papá !
+*PAP:	qué ?
+*CHI:	mira .
+*CHI:	perro .
+%com:	EMI se centra en el cuento desde lejos y lo señala
+*PAP:	qué ?
+*CHI:	perro .
+*PAP:	ah .
+*PAP:	sí .
+*PAP:	qué es ésto ?
+*CHI:	perro .
+%com:	EMI vuelve hacia el cuento
+*CHI:	mira .
+%com:	EMI pasa páginas
+*PAP:	el qué .
+*PAP:	ésto qué es ?
+*CHI:	perro .
+*PAP:	y ésto qué es ?
+*CHI:	perro .
+*PAP:	perro sí .
+*CHI:	perro .
+*PAP:	y ésto ?
+*CHI:	lilí .
+*PAP:	dónde está el Lilí ?
+*PAP:	y ésto qué es ?
+*CHI:	lilí .
+*PAP:	lilí .
+*PAP:	y ésto de aquí ?
+%com:	papá señala un perro
+*PAP:	y ésto ?
+*CHI:	ah .
+%com:	EMI quiere pasar páginas
+*PAP:	bueno .
+*PAP:	pués ve lo que quiere .
+*CHI:	perro .
+*PAP:	dónde está el perro ?
+*PAP:	aquí no hay ningún perro .
+*CHI:	perro .
+*PAP:	no .
+%com:	PAP pasa páginas hacia atrás
+*PAP:	aquí tampoco .
+*CHI:	perro .
+*PAP:	y ésto ?
+*CHI:	lilí .
+*PAP:	todo lo que vuela no son Lilis .
+*PAP:	ésto es una mariposa .
+*CHI:	mariposa .
+*PAP:	y ésto ?
+*PAP:	y ésto qué es ?
+*CHI:	caballo [% parece que dice "cacallo"] .
+*PAP:	cacallo ?
+*PAP:	caballo .
+*PAP:	y ésto ?
+*CHI:	0 .
+%act:	balbucea .
+*PAP:	qué ?
+*PAP:	qué es ésto ?
+*CHI:	perro .
+*PAP:	un perro .
+*PAP:	no .
+*PAP:	medio caballo con sombrero .
+*CHI:	caballo .
+*PAP:	con sombrero de copa .
+*PAP:	y ésto qué es ?
+*CHI:	caballo [% parece que dice "cacallo"] .
+*PAP:	otro cacallo .
+*PAP:	o sea un caballo .
+*PAP:	y ésto qué es ?
+*CHI:	lilí .
+*PAP:	ésto es una abeja muerta .
+*PAP:	o sea un Lilí para tí .
+*PAP:	muy bien .
+*CHI:	caballo .
+*CHI:	caballo ?
+%com:	EMI se desentiende del cuento
+*CHI:	nacho .
+*CHI:	josé .
+*CHI:	nacho .
+*CHI:	papá .
+@End

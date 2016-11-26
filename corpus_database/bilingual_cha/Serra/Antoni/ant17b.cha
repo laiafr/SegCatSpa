@@ -1,0 +1,225 @@
+@UTF8
+@PID:	11312/c-00001900-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Antoni Target_Child , NOI noia Nurse , MAR mare Mother , PAR pare Father
+@ID:	spa , cat|Serra|CHI|1;5.19||||Target_Child|||
+@ID:	spa , cat|Serra|NOI|||||Nurse|||
+@ID:	spa , cat|Serra|MAR|||||Mother|||
+@ID:	spa , cat|Serra|PAR|||||Father|||
+@Comment:	n es la mainadera d' a , a i n estan jugant amb un joc de peces de colors , a esta de peu i va buscant les peces que li diu n
+*NOI:	a ver como coges el blanco .
+*CHI:	0 .
+%act:	agafa una peca
+*NOI:	muy bien .
+*NOI:	no , ese no esta ahi antoni .
+@Comment:	n i a estan seguts a terra jugant amb les peces
+*NOI:	uno .
+*NOI:	ahora este [= va col'locant una peca dintre d'altra] .
+*NOI:	ahora ese .
+*NOI:	venga .
+*NOI:	muy bien .
+*CHI:	0 .
+%act:	va ficant una peca dintre de l' altra com feia n
+*NOI:	ahora cual ?
+*NOI:	a ver .
+*NOI:	antoni , cual ?
+*NOI:	ahora este .
+*CHI:	0 .
+%act:	agafa la tapa del joc
+*NOI:	no , mira .
+*NOI:	mira antoni .
+*NOI:	mira que juego .
+*NOI:	no , eso no .
+*NOI:	eso dejalo .
+*NOI:	ahora este .
+*CHI:	0 .
+%act:	no vol jugar amb les peces i continua amb la tapa a la ma dreta
+*NOI:	cual de estos [= li ensenya dues peces] ?
+*NOI:	ah !
+*NOI:	que lo quieres tapar .
+*NOI:	muy bien .
+*CHI:	0 .
+%act:	agafa la tapa i tapa el joc de peces
+*NOI:	a ver como lo tapas .
+*NOI:	ven , ven .
+*NOI:	antoni !
+*CHI:	0 .
+%act:	s' aixeca i es posa a correr per l' habitacio
+*NOI:	ay , que hay un guau@c gos [/?] !
+@Comment:	n i a tornen a estar seguts a terra i juguen altra vegada amb el joc de peces
+*NOI:	tienes que seguir antoni [= li dona unes peces] .
+*NOI:	xxx .
+*NOI:	venga a ver como lo montas tu .
+*NOI:	mira , asi , venga .
+*CHI:	0 .
+%act:	agafa dues peces i intenta ficar una dintre de l'altra
+*NOI:	va , ahora montalas .
+*NOI:	ahora este .
+*NOI:	ahora el blanco .
+*NOI:	a ver antoni , el blanco .
+*NOI:	no , ese no .
+*CHI:	0 .
+%act:	va agafant i deixant les peces per provar quina pot ficar dintre d' una altra
+*NOI:	el blanco .
+*NOI:	no !
+*NOI:	lo haces mal antoni .
+*NOI:	no .
+*NOI:	no .
+*NOI:	no puede ir asi
+	[= li diu aixo perque a posa una peca a sobre de l' altra , pero no dintre]
+	.
+*NOI:	que no ves que no queda bien .
+*NOI:	no !
+*NOI:	ves .
+*CHI:	0 .
+%act:	deixa les peces i s' aixeca
+*CHI:	pcf [% "tatu" , toca la tapa del joc] .
+*NOI:	monta una casita .
+*NOI:	va !
+*NOI:	a ver como la montas .
+*NOI:	a ver como la montas .
+*CHI:	tele [= mirant en direccio a n que no l' agafa la camera] .
+*NOI:	la tele no .
+*NOI:	venga .
+*NOI:	a ver como la montas .
+*NOI:	va .
+*CHI:	0 .
+%act:	agafa la tapa , s' aixeca i comenca a correr en direccio a n
+*NOI:	no , para aca no puedes venir .
+*NOI:	va , corre , que te estan haciendo una foto .
+*CHI:	0 .
+%act:	torna on te les joguines
+*CHI:	a foto [% "a toto" , posa la tapa sobre la joguina] .
+*NOI:	si , una foto .
+*CHI:	0 .
+%act:	torna a anar cap on esta n
+*NOI:	va , ahora juega con aquello redondo .
+*NOI:	venga !
+*NOI:	con eso redondo .
+*NOI:	el rojo , coge el rojo .
+*NOI:	no !
+*NOI:	el rojo antoni .
+*CHI:	0 .
+%act:	agafa una peca que no es la que li diu n
+*NOI:	no te va bien .
+*NOI:	ya veras .
+*NOI:	no .
+*CHI:	0 .
+%act:	segueix agafant peces que no son la vermella
+*CHI:	pcf [% "hi" , es com una queixa perque no li surt be el joc] .
+*NOI:	claro , si no lo haces bien , como te va a ir .
+*CHI:	pcf [% "uili"] .
+*NOI:	no !
+*NOI:	lo haces todo mal .
+*NOI:	tiene que ser primero +...
+*CHI:	0 .
+%act:	comenca a caminar i es para un segon per mirar una nina que hi ha a terra
+*NOI:	ay !
+*NOI:	mira el nene .
+*NOI:	que has visto al nene ?
+*NOI:	ay !
+*NOI:	hazle un mimito al nene .
+*NOI:	corre , coge al nene y hazle un mimito .
+*CHI:	0 .
+%act:	torna on estan totes les joguines
+*NOI:	no le haces un mimito al nene ?
+*NOI:	eh ?
+*CHI:	0 .
+%act:	comenca a donar voltes entre les joguines
+*NOI:	no le haces un mimito ?
+*CHI:	a casa [% "a tata" , i agafa la tapa d' un joc] .
+*NOI:	la casa claro .
+*CHI:	pcf [% "ah ah ah"] .
+*NOI:	no , por aqui no puedes ir .
+*NOI:	eh ?
+*NOI:	antoni .
+*CHI:	0 .
+%act:	torna una altra vegada on te les joguines
+*NOI:	te gusta <la (.)> [/?] la casa ?
+*NOI:	a ver como juegas con la casa antoni .
+*CHI:	casa [% "tata" , mentre deixa la tapa sobre el joc] .
+*CHI:	casa [>] [% "tata"] .
+*NOI:	la [<] casa , claro .
+@Comment:	n i a apareixen per una porta que dona a l'habitacio de les joguines
+*CHI:	pcf [% "ah"] .
+*CHI:	pcf
+	[% "eh eh eh" , es com una exclamacio perque li cau a terra una cosa que portava a la ma]
+	.
+*NOI:	toma !
+*NOI:	venga [= li posa a terra una joguina] .
+*CHI:	pcf [% "iii" , ho diu mentre s' apropa a la joguina] .
+*NOI:	venga .
+*CHI:	0 .
+%act:	li dona uns cops amb una cosa que porta a la ma i es torna a aixecar i a caminar per l' habitacio
+*CHI:	pcf [% "iii"] .
+*NOI:	te montamos en la moto ?
+*NOI:	eh , antoni , te montamos en la moto ?
+*NOI:	ven antoni .
+*NOI:	ven .
+*CHI:	0 .
+%act:	esta tocant les joguines que te a prop , seu i no sembla fer'li massa cas a n
+*NOI:	ven , montate en la moto , ven .
+*CHI:	0 .
+%act:	segueix jugant i ignora el que diu n
+*CHI:	0 .
+%act:	comenca a correr
+*NOI:	ven .
+*NOI:	te montas en la moto ?
+*CHI:	0 .
+%act:	torna jugar amb les joguines
+*NOI:	y tu la pones en marcha (.) y todo .
+*CHI:	0 .
+%act:	s' aixeca i amb la joguina a la ma comenca a caminar cap a on es deu trobar n
+*NOI:	te montas en la moto ?
+*NOI:	mira , ves antoni , ya veras como te xxx .
+*NOI:	ven montate aqui .
+@Comment:	a esta jugant i n parla amb e , a s' aixeca i se'n va cap on te la moto i l' agafa per la roda
+*MAR:	que es eso antoni ?
+*MAR:	una rueda .
+*PAR:	quina roda .
+@Comment:	a segueix jugant amb la moto i li arranca una tira de paper que estava enganxada a la moto i amb la tira a la ma es dirigeix cap als seus pares que nomes es senten pero no es veuen
+*CHI:	roto [% "toto"] .
+*CHI:	roto [% "toto"] .
+*CHI:	roto [% "toto"] .
+@Comment:	se senten veus de fons pero no s' enten el que diuen
+*MAR:	lo has roto verdad ?
+*PAR:	enganxa'l .
+*PAR:	enganxa'l [= assenyalant la moto amb els dits] .
+*CHI:	0 .
+%act:	intenta enganxar la tira de paper a la moto
+@Comment:	a esta a la mateixa habitacio pero ja no amb la moto , sino amb un cavall de cartro , se sent a m pero no es veu
+*CHI:	0 .
+%act:	es dirigeix a una porta i la comenca a empenyer com si la volgues obrir
+*MAR:	que pasa ?
+*MAR:	eh ?
+*CHI:	0 .
+%act:	comenca a correr en direccio on es suposa que hi es m
+*MAR:	que es esto ?
+*MAR:	que es esto que tiene la xxx ?
+*MAR:	eh ?
+*CHI:	0 .
+%act:	agafa la tapa d' una joguina de construccio i se'n va corrent cap a un altre lloc
+*CHI:	pcf [% "aca" , potser es refereix a la tapa del joc] .
+*CHI:	0 .
+%act:	es gira , es queda mirant quelcom i es para
+*CHI:	nene ?
+*CHI:	nene .
+*CHI:	nene [= deixa la tapa de la joguina a terra] .
+*CHI:	nene .
+*CHI:	nene [= es dirigeix cap on te les joguines i agafa una altra] .
+*MAR:	donde esta el nene ?
+*MAR:	donde esta ?
+*CHI:	nene .
+*CHI:	0 .
+%act:	comenca a correr amb la joguina a la ma
+*MAR:	te vas a caer .
+*CHI:	nene [= torna cap a les joguines] .
+*CHI:	nene
+	[= li cau la joguina que portava a la ma i la col'loca en posicio vertical a terra]
+	.
+@Comment:	a esta de peu , aturat , de sobte se sent un soroll com si s' obris una porta i apareix n
+*CHI:	mary [= comenca a correr en direccio a n] !
+*NOI:	que no juegas antoni ?
+*NOI:	eh !
+@End

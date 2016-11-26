@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother, EVA Sister
+@ID:	cat|change_me_later|MIR|2;1.2||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|EVA|||||Sister|||
+@Date:	22-DEC-1995
+@Location:	in the bedroom
+@Activities:	MIR is playing with a doll
+@Comment:	MOT is video-taping
+*MIR:	0 .
+%act:	is trying to take a diaper from a bag
+*MOT:	un dodotis pel nino .
+*MIR:	mira porten dodotis !
+%act:	looking at a fix on the bag
+*MOT:	sí (.) porten dodotis !
+*MOT:	què fas ?
+*MIR:	(a)gafant un dodotis .
+*MOT:	(a)gafant un dodotis ?
+*MOT:	no podràs (.) Mireia (.) posa'li de broma .
+*MIR:	broma [= boma] ?
+*MOT:	de broma (.) de broma (.) no li posis un dodotis (.) neteja'l amb
+	l'esponja (.) a veure ?
+*MIR:	0 .
+%act:	takes a sponge and cleans the doll
+*MOT:	què netejes ?
+*MIR:	(a)gafar orinalet [= nunullet] .
+*MIR:	ara vinc .
+*MOT:	què fas ?
+*MIR:	(a)gafar orinalet [= nunullet] .
+*MOT:	agafar l'orinalet ?
+*MOT:	vale .
+*MIR:	0 .
+%act:	leaves the bedroom and returns with a potty . EVA is crying
+*MOT:	què dius carinyo ?
+*MIR:	a plora Eva .
+*MOT:	plora l'Eva ?
+@End

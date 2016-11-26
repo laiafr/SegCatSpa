@@ -1,0 +1,202 @@
+@UTF8
+@PID:	11312/c-00028077-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , ROS rosa Nurse , MAR mare Mother , QUI quim Brother , INV Investigator
+@ID:	cat|Serra|CHI|1;9.24||||Target_Child|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	es l' hora del berenar , g es assegut a una cadira , r es present , son al menjador petit de la casa , g te una cullera a la ma i observa r que no es veu a la pantalla , entra el gos de la familia en dau
+*CHI:	0 .
+%com:	assegut a la trona , cullera en ma
+@Comment:	el gos acosta el morro a la cuixa d' en g
+*CHI:	0 .
+%act:	es gira de costat , mira cap a terra , on es el gos
+*CHI:	hola dau [% diu "pau" en comptes de dau] !
+*ROS:	hola dau !
+*CHI:	hola dau [% diu "pau" en comptes de dau , mirant el gos] !
+*CHI:	hola dau [% diu "pau" en comptes de dau , va seguint el gos amb la mirada] !
+@Comment:	r se'n va davant g amb un flam a la ma
+*ROS:	mira que tinc !
+%act:	obre el flam i mira a g
+*ROS:	apa !
+*CHI:	vine [= mirant el gos] !
+*ROS:	en guillem es menja un flam .
+*CHI:	eh , vine [= ho diu al gos] !
+*ROS:	i se'l menja tot .
+%act:	li fica cullerada a la boca
+*CHI:	tot [= busca el gos amb la mirada] .
+*ROS:	i li agrada molt .
+*ROS:	que t' agrada molt ?
+@Comment:	g no mira a r , te una cullera a la ma i dona cops a la taula
+*ROS:	digues , em fare molt gran .
+%act:	li fica una cullerada a la boca
+@Comment:	g va donant cops amb la cullera
+*ROS:	eh , guillem que et faras molt gran ?
+@Comment:	g va mirant la cullera que te a la ma i no es mira a r
+*ROS:	a veure aquesta boca [= amb la cullera a la ma] .
+*CHI:	0 [= mira a r] .
+*ROS:	0 .
+%act:	li fica la cullera a la boca
+@Comment:	g va manipulant la cullera pero no mastega
+*ROS:	guillem a veure la boca ?
+*CHI:	0 [= distret no se la mira] .
+*ROS:	la boca !
+*CHI:	0 [= no li fa cas] .
+*ROS:	guillem !
+*CHI:	0 [= se la mira] .
+%act:	obre la boca
+*ROS:	ah !
+%act:	li fica una cullerada a la boca
+@Comment:	g va mastegant i manipulant sense mirar a r
+*ROS:	que es bo ?
+%act:	li fica la cullerada a la boca
+*ROS:	que es bo guillem ?
+*CHI:	0 [= no se la mira] .
+*ROS:	que es bo ?
+@Comment:	g deixa caure la cullera que tenia a la ma i mira a terra
+*ROS:	que ha passat ?
+*ROS:	t' ha caigut ?
+@Comment:	g es tira cap avall per baixar de la cadira
+*ROS:	ja t' ho cullo !
+%act:	agafa en g pels bracos , i el torna a seure a la cadira
+*ROS:	no et moguis !
+*ROS:	tu seu i no et moguis !
+*ROS:	a veure guillem [= mirant per terra] !
+*ROS:	te .
+%act:	recull l' objecte
+*CHI:	0 .
+%act:	es tapa la cara amb les mans
+*ROS:	guillem ara tu .
+*ROS:	obre la boca , ah ah !
+*CHI:	0 [= obre la boca] .
+*ROS:	0 .
+%act:	li fica la cullera a la boca
+@Comment:	r acaba d' escurar el flam i li dona la darrera cullerada de flam al nen
+*ROS:	ja esta tot , tot , ostres !
+%act:	li fica cullera a la boca
+*ROS:	digues'li a la maria rosa [% diu "diga'li" en comptes de digues'li , es refereix a l' observadora] .
+*ROS:	tot , tot .
+%act:	l' eixuga la cara amb el pitet
+*CHI:	tot , tot [% diu "tot to"] .
+*ROS:	digues'li [% diu "diga'li" en comptes de digues'li] .
+*ROS:	em fare molt gran .
+%act:	aixeca els bracos
+*CHI:	xxx em xxx xxx [% diu exactament "xxx em an an" , aixeca un brac] .
+*ROS:	molt , molt .
+*CHI:	molt , molt .
+*ROS:	soc molt guapo !
+%act:	li treu el pitet del coll
+*CHI:	xxx molt guapo [% diu "uapu" en comptes de guapo] !
+*ROS:	m' ho he menjat tot !
+@Comment:	g comenca a baixar de la cadira
+*ROS:	digues , vaig a veure la mare .
+*ROS:	digues'li que vas a veure la mare [% diu "diga'li en comptes de digues'li"] .
+@Comment:	g acaba de baixar i agafa un paper a la ma
+*CHI:	xxx a la mare [= a terra , dret] .
+*ROS:	adeu guillem .
+@Comment:	g se'n va corrent cap a la porta que separa la cuina del menjador petit
+*ROS:	guillem [= asseguda] !
+*CHI:	adeu .
+%act:	es gira
+*CHI:	xxx a la mare .
+%act:	fa puntetes per agafar el pany de la porta
+*ROS:	no pots [= asseguda a la cadira no surt a la pantalla] .
+*ROS:	que no pots ?
+*CHI:	no pot [= de puntetes aferrat al pany] .
+*ROS:	no pots [=! riu] ?
+@Comment:	g fa intents per obrir la porta i no contesta
+*ROS:	que passa guillem ?
+*CHI:	no puc ?
+%act:	es deixa anar del pany
+*ROS:	que passa ?
+*CHI:	xxx a la mare .
+*ROS:	que t' ajudo ?
+*CHI:	si .
+*ROS:	que t' ajudo ?
+*CHI:	ajudo [% diu "judo" , mirant a r] .
+*ROS:	t' ajudo ?
+*CHI:	ajudo [% diu "judo"] .
+*ROS:	t' ajudo ?
+*CHI:	ajudo [% diu "judo"] .
+*ROS:	va que t' ajudo .
+%act:	s' aixeca i obre la porta
+@Comment:	a la cuina hi ha m , q , r , g i el gos , g va obrint i tancant la tapa de les escombraries , despres g agafa una capsa d' espelmes s' asseu a terra i manipula la capsa , te un xuclador a la boca
+*INV:	que fas guillem ?
+*CHI:	0 .
+%act:	mira a e , amb xuclador a la boca i espelmes a la ma
+*CHI:	xxx .
+*INV:	que es el que tens a la ma ?
+*CHI:	xxx dau [% diu "pau" en comptes de dau , va manipulant la capsa] .
+*ROS:	digues .
+*ROS:	son espelmes .
+*CHI:	espelmes [% diu "emes"] .
+*ROS:	amb el xumet@c a la boca no .
+*CHI:	te .
+%act:	s' aixeca de terra , dona el xuclador a rosa
+*ROS:	gracies .
+%act:	l' agafa
+@Comment:	g torna a seure a terra
+*INV:	i que fas amb les espelmes guillem ?
+@Comment:	g continua manipulant , s' aixeca
+*CHI:	el dau [% diu "a pau" , ensenya la capsa a e] .
+*QUI:	espelmes .
+%act:	s' acosta a g
+*QUI:	0 .
+%act:	intenta agafar la capsa d' espelmes
+*CHI:	no !
+%act:	enretira la capsa i la protegeix amb el brac
+@Comment:	g s' asseu a terra i q tambe
+*QUI:	0 .
+%act:	intenta agafar la capsa d' espelmes
+*CHI:	no , eh [=! crida] !
+%act:	agafa la capsa
+@Comment:	interve m per posar pau
+*MAR:	quim doncs ara rebras .
+%act:	li dona un cop
+@Comment:	m surt de la cuina , q s' aixeca plorant i se'n va a una cambra petita al costat de la cuina , g sol a la cuina , assegut a terra amb la capsa sota el brac
+*INV:	que fa el quim ?
+%add:	GUI
+*INV:	guillem que fa el quim ?
+*CHI:	0 [= mira a e i assenyala a q amb el dit] .
+*CHI:	alla plora [% diu "pora" en comptes de plora] .
+*INV:	plora ?
+*CHI:	plora [% diu "pora" , continua manipulant la capsa] .
+%act:	trenca la capsa de les espelmes
+@Comment:	m ha tornat i parla amb q que esta assegut a la cambra petita
+*MAR:	tens soneta .
+%add:	QUI
+*CHI:	soneta .
+*MAR:	xxx has d' anar a dormir .
+%add:	QUI
+*MAR:	tu has dormit guillem ?
+*MAR:	que has dormit tu ?
+*CHI:	si [= continua amb la capsa d' espelmes] .
+*MAR:	tens soneta guillem ?
+*CHI:	0 .
+%act:	tocant la capsa d' espelmes
+*MAR:	eh , tens soneta tu ?
+*CHI:	si [= mira a m] .
+*MAR:	vols anar a dormir ?
+*CHI:	anar a dormir [% "na domi" , continua desmuntant la capsa i no mira a m] .
+*MAR:	anem a dormir .
+*MAR:	va !
+*MAR:	anem a dormir .
+@Comment:	g acaba de trencar la capsa i treu una espelma
+*CHI:	mira [= amb l' espelma a la ma a e] !
+*INV:	que es ?
+*CHI:	xxx dau [% diu "pau" en comptes de dau , mirant la espelma] .
+*INV:	espelma .
+@Comment:	g sense mirar torna a ficar l' espelma dintre la capsa , despres treu una espelma
+*CHI:	xxx [= amb l' espelma a la ma] .
+%add:	INV
+*INV:	que m' ho dones ?
+@Comment:	g torna a deixar l' espelma , s' aixeca amb la capsa a la ma
+*CHI:	mira !
+%act:	ensenya la capsa a e
+*INV:	ja ho veig .
+*CHI:	xxx dau [% diu "pa dau" , s' ajup] .
+@Comment:	m juga amb q a la cambra del costat
+@End

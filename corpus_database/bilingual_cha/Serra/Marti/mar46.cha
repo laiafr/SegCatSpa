@@ -1,0 +1,845 @@
+@UTF8
+@PID:	11312/c-00001979-1
+@Begin
+@Languages:	spa , cat
+@Participants:	CHI Marti Target_Child , VIA avia Grandmother , INV Investigator
+@ID:	spa , cat|Serra|CHI|3;10.04||||Target_Child|||
+@ID:	spa , cat|Serra|VIA|||||Grandmother|||
+@ID:	spa , cat|Serra|INV|||||Investigator|||
+@Comment:	MAR esta assegut en una cadireta mirant contes amb la seva germaneta que esta menjant una galeta
+*CHI:	jo xxx .
+*CHI:	vull una galeta .
+*CHI:	vull una galeta .
+*VIA:	ara te la donare marti .
+*VIA:	pero demana'la d' una altra manera .
+*VIA:	digues avia , per favor , una galeta .
+*CHI:	va .
+*CHI:	avia per favor dona'm una galeta .
+@Comment:	enraonen els adults , VIA seu en una cadireta al costat de MAR
+*VIA:	a veure marti .
+*CHI:	per aqui [% obre un conte] .
+*VIA:	comencem ja ?
+*CHI:	pel comencament .
+*CHI:	aqui .
+*VIA:	pero , escolta'm , primer abans de comencar a llegir m' has de dir
+	que has fet avui a l' escola .
+*VIA:	com es diu la teva senyoreta de l' escola ?
+*CHI:	angels .
+*VIA:	i quins nens ?
+*CHI:	<el el el> [/] el guifre .
+*CHI:	<i el oriol> [>] .
+*VIA:	<quants amics> [<] tens ?
+*VIA:	a veure , explica'm' ho .
+*CHI:	el guifre i el oriol .
+*VIA:	el guifre i l' oriol i qui mes ?
+*CHI:	res mes .
+*VIA:	i no hi ha cap nena amigueta teva ?
+*CHI:	si .
+*CHI:	la marta xxx [% no entenc be el cognom] .
+*VIA:	la marta ?
+*CHI:	la marta xxx .
+*VIA:	i qui mes ?
+*CHI:	i res mes .
+*VIA:	si , jo se que hi ha una altra nena que va venir aqui un dia .
+*CHI:	qui ?
+*VIA:	no se , era una altra nena .
+*VIA:	com es diu l' altra nena que hi havia , que va venir ?
+*VIA:	no te'n recordes ?
+*CHI:	no .
+@Comment:	sona el telefon i v va a contestar
+*VIA:	espera't que l' avia va al telefon .
+*VIA:	mentre tant llegeix'te el conte i me l' expliques .
+*CHI:	0 .
+%act:	fulleja el conte
+@Comment:	INV enraona amb la nena , MAr s' aixeca i va a buscar quelcom , surt d' imatge
+*CHI:	jo me fico aquest [% esta fora d' imatge] .
+*INV:	si ?
+*CHI:	vull una galeta .
+@Comment:	tall a la cinta , VIA ja ha tornat
+*VIA:	m' has de dir com es diu aquest conte .
+*CHI:	el gato con botas .
+*VIA:	va , pasa'l .
+*CHI:	0 .
+%act:	gira full
+*VIA:	qui es aquest ?
+*CHI:	el moli .
+*CHI:	el moli que te el gat .
+*VIA:	aquest es el noi del moli [% assenyala en el conte] ?
+*CHI:	0 [= fa que si amb el cap] .
+*VIA:	i aquest qui es ?
+*VIA:	el gato ?
+*CHI:	el gato con &+bo +...
+*CHI:	aquest el +...
+*CHI:	el gato con botas es aquest [% assenyala en el conte] .
+*VIA:	pero jo no veig pas que porti botes .
+*CHI:	no .
+*CHI:	ja <se les> [/] se les posara .
+*CHI:	mira [% passa fulls] .
+*CHI:	veus ?
+*VIA:	ah !
+*VIA:	pero bueno , explica'me'l el conte .
+*VIA:	com es que te aquestes botes el gato ?
+*CHI:	perque <els ha donat a (.)> [/] els ha donat aquest .
+*VIA:	i que en fa de les botes ?
+*CHI:	pues anar amb el sac a +...
+*VIA:	va , ves passant i m' ho vas explicant [% vol passar full] .
+*CHI:	no no .
+*CHI:	per les lletres .
+*CHI:	te lletres .
+*VIA:	si no te lletres .
+*VIA:	quines lletres hi ha ?
+*CHI:	bueno es igual .
+*VIA:	va , mira , aqui es posa les botes .
+*CHI:	si .
+*VIA:	i aqui [//] que fa aqui , dorm ?
+*CHI:	no .
+*CHI:	esta estirat .
+*VIA:	ah , esta estirat .
+*VIA:	i aquest , qui es aquest [% assenyala en el conte] ?
+*CHI:	el rei .
+*VIA:	i com es diu el rei ?
+*CHI:	el rei .
+*VIA:	es un rei .
+*VIA:	i aquest qui es aquest ?
+*CHI:	no se qui es .
+*VIA:	aquest es un bufon , es un que fa riure .
+*CHI:	0 .
+%act:	s' acosta al conte
+*VIA:	mira'l be .
+*VIA:	i que porta aqui el gato .
+*CHI:	el [/] el conill .
+*CHI:	el conill .
+*VIA:	aixo es allo que em deies tu que volies per menjar ?
+*CHI:	si .
+*VIA:	i de quina manera t' agrada el conill ?
+*CHI:	<el conill sense &+po> [//] el conill sense pota .
+*VIA:	sense pell vols dir .
+*CHI:	sense pell .
+*CHI:	sense pell .
+*VIA:	i que t' agrada , a la cassola o a la brasa ?
+*CHI:	pues (.) a la brasa .
+*VIA:	t' agrada a la brasa el conill ?
+*CHI:	<i si m' ho &+me> [//] i si m' ho menjo es molt bo .
+*VIA:	es molt bo , si , si que ho es .
+*VIA:	a veure [% passa full] .
+*VIA:	i qui son aquests ?
+*CHI:	dos palomes .
+*VIA:	dos palomes .
+*CHI:	i aquesta [% "aqueta"] es la princesa .
+*VIA:	ah , la princesa .
+*CHI:	i aquest es el marques de carabas que <s' ha ahogat> [/] se ha
+	ahogado [% "ahogat"] .
+*VIA:	qui ?
+*VIA:	diga'm' ho ben fort .
+*CHI:	aquest es el marques de carabas <s' ha> [/] se ha ahogado
+	[% "s' ha ahogat"] .
+*VIA:	ah !
+*VIA:	el marques de carabas que s' ha ofegat .
+*CHI:	ofegat .
+*VIA:	que es aquest el marques de carabas [% assenyala] ?
+*CHI:	si .
+*CHI:	0 .
+%act:	passa fulls
+*CHI:	aquest es el castell de l' ogre .
+*VIA:	ah !
+*CHI:	mira l' ogre .
+*VIA:	ui quina por .
+*VIA:	escolta'm una cosa +/.
+*CHI:	l' ogre s' ha convertit en un lleo .
+*VIA:	ah !
+*VIA:	i aquest , qui es aquest ?
+*CHI:	<el ga> [/] el gato con botas .
+*CHI:	ja s' ha convertit en un ratoli .
+*VIA:	noi , que coses .
+*VIA:	i aquest d' aqui qui es ?
+*CHI:	el rei .
+*CHI:	el rei .
+*VIA:	i que va passar ?
+*VIA:	va , que va passar amb aquest ?
+*CHI:	ja s' ha acabat ?
+*VIA:	aqui , qui es aquesta ?
+*CHI:	la princesa .
+*VIA:	i aquest ?
+*CHI:	<el &+re> [//] el marques carabas .
+*VIA:	i es casen ?
+*CHI:	si .
+*VIA:	y fueron felices ?
+*CHI:	si .
+*VIA:	y comieron perdices ?
+*CHI:	0 [= fa que si amb el cap] .
+*VIA:	ara un altre , vinga .
+*CHI:	aquest te lletra .
+*CHI:	mira quantes lletres .
+*CHI:	0 .
+%act:	obre un altre conte
+*CHI:	te lletres .
+*CHI:	te moltes lletres .
+*VIA:	que saps llegir una mica ja ?
+*CHI:	no .
+*VIA:	a veure si saps que diu aixo .
+*VIA:	que diu en aquestes lletres grosses ?
+*CHI:	que [/] que diu ?
+*VIA:	que diuen ?
+*CHI:	que diuen ?
+*VIA:	pulgarcito [% a cau d' orella] .
+*CHI:	pulgarcito .
+*VIA:	i com es diu aixo [% assenyala en el conte] ?
+*VIA:	vols deixar de posar'te els dits al nas .
+*CHI:	va .
+*CHI:	explica'm' ho .
+*CHI:	per aqui .
+*VIA:	si jo el conte del pulgarcito no el se .
+*CHI:	si que el saps .
+*VIA:	mira , a mi em faria mes gracia +...
+*CHI:	aquest .
+*VIA:	no , aquell altre , mira .
+*VIA:	el de la lluna i la pruna .
+*VIA:	i tu que tens aqui [% mira el conte que te la nena] ?
+*CHI:	el tom i jerry .
+*VIA:	dema quin dia es marti ?
+*CHI:	no +/.
+*VIA:	que es divendres ?
+*CHI:	no ho +/.
+*VIA:	on has d' anar a dinar dema ?
+*CHI:	no ho se .
+*VIA:	ah no ?
+*VIA:	on vas a dinar cada divendres ?
+*VIA:	a veure a la puchi .
+*CHI:	a veure la puchi .
+*CHI:	0 .
+%act:	fulleja un conte
+*VIA:	aquest em sembla que t' agrada .
+*CHI:	aquest m' agrada molt .
+*CHI:	0 .
+%act:	continua fullejant el conte
+*VIA:	qui son tots aquest ?
+*CHI:	els senyors i les senyores .
+*VIA:	ah !
+*VIA:	i aquest ?
+*CHI:	el pallasso .
+*VIA:	i que fa el pallasso aqui ?
+*CHI:	gronxa i pup@c ha [% "s' ha"] caigut a la xarxa .
+*VIA:	ah !
+*VIA:	es gronxa i ha caigut a la xarxa .
+*VIA:	i que es gronxa , amb una ma o amb dues ?
+*CHI:	amb +...
+*CHI:	te dos mans .
+*CHI:	mira .
+*CHI:	mira .
+*VIA:	marti .
+*CHI:	que ?
+*VIA:	que ja has pensat d' escriure la carta als reis ?
+*CHI:	oh si !
+*CHI:	tinc [% "tanc"] que escribirla .
+*VIA:	i on vam anar l' any passat a mirar els reis ?
+*CHI:	oh [% s' aixeca de la cadira] !
+*CHI:	jo +/.
+*VIA:	no te'n vaigis .
+*CHI:	jo vaig a escribirla .
+*VIA:	bueno , ja l' escriurem despres .
+*VIA:	on vam anar l' any passat a veure els reis , que te'n recordes ?
+*CHI:	a buscar caramelos [% "carmelos"] .
+*VIA:	pero a quin puesto vam anar ?
+*CHI:	al corte ingles .
+*VIA:	d' on ?
+*VIA:	de la diagonal o de la placa catalunya ?
+*CHI:	de quin ?
+*VIA:	de la diagonal [% molt fluixet] .
+*CHI:	si .
+*VIA:	hi havien tot de llums .
+*VIA:	explica'm , primer de tot que has demanat aquest any ?
+*CHI:	tenim que fer la llista .
+*VIA:	bueno +/.
+*CHI:	del [/] del nadal .
+*VIA:	bueno pero la llista pel &+na +/.
+*CHI:	no .
+*CHI:	jo vaig a preparar'la .
+*VIA:	i de quina manera la farem la llista ?
+*CHI:	amb paper .
+*VIA:	ja en tens de paper per fer la llista ?
+*CHI:	si .
+*VIA:	on en tens de paper ?
+*VIA:	mira , jo tinc un boli .
+*CHI:	que no [% surt d' imatge] +...
+*CHI:	ho [/] ho dibuixare .
+@Comment:	tall a la cinta
+*CHI:	dibuixar .
+*VIA:	escolta , ara +...
+*VIA:	pero seu aqui ben assegut .
+*VIA:	mira , hem de fer la llista .
+*CHI:	hem de fer la llista del corte ingles .
+*VIA:	va .
+*VIA:	del corte ingles no , del reis .
+*CHI:	del reis .
+*VIA:	i la tirarem en el corte ingles .
+*VIA:	seu .
+*CHI:	xxx xxx .
+@Comment:	enraonen VIA i INV
+*VIA:	bueno , escolta'm , primer de tot que has demanat que et portin ?
+*VIA:	el que t' agrada mes de tot .
+*CHI:	una bicicleta .
+*VIA:	escriu , una bicicleta .
+*CHI:	0 .
+%act:	fa ratlles en el paper
+*VIA:	i despues ?
+*CHI:	despues +...
+*CHI:	<una &+fo> [//] una foto .
+*CHI:	una foto .
+*VIA:	una maquina de fer fotos ?
+*CHI:	si .
+*VIA:	i allo que em vas dir a mi del carrega piles ?
+*CHI:	del carrega piles ?
+*VIA:	si , hem vas que volies una maquina per carregar les piles .
+*CHI:	que es carregar piles ?
+*VIA:	saps tots els ninots que van amb piles i quan s' acaba la pila no
+	funcionen ?
+*VIA:	els cotxes aquells que tens .
+*VIA:	saps el que son les piles ?
+*CHI:	si .
+*VIA:	que son les piles ?
+*CHI:	son per posar a les coses .
+*VIA:	son per posar a dintre la panxa dels juguets , oi ?
+*CHI:	si .
+*VIA:	i no saps que ara hi ha una cosa que se enchufa i es carreguen ?
+*VIA:	aixi no haurem de comprar mes piles .
+*VIA:	si el papa t' ho va explicar .
+*VIA:	escolta'm , on es el papa , marti , avui ?
+*CHI:	el papa .
+*VIA:	on es el papa avui ?
+*CHI:	ja ho se .
+*VIA:	a veure si te'n recordes .
+*CHI:	ja ho se .
+*CHI:	ja ho se .
+*CHI:	ja ho se .
+*VIA:	diga'm on es ?
+*CHI:	ja ho se .
+*VIA:	m' ho has de dir perque se <n' enteri la maria rosa> [>] .
+*CHI:	<i la meva galeta> [<] ?
+*CHI:	i la meva galeta ?
+*VIA:	la teva galeta es aquesta .
+*VIA:	mira que tinc aqui [% ensenya quelcom] .
+*CHI:	es +/.
+*VIA:	pero si t' asseus be te la donare , si no no .
+*CHI:	<s' ha> [/] s' ha tret aixo [% "aso"] .
+*VIA:	que es aixo ?
+*CHI:	una linterna .
+*VIA:	de qui es ?
+*CHI:	mira .
+*CHI:	s' ha tret aixo [% "aso"] .
+%com:	esta trencada la bombeta
+*VIA:	a veure .
+*VIA:	ah si !
+*VIA:	ja no hi ha llum .
+*VIA:	bueno .
+*VIA:	te [% li dona a m] .
+*VIA:	seu .
+*CHI:	a veure [% la desmunta] .
+*VIA:	pero escolta una cosa , que l' avia et pregunta una cosa .
+*VIA:	on es el papa ?
+*CHI:	mira quina pila .
+*VIA:	que es a barcelona el papa ?
+*CHI:	mira .
+*CHI:	mira quina pila .
+*VIA:	que es a palma de mallorca ?
+*CHI:	mira quina pila .
+*VIA:	que et dic jo ?
+*VIA:	contesta al que jo et dic .
+*CHI:	mira quina pila .
+*VIA:	contesta'm al que jo et dic .
+*CHI:	que ?
+*VIA:	on es el papa ?
+*CHI:	ja ho se .
+*VIA:	pero diga'm' ho a mi que jo no ho se .
+@Comment:	VIA enraona amb la nena que ha agafat una part de la llanterna
+*CHI:	jo ho vull .
+*CHI:	jo ho vull .
+*CHI:	jo vull xxx .
+*VIA:	te [% li dona a m el que tenia la nena] .
+*CHI:	xxx .
+*CHI:	corre .
+*CHI:	vull +...
+*CHI:	vull la meva xxx [% surt d' imatge] .
+*VIA:	vine , vine que m' has de dir una cosa a mi .
+*CHI:	que ?
+@Comment:	tall a la cinta , MAR menja un entrepa
+*VIA:	xxx que es ?
+*CHI:	<el el ca el ca> [//] el formatge camemberg .
+@Comment:	VIA enraona amb INV
+*VIA:	i aquest [//] com es diu aquest formatge ?
+*CHI:	aquest el que pica .
+*VIA:	i el que pica es +...
+*CHI:	que ?
+*VIA:	emmental .
+*CHI:	emmental .
+*VIA:	i despres t' agrada el de bola .
+*CHI:	que ?
+*VIA:	el de bola .
+*CHI:	que es el de bola ?
+*VIA:	el de bola , aquell vermell .
+*VIA:	saps aquell que esta pintat vermell ?
+*CHI:	0 [= fa que si amb el cap] .
+*VIA:	i de pernil quin t' agrada mes , el dolc o el serrano ?
+*CHI:	<el pa el el> [//] el serrano .
+*VIA:	escolta'm , i quan fem el vermut , que es el que compra l' avia
+	perque t' agrada molt , molt , molt , de badalona ?
+*CHI:	croquetes [% "cocretes"] .
+*VIA:	croquetes i que mes ?
+*CHI:	que ?
+@Comment:	suposo que VIA xiuxeja olives perque MAR la mira atentament
+*CHI:	olives .
+*VIA:	i quan fem el vermut amb l' avia , on l' anem a fer el vermut amb
+	l'avia ?
+*CHI:	on ?
+*VIA:	m' ho has de dir tu no ho he de dir jo .
+*VIA:	a la placa del monestir .
+*CHI:	a la placa del monestir .
+*VIA:	i que demanem , que demanem ?
+*VIA:	ens seiem a la taula i que demanem ?
+*VIA:	que demanem , va ?
+*CHI:	que ?
+*VIA:	si no te'n recordes jo no t' ho vull dir .
+*VIA:	que demanem ?
+*VIA:	va .
+*CHI:	cocre [//] croquetes i olives i patates .
+*VIA:	i que bebem ?
+*VIA:	que demana l' avia per beure ?
+*VIA:	aigua .
+*VIA:	pero escolta'm , saps que a badalona hi ha una cosa que t' agrada
+	molt una cosa que porta l' avia ?
+*VIA:	que es ?
+*CHI:	que ?
+*VIA:	que a tu t' agrada molt menjar'ho .
+*CHI:	que ?
+*VIA:	catalana [% fluixet] .
+*CHI:	catalana [% repeteix fluixet] .
+*VIA:	pero diga'ho mes alt .
+*CHI:	catalana .
+*VIA:	ah !
+*VIA:	la fan bona oi ?
+*VIA:	i on ens anem a banyar ?
+*VIA:	quan anem a banyar que fas tu ?
+*VIA:	et tires a l' aigua o que fas ?
+*VIA:	fins a on anem nadant ?
+*CHI:	on ?
+*VIA:	fins a on anem nadant quan et tires a l' aigua ?
+*CHI:	a la bo [//] boia .
+*VIA:	a la boia , anem a nadar fins a la boia .
+*VIA:	i tu que portes ?
+*CHI:	xxx xxx .
+@Comment:	VIA enraona amb la nena i no em deixa entendre el que diu MAR
+*CHI:	vull un altre krispoll .
+*VIA:	eh ?
+*CHI:	fes'me un altre krispoll .
+*VIA:	i despres qui sopara ?
+*CHI:	vull un altre krispoll .
+%act:	MAR s' aixeca i va a buscar un altre panet
+*CHI:	mira .
+*CHI:	mira [% ensenya la bossa de krispolls a v] .
+*VIA:	oh quants n' hi ha encara .
+*CHI:	hi ha (.) cinc .
+*VIA:	i de qui es aixo ?
+*VIA:	qui s' ho menja aixo ?
+*CHI:	jo .
+*VIA:	i la mama .
+*CHI:	si .
+*VIA:	i que t' agrada que t' hi posin al krispoll ?
+*CHI:	vull mortadela [% "mortaela"] .
+*VIA:	mortadela ara ?
+*VIA:	ves'la a buscar .
+@Comment:	MAR se'n va , la seva germana va darrera ell , MAR torna amb una capsa plena d' embotits
+*CHI:	mira .
+*CHI:	aqui esta la mortadela .
+*CHI:	aqui .
+*CHI:	aqui .
+*CHI:	aqui esta la mortadela [% "mozaela"] .
+*CHI:	aqui .
+*CHI:	mira la mortadela [% "mortaela"] .
+*VIA:	bueno , doncs agafa'n i posa'te'n una mica .
+*VIA:	una mica nomes .
+*CHI:	hi ha [% "hi han"] dos nomes .
+*CHI:	hi ha [% "hi han"] dos .
+%act:	MAR remena la mortadela
+*VIA:	segur que n' hi ha dos ?
+*CHI:	n' hi ha dos .
+*VIA:	no , nomes n' hi ha un que es molt gruixut .
+*VIA:	no n' hi ha dos , no .
+*VIA:	trenca'n una mica .
+*VIA:	ara si que veig que n' hi ha dos .
+@Comment:	MAR menja
+*VIA:	escolta , quan anem dema passat a casa de l' avia , que voldras que
+	et faci per dinar ?
+*CHI:	tortelinis .
+*VIA:	que ?
+*CHI:	tortelinis .
+*VIA:	tortelinis ?
+*CHI:	si .
+*VIA:	i que mes a darrere ?
+*CHI:	carn .
+*CHI:	carn .
+*VIA:	ja no vols conill ?
+*CHI:	0 [= fa que si amb el cap] .
+*VIA:	i de postres ?
+*CHI:	una mandarina .
+@Comment:	VIA enraona amb la nena , tall a la cinta , VIA dona mes embotit a MAR
+*CHI:	no .
+*CHI:	xxx .
+*CHI:	m' has ficat poquet .
+*VIA:	ara s' ha de tapar ben tapat .
+*CHI:	per que ?
+*CHI:	per que ?
+*VIA:	i ara torna'ho a deixar a la nevera .
+*CHI:	per que ?
+*CHI:	nosaltres tenim molta gana .
+*VIA:	i despres qui sopara ?
+*VIA:	qui sopara despres ?
+*VIA:	pregunta'li a la maria rosa que vol per veure .
+*VIA:	diga'li que tenim per beure .
+*CHI:	que tens ?
+*VIA:	pregunta'li que tens set , pregunta'li .
+*CHI:	que tens set ?
+*INV:	no , gracies .
+*VIA:	digues tenim coca cola , fanta +...
+*INV:	que tens , que tens per beure ?
+*VIA:	tonica .
+*CHI:	tonica tenim .
+*VIA:	aigua .
+*CHI:	ara aquest .
+*CHI:	jo vull [% estira un cordill d' un embotit] +...
+*CHI:	aixo es molt bo .
+*CHI:	botifarra .
+*CHI:	botifarra .
+*CHI:	aixo es botifarra .
+*VIA:	blanca o negra ?
+*CHI:	blanca .
+*VIA:	segur ?
+*CHI:	es molt bona .
+*CHI:	es tendra i es molt bona [% intenta trencar un tros] .
+*VIA:	no , no !
+*VIA:	aixi no es fa .
+*VIA:	es porta un ganivet .
+*VIA:	porta un ganivet petit d' alla .
+@Comment:	MAR va a buscar el ganivet
+*CHI:	si .
+*CHI:	si .
+@Comment:	VIA enraona amb la nena
+*CHI:	aqui [% torna amb el ganivet] .
+*VIA:	diga'li te tasta'la , dona'li a ella [% es refereix a INV] .
+*CHI:	tasta'la [% allarga un tros de botifarra a INV] .
+*VIA:	diga'li tasta'l , tasta'l .
+*CHI:	tasta .
+*INV:	0 .
+%act:	agafa la botifarra
+*INV:	gracies .
+*VIA:	ara prou eh .
+*CHI:	xxx aqui [% allarga el pa] .
+*CHI:	aqui .
+*VIA:	0 .
+%act:	posa botifarra sobre el pa de m
+*VIA:	au , ja esta .
+@Comment:	MAR va menjant , frame 1035 , la sessio continua , he fet una altra copia de la cinta , a partir d' aqui els frames no corresponen amb els del comencament , cinta nova marti copia , frame 2920
+*VIA:	fins a quan saps contar ?
+*CHI:	un , dos , tres quatre .
+*VIA:	segueix .
+*CHI:	sis .
+*VIA:	no , no .
+*VIA:	comenca una altra vegada .
+*CHI:	un , dos , tres , quatre , sis .
+*VIA:	0 .
+%act:	va posant els dits mentre m conta
+*CHI:	set , quatre i cinc .
+*VIA:	molt be .
+*VIA:	tornem a comencar .
+*VIA:	un +...
+*VIA:	dos .
+*CHI:	0 [= fa que si amb el cap] .
+*VIA:	dos .
+*VIA:	que mes , va ?
+*VIA:	aixo quan es [% posa un dit] ?
+*CHI:	un .
+*VIA:	0 .
+%act:	posa dos dits
+*CHI:	dos .
+*VIA:	0 .
+%act:	posa tres dits
+*CHI:	tres .
+*VIA:	0 .
+%act:	posa quatre dits
+*CHI:	cinc .
+*CHI:	set .
+*CHI:	catorze .
+*VIA:	0 .
+%act:	mante els quatre dits
+*INV:	aquests son els anys que fara el marti , no ?
+*VIA:	quants anys faras tu ?
+@Comment:	MAR intenta posar quatre dits , VIA l' ajuda
+*VIA:	quants son aquests ?
+*CHI:	tres .
+*VIA:	no .
+*VIA:	conta'ls .
+*CHI:	un , dos , tres , quatre .
+*VIA:	ara !
+*VIA:	i aquests [% posa cinc dits] ?
+*VIA:	quants son aquests ?
+*VIA:	comenca a contar .
+%com:	VIA es va assenyalant els dits per a que MAR conti
+*CHI:	un , dos , tres , quatre i cinc .
+*VIA:	molt be .
+*VIA:	i ara [% posa dos dits] .
+*VIA:	quants n' hi ha ara ?
+*CHI:	dos .
+*VIA:	dos , molt be .
+*VIA:	ara m' has de dir com es diu el teu abuelo .
+*CHI:	abuelo , abuelo .
+*VIA:	pero es diu de nom el teu abuelo ?
+*CHI:	marti .
+*VIA:	i la abuela ?
+*CHI:	isabel .
+*VIA:	i l' avia ?
+*CHI:	avia .
+*VIA:	com es diu l' avia ?
+*CHI:	montserrat .
+*VIA:	el teu tiet , com es diu el tiet ?
+*CHI:	el qui ?
+*VIA:	0 [= xiuxeja] .
+*CHI:	el carles .
+*VIA:	i l' altre com es diu ?
+*CHI:	xxx .
+*VIA:	molt be .
+*VIA:	i qui mes hi ha ?
+*VIA:	qui mes hi ha ?
+*CHI:	qui ?
+*VIA:	0 [= xiuxeja] .
+*CHI:	el jordi .
+*VIA:	i com es diu la seva novia ?
+*VIA:	com es diu la seva novia ?
+*CHI:	lourdes .
+*VIA:	bueno .
+*VIA:	llavors , quants cosinets tens ?
+*VIA:	a veure , els contarem .
+*CHI:	pero tinc molt gana ara .
+*VIA:	bueno , pero els contarem .
+*VIA:	quants cosins tens , a veure ?
+*VIA:	com es diuen els teus cosins ?
+*CHI:	marti .
+*VIA:	marti .
+*VIA:	un altre ?
+*CHI:	alex .
+@Comment:	VIA va posant un dit a mesura que MAR diu el nom d' un cosi
+*VIA:	alex .
+*VIA:	aquest [% s' assenyala un dit] .
+*CHI:	nacho .
+*VIA:	nacho .
+*CHI:	luis .
+*VIA:	luis .
+*CHI:	alex .
+*VIA:	alex .
+*CHI:	no en tinc mes .
+*VIA:	i les nenes ?
+*VIA:	on te les has deixat les nenes ?
+*VIA:	com es diuen les nenes ?
+*CHI:	isabelita .
+*VIA:	i que mes ?
+*VIA:	0 [= xiuxeja] .
+*CHI:	montsita .
+@Comment:	la gemaneta petita de MAR comenca a protestar
+*VIA:	0 [= xiuxeja] .
+*CHI:	carmela .
+@Comment:	VIA enraona amb la germana
+*VIA:	i llavors , el pete .
+*CHI:	el pete .
+*VIA:	com es diuen els germans del papa ?
+*VIA:	el pete .
+*CHI:	si .
+*VIA:	qui mes hi ha ?
+*CHI:	<el el> [/] el quim .
+*VIA:	com es diuen els altres germans ?
+*VIA:	quant tu vas a casa dels abuelos amb qui jugues ?
+*CHI:	xxx [% te la boca plena] .
+*VIA:	pero has de dir'ho sense la boca plena .
+*CHI:	xxx .
+*VIA:	qui mes ?
+*CHI:	l' abuelo .
+*VIA:	qui mes que juga sempre amb tu a pilota ?
+*CHI:	qui ?
+*VIA:	0 [= xiuxeja] .
+*CHI:	la pitu .
+*VIA:	i qui mes ?
+*CHI:	qui ?
+*VIA:	la belita .
+*CHI:	la belita .
+@Comment:	frame 3200 de la nova copia
+*VIA:	pero t' ho haig de dit tot jo , aixo no val .
+*CHI:	0 .
+%act:	va menjant
+*CHI:	que es botifarra de pages ?
+*VIA:	aixo que estas menjant .
+*CHI:	aixo ?
+*VIA:	aixo es botifarra de pages .
+*CHI:	aixo ?
+*VIA:	si .
+*CHI:	la botifarra de pages es molt bona .
+*VIA:	que t' agrada mes la botifarra de pages o +...
+*CHI:	que ?
+*VIA:	la mermelada ?
+*CHI:	0 [=! riu] .
+*CHI:	la mermelada .
+*VIA:	i que +/.
+*CHI:	a mi m' agrada la mermelada de poma .
+*VIA:	ah !
+*CHI:	m' agrada la mermelada de poma .
+@Comment:	VIA enraona amb la germana
+*VIA:	no , mes no que et fara mal a tu [% a la nena] .
+*CHI:	a mi no .
+*CHI:	a mi no .
+@Comment:	VIA dona a la nena un tros de formatge
+*CHI:	a mi m' agrada aquest [% assenyala el formatge] .
+*VIA:	0 .
+%act:	dona un tros de formatge a m
+*VIA:	tu a quina escola vas ?
+*CHI:	a la gespa [% no ho entenc massa be] .
+*VIA:	i on esta aquesta escola ?
+*CHI:	no ho se .
+*VIA:	0 [= xiuxeja] .
+*CHI:	a l' autonoma .
+*CHI:	saps que quan era petit els meus papas em portaven xxx <i i i me
+	portaven i me portaven> [/] i me portaven un biberon .
+*VIA:	i ara et donen biberons tambe ?
+*CHI:	que ?
+*VIA:	i ara tambe prens biberons ?
+*CHI:	no .
+*CHI:	la petita [% es refereix a la germaneta] .
+*VIA:	ah , la petita .
+@Comment:	la germaneta de MAR plora perque vol mes botifarra i VIA no li vol donar
+*VIA:	diga'li que no plori .
+*VIA:	digues no ploris petita .
+@Comment:	VIA dona un tros de formatge a la nena
+*CHI:	jo tambe .
+*CHI:	jo volia d' aquest .
+*VIA:	te , te .
+@Comment:	VIA recull el menjar , INV enraona amb la nena
+*CHI:	has donat la volta [% v dona la volta a la taula per a seure's] .
+*CHI:	has donat la volta .
+*VIA:	escolta'm una cosa , m' agradaria molt que em fessis el favor de
+	portar el cassette amb un conte que jo pugui veure .
+*VIA:	ves'me'l a buscar i me'l portes de seguida .
+@Comment:	MAR va buscar el que li ha demanat l' avia , mentre enraonen VIA i la nena
+*CHI:	mira , xxx els contes .
+%com:	MAR arriba amb una cinta de cassette
+*VIA:	pero porta el cassette .
+*VIA:	si no tenim el cassete com ho farem pels contes ?
+*CHI:	no .
+*CHI:	ja vaig a buscar .
+%act:	MAR va a buscar la cassette
+*VIA:	va , posa'l aqui , tu mateix treu i me l' explicaras una mica .
+@Comment:	MAR posa la cinta a la cassette
+*VIA:	qui es aquest que borda ?
+*CHI:	es un gos .
+*VIA:	ah !
+*VIA:	seu aqui marti .
+*VIA:	aqui .
+*CHI:	i els krispolls ?
+*CHI:	0 .
+%act:	s' aixeca de la cadira
+*VIA:	no te'n donare mes .
+@Comment:	ara a l' enrenou que fa la nena s' hi afegeixen els sons de la cinta
+*VIA:	seu aqui t' he dit .
+*VIA:	qui fa aixo ?
+*CHI:	un gos .
+*VIA:	aixo tambe ho fa un gos ?
+*CHI:	aixo son vaques .
+*CHI:	vaques .
+*VIA:	que es aixo ?
+*CHI:	trompetes .
+@Comment:	sona una canco a la cinta
+*VIA:	va , canta'la .
+*CHI:	ja s' ha acabat .
+@Comment:	soroll d' ocells
+*CHI:	que es aixo ?
+*CHI:	que es aixo ?
+@Comment:	enraonen VIA i INV
+*VIA:	qui es que fa aixo ?
+*CHI:	qui ?
+*CHI:	que es aixo ?
+*VIA:	aixo m' ho has de dir tu .
+*CHI:	ocells .
+*VIA:	ah !
+*CHI:	es xxx [% te la boca plena] .
+*VIA:	aixo que es ?
+*CHI:	que es aixo ?
+*VIA:	aixo m' ho has de dir tu .
+*VIA:	que es aixo ?
+*CHI:	que es aixo ?
+@Comment:	frame 3700 de la nova copia
+*VIA:	escolta el soroll .
+*CHI:	que es aixo ?
+*VIA:	no sera el vent ?
+*CHI:	si [% ho acompanya amb el cap] .
+*VIA:	diga'ho tu , diga'ho tu .
+*CHI:	vent .
+*CHI:	me parece que es aigua que cau .
+*VIA:	segur que es aigua que cau ?
+*VIA:	fes el favor de posar'te aqui perque jo no et sento .
+*VIA:	aqui et sentire mes be .
+@Comment:	VIA fa canviar de lloc a MAR de tal manera que aquest quedi de cara a la camera
+*VIA:	aixo [/] que es aixo ?
+*VIA:	aigua que cau ?
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	que diu aqui ?
+*CHI:	que diu aqui [% agafa la tapa de la cinta] ?
+*VIA:	aixo ho saps tu que diu aqui .
+*CHI:	0 [= fa que no amb el cap] .
+*VIA:	que es aixo [% es refereix al soroll que emet la cinta] ?
+*CHI:	es +...
+*CHI:	0 .
+%act:	desplega la caratula de la cinta
+*CHI:	mira [% l' ensenya a la nena] .
+*CHI:	una mosca [% suposo que es refereix al soroll de la cinta] .
+*CHI:	una mosca ?
+*CHI:	aixo es aigua tambe [% ara si que es aigua , abans era vent] .
+*CHI:	xxx xxx .
+*CHI:	aixo un vater .
+@Comment:	MAR mira la caratula de la cinta , la nena imita tot el que fa MAR
+*VIA:	<aixo que toca> [//] que es aixo que toca ?
+*VIA:	com se diu ?
+*CHI:	0 [= fa que no amb el cap] .
+*VIA:	com se diu aixo ?
+*CHI:	com es diu ?
+*VIA:	una flauta .
+*VIA:	un flaviol .
+*VIA:	i aixo ?
+*VIA:	una armonica .
+*CHI:	saps [% "sas"] que es ?
+*VIA:	una armonica .
+*CHI:	saps [% "sas"] que es ?
+*CHI:	es una papilla .
+*VIA:	no .
+*VIA:	a veure que tocaran ara .
+@Comment:	la veu de la cinta anuncia que ara el tema sera el camp , sona la canco de la massovera , VIA , MAR i la nena canten
+*CHI:	jo vull anar a casa l' elena .
+*CHI:	jo vull anar a casa l' elena .
+*VIA:	diga'li ja estem [% assenyala a INV] ?
+*CHI:	si [% mirant a INV] .
+*CHI:	ja estem ?
+*INV:	si .
+*CHI:	ja esta [% a v] .
+*VIA:	ara parlam amb ella .
+*VIA:	diga'li que te'n vas ja maria rosa ?
+*CHI:	que te'n vas ?
+%add:	INV
+*VIA:	pregunta'li on anira aquesta nit .
+*CHI:	on aniras ?
+*INV:	vaig a barcelona .
+*CHI:	a barcelona .
+%add:	VIA
+*INV:	amb el tren .
+*VIA:	amb que , amb que ?
+*CHI:	amb el tren .
+*INV:	que t' agrada anar amb tren a tu ?
+*CHI:	jo vull anar a casa l' elena .
+*VIA:	escolta , i quin tren agafa , aquell que passa per aqui davant de
+	casa ?
+*CHI:	no .
+*VIA:	no ?
+*CHI:	xxx xxx [% enraona molt fluixet] .
+*VIA:	no ho sento .
+@End

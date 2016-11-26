@@ -1,0 +1,589 @@
+@UTF8
+@PID:	11312/c-00032788-1
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , MAD Mother , PAD Father
+@ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+@ID:	spa|Ornat|MAD|||||Mother|||
+@ID:	spa|Ornat|PAD|||||Father|||
+@Media:	12c, video
+@Comment:	DV Tape is maria12
+@Tape Location:	Z-2;06-506
+@Situation:	María jugando con sus construcciones.
+*CHI:	esto . 0_2113
+%mor:	pro:dem|esto=this_one .
+*MAD:	toma , cielo , pon estos que se sujetarán mejor [% le da dos piezas] . 2113_4690
+%mor:	v|toma-3S&PRES=take cm|cm co:voc|cielo=angel cm|cm
+	imp|pone-2S&IMP=put det:dem|este-MASC-PL=this pro:rel|que=that
+	pro:refl|se=itself v|sujeta-3P&FUT=subject adj|mejor=better .
+*CHI:	yo pongo el puente ot(r)a vez pa(ra) que pase estos . 4690_15471
+%mor:	pro:sub|yo=I v|pone-1S&PRES=put det:art|el&MASC&SG=the
+	n|puente&f=bridge det:indef|otro-FEM=other n|vez&f=turn
+	prep|para=for pro:rel|que=that v|pasa-13S&SUB&PRES=pass
+	det:dem|este-MASC-PL=this .
+%com:	las pone
+*CHI:	ay , que esto se va a caer ! 15471_23918
+%mor:	co|ay=ay cm|cm pro:rel|que=that pro:dem|esto=this_one
+	pro:refl|se=itself v|i-3S&PRES=go aprep|a=to inf|cae-INF=fall !
+*CHI:	voy a pompar [: comprar] esos . 23918_26670
+%mor:	v|i-1S&PRES=go aprep|a=to inf|compra-INF=buy
+	det:dem|ese-MASC-PL=that .
+@Tape Location:	Z-2;06-507
+@Situation:	María jugando a las construcciones.
+*PAD:	www [% a Mamá] estás enfadada ? 26670_33941
+%mor:	cop|esta-2S&PRES=be adj|enfadado-FEM=anger ?
+*MAD:	pichipi@c . 33941_36141
+%mor:	chi|pichipi .
+*CHI:	pichipi^pichipi@c . 36141_38950
+%mor:	chi|pichipipichipi .
+*MAD:	cómo es Mamá , María ? 38950_43270
+%mor:	pro:int|cómo=how cop|se-3S&PRES=be n:prop|Mamá cm|cm n:prop|María ?
+*CHI:	pichipi^pichipi@c . 43270_45010
+%mor:	chi|pichipipichipi .
+*MAD:	cómo es ? 45010_47438
+%mor:	pro:int|cómo=how cop|se-3S&PRES=be ?
+*MAD:	buena o mala ? 47438_49765
+%mor:	adj|buen-FEM=good coord|o=or adj|malo-FEM=bad ?
+*CHI:	buena . 49765_50703
+%mor:	adj|buen-FEM=good .
+*MAD:	guapa o fea ? 50703_51790
+%mor:	adj|guapo-FEM=handsome coord|o=or adj|feo-FEM=ugly ?
+*CHI:	es mu(y) mu(y) bonita . 51790_53998
+%mor:	cop|se-3S&PRES=be adv|muy=very adv|muy=very co:voc|bonita=pretty .
+@Tape Location:	Z-2;06-508
+@Situation:	María jugando con sus construcciones. Tira sin querer una casita.
+*PAD:	hala ! 53998_55925
+%mor:	co|hala !
+*CHI:	hala ! 55925_56893
+%mor:	co|hala !
+*PAD:	se te ha caído una teja , cielo . 56893_58093
+%mor:	pro:refl|se=itself pro:obj|te=you aux|habe-3S&PRES=have
+	part|cae-PPART-MASC=fall det:art|un-FEM=one n|teja&f=tile cm|cm
+	co:voc|cielo=angel .
+*CHI:	la teja ! 58093_60190
+%mor:	det:art|el&FEM&SG=the n|teja&f=tile !
+*CHI:	la tejita ! 60190_61513
+%mor:	det:art|el&FEM&SG=the n|teja-DIM-FEM=tile !
+*CHI:	la tejita se me ha caído . 61513_64355
+%mor:	det:art|el&FEM&SG=the n|teja-DIM-FEM=tile pro:refl|se=itself
+	pro:obj|me=me aux|habe-3S&PRES=have part|cae-PPART-MASC=fall .
+*CHI:	se me ha caído . 64355_68508
+%mor:	pro:refl|se=itself pro:obj|me=me aux|habe-3S&PRES=have
+	part|cae-PPART-MASC=fall .
+*CHI:	ahora tú tienes que hacer ot(r)a vez . 68508_71085
+%mor:	adv|ahora=now pro:sub|tú=you v|tene-2S&PRES=have pro:rel|que=that
+	inf|hace-INF=do det:indef|otro-FEM=other n|vez&f=turn .
+*MAD:	quién ? 71085_71581
+%mor:	pro:int|quién=who ?
+*CHI:	tú . 71581_73136
+%mor:	pro:sub|tú=you .
+*MAD:	yo , por_qué ? 73136_73890
+%mor:	pro:sub|yo=I cm|cm pro:int|por_qué=why ?
+*CHI:	porque sí . 73890_74708
+%mor:	conj|porque=because co|sí=yes .
+*MAD:	por_qué no lo haces tú ? 74708_75650
+%mor:	pro:int|por_qué=why adv|no=no pro:obj|lo&m=him v|hace-2S&PRES=do
+	pro:sub|tú=you ?
+*CHI:	porque no . 75650_76825
+%mor:	conj|porque=because adv|no=no .
+*CHI:	porque yo no sé . 76825_77938
+%mor:	conj|porque=because pro:sub|yo=I adv|no=no v|sabe-1S&PRES=know .
+*CHI:	se ha caído . 77938_79908
+%mor:	pro:refl|se=itself aux|habe-3S&PRES=have part|cae-PPART-MASC=fall .
+*CHI:	y ahora , qué hacemos ? 79908_82648
+%mor:	coord|y=and adv|ahora=now cm|cm pro:int|qué=what v|hace-1P&PRES=do
+	?
+*MAD:	ahora vamos a hacer vale , más bonita ? 82648_84728
+%mor:	adv|ahora=now v|i-1P&PRES=go aprep|a=to inf|hace-INF=do
+	co|vale=okay cm|cm adv|más=more co:voc|bonita=pretty ?
+*CHI:	sí , pero (.) xxx se ha caído . 84728_87465
+%mor:	co|sí=yes cm|cm conj|pero=but pro:refl|se=itself
+	aux|habe-3S&PRES=have part|cae-PPART-MASC=fall .
+*CHI:	eso es una casa [% señala] . 87465_89128
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be det:art|un-FEM=one
+	n|casa&f=house .
+*CHI:	una casa que he hecho yo . 89128_90928
+%mor:	det:art|un-FEM=one imp|casa-2S&IMP=marry pro:rel|que=that
+	v|habe-1S&PRES=have v|hecha-1S&PRES=give pro:sub|yo=I .
+*CHI:	venga , una casa mu(y) bonita . 90928_94616
+%mor:	co|venga=come_on cm|cm det:art|un-FEM=one n|casa&f=house
+	adv|muy=very co:voc|bonita=pretty .
+*CHI:	sí: , así de lámparas . 94616_97281
+%mor:	co|sí=yes cm|cm adv|así=thus prep|de=of n|lámpara&f-PL=lamp .
+*CHI:	bueno no son lámparas , son casas . 97281_100520
+%mor:	co|bueno=good adv|no=no cop|se-3P&PRES=be n|lámpara&f-PL=lamp cm|cm
+	cop|se-3P&PRES=be v|casa-2S&PRES=marry .
+*CHI:	tú haces una lámpara . 100520_105176
+%mor:	pro:sub|tú=you v|hace-2S&PRES=do det:art|un-FEM=one
+	n|lámpara&f=lamp .
+%com:	la madre está haciendo la casa
+*CHI:	haz un castillo . 105176_109640
+%mor:	imp|hace-2S&IMP=do det:art|un&m=one n|castillo&m=castle .
+*CHI:	pongo este ? 109640_114191
+%mor:	v|pone-1S&PRES=put imp|esta-3S&IMP=be ?
+*CHI:	este aquí , a que sí ? 114191_117215
+%mor:	det:dem|este=this adv|aquí=here cm|cm aprep|a=to pro:rel|que=that
+	co|sí=yes ?
+%com:	lo pone
+*MAD:	sí . 117215_118423
+%mor:	co|sí=yes .
+*MAD:	quieres poner ese también ? 118423_123648
+%mor:	v|quere-2S&PRES=want inf|pone-INF=put det:dem|ese=that
+	adv|también=also ?
+%com:	corte
+*PAD:	quieres comprar uno que estaba xxx duró muchísimo xxx . 123648_129503
+%mor:	v|quere-2S&PRES=want inf|compra-INF=buy pro:dem|uno-MASC=one
+	pro:rel|que=that cop|esta-13S&PAS=be v|dura-3S&PRET=endure
+	det:indef|mucho-SUPER-MASC=many .
+*MAD:	venga . 129503_142663
+%mor:	co|venga=come_on .
+*MAD:	mira , María . 142663_143308
+%mor:	co|mira=look cm|cm n:prop|María .
+*CHI:	qué ? 143308_144076
+%mor:	pro:int|qué=what ?
+*CHI:	qué vas a hacer ? 144076_150713
+%mor:	pro:int|qué=what v|i-2S&PRES=go aprep|a=to inf|hace-INF=do ?
+*CHI:	ay , que me quemo el culete ! 150713_153796
+%mor:	co|ay=ay cm|cm pro:rel|que=that pro:obj|me=me v|quema-1S&PRES=burn
+	det:art|el&MASC&SG=the n|culo-MASC&AUG=buttocks !
+%com:	al lado está la calefacción
+*MAD:	te quemas el culete , mi amor ? 153796_156178
+%mor:	pro:obj|te=you v|quema-2S&PRES=burn det:art|el&MASC&SG=the
+	n|culo-MASC&AUG=buttocks cm|cm det:pos|mi=my co:voc|amor=love ?
+*CHI:	sí , me quedo el culete . 156178_157796
+%mor:	co|sí=yes cm|cm pro:obj|me=me v|queda-1S&PRES=stay
+	det:art|el&MASC&SG=the n|culo-MASC&AUG=buttocks .
+*CHI:	me pongo aquí . 157796_160530
+%mor:	pro:obj|me=me v|pone-1S&PRES=put adv|aquí=here .
+%com:	se cambia de sitio , coge una pieza
+*CHI:	xxx . 160530_164538
+*CHI:	ese es el puente . 164538_173025
+%mor:	det:dem|ese=that cop|se-3S&PRES=be det:art|el&MASC&SG=the
+	n|puente&f=bridge .
+*CHI:	dame una . 173025_175688
+%mor:	imp|da-2S&IMP~pro:clit|1S pro:dem|uno-FEM=one .
+*PAD:	la vas a bañar ? 175688_184383
+%mor:	pro:obj|la&f=she v|i-2S&PRES=go aprep|a=to inf|baña-INF=bathe ?
+*MAD:	qué ? 184383_185656
+%mor:	pro:int|qué=what ?
+*PAD:	la vas a bañar ? 185656_186256
+%mor:	pro:obj|la&f=she v|i-2S&PRES=go aprep|a=to inf|baña-INF=bathe ?
+*MAD:	sí . 186256_187478
+%mor:	co|sí=yes .
+*MAD:	pero hay que calentar el agua . 187478_189895
+%mor:	conj|pero=but v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|calenta-INF=heat det:art|el&MASC&SG=the
+	imp|agua-2S&IMP=water_down .
+*CHI:	Mamá , este es un , este es una , un puente . 189895_204956
+%mor:	n:prop|Mamá cm|cm imp|esta-3S&IMP=be cop|se-3S&PRES=be
+	det:art|un&m=one cm|cm imp|esta-3S&IMP=be cop|se-3S&PRES=be
+	det:art|un-FEM=one cm|cm det:art|un&m=one n|puente&f=bridge .
+*MAD:	tráe , mi vida , pues lo ponemos aquí xxx . 204956_206226
+%mor:	imp|trae-2S&IMP=carry cm|cm det:pos|mi=my co:voc|vida=life cm|cm
+	co|pues=well pro:obj|lo&m=him v|pone-1P&PRES=put adv|aquí=here .
+*MAD:	qué bonito ha quedado ! 206226_213780
+%mor:	pro:int|qué=what adj|bonito-MASC=pretty aux|habe-3S&PRES=have
+	part|queda-PPART-MASC=stay !
+*MAD:	te gusta ? 213780_217530
+%mor:	pro:obj|te=you v|gusta-3S&PRES=like ?
+*CHI:	sí . 217530_219003
+%mor:	co|sí=yes .
+*MAD:	eso sí que es un rascacielos , eh mi vida ? 219003_222550
+%mor:	pro:dem|eso=that_one co|sí=yes pro:rel|que=that cop|se-3S&PRES=be
+	det:art|un&m=one n|rascacielos&m=skyscraper cm|cm co|eh
+	det:pos|mi=my co:voc|vida=life ?
+%com:	María le da un cuadradito
+*MAD:	a qué sí ? 222550_224523
+%mor:	aprep|a=to pro:int|qué=what co|sí=yes ?
+*MAD:	dónde lo quieres poner ese ? 224523_229941
+%mor:	pro:int|dónde=where pro:obj|lo&m=him v|quere-2S&PRES=want
+	inf|pone-INF=put det:dem|ese=that ?
+*CHI:	es pa(ra) que pasen los niños , los niñitos . 229941_236221
+%mor:	cop|se-3S&PRES=be prep|para=for pro:rel|que=that
+	v|pasa-3P&SUB&PRES=pass det:art|el&MASC-PL=the n|niño-MASC-PL=child
+	cm|cm det:art|el&MASC-PL=the n|niño-DIM-MASC-PL=child .
+*CHI:	(d)ónde están ? 236221_240251
+%mor:	pro:int|dónde=where cop|esta-3P&PRES=be ?
+*CHI:	ya , ya han salido . 240251_242260
+%mor:	adv|ya=already cm|cm adv|ya=already aux|habe-3P&PRES=have
+	part|sali-PPART-MASC=leave .
+*CHI:	um ? 242260_244251
+%mor:	co|um ?
+*MAD:	quién ? 244251_245325
+%mor:	pro:int|quién=who ?
+*CHI:	los niños , de aquí , de la casa . 245325_247730
+%mor:	det:art|el&MASC-PL=the n|niño-MASC-PL=child cm|cm prep|de=of
+	adv|aquí=here cm|cm prep|de=of det:art|el&FEM&SG=the n|casa&f=house
+	.
+*MAD:	yo creo que sí . 247730_251106
+%mor:	pro:sub|yo=I v|cree-1S&PRES=believe pro:rel|que=that co|sí=yes .
+*CHI:	quieren pasar . 251106_254301
+%mor:	v|quere-3P&PRES=want inf|pasa-INF=pass .
+*MAD:	toma , estos son los niños . 254301_256795
+%mor:	v|toma-3S&PRES=take cm|cm det:dem|este-MASC-PL=this
+	cop|se-3P&PRES=be det:art|el&MASC-PL=the n|niño-MASC-PL=child .
+%com:	le da dos piezas
+*CHI:	sí . 256795_258673
+%mor:	co|sí=yes .
+*MAD:	mira qué chiquititos son . 258673_259673
+%mor:	co|mira=look pro:int|qué=what adj|chico-DIM-DIM-MASC-PL=small
+	cop|se-3P&PRES=be .
+*MAD:	mira , verás , van a hacer una cosa . 259673_263481
+%mor:	co|mira=look cm|cm v|ve-2S&FUT=see cm|cm v|i-3P&PRES=go aprep|a=to
+	inf|hace-INF=do det:art|un-FEM=one imp|cose-3S&IMP=sew .
+*MAD:	vienen montados en su coche que es este . 263481_266763
+%mor:	v|veni-3P&PRES=come part|monta-PPART-MASC-PL=climb_on prep|en=in
+	det:pos|su&3S=his co|coche pro:rel|que=that cop|se-3S&PRES=be
+	cop|esta-13S&SUB&PRES=be .
+*CHI:	sí , montados . 266763_268761
+%mor:	co|sí=yes cm|cm imp|monta-2P&IMP~pro:clit|2P .
+*MAD:	y van a su casa . 268761_273978
+%mor:	coord|y=and v|i-3P&PRES=go aprep|a=to det:pos|su&3S=his
+	imp|casa-2S&IMP=marry .
+*CHI:	⌈esta no es su casa⌉ . 273978_279581
+%mor:	det:dem|este-FEM=this adv|no=no cop|se-3S&PRES=be det:pos|su&3S=his
+	imp|casa-2S&IMP=marry .
+*PAD:	⌊&=tararea⌋ . 279581_279828
+*CHI:	⌈su casa está aquí⌉ . 279828_282261
+%mor:	det:pos|su&3S=his n|casa&f=house cop|esta-3S&PRES=be adv|aquí=here
+	.
+*PAD:	⌊&=tararea⌋ . 282261_282596
+*CHI:	bájate del coche niño . 282596_284038
+%mor:	imp|baja-2S&IMP~pro:clit|2S prep|de~det|el&MASC co|coche
+	co:voc|niño=child .
+*PAD:	qué bonita ⌈ha hecho su⌉ Mamá . 284038_285206
+%mor:	pro:int|qué=what adj|bonito-FEM=pretty aux|habe-3S&PRES=have
+	part|hace-PPART-MASC=do det:pos|su&3S=his n:prop|Mamá .
+*CHI:	⌊mira esto⌋ . 285206_285606
+%mor:	v|mira-3S&PRES=look pro:dem|esto=this_one .
+*MAD:	qué ? 285606_286203
+%mor:	pro:int|qué=what ?
+*CHI:	⌈el niño se va a su casa ya⌉ . 286203_287265
+%mor:	det:art|el&MASC&SG=the n|niño-MASC=child pro:refl|se=itself
+	v|i-3S&PRES=go aprep|a=to det:pos|su&3S=his imp|casa-2S&IMP=marry
+	adv|ya=already .
+*PAD:	⌊qué bonita has hecho la casita⌋ . 287265_288406
+%mor:	pro:int|qué=what adj|bonito-FEM=pretty aux|habe-2S&PRES=have
+	part|hace-PPART-MASC=do det:art|el&FEM&SG=the n|casa-DIM-FEM=house .
+%com:	María coge al "niño" y lo mete en la casita
+*PAD:	tan bonita . 288406_289356
+%mor:	adv|tan=such co:voc|bonita=pretty .
+*CHI:	déjale pasar . 289356_290540
+%mor:	imp|deja-2S&IMP~pro:clit|3S inf|pasa-INF=pass .
+*CHI:	por aquí . 290540_291913
+%mor:	prep|por=for adv|aquí=here .
+*MAD:	por ahí pasa el niño ? 291913_292960
+%mor:	prep|por=for adv|ahí=there v|pasa-3S&PRES=pass
+	det:art|el&MASC&SG=the n|niño-MASC=child ?
+*MAD:	vive en el último piso ? 292960_293993
+%mor:	v|vivi-3S&PRES=live prep|en=in det:art|el&MASC&SG=the
+	adj|último-MASC=last v|pisa-1S&PRES=press ?
+*CHI:	aquí . 293993_295371
+%mor:	adv|aquí=here .
+%com:	lo coloca
+*MAD:	muy bien , ya está en su habitación . 295371_297786
+%mor:	adv|muy=very adv|bien=well cm|cm adv|ya=already cop|esta-3S&PRES=be
+	prep|en=in det:pos|su&3S=his n|habitación&f=dwelling .
+*PAD:	me parece que se le van a caer las tejas otra vez . 297786_301041
+%mor:	pro:obj|me=me v|parece-3S&PRES=seem pro:rel|que=that
+	pro:refl|se=itself pro:ind|le=him v|i-3P&PRES=go aprep|a=to
+	inf|cae-INF=fall det:art|el&FEM-PL=the n|teja&f-PL=tile
+	det:indef|otro-FEM=other n|vez&f=turn .
+*CHI:	0 [% coge el otro "muñeco"] . 301041_303841
+*MAD:	ese ponle en otro piso , mujer . 303841_305045
+%mor:	det:dem|ese=that imp|pone-2S&IMP~pro:clit|3S prep|en=in
+	pro:indef|otro-MASC=other v|pisa-1S&PRES=press cm|cm co|mujer .
+*CHI:	este no vive aquí . 305045_305820
+%mor:	det:dem|este=this adv|no=no v|vivi-3S&PRES=live adv|aquí=here .
+*MAD:	no , este vive en ese piso . 305820_307198
+%mor:	adv|no=no cm|cm imp|esta-3S&IMP=be v|vivi-3S&PRES=live prep|en=in
+	det:dem|ese=that v|pisa-1S&PRES=press .
+*MAD:	vive en el primero . 307198_308325
+%mor:	v|vivi-3S&PRES=live prep|en=in det:art|el&MASC&SG=the
+	adv|primero=first .
+*CHI:	aquí ? 308325_309221
+%mor:	adv|aquí=here ?
+*CHI:	eh ? 309221_310861
+%mor:	co|eh ?
+*MAD:	donde tú quieras , mi vida . 310861_312010
+%mor:	pro:rel|donde=where pro:sub|tú=you v|quere-2S&SUB&PRES=want cm|cm
+	det:pos|mi=my co:voc|vida=life .
+*CHI:	aquí . 312010_312553
+%mor:	adv|aquí=here .
+*PAD:	ese es el sótano . 312553_313488
+%mor:	det:dem|ese=that cop|se-3S&PRES=be det:art|el&MASC&SG=the
+	n|sótano&m=basement .
+*MAD:	es el semisuelo +... 313488_317913
+%mor:	cop|se-3S&PRES=be det:art|el&MASC&SG=the n|semisuelo&m=mezzanine
+	+...
+*PAD:	www [= habla con Mamá] . 317913_325176
+*CHI:	0 [% tropieza con la casa] ay ! 325176_328398
+%mor:	co|ay=ay !
+*PAD:	la teja , la teja , otra vez +... 328398_329911
+%mor:	det:art|el&FEM&SG=the n|teja&f=tile cm|cm det:art|el&FEM&SG=the
+	n|teja&f=tile cm|cm det:indef|otro-FEM=other n|vez&f=turn +...
+*MAD:	qué ha pasado , mi amor ? 329911_331655
+%mor:	pro:int|qué=what aux|habe-3S&PRES=have part|pasa-PPART-MASC=pass
+	cm|cm det:pos|mi=my co:voc|amor=love ?
+*CHI:	que se m'a [: me ha] caído . 331655_333263
+%mor:	pro:rel|que=that pro:refl|se=itself pro:obj|me=me
+	aux|habe-3S&PRES=have part|cae-PPART-MASC=fall .
+*MAD:	y ahora qué hacemos ? 333263_334655
+%mor:	coord|y=and adv|ahora=now pro:int|qué=what v|hace-1P&PRES=do ?
+*CHI:	lo hacemos ot(r)a vez ? 334655_336360
+%mor:	pro:obj|lo&m=him v|hace-1P&PRES=do det:indef|otro-FEM=other
+	n|vez&f=turn ?
+*MAD:	0 [% se ríe y María también] qué diver(tido) eh ! 336360_340621
+%mor:	pro:int|qué=what adj|divertido-MASC=fun co|eh !
+*CHI:	lo hacemos ot(r)a vez ? 340621_341716
+%mor:	pro:obj|lo&m=him v|hace-1P&PRES=do det:indef|otro-FEM=other
+	n|vez&f=turn ?
+@Tape Location:	Z-2;06-509
+@Situation:	María jugando a hacer casitas. Se le acaba de caer una.
+*PAD:	ponte tú a ayudar a Mamá desde el otro lado . 341716_346541
+%mor:	imp|pone-2S&IMP~pro:clit|2S pro:sub|tú=you aprep|a=to
+	inf|ayuda-INF=help aprep|a=to n:prop|Mamá prep|desde=from
+	det:art|el&MASC&SG=the pro:indef|otro-MASC=other n|lado&m=side .
+*CHI:	eh ? 346541_347303
+%mor:	co|eh ?
+*PAD:	desde el otro lado la puedes ayudar mejor . 347303_349381
+%mor:	prep|desde=from det:art|el&MASC&SG=the pro:indef|otro-MASC=other
+	n|lado&m=side pro:obj|la&f=she v|pode-2S&PRES=can inf|ayuda-INF=help
+	adj|mejor=better .
+*PAD:	venga , desde ahí . 349381_350316
+%mor:	co|venga=come_on cm|cm prep|desde=from adv|ahí=there .
+*CHI:	aquí ? 350316_350883
+%mor:	adv|aquí=here ?
+*PAD:	sí , sí . 350883_351350
+%mor:	co|sí=yes cm|cm co|sí=yes .
+*PAD:	desde ahí la puedes ayudar y +... 351350_352471
+%mor:	prep|desde=from adv|ahí=there pro:obj|la&f=she v|pode-2S&PRES=can
+	inf|ayuda-INF=help coord|y=and +...
+*CHI:	dame uno . 352471_353785
+%mor:	imp|da-2S&IMP~pro:clit|1S pro:dem|uno-MASC=one .
+*PAD:	y es más fácil . 353785_354395
+%mor:	coord|y=and cop|se-3S&PRES=be adv|más=more adj|fácil=easy .
+*CHI:	el niño se va en este coche [% juega con dos piezas] . 354395_358345
+%mor:	det:art|el&MASC&SG=the n|niño-MASC=child pro:refl|se=itself
+	v|i-3S&PRES=go prep|en=in imp|esta-3S&IMP=be co|coche .
+*CHI:	los niños se van en el coche . 358345_362320
+%mor:	det:art|el&MASC-PL=the n|niño-MASC-PL=child pro:refl|se=itself
+	v|i-3P&PRES=go prep|en=in det:art|el&MASC&SG=the co|coche .
+*MAD:	vale . 362320_362803
+%mor:	co|vale=okay .
+*MAD:	pues dame , mira yo decía que a uno le pusieras aquí en este piso y otro en el otro . 362803_366506
+%mor:	co|pues=well imp|da-2S&IMP~pro:clit|1S cm|cm co|mira=look
+	pro:sub|yo=I v|deci-13S&PAS=say pro:rel|que=that aprep|a=to
+	det:art|un-MASC=one pro:ind|le=him v|pone-2S&SUB&PAS=put
+	adv|aquí=here prep|en=in imp|esta-3S&IMP=be n|piso&m=floor
+	coord|y=and det:indef|otro-MASC=other prep|en=in
+	det:art|el&MASC&SG=the pro:indef|otro-MASC=other .
+*CHI:	ya se van a la calle . 366506_371563
+%mor:	adv|ya=already pro:refl|se=itself v|i-3P&PRES=go aprep|a=to
+	det:art|el&FEM&SG=the n|calle&f=street .
+*CHI:	Mamá , ya se van a la calle . 371563_375953
+%mor:	n:prop|Mamá cm|cm adv|ya=already pro:refl|se=itself v|i-3P&PRES=go
+	aprep|a=to det:art|el&FEM&SG=the n|calle&f=street .
+*PAD:	qué ha dicho ? 375953_377715
+%mor:	pro:int|qué=what aux|habe-3S&PRES=have part|deci-PPART-MASC=say ?
+*CHI:	que ya se van a la calle . 377715_380416
+%mor:	pro:rel|que=that adv|ya=already pro:refl|se=itself v|i-3P&PRES=go
+	aprep|a=to det:art|el&FEM&SG=the n|calle&f=street .
+*MAD:	ya se van a la calle . 380416_381705
+%mor:	adv|ya=already pro:refl|se=itself v|i-3P&PRES=go aprep|a=to
+	det:art|el&FEM&SG=the n|calle&f=street .
+*CHI:	dónde está el ot(r)o ? 381705_384648
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&MASC&SG=the
+	pro:indef|otro-MASC=other ?
+*MAD:	está en el último piso . 384648_386146
+%mor:	cop|esta-3S&PRES=be prep|en=in det:art|el&MASC&SG=the
+	adj|último-MASC=last v|pisa-1S&PRES=press .
+*CHI:	um ? 386146_387075
+%mor:	co|um ?
+*MAD:	um . 387075_387531
+%mor:	co|um .
+*CHI:	por_qué ? 387531_388638
+%mor:	pro:int|por_qué=why ?
+*MAD:	lo has puesto tú . 388638_390131
+%mor:	pro:obj|lo&m=him aux|habe-2S&PRES=have part|pone-PPART-MASC=put
+	pro:sub|tú=you .
+*CHI:	esta es su casa ? 390131_392538
+%mor:	det:dem|este-FEM=this cop|se-3S&PRES=be det:pos|su&3S=his
+	imp|casa-2S&IMP=marry ?
+*MAD:	um . 392538_393238
+%mor:	co|um .
+*CHI:	su habitación ? 393238_393890
+%mor:	det:pos|su&3S=his n|habitación&f=dwelling ?
+*CHI:	ya se van a la calle . 393890_396180
+%mor:	adv|ya=already pro:refl|se=itself v|i-3P&PRES=go aprep|a=to
+	det:art|el&FEM&SG=the n|calle&f=street .
+*CHI:	cógelo . 396180_399313
+%mor:	imp|coge-2S&IMP~pro:clit|OBJ&MASC .
+%com:	le pone en el "coche"
+*CHI:	ya se van en el coche . 399313_405195
+%mor:	adv|ya=already pro:refl|se=itself v|i-3P&PRES=go prep|en=in
+	det:art|el&MASC&SG=the co|coche .
+*MAD:	no caben todos en ese coche . 405195_408098
+%mor:	adv|no=no v|cabe-3P&PRES=fit det:indef|todo-MASC-PL=all prep|en=in
+	det:dem|ese=that co|coche .
+*MAD:	vas a tener que coger un coche más grande . 408098_409793
+%mor:	v|i-2S&PRES=go aprep|a=to inf|tene-INF=have pro:rel|que=that
+	inf|coge-INF=take det:art|un&m=one co|coche adv|más=more
+	adj|grande=big .
+*MAD:	es que ese es un seiscientos . 409793_411176
+%mor:	cop|se-3S&PRES=be pro:rel|que=that det:dem|ese=that
+	cop|se-3S&PRES=be det:art|un&m=one
+	det:num|seisciento&m-PL=six_hundred .
+*MAD:	mira , ahí tienen un coche más grande . 411176_413096
+%mor:	co|mira=look cm|cm adv|ahí=there v|tene-3P&PRES=have
+	det:art|un&m=one co|coche adv|más=more adj|grande=big .
+*MAD:	lo han dejado aparcado ? 413096_416378
+%mor:	pro:obj|lo&m=him aux|habe-3P&PRES=have part|deja-PPART-MASC=leave
+	part|aparca-PPART-MASC=park ?
+*MAD:	no lo ves que lo han dejado aparcado ? 416378_418463
+%mor:	adv|no=no pro:obj|lo&m=him v|ve-2S&PRES=see pro:rel|que=that
+	pro:obj|lo&m=him aux|habe-3P&PRES=have part|deja-PPART-MASC=leave
+	part|aparca-PPART-MASC=park ?
+*CHI:	uno y dos . 418463_422646
+%mor:	det:art|un-MASC=one coord|y=and det:num|dos=two .
+%com:	los pone en el otro coche
+*CHI:	uno y dos aquí . 422646_424246
+%mor:	det:art|un-MASC=one coord|y=and det:num|dos=two adv|aquí=here .
+*CHI:	así , ⌈bum⌉@o ! 424246_429405
+%mor:	adv|así=thus cm|cm on|bum !
+*PAD:	⌊xxx⌋ [% cantando de nuevo] . 429405_429738
+*CHI:	ya se van a casa , a casita . 429738_432626
+%mor:	adv|ya=already pro:refl|se=itself v|i-3P&PRES=go aprep|a=to
+	imp|casa-2S&IMP=marry cm|cm aprep|a=to n|casa-DIM-FEM=house .
+%com:	los mueve
+*CHI:	ya están en casa . 432626_434516
+%mor:	adv|ya=already cop|esta-3P&PRES=be prep|en=in imp|casa-2S&IMP=marry
+	.
+*CHI:	este está en su habitación . 434516_441956
+%mor:	det:dem|este=this cop|esta-3S&PRES=be prep|en=in det:pos|su&3S=his
+	n|habitación&f=dwelling .
+*CHI:	0 [% coge otro] este está en la suya . 441956_446636
+%mor:	det:dem|este=this cop|esta-3S&PRES=be prep|en=in
+	det:art|el&FEM&SG=the pro:pos|suyo-FEM=his .
+*PAD:	María , desde ahí no se juega bien . 446636_452103
+%mor:	n:prop|María cm|cm prep|desde=from adv|ahí=there adv|no=no
+	pro:refl|se=itself v|juga-3S&PRES=play adv|bien=well .
+*PAD:	juega mejor desde el otro sitio , cielo +... 452103_453670
+%mor:	v|juga-3S&PRES=play adj|mejor=better prep|desde=from
+	det:art|el&MASC&SG=the pro:indef|otro-MASC=other n|sitio&m=place
+	cm|cm co:voc|cielo=angel +...
+*CHI:	0 [% se cambia de sitio . se pone frente a la cámara] . 453670_455210
+*PAD:	desde el otro sitio sí porque ahí entran mejor los chicos a sus casas y todo eso . 455210_458988
+%mor:	prep|desde=from det:art|el&MASC&SG=the pro:indef|otro-MASC=other
+	n|sitio&m=place co|sí=yes conj|porque=because adv|ahí=there
+	v|entra-3P&PRES=come_in adj|mejor=better det:art|el&MASC-PL=the
+	n|chico-MASC-PL=child aprep|a=to co|sus n|casa&f-PL=house
+	coord|y=and det:indef|todo-MASC=all pro:dem|eso=that_one .
+*PAD:	vale ? 458988_460315
+%mor:	co|vale=okay ?
+*CHI:	esta ya está en su casa , Mamá . 460315_462315
+%mor:	det:dem|este-FEM=this adv|ya=already cop|esta-3S&PRES=be prep|en=in
+	det:pos|su&3S=his n|casa&f=house cm|cm n:prop|Mamá .
+*MAD:	muy bien , mi vida . 462315_463315
+%mor:	adv|muy=very adv|bien=well cm|cm det:pos|mi=my co:voc|vida=life .
+*MAD:	ahora falta uno . 463315_464163
+%mor:	adv|ahora=now v|falta-3S&PRES=be_lacking pro:dem|uno-MASC=one .
+*MAD:	mete al otro en su casita . 464163_465158
+%mor:	v|mete-3S&PRES=put aprep|a~det|el&MASC det:indef|otro-MASC=other
+	prep|en=in det:pos|su&3S=his n|casa-DIM-FEM=house .
+*CHI:	este ? 465158_465188
+%mor:	det:dem|este=this ?
+*CHI:	este no está . 465188_468525
+%mor:	det:dem|este=this adv|no=no cop|esta-3S&PRES=be .
+%com:	no tiene sitio
+*MAD:	hacemos una casa a ese ? 468525_472820
+%mor:	v|hace-1P&PRES=do det:art|un-FEM=one imp|casa-2S&IMP=marry
+	aprep|a=to det:dem|ese=that ?
+*CHI:	um ? 472820_473476
+%mor:	co|um ?
+*MAD:	hacemos una casa a ese ? 473476_474470
+%mor:	v|hace-1P&PRES=do det:art|un-FEM=one imp|casa-2S&IMP=marry
+	aprep|a=to det:dem|ese=that ?
+*CHI:	sí . 474470_474948
+%mor:	co|sí=yes .
+*MAD:	una para él solo . 474948_476070
+%mor:	det:art|un-FEM=one imp|pari-3S&IMP=give_birth pro:sub|él&m=he
+	adj|solo-MASC=alone .
+*MAD:	aquí al lado de la de los otros . 476070_478555
+%mor:	adv|aquí=here aprep|a~det|el&MASC n|lado&m=side prep|de=of
+	det:art|el&FEM&SG=the prep|de=of det:art|el&MASC-PL=the
+	pro:indef|otro-MASC-PL=other .
+%com:	se cae la casa
+*MAD:	ahora ya no te lo hago eh . 478555_487026
+%mor:	adv|ahora=now adv|ya=already adv|no=no pro:obj|te=you
+	pro:obj|lo&m=him v|hace-1S&PRES=do co|eh .
+*CHI:	por_qué ? 487026_487843
+%mor:	pro:int|por_qué=why ?
+*MAD:	estoy cansada . 487843_488691
+%mor:	aux|esta-1S&PRES=be part|cansa-PPART-FEM=tire .
+*MAD:	haz tú , una casita . 488691_490563
+%mor:	imp|hace-2S&IMP=do pro:sub|tú=you cm|cm det:art|un-FEM=one
+	n|casa-DIM-FEM=house .
+*MAD:	venga a_ver como te sale . 490563_491586
+%mor:	co|venga=come_on co|a_ver=see adv|como=like pro:obj|te=you
+	v|sali-3S&PRES=leave .
+*CHI:	yo no lo sé . 491586_493845
+%mor:	pro:sub|yo=I adv|no=no pro:obj|lo&m=him v|sabe-1S&PRES=know .
+*MAD:	anda , venga que sí te lo hago . 493845_496031
+%mor:	co|anda=come_on cm|cm co|venga=come_on pro:rel|que=that co|sí=yes
+	pro:obj|te=you pro:obj|lo&m=him v|hace-1S&PRES=do .
+*MAD:	jope con la niña . 496031_497338
+%mor:	co|jope=get_out prep|con=with det:art|el&FEM&SG=the
+	n|niño-FEM=child .
+*MAD:	deja , este es el suelo de la casa . 497338_509111
+%mor:	v|deja-3S&PRES=leave cm|cm imp|esta-3S&IMP=be cop|se-3S&PRES=be
+	det:art|el&MASC&SG=the n|suelo&m=floor prep|de=of
+	det:art|el&FEM&SG=the imp|casa-2S&IMP=marry .
+*CHI:	sí . 509111_509901
+%mor:	co|sí=yes .
+*MAD:	vas a_ver , ahora vamos a hacer una casa muy grande para que quepan todos . 509901_516111
+%mor:	v|i-2S&PRES=go co|a_ver=see cm|cm adv|ahora=now v|i-1P&PRES=go
+	aprep|a=to inf|hace-INF=do det:art|un-FEM=one imp|casa-2S&IMP=marry
+	adv|muy=very adj|grande=big prep|para=for pro:rel|que=that
+	v|cabe-3P&SUB&PRES=fit det:indef|todo-MASC-PL=all .
+*CHI:	sí . 516111_518830
+%mor:	co|sí=yes .
+*CHI:	yo cojo uno también Mamá . 518830_522765
+%mor:	pro:sub|yo=I v|coge-1S&PRES=take pro:dem|uno-MASC=one
+	adv|también=also n:prop|Mamá .
+*CHI:	yo cojo uno de estos . 522765_528221
+%mor:	pro:sub|yo=I v|coge-1S&PRES=take det:art|un-MASC=one prep|de=of
+	det:dem|este-MASC-PL=this .
+*MAD:	0 [% Mamá hace la casa] . 528221_531596
+*CHI:	está aquí con su Papá . 531596_531821
+%mor:	cop|esta-3S&PRES=be adv|aquí=here prep|con=with det:pos|su&3S=his
+	n:prop|Papá .
+*CHI:	este es su Papá ? 531821_533258
+%mor:	det:dem|este=this cop|se-3S&PRES=be det:pos|su&3S=his n:prop|Papá ?
+*MAD:	sí . 533258_534671
+%mor:	co|sí=yes .
+*CHI:	sí ? 534671_536153
+%mor:	co|sí=yes ?
+*CHI:	a su Papá , tápale [% la madre pone una pieza encima] . 536153_544008
+%mor:	aprep|a=to det:pos|su&3S=his n:prop|Papá cm|cm
+	imp|tapa-2S&IMP~pro:clit|3S .
+*CHI:	tapa estos . 544008_546116
+%mor:	n|tapa&f=cover det:dem|este-MASC-PL=this .
+*CHI:	estos . 546116_547736
+%mor:	det:dem|este-MASC-PL=this .
+*CHI:	vamos a coger uno , uno más g(r)ande . 547736_550320
+%mor:	v|i-1P&PRES=go aprep|a=to inf|coge-INF=take pro:dem|uno-MASC=one
+	cm|cm pro:dem|uno-MASC=one adv|más=more adj|grande=big .
+*MAD:	espera . 550320_551298
+%mor:	imp|espera-2S&IMP=wait .
+*MAD:	ese vale . 551298_552560
+%mor:	det:dem|ese=that co|vale=okay .
+*MAD:	tráele . 552560_553640
+%mor:	imp|trae-2S&IMP~pro:clit|3S .
+*MAD:	este aquí , este aquí . 553640_559036
+%mor:	det:dem|este=this adv|aquí=here cm|cm imp|esta-3S&IMP=be
+	adv|aquí=here .
+*CHI:	este es muy chiquitito . 559036_567480
+%mor:	det:dem|este=this cop|se-3S&PRES=be adv|muy=very
+	adj|chico-DIM-DIM-MASC=small .
+@End

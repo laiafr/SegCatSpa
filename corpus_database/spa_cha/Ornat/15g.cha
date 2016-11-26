@@ -1,0 +1,316 @@
+@UTF8
+@PID:	11312/c-00032812-1
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , PAD Father
+@ID:	spa|Ornat|CHI|3;6.||||Target_Child|||
+@ID:	spa|Ornat|PAD|||||Father|||
+@Media:	15g, video
+@Comment:	DV Tape is end movie15-04.mov
+@Tape Location:	Z-3;07-607
+@Situation:	María en la terraza pintando.
+*CHI:	venga , seguimos . 0_4246
+%mor:	co|venga=come_on cm|cm v|segui-1P&PRES&PRET=follow .
+*PAD:	um , cuéntame tú a mí uno . 4246_5713
+%mor:	co|um cm|cm imp|conta-2S&IMP~pro:clit|1S pro:sub|tú=you aprep|a=to
+	pro:prep|mí=me pro:dem|uno-MASC=one .
+*PAD:	a_ver si inventas tú uno . 5713_6676
+%mor:	co|a_ver=see conj|si=if v|inventa-2S&PRES=invent pro:sub|tú=you
+	pro:dem|uno-MASC=one .
+*PAD:	luego te cuento a ti otro . 6676_7650
+%mor:	adv|luego=afterwards pro:obj|te=you v|conta-1S&PRES=count_tell
+	aprep|a=to pro:prep|ti=you det:indef|otro-MASC=other .
+*PAD:	a_ver si tú eres capaz de hacerme trampas para equivocarme a mi como yo a ti . 7650_13313
+%mor:	co|a_ver=see conj|si=if pro:sub|tú=you cop|se-2S&PRES=be
+	adj|capaz=capable prep|de=of inf|hace-INF~pro:clit|1S
+	n|trampa&f-PL=trick prep|para=for inf|equivoca-INF~pro:clit|1S
+	aprep|a=to det:pos|mi=my adv|como=like pro:sub|yo=I aprep|a=to
+	pro:prep|ti=you .
+*CHI:	tú eres un Marío . 13313_14770
+%mor:	pro:sub|tú=you cop|se-2S&PRES=be det:art|un&m=one n:prop|Marío .
+*PAD:	un qué ? 14770_16243
+%mor:	det:art|un&m=one pro:int|qué=what ?
+*CHI:	un Marío . 16243_17171
+%mor:	det:art|un&m=one n:prop|Marío .
+*PAD:	un marido ? 17171_17985
+%mor:	det:art|un&m=one n|marido&m=husband ?
+*PAD:	pues , vale , pues es verdad . 17985_22546
+%mor:	co|pues=well cm|cm co|vale=okay cm|cm co|pues=well
+	cop|se-3S&PRES=be co|verdad=right .
+*CHI:	a_ver , tú eres , tú eres una niña . 22546_25538
+%mor:	co|a_ver=see cm|cm pro:sub|tú=you cop|se-2S&PRES=be cm|cm
+	pro:sub|tú=you cop|se-2S&PRES=be det:art|un-FEM=one n|niño-FEM=child
+	.
+*PAD:	no , es una mentira . 25538_27358
+%mor:	adv|no=no cm|cm cop|se-3S&PRES=be det:art|un-FEM=one
+	n|mentira&f=lie .
+*PAD:	eso es una tontería . 27358_29645
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be det:art|un-FEM=one
+	n|tontería&f=foolishness .
+*PAD:	cuéntame un cuento más largo para engañarme . 29645_34723
+%mor:	imp|conta-2S&IMP~pro:clit|1S det:art|un&m=one
+	v|conta-1S&PRES=count_tell adv|más=more v|larga-1S&PRES=go_away
+	prep|para=for inf|engaña-INF~pro:clit|1S .
+*CHI:	un día , había una vez un lobo mu(y) malo , mu(y) malo , mu(y) malo . 34723_44843
+%mor:	det:art|un&m=one n|día&m=day cm|cm v|habe-13S&PAS=have
+	det:art|un-FEM=one n|vez&f=turn det:art|un&m=one n|lobo-MASC=wolf
+	adv|muy=very adj|malo-MASC=bad cm|cm adv|muy=very adj|malo-MASC=bad
+	cm|cm adv|muy=very adj|malo-MASC=bad .
+*PAD:	unos qué ? 44843_46586
+%mor:	det:art|un-MASC-PL=one pro:int|qué=what ?
+*CHI:	un lobo mu(y) malo , mu(y) malo , mu(y) malo muy malo . 46586_50153
+%mor:	det:art|un&m=one n|lobo-MASC=wolf adv|muy=very adj|malo-MASC=bad
+	cm|cm adv|muy=very adj|malo-MASC=bad cm|cm adv|muy=very
+	adj|malo-MASC=bad adv|muy=very adj|malo-MASC=bad .
+*CHI:	ah , muy malo . 50153_51751
+%mor:	co|ah cm|cm adv|muy=very adj|malo-MASC=bad .
+*CHI:	malo , muy malo , muy malo , muy malo . 51751_55056
+%mor:	adj|malo-MASC=bad cm|cm adv|muy=very adj|malo-MASC=bad cm|cm
+	adv|muy=very adj|malo-MASC=bad cm|cm adv|muy=very adj|malo-MASC=bad
+	.
+*CHI:	malo , muy malo . 55056_57403
+%mor:	adj|malo-MASC=bad cm|cm adv|muy=very adj|malo-MASC=bad .
+*PAD:	bueno sí , parece malo . 57403_62025
+%mor:	co|bueno=good co|sí=yes cm|cm v|parece-3S&PRES=seem
+	adj|malo-MASC=bad .
+*PAD:	y qué más ? 62025_62463
+%mor:	coord|y=and pro:int|qué=what adv|más=more ?
+*CHI:	0 [% pinta] . 62463_67751
+*PAD:	ya está ? 67751_68971
+%mor:	adv|ya=already cop|esta-3S&PRES=be ?
+*CHI:	eh ? 68971_69258
+%mor:	co|eh ?
+*PAD:	ya está el cuento ? 69258_69721
+%mor:	adv|ya=already cop|esta-3S&PRES=be det:art|el&MASC&SG=the
+	v|conta-1S&PRES=count_tell ?
+*CHI:	sí . 69721_70415
+%mor:	co|sí=yes .
+*PAD:	joder Tía , que original . 70415_71920
+%mor:	inf|jode-INF=screw n:prop|Tía cm|cm pro:rel|que=that
+	adj|original=original .
+*PAD:	el cuento tiene que tener más rollo , tienes que darle un poco más . 71920_77928
+%mor:	det:art|el&MASC&SG=the n|cuento&m=story v|tene-3S&PRES=have
+	pro:rel|que=that inf|tene-INF=have adv|más=more n|rollo&m=roller
+	cm|cm v|tene-2S&PRES=have pro:rel|que=that inf|da-INF~pro:clit|3S
+	det:art|un&m=one adv|poco=few adv|más=more .
+*CHI:	es que es así . 77928_81391
+%mor:	cop|se-3S&PRES=be pro:rel|que=that cop|se-3S&PRES=be adv|así=thus .
+*PAD:	es así ? 81391_85511
+%mor:	cop|se-3S&PRES=be adv|así=thus ?
+*CHI:	sí . 85511_86136
+%mor:	co|sí=yes .
+*PAD:	o sea que un lobo era muy malo , muy malo , muy malo y se acaba el cuento . 86136_90230
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be prep|que=than det:art|un&m=one
+	n|lobo-MASC=wolf cop|se-13S&PAS=be adv|muy=very adj|malo-MASC=bad
+	cm|cm adv|muy=very adj|malo-MASC=bad cm|cm adv|muy=very
+	adj|malo-MASC=bad coord|y=and pro:refl|se=itself
+	v|acaba-3S&PRES=finish det:art|el&MASC&SG=the
+	v|conta-1S&PRES=count_tell .
+*CHI:	0 [% sigue pintando] . 90230_94338
+*PAD:	me parece que estás pasando de tu padre . 94338_95593
+%mor:	pro:obj|me=me v|parece-3S&PRES=seem pro:rel|que=that
+	aux|esta-2S&PRES=be ger|pasa-PROG=pass prep|de=of det:pos|tu=your
+	n|padre&m=father .
+@Tape Location:	Z-3;07-608
+@Situation:	María en la terraza con papá.
+*CHI:	deja la máquina que me vas a decir tú lo que , lo que tengo que hacer aquí . 95593_110528
+%mor:	v|deja-3S&PRES=leave det:art|el&FEM&SG=the n|máquina&f=machine
+	pro:rel|que=that pro:obj|me=me v|i-2S&PRES=go aprep|a=to
+	inf|deci-INF=say pro:sub|tú=you pro:obj|lo&m=him prep|que=than cm|cm
+	pro:obj|lo&m=him pro:rel|que=that v|tene-1S&PRES=have
+	pro:rel|que=that inf|hace-INF=do adv|aquí=here .
+*CHI:	esto qué es ? 110528_112286
+%mor:	pro:dem|esto=this_one pro:int|qué=what cop|se-3S&PRES=be ?
+%com:	enseña el cuaderno
+*PAD:	a_ver +... 112286_114158
+%mor:	co|a_ver=see +...
+*CHI:	una casa con teja(d)o [% está dibujando] . 114158_116338
+%mor:	det:art|un-FEM=one imp|casa-2S&IMP=marry prep|con=with
+	n|tejado&m=roof .
+*PAD:	eso es una casa con teja(d)o ? 116338_118246
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be det:art|un-FEM=one
+	imp|casa-2S&IMP=marry prep|con=with n|tejado&m=roof ?
+*CHI:	sí . 118246_118978
+%mor:	co|sí=yes .
+*PAD:	a_ver . 118978_119590
+%mor:	co|a_ver=see .
+*CHI:	no ves que tiene un teja(d)o . 119590_120536
+%mor:	adv|no=no v|ve-2S&PRES=see pro:rel|que=that v|tene-3S&PRES=have
+	det:art|un&m=one n|tejado&m=roof .
+*PAD:	hija yo no , y rojo todo ? 120536_124115
+%mor:	co:voc|hija=child pro:sub|yo=I adv|no=no cm|cm coord|y=and
+	adj|rojo-MASC=red det:indef|todo-MASC=all ?
+*CHI:	rojo . 124115_125243
+%mor:	adj|rojo-MASC=red .
+*PAD:	me parece que falta por pulir un poco el dibujo . 125243_132951
+%mor:	pro:obj|me=me v|parece-3S&PRES=seem pro:rel|que=that
+	v|falta-3S&PRES=be_lacking prep|por=for inf|puli-INF=polish
+	det:art|un&m=one adv|poco=few det:art|el&MASC&SG=the
+	v|dibuja-1S&PRES=draw .
+*PAD:	vamos , a mi parecer no es una casa con teja(d)o muy allá . 132951_139661
+%mor:	v|i-1P&PRES=go cm|cm aprep|a=to det:pos|mi=my inf|parece-INF=seem
+	adv|no=no cop|se-3S&PRES=be det:art|un-FEM=one imp|casa-2S&IMP=marry
+	prep|con=with n|tejado&m=roof adv|muy=very adv|allá=there .
+*CHI:	esta es una casa de ladrones pequeñitos . 139661_143773
+%mor:	det:dem|este-FEM=this cop|se-3S&PRES=be det:art|un-FEM=one
+	imp|casa-2S&IMP=marry prep|de=of n|ladrón&m-PL=thief
+	adj|pequeño-DIM-MASC-PL=small .
+*PAD:	de lade@n ? 143773_144456
+%mor:	prep|de=of neo|lade ?
+*CHI:	de ladrones . 144456_145838
+%mor:	prep|de=of n|ladrón&m-PL=thief .
+*PAD:	ah , vale . 145838_146881
+%mor:	co|ah cm|cm co|vale=okay .
+*CHI:	de ladrones pequeñitos . 146881_148456
+%mor:	prep|de=of n|ladrón&m-PL=thief adj|pequeño-DIM-MASC-PL=small .
+*CHI:	anda , si aparece ot(r)a mosca . 148456_152656
+%mor:	co|anda=come_on cm|cm conj|si=if imp|aparece-2S&IMP=appear
+	det:indef|otro-FEM=other n|mosca&f=fly .
+*CHI:	esa era más gorda y ahora se ha ido la ot(r)a , no ? 152656_156393
+%mor:	det:dem|ese-FEM=that cop|se-13S&PAS=be adv|más=more
+	adj|gordo-FEM=fat coord|y=and adv|ahora=now pro:refl|se=itself
+	aux|habe-3S&PRES=have part|i-PPART-MASC=go det:art|el&FEM&SG=the
+	det:indef|otro-FEM=other cm|cm adv|no=no ?
+*PAD:	ya . 156393_157055
+%mor:	adv|ya=already .
+*CHI:	pues ahora hay dos moscas . 157055_158305
+%mor:	co|pues=well adv|ahora=now v|habe-3S&PRES&SPEC=have det:num|dos=two
+	n|mosca&f-PL=fly .
+*CHI:	ha venido la ot(r)a que tiene una amiguita mosca . 158305_161838
+%mor:	aux|habe-3S&PRES=have part|veni-PPART-MASC=come
+	det:art|el&FEM&SG=the det:indef|otro-FEM=other pro:rel|que=that
+	v|tene-3S&PRES=have det:art|un-FEM=one n|amigo-DIM-FEM=friend
+	n|mosca&f=fly .
+*PAD:	⌈anda⌉ . 161838_162720
+%mor:	co|anda=come_on .
+*CHI:	⌊anda⌋ . 162720_162985
+%mor:	co|anda=come_on .
+*PAD:	anda . 162985_163543
+%mor:	co|anda=come_on .
+*CHI:	ya , ya , ahora hay ties [: tres] , ties [: tres] moscas . 163543_167855
+%mor:	adv|ya=already cm|cm adv|ya=already cm|cm adv|ahora=now
+	v|habe-3S&PRES&SPEC=have det:num|tres=three cm|cm det:num|tres=three
+	n|mosca&f-PL=fly .
+*PAD:	vaya por Dios ! 167855_168695
+%mor:	co|vaya=come_on prep|por=for n:prop|Dios !
+*CHI:	y yo he visto ahí dentro de casa moscas . 168695_176006
+%mor:	coord|y=and pro:sub|yo=I v|habe-1S&PRES=have part|ve-PPART-MASC=see
+	adv|ahí=there adv|dentro=inside prep|de=of n|casa&f=house
+	n|mosca&f-PL=fly .
+*PAD:	sí ? 176006_177093
+%mor:	co|sí=yes ?
+*CHI:	porque aquí en la terraza vienen las moscas de ahí . 177093_183253
+%mor:	conj|porque=because adv|aquí=here prep|en=in det:art|el&FEM&SG=the
+	n|terraza&f=terrace v|veni-3P&PRES=come det:art|el&FEM-PL=the
+	n|mosca&f-PL=fly prep|de=of adv|ahí=there .
+@Tape Location:	Z-3;07-609
+@Situation:	María en la terraza con papá.
+*PAD:	a_ver , sabes guiñar un ojo ? 183253_186741
+%mor:	co|a_ver=see cm|cm v|sabe-2S&PRES=know inf|guiña-INF=wink
+	det:art|un&m=one co|ojo ?
+%com:	lo guiña y se ríen
+*PAD:	y sabes guiñar el otro ? 186741_197650
+%mor:	coord|y=and v|sabe-2S&PRES=know inf|guiña-INF=wink
+	det:art|el&MASC&SG=the pro:indef|otro-MASC=other ?
+*CHI:	no . 197650_198948
+%mor:	adv|no=no .
+*PAD:	ah ! 198948_200190
+%mor:	co|ah !
+*PAD:	sólo sabes guiñar ese ? 200190_203295
+%mor:	adv|sólo=only v|sabe-2S&PRES=know inf|guiña-INF=wink
+	det:dem|ese=that ?
+*CHI:	0 [% se tapa el otro ojo] . 203295_203978
+*PAD:	ah qué técnica más chuli ! 203978_206183
+%mor:	co|ah pro:int|qué=what n|técnica&f=technique adv|más=more
+	adj|chuli=attractive !
+*PAD:	bueno , se nos está acabando la pelí(cula) . 206183_213541
+%mor:	co|bueno=good cm|cm pro:refl|se=itself pro:obj|nos=us
+	aux|esta-3S&PRES=be ger|acaba-PROG=finish det:art|el&FEM&SG=the
+	n|película&f=film .
+*PAD:	quieres despedirte ? 213541_215381
+%mor:	v|quere-2S&PRES=want inf|despedi-INF~pro:clit|2S ?
+*CHI:	jo , Papá . 215381_217628
+%mor:	co|jo=whoa cm|cm n:prop|Papá .
+*PAD:	qué ? 217628_218508
+%mor:	pro:int|qué=what ?
+*CHI:	no quiero . 218508_219988
+%mor:	adv|no=no v|quere-1S&PRES=want .
+*PAD:	pues nada , quieres mandar unos besos ? 219988_222548
+%mor:	co|pues=well v|nada-3S&PRES=swim cm|cm v|quere-2S&PRES=want
+	inf|manda-INF=order pro:dem|uno-MASC-PL=one n|beso&m-PL=kiss ?
+*PAD:	o tampoco ? 222548_223678
+%mor:	coord|o=or adv|tampoco=neither ?
+*CHI:	tampoco . 223678_225485
+%mor:	adv|tampoco=neither .
+*CHI:	quiero que me cuentes un cuento de mentirijillas . 225485_228850
+%mor:	v|quere-1S&PRES=want pro:rel|que=that pro:obj|me=me
+	v|conta-2S&SUB&PRES=count_tell det:art|un&m=one
+	v|conta-1S&PRES=count_tell prep|de=of n|mentirija-DIM-FEM-PL=lie .
+*PAD:	había una vez una niña que pintaba casas muy bonitas . 228850_233226
+%mor:	aux|habe-13S&PAS=have det:art|un-FEM=one n|vez&f=turn
+	det:art|un-FEM=one co:voc|niña=child pro:rel|que=that
+	v|pinta-13S&PAS=paint v|casa-2S&PRES=marry adv|muy=very
+	adj|bonito-FEM-PL=pretty .
+*PAD:	qué te parece ? 233226_235653
+%mor:	pro:int|qué=what pro:obj|te=you v|parece-3S&PRES=seem ?
+*CHI:	no , de mentirijillas he dicho . 235653_239005
+%mor:	adv|no=no cm|cm prep|de=of n|mentirija-DIM-FEM-PL=lie
+	aux|habe-1S&PRES=have part|deci-PPART-MASC=say .
+*PAD:	había una niña una vez que pintaba castillos encantados llenos de algodones . 239005_244778
+%mor:	aux|habe-13S&PAS=have det:art|un-FEM=one co:voc|niña=child
+	det:art|un-FEM=one n|vez&f=turn pro:rel|que=that
+	v|pinta-13S&PAS=paint n|castillo&m-PL=castle
+	part|encanta-PPART-MASC-PL=enchant adj|lleno-MASC-PL=full prep|de=of
+	n|algodón&m-PL=cotton .
+*CHI:	que no , que me cuentes un cuento de mentirijillas . 244778_252791
+%mor:	pro:rel|que=that adv|no=no cm|cm pro:rel|que=that pro:obj|me=me
+	v|conta-2S&SUB&PRES=count_tell det:art|un&m=one
+	v|conta-1S&PRES=count_tell prep|de=of n|mentirija-DIM-FEM-PL=lie .
+*PAD:	sí , el que te he contado , de qué era ? 252791_254246
+%mor:	co|sí=yes cm|cm det:art|el&MASC&SG=the pro:rel|que=that
+	pro:obj|te=you aux|habe-1S&PRES=have
+	part|conta-PPART-MASC=count_tell cm|cm prep|de=of pro:int|qué=what
+	cop|se-13S&PAS=be ?
+*CHI:	de una niña . 254246_255520
+%mor:	prep|de=of det:art|un-FEM=one n|niño-FEM=child .
+*PAD:	pues había una vez un capirote con los ojos coloraetes , que se llamaba Mariano . 255520_265638
+%mor:	co|pues=well v|habe-13S&PAS=have det:art|un-FEM=one n|vez&f=turn
+	det:art|un&m=one n|capirote&m=hood prep|con=with
+	det:art|el&MASC-PL=the n|ojo&m-PL=eye adj|coloraete-PL=blushing
+	cm|cm pro:rel|que=that pro:refl|se=itself v|llama-13S&PAS=call
+	n:prop|Mariano .
+*CHI:	coloraretes@wp . 265638_268021
+%mor:	wplay|coloraretes .
+*PAD:	cómo ? 268021_269590
+%mor:	pro:int|cómo=how ?
+*CHI:	coloraretes@wp . 269590_270726
+%mor:	wplay|coloraretes .
+*PAD:	coloraretes@wp los ojetes@wp [% ríen] . 270726_272141
+%mor:	wplay|coloraretes det:art|el&MASC-PL=the wplay|ojetes .
+*CHI:	&=rie otoletes@wp , opeleteros@wp . 272141_284430
+%mor:	wplay|otoletes cm|cm wplay|opeleteros .
+*PAD:	cómo ? 284430_285386
+%mor:	pro:int|cómo=how ?
+*CHI:	xxx . 285386_286786
+*PAD:	estás haciendo juegos tramposos , no ? 286786_290618
+%mor:	aux|esta-2S&PRES=be ger|hace-PROG=do n|juego&m-PL=game
+	adj|tramposo-MASC-PL=cheating cm|cm adv|no=no ?
+*PAD:	estás diciendo palabras que no te sabes , a que no ? 290618_294163
+%mor:	aux|esta-2S&PRES=be ger|deci-PROG=say n|palabra&f-PL=word
+	pro:rel|que=that adv|no=no pro:obj|te=you v|sabe-2S&PRES=know cm|cm
+	aprep|a=to pro:rel|que=that adv|no=no ?
+*CHI:	venga , tú me dices lo que , lo que quieres que pinte yo . 294163_303376
+%mor:	co|venga=come_on cm|cm pro:sub|tú=you pro:obj|me=me
+	v|deci-2S&PRES=say pro:obj|lo&m=him prep|que=than cm|cm
+	pro:obj|lo&m=him pro:rel|que=that v|quere-2S&PRES=want prep|que=than
+	imp|pinta-3S&IMP=paint pro:sub|yo=I .
+*PAD:	pues quiero que pintes un dinosaurio con una prima suya catalana . 303376_311218
+%mor:	co|pues=well v|quere-1S&PRES=want pro:rel|que=that
+	v|pinta-2S&SUB&PRES=paint det:art|un&m=one n|dinosaurio&m=dinosaur
+	prep|con=with det:art|un-FEM=one n|primo-FEM=cousin
+	pro:pos|suyo-FEM=his n|catalana&f=Catalan .
+*CHI:	eso no lo sé hacer . 311218_316258
+%mor:	pro:dem|eso=that_one adv|no=no pro:obj|lo&m=him v|sabe-1S&PRES=know
+	inf|hace-INF=do .
+@Comment:	DV Tape is end maria 15
+@End

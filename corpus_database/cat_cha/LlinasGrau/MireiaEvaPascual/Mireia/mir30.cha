@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|2;2.16||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	26-JAN-1996
+@Location:	in the dining-room
+@Activities:	MIR is sitting at the table playing with plasticine
+@Comment:	MOT is video-taping
+*MIR:	0 .
+%sit:	has made a pair of glasses with plasticine but they break
+*MOT:	què (.) què passa ?
+*MIR:	sa caido@s tot .
+*MIR:	mira .
+*MOT:	què ha passat (.) eh ?
+*MIR:	això sa caido@s .
+*MOT:	s'han trencat les ulleres (.) eh ?
+*MIR:	s'han trencat .
+@New Episode
+*MIR:	0 .
+%sit:	has made a new pair of glasses
+*MOT:	què m'has dit fa un moment (.) què m'has dit si volia +...
+*MIR:	no (.) a camera no !
+*MOT:	perquè no ?
+*MIR:	no .
+*MOT:	m'has preguntat una cosa .
+*MOT:	què m'has dit (.) eh ?
+*MIR:	tu fea@s .
+*MOT:	bueno .
+*MIR:	xafar plastilina .
+*MOT:	què fas ?
+*MIR:	mira tot això .
+%act:	puts the glasses on her nose
+*MIR:	hola mama (.) hola !
+*MOT:	hola Mimi (.) hola !
+*MIR:	mira mama que me hecho@s .
+*MOT:	què ?
+*MIR:	mira .
+*MOT:	què és (.) que me hecho (.) dius (.) què has fet ?
+*MIR:	xxx .
+*MIR:	mira (.) mira mama (.) això (.) tot això mío@s .
+*MIR:	vull la serp la serp .
+*MOT:	la serp ?
+@End
