@@ -1,0 +1,824 @@
+@UTF8
+@PID:	11312/c-00028105-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Laura Target_Child , MAR mare Mother , INV experimentador Investigator
+@ID:	cat|Serra|CHI|1;7.20||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	m i l son al menjador , m asseguda al sofa i l de peu , estan jugant amb cubs de colors
+*MAR:	te .
+*MAR:	fes una torre .
+*MAR:	vols fer una torre ?
+*MAR:	fem una torre .
+*CHI:	pcf [% "abuda" , agafa les joguines] .
+*CHI:	0 .
+%act:	s' ajup
+*MAR:	fes una torre .
+*MAR:	a veure , fes una torre .
+*CHI:	0 [= mira la camera] .
+*CHI:	0 [= mira a m] .
+*CHI:	oh [= mirant la camera] !
+*MAR:	oh !
+*MAR:	que fa la rosa ?
+*CHI:	ui [= ajupida damunt les joguines] !
+*MAR:	ai !
+*CHI:	ai !
+*MAR:	que ?
+*CHI:	pcf [% "ui eh evidavi" , molt fluix] .
+*CHI:	0 .
+%act:	fica els cubs uns damunt dels altres
+*MAR:	que ?
+*CHI:	0 [= es queda fixa , sembla mirar la camera mentre agafa un cub] .
+*MAR:	ai !
+*CHI:	uh [= mirant a m] !
+*MAR:	uh !
+*MAR:	0 .
+%act:	li toca el ull a l
+*MAR:	que fa aquest ull ?
+*MAR:	a veure aquest ull .
+*MAR:	digues rosa +...
+*MAR:	que miro +...
+*MAR:	contra el govern +...
+*CHI:	0 [= mira cap a la camera] .
+*MAR:	a vegades .
+*CHI:	oh [= mira la camera] !
+*MAR:	escolta'm .
+*MAR:	escolta'm .
+*MAR:	mira +...
+*MAR:	que et diu la pilar .
+*MAR:	pssst@c [= crida l' atencio de l] !
+*MAR:	laura .
+*MAR:	aqui caura [= li assenyala les joguines] .
+*MAR:	<fes'ho> [/?] fes'ho fora <de la> [/?] de l' alfombra [= assenyala les joguines] .
+*MAR:	a veure que et +...
+@Comment:	m enraona amb e
+*CHI:	0 .
+%act:	llenca un cub fora de la catifa
+*CHI:	0 [= mira a m] .
+*CHI:	oh [= ho diu molt fluix] !
+*MAR:	oh !
+@Comment:	tall a la cinta per questions mecaniques
+*MAR:	fes una torre .
+*MAR:	fes .
+*MAR:	a veure , fes una torre .
+*CHI:	ai [= agafa els cubs] !
+*CHI:	pcf [% "ti tu ia" , ensenya un cub a m] .
+*MAR:	que [= agafa el cub] ?
+*MAR:	0 .
+%act:	li torna el cub
+*MAR:	0 .
+%act:	li apropa els cubs que hi son lluny
+*MAR:	que ?
+*CHI:	pcf [% "tuia" , mirant a m] .
+*MAR:	ui [>] !
+*CHI:	no [<] [= molt fluix] .
+*MAR:	ui !
+*MAR:	ui !
+*CHI:	0 [= mira a la camera] .
+*CHI:	0 [= mira a m amb el cub a la ma] .
+*CHI:	0 [= mira a la camera amb el cub a la ma] .
+*MAR:	a veure (.) em poso a l' altre costat .
+*CHI:	pcf [% "da de iae"] .
+*MAR:	es que te una mania .
+*MAR:	si em poso a l' altre costat (.) mira malament .
+*INV:	tu tranquila .
+@Comment:	hi ha un tall a la cinta , l esta seguda a la catifa , juga amb els cubs de colors , m esta asseguda al seu costat
+*CHI:	0 [= mira a la camera jugant amb els cubs] .
+*MAR:	a veure com ho poses dins ?
+*CHI:	0 .
+%act:	intenta ficar un cub dintre de l' altre
+*MAR:	tchs@c tchs@c tchs@c [= com negant l' accio que fa l] !
+*CHI:	0 .
+%act:	intenta ficar el cub mentre mira a m
+*MAR:	no .
+*CHI:	0 .
+%act:	continua jugant amb els cubs
+*CHI:	pcf [% "aaai" , inclinant'se cap a les joguines] .
+*MAR:	que ?
+*CHI:	pcf [% "eeei" , mirant a m amb un cub a la ma] .
+*MAR:	a veure .
+*MAR:	posa'l .
+*MAR:	posa'l .
+*CHI:	0 .
+%act:	posa un cub dins d' un altre
+*MAR:	tchs@c tchs@c tchs@c [= negant amb el cap] .
+*CHI:	pcf [% "op op"] .
+*MAR:	tchs@c tchs@c tchs@c [= negant amb el cap] .
+*MAR:	aixi no va .
+*MAR:	aquest no hi va aqui .
+*CHI:	ui [= mentre es cau un cub des de l' interior d' un altre mes gran] !
+*MAR:	ui !
+*CHI:	pcf [% "ta" , mirant a m] .
+*MAR:	ja esta ?
+*CHI:	ui [= agafant un altre cub] .
+*MAR:	aixi no [= fa no amb el cap] .
+*CHI:	pcf [% "aaaii" , manipulant dos cubs encaixats] .
+*CHI:	pcf [% "aaa" , miant a m] .
+*MAR:	que ?
+*CHI:	0 [= mira a m] .
+*MAR:	que fa aixo aixi [% "que fa aixo aixis"] ?
+*CHI:	pcf [% "ye" , alcant el cub] .
+*CHI:	pcf [% "ye ta tovan xxx" , esten el brac alcant els cubs] .
+*MAR:	a veure [= esten la ma] .
+*CHI:	pcf [% "te bo" , donant'li el cub a m] .
+*MAR:	dona'm .
+*MAR:	mira .
+*MAR:	mira [= deixa caure el cub] .
+*CHI:	oh [= quan veu que li cau un cub des de dins d' un altre] !
+*MAR:	oh !
+@Comment:	del frame 166 al 190 l juga amb m i fa pcf , l ha sortit de la catifa
+*CHI:	oh [= mentre surt de la catifa] !
+*CHI:	oh !
+*MAR:	aqui .
+*MAR:	molt be .
+*MAR:	va fes .
+@Comment:	del frame 194 al 214 m va ensenyant els cubs a l i dientli al mateix temps els noms , despres demana a l que els repeteixi
+*MAR:	i aquell blau .
+*CHI:	blau [% "dau" , agafa un cub blanc i li ensenya] .
+*MAR:	no .
+*MAR:	blau aquest [= assenyala el cub] .
+*MAR:	blau aquest .
+*MAR:	aquest blanc .
+*CHI:	pcf [% "den" , alcant el cub blanc] .
+*MAR:	blanc .
+*CHI:	ui [= mirant el cub] !
+*MAR:	blanc .
+*CHI:	pcf [% "do" , amb dos cubs a les mans i se'ls mira] .
+*MAR:	groc aquest [= li ensenya un cub groc] .
+*CHI:	groc [% "do" , deixant el cub que te a la ma] .
+*MAR:	groc [= mentre l l' agafa] .
+@Comment:	del frame 232 al 309 , l amb cada manipulacio mira a m , la qual fa que no amb el cap i verbalment diu tchs , tchs , tchs , l no realitza produccions verbals significatives , diu ui , ai , ba , oi , esta jugant amb els cubs , m juga amb l , m li va demanant joguines , l li dona el que m li va demanant
+*CHI:	anem [% "nem" , agafa de la ma a m perque s' aixequi] .
+*MAR:	anem [% "nem"] .
+*MAR:	anem [% "nem"] ?
+*MAR:	xxx a on anem laura [= s' aixeca del terra] .
+*CHI:	pcf [% "tete"] .
+*MAR:	digues on anem .
+*MAR:	on anem ?
+@Comment:	m i l caminen per el passadis agafades de la ma , tall a la cinta
+*CHI:	0 [= esta seguda a la catifa i fa pcf] .
+@Comment:	m i e parlen
+*MAR:	0 .
+%act:	li dona una nova joguina
+*MAR:	oh !
+*MAR:	oh !
+*CHI:	pcf [% "uuui" , intenta treure les anelles del tub] .
+*MAR:	oh !
+*MAR:	treu .
+*MAR:	treu .
+*MAR:	a veure treu .
+*CHI:	no [= mentre intenta treure les anelles del tub] .
+*CHI:	treu [% "teu" , mentre intenta treure les anelles del tub] .
+*CHI:	treu [% "teu" , mentre intenta treure les anelles del tub] .
+*CHI:	no [= mentre intenta treure les anelles del tub] .
+*CHI:	pcf [% "aiii" , mirant a m] .
+*MAR:	ai !
+*MAR:	mira .
+*MAR:	li trec ?
+@Comment:	m parla amb e
+*MAR:	treu .
+*MAR:	a veure , treu .
+*CHI:	0 [= li cauen les anelles] .
+*MAR:	oh !
+*CHI:	pcf [% "aa" , veient les anelles a la catifa] .
+*CHI:	pcf [% "aa" , al agafar una anella] .
+*CHI:	pcf [% "aa" , ficant una anella] .
+*CHI:	pcf [% "aa"] .
+*CHI:	pcf [% "aa"] .
+*CHI:	pcf [% "ta"] .
+*CHI:	pcf [% "aa" , al ficar altra anella] .
+*CHI:	pcf [% "aa" , mirant les anelles] .
+*CHI:	pcf [% "aa" , al ficar una anella] .
+*CHI:	0 [= no pot inserir totes les anelles] .
+*CHI:	pcf [% "uueeh"] .
+*CHI:	pcf [% "uee" , al no poder ficar l' ultima anella] .
+*MAR:	no .
+*MAR:	has de treure els altres (.) i posar aquest .
+*CHI:	0 .
+%act:	treu les anelles
+*MAR:	molt be .
+*MAR:	treu'los .
+*MAR:	el verd tambe .
+*MAR:	treu'lo .
+*MAR:	a veure .
+*MAR:	treu'lo .
+*CHI:	0 .
+%act:	intenta treure'ls
+*CHI:	pcf [% "aa" , al veure que no surt del tub l' ultima anella] .
+*MAR:	no pots ?
+*CHI:	pcf [% "ai" , segueix sense poder treure'ls] .
+*MAR:	treu , a veure , treu .
+*MAR:	treu .
+*CHI:	0 .
+%act:	aconsegueix treure les anelles
+*CHI:	pcf [% "aah"] .
+*MAR:	ara .
+*CHI:	ai !
+*MAR:	ai !
+*MAR:	oh !
+*CHI:	ai !
+*MAR:	ara posa'ls .
+*MAR:	ara posa'ls .
+*MAR:	a veure posa'ls .
+*MAR:	tchs@c tchs@c tchs@c tchs@c !
+*CHI:	no [= intenta col'locar be les anelles] .
+*CHI:	pcf [% "aah"] .
+*CHI:	pcf [% "ne"] .
+*CHI:	no !
+*CHI:	no [= al veure que no li entren les anelles en el tub] !
+*MAR:	no .
+*MAR:	no .
+*MAR:	no .
+*MAR:	torna'ls a treure .
+*CHI:	te [= li ensenya una anella a m] .
+*CHI:	te .
+*MAR:	a veure .
+*MAR:	a veure .
+*MAR:	dona'm .
+*MAR:	dona'm [= li agafa la anella] .
+*MAR:	ara treu aquesta [= li assenyala la anella amb el dit] .
+*MAR:	a veure (.) treu'la .
+*MAR:	treu'los (.) tots .
+*MAR:	molt be .
+*MAR:	molt be .
+@Comment:	del frame 468 al 501 l continua jugant amb m pero no realitza produccions verbals , m li va explicant com es fa
+*CHI:	pcf [% "nono" , agafant el tub amb les dos mans i portant'lo cap a ella] .
+*MAR:	a veure .
+*MAR:	ara aqui [= les posa de peu i es retira] .
+*CHI:	pcf [% "puti puti" , mentre juga amb les anelles] .
+*MAR:	va .
+*MAR:	a veure , posa'ls .
+*CHI:	pcf [% "tate" , mentre juga amb les anelles] .
+@Comment:	del frame 505 al 706 l segueix jugant i no realitza produccions verbals importants , son inintelligibles , m nega sempre amb tchs tchs , l esta a la catifa estirada
+*CHI:	pcf [% "oh"] .
+*MAR:	oh !
+*CHI:	pcf [% "ye"] .
+*MAR:	oh !
+*MAR:	0 .
+%act:	fa pessigolles a l
+*CHI:	pcf [% "a nye nya"] .
+*MAR:	la figuereta (.) fem una figuereta ?
+*CHI:	pcf [% "ah" , no pot aixecar'se] .
+*CHI:	pcf [% "ah"] .
+*MAR:	fem una figuereta ?
+@Comment:	l es fica cap endarrera aixecant les cames
+*CHI:	pcf [% "baah , ja ja"] .
+*CHI:	pcf [% "aieie"] .
+*MAR:	que ?
+*CHI:	pcf [% "ye"] .
+*CHI:	pcf [% "auve"] .
+*MAR:	que ?
+*CHI:	dormir [% "mimi" , juga i esta estirat a terra] .
+*CHI:	pcf [% "ta mi"] .
+*MAR:	vols dormir ?
+*CHI:	pcf [% "ai ah"] .
+*CHI:	dormir [% "mi"] .
+*CHI:	pcf [% "ta ta" , agafant el cub] .
+*MAR:	mira [= s' apropa les joguines] .
+*CHI:	pcf [% "tu tu"] .
+*CHI:	pcf [% "ai"] .
+@Comment:	del frame 750 al 793 l juga amb m , intenta imitar els jocs que fa m , com ara ficarse el dit al nas , fent pam i pipa , les iniciatives de m no son recollides per l , pero vocalitza en diverses ocasions pcf , hi ha un salt en el frame 794 , m i l jugant amb uns ossets
+*CHI:	pcf [% "a pete"] .
+*MAR:	que ?
+*CHI:	toto@c os [/?] [% "to"] .
+*MAR:	pobre toto@c os [/?] .
+*CHI:	si [% "ti"] .
+*MAR:	posa'l a dormir .
+*MAR:	posem'lo a dormir ?
+*CHI:	pcf [% "a ue"] .
+*MAR:	digues'li , a dormir .
+*CHI:	dormir [% "domi" , mentre fica a l' os al terra] .
+*MAR:	oi !
+*CHI:	pcf [% "aaai"] .
+*MAR:	ai , a dormir .
+*MAR:	si !
+*CHI:	dormir [% "mi"] .
+*MAR:	per que no li dones dinar (.) al toto@c os [/?] ?
+*MAR:	dona'li dinar .
+*MAR:	a veure , dona'li dinar .
+*MAR:	pobret toto@c os [/?] .
+*MAR:	dona'li dinar .
+*CHI:	pcf [% "ui" , mentre li dona menjar , despres mira a la camera] !
+*MAR:	ui !
+*MAR:	i ara en aquest [= li apropa un altre osset] ?
+*MAR:	a aquest tambe .
+*MAR:	dona'li dinar .
+*MAR:	a aquest .
+*MAR:	ara , dona'li dinar .
+*MAR:	a aquest ara [= li apropa el osset] .
+*MAR:	i a mi ?
+*CHI:	0 .
+%act:	sembla que li dona menjar a m
+*CHI:	i tu [= es porta les dues mans a les orelles] ?
+*MAR:	no .
+*MAR:	a l' orella (.) no !
+*MAR:	menja .
+*MAR:	a veure , menja tu .
+*MAR:	ara una miqueta d' aigua .
+*MAR:	ara (.) una miqueta d' aigua .
+*MAR:	pcf [% "aaa" , fa veure que ha begut] .
+*MAR:	ara jo .
+*CHI:	0 .
+%act:	li dona de beure a m
+*MAR:	i ara al nino [= apropa l' osset] .
+*CHI:	toto@c os [/?] [= despres de simular que li ha donat de beure] .
+*MAR:	i el toto@c os [/?] ?
+*MAR:	mira (.) pobret toto@c os [/?] [= assenyalant l' os a terra] .
+*CHI:	0 .
+%act:	agafa l' os del terra
+*CHI:	pcf [% "iaaaa" , agafa l' os i li toca el nas] .
+*MAR:	pcf [% "aaai"] !
+*MAR:	oi com se l' estima al toto@c os [/?] .
+*CHI:	pcf [% "aaaia" , alcant l' os sobre el cap] .
+*MAR:	que ?
+*MAR:	que li fas al toto@c os [/?] ?
+*MAR:	fes'li dido@c (.) al toto@c os [/?] .
+*MAR:	fes'li dido@c .
+*CHI:	dido@c [% "di" , s' apropa l' os a la cara] .
+*CHI:	oh [= llenca el nino] !
+*MAR:	oh !
+*MAR:	oh [= recull el nino] .
+*MAR:	pobre toto@c os [/?] .
+@Comment:	del frame 861 al 1031 l continua jugant amb m amb els ossets i amb les anelles , l fa de forma imitativa el que m li ensenya i fa el que li diu , casi no hi han verbalitzacions , to [% l' os] , l i m continuen jugant sobre la catifa amb els ossets i les anelles
+*MAR:	que ?
+*CHI:	pcf [% "ate" , mirant a la camera] .
+*MAR:	que diu la rosa ?
+*CHI:	ah !
+*CHI:	pcf [% "a tuta" , mirant a m] .
+*MAR:	te [= li dona una peca de joguina] .
+*CHI:	llum [% "bum" , mirant a la camera] .
+*MAR:	xxx [% "bum"] ?
+*MAR:	que vol dir (.) xxx [% "que vol dir bum"] ?
+*CHI:	el llum [% "a bu"] .
+*MAR:	que han fet ?
+*MAR:	que han ences el llum ?
+*MAR:	on es el llum ?
+*CHI:	ai [= mirant a la camera] !
+*MAR:	ai !
+*MAR:	han ences el llum .
+*MAR:	escolta .
+*MAR:	escolta'm laura .
+*MAR:	laura , vols que tornem (.) a posar aixo dins ?
+*MAR:	posem'ho alla ?
+*MAR:	posem'ho aquell (.) o no ?
+@Comment:	l s' aixeca i comenca a caminar
+*CHI:	pcf [% "a lli ii"] .
+*CHI:	pcf [% "oue"] .
+*MAR:	on vas ?
+*MAR:	vine , vine .
+*CHI:	0 [= mira una pilota que hi ha a terra] .
+*MAR:	que es aixo ?
+*CHI:	0 .
+%act:	toca les figuretes que hi ha damunt un moble
+*MAR:	ei !
+*MAR:	tchs@c [= com renyant'la] !
+*CHI:	pcf [% "ta ta" , tocant la figura] .
+*MAR:	tchs@c !
+*MAR:	ah [= com si li renyes] !
+*CHI:	0 .
+%act:	es gira i va cap a l' estufa
+*CHI:	pcf [% "ah" , tocant'la] .
+*MAR:	la repressio +...
+*CHI:	0 .
+%act:	segueix caminant cap al sofa
+*CHI:	0 .
+%act:	agafa la capsa del video
+*CHI:	pcf [% "aia"] .
+*MAR:	que es de la rosa (.) no li toquis .
+*CHI:	0 [= mira la capsa] .
+*MAR:	que es aixo ?
+*CHI:	pcf [% "aeeve" , anat cap a m] .
+*MAR:	que es [= agafant'ho] ?
+*MAR:	que es ?
+*CHI:	capsa [% "tata" , es refereix a la capsa] .
+*MAR:	oh , quina capsa [= mirant a l] !
+*CHI:	0 .
+%act:	la toca
+*MAR:	una capsa .
+*CHI:	0 .
+%act:	fica la ma dins
+*MAR:	que hi ha aqui ?
+*CHI:	pcf [% "ai"] .
+*CHI:	pcf [% "ta" , tocant'la] .
+*CHI:	pcf [% "ta" , tocant'la] .
+*CHI:	pcf [% "ta" , tocant'la] .
+*MAR:	ja esta .
+*MAR:	que vols que fem d' aquest capsa ?
+*CHI:	pcf [% "teo"] .
+*MAR:	0 .
+%act:	li fica la capsa com si fossin unes ulleres
+*MAR:	aixi .
+*CHI:	pcf [% "aee"] .
+*MAR:	ara jo [= es fica la capsa] .
+*CHI:	pcf [% "ah" , agafant la capsa] .
+*CHI:	pcf [% "ai ai" , es gira i va cap al sofa] .
+*CHI:	pcf [% "ah ah"] .
+*MAR:	deixa'la .
+*MAR:	deixa'la aqui (.) corre .
+*MAR:	al seu lloc .
+*CHI:	0 .
+%act:	deixa la capsa al sofa
+*MAR:	aixi (.) molt be .
+*MAR:	molt be .
+*MAR:	molt be .
+*CHI:	pcf [% "ai"] .
+*MAR:	deixa'la .
+*MAR:	que es de la rosa .
+*MAR:	deixa'la .
+*MAR:	a veure , deixa'la .
+*CHI:	pcf [% "au" , llenca la capsa a terra] .
+*MAR:	no xxx no [% "no au no"] .
+*MAR:	xxx no [% "au no" , recull la capsa] .
+*MAR:	xxx no [% "au no"] .
+*MAR:	posa'ho alla [= li dona la capsa a l] .
+*MAR:	posa'la alla .
+*MAR:	corre .
+*MAR:	posa'la alla [= es cau la capsa al terra] .
+*CHI:	0 .
+%act:	recull la capsa , la dona a m
+*MAR:	posa'la alla damunt .
+@Comment:	m agafa la capsa i la fica sobre la butaca
+*CHI:	pcf [% "aii" , mirant a m] .
+*MAR:	que ?
+*MAR:	que ?
+*CHI:	no [= fa no amb el cap] .
+*MAR:	fes una figuereta .
+*MAR:	vols fer una figuereta ?
+*MAR:	fem una figuereta ?
+*CHI:	pcf [% "aah" , descobreix la capsa a la butaca i l' agafa] .
+*CHI:	pcf [% "ehh"] .
+*MAR:	que vols ?
+*CHI:	pcf [% "da do" , intenta pujar a la butaca amb la capsa a la ma] .
+*CHI:	pcf [% "iia"] .
+*CHI:	te [= no pot pujar i dona la capsa a m] .
+*MAR:	gracies .
+*MAR:	no hi es la capsa [= s' amaga la capsa darrera l' esquena] .
+*MAR:	no hi es .
+*MAR:	ha marxat .
+*MAR:	ja no hi es .
+*CHI:	pcf [% "aii"] .
+*MAR:	<on es la capsa> [>] ?
+*CHI:	<pcf [% "ueehah"]> [<] .
+*MAR:	on es la capsa ?
+*CHI:	pcf [% "nena"] .
+*MAR:	on es la capsa ?
+*CHI:	aqui [% "ti" , assenyalant amb el brac estes des de la butaca] .
+*MAR:	no hi es .
+*CHI:	pcf [% "aueeh" , torna a assenyalar cap a m des de la butaca] .
+*MAR:	no hi es .
+*CHI:	pcf [% "tuiehh"] .
+*MAR:	on es ?
+*CHI:	pcf [% "tu teih" , baixa de la butaca i va cap l' espatlla de m] .
+*MAR:	no hi es .
+*MAR:	no .
+*MAR:	mira [= li ensenya la ma buida] .
+*CHI:	pcf [% "auh uee" , l' agafa la ma i se l' aixeca] .
+*MAR:	que ?
+*CHI:	pcf [% "uee"] .
+*MAR:	no hi es .
+*CHI:	aqui [% "ti" , assenyalant el sofa] .
+*MAR:	a on ?
+*CHI:	pcf [% "uta"] .
+*CHI:	aqui [% "ti" , s' apropa al sofa a on estava abans la capsa i ho assenyala] .
+*MAR:	a on ?
+*CHI:	aqui [% "ti"] .
+*MAR:	oh .
+*MAR:	i la ma de la laura ?
+*MAR:	on es la ma ?
+*MAR:	on es la ma de la laura ?
+*CHI:	pcf [% "di" , agafa la capsa i se la dona a m] .
+*CHI:	0 .
+%act:	puja al sofa
+*MAR:	i ara que ?
+*MAR:	i ara (.) que ?
+*MAR:	ara no tenim (.) llibre .
+*CHI:	mira [% "mia" , mira a la camera] .
+*CHI:	0 .
+%act:	va explorant el sofa seguda en ell
+*CHI:	pcf [% "euh"] .
+*CHI:	bup@c [= es mou a la butaca com si anes a cavall] !
+*CHI:	bup@c !
+*CHI:	bup@c bup@c bup@c !
+*MAR:	0 [=! riu] .
+*MAR:	bub@c bub@c !
+*CHI:	pcf [% "a de da di"] .
+*MAR:	fes el gos .
+*MAR:	vols fer el gos ?
+*CHI:	bup@c !
+*MAR:	fes el gos .
+*MAR:	com fas el gos ?
+*MAR:	fes el gos .
+*CHI:	0 .
+%act:	baixa de la butaca i es posa a quatre grapes
+*CHI:	pcf [% "ai ai"] .
+*MAR:	ets un gos o (.) no ets un gos ?
+*MAR:	fes el gos .
+*CHI:	pcf [% "ti ai"] .
+*MAR:	<a veure , fes el gos> [>] .
+*CHI:	<bup@c bup@c> [<] [= s' apropa a m i li agafa la capsa] !
+*MAR:	si , pero +...
+*MAR:	pero no .
+*MAR:	bup@c bup@c aixi no .
+*MAR:	que vols ?
+*MAR:	jo tambe ?
+@Comment:	l li treu la capsa que m tenia agafada per poder agafarla a ella de la ma per a que facin de gossos
+*MAR:	jo tambe faig el gos ?
+*MAR:	a veure [% "vere"] .
+*MAR:	va , la pilar fa el gos .
+*MAR:	la laura tambe [= es fica a quatre grapes fent el gos] .
+*MAR:	a veure , fes el gos .
+*CHI:	pcf [% "a io" , es fica de quatre grapes fent el gos] .
+*MAR:	va .
+*MAR:	bub@c bub@c bub@c !
+*MAR:	a veure si et sento ?
+*MAR:	fes el gos .
+*CHI:	pcf [% "aii" , caminant pel terra a quatre grapes] .
+*MAR:	bub@c bub@c !
+*MAR:	0 [=! riu] .
+*CHI:	pcf [% "eeee" , sembla com si la cridara perque tambe la segueixi] .
+*CHI:	pcf [% "ei" , s' aixeca i torna cap a m] .
+*MAR:	que ?
+@Comment:	l va a buscar a m
+*MAR:	que ?
+*CHI:	pcf [% "ie"] .
+*CHI:	0 .
+%act:	agafa de les mans a m perque faci el gos , pero vols que surti de la catifa
+*CHI:	pcf [% "tee"] .
+*MAR:	te .
+*MAR:	que ?
+*CHI:	anem [% "nem"] .
+*MAR:	te , aixi ?
+*MAR:	anem [% "nem"] .
+*MAR:	aixi ?
+*CHI:	pcf [% "ueee"] .
+*MAR:	pero com ?
+*CHI:	pcf [% "ete"] .
+@Comment:	m i l surten de la catifa
+*MAR:	pero (.) tu tambe .
+*MAR:	tu tambe .
+*CHI:	pcf [% "ueee" , estirant a m] .
+*MAR:	tu tambe !
+*MAR:	que vols ?
+*CHI:	bub@c bub@c !
+*MAR:	bub@c bub@c !
+*MAR:	va .
+*MAR:	doncs bub@c bub@c !
+*MAR:	tu tambe .
+*MAR:	a veure , fes bub@c bub@c .
+*CHI:	bub@c [= marxa a quatre grapes fora del menjador] !
+*CHI:	pcf [% "io"] .
+*CHI:	pcf [% "tui" , s' aixeca per encendre la llum del passadis] .
+*MAR:	no .
+*MAR:	alla no m' agrada .
+*MAR:	alla no m' agrada .
+*MAR:	vine a fer aqui .
+*MAR:	vine a fer aqui el bub@c bub@c gos [/?] .
+*MAR:	0 .
+%act:	esta acaronant a l i es fan petons
+*MAR:	i ara la llepadeta .
+*MAR:	i la llepadeta ?
+*MAR:	ah !
+*MAR:	que be [= despres que l li ha donat una llepadeta a la cara] .
+*MAR:	ara jo .
+*MAR:	un petonet ?
+*MAR:	un petonet i una llepadeta ?
+*MAR:	ara tu .
+*CHI:	pcf [% "eee"] .
+*MAR:	ara tu (.) un petonet .
+*MAR:	no .
+*MAR:	anem a on ?
+@Comment:	l agafa de la ma a m i marxen cap el passadis
+*MAR:	a on ?
+*MAR:	a on ?
+@Comment:	pausa a la cinta per questions tecniques del frame 1291 al 1293 , m i l estan fent el fos per el passadis
+*MAR:	ai que l' agafo !
+*MAR:	ai que l' agafo !
+*MAR:	ja la tinc [= l' agafa per la cama] .
+*MAR:	ja la tinc .
+*MAR:	ja la tinc .
+*CHI:	pcf [% "bueee" , anant a quatre grapes pel terra] .
+*CHI:	pcf [% "eeiee" , a quatre grapes] .
+*CHI:	pcf [% "oiii" , seguda a terra] .
+*CHI:	pcf [% "uiaaa" , seguda a terra] .
+*CHI:	pcf [% "oi" , troba una bossa de plastic i se seu a mirar que hi ha dintre] .
+*CHI:	pcf [% "oboo"] .
+*MAR:	oh !
+*MAR:	jo no se que es .
+*CHI:	pcf [% "ieee"] .
+*MAR:	que hi ha (.) aqui dins ?
+*MAR:	que hi ha ?
+*CHI:	pcf [% "pa are"] .
+*MAR:	que hi ha ?
+*CHI:	pcf [% "io" , intenta descobrir que hi ha dintre de la bossa] .
+*CHI:	pcf [% "io"] .
+*CHI:	pcf [% "eea"] .
+*MAR:	que hi ha (.) a veure ?
+*CHI:	pcf [% "oia" , assenyala cap a la camera] .
+*CHI:	pcf [% "oia"] .
+*MAR:	que hi ha .
+*MAR:	a veure .
+*MAR:	mira (.) a veure .
+*MAR:	que hi ha ?
+*MAR:	mira a veure (.) que hi ha .
+*MAR:	treu'lo .
+*MAR:	a veure , treu'lo .
+*MAR:	treu'lo d' aqui dins .
+*MAR:	treu'lo .
+*CHI:	0 .
+%act:	intenta treure el que hi ha dins la bossa
+*CHI:	pcf [% "oioi"] .
+*CHI:	pcf [% "vuuee"] .
+*MAR:	que hi ha ?
+*MAR:	oh !
+*CHI:	pcf [% "an io"] .
+*CHI:	0 [= esta enfadada perque no pot obrir el paquet] .
+*CHI:	pcf [% "aaaa" , intenta obrir el paquet] .
+*MAR:	no pots ?
+*MAR:	que es aixo ?
+*CHI:	0 .
+%act:	segueix intentant obrir el paquet
+*MAR:	xxx .
+*CHI:	0 .
+%act:	ha aconseguit treure quelcom de dins la bossa
+*MAR:	ja esta !
+*CHI:	bub@c bub@c [= s' aixeca amb la joguina] !
+*CHI:	pcf [% "iiia"] .
+*MAR:	que es aixo ?
+*CHI:	pcf [% "deee"] .
+*CHI:	pcf [% "deee" s' apropa a m] .
+*MAR:	pcf [% "dom"] .
+*CHI:	pcf [% "teee"] .
+*MAR:	que ?
+*CHI:	pcf [% "veee"] .
+*MAR:	que hem de fer (.) amb aixo ?
+@Comment:	l agafa de la ma a m per portarla a jugar , pausa a la cinta per questions tecniques , frames 1287 a 1289 , m i l estan segudes a la catifa amb les joguines de la bossa
+*CHI:	0 .
+%act:	intenta treure quelcom de la capsa
+*MAR:	que es aixo ?
+*CHI:	pcf [% "oieee"] .
+*MAR:	que es ?
+*CHI:	pcf [% "oooo"] .
+*CHI:	pcf [% "taoo"] .
+*MAR:	oh !
+*MAR:	una capsa .
+*MAR:	es per fer una torre .
+*CHI:	pcf [% "iiiaa"] .
+*MAR:	oh !
+*MAR:	pero (.) aquest no el teniem .
+*MAR:	<tan petito> [>] .
+*CHI:	<pcf [% "uuuu"]> [<] .
+*CHI:	pcf [% "dee deee"] .
+*MAR:	a veure , a veure .
+*MAR:	vinga .
+*MAR:	a veure , treu'lo .
+*MAR:	a veure , treu'lo d' aqui dins .
+*MAR:	treu'lo (.) tot .
+*MAR:	oh !
+*CHI:	te [= li dona una peca de joguina a m] .
+*CHI:	te .
+*MAR:	gracies [= recull la peca] .
+*CHI:	pcf [% "me me"] .
+*MAR:	treu'ne (.) una altra .
+*MAR:	mira .
+*CHI:	0 .
+%act:	treu una altra peca de la capsa i les dona cops
+*MAR:	oi !
+*MAR:	jo en vull una altra .
+*MAR:	jo no ho puc fer .
+*MAR:	mira .
+*MAR:	laura .
+*MAR:	laura .
+*MAR:	jo tambe en vull un .
+*MAR:	dona'me'n una altra .
+*MAR:	jo no puc .
+*MAR:	dona'me'n una altra .
+*CHI:	0 .
+%act:	segueix picant amb les peces
+*MAR:	mira , la pilar (.) nomes en te un .
+*MAR:	dona'me'n (.) una altra .
+*CHI:	pcf [% "oiei" , continua traient peces] .
+*MAR:	0 .
+%act:	treu totes les peces de la capsa
+*MAR:	treurem la capsa .
+*CHI:	pcf [% "tee taa"] .
+*MAR:	a veure .
+*MAR:	mira , mira (.) que es pot fer una torre amb aquest tambe .
+*MAR:	mira .
+*MAR:	fem una torre ?
+*MAR:	fes una torre .
+*MAR:	a veure , fes una torre .
+*MAR:	no , aixi no .
+@Comment:	m parla amb e mentre l segueix jugant , frames 1466 a 1495
+*CHI:	pcf [% "oiee"] .
+*MAR:	oh !
+*MAR:	fes una torre , fes una torre .
+*MAR:	a veure (.) si la saps fer , a veure .
+*MAR:	va que (.) et direm (.) molt be .
+*CHI:	pcf [% "eh te"] .
+*CHI:	pcf [% "te" , sembla demanar els cubs que son lluny] .
+*MAR:	quin vols (.) per fer la torre ?
+*MAR:	quin vols ?
+*MAR:	aquest .
+*MAR:	amb aquest faras la torre [= agafa un cub i li ensenya a l] .
+*MAR:	ara aquest .
+*MAR:	aquests els guardem .
+*MAR:	aquests els guardem .
+*MAR:	i amb aquests (.) farem la torre .
+*MAR:	a veure .
+*MAR:	xxx .
+*MAR:	aquests els guardem .
+*MAR:	els guarda , aqui [= els ordena i els retira] .
+*MAR:	no .
+*MAR:	aquests no per fer la torre .
+*MAR:	te [= s' apropa uns cubs] .
+*MAR:	te aquests per fer la torre .
+*MAR:	te aquests .
+*MAR:	te aquests .
+*MAR:	au , fes la torre .
+*MAR:	espera't [% "pera't"] .
+*MAR:	que falta (.) el blau .
+*MAR:	xxx .
+*MAR:	que falta (.) el blau [= s' aixeca per anar a cercar'lo] .
+*CHI:	0 .
+%act:	juga amb les peces que te a la catifa
+*MAR:	a veure .
+*MAR:	mira .
+*MAR:	te [= l' apropa el cub blau] .
+*MAR:	te .
+*MAR:	pcf [% "au"] !
+*MAR:	fes una torre .
+*MAR:	a veure , fes una torre .
+*CHI:	pcf [% "noi" , intenta fer la torre] .
+*MAR:	que ?
+*CHI:	pcf [% "do do" , assenyala quelcom] .
+*MAR:	no .
+*MAR:	allo , no .
+*CHI:	0 .
+%act:	juga amb les peces
+*MAR:	que passa ?
+*MAR:	no vols fer (.) una torre ?
+*MAR:	digues , no !
+@Comment:	l recull algunes peces , s' aixeca i s' ensopega
+*MAR:	ui que caus !
+@Comment:	l es dirigeix al sofa , agafa la capsa dels cubs , intenta guardarlos , simultaniament m i e comenten alguna cosa
+*CHI:	pcf [% "uee"] .
+*CHI:	pcf [% "te ne ui"] .
+*CHI:	pcf [% "ti" , dona a m els cubs] .
+*MAR:	que ?
+*MAR:	que vols ?
+*CHI:	pcf [% "aa"] .
+*MAR:	no facis aixo .
+*CHI:	pcf [% "ii , te" , agafa el cubs que te m] .
+*CHI:	<pcf [% "ii , di , "llenca els cubs a terra]> [>] .
+*MAR:	que [<] ?
+*MAR:	que ?
+*CHI:	pcf [% "a di" , juga amb les mans] .
+*MAR:	que ?
+*CHI:	pcf [% "da" , aixeca els bracos] .
+*MAR:	que es xxx xxx [% "que es di da"] ?
+*CHI:	teu .
+*CHI:	pcf [% "au"] .
+*CHI:	pcf [% "a ve , aa"] .
+*CHI:	pcf [% "a"] .
+*MAR:	no t' entenc .
+*MAR:	escolta'm .
+*MAR:	vols fer (.) una figuereta ?
+*CHI:	pcf [% "eeh"] .
+*MAR:	fem una figuereta .
+*MAR:	va .
+*MAR:	<posa el cap> [>] .
+*CHI:	<pcf [% "aaee"]> [<] .
+*MAR:	posa el cap .
+*MAR:	posa el cap .
+*MAR:	corre +...
+@Comment:	l es dirigeix al centre de la catifa i posa el cap al terra
+*MAR:	que la farem .
+*MAR:	posa el cap .
+*MAR:	va .
+*MAR:	molt be .
+*MAR:	aixi , aixi .
+*MAR:	a veure , a veure [% "a vere , a vere"] .
+*MAR:	aixi .
+@Comment:	l realitza una tombarella amb ajut de m
+*MAR:	ui !
+*MAR:	pumba !
+*CHI:	pcf [% "aa"] .
+*MAR:	ole !
+*MAR:	tornem'hi .
+*MAR:	ara enrera .
+*MAR:	va .
+*MAR:	ara enrera .
+*MAR:	dona'm els peus .
+*MAR:	va .
+*MAR:	els peus [= fa senyals amb les mans per que l li apropi els peus] .
+@Comment:	m li dona una tombarella cap endarrera
+*MAR:	pumbala@c pumba [/?] !
+*MAR:	ja esta .
+*MAR:	tornem'hi .
+*MAR:	torna (.) a posar (.) el cap .
+*CHI:	pcf [% "ai"] .
+*MAR:	que ?
+*CHI:	pcf [% "ai a" , sembla que es queixi] .
+@Comment:	m parla amb l' examinador
+@End
