@@ -1,2 +1,6 @@
 dir path	filename	child age	# participants	partipant type	# adults
-/fhgfs/bootphon/scratch/lfibla/SegCatSpa/corpus_database/trycorpus	mag1900	1;7.	2	Mother;Father;	2
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/corpus_database/spa_mini	19	2;3.	2	Mother;Investigator;	2
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/corpus_database/spa_mini	mag1900	1;7.	2	Mother;Father;	2
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/corpus_database/spa_mini	01a	1;10.19	2	Mother;Investigator;	2
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/corpus_database/spa_mini	04	1;1.28	1	Mother;	1
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/corpus_database/spa_mini	08	1;09.22	3	Mother;Grandmother;Grandfather;	3
