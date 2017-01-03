@@ -1,0 +1,13 @@
+sh: error importing function definition for `BASH_FUNC_module()'
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+bash: error importing function definition for `BASH_FUNC_module()'
+Running dibs...
+phrasal	pwb = 0.226528384279
+## ** gold and train terminal words don't match (so results are bogus)
+## len(goldwords) = 1181, len(trainwords) = 1177
+# first difference at goldwords[770] = 
+# first difference at trainwords[770] = no
+## ** len(trainwords) = 1177, len(goldwords) = 1181
+Error in evalGold.py
+done with dibs
