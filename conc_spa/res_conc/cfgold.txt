@@ -1,4 +1,0 @@
-version matching algo token_f-score token_precision token_recall boundary_f-score boundary_precision boundary_recall
-dibs	0.3893	0.391	0.3876	0.5714	0.5752	0.5677
-puddle	0.2509	0.4034	0.182	0.2266	0.7469	0.1336
-TPs	0.3859	0.4292	0.3506	0.5387	0.6404	0.4649
