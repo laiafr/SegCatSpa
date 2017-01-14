@@ -1,2 +1,0 @@
-version matching algo token_f-score token_precision token_recall boundary_f-score boundary_precision boundary_recall
-/fhgfs/bootphon/scratch/lfibla/SegCatSpa/conc_cat/res_conc/100/TPs/cfgold-res.txt	TPs	0.3825	0.4401	0.3382	0.5618	0.7093	0.4651
