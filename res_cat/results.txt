@@ -1,0 +1,8 @@
+version matching algo token_f-score token_precision token_recall boundary_f-score boundary_precision boundary_recall
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/res_cat/100/cfgold-res.txt	100
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/res_cat/100/dibs/cfgold-res.txt	dibs	0.3455	0.3644	0.3284	0.501	0.5441	0.4642
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/res_cat/100/TPs/cfgold-res.txt	TPs	0.3825	0.4401	0.3382	0.5618	0.7093	0.4651
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/res_cat/2/cfgold-res.txt	2
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/res_cat/2/dibs/cfgold-res.txt	dibs	0.3041	0.3293	0.2825	0.4886	0.554	0.437
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/res_cat/2/TPs/cfgold-res.txt	TPs	0.3825	0.4401	0.3382	0.5618	0.7093	0.4651
+/fhgfs/bootphon/scratch/lfibla/SegCatSpa/res_cat/cfgold-res.txt	res_cat

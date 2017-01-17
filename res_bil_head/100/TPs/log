@@ -1,0 +1,5 @@
+## ** gold and train terminal words don't match (so results are bogus)
+## len(goldwords) = 1155, len(trainwords) = 801
+## ** len(trainwords) = 801, len(goldwords) = 1155
+Error in evalGold.py
+done with TPs

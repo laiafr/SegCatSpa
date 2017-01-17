@@ -1,0 +1,9 @@
+Running dibs...
+phrasal	pwb = 0.223250433777
+## ** gold and train terminal words don't match (so results are bogus)
+## len(goldwords) = 1155, len(trainwords) = 1152
+# first difference at goldwords[801] = 
+# first difference at trainwords[801] = no
+## ** len(trainwords) = 1152, len(goldwords) = 1155
+Error in evalGold.py
+done with dibs
