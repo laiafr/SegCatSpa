@@ -7,3 +7,12 @@ phrasal	pwb = 0.228737453777
 ## ** len(trainwords) = 1177, len(goldwords) = 1181
 Error in evalGold.py
 done with dibs
+sh: error importing function definition for `BASH_FUNC_module()'
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+bash: error importing function definition for `BASH_FUNC_module()'
+Running dibs...
+sed: couldn't close stdout: No space left on device
+phrasal	pwb = 0.228737453777
+sed: couldn't close stdout: No space left on device
+done with dibs
