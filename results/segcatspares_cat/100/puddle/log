@@ -1,0 +1,15 @@
+sh: error importing function definition for `BASH_FUNC_module()'
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+bash: error importing function definition for `BASH_FUNC_module()'
+Running puddle...
+Creating 5 folds for cross evaluation
+Running puddle on each fold...
+fold 4 done
+fold 3 done
+fold 1 done
+fold 0 done
+fold 2 done
+Unfolding to cfgold.txt
+Evaluating
+done with puddle
