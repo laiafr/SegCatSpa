@@ -1,11 +1,11 @@
 sh: error importing function definition for `BASH_FUNC_module()'
 /bin/sh: error importing function definition for `BASH_FUNC_module()'
--catch_rsh /cm/local/apps/sge/var/spool/puck2/active_jobs/566544.1/pe_hostfile
-puck2
-puck2
-puck2
-puck2
-puck2
+-catch_rsh /cm/local/apps/sge/var/spool/puck3-GPU/active_jobs/566609.1/pe_hostfile
+puck3-GPU
+puck3-GPU
+puck3-GPU
+puck3-GPU
+puck3-GPU
 Warning: no access to tty (Bad file descriptor).
 Thus no job control in this shell.
 bash: error importing function definition for `BASH_FUNC_module()'
@@ -29,17 +29,17 @@ Write /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc/
 Write /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//input-fold4.txt
 Write /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//input-index.txt
 Processing fold 0
-Processing fold 3
 Processing fold 1
 Processing fold 2
+Processing fold 3
 Processing fold 4
-/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp/pipeline/dmcmc.sh: line 69: /fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/phillips-pearl2014/dpseg_files/dpseg: No such file or directory
-/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp/pipeline/dmcmc.sh: line 69: /fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/phillips-pearl2014/dpseg_files/dpseg: No such file or directory
-/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp/pipeline/dmcmc.sh: line 69: /fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/phillips-pearl2014/dpseg_files/dpseg: No such file or directory
-/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp/pipeline/dmcmc.sh: line 69: /fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/phillips-pearl2014/dpseg_files/dpseg: No such file or directory
-/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp/pipeline/dmcmc.sh: line 69: /fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/phillips-pearl2014/dpseg_files/dpseg: No such file or directory
+sed: can't read /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//output_raw-fold4.txt: No such file or directory
+sed: can't read /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//output_raw-fold0.txt: No such file or directory
+sed: can't read /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//output_raw-fold3.txt: No such file or directory
+sed: can't read /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//output_raw-fold2.txt: No such file or directory
+sed: can't read /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//output_raw-fold1.txt: No such file or directory
 Unfolding to /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//cfgold.txt
-Error in crossevaluation.py unfold : [Errno 2] No such file or directory: '/fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//output-fold*.txt'
+Error in crossevaluation.py unfold : /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/2/dmcmc//output-fold0.txt must have 998 lines but have 0
 Traceback (most recent call last):
   File "/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/phillips-pearl2014/syllable-conversion/convert-from-unicode.py", line 60, in <module>
     main()
