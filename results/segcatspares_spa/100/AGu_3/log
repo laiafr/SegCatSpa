@@ -1,32 +1,32 @@
 sh: error importing function definition for `BASH_FUNC_module()'
 /bin/sh: error importing function definition for `BASH_FUNC_module()'
--catch_rsh /cm/local/apps/sge/var/spool/puck1/active_jobs/566571.1/pe_hostfile
-puck1
-puck1
-puck1
-puck1
-puck1
-puck1
-puck1
-puck1
+-catch_rsh /cm/local/apps/sge/var/spool/puck2/active_jobs/566665.1/pe_hostfile
+puck2
+puck2
+puck2
+puck2
+puck2
+puck2
+puck2
+puck2
 Warning: no access to tty (Bad file descriptor).
 Thus no job control in this shell.
 bash: error importing function definition for `BASH_FUNC_module()'
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (## ## m i r a lpy-cky.hpy-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a ## py-cky.h:1014 o k e a s e C o m e t e r l a m a :## ## ## n o d e n t r o g u a R e t e)
 
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+: In inside() Error: earley parse failed, terminals = (## n o d e n t r o1014py-cky.h:1014: In py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+py-cky.hm i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+py-cky.h:1014: In inside() Error: earley parse failed, terminals = ( g: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+:m i r a l o k e a s e C o m e t u a R e t e)
 
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+inside() Error: earley parse failed, terminals = (1014: In inside() Error: earley parse failed, terminals = ( e r l a m a n o d e n t r o g u a R e t e)
 
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+m i r m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (u y)
+a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
 processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/100/AGu_3//ag-output0.prs
 processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/100/AGu_3//ag-output1.prs
