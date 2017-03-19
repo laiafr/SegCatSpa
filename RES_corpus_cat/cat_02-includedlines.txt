@@ -1,90 +1,295 @@
-*MAR:	mira , mira .
-*MAR:	mira el mario com t' ho deixa .
-*MAR:	mira el mario com t' ho deixa allo .
-*MAR:	si .
-*MAR:	agafa'ho home .
-*MAR:	si ja t' ho deixa .
-*MAR:	deixa'li posar un gisela [= agafant la peca] .
-*MAR:	mira una aqui [= posa la peca] .
-*MAR:	vale ?
-*MAR:	te .
-*MAR:	hi poses tu [= oferint'li la peca a g] ?
-*MAR:	que ho poses tu ?
-*MAR:	molt be .
-*MAR:	mira .
-*MAR:	el mario t' ajuda .
-*MAR:	vale ?
-*MAR:	ho veus que be que parla el catala el mario ara ?
-*MAR:	altra aqui .
-*MAR:	baixem aqui al terra a jugar [= dirigint'se a g] ?
-*MAR:	eh ?
-*MAR:	baixem aqui al terra ?
-*MAR:	un cafetito para la carme .
-*MAR:	que ha passat ?
-*MAR:	aqui ?
-*MAR:	posem'ho aqui [= assenyalant una cadira] ?
-*MAR:	te gisela .
-*MAR:	te .
-*MAR:	mira [= fa rodar unes rodes] .
-*MAR:	mira .
-*MAR:	aixo .
-*MAR:	eixuga't el nas .
-*MAR:	no .
-*MAR:	shhhh@c [= fent'la callar] !
-*MAR:	xxx xxx la pelicula .
-*MAR:	ets cabrona gisela .
-*MAR:	esta treballant el mario .
-*MAR:	que fa xxx xxx .
-*MAR:	ui !
-*MAR:	digues hola hola hola que fa la maria rosa .
-*MAR:	digues hola hola hola .
-*MAR:	hola hola .
-*MAR:	mira [= li acosta una peca] .
-*MAR:	un +...
-*MAR:	una altra .
-*MAR:	una altra [= va posant una peca a sobre de una altra] .
-*MAR:	una altra .
-*MAR:	una altra .
-*MAR:	que mes ?
-*MAR:	una altra .
-*MAR:	te [= oferint a g el que ha fet] .
-*MAR:	no vols ?
-*MAR:	les rabietes .
-*MAR:	les rabietes [= seguda davant de g i amb un to de burla tipus pam i pipa] .
-*MAR:	gisela .
-*MAR:	poc en treura la maria rosa si nomes plores .
-*MAR:	poc en treura la maria rosa si nomes plores .
-*MAR:	gisela .
-*MAR:	que t' esta ensenyant .
-*MAR:	mira [= agafa una peca] .
-*MAR:	te [= dirigint'se a g] .
-*MAR:	mira .
-*MAR:	posa'li aqui [= ensenyant a on va la peca] .
-*MAR:	te , posa'li .
-*MAR:	que tens mocs [= acostant'se a g amb un tovallo de paper] ?
-*MAR:	et trec els mocs xxx [= intentant mocar a g] ?
-*MAR:	mira el putxinel'li [= esta a prop de a] .
-*MAR:	te aplauden mario ?
-*MAR:	y el publico te aplaude o no ?
-*MAR:	gisela .
-*MAR:	gisela .
-*MAR:	hola !
-*MAR:	giseleta .
-*MAR:	mira .
-*MAR:	que t' estan tocant el piano .
-*MAR:	que t' estan tocant el piano .
-*MAR:	que ?
-*MAR:	que no em deixes tocar .
-*MAR:	deixa'm tocar [= somriu] .
-*MAR:	ui que cau !
-*MAR:	ui que cau !
-*MAR:	ara et caus .
-*MAR:	a la una .
-*MAR:	a les dos .
-*MAR:	i a les tres [= es deixa caure cap enrera fins que g toca a terra] .
-*MAR:	prou ja .
-*MAR:	cuidado .
-*MAR:	cuidado .
-*MAR:	que te ha pasado [% "pasao" en comptes de pasado] ?
-*MAR:	que te ha pasado a ti [% "pasao" en comptes de pasado] ?
-*MAR:	hum , no n' hi ha .
+*GAV:	que li expliques a la carme , eh ?
+*GAV:	cuidado no et caigui , eh [= a te una capsa a la ma] .
+*GAV:	diga'li cosetes a la carme .
+*GAV:	amb la botella no s' hi juga .
+*GAV:	<que no> [<] pots parlar ?
+*GAV:	has de parlar .
+*GAV:	que no la cridaves a la carme ?
+*GAV:	que no la cridaves ?
+*GAV:	<despres que> [<] et ve a fer fotografies .
+*GAV:	mira que et fa fotografia la carme , eh .
+*GAV:	despres sortira l' alvar alla a la fotografia , eh .
+*GAV:	pero no et sentira enraonar .
+*GAV:	no et sentira la veueta .
+*GAV:	menja [= li toca la galta amb el dit] .
+*GAV:	i no trenquis la capsa , eh .
+*GAV:	no trenquis la capsa que hem de posar la botella , eh .
+*GAV:	que porta el papa a la cama ?
+*GAV:	que porta a la cameta ?
+*GAV:	no res ?
+*GAV:	com que no ?
+*GAV:	que no porta el guix ?
+*GAV:	tota la sabata blanca ?
+*GAV:	no li veus perque porta el pantalo a sobre , pero porta un guix .
+*GAV:	0 [= fa que si amb el cap mirant a a] .
+*GAV:	no te veueta .
+*GAV:	no sap enraonar .
+*GAV:	eh , que no saps enraonar ?
+*GAV:	no ?
+*GAV:	ara et donarem biberon com l' alexandre .
+*GAV:	claro , perque no saps enraonar com l' alexandre .
+*GAV:	doncs et donarem biberon .
+*GAV:	els nens com tu enraonen .
+*GAV:	no enraonen ?
+*GAV:	bueno , doncs posem biberon .
+*GAV:	i que mes li posem ?
+*GAV:	mira , dodotis per anar a col'legi .
+*GAV:	eh ?
+*GAV:	posem dodotis per anar a col'legi ?
+*GAV:	perque ets petitet .
+*GAV:	si .
+*GAV:	ets un caradura , eh [= li pessiga la galta] ?
+*GAV:	menja [<] .
+*GAV:	mastega .
+*GAV:	pj@c !
+*GAV:	que fa el policia ?
+*GAV:	ets un (.) sardineta mullada [= li toca el pit amb el dit] .
+*GAV:	sardineta mullada .
+*GAV:	corre menja .
+*GAV:	aquesta boca .
+*GAV:	que no la bellugues .
+*GAV:	www .
+*GAV:	va [= toca amb el dit la galta de a] .
+*GAV:	ui , que esta alt !
+*GAV:	ui , que esta alt , eh ?
+*GAV:	corre carinyo .
+*GAV:	corre .
+*GAV:	ai , ai , ai que el trencarem !
+*GAV:	jo ?
+*GAV:	jo no se si [= intenta treure la cabina] +...
+*GAV:	jo no puc .
+*GAV:	aixo va molt fort , eh .
+*GAV:	pues la iaia no pot .
+*GAV:	mira , quan vingui ton pare que te la tregui , eh .
+*GAV:	perque la iaia no pot .
+*GAV:	si te la trenco , despues +...
+*GAV:	0 .
+*GAV:	eh , no podem .
+*GAV:	se que es treu .
+*GAV:	no se si sera aquest o sera un altre .
+*GAV:	hi ha un que es treu la cabina .
+*GAV:	suposo que aquest tambe .
+*GAV:	com esta el tractor ?
+*GAV:	que caura .
+*GAV:	fara catapum@c !
+*GAV:	clar .
+*GAV:	el poses aqui dalt .
+*GAV:	i no hi cap .
+*GAV:	les rodes de davant les te fora .
+*GAV:	i li has tret la roda .
+*GAV:	mira , que li has tret la roda [= toca el tractor en el lloc on es suposa que hauria d' estar la roda] .
+*GAV:	ara no pot caminar .
+*GAV:	va coix .
+*GAV:	va .
+*GAV:	la boca .
+*GAV:	pero [/?] camina pero aquesta roda +...
+*GAV:	aqui no te la goma de la roda [= assenyala el tractor] .
+*GAV:	va coix .
+*GAV:	oh , la policia , com l' has posat !
+*GAV:	amb una capsa sobre .
+*GAV:	la xafaras .
+*GAV:	s' ofegara .
+*GAV:	no .
+*GAV:	corre .
+*GAV:	aquestes galtes [= toca la galta de a] .
+*GAV:	que es buidin .
+*GAV:	molt be !
+*GAV:	molt be !
+*GAV:	ho fas molt be .
+*GAV:	corre .
+*GAV:	aixo [= torna a tocar la galta de a] .
+*GAV:	ho fas molt be .
+*GAV:	a mi ?
+*GAV:	que li fas a la iaia ?
+*GAV:	que fas a la iaia ?
+*GAV:	shss@c !
+*GAV:	poc a poc .
+*GAV:	poc a poc .
+*GAV:	va , corre .
+*GAV:	esta plovent ?
+*GAV:	li poses un paraigua ?
+*GAV:	pobra capsa .
+*GAV:	la trencaras a l' ultim , eh .
+*GAV:	va .
+*GAV:	explica'li a la carme on aniras .
+*GAV:	dema aniras al mar ?
+*GAV:	dema ho veig molt dificil , eh .
+*GAV:	dema ho veig molt dificil .
+*GAV:	esta lluny si .
+*GAV:	ademes [>] +/.
+*GAV:	clar , si .
+*GAV:	pero la mama no hi es .
+*GAV:	i com pots anar sense la mama (.) al mar ?
+*GAV:	has d' esperar a que vingui la mama dema , oi ?
+*GAV:	dema passat .
+*GAV:	no , jo me n' anire a salou .
+*GAV:	la carme si que anira ?
+*GAV:	ah , molt be !
+*GAV:	i a mi no em convides ?
+*GAV:	mira que be .
+*GAV:	fa molt de vent ?
+*GAV:	a si ?
+*GAV:	bueno , no passa res .
+*GAV:	que faci vent es igual .
+*GAV:	que vols aigua ?
+*GAV:	si o no ?
+*GAV:	si o no [= li toca el brac] ?
+*GAV:	pobra .
+*GAV:	no li dones una miqueta ?
+*GAV:	a ell tambe li agraden els vermells , oi [= a a] ?
+*GAV:	t' agraden els vermells , alvar ?
+*GAV:	si .
+*GAV:	puja i baixa , si .
+*GAV:	es bon xicot .
+*GAV:	al mar no [>] .
+*GAV:	a la tarda aniras al col'legi .
+*GAV:	dema passat .
+*GAV:	o un altre dia aniras al mar .
+*GAV:	estas tu sol al col'legi ?
+*GAV:	no , oi ?
+*GAV:	que estas dormint ja , noi ?
+*GAV:	aviat us passara a tots .
+*GAV:	amb aquest pas us passara a tu i al ferran [= es refereix al ritme que porta el nen menjant] .
+*GAV:	si .
+*GAV:	ui , ui , ui !
+*GAV:	esta bo el platano ?
+*GAV:	pcf [% "aaa"] .
+*GAV:	0 .
+*GAV:	ui !
+*GAV:	pcf [% "eee"] .
+*GAV:	pcf [% "tututu"] .
+*GAV:	venga , posa't be .
+*GAV:	que aixi no puc donar'te el menjar , alvar .
+*GAV:	tens molt cuento , eh ?
+*GAV:	www .
+*GAV:	que es va trobar ?
+*GAV:	que es va trobar ?
+*GAV:	un ?
+*GAV:	no el saps tu .
+*GAV:	ah , tu no el saps el cuento .
+*GAV:	va , explicame'l tu a mi , va .
+*GAV:	es va trobar ?
+*GAV:	un dineret [= a e] .
+*GAV:	maridet [= a a] .
+*GAV:	rateta , rateta .
+*GAV:	tu tambe ho saps [= a a] .
+*GAV:	tu que ets tan boniqueta .
+*GAV:	te vols casar amb mi ?
+*GAV:	i ella diu aviam@c <a veure> [/?] quina veu fas .
+*GAV:	guauguau@c , guauguau@c .
+*GAV:	ah , ho saps i no vols dir'ho [= toca el pit de a] .
+*GAV:	ai , no , no , no !
+*GAV:	que em mossegaries .
+*GAV:	eh , que va dir'ho aixi [= a a] ?
+*GAV:	si ?
+*GAV:	i que mes va passar [= a a] ?
+*GAV:	que mes va passar ?
+*GAV:	no ho saps ?
+*GAV:	amb tantes vegades que t' ho ha explicat la iaia .
+*GAV:	no ho saps ?
+*GAV:	eh ?
+*GAV:	va explica'l tu .
+*GAV:	explica'l tu .
+*GAV:	un ?
+*GAV:	ah , un ase .
+*GAV:	ah , un anec .
+*GAV:	el gatet va ser l' ultim .
+*GAV:	diu , ai , si , si , amb tu si que em casare .
+*GAV:	es van casar i se'n van anar a fer non'non@c .
+*GAV:	i com que el gatet tenia tanta gana , nyach@c .
+*GAV:	dona una mossegadeta i se la va menjar .
+*GAV:	garranyich@c garranyach@c el cuento s' ha acabat .
+*GAV:	si que el sabia , si [= a a] .
+*GAV:	si que el sabia .
+*GAV:	el que vols que te l' expliquin .
+*GAV:	sempre vols que t' expliqui cuentos .
+*GAV:	i el del patufet que el saps ?
+*GAV:	no ?
+*GAV:	aquell que deia patufet on ets ?
+*GAV:	que no te'n recordes ?
+*GAV:	jo vull aquest .
+*GAV:	i on era en patufet ?
+*GAV:	on era amagadet ?
+*GAV:	amagadet dintre una col .
+*GAV:	veus com si que el saps .
+*GAV:	veus com si que el saps .
+*GAV:	va corre , menja .
+*GAV:	i que va passar ?
+*GAV:	es va posar a ploure .
+*GAV:	i es va posar amagadet en una col , eh .
+*GAV:	i va venir un bou i se'l va menjar .
+*GAV:	oi que si ?
+*GAV:	i qui el buscava ?
+*GAV:	qui el buscava ?
+*GAV:	els pares seus el buscaven , oi [% "els papes"] ?
+*GAV:	a la nit .
+*GAV:	patufet on ests .
+*GAV:	i ell que deia ?
+*GAV:	no ho saps que deia ?
+*GAV:	que deia ell ?
+*GAV:	que no neva [>] ni plou .
+*GAV:	a la panxa del bou que no neva ni plou [= cantant] .
+*GAV:	li van donar menjat .
+*GAV:	molt menjar .
+*GAV:	molt menjar .
+*GAV:	molt menjar .
+*GAV:	el bou es va inflar .
+*GAV:	inflar .
+*GAV:	inflar .
+*GAV:	i va fer paf@c i va sortir en patufet tot marranot .
+*GAV:	el van banyar i a la nit se'n va anar a dormir .
+*GAV:	i garanyich@c garranyach@c el cuento s' ha acabat .
+*GAV:	corre [= li posa platan a la boca] .
+*GAV:	ara un altre [% "ara nun altre"] .
+*GAV:	ara un altre [% "ara nun altre"] .
+*GAV:	un altre que ?
+*GAV:	un altre cuento .
+*GAV:	el de la blancaneus ?
+*GAV:	i els enanitos .
+*GAV:	aibo@c aibo@c , a casa a descansar [= canta] .
+*GAV:	eh , era aquest ?
+*GAV:	no el saps aquest ?
+*GAV:	no ?
+*GAV:	doncs hauries de sapiguer'los tu .
+*GAV:	i explicar'los a la iaia .
+*GAV:	eh , que et sembla ?
+*GAV:	i explicar'los a la carme .
+*GAV:	corre que nomes en queden dos ja .
+*GAV:	aquest [<] i un altre .
+*GAV:	nomes en queden dos .
+*GAV:	un nomes queda [= li posa platan a la boca] .
+*GAV:	ui , ja nomes queda aquest [= ensenyant'li l' ultim tros de platan] .
+*GAV:	t' has de fer gran .
+*GAV:	claro .
+*GAV:	0 .
+*GAV:	0 .
+*GAV:	ui , un cuquet que puja per aqui .
+*GAV:	per aqui , aqui , aqui [= toca la cama a a] .
+*GAV:	menja .
+*GAV:	me'l menjo jo ?
+*GAV:	me'l menjo jo ?
+*GAV:	l' altre [= li posa el platan a la boca] .
+*GAV:	nyach@c , ja esta !
+*GAV:	0 .
+*GAV:	no diguis mentironetes .
+*GAV:	no diguis coses rares , eh .
+*GAV:	0 .
+*GAV:	ui , ui , ui que caiem !
+*GAV:	aviam@c <a veure> [/?] si caiem [= descorda les sabates a a] .
+*GAV:	cuidado .
+*GAV:	cuidado .
+*GAV:	no , aixi no et puc descordar [= a esta de panxa al llit , g li dona la volta] .
+*GAV:	0 .
+*GAV:	va , que no puc .
+*GAV:	ui el culete !
+*GAV:	posa't be que si no no puc posar'te el dodoti , eh .
+*GAV:	upale@c [= aixeca les cames de a per a posar'li el volque] !
+*GAV:	tot es per que .
+*GAV:	upa@c , que peses [= aixeca a a] !
+*GAV:	ui que peses !
+*GAV:	la iaia no pot , eh [= porta a a en bracos fins el bressol] .
+*GAV:	no .
+*GAV:	la iaia no pot .
+*GAV:	que be que dornirem .
+*GAV:	diga'li adeu [= a a] .
+*GAV:	diga'li adeu .
