@@ -12,8 +12,6 @@
 *MAR:	0 .
 *MAR:	xxx la cucharita .
 *MAR:	0 [=! riu] .
-*RMA:	mejor la cuchara grande .
-*RMA:	quiza [% "quizas"] .
 *MAR:	0 .
 *MAR:	0 .
 *MAR:	mira +...
@@ -23,7 +21,6 @@
 *MAR:	mira'la .
 *MAR:	que petita .
 *MAR:	pcf [% "um"] .
-*RMA:	0 .
 *MAR:	mira que fa la maria .
 *MAR:	aixo es nou .
 *MAR:	aixo +...
@@ -31,9 +28,6 @@
 *MAR:	0 [=! riu] .
 *MAR:	mira'lo [= enf] .
 *MAR:	0 .
-*RMA:	a merendar !
-*RMA:	0 .
-*RMA:	0 .
 *MAR:	es una galeteta (.) aixo .
 *MAR:	0 .
 *MAR:	pcf [% "um" , enf] .
@@ -41,12 +35,10 @@
 *MAR:	que es bo ?
 *MAR:	que t' agrada ?
 *MAR:	eh ?
-*RMA:	0 .
 *MAR:	es bo ?
 *MAR:	eh ?
 *MAR:	ja veuras +...
 *MAR:	allo .
-*RMA:	0 .
 *MAR:	em sembla que t' ha agradat .
 *MAR:	si [= enf] .
 *MAR:	mira el que hi ha (.) aqui .

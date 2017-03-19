@@ -32,7 +32,6 @@
 *MAR:	no .
 *MAR:	shhhh@c [= fent'la callar] !
 *MAR:	xxx xxx la pelicula .
-*INV:	mira , ja , ja .
 *MAR:	ets cabrona gisela .
 *MAR:	esta treballant el mario .
 *MAR:	que fa xxx xxx .
@@ -62,9 +61,6 @@
 *MAR:	mira .
 *MAR:	posa'li aqui [= ensenyant a on va la peca] .
 *MAR:	te , posa'li .
-*INV:	gisela [= fa un xiulet] .
-*INV:	hola .
-*INV:	tiene un pelo mas corto xxx xxx .
 *MAR:	que tens mocs [= acostant'se a g amb un tovallo de paper] ?
 *MAR:	et trec els mocs xxx [= intentant mocar a g] ?
 *MAR:	mira el putxinel'li [= esta a prop de a] .
@@ -89,49 +85,6 @@
 *MAR:	prou ja .
 *MAR:	cuidado .
 *MAR:	cuidado .
-*ULI:	no chutes mas ahi la pelota al suelo .
-*ULI:	eh , mario ?
-*ULI:	xxx .
-*ULI:	ves ?
-*ULI:	malo [= dirigint'se a g] .
-*ULI:	xxx xxx las fotos y todas las cosas .
-*ULI:	venga tu .
-*ULI:	dejalo [= traiem'li el llibre a a] .
-*ULI:	que esta mirandolo la gisela .
-*ULI:	ya lo ve [= ensenyant'li a g] .
-*ULI:	ya lo ve .
-*ULI:	oh !
-*ULI:	la ninya .
-*ULI:	que es ?
-*ULI:	traje de banyo rojo [= passa full] .
-*ULI:	un pijama rojo .
-*ULI:	ves ?
-*ULI:	un vaso rojo .
-*ULI:	de agua si .
-*ULI:	agua .
-*ULI:	agua .
-*ULI:	agua [= passa el full] .
-*ULI:	mira [= assenyalant el llibre] .
-*ULI:	tinta en rojo .
-*ULI:	ves ?
-*ULI:	tinta en rojo .
 *MAR:	que te ha pasado [% "pasao" en comptes de pasado] ?
 *MAR:	que te ha pasado a ti [% "pasao" en comptes de pasado] ?
-*ULI:	no me gusta el rojo porque el rojo xxx xxx .
-*ULI:	ves ?
-*ULI:	ya esta !
-*ULI:	esta ?
-*ULI:	que ves ?
-*ULI:	no corras [= negant amb el cap] .
-*ULI:	que no voy [= segueix negant amb el cap] .
-*ULI:	que no voy .
 *MAR:	hum , no n' hi ha .
-*INV:	ui !
-*INV:	la tuya que grande es [= dirigint'se a a] .
-*INV:	ui !
-*INV:	0 [=! somriu] .
-*ULI:	despues acuerdate que tienes que guardarlo todo .
-*ULI:	eh , mario ?
-*ULI:	que silencio !
-*ULI:	ah , que esta distraida .
-*INV:	caramba !

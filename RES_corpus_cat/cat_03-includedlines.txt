@@ -1,40 +1,3 @@
-*INV:	que tanques guillem ?
-*INV:	guillem , que fas ?
-*INV:	que tanques la +...
-*INV:	tanques ?
-*INV:	per que tanques ?
-*INV:	per que tanques ?
-*INV:	que esta regant el quim .
-*INV:	quim , que vols regar mes ?
-*INV:	que vols anar a la platja ?
-*INV:	si ?
-*INV:	que has d' anar a la platja amb l' anna ?
-*INV:	esta molt met ja el cotxe .
-*INV:	guillem .
-*INV:	que fas ?
-*INV:	que ?
-*INV:	ha tancat , ha tancat .
-*INV:	es que ens hem d' anar a la platja .
-*INV:	i us vinc a veure .
-*INV:	de qui cinc minuts arribo .
-*INV:	vaig a posa'm el vestit de bany .
-*INV:	com treballa [= es refereix a g] .
-*INV:	treballa com tu , eh [= suposo que li diu a q] ?
-*INV:	que neteja ?
-*INV:	els fars ?
-*INV:	neteja els fars del cotxe .
-*INV:	que fas guillem ?
-*ANA:	0 .
-*ANA:	anem [= a g] .
-*ANA:	no , vine .
-*ANA:	anem [= l' agafa de la ma] .
-*ANA:	anem .
-*ANA:	deixa aixo aqui [= es refereix a l' esponja] .
-*ANA:	deixa'ho aqui .
-*ANA:	aqui .
-*ANA:	aqui .
-*INV:	a veure , a veure [= a q] .
-*INV:	que portes tu aqui ?
 *MAR:	vine [= a g] .
 *MAR:	espera .
 *MAR:	has d' esperar una miqueta que esta molt fred .
@@ -42,62 +5,15 @@
 *MAR:	espera't un moment si us plau .
 *MAR:	mare .
 *MAR:	un moment .
-*INV:	oi !
-*ANA:	hola !
-*ANA:	ui , que tens a la boca ?
-*ANA:	pcf [% "aaa"] .
-*ANA:	0 .
-*ANA:	nyam@c [= li dona una cullerada] !
-*ANA:	nyam@c [= una altra cullerada] !
-*ANA:	hum [= una altra] !
-*ANA:	que ?
-*ANA:	no toquis .
-*ANA:	no toquis amb la ma .
-*ANA:	i el iogurt ?
-*ANA:	0 .
-*ANA:	no vols iogurt ?
-*ANA:	no toquis amb la ma .
-*ANA:	vols aixo ?
-*ANA:	bueno [= li dona flan] .
-*ANA:	no toquis .
 *MAR:	aixo es cafe .
 *MAR:	quina gana [= a g] .
 *MAR:	que fa la maria rosa ?
-*INV:	no t'has quedat amb gana , eh guillem ?
-*INV:	mira al pare .
-*INV:	esta vermell , eh ?
 *PAR:	el pare et provoca , eh ?
 *PAR:	0 .
-*ANA:	i iogurt ?
-*ANA:	mira , encara n' hi ha [= li acaba de donar el iogurt] .
-*ANA:	nyam@c [= li dona iogurt] .
-*ANA:	no arriba .
-*ANA:	no arriba en guillem .
-*ANA:	0 .
-*ANA:	shuu@c , no piquis [= li aparta la ma del vidre] !
-*ANA:	guillem !
-*ANA:	que es trenca .
-*ANA:	0 .
-*ANA:	ui , que passa [= el seu be a la trona] ?
-*ANA:	0 .
-*ANA:	encara no esta .
-*ANA:	una miqueta .
-*ANA:	espera [= li dona l' ultima cullerada] .
-*ANA:	ja esta .
-*INV:	bravo .
-*INV:	bravo .
-*INV:	molt be guillem .
-*ANA:	0 .
-*ANA:	0 .
-*ANA:	ai , ai , ai [= s' exclama del que pesa g] !
 *PAR:	que vols tu , eh ?
 *PAR:	una mica de cafe vols ?
 *PAR:	que xiquet .
-*ANA:	on vas ?
 *PAR:	eh !
-*INV:	que tens son ?
-*ANA:	guillem .
-*ANA:	dona'm .
 *PAR:	gracies .
 *PAR:	bufa , bufa [= li dona una culleradeta de cafe] .
 *PAR:	prou , eh .
@@ -106,9 +22,6 @@
 *PAR:	papa .
 *PAR:	va guillem , deixa'la estar la cullera .
 *PAR:	prou , prou .
-*ANA:	ja esta [= li agafa la cullera] .
-*ANA:	si esta .
-*ANA:	0 .
 *PAR:	i prou , eh [= dona a g una cullerada de cafe] .
 *PAR:	aquest cafe es pel pare .
 *MAR:	gracies .
@@ -118,13 +31,10 @@
 *PAR:	molt be .
 *PAR:	papa .
 *PAR:	papa pa(pa) .
-*ANA:	que fas amb aixo ?
 *MAR:	gracies .
 *MAR:	aquesta a l' anna .
 *MAR:	a l' anna , a l' anna .
 *MAR:	dona'li a l' anna .
-*ANA:	a mi , a mi [= li allarga la ma] .
-*ANA:	doncs a la mare .
 *PAR:	gracies .
 *PAR:	cavallet .
 *PAR:	0 [=! imita el sorroll del cavall quan camina] .
