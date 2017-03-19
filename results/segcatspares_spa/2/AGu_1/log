@@ -1,6 +1,6 @@
 sh: error importing function definition for `BASH_FUNC_module()'
 /bin/sh: error importing function definition for `BASH_FUNC_module()'
--catch_rsh /cm/local/apps/sge/var/spool/puck2/active_jobs/566668.1/pe_hostfile
+-catch_rsh /cm/local/apps/sge/var/spool/puck2/active_jobs/566749.1/pe_hostfile
 puck2
 puck2
 puck2
@@ -12,30 +12,30 @@ puck2
 Warning: no access to tty (Bad file descriptor).
 Thus no job control in this shell.
 bash: error importing function definition for `BASH_FUNC_module()'
-## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
+## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r## ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r## ## ## ## ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-## ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
+ py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o l a m a n o d e n t r o g u a R e t e)
 
-## ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
+py-cky.hpy-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s epy-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-## ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
+l a m a n o d e n t r o g u a  k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
- a R e t e)
+:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-py-cky.hpy-cky.h:1014: In inside() Error: earley parse failed, terminals = (py-cky.h:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m e t e r l a m a n o d e n t r o g u a R e t e)
+l a m a n o d e n  C o m e t e r l a m a n o d e n t r o g u a R e t e)
 
-:1014: In inside() Error: earley parse failed, terminals = (m i r a l o k e a s e C o m i r a l o k e a s e Cm e t e r l a m a n o d e n t r o g u a R e t e)
+R e t e)
 
- o m e t e r l a m a n o d e n t r o g u a R e t e)
+t r o g u a R e t e)
 
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output0.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output1.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output2.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output3.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output4.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output5.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output6.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output7.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output0.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output1.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output2.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output3.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output4.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output5.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output6.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1//ag-output7.prs
 Traceback (most recent call last):
   File "/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/AG/scripts/mbr.py", line 54, in <module>
     for p in map(most_frequent_parse, *data):

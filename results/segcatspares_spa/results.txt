@@ -1,0 +1,18 @@
+version matching algo token_f-score token_precision token_recall boundary_f-score boundary_precision boundary_recall
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/dibs/cfgold-res.txt	dibs	0.4382	0.4922	0.395	0.5662	0.6923	0.479
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/dmcmc/cfgold-res.txt	dmcmc
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/100/TPs/cfgold-res.txt	TPs	0.3508	0.3916	0.3178	0.4795	0.5794	0.409
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/dibs/cfgold-res.txt	dibs	0.3046	0.2826	0.3303	0.4406	0.3947	0.4986
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/dmcmc/cfgold-res.txt	dmcmc
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/2/TPs/cfgold-res.txt	TPs	0.3508	0.3916	0.3178	0.4795	0.5794	0.409
+/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_spa/dmcmc_100_spa_test/cfgold-res.txt	dmcmc_100_spa_test	0.3228	0.2555	0.4381	0.6421	0.4728	1

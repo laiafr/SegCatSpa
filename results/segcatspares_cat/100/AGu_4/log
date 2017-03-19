@@ -1,6 +1,6 @@
 sh: error importing function definition for `BASH_FUNC_module()'
 /bin/sh: error importing function definition for `BASH_FUNC_module()'
--catch_rsh /cm/local/apps/sge/var/spool/puck1/active_jobs/566676.1/pe_hostfile
+-catch_rsh /cm/local/apps/sge/var/spool/puck1/active_jobs/566757.1/pe_hostfile
 puck1
 puck1
 puck1
@@ -18,24 +18,24 @@ bash: error importing function definition for `BASH_FUNC_module()'
 
 ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
 
-## ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
+## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
 
 ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
 
-## ## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
+## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
 
-py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 
+## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
 
-3 e t ‍ s R a r 0)
+## py-cky.h:1014: In inside() Error: earley parse failed, terminals = (a i m i r a k 3 e t ‍ s R a r 0)
 
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output0.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output1.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output2.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output3.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output4.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output5.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output6.prs
-processing /fhgfs/bootphon/scratch/lfibla/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output7.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output0.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output1.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output2.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output3.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output4.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output5.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output6.prs
+processing /fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/results/segcatspares_cat/100/AGu_4//ag-output7.prs
 Traceback (most recent call last):
   File "/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/algoComp//algos/AG/scripts/mbr.py", line 54, in <module>
     for p in map(most_frequent_parse, *data):

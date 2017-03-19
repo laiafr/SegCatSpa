@@ -1,0 +1,2 @@
+token_f-score	token_precision	token_recall	boundary_f-score	boundary_precision	boundary_recall
+0.2722	0.4381	0.1974	0.231	0.8472	0.1337

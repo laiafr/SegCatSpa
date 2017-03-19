@@ -3,5 +3,5 @@ Warning: no access to tty (Bad file descriptor).
 Thus no job control in this shell.
 bash: error importing function definition for `BASH_FUNC_module()'
 Running dibs...
-phrasal	pwb = 0.208357515961
+phrasal	pwb = 0.23194362889
 done with dibs
