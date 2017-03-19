@@ -1,420 +1,708 @@
 @UTF8
-@PID:	11312/c-00028052-1
+@PID:	11312/c-00028046-1
 @Begin
 @Languages:	cat
-@Participants:	CHI gisela Target_Child , MAR mare Mother , ULI uli Nurse , ARI ario Child , INV Investigator
-@ID:	cat|Serra|CHI|1;7.14||||Target_Child|||
-@ID:	cat|Serra|MAR|||||Mother|||
-@ID:	cat|Serra|ULI|||||Nurse|||
-@ID:	cat|Serra|ARI|||||Child|||
+@Participants:	CHI Alvar Target_Child , GAV avia Grandmother , INV Investigator
+@ID:	cat|Serra|CHI|2;7.16||||Target_Child|||
+@ID:	cat|Serra|GAV|||||Grandmother|||
 @ID:	cat|Serra|INV|||||Investigator|||
-@Comment:	ario es un nen que es diu mario i portara la inicial a , uli , inicial u , es la mainadera de gisela , g esta asseguda a la falda de m al costat de una taula a on a toca alguna cosa , g esta plorant
-*MAR:	mira , mira .
-*MAR:	mira el mario com t' ho deixa .
-*MAR:	mira el mario com t' ho deixa allo .
-*CHI:	0 [= gemega i s' acosta a la taula] .
-*MAR:	si .
-*MAR:	agafa'ho home .
-*MAR:	si ja t' ho deixa .
-*CHI:	0 .
-%act:	agafa quelcom
-*ARI:	0 .
-%act:	intenta posar una peca en el joc de construccio
-*CHI:	no [= agitant el brac] .
-*ARI:	si .
-*ARI:	te pongo una pieza .
-*MAR:	deixa'li posar un gisela [= agafant la peca] .
-*MAR:	mira una aqui [= posa la peca] .
-*MAR:	vale ?
-*MAR:	te .
-*MAR:	hi poses tu [= oferint'li la peca a g] ?
-*CHI:	0 .
-%act:	agafa la peca
-*MAR:	que ho poses tu ?
-*MAR:	molt be .
-*ARI:	0 .
-%act:	ajuda a posar'la
-*MAR:	mira .
-*MAR:	el mario t' ajuda .
-*MAR:	vale ?
-*ARI:	ahora una aqui .
-*ARI:	altra aqui [= va posant peces mentre g se'l mira] .
-*MAR:	ho veus que be que parla el catala el mario ara ?
-*MAR:	altra aqui .
-*ARI:	ui !
-*ARI:	altra aqui .
-*ARI:	i dos aqui .
-*ARI:	espera gise [= s' ajup per agafar mes peces] .
-*CHI:	0 [= se'l mira] .
-*ARI:	te traigo mas piezas .
-*MAR:	baixem aqui al terra a jugar [= dirigint'se a g] ?
-*MAR:	eh ?
-*MAR:	baixem aqui al terra ?
-*CHI:	0 [= segueix mirant a] .
-@Comment:	g esta a terra amb m i a , plorant mentre segueix agafant la construccio feta , m se'n va
-*MAR:	un cafetito para la carme .
-*CHI:	0 [= es posa a plorar quan a intenta agafar la peca gran de les mans de g] .
-*ARI:	xxx xxx .
-*CHI:	0 [= segueix plorant] .
-*ARI:	una casita ?
+@Comment:	estan a la cuina , g li dona el menjar a a
+*GAV:	que li expliques a la carme , eh ?
+*GAV:	cuidado no et caigui , eh [= a te una capsa a la ma] .
+*INV:	que m' expliques .
+*GAV:	diga'li cosetes a la carme .
 *CHI:	no .
-*CHI:	no [% "na" , donant un cop de peu des del terra] .
-*ARI:	xxx xxx .
-*CHI:	0 [= segueix plorant] .
-*ARI:	una casa ?
-*CHI:	0 [= deixa de plorar] .
-*ARI:	si [= agafa mes peces] ?
-*ARI:	vale .
-*CHI:	0 [= torna a plorar] .
-*ARI:	0 .
-%act:	ofereix una peca a g
-*CHI:	0 [= plora i llenca la peca gran] .
-@Comment:	g i a van a buscar la peca que ha caigut a sota la taula
-*CHI:	no [= plorant] .
-*ARI:	0 .
-%act:	agafa la peca mentre g protesta
-@Comment:	g s' aixeca plorant i va cap a la cuina on esta m , amb la peca a la ma m va cap a g
-*MAR:	que ha passat ?
-*CHI:	0 [= plorant , assenyala cap a la taula] .
-*MAR:	aqui ?
-*MAR:	posem'ho aqui [= assenyalant una cadira] ?
-@Comment:	g s' estira a terra plorant mentre a segueix jugant , m se'n va cap a g , s' aixeca i va cap a on esta a , gemegant
-*MAR:	te gisela .
-*MAR:	te .
-*CHI:	0 [= es gira cap a m] .
-*MAR:	mira [= fa rodar unes rodes] .
-*MAR:	mira .
-*CHI:	0 [= refrega el brac per el nas] .
-*MAR:	aixo .
-*MAR:	eixuga't el nas .
-@Comment:	g gemega i assenyala cap a a que segueix jugant tot sol
-*MAR:	no .
-*MAR:	shhhh@c [= fent'la callar] !
-*CHI:	0 [= calla i va cap a m] .
-*MAR:	xxx xxx la pelicula .
-*CHI:	0 [= torna a plorar , tirant'se a terra] .
-@Comment:	g , m i a seuen junts a terra al voltant de les peces de construccio , g agafa una de les peces gemegant
-*INV:	mira , ja , ja .
-*MAR:	ets cabrona gisela .
-*MAR:	esta treballant el mario .
-*CHI:	0 [= comenca a ploriquejar] .
-%com:	g asseguda a terra mira cap a e
-*MAR:	que fa xxx xxx .
-*MAR:	ui !
-*MAR:	digues hola hola hola que fa la maria rosa .
-*MAR:	digues hola hola hola .
-*MAR:	hola hola .
-*CHI:	0 [= es gira un moment cap a m] .
-*MAR:	mira [= li acosta una peca] .
-*MAR:	un +...
-*MAR:	una altra .
-*MAR:	una altra [= va posant una peca a sobre de una altra] .
-*CHI:	0 [= se la mira] .
-*MAR:	una altra .
-*MAR:	una altra .
-*MAR:	que mes ?
-*CHI:	0 [= comenca a mirar la peca que te a les mans] .
-*MAR:	una altra .
-*MAR:	te [= oferint a g el que ha fet] .
-*ARI:	aixo aixo [= li agafa una peca a g] .
-*CHI:	0 [=! gemega] .
-*MAR:	no vols ?
+*INV:	no em vols dir res avui ?
+*CHI:	0 .
+%act:	agafa una botella que hi ha sobre la taula
+*GAV:	amb la botella no s' hi juga .
+*INV:	que es aixo alvar ?
+*INV:	que es un xerop ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	no ?
+*INV:	gotes ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	son gotes [>] ?
+*GAV:	<que no> [<] pots parlar ?
+*GAV:	has de parlar .
+*GAV:	que no la cridaves a la carme ?
+*GAV:	que no la cridaves ?
+*INV:	me n' anire .
+*INV:	vols que <me'n vaigi> [>] ?
+*GAV:	<despres que> [<] et ve a fer fotografies .
+*GAV:	mira que et fa fotografia la carme , eh .
+*GAV:	despres sortira l' alvar alla a la fotografia , eh .
+*GAV:	pero no et sentira enraonar .
+*GAV:	no et sentira la veueta .
+*CHI:	0 .
+%act:	torna a jugar amb la capsa
+*GAV:	menja [= li toca la galta amb el dit] .
+*GAV:	i no trenquis la capsa , eh .
+*GAV:	no trenquis la capsa que hem de posar la botella , eh .
+*INV:	com menja aquest nen .
+@Comment:	g explica a e que en francis te la cama trencada , tall a la cinta
+*INV:	com [= a a] ?
+*INV:	ho saps tu ?
+*CHI:	amb el cotxe .
+*INV:	amb el cotxe ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	ai , pobre !
+*CHI:	baixava <va anar (.) > [/?] anava pel [/?] pel cami i va fer mal un cotxe .
+*INV:	ja el cuides tu ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	si ?
+*INV:	bueno .
+*INV:	aixi ja pot estar tranquil .
+*INV:	i que porta a la cama ara ?
+*INV:	que porta , alvar ?
+*GAV:	que porta el papa a la cama ?
+*GAV:	que porta a la cameta ?
+*CHI:	res .
+*GAV:	no res ?
 *CHI:	no .
-*CHI:	no [= donant cops de peu i gemegant] .
-*MAR:	les rabietes .
-*MAR:	les rabietes [= seguda davant de g i amb un to de burla tipus pam i pipa] .
-*CHI:	0 [= segueix gemegant] .
-*MAR:	gisela .
-*CHI:	0 [= esta mirant a a] .
-*MAR:	poc en treura la maria rosa si nomes plores .
-*MAR:	poc en treura la maria rosa si nomes plores .
-@Comment:	g s' aixeca i se'n va cap a a que esta jugant
-*ARI:	mira que bonic .
+*GAV:	com que no ?
+*GAV:	que no porta el guix ?
+*GAV:	tota la sabata blanca ?
+*CHI:	no .
+*GAV:	no li veus perque porta el pantalo a sobre , pero porta un guix .
+*INV:	i porta un basto tambe ?
+*INV:	va amb basto ?
+*GAV:	0 [= fa que si amb el cap mirant a a] .
+*CHI:	0 [= mira a e i no diu res] .
+*GAV:	no te veueta .
+*GAV:	no sap enraonar .
+*GAV:	eh , que no saps enraonar ?
+*GAV:	no ?
+*GAV:	ara et donarem biberon com l' alexandre .
+*CHI:	no .
+*GAV:	claro , perque no saps enraonar com l' alexandre .
+*GAV:	doncs et donarem biberon .
+*GAV:	els nens com tu enraonen .
+*CHI:	pcf [% "mm"] .
+*CHI:	0 [= fa que no amb el cap] .
+*GAV:	no enraonen ?
+*CHI:	0 [= fa que no amb el cap] .
+*GAV:	bueno , doncs posem biberon .
+*GAV:	i que mes li posem ?
+*GAV:	mira , dodotis per anar a col'legi .
+*GAV:	eh ?
+*GAV:	posem dodotis per anar a col'legi ?
+*GAV:	perque ets petitet .
+*CHI:	0 [= fa que si amb el cap] .
+*GAV:	si .
+*GAV:	ets un caradura , eh [= li pessiga la galta] ?
+*INV:	escolta .
+*INV:	aquest cotxe no l' havia vist jo .
+*INV:	que es nou ?
+*INV:	no me l' havies ensenyat mai aquest cotxe [>] .
+*GAV:	menja [<] .
+*INV:	de qui +/.
+*GAV:	mastega .
+*CHI:	pj@c !
 *CHI:	0 .
-%act:	intenta agafar la peca que munta a
-*ARI:	espera , espera [= estira de la peca] .
-*CHI:	no [= girant'se cap a m] .
-*CHI:	0 [= es posa a plorar] .
-*MAR:	gisela .
-*MAR:	que t' esta ensenyant .
-*MAR:	mira [= agafa una peca] .
-*MAR:	te [= dirigint'se a g] .
-*MAR:	mira .
-*MAR:	posa'li aqui [= ensenyant a on va la peca] .
-*MAR:	te , posa'li .
-*CHI:	0 [= segueix gemegant] .
-*CHI:	0 [= agafa la peca , gemegant] .
-@Comment:	a segueix muntant , quan vol agafar una peca de g aquesta li gemega , despres g calla i es queda mirant a a , m s' aixeca i es posa a parlar amb e , a acaba el muntatge i l' ensenya a la camera fent un somriure , g tambe mira a la camera , a torna a comencar
-*CHI:	0 [= gemega , buscant a m amb la mirada] .
-@Comment:	m esta a la cuina mentre gisela sent que algu entra a casa
-*INV:	gisela [= fa un xiulet] .
-*CHI:	0 [= la mira] .
-*INV:	hola .
-*INV:	tiene un pelo mas corto xxx xxx .
-*CHI:	0 [=! gemega] .
-*CHI:	0 [= mira al pare que apareix per la porta per tancar'la] .
-*CHI:	0 [= segueix gemegant] .
-*MAR:	que tens mocs [= acostant'se a g amb un tovallo de paper] ?
-*CHI:	0 [= fa que no amb el cap i s' acosta cap a a] .
-*MAR:	et trec els mocs xxx [= intentant mocar a g] ?
-*CHI:	0 [= gemega mentre intenta agafar el que te a] .
-@Comment:	g es a la porta de la cuina agafant alguna cosa de menjar que li donen , va cap a on estava abans , g seu a terra recolzantse amb unafira , va menjant la galeta , a es posa a jugar a prop de g , g agafa una peca li acosta a a , a l' agafa
-*ARI:	gracies .
+%act:	fa veure que dispara , apunta a g amb un cotxet
+*GAV:	pj@c !
 *CHI:	0 .
-%act:	li ofereix una altra peca que a agafa
-*ARI:	gracies .
-@Comment:	a comenca a recollir totes les peces del voltant mentre g se'l mira , a s' allunya i g es dirigeix cap a una cadira i se'n torna cap on estava abans seguda a terra , s' arrossega simulant el soroll de motor , s' acosta cap a m i se la mira , m ha muntat un vehicle i l'arrossega pel terra donant voltes fins que torna a on esta g , m segueix donant voltes mentre g juga amb un cotxe i unes peces , m esta parlant a la cuina amb algu
-*ARI:	hola [= fa putxinel'lis des de darrera de una cadira] .
-*MAR:	mira el putxinel'li [= esta a prop de a] .
-@Comment:	a segueix jugant amb el putxinelli , i g amb el cotxe , a fa xocar els putxinellis com si aplaudissin
-*MAR:	te aplauden mario ?
-*MAR:	y el publico te aplaude o no ?
-*MAR:	gisela .
-*MAR:	gisela .
+%act:	juga amb un cotxe
+*GAV:	que fa el policia ?
+*INV:	es de policia aquest cotxe , alvar ?
+*CHI:	no [= tambe fa que no amb el cap] .
+*INV:	si .
+*INV:	si aqui ho posa .
+*INV:	policia .
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	si que ho posa .
+*GAV:	ets un (.) sardineta mullada [= li toca el pit amb el dit] .
+*CHI:	pcf [% "mm"] .
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	jo ho llegeixo .
+*INV:	diu policia [= sil'labeja el mot policia] .
+*GAV:	sardineta mullada .
+*GAV:	corre menja .
+*GAV:	aquesta boca .
+*GAV:	que no la bellugues .
 *CHI:	0 .
-%act:	es gira un moment i segueix jugant
-*MAR:	hola !
+%act:	va jugant amb el cotxe
+*GAV:	www .
+%exp:	enraona amb e
+*GAV:	va [= toca amb el dit la galta de a] .
+*CHI:	mira que esta alt [% "mia que ta al" , ha posat el cotxet sobre la capsa] .
+*GAV:	ui , que esta alt !
+*GAV:	ui , que esta alt , eh ?
+*GAV:	corre carinyo .
+*GAV:	corre .
+*CHI:	tambe [/?] se treu la cabina tambe [= a e , intenta desmontar la cabina del cotxet] .
+*INV:	tambe ?
+*INV:	si que fa coses aquest cotxe .
+*INV:	el saps desmontar tu ?
+*INV:	no pots .
+*GAV:	ai , ai , ai que el trencarem !
 *CHI:	0 .
-%act:	mira a e i a i es fica al davant
-@Comment:	a es posa a correr mentre g se'l mira , a porta un piano de joguina i el fica davant de una cadira a on seu per tocarlo , g se'l mira i somriu , m s' acosta a g quan a acaba de tocar
-*MAR:	giseleta .
-*MAR:	mira .
-*MAR:	que t' estan tocant el piano .
-*CHI:	pcf [% "anana"] .
-*MAR:	que t' estan tocant el piano .
-@Comment:	a torna a tocar el piano mentre m ajuda a g a muntar el cotxe
-*CHI:	pcf [% "aa"] .
-@Comment:	a esta tocant el piano i colpejant un cub , fa tant soroll que no es sent el que diuen g i m , g s' aixeca i se'n va cap a a , g agafa el cub i el fa servir de timbal mentre a segueix tocant el piano
-*ARI:	nuria .
-*MAR:	que ?
-*ARI:	tu toca el piano que yo xxx xxx .
-@Comment:	m toca el piano , a colpeja dues peces de fusta i el cub mentre g intenta pujar a l' esquena de m que esta agenollada a terra
-*MAR:	que no em deixes tocar .
-*MAR:	deixa'm tocar [= somriu] .
-*CHI:	0 [=! somriu] .
-@Comment:	m segueix tocant i a fent soroll , g va caient de l' esquena de m
-*MAR:	ui que cau !
-*MAR:	ui que cau !
-*ARI:	0 .
-%act:	s' acosta
-*MAR:	ara et caus .
-*ARI:	0 .
-%act:	segueix fent molt soroll
-*MAR:	a la una .
-*MAR:	a les dos .
-*MAR:	i a les tres [= es deixa caure cap enrera fins que g toca a terra] .
-@Comment:	m i a juguen amb el piano mentre g se'ls mira , a fa tant soroll que no se sent res. g se'n va cap a un cotxet i torna cap a a , a qui li pren una tapa de plastic i despres les peces de fusta amb les que a feia soroll
-*CHI:	pcf [% "aaa"] .
-@Comment:	g comenca a picar amb la tapa i les peces , m segueix tocant el piano mentre g pica amb la tapa al cap de m , a s' aixeca
-*MAR:	prou ja .
-@Comment:	g seu a la cama de m i toca primer el piano i despres el colpeja amb les peces de fusta , a juga amb una pilota , g deixa el piano i s'acosta a a , arrossegantse
-*MAR:	cuidado .
-*MAR:	cuidado .
-@Comment:	hi ha un tall a la filmacio es perd l' imatge i el so , frame 878 , g seu a la falda de u , estan a la taula , g esta tocant una construccio mentre a juga amb la pilota
-*ULI:	no chutes mas ahi la pelota al suelo .
-*ULI:	eh , mario ?
-*ULI:	xxx .
-@Comment:	a s' acosta a la camera tapant el objectiu amb la ma
-*ULI:	ves ?
-*ULI:	malo [= dirigint'se a g] .
-@Comment:	g i u estan mirant un llibre
-*ULI:	xxx xxx las fotos y todas las cosas .
-@Comment:	a s' acosta i agafa el llibre per ensenyarlo a la carrera
-*ULI:	venga tu .
-*ULI:	dejalo [= traiem'li el llibre a a] .
-*ULI:	que esta mirandolo la gisela .
-*ULI:	ya lo ve [= ensenyant'li a g] .
-*ULI:	ya lo ve .
-*CHI:	pcf [% "aa"] .
-*ULI:	oh !
-*ULI:	la ninya .
-*ULI:	que es ?
-*ULI:	traje de banyo rojo [= passa full] .
-*CHI:	a nene .
-*ULI:	un pijama rojo .
+%act:	allarga el cotxet a g
+*CHI:	tu treus la cabina .
+*GAV:	jo ?
+*GAV:	jo no se si [= intenta treure la cabina] +...
+*GAV:	jo no puc .
+*GAV:	aixo va molt fort , eh .
+*CHI:	si .
+*GAV:	pues la iaia no pot .
+*GAV:	mira , quan vingui ton pare que te la tregui , eh .
+*GAV:	perque la iaia no pot .
+*GAV:	si te la trenco , despues +...
+*GAV:	0 .
+%act:	li torna el cotxet a a
+*GAV:	eh , no podem .
+*GAV:	se que es treu .
+*GAV:	no se si sera aquest o sera un altre .
+*GAV:	hi ha un que es treu la cabina .
+*GAV:	suposo que aquest tambe .
+*CHI:	mira , aixi el tractor [= torna a posar el cotxe sobre la capsa , en realitat , el cotxet es un tractor] .
+*GAV:	com esta el tractor ?
+*GAV:	que caura .
+*GAV:	fara catapum@c !
 *CHI:	0 .
-%act:	passa el full
-*CHI:	agua [% "aguagua" assenyalant un got en el llibre] .
-*ULI:	ves ?
-*CHI:	agua .
-*ULI:	un vaso rojo .
-*ULI:	de agua si .
-*ULI:	agua .
-*CHI:	agua [= passant el full] .
-*ULI:	agua .
-*CHI:	agua .
-*ULI:	agua [= passa el full] .
-*CHI:	agua .
-*ULI:	mira [= assenyalant el llibre] .
-*ULI:	tinta en rojo .
-*ULI:	ves ?
-*ULI:	tinta en rojo .
-*CHI:	pcf [% "ieie"] .
-*ARI:	0 [= estossega] .
-*MAR:	que te ha pasado [% "pasao" en comptes de pasado] ?
-*ARI:	0 [= segueix estossegant] .
-*MAR:	que te ha pasado a ti [% "pasao" en comptes de pasado] ?
-@Comment:	g i u segueixen mirant el llibre
-*ULI:	no me gusta el rojo porque el rojo xxx xxx .
+%act:	toca el tractor i aquest cau
+*GAV:	clar .
+*GAV:	el poses aqui dalt .
+*GAV:	i no hi cap .
+*GAV:	les rodes de davant les te fora .
+*GAV:	i li has tret la roda .
+*GAV:	mira , que li has tret la roda [= toca el tractor en el lloc on es suposa que hauria d' estar la roda] .
+*GAV:	ara no pot caminar .
+*GAV:	va coix .
+*GAV:	va .
+*GAV:	la boca .
+*CHI:	mira com camina .
+*CHI:	veus ?
+*GAV:	pero [/?] camina pero aquesta roda +...
+*GAV:	aqui no te la goma de la roda [= assenyala el tractor] .
+*GAV:	va coix .
 *CHI:	0 .
-%act:	acaba de passar l' ultim full
-*ULI:	ves ?
-*CHI:	pcf [% s' enten "ie"] .
-*ULI:	ya esta !
-*CHI:	ya esta .
-*ULI:	esta ?
+%act:	fa rodar el tractor per sobre la taula
+@Comment:	g i e enraonen
 *CHI:	0 .
-%act:	aparta el llibre
-@Comment:	se sent un soroll i g es gira en la direccio del soroll
-*ULI:	que ves ?
-@Comment:	u esta seguda a la cadira i g esta dreta als peus d' u
-*CHI:	0 [= gemega estirant el pantalo d' u] .
-*ULI:	no corras [= negant amb el cap] .
-*CHI:	0 [= segueix gemegant] .
-*ULI:	que no voy [= segueix negant amb el cap] .
-*CHI:	0 [= gemega i estira del brac a u] .
-*ULI:	que no voy .
-@Comment:	hi ha un petit tall , g , m i a estan davant del televisor , a i m estan agenollats i g dreta
-*CHI:	pcf [% "ia"] .
-*MAR:	hum , no n' hi ha .
-@Comment:	g s' ajup mentre m sintonitza la tele i toca el volum , g es mira la part baixa de la tele , hi ha un tall sense imatge ni so des del frame 958 fins al 964 , a i g estan seguts a terra jugant amb blocs , pero cadascu te les seves peces
-*ARI:	ay !
-*ARI:	que bonic !
-@Comment:	a i g segueixen muntant els blocs , a esta fent una columna de 6 blocs mentre que g intenta posarne tambe un sobre d' altre
+%act:	posa la capsa sobre el cotxe de policia
+*CHI:	la policia .
+*GAV:	oh , la policia , com l' has posat !
+*GAV:	amb una capsa sobre .
+*GAV:	la xafaras .
+*GAV:	s' ofegara .
+*CHI:	0 .
+%act:	treu la capsa del cotxe , treu un ninot de dins el cotxe i li ensenya a g
+*CHI:	hum !
+*GAV:	no .
+*GAV:	corre .
+*GAV:	aquestes galtes [= toca la galta de a] .
+*GAV:	que es buidin .
+*CHI:	0 .
+%act:	posa i treu la capsa del cotxe
+*GAV:	molt be !
+*GAV:	molt be !
+*GAV:	ho fas molt be .
+*GAV:	corre .
+*GAV:	aixo [= torna a tocar la galta de a] .
+*GAV:	ho fas molt be .
+*CHI:	hum !
+*CHI:	0 .
+%act:	posa els dits en forma de pistola i apunta a g
+*GAV:	a mi ?
+*GAV:	que li fas a la iaia ?
+*GAV:	que fas a la iaia ?
+*CHI:	0 .
+%act:	toca amb el dit la galta de g
+*GAV:	shss@c !
+*GAV:	poc a poc .
+*GAV:	poc a poc .
+*GAV:	va , corre .
+*CHI:	esta [/?] esta plovent [% "ta plovent"] .
+*GAV:	esta plovent ?
+*CHI:	0 [= fa que si amb el cap] .
+*GAV:	li poses un paraigua ?
+*CHI:	0 .
+%act:	torna a posar la capsa sobre el cotxe
+*CHI:	ai , que s' ha mullat uno !
+*CHI:	0 .
+%act:	juga amb la capsa
+*GAV:	pobra capsa .
+*GAV:	la trencaras a l' ultim , eh .
+*GAV:	va .
+*GAV:	explica'li a la carme on aniras .
+*INV:	que te n' aniras ?
+*CHI:	dema anire al mar [% "a marg"] .
+*INV:	al mar ?
+*INV:	quan ?
+*CHI:	dema .
+*INV:	i que hi faras alla ?
+*GAV:	dema aniras al mar ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	i que faras alla ?
+*INV:	no ho saps ?
+*GAV:	dema ho veig molt dificil , eh .
+*GAV:	dema ho veig molt dificil .
+*CHI:	esta molt lluny [% "ta molt lluny"] ?
+*GAV:	esta lluny si .
+*GAV:	ademes [>] +/.
+*CHI:	anar [<] amb cotxe .
+*GAV:	clar , si .
+*GAV:	pero la mama no hi es .
+*GAV:	i com pots anar sense la mama (.) al mar ?
+*GAV:	has d' esperar a que vingui la mama dema , oi ?
+*CHI:	dema .
+*GAV:	dema passat .
+*CHI:	tu no hi aniras [% "tu no naras" , a g] .
+*GAV:	no , jo me n' anire a salou .
+*CHI:	la carme si [% "a carme"] .
+*GAV:	la carme si que anira ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	si ?
+*INV:	que be !
+*GAV:	ah , molt be !
+*GAV:	i a mi no em convides ?
+*GAV:	mira que be .
+*INV:	ai , que be !
+*INV:	que contenta estic .
+*CHI:	fa molt de vent al mar [% "fa mol a ven a mars"] .
+*CHI:	molt de vent [% "mol a ven"] .
+*GAV:	fa molt de vent ?
+*CHI:	si .
+*GAV:	a si ?
+*GAV:	bueno , no passa res .
+*GAV:	que faci vent es igual .
+*GAV:	que vols aigua ?
+*CHI:	si .
+*CHI:	no .
+*GAV:	si o no ?
+*GAV:	si o no [= li toca el brac] ?
+*CHI:	no .
+*INV:	alvar , que me'n dones de platano ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	no me'n dones ?
+*INV:	amb la gana que tinc .
+*GAV:	pobra .
+*GAV:	no li dones una miqueta ?
+*CHI:	tens cotxes [% "tin" , a e] ?
+*INV:	tinc cotxes jo , si .
+*INV:	ja t' ho vaig dir que en tenia a casa meva .
+*INV:	tu has de venir un dia a casa meva .
+*INV:	li has de dir a la mama que t' hi porti .
+*INV:	jo t' ensenyare tots els meus cotxes .
+*INV:	son petits .
+*INV:	per jugar .
+*CHI:	i grossos hi ha [% "gossos"] ?
+*INV:	grossos pot ser si que n' hi ha algun .
+*INV:	pero quasi tots son petitons .
+*CHI:	tens un vermell [% "vemell"] ?
+*INV:	si .
+*INV:	em sembla que si .
+*CHI:	per que ?
+*INV:	perque m' agraden els vermells .
+*INV:	i me'l vaig comprar vermell .
+*GAV:	a ell tambe li agraden els vermells , oi [= a a] ?
+*GAV:	t' agraden els vermells , alvar ?
+*CHI:	si .
+*GAV:	si .
+*CHI:	mira com baixa [= juga amb el tractor] .
+*CHI:	<&puj (.) > [/?] puja i baixa .
+*GAV:	puja i baixa , si .
+*INV:	i tu en tens de cotxes ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	molts ?
+*CHI:	jo tinc molts .
+*CHI:	jo tins grossos i tu no [% "gossos"] .
+*INV:	ah , pues es veritat .
+*INV:	me n' haure de comprar .
+*INV:	i si me'n dones un dels teus ?
+*CHI:	si .
+*INV:	me'n regalaras un ?
+*CHI:	com els meus .
+*INV:	me'ls regalaras ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	per mi ?
+*CHI:	si .
+*INV:	que be !
+*GAV:	es bon xicot .
+*INV:	que be !
+*INV:	aixi podre jugar .
+*CHI:	0 .
+%act:	juga amb el tractor
+*INV:	ara aniras a dormir , alvar ?
+*CHI:	no .
+*INV:	una miqueta ?
+*CHI:	si .
+*INV:	i despres aniras al col'legi ?
+*CHI:	no .
+*CHI:	al mar .
+*GAV:	al mar no [>] .
+*INV:	<al mar> [<] ?
+*GAV:	a la tarda aniras al col'legi .
+*GAV:	dema passat .
+*GAV:	o un altre dia aniras al mar .
+*INV:	que tens amics ?
+*INV:	hi ha molts nens al teu col'legi ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	no ?
+*INV:	nomes tu ?
+*INV:	estas tu solet ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	no .
+*INV:	em sembla que m' enganyes .
+*GAV:	estas tu sol al col'legi ?
+*GAV:	no , oi ?
+*INV:	i el ferran tambe va amb tu ?
+*CHI:	0 [= no fa cap pas] .
+*GAV:	que estas dormint ja , noi ?
+*INV:	va al teu col'legi el ferran ?
+*CHI:	0 .
+%act:	es tapa la cara amb les mans i riu
+*INV:	ai , despista .
+*INV:	i l' alexandre va al col'legi ?
+*CHI:	no .
+*INV:	no .
+*INV:	es petit .
+*INV:	es molt petit l' alexandre .
+*GAV:	aviat us passara a tots .
+*GAV:	amb aquest pas us passara a tu i al ferran [= es refereix al ritme que porta el nen menjant] .
+*CHI:	0 [= fa que no amb el cap] .
+*GAV:	si .
+*CHI:	0 .
+%act:	s' estira sobre la taula
+*INV:	ui , quina son que tens .
+*GAV:	ui , ui , ui !
+*INV:	quina soneta que tens .
+*GAV:	esta bo el platano ?
+*GAV:	pcf [% "aaa"] .
+*GAV:	0 .
+%act:	intenta posar'li platan a la boca
+*GAV:	ui !
+*GAV:	pcf [% "eee"] .
+*CHI:	pcf [% "tututu"] .
+*GAV:	pcf [% "tututu"] .
+*GAV:	venga , posa't be .
+*GAV:	que aixi no puc donar'te el menjar , alvar .
+*CHI:	0 .
+%act:	s' incorpora
+*GAV:	tens molt cuento , eh ?
+*GAV:	www .
+%exp:	comenca a explicar'li el compte de la rateta que escombrava l' escaleta
+*GAV:	que es va trobar ?
+*GAV:	que es va trobar ?
+*GAV:	un ?
+*GAV:	no el saps tu .
+*CHI:	un xxx [% sembla que digui "caca"] .
+*GAV:	ah , tu no el saps el cuento .
+*GAV:	va , explicame'l tu a mi , va .
+*INV:	jo no el se , alvar .
+*INV:	me l' expliques ?
+*INV:	que era ?
+*INV:	una rateta que es banyava al mar ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	ah , no ?
+*INV:	doncs que feia ?
+*INV:	que feia la rateta ?
+*CHI:	va trobar un dineret [% "gua tata un ditetet"] .
+*GAV:	es va trobar ?
+*CHI:	un dineret [% "ditetet"] .
+*GAV:	un dineret [= a e] .
+*INV:	i que va fer amb el dineret ?
+*CHI:	el va posar a la butxaqueta [% "a butxaqueta" , fa el gest de posar'ho a la butxaca] .
+*INV:	ai [= allarga la i] !
+*INV:	i se'l va guardar a la butxaqueta ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	vols dir que no es va comprar un llacet per la cueta ?
+*CHI:	0 [= continua fent que si amb el cap] .
+*INV:	ah !
+*INV:	i on tenia la cueta ?
+*CHI:	0 [= assenyala el seu cul] .
+*INV:	aqui radera ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	i que va fer ?
+*CHI:	0 [= torna a assenyalar'se el cul] .
+*INV:	quan es va posar el llacet a la cueta que va fer ?
+*INV:	on se'n va anar ?
+*CHI:	es va buscar maridet [% "se va bucar matitet"] .
+*GAV:	maridet [= a a] .
+*INV:	i qui va passar primer ?
+*CHI:	<a &gu (.) > [/?] un gosset .
+*INV:	un gosset ?
+*INV:	i que li va dir ?
+*INV:	ho saps que li va dir ?
+*CHI:	no .
+*INV:	no ?
+*INV:	i la iaia que ho sap ?
+*GAV:	rateta , rateta .
+*GAV:	tu tambe ho saps [= a a] .
+*GAV:	tu que ets tan boniqueta .
+*GAV:	te vols casar amb mi ?
+*GAV:	i ella diu aviam@c <a veure> [/?] quina veu fas .
+*GAV:	guauguau@c , guauguau@c .
+*GAV:	ah , ho saps i no vols dir'ho [= toca el pit de a] .
+*GAV:	ai , no , no , no !
+*GAV:	que em mossegaries .
+*GAV:	eh , que va dir'ho aixi [= a a] ?
+*GAV:	si ?
+*CHI:	<que va> [/?] que va passar ?
+*GAV:	i que mes va passar [= a a] ?
+*GAV:	que mes va passar ?
+*CHI:	no se .
+*GAV:	no ho saps ?
+*GAV:	amb tantes vegades que t' ho ha explicat la iaia .
+*GAV:	no ho saps ?
+*CHI:	0 .
+%act:	juga amb el cotxe
+*GAV:	eh ?
+*GAV:	va explica'l tu .
+*GAV:	explica'l tu .
+*CHI:	un anec [% "ana"] .
+*GAV:	un ?
+*CHI:	un anec [% "ana"] .
+*INV:	un ase .
+*GAV:	ah , un ase .
+*CHI:	un anec [% "ana"] .
+*INV:	un anec ?
+*GAV:	ah , un anec .
+*INV:	un anec .
+*INV:	si ?
+*INV:	i que li va dir l' anec ?
+*CHI:	no hi es .
+*CHI:	no hi es ?
+*CHI:	no .
+*CHI:	un gatet .
+*GAV:	el gatet va ser l' ultim .
+*INV:	el gatet si que li va agradar , oi ?
+*INV:	i que fa el gatet ?
+*INV:	que diu ?
+*CHI:	miau@c .
+*INV:	miau@c .
+*GAV:	diu , ai , si , si , amb tu si que em casare .
+*GAV:	es van casar i se'n van anar a fer non'non@c .
+*GAV:	i com que el gatet tenia tanta gana , nyach@c .
+*GAV:	dona una mossegadeta i se la va menjar .
+*GAV:	garranyich@c garranyach@c el cuento s' ha acabat .
+*GAV:	si que el sabia , si [= a a] .
+*CHI:	no .
+*GAV:	si que el sabia .
+*GAV:	el que vols que te l' expliquin .
+*GAV:	sempre vols que t' expliqui cuentos .
+*GAV:	i el del patufet que el saps ?
+*CHI:	no .
+*GAV:	no ?
+*GAV:	aquell que deia patufet on ets ?
+*GAV:	que no te'n recordes ?
+*CHI:	jo vull aquest .
+*GAV:	jo vull aquest .
+*GAV:	i on era en patufet ?
+*GAV:	on era amagadet ?
+*CHI:	a dintre una col .
+*GAV:	amagadet dintre una col .
+*GAV:	veus com si que el saps .
+*GAV:	veus com si que el saps .
+*GAV:	va corre , menja .
+*CHI:	amagat dintre una col [% "amatat"] .
+*GAV:	i que va passar ?
+*GAV:	es va posar a ploure .
+*GAV:	i es va posar amagadet en una col , eh .
+*GAV:	i va venir un bou i se'l va menjar .
+*GAV:	oi que si ?
+*GAV:	i qui el buscava ?
+*GAV:	qui el buscava ?
+*CHI:	els pares seus [% "a papes sius"] .
+*GAV:	els pares seus el buscaven , oi [% "els papes"] ?
+*GAV:	a la nit .
+*GAV:	patufet on ests .
+*GAV:	i ell que deia ?
+*GAV:	no ho saps que deia ?
+*GAV:	que deia ell ?
+*CHI:	a la panxa d' un bou [% "a panxa d' un dou"] .
+*GAV:	que no neva [>] ni plou .
+*CHI:	bou [<] [% "dou"] .
+*GAV:	a la panxa del bou que no neva ni plou [= cantant] .
+*GAV:	li van donar menjat .
+*GAV:	molt menjar .
+*GAV:	molt menjar .
+*GAV:	molt menjar .
+*GAV:	el bou es va inflar .
+*GAV:	inflar .
+*GAV:	inflar .
+*GAV:	i va fer paf@c i va sortir en patufet tot marranot .
+*GAV:	el van banyar i a la nit se'n va anar a dormir .
+*GAV:	i garanyich@c garranyach@c el cuento s' ha acabat .
+*CHI:	ara un altre .
+*GAV:	corre [= li posa platan a la boca] .
+*INV:	corre que ja acabes .
+*CHI:	ara un altre [% "ara nun altre"] .
+*GAV:	ara un altre [% "ara nun altre"] .
+*GAV:	ara un altre [% "ara nun altre"] .
+*CHI:	ara un altre xxx .
+*GAV:	un altre que ?
+*CHI:	un altre cuento .
+*GAV:	un altre cuento .
+*GAV:	el de la blancaneus ?
+*CHI:	si .
+*GAV:	i els enanitos .
+*GAV:	aibo@c aibo@c , a casa a descansar [= canta] .
+*GAV:	eh , era aquest ?
+*GAV:	no el saps aquest ?
+*CHI:	0 [= fa que no amb el cap] .
+*GAV:	no ?
+*GAV:	doncs hauries de sapiguer'los tu .
+*GAV:	i explicar'los a la iaia .
+*GAV:	eh , que et sembla ?
+*GAV:	i explicar'los a la carme .
+*CHI:	0 .
+%act:	juga amb el cotxe
+*GAV:	corre que nomes en queden dos ja .
+*INV:	ja acabes [>] .
+*GAV:	aquest [<] i un altre .
+*GAV:	nomes en queden dos .
+*INV:	ai , que ja acabes , ja acabes .
+*GAV:	un nomes queda [= li posa platan a la boca] .
+*CHI:	no me'l mengis [= a e] .
+*INV:	no te'l menjo , no .
+*INV:	per tu , per tu .
+*INV:	que tu t' has de fer gran .
+*GAV:	ui , ja nomes queda aquest [= ensenyant'li l' ultim tros de platan] .
+*INV:	i has de creixer molt .
+*CHI:	no .
+*INV:	no vols creixer ?
+*GAV:	t' has de fer gran .
+*GAV:	claro .
+*INV:	has de ser gran .
+*GAV:	0 .
+%act:	pica amb els dits sobre la taula , a amaga el cotxe
+*INV:	ai !
+*INV:	que es aixo que ve ?
+*GAV:	0 .
+%act:	toca el brac de a
+*CHI:	hummm !
+*GAV:	ui , un cuquet que puja per aqui .
+*GAV:	per aqui , aqui , aqui [= toca la cama a a] .
+*CHI:	no .
+*GAV:	menja .
+*CHI:	no me'l mengis , eh [= es refereix a l' ultim tros de platan] !
+*GAV:	me'l menjo jo ?
+*GAV:	me'l menjo jo ?
+*CHI:	no .
+*GAV:	l' altre [= li posa el platan a la boca] .
+*GAV:	nyach@c , ja esta !
+*INV:	molt be , ja hem acabat .
+*CHI:	ja esta .
+*CHI:	jo m' ho he menjat tot i tu no [= a e] .
+*INV:	jo no .
+*INV:	ja ho veig que jo no .
+*INV:	tu si i jo no .
+*GAV:	0 .
+%act:	neteja la cara a a
+*CHI:	tens nens [= a e] ?
+*INV:	si que en tinc .
+*CHI:	per que ?
+*INV:	mira , <perque m' agraden> [>] .
+*CHI:	<com es> [<] diuen [% "coms diun"] ?
+*INV:	es diuen sergi i eugeni .
+*CHI:	per que ?
+*INV:	perque em va agradar aquest nom i els hi vaig posar sergi i eugeni .
+*INV:	i tu com te dius ?
+*CHI:	no se .
+*CHI:	alvar .
+*INV:	i per que et dius alvar ?
+*CHI:	i perque no .
+*INV:	per que no ?
+*INV:	o perque si .
+*CHI:	perque no .
+*INV:	perque no , bueno , doncs perque no .
+*INV:	alvar que mes ?
+*INV:	que ho saps ?
+*INV:	alvar que mes ?
+@Comment:	g aixeca a a de la cadira i se'n van a l' habitacio
+*CHI:	mira quantes [= no es veu a que es refereix] .
+*INV:	moltes , moltes .
+*INV:	i animals .
+*INV:	i una trompeta veig .
+*CHI:	mira'la [% "mia'la"] .
+*INV:	es teva la trompeta ?
+*CHI:	no .
+*INV:	de qui es ?
+*CHI:	del ferran .
+*INV:	ah , del ferran .
+*INV:	que te la deixa ?
+*CHI:	no .
+*INV:	no te la deixa ?
+*INV:	i com es que esta aqui ?
+*CHI:	esta aqui a xxx .
+*GAV:	no diguis mentironetes .
+*GAV:	no diguis coses rares , eh .
+*CHI:	pcf [% "tutitutituti"] .
+*CHI:	0 .
+%act:	es revolca per sobre el llit , sembla que canti
+*INV:	que be que te'n vas a dormir , eh .
+*INV:	que be que vius , alvar .
+*CHI:	0 [= continua cantant] .
+*CHI:	pcf [% "tutitutituti"] .
+*GAV:	0 .
+%act:	vol treure'li el pantalo a a , gairebe cau i s' ha de seure al llit
+*GAV:	ui , ui , ui que caiem !
+*INV:	ui , que em sembla que ja ets molt gran tu .
+*GAV:	aviam@c <a veure> [/?] si caiem [= descorda les sabates a a] .
+*CHI:	pcf [% "titititi"] .
+*GAV:	cuidado .
+*GAV:	cuidado .
+*CHI:	pcf [% "tiiiiii"] .
+*CHI:	rum@c , rum@c [= ara juga amb el tractor sobre el llit] .
+*CHI:	ara un moment el cotxe [= toca un cotxet] .
+*CHI:	tractor [= torna a agafar el tractor] .
+*CHI:	primer xxx xxx el tractor .
+*GAV:	no , aixi no et puc descordar [= a esta de panxa al llit , g li dona la volta] .
+*CHI:	iaia .
+*INV:	que fa la iaia ?
+*GAV:	0 .
+%act:	li treu el pantalo
+*CHI:	pcf [% "tututu"] .
+*CHI:	0 .
+%act:	torna a jugar amb el tractor
+*GAV:	va , que no puc .
+*CHI:	pcf [% "sha , sha , sha"] .
+*CHI:	culete [= g li ha tret el pantalo , es toca el cul amb la ma] .
+*GAV:	ui el culete !
+*GAV:	posa't be que si no no puc posar'te el dodoti , eh .
+*GAV:	upale@c [= aixeca les cames de a per a posar'li el volque] !
+*CHI:	esta molt lluny casa teva [% "ta mol lluny a ca teva"] ?
+*INV:	una mica .
+*CHI:	per que ?
+*INV:	mira , perque jo visc a una casa que esta lluny .
+*INV:	molt , molt lluny no esta , alvar .
+*CHI:	per que ?
+*INV:	no ho se .
+*CHI:	per que ?
+*INV:	per que , per que , per que .
+*INV:	perque si .
+*GAV:	tot es per que .
+*INV:	perque si .
+*CHI:	perque no .
+*INV:	perque si .
+*CHI:	perque no .
+*INV:	per que no ?
+*INV:	perque si .
+*GAV:	upa@c , que peses [= aixeca a a] !
 *INV:	ui !
-*INV:	la tuya que grande es [= dirigint'se a a] .
-*ARI:	si [= mirant a e] .
-*ARI:	un dia hice una torre que pasaba de la mesa .
-*CHI:	0 .
-%act:	cau la seva pila i mira a e
-*ARI:	xxx no me la +/.
-*INV:	ui !
-*ARI:	esta torre .
-*ARI:	esta torre me saldria .
-@Comment:	g esta agafant blocs de la caixa , fa soroll i no es sent el que diu a
-*ARI:	xxx xxx .
-*ARI:	le estas haciendo una foto a la torre ?
-*INV:	0 [=! somriu] .
-@Comment:	a segueix posant blocs a la torre mentre g fa picar els blocs
-*CHI:	pcf [% s' enten "amame"] .
-*ARI:	pcf [% "amame" , somriu] .
-*ARI:	no sabe xxx xxx .
-*CHI:	0 .
-%com:	esta fent soroll i no es sent el que diu a
-*CHI:	pcf [% "amame" , remenant el calaix] .
-*ARI:	te estoy xxx xxx [= li cau la torre] .
-*ARI:	ya empezamos como siempre .
-*CHI:	pcf [% "ie"] .
-*ARI:	ya empezamos [% "empesamos" en comptes de empezamos , recollint els blocs] .
-*ARI:	ahora ya lo tenia [= torna a comencar la torre] +...
-*CHI:	pcf [% "ii"] .
-*CHI:	pcf [% "ee"] .
-*CHI:	pcf [% "ee" , fa picar els blocs amb el terra] .
-*ARI:	que pasa ?
-*CHI:	pcf [% "bibi" , fa picar el blocs] .
-*ARI:	no se que le pasa a la gisela [= muntant una torre] .
-*ARI:	que esta cantando .
-%com:	a comenca a cantar
-*ARI:	pcf [% "mmm"] .
-*ARI:	pcf [% "tutututu"] .
-*CHI:	0 [= mira a e] .
-*CHI:	0 [= fa com si s' enganxes] .
-*ARI:	el vint'i'cinc de desembre [= cantant] .
-*CHI:	0 .
-%act:	cau d' esquena i s' aixeca
-*ARI:	0 [=! somriu] .
-@Comment:	g s' acosta els blocs cap a ella i llanca alguns cap a a
-*ARI:	que fas gis ?
-*ARI:	tirar les coses ?
-*CHI:	0 .
-%act:	segueix llencant'li blocs
-*ARI:	oh !
-*ARI:	que bonic [= segueix posant blocs a la torre] !
-*ARI:	que fas gis ?
-*ARI:	no , no .
-*ARI:	no .
-@Comment:	la torre cau i a mira a e fent un somriure
-*ARI:	pues hare una cosa mas preciosa [= mentre recull els blocs] .
-*CHI:	pcf [% "utitia" , mentre s' acosta a a] .
-*ARI:	que fas pituca ?
-*ARI:	gis , sal !
-*CHI:	0 .
-%act:	agafa un bloc i s' aixeca
-*CHI:	0 [= estossega] .
-*ARI:	gis , sal !
-*CHI:	0 [= segueix estossegant , es gira i torna cap a a] .
-*ARI:	ay !
-*ARI:	ya lo +...
-*ARI:	tengo .
-*ARI:	ya lo tengo .
-*CHI:	0 .
-%act:	s' ajup al costat de a
-*ARI:	que te salgas de aqui gisela [= comenca una altra torre] .
-*ARI:	de aqui .
-*CHI:	0 .
-%act:	agafa un bloc
-*ARI:	que no me cojas [= segueix muntant la torre] .
-*CHI:	0 .
-%act:	agafa uns quants blocs
-*ARI:	jolin !
-*CHI:	0 .
-%act:	se'n va
-*ARI:	si es que me coje todo la gise .
-@Comment:	g se'n va cap al piano i comenca a colpejarlo , a segueix muntant la torre
-*ARI:	ah , ya lo se hacer !
-*ARI:	primero la redonda .
-*CHI:	0 .
-%act:	va a buscar mes blocs
-*ARI:	aqui [= muntant la torre] .
-*ARI:	ya esta bien .
-*ARI:	y luego lo alargado .
-*ULI:	despues acuerdate que tienes que guardarlo todo .
-*ULI:	eh , mario ?
-*ARI:	si .
-@Comment:	g va portant blocs i posantlos a sobre del teclat del piano
-*ARI:	ay !
-*ARI:	me se ha caido .
-*CHI:	0 .
-%act:	s' acosta a a
-*CHI:	pcf [% "aa"] .
-*ARI:	que fas gis ?
-*CHI:	0 .
-%act:	allarga el brac cap al cap d' a
-*ARI:	que no [= apartant'li la ma] !
-@Comment:	g se'n va cap al sofa
-*CHI:	pcf [% "tete"] .
-*CHI:	pcf [% "tete" , intenta pujar al sofa] .
-%com:	g manipula peces de un tente
-*CHI:	pcf [% "o"] .
-*CHI:	pcf [% "mimi"] .
-*CHI:	pcf [% "ta" , agafa una peca] .
-@Comment:	g desmunta unes peces i les posa a una torreta que ja esta feta , despres li cau una peca i la recull , g puja al sofa i s' estira , te singlot , g desmunta una columna feta i en munta algunes mes petites sobre una base del tente , segueix amb el singlot , a agafa el piano mentre g segueix amb les columnes
-*CHI:	pcf [% "alapic" , mentre segueix muntant] .
-*ULI:	que silencio !
-*ULI:	ah , que esta distraida .
-*CHI:	0 .
-%act:	segueix amb el que fa
-@Comment:	g desmunta les columnes mentre a ja fa una altra torre mes alta que les altres que ha fet
-*INV:	caramba !
-@Comment:	g ha muntat una columna nova
-*CHI:	0 [= gemega mentre busca alguna peca a terra] .
-*CHI:	pcf [% "auui"] .
-*CHI:	pcf [% "atilica" , mentre baixa del sofa] .
-@Comment:	g ha llencat algunes peces i n' agafa d' altres , ara intenta pujar al sofa i a la vegada colloca una columna
-*CHI:	pcf [% "ti"] .
-*CHI:	pcf [% "tete"] .
-*ARI:	0 [= estossega] .
-*CHI:	pcf [% "tetete"] .
-@Comment:	hi ha un tall , g apareix a terra , al costat del sofa amb un cubell de plastic al cap , el cubell li cau , el va a buscar , se'l posa i va cap a e i a
-*CHI:	pcf [% "tetete"] .
-*CHI:	pcf [% "tete"] .
-@Comment:	g seu a un tamboret , s' aixeca i se'n va cap a a
-*CHI:	pcf [% "tete"] .
-*CHI:	pcf [% "tetetete" , passejant'se per davant d' a] .
-*CHI:	pcf [% "tete" , davant a] .
-*CHI:	0 .
-%act:	agafa a a pel coll i espatlles
-@Comment:	g estira la cremallera del xandall d' a i aquest l' aparta , g torna a agafar i estirar la cremallera , cau la torre de a i aquest empeny a g
-*ARI:	que [= recull els blocs] ?
-@Comment:	g marxa
+*GAV:	ui que peses !
+*INV:	et fas tan gran , alvar .
+*GAV:	la iaia no pot , eh [= porta a a en bracos fins el bressol] .
+*CHI:	no .
+*GAV:	no .
+*CHI:	no .
+*INV:	no , clar .
+*GAV:	la iaia no pot .
+*CHI:	no , no , no , no [= canta] .
+*INV:	i a mes ets molt alt tu .
+*INV:	ets un nen molt alt tu .
+*INV:	ale , a dormir !
+*INV:	ai que be que dormiras , eh alvar ?
+*GAV:	que be que dornirem .
+*INV:	quina sort .
+*INV:	jo tambe me n' aniria a dormir .
+*GAV:	diga'li adeu [= a a] .
+*INV:	adeu .
+*GAV:	diga'li adeu .
+*INV:	adeu , alvar .
+*CHI:	adeu .
+*INV:	fins un altre dia .
 @End
