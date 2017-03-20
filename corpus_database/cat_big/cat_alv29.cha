@@ -1,0 +1,501 @@
+@UTF8
+@PID:	11312/c-00028044-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , GAV avia Grandmother , MAR mare Mother , INV Investigator
+@ID:	cat|Serra|CHI|2;5.13||||Target_Child|||
+@ID:	cat|Serra|GAV|||||Grandmother|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan a la cuina , g dona el dinar a a , a juga amb un cotxe
+*CHI:	cotxe policia .
+*INV:	ui , que maco !
+*INV:	no el tenies l' altre dia .
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	si que el tenies ?
+*INV:	ah , doncs jo no l' havia vist .
+*INV:	i te sirena ?
+*CHI:	0 [= es queda mirant a e com si no sabes el que li diu] .
+*GAV:	fa sorollet aquest ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	no fa sorollet ?
+*GAV:	pero parla , traga el menjar .
+*GAV:	si no sortira la veu no et sentira a la radio , eh , si no parles .
+*INV:	no has anat al parque avui ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	per que ?
+*CHI:	perque no [% "peque"] .
+*INV:	perque no ?
+*INV:	segur que es perque no ?
+*CHI:	si .
+*INV:	que plou ?
+*CHI:	si .
+*INV:	ah [>] !
+*CHI:	no [<] .
+*INV:	no plou ?
+*INV:	fa sol ?
+*CHI:	no .
+*INV:	tampoc .
+*INV:	doncs que passa , alvar , avui ?
+*INV:	fa fred .
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	tampoc ?
+*INV:	fa calor .
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	no .
+*GAV:	menja .
+*GAV:	0 .
+%act:	li dona una cullerada
+*GAV:	a veure si m' emportare l' alexandre .
+*GAV:	m' emportare l' alexandre a casa de la iaia .
+*CHI:	0 [=! somriu] .
+*INV:	on es l' alexandre ?
+*INV:	no hi es aqui ?
+*GAV:	hum , que m' emportare l' alexandre ?
+*CHI:	no .
+*GAV:	i on dorm l' alvar quan ve a ca la iaia , on dorm ?
+*GAV:	dorms amb la iaia ?
+*GAV:	que dorms amb la iaia ?
+*CHI:	0 .
+%act:	mou un timbre
+*GAV:	que dorms amb la iaia ?
+*GAV:	dorms al llit de la iaia ?
+*CHI:	0 [= fa que no amb el cap] .
+*GAV:	pero aixo no es parlar , eh .
+*GAV:	aixi no es parla [= mou el cap negativament] .
+*GAV:	amb el cap .
+*GAV:	es parla amb la boqueta .
+*CHI:	0 [= fa que no amb el cap] .
+*GAV:	clar .
+*CHI:	0 [= va fent que no amb el cap] .
+*GAV:	es parla amb la boqueta , alvar .
+*GAV:	aixo no vol dir res [= mou negativament el cap] .
+*CHI:	0 [= mou negativament el cap] .
+*GAV:	va [= li omple la boca] .
+*CHI:	0 [= li cau el timbre] .
+*GAV:	escolta , estic cansada de collir'lo , ja , avui , eh .
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	ja acabo .
+*GAV:	ja acabes , bueno .
+*CHI:	no tanquis la porta .
+*GAV:	no tanqui la porta , quina porta ?
+*CHI:	mira [= mou la porta del cotxe] .
+*GAV:	la teva ?
+*CHI:	si .
+*GAV:	oh , no la tanco encara , encara estas dinant , encara falten els postres .
+*GAV:	i saps que s' ha de tancar una miqueta perque si no no pots dormir , pero encara no , encara no estas per anar dormir , encara trigaras un ratet .
+*GAV:	a veure que t' hem de donar [% "aveiam que t' hem de donar"] .
+*GAV:	a veure si hi ha platano i taronja [% "aveiam si hi ha platano" , s' aixeca a buscar les postres] .
+*CHI:	mandarina .
+*GAV:	a veure que hi ha [% "aveiam que hi ha"] .
+*CHI:	ja acabat [% "ja cabat"] .
+*GAV:	aqui no n' hi ha de platano , anem a dir a la maria que et dono de postres [= surt de la cuina] .
+*INV:	que vols de menjar ?
+*INV:	que vols , platano ?
+*CHI:	jo vull mandarina [% "jo vull mananino"] .
+*INV:	vols que ?
+*CHI:	mandarina [% "mananino"] .
+*INV:	ah !
+*INV:	mandarina ?
+*INV:	t' agrada la mandarina ?
+*CHI:	si .
+*INV:	ah !
+*INV:	a mi tambe .
+*INV:	a mi tambe m' agrada .
+*CHI:	la teva bossa <&n (.)> [/?] no veig .
+*INV:	no veus la meva bossa ?
+*CHI:	si .
+*INV:	esta aqui terra .
+*CHI:	no veig .
+*INV:	despues te l' ensenyare , eh .
+*CHI:	esta aqui [% "ta qui"] .
+*INV:	si .
+*CHI:	pero esta tapada [% "po ta tapada"] .
+*INV:	esta tapada , si .
+*CHI:	per que [% "pe que"] ?
+*INV:	per que ?
+*CHI:	si .
+*INV:	perque hi ha la pared i no la deixa veure .
+*CHI:	per que [% "pe que"] ?
+*INV:	per que hi ha la pared ?
+*CHI:	si .
+*INV:	per a que s' aguanti la casa .
+*CHI:	per que [% "pe que"] ?
+*INV:	no vols que s' aguanti la casa ?
+*CHI:	si .
+*INV:	per que , per que , per que ?
+*INV:	eh , per que ?
+*INV:	per que vols que s' aguanti la casa ?
+@Comment:	la cinta fa un salt , entra g amb un petit suis i unes maduixes
+*GAV:	eh ?
+*CHI:	maduixes .
+*GAV:	si ?
+*GAV:	les fem aqui [= ensenya un plat] ?
+*GAV:	xafadetes , xxx xxx , una mica xafadetes ?
+*CHI:	0 [= fa que no amb el cap] .
+*GAV:	ah , no ?
+*GAV:	per que no ?
+*CHI:	vull allo [= allarga la ma cap a les maduixes] .
+*GAV:	no , allo no .
+*GAV:	si vols fresas la iaia te les xafa aqui [= toca el plat] .
+*GAV:	les xafem aqui amb el petit suis ?
+*GAV:	eh ?
+*CHI:	si .
+*GAV:	bueno , ara les renta la iaia i posarem aqui al platet i ho xafarem tot [= posa el contingut del petit suis en el plat] .
+*CHI:	petit suis [% "tuis"] .
+*CHI:	0 .
+%act:	allarga la ma per agafar el plastic del petit suis
+*GAV:	no , aixo esta brut , aixo no t' ho puc donar perque aixo queda brut i llavors et taques les mans .
+*CHI:	0 .
+%act:	s' arronsa a g
+*GAV:	si no m' estimes .
+*GAV:	si que m' estimes , si .
+*GAV:	a qui estimes tu ?
+*CHI:	la radio on es ?
+*GAV:	la qui ?
+*CHI:	<la radio> [>] .
+*GAV:	<la radio> [<] ?
+*GAV:	esta al teu cuarto la radio .
+*CHI:	esta al meu cuarto la radio [= a e] .
+*GAV:	esta al teu cuarto la radio .
+*CHI:	si [>] .
+*GAV:	si [<] .
+*CHI:	0 .
+%act:	es frega l' ull
+*INV:	que tens soneta ?
+*INV:	tens son [>] ?
+*CHI:	si [<] .
+*INV:	si ?
+*GAV:	les xafarem , eh [= trosseja les maduixes] .
+*GAV:	ui , que bones que son !
+*GAV:	eh ?
+*GAV:	que bones que son !
+*GAV:	ara les xafarem , espera .
+*INV:	no t' agrada ?
+*GAV:	que tens soneta ?
+*INV:	em sembla que m' ho menjare jo .
+*CHI:	no .
+*INV:	em sembla que m' ho menjare jo perque aixo es molt bo i a mi si que m' agrada .
+*GAV:	i es menja +...
+*GAV:	i es menja el iogurt tambe de fresa .
+*GAV:	oi , alvar ?
+*GAV:	li agrada molt .
+*CHI:	me'l menjare jo .
+*GAV:	qui s' ho menjara aixo ?
+*CHI:	jo .
+*GAV:	tu ?
+*CHI:	jo , me menjare jo .
+*GAV:	t' ho menjaras tu ?
+*INV:	tot ?
+*CHI:	no .
+*INV:	tot , tot , tot ?
+*CHI:	si .
+*INV:	que be !
+*CHI:	tu no menjaras .
+*GAV:	no n' hi donaras a la carme ?
+*INV:	jo no en menjare .
+*GAV:	no n' hi dones a la carme ?
+*CHI:	no .
+*GAV:	i a la iaia ?
+*CHI:	no .
+*GAV:	tampoc ?
+*CHI:	no .
+*INV:	tot per l' alvar .
+*CHI:	no .
+*GAV:	per a que es faci gran .
+*CHI:	0 .
+%act:	s' arronsa a g
+*GAV:	ui , ui !
+*GAV:	0 .
+%act:	fa un peto a a
+*CHI:	el chat [% "el sha" , es un nino de felpa] .
+*GAV:	aixo que es , carinyo ?
+*CHI:	el chat@c <paraula francesa , gat> [/?] [% "sha"] .
+*GAV:	el que es aixo ?
+*CHI:	el chat@c [% "sha"] .
+*GAV:	el que aixo ?
+*CHI:	el chat@c [% "sha"] .
+*GAV:	ah , baixar ?
+*CHI:	el chat@c [% "sha"] .
+*GAV:	el chat@c vols ?
+*CHI:	si .
+*GAV:	ah , el chat@c [= fins ara no hi cau , s' aixeca a buscar'lo] !
+*GAV:	pero , escolta , el cotxe , el chat@c , ja no hi podem posar res mes sobre la taula .
+*CHI:	no veig la bossa [% "a bossa" , mira a e] .
+*GAV:	primer has de dinar [= arriba amb el nino] .
+*INV:	ui , que maco !
+*CHI:	meu [= agafa el nino] .
+*GAV:	on el posarem ?
+*GAV:	com dinarem amb el chat@c aqui sobre i tot plegat ?
+*GAV:	bueno , i ara que ?
+*GAV:	on posem el plat ?
+*GAV:	i on posem el chat@c ?
+*GAV:	eh ?
+*GAV:	on posem el chat@c ?
+*CHI:	aqui [= deixant'lo a la falda de g] .
+*GAV:	aqui , ja ho veig ja , a la faldeta de la iaia .
+*CHI:	si .
+*GAV:	es clar .
+*GAV:	0 .
+%act:	li dona les postres
+*CHI:	no veig la bossa [% "a bossa" , mira a e] .
+*CHI:	no veig la bossa teva [% "a bossa"] .
+*GAV:	no veus la bossa de la carme ?
+*INV:	esta amagada .
+*CHI:	per que [% "pe que"] ?
+*INV:	no , si que es veu una miqueta , si .
+*INV:	una miqueta si que es veu .
+*GAV:	es alla terra .
+*CHI:	no veig .
+*INV:	no ho veus ?
+*GAV:	despres la veuras , <despres la veuras> [>] .
+*INV:	<despres te> [<] l' ensenyare , eh .
+*INV:	quan acabis de dinar .
+*INV:	jo no veig els teus peus , alvar .
+*INV:	no veig els peus de l' alvar .
+*GAV:	que no en tens ?
+*GAV:	<no en tens> [>] ?
+*INV:	<on son> [<] ?
+*INV:	on son els peus de l' alvar ?
+*INV:	on son ?
+*INV:	estan amagats ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	no ?
+*CHI:	0 [= fa que si amb el cap i tot seguit fa que no] .
+*INV:	si o no ?
+*CHI:	0 [= fa que no] .
+*INV:	si ?
+*INV:	no ?
+*CHI:	no .
+*INV:	on son ?
+*CHI:	0 .
+%act:	pica amb els peus sota la taula
+*INV:	ai , que em sembla que els sento !
+*INV:	quin sorollet .
+*INV:	estan sota la taula .
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	si ?
+*CHI:	estan a sabates .
+*INV:	ah , estan a les sabates !
+*INV:	clar , per aixo no es veuen .
+*INV:	per aixo no es veuen .
+*INV:	tens tota la rao .
+*INV:	i les sabates on son ?
+*CHI:	aqui .
+*INV:	aqui ?
+*INV:	jo no les veig .
+*INV:	jo no les veig les sabates .
+*INV:	ah , ara si que les veig !
+*INV:	ara si , ara si .
+@Comment:	la camera no enregistra tota aquesta moguda
+*INV:	ara si que les veig .
+*GAV:	eh , hola [= pica sobre la taula i li dona una cullerada] !
+*INV:	oi , que depressa que vas avui .
+*INV:	t' ho acabes tot .
+*INV:	ja esta .
+*CHI:	vaig a cole .
+*GAV:	va a cole , pero al cole mes tard .
+*CHI:	el ferran on es ?
+*GAV:	eh ?
+*CHI:	ferran .
+*GAV:	el ferran ?
+*GAV:	esta dinant tambe .
+*GAV:	per anar a dormir tambe .
+*CHI:	dormira el ferran , dormira [% "umira a ferran , umira"] .
+*GAV:	eh ?
+*GAV:	dormira si , com l' alvar , un ratet , si .
+*INV:	i l' alexandre tambe dorm ?
+*CHI:	0 [= fa que si amb el cap] .
+*GAV:	<esta dormint> [>] .
+*INV:	<es petito> [<] ?
+*INV:	es petito l' alexandre ?
+*CHI:	si .
+*INV:	i va al cole ?
+*CHI:	no .
+*INV:	no hi va ?
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	no .
+*GAV:	molt be [= li dona l' ultima cullerada] .
+*INV:	oi que maco !
+*INV:	que depressa que has anat avui .
+*GAV:	molt be , molt be .
+*CHI:	no t' ha donat [= mira a e i assenyala el plat buit] .
+*GAV:	eh ?
+*CHI:	no t' ha donat .
+*GAV:	no li has donat a la carme ?
+*CHI:	no .
+*GAV:	no ?
+*GAV:	ui !
+*INV:	tan bo que era [>] .
+*GAV:	ella [<] tenia ganeta .
+*GAV:	<i estava molt bo> [>] .
+*INV:	<tan bo que era> [<] .
+*GAV:	estava molt bo i volia una miqueta .
+*GAV:	eh ?
+*CHI:	no te dono .
+*GAV:	eh ?
+*CHI:	no te dono .
+*GAV:	no li dones ?
+*CHI:	no .
+*GAV:	no ?
+*INV:	bueno .
+*INV:	me n' haure de comprar jo .
+*INV:	oi ?
+*INV:	me n' anire a comprar ?
+*GAV:	anem al cuartito [= l' aixeca de la cadira] ?
+*CHI:	si .
+*CHI:	xxx xxx .
+@Comment:	tall a la cinta , estan a l' habitacio , a esta assegut a terra , hi ha la radio posada
+*CHI:	esta alla la radio [% "ta lla l' aio"] .
+*CHI:	esta alla [% "ta lla"] .
+*INV:	el que ?
+*CHI:	esta alla la radio [% "ta lla l' aio"] .
+*GAV:	la radio .
+*INV:	ah !
+*INV:	es clar .
+*GAV:	i que hi ha ?
+*GAV:	que toquen ?
+*GAV:	toquen musiqueta , oi ?
+*GAV:	t' agrada ?
+*CHI:	si .
+*GAV:	eh , quina musiqueta mes maca .
+*GAV:	estas molt quiet .
+*INV:	ai !
+*CHI:	hola [= a m] !
+*MAR:	hola !
+*MAR:	que no anem a dormir avui ?
+*MAR:	que no anem a dormir , bandarra [>] ?
+*CHI:	xxx [<] .
+*MAR:	ai , que estem una mica cansadets .
+*CHI:	hola !
+*GAV:	hola !
+*CHI:	on vas ?
+*GAV:	em dones un dodotis , per favor .
+*MAR:	si .
+*CHI:	on va ?
+*GAV:	a buscar un dodotis per tu .
+*CHI:	<i xxx xxx xxx> [>] [= agafa un cotxe] .
+*GAV:	<mira que maco toquen> [<] , toquen per tu .
+*CHI:	aixi [= estira el cotxe cap a ell] .
+*INV:	ui , aixo es un cotxe de bombers , no ?
+*INV:	cada dia te mes cotxes aquest nen .
+@Comment:	la radio es para
+*INV:	ui !
+*INV:	que passa ?
+*INV:	que passa alvar ?
+*MAR:	xxx xxx ?
+*CHI:	xxx una miqueta .
+*MAR:	eh ?
+*CHI:	posa aqui la radio al prestatge [% "posa aqui a raio a pestatge"] .
+*MAR:	si ?
+*MAR:	la poso al prestatge ?
+*CHI:	si [= ho acompanya amb el cap] .
+*MAR:	bueno .
+*MAR:	pero ara ja no es hora , eh , de musiqueta .
+*GAV:	despues per dormir ja no , eh .
+*MAR:	per dormir l' haurem de tancar .
+*GAV:	vine , que posarem el dodotis .
+*CHI:	no vull .
+*GAV:	com que no vull !
+*MAR:	que es aixo que no vols ?
+*GAV:	per que no vols ?
+*GAV:	perque ha arribat la mama ?
+*GAV:	que ha arribat la mama .
+*CHI:	si .
+*GAV:	si , claro , que ha arribat la mama .
+*CHI:	0 .
+%act:	fa fressa amb el cotxe
+*GAV:	shhh@c !
+*GAV:	que dira la carme ?
+*GAV:	que dira la carme ?
+*GAV:	mira , sortiras tot enfadat aqui al cine , eh [= assenyala la camera] .
+@Comment:	a continua jugant amb el cotxe , g el renya , tall a la cinta , a esta estirat a terra i g i m li treuen una sabata cadascuna
+*GAV:	tu creus que es possible ?
+*CHI:	xxx xxx .
+*MAR:	tu creus que es normal ?
+*GAV:	tu creus que es possible aixo ?
+*CHI:	0 [=! riu] .
+*MAR:	aqui tots per terra .
+@Comment:	g fa pessigolles a a i aquest riu , m i g no paren d'enraonar , tall , ara esta sobre el llit rient mentre g el despulla , criden a m per a que es posi al telefon
+*CHI:	mama .
+*GAV:	es al telefono .
+*GAV:	ui , que la iaia no pot !
+*GAV:	ui [= intenta treure'li el pantalo] !
+*GAV:	ui , que ja es gran aquest noi !
+*GAV:	i la iaia no pot .
+*CHI:	0 [= riu i no para de moure's] .
+*INV:	ai , que ets trapassero@c !
+*INV:	que ets tremendot !
+*GAV:	no donguis un cop a la iaia , eh .
+@Comment:	g va despullant a tot enraonant , a riu i es mou
+*CHI:	eh , cotxe [= agafa un cotxe que hi ha sobre el llit] .
+*CHI:	el cotxe [% "a cotxe"] .
+*GAV:	cotxe .
+*GAV:	tu i els cotxes , noi .
+*CHI:	cotxe .
+*GAV:	sera corredor de formula u aquest nano .
+*GAV:	si .
+*INV:	t' agraden molt els cotxes ?
+*CHI:	si , no te deixo aquest cotxes .
+*CHI:	te deixo .
+*INV:	me'ls deixes ?
+*CHI:	no .
+*INV:	no ?
+*INV:	no em deixes res avui .
+*CHI:	tu no xxx els cotxes .
+*INV:	a mi tambe m' agraden els cotxes .
+*CHI:	no .
+*INV:	pero a mi saps que m' agrada alvar ?
+*INV:	tots aquells ninos que tens .
+*CHI:	no [= mira als ninos , estan sobre el llit en un raco] .
+*INV:	el be , el chat@c +...
+*INV:	que mes ?
+*INV:	l' os aquell de color rosa .
+*INV:	aquests no me'ls dones ?
+*GAV:	mira , la lluna [= es una lluna de felpa] .
+*GAV:	ai , la lluna !
+*INV:	ai !
+*INV:	que es aixo ?
+*INV:	que es aixo ?
+*INV:	quina lluna mes maca .
+*CHI:	mira , els cotxes [% "mira , a cotxes" , te uns cotxets a la ma] .
+*INV:	aquesta no me la dones ?
+*CHI:	no .
+*INV:	oh !
+*INV:	tan maca que es .
+*GAV:	allez@c <paraula francesa> [/?] !
+*GAV:	allez@c allez@c !
+*INV:	ale , a dormir !
+*CHI:	allez@c allez@c !
+*GAV:	allez@c allez@c !
+*CHI:	ai , ai !
+*GAV:	oi [= l' agafa i el porta al bressol] !
+*GAV:	oi , com peses !
+*INV:	ai , com peses !
+*GAV:	digues'li adeu a la carme [% "diga'li"] .
+*CHI:	adeu .
+*INV:	adeu , a dormir .
+*GAV:	tira'li un petonet .
+*CHI:	0 .
+%act:	li tira el peto
+*INV:	oi , que maco !
+*GAV:	aixi .
+*INV:	que contenta me'n vaig .
+@Comment:	la cinta fa un salt
+*CHI:	radio [% "raio"] .
+*GAV:	la radio ?
+*GAV:	ara la treurem .
+*CHI:	esta aqui la radio [% "ata qui a raio"] .
+*GAV:	si , pero l' hem de treure .
+*GAV:	la radio per [/?] per dormir no es pot posar .
+*CHI:	per que [% "pe que"] ?
+*GAV:	aixo , aixo no se posar'ho mai [= intenta lligar la manta] .
+*GAV:	aixo no ho se posar .
+*GAV:	quiet , va !
+*CHI:	miau@c !
+*GAV:	de miau@c res .
+@Comment:	el so de la cinta es defectuos , fa salts
+*CHI:	adeu carme !
+*INV:	adeu !
+*GAV:	adeu carme !
+@End

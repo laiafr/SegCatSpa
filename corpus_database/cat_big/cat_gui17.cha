@@ -1,0 +1,575 @@
+@UTF8
+@PID:	11312/c-00028073-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , ROS rosa Nurse , INV Investigator
+@ID:	cat|Serra|CHI|1;4.26||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan g i q seguts al terra del menjador jugant
+*ROS:	0 .
+%act:	treu uns cubs de la bossa
+*CHI:	aia@p .
+*CHI:	0 .
+%act:	va cap on esta r
+*CHI:	ee@p .
+*CHI:	0 .
+%act:	vol agafar els cubs
+@Comment:	juguen g i q amb els cubs , q juga amb un joc de construccio de fusta , pica amb un martell.
+*CHI:	0 .
+%act:	vol agafar una fusta
+*QUI:	guillem !
+%act:	li aparta la ma a g
+*QUI:	que pico .
+%act:	continua donant cops amb el martell
+*CHI:	0 .
+%act:	torna a agafar la fusta
+*QUI:	guillem no .
+*CHI:	ee@p .
+*CHI:	0 .
+%act:	torna a agafar la fusta
+*QUI:	no , aqui no .
+%act:	li aparta la ma a g
+*CHI:	aa@p .
+*CHI:	0 .
+%act:	es posa la fusta a la boca
+@Comment:	juguen amb els cubs i les fustes
+*QUI:	porta .
+%act:	pren un cub a g
+*QUI:	no , no [= g vol recuperar el cub] .
+*CHI:	si [% diu "sse"] .
+*CHI:	ssss@o .
+%act:	llenca una fusta
+*QUI:	guillem .
+*CHI:	xxx xxx [% diu "a ioio"] .
+*CHI:	0 .
+%act:	vol jugar amb les fustes de q
+*QUI:	no .
+*INV:	quim , deixa'li ficar .
+*ROS:	deixa'li .
+*INV:	et vol ajudar .
+*CHI:	aaaa@p .
+*CHI:	0 .
+%act:	va cap o
+*CHI:	0 [=! riu] .
+*ROS:	guillem , vine , vine .
+*ROS:	guillem .
+*ROS:	guillem [= el crida] .
+*ROS:	ara deixa'li una mica al guillem .
+%add:	QUI
+*QUI:	no .
+*ROS:	si .
+*ROS:	vine guillem .
+*QUI:	no .
+*ROS:	si .
+*QUI:	no aquests .
+%act:	agafa uns quants cubs
+*ROS:	no , aquests , deixa'li al guillem despres +/.
+*QUI:	aquests no , eh .
+*ROS:	si , tots , despres t'ho donarem .
+*ROS:	vale ?
+%act:	li agafa els cubs
+@Comment:	la cinta es queda sense so del frame 4916 al 4920
+*QUI:	aquests meus .
+*ROS:	te .
+%act:	dona cubs a g
+@Comment:	q enraona amb r
+*ROS:	quim , deixa'li el martell .
+*CHI:	aa@p .
+*CHI:	0 .
+%act:	agafa el martell i es dona un cop a l'orella
+*ROS:	ui .
+*CHI:	0 .
+%act:	es grata l'orella , no sap si plorar o no
+@Comment:	enraonen r i q
+*ROS:	vine guillem , mira [= li ensenya els cubs] .
+*CHI:	0 .
+%act:	juga amb el martell , no fa cas a r
+*ROS:	ei@i .
+%act:	agafa la ma de g
+*CHI:	umm@i [= es deixa anar] .
+@Comment:	enraonen r i q
+*QUI:	0 .
+%act:	agafa el martell que te g a la ma
+*CHI:	aaa@i [=! es queixa] .
+*ROS:	no vol .
+%act:	torna a donar el martell a g
+*ROS:	deixa'li .
+*QUI:	no vull .
+%act:	estira el martell
+*ROS:	deixa'li .
+*CHI:	0 [=! plora] .
+*ROS:	0 .
+%act:	dona el martell a g
+@Situation:	canvi de contex , r dona menjar a g , el te assegut a la falda
+*CHI:	a@p .
+*CHI:	0 .
+%act:	ensenya un nino que te a la ma a r
+*ROS:	oi que maco .
+*CHI:	aaa@p .
+*CHI:	xxx [% diu "meie"] .
+*ROS:	ale , ale , ale .
+%add:	GUI
+@Comment:	g fa anar el nino amunt i avall
+*CHI:	aaa@p .
+*CHI:	0 [= no vol menjar] .
+*CHI:	hola [% diu "ala"] .
+*ROS:	hola .
+@Comment:	va donant'li menjar
+*ROS:	el oso [= es refereix al nino que te g a la ma] .
+*ROS:	que dorm ?
+*CHI:	xxx xxx [% diu "a ate"] .
+*CHI:	uum@p .
+*CHI:	0 .
+%act:	toca l'os
+*ROS:	oi , oi , oi , no el peguis .
+*ROS:	oi , que ha passat [= ha caigut l'os] .
+*ROS:	hola .
+%act:	dona l'os a g
+*CHI:	ojjj@p .
+*CHI:	0 .
+%act:	abraca l'os
+*CHI:	hola [% diu "ala"] .
+*ROS:	hola .
+*CHI:	aaa@p .
+*CHI:	xxx xxx [% diu "a ioa" , llenca l'os a terra] .
+*CHI:	ala@p .
+*ROS:	ala [= repeteix] .
+*ROS:	oi [= g toca la cara de r] .
+*CHI:	aaa@p .
+*CHI:	0 [= assenyala alguna cosa] .
+*ROS:	0 .
+%act:	li dona un gosset
+*ROS:	no ?
+*ROS:	te .
+%act:	dona un altre nino a g
+*CHI:	0 [=! plora , no el vol] .
+*ROS:	0 .
+%act:	li torna a donar l'os
+*CHI:	0 [=! riu] .
+%act:	agafa l'os i el llenca donant'se un cop al cap
+*CHI:	0 [=! plora] .
+*ROS:	0 .
+%act:	li dona mes ninos
+*INV:	te guillem .
+%act:	li dona un nino a g
+*CHI:	ee [= plora] .
+*ROS:	mira que cau [= es refereix a un nino de corda que es mou sobre la taula] .
+*ROS:	ai , ai , ai que caura .
+*ROS:	ai , ai , ai .
+*CHI:	0 [=! riu] .
+%act:	llenca el menjar que te a la boca
+*ROS:	guillem .
+%act:	neteja a g
+*CHI:	xxx xxx xxx [% diu "is io ut"] .
+*ROS:	0 .
+%act:	dona una cullerada a g
+*CHI:	xxx xxx [% diu "e me" , pot voler dir dona'm ja que assenyala un nino] .
+*CHI:	xxx xxx [% diu "e me"] .
+*ROS:	0 .
+%act:	li dona el nino que no es l'assenyalat perque g no el vol
+*CHI:	0 [=! plora] .
+*ROS:	0 .
+%act:	li dona el nino desitjat
+*CHI:	0 [=! riu] .
+*CHI:	eee@p .
+*ROS:	no el vols ?
+*ROS:	0 .
+%act:	dona corda al nino i el deixa sobre la taula
+*CHI:	aum@p .
+*CHI:	0 [=! plora] .
+%act:	assenyala el nino .
+*ROS:	0 .
+%act:	dona un altre nino a g
+*CHI:	0 [=! plora] .
+*ROS:	0 .
+%act:	dona corda al nino desitjat i li dona a g
+*CHI:	aa@p .
+*CHI:	0 [= assenyala alguna cosa] .
+*CHI:	aa@p .
+*ROS:	0 .
+%act:	agafa un cotxe
+*ROS:	aixo ?
+*CHI:	0 [=! fa que si amb el cap] .
+@Comment:	g juga amb el cotxe i r li dona menjar
+*CHI:	ee@p .
+*CHI:	0 [= assenyala] .
+*ROS:	mes coses guillem ?
+*ROS:	moto .
+%act:	li dona una moto a g
+*CHI:	um@i [= no la vol] .
+*CHI:	um@i [= plora] .
+*CHI:	aaa [=! plora] .
+*ROS:	0 .
+%act:	li dona una peca del cotxe
+*CHI:	0 .
+%act:	es posa l'esmentada peca a la boca
+*ROS:	no , no , mira , aqui [= assenyalant el cotxe] .
+*ROS:	posa'ho aqui .
+*CHI:	0 .
+%act:	ho posa dins del cotxe i despres ho vol treure
+*ROS:	ai , ja no es por agafar .
+*CHI:	0 .
+%act:	no pot treure la peca i plora
+*CHI:	ma@p .
+*CHI:	0 [=! plora] .
+*ROS:	0 .
+%act:	treu la peca i li dona
+*CHI:	0 .
+%act:	es posa la peca a la boca
+*ROS:	no [= li treu de la boca] .
+@Comment:	el so es defectuos del frame 5165 al 5167
+*ROS:	no , aqui .
+*ROS:	aqui .
+*CHI:	ee [=! es queixa] .
+*CHI:	0 .
+%act:	vol pegar a r
+*ROS:	no em peguis .
+*CHI:	0 .
+%act:	altre cop la peca a la boca
+*ROS:	0 .
+%act:	li treu
+*CHI:	aa [=! plora] .
+*ROS:	que no en vols mes ?
+*CHI:	0 [=! plora] .
+*ROS:	mira el sergi .
+%act:	dona un nino a g
+*ROS:	mira'l .
+*CHI:	0 [=! continua plorant] .
+*CHI:	mama [=! plora] .
+*CHI:	mama [=! plora] .
+*CHI:	0 .
+%act:	va disminuint la intensitat del plor quan veu el flan de postre
+*CHI:	a mama .
+*ROS:	0 .
+%act:	dona flan a g
+*CHI:	mama [=! torna a plorar] .
+*CHI:	0 .
+%act:	es treu el pitet i no vol mes flan
+*ROS:	0 .
+%act:	li posa el pitet
+*CHI:	0 [=! plora] .
+*ROS:	ja esta , ja esta .
+%act:	dona una altra cullerada a g
+*CHI:	0 .
+%act:	fa caure alguna cosa
+*ROS:	guillem .
+*CHI:	xxx [% diu "em" , sembla com si repetis el seu nom] .
+*ROS:	0 .
+%act:	dona una cullerada a g
+*CHI:	am [= rep la cullerada] .
+*CHI:	aa [= obre la boca] .
+*ROS:	am [= li vol donar una cullerada] .
+*CHI:	0 [=! plora , no la vol] .
+*ROS:	va .
+*ROS:	am [= li va donant flan] .
+*CHI:	0 [=! plora] .
+*ROS:	no vols ?
+*CHI:	eee [=! plora] .
+*ROS:	mira [= li ensenya la cullera plena de flan] .
+*CHI:	0 .
+%act:	fa caure la cullera
+*ROS:	i ara que .
+*CHI:	0 [=! plora] .
+*ROS:	que vols ?
+*ROS:	menjar solet ?
+*CHI:	aa@p .
+*CHI:	0 .
+%act:	estira el brac cap al plat
+*ROS:	em sembla que no .
+*CHI:	0 [=! plora] .
+*ROS:	que vols ?
+*CHI:	xxx xxx [=! plora i no s'enten] .
+*ROS:	0 .
+%act:	apropa el plat a g i l'ajuda a menjar
+*ROS:	am [= de menjar] .
+*CHI:	am [= es vol posar la cullera a la boca] .
+*ROS:	ja t'ho dono jo guillem .
+*CHI:	0 [=! plora] .
+*CHI:	am [= demana menjar] .
+*CHI:	aaam .
+*CHI:	am [= va menjant] .
+*ROS:	esta bo ?
+*ROS:	espera .
+*ROS:	deixa'm .
+*ROS:	deixa'm .
+*ROS:	treu la ma guillem .
+*ROS:	guillem .
+*CHI:	ummm@i [= no vol deixar la cullera] .
+*ROS:	va , agafa tu , agafa .
+*CHI:	mama [=! plora] .
+@Situation:	canvi de situacio , ha acabat de menjar i es diregeix al bany
+@Comment:	so defectuos del frame 5339 al 5349 , pero no diuen , re , g es dins la banyera
+*INV:	hola guillem .
+*ROS:	va quim , vine [= crida a q per a banyar'lo] .
+*CHI:	va .
+*INV:	hola guillem , hola .
+*CHI:	xxx xxx [= sembla "me iou"] .
+*CHI:	0 .
+%act:	juga dins l'aigua
+*INV:	que fas ?
+*INV:	que neteges ?
+*INV:	que neteges la banyera ?
+*INV:	si ?
+*INV:	que neteges la banyera ?
+*CHI:	0 .
+%act:	continua passant l'esponja per la banyera
+*CHI:	dada@p .
+@Comment:	enraonen r i q
+*CHI:	lalalala@wp [= treu i amaga la llengua] .
+*ROS:	lalalala@wp [= repeteix el que fa g] .
+*CHI:	lalala@wp [= torna a treure la llengua] .
+*CHI:	aiaiaiai@p .
+*CHI:	aiai@p .
+*CHI:	0 .
+%act:	juga amb l'esponja
+*CHI:	0 .
+%act:	llenca aigua fora
+@Comment:	enraonen q i r
+*CHI:	hola [% diu "ala"] .
+*CHI:	mama [= no es veu si entra la mare] .
+@Comment:	enraonen q i r
+*CHI:	aa@p .
+*CHI:	hola [% diu "ala"] .
+%add:	QUI
+*ROS:	que neteges quim ?
+*CHI:	hola [% diu "ala" , a r] .
+*INV:	hola guillem .
+*INV:	hola quim .
+*CHI:	ee@p .
+*CHI:	aa@p .
+@Comment:	so defectuos del frame 5479 al 5481
+*CHI:	ua@p .
+*CHI:	ua@p .
+*QUI:	0 .
+%act:	llenca aigua a la cara de g
+*ROS:	quim !
+*CHI:	aa@p .
+*CHI:	iapilapila@p .
+@Comment:	enraonen q i r
+*CHI:	aa@p .
+*CHI:	0 .
+%act:	llenca una piloteta a r
+*ROS:	aa@p .
+*ROS:	0 [= repeteix] .
+@Comment:	enraonen q i r
+*CHI:	hola [% diu "ala" , a e] .
+*INV:	hola .
+*CHI:	aia@p .
+@Comment:	enraonen q i r
+*INV:	guillem .
+*INV:	hola .
+*CHI:	xxx xxx xxx [% diu "ai i ii"] .
+*CHI:	xxx xxx xxx [% diu "ai i i" , parla amb o] .
+*INV:	que diu ?
+%add:	QUI
+@Comment:	enraonen q i r
+*CHI:	te .
+%act:	dona el xumet a r
+*ROS:	ai , que fa aqui el xupete ?
+@Comment:	juguen q i r , g s'ho mira
+*CHI:	ai@p .
+*CHI:	0 .
+%act:	toca la paret amb l'esponja
+*CHI:	hola [% diu "ala" , a e] .
+*CHI:	hola [% diu "ala"] .
+*INV:	hola .
+*CHI:	<xxx xxx> [>] .
+*QUI:	<que diu> [<] ?
+*INV:	que diu en guillem ?
+*INV:	saluda per que el sentim .
+*CHI:	aia@p .
+*INV:	guillem .
+*INV:	guillem , hola .
+*CHI:	aaa@i [=! es queixa] .
+*ROS:	ai , que et passa ?
+@Comment:	enraonen q i r
+*CHI:	ai@p .
+@Comment:	q llenca aigua fora de la banyera i r el renya , q juga a fer basquet amb una galleda i una pilota
+*CHI:	aquest [% diu "que"] .
+%act:	dona a q una galleda
+@Comment:	enraonen q i r , g aprofita per a posarse l'esponja a la boca
+*ROS:	0 .
+%act:	pren l'esponja a g
+*CHI:	dona'm [% diu "da"] .
+%act:	assenyala l'esponja que r ha apartat
+*ROS:	no .
+*CHI:	aaa@i [=! es queixa] .
+*ROS:	no .
+*CHI:	aa@p .
+*QUI:	0 .
+%act:	agafa l'esponja de g
+*CHI:	xxx xxx [% diu "a ma" , suposo que vol dir meva] .
+*CHI:	xxx xxx [% diu "a ma" , allarga el brac per agafar l'esponja] .
+*ROS:	dona'li l'esponja al guillem .
+*QUI:	aquesta ?
+*ROS:	la seva .
+@Comment:	enraonen q i r
+*CHI:	hola [% diu "ala" , a e] .
+*CHI:	hola [% diu "ala"] .
+*INV:	hola guillem , hola .
+*CHI:	hola [% diu "ala"] .
+*QUI:	0 .
+%act:	empeny g
+*CHI:	0 [=! plora] .
+*ROS:	deixa en guillem .
+*ROS:	que cau en guillem .
+*ROS:	no faras basquet ja .
+%add:	QUI
+*QUI:	per que no ?
+*CHI:	no .
+%add:	QUI
+*ROS:	no veus que en guillem vol sortir .
+%act:	aixeca g
+*CHI:	aaa [= es queixa , no vol sortir , torna a seure dins la banyera] .
+@Comment:	enraonen q i r
+*CHI:	xxx xxx [% diu "te e"] .
+%act:	agafa l'esponja que havia quedat sota q
+@Comment:	enraonen q i o , i despres enraonen q i r
+*CHI:	0 .
+%act:	s'apropa a q
+*ROS:	0 .
+%act:	agafa g
+*CHI:	aaa@i [=! es queixa] .
+@Comment:	r ha tret g de la banyera , l'envolta en una tovallola
+*ROS:	aamm [= posa el xupete a la boca de g] .
+@Comment:	enraonen q i r , riuen , g tambe riu
+*ROS:	0 .
+%act:	treu el xupete a g per a posar'li la samarreta
+*CHI:	aaa@i [=! es queixa] .
+*ROS:	0 .
+%act:	li torna a posar el xupete i li dona una llimona de plastic
+*CHI:	xxx xxx xxx [% diu "ai a aia" , te el xumet a la boca , no s'enten be] .
+*CHI:	0 .
+%act:	llenca la llimona
+*CHI:	0 [=! riu] .
+*ROS:	ets una mica dolent , eh .
+%act:	li dona la llimona
+*CHI:	eeia@p .
+*CHI:	0 .
+%act:	llenca la llimona
+*CHI:	eiaia@p .
+*CHI:	0 [=! es queixa , vol la llimona] .
+*CHI:	ta@p .
+*CHI:	0 .
+%act:	llenca la llimona
+*CHI:	ee@p .
+*CHI:	0 .
+%act:	reclama la llimona
+*CHI:	eee@p .
+*CHI:	ta@p .
+*CHI:	0 .
+%act:	llenca la llimona
+*CHI:	ieeiaia@p .
+*CHI:	0 .
+%act:	reclama la llimona
+*CHI:	ta@p .
+*CHI:	hola [% diu "ta ala"] .
+%add:	INV
+*INV:	hola .
+*CHI:	aia@p .
+*CHI:	0 .
+%act:	llenca la llimona
+*CHI:	hola [% diu "ala"] .
+*ROS:	hola .
+*INV:	hola .
+*CHI:	e@p .
+*CHI:	0 .
+%act:	llenca la llimona
+*CHI:	0 [=! plora , vol la llimona] .
+*CHI:	ia@p .
+*CHI:	0 .
+%act:	agafa la llimona
+*CHI:	ta@p .
+*CHI:	xxx [% diu "aia" , sembla voler dir mira perque ensenya la llimona a e] .
+*CHI:	tia@p .
+*CHI:	0 .
+%act:	llenca la llimona
+*CHI:	aiae@p .
+*CHI:	0 .
+%act:	vol la llimona , assenyala a terra
+*ROS:	ale@i .
+%act:	aixeca g per acabar de vestir'lo
+*CHI:	a@p .
+*CHI:	0 [= mira la llimona] .
+*ROS:	a@p [= repeteix] .
+*CHI:	ta@p .
+*CHI:	0 .
+%act:	llenca la llimona
+*ROS:	oh .
+*CHI:	aia@p .
+*CHI:	0 .
+%act:	vol la llimona
+*QUI:	0 [=! canta] .
+*CHI:	aiaaie@p .
+*CHI:	0 [=! es queixa , vol la llimona] .
+*CHI:	ee@i [= crida l'atencio de o] .
+@Comment:	cinta sense so del frame 5859 al 5862
+*CHI:	puaj [= escup el xupete] .
+*ROS:	0 .
+%act:	li dona el xumet
+*ROS:	ah , que ha passat ?
+*CHI:	ee@p .
+*CHI:	0 [= es mira el mitjo] .
+*CHI:	0 .
+%act:	agafa la sabata i se la posa a la boca
+*ROS:	guillem , treu .
+@Comment:	enraonen q i r
+*CHI:	ie@p .
+*CHI:	0 .
+%act:	ensenya la sabata a r
+*CHI:	ieie@p .
+*CHI:	0 [=! canta amb la sabata a la ma] .
+*ROS:	hola .
+*CHI:	hola [% diu "ala"] .
+*CHI:	aaa@i [=! es queixa perque no li agrada el secador de cabell] .
+*CHI:	aaaa@i [=! es va queixant] .
+*ROS:	ja esta .
+*ROS:	un moment .
+*ROS:	0 .
+%act:	deixa el secador
+*CHI:	0 .
+%act:	agafa el secador
+*ROS:	dona'm .
+@Comment:	g juga amb el secador
+*CHI:	aa@p .
+*CHI:	0 .
+%act:	vol desendollar'lo
+*ROS:	aixi , molt be .
+*CHI:	te .
+%act:	dona l'endoll a r
+*ROS:	ja esta , ja esta .
+@Comment:	g esta a terra jugant amb cubs de plastic
+*CHI:	iaie@p .
+*CHI:	0 .
+%act:	te el xumet a la boca , posa un cub sobre un altre
+*INV:	hola .
+*CHI:	eje [=! riu] .
+*CHI:	a xxx eta .
+*INV:	molt be .
+*INV:	molt be guillem .
+*INV:	molt be .
+*CHI:	xxx xxx xxx .
+*CHI:	ate@p .
+*INV:	que fas ?
+*INV:	que ho amagas ?
+*CHI:	tetete@p .
+*CHI:	0 .
+%act:	va jugant amb els cubs
+*CHI:	aaa@p .
+*CHI:	ai@i [= agafa un cub] .
+*CHI:	aa@p .
+@Comment:	g a posat tots els cubs un sobre l'altre , no es veu com ho fa
+*INV:	ai , que es maco .
+*CHI:	ee@p .
+*CHI:	0 .
+%act:	desmunta la piramide , acaba donant'ti un cop de peu
+*INV:	ai , que ha passat ?
+*CHI:	alala@p .
+*INV:	que ha passat ?
+*CHI:	xxx xxx .
+%act:	toca un cub
+*INV:	que ha passat guillem ?
+*INV:	que ha caigut la torre ?
+@End

@@ -1,0 +1,237 @@
+@UTF8
+@PID:	11312/c-00028074-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , MAR mare Mother , PAR pare Father , INV Investigator
+@ID:	cat|Serra|CHI|1;7.15||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	q esta de peu sobre el llit , a g se'l sent pero no se'l veu , enraonen q i e
+*CHI:	hola !
+*INV:	hola !
+@Comment:	e continua enraonant amb q
+*CHI:	rosa [% "ioa" , cridant] !
+*INV:	que ?
+*CHI:	0 [=! vocalitza] .
+@Comment:	enraonen q i e , g ha sortit de l' habitacio , tall a la cinta , q esta sobre un cavall , se sent plorar a g , tall a la cinta , q enraona amb e , m esta canviant el volque a g , q dona tombs per l' habitacio i fa caure com una fusta , g es queixa pero despres toca la fusta tararejant , tall a la cinta , q i g estan amagats sota els llencols
+*MAR:	no hi son .
+*MAR:	que hi son aquest nens ?
+*MAR:	a veure si els trobo .
+*CHI:	0 .
+%act:	vol sortir i xafa en q
+*QUI:	ai , guillem !
+*MAR:	el quim no hi es .
+@Comment:	m destapa en q
+*MAR:	si que hi es .
+@Comment:	q vol tornarse a amagar , g l' empipa , comencen a barallarse , g plora
+*MAR:	no hi es el guillem .
+@Comment:	juguen per sobre el llit a amagarse sota el llencol , g no fa mes que crits i rialles , q s' enfila a la capcalera del llit , g es queixa , tambe vol pujar
+*MAR:	tambe vols pujar ?
+@Comment:	q es llenca sobre el llit sense parar de cridar , m puja a g a la capcalera , g riu
+*CHI:	0 [=! vocalitza satisfet] .
+*MAR:	una , dos i +...
+*MAR:	va .
+*CHI:	ah !
+*CHI:	pcf [% "nau" , podria ser un no perque m el te agafat i ell vol que el deixi anar] .
+*CHI:	0 .
+%act:	toca quelcom que penja de la pared
+*CHI:	pcf [% "a aa"] .
+@Comment:	enraonen q i m mentre g juga amb una radio
+*MAR:	a veure , saltes [% "aviam"] ?
+*MAR:	saltes , un , dos , tres ?
+*CHI:	0 .
+%act:	segueix putinejant la radio sense dir res
+*CHI:	pcf [% "aa aja"] .
+*MAR:	mira quim , surt , surt que el guillem salta .
+%act:	agafa a g de la ma
+*MAR:	una , dos i +...
+*MAR:	va .
+*CHI:	no .
+*CHI:	no .
+*MAR:	ah , no ?
+*CHI:	0 .
+%act:	es posa a jugar amb la radio
+*MAR:	guillem , saltes ?
+*MAR:	vale ?
+*MAR:	a la una +...
+*MAR:	pumba@c [= el fa saltar agafant'lo] !
+@Comment:	juguen q i g tot fent crits
+*MAR:	no us feu mal .
+@Comment:	q salta des de la capcalera , g tambe ho vol fer
+*QUI:	0 .
+%act:	no deixa que g pugi
+*MAR:	quim , va , salta .
+*MAR:	0 .
+%act:	posa a g sobre la capcalera
+*MAR:	ara tu .
+*MAR:	una , dos i +...
+*MAR:	tres [= el fa saltar] .
+*CHI:	0 .
+%act:	es toca el peu queixant'se
+*MAR:	fet mal , pobret ?
+*MAR:	pupa@c [= li toca el peu] .
+*MAR:	esta curat .
+*CHI:	esta curat [% "a urat" , mirant a e] .
+*CHI:	ah [= agafa la barana del llit] !
+*CHI:	ei !
+*MAR:	que no !
+*MAR:	no treguis &aix .
+@Comment:	juguen per sobre el llit cridant i rient , g baixa del llit i se'n va , tall a la cinta , entra p en escena
+*MAR:	au , cureu al pare que esta malalt .
+*QUI:	si , el curem .
+*QUI:	el curem .
+*PAR:	ai , ai , ai [= estirant'se al llit] !
+@Comment:	enraonen m i q , g no surt en imatge
+*MAR:	mira el pare , guillem , mira el pare .
+*MAR:	ves a curar al pare .
+*MAR:	guillem .
+*MAR:	mira el pare , corre , ves'lo a curar .
+*QUI:	aqui tens +...
+*QUI:	guillem , aqui xxx xxx curar , guillem .
+%act:	remena les coses que hi ha sobre la capcalera
+*MAR:	dona'm' ho , guillem , aixo , dona'm' ho .
+*MAR:	au , ves amb el quim a curar al pare .
+@Comment:	g s' enfila al llit
+*PAR:	que em mires la panxa ?
+*PAR:	tinc sanglot , tinc sanglot .
+*CHI:	0 .
+%act:	aixeca la camisa de p a l' alcada de la panxa
+*QUI:	mira , mira , porto xxx [>] [= arriba amb un pilot de peces] .
+*PAR:	<ai , ai> [<] !
+*CHI:	0 .
+%act:	li pessiga la panxa a p
+*PAR:	aixi no es cura guillem .
+*PAR:	ai , quin mal !
+@Comment:	q va curant a p , g ha anat a buscar algunes peces
+*CHI:	pare .
+*CHI:	pare [= va cap a p] .
+*CHI:	ah [= es queda entre q i la pared] !
+*PAR:	espera , que venen reforcos .
+*QUI:	0 .
+%act:	s' aixeca a buscar mes peces
+*CHI:	0 .
+%act:	cura la panxa de p
+*PAR:	fluixet , guillem , fluixet .
+*CHI:	0 .
+%act:	mossega la panxa de p
+*PAR:	0 [=! riu] .
+*PAR:	ja m' has curat .
+*PAR:	no mosseguis .
+*MAR:	cura al pare , guillem , cura'l .
+*CHI:	0 .
+%act:	passa la ma per la panxa de p
+*PAR:	ara , ara , molt be .
+*QUI:	una aspirina [= fa veure que li dona una aspirina] .
+*CHI:	pcf [% "bolao bolao" , allarga la ma com si tambe li dongues una aspirina] .
+*QUI:	jo tambe tinc un xerop , eh [= fa veure que li dona] .
+*CHI:	es meu [% "a meu" , li allarga xerop tambe] .
+*PAR:	0 .
+%act:	fa veure que pren el xerop de tots dos
+*MAR:	ara tu , guillem , ara tu .
+*CHI:	pcf [% "ama" , es pren ell el xerop] .
+*PAR:	que bo !
+@Comment:	q va donant medicines a p
+*CHI:	la ma [% "a ma" , allarga la ma a p] .
+*PAR:	aqui ?
+*PAR:	0 .
+%act:	fa veure que menja la ma de g
+*CHI:	pcf [% "aaa" , mirant com q seu sobre la panxa de p] .
+@Comment:	g mossega a q , p el fa seure davant q sobre la seva panxa , p fa veure que te el sanglot , els nens salten i riuen
+*CHI:	0 .
+%act:	agafa els cabells de p tot cridant
+*PAR:	no siguis tan bestia guillem .
+*QUI:	bestia , bestia [% "beztia , beztia"] .
+*CHI:	0 .
+%act:	continua sobre p
+*QUI:	0 .
+%act:	empeny g cap al costat
+*QUI:	ja l' he tirat .
+*QUI:	guillem , bestia [% "beztia"] !
+*QUI:	bestia [% "beztia"] .
+*QUI:	es un bestia el guillem [% "beztia"] .
+@Comment:	g continua sobre p , q li fa fer la tombarella i g comenca a plorar
+*MAR:	cura al pare , corre , cura .
+*PAR:	cura'm , cura'm , cura'm .
+*MAR:	corre a curar'lo , va , corre , a treballar rapid .
+*QUI:	jo tinc una pomada que el cura , eh [= posant pomada a la panxa de p] .
+*CHI:	0 .
+%act:	baixa del llit i se'n va
+*MAR:	adeu .
+*MAR:	te llem , te .
+*MAR:	llem .
+@Comment:	ni m ni g surten en imatge
+*CHI:	eh ?
+*MAR:	vine .
+*CHI:	no .
+*MAR:	te .
+*MAR:	te guillem .
+@Comment:	q continua curant a p , apareix g
+*MAR:	cura al pare , cura al pare amb aixo .
+*CHI:	0 .
+%act:	mossega la cama de p
+*PAR:	que portes a la boca ?
+*PAR:	brut !
+*CHI:	pare .
+*PAR:	si .
+*MAR:	pare .
+*CHI:	0 .
+%act:	pica a la cama de p i torna a mossegar'lo
+*CHI:	nyam@c [% "am" , mossega la cama de p] .
+@Comment:	tall a la cinta
+*CHI:	nyam@c [% "am" , torna a mossegar la cama de p] .
+@Comment:	p agafa a g , el posa sobre el llit i fan veure que lluiten
+*QUI:	tutut@c [= passa amb un cotxe al costat d' ells] .
+*CHI:	0 .
+%act:	es disposa a mossegar la cama de q
+*PAR:	no mosseguis guillem .
+*PAR:	0 .
+%act:	fa fer una tombarella a g
+*QUI:	ara a mi .
+*QUI:	una tombarella .
+*CHI:	tutut@c [= juga amb el cotxe que ha deixat q] .
+*CHI:	eh [= mirant a p que li va nosa] !
+*PAR:	ja m' aparto , va .
+@Comment:	enraonen q i p , tall a la cinta , ara estan jugant sobre el llit amb la radio
+*QUI:	guillem .
+*QUI:	no , no treguis que aixi no va .
+*MAR:	canta guillem , canta .
+*QUI:	0 [=! tarareja] .
+*CHI:	0 [= tarareja imitant a q , te els auriculars posats] .
+*QUI:	xxx xxx .
+%act:	apaga la radio
+*PAR:	xxx guillem , ara el quim .
+*PAR:	ara el quim .
+*CHI:	ah [= ja no sent musica] !
+*CHI:	te .
+%act:	es treu els auriculars i els dona a q
+*CHI:	xxx .
+@Comment:	q es posa els auriculars , g tarareja , q tambe
+*CHI:	xxx [% podria ser "dona'm" , cridant i allargant la ma cap als auriculars] .
+*QUI:	ara li toca al guillem .
+%act:	li dona els auriculars a g
+@Comment:	p posa els auriculars a g i aquest comenca a tararejar abans de que q conecti la radio
+*MAR:	molt be .
+*PAR:	ara el quim .
+@Comment:	m li vol treure els auriculars i g comenca a plorar
+*PAR:	on es el xumet guillem ?
+*PAR:	va , no siguis aixi .
+*PAR:	no siguis mala peca .
+*CHI:	0 [=! plora] .
+@Comment:	q va cantant , g ha parat de plorar i pica amb les mans sobre les seves cames marcant el pas
+*MAR:	ara el guillem .
+*MAR:	va .
+*CHI:	pcf [% "anopala"] .
+*MAR:	0 .
+%act:	posa els auriculars a g
+*CHI:	pcf [% "enene"] .
+*CHI:	0 [=! tarareja] .
+@Comment:	tots canten tret de g que se'ls mira
+*CHI:	0 .
+%act:	toca un boto de l' aparell de radio
+*QUI:	no , que aixo es +...
+*MAR:	guillem , cantem l' elefant ?
+*MAR:	0 [=! canta] .
+@Comment:	g es vol treure els auriculars , no pot i plora
+@End

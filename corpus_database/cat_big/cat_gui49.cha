@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/c-00028104-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , MAR mare Mother , NEN nens Child , ADU Adult Adult , INV Investigator
+@ID:	cat|Serra|CHI|4;0.||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|NEN|||||Child|||
+@ID:	cat|Serra|ADU|||||Adult|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	aquesta grabacio no es productiva , es la festa d' aniversari de GUI , hi ha molts nens i per tant molt enrenou , englobare a tots els nens amb un sol parlant amb inicial NEN , es veu un grup de nens discutint entre ells quants ninos te cadascu , hi ha molt soroll de fons , GUI no surt en imatge , frame 1940
+*CHI:	jo vull xxx .
+*MAR:	que vols ?
+*CHI:	cocacola .
+@Comment:	GUI es torna a perdre de vista , es veuen tots el nens fent fressa pel menjador , frame 1975 GUI esta assegut a terra amb dos nens mes , no se sent be el que diuen
+*CHI:	tu en aquest peuet [% em sembla que te la sabata a la ma] .
+*CHI:	xxx xxx .
+*CHI:	el peuet .
+*NEN:	ara treu .
+*CHI:	xxx xxx .
+*NEN:	el peuet i la sabateta .
+*NEN:	el peuet amb la sabateta .
+*CHI:	aqui .
+@Comment:	frame 1993 , tall a la cinta , GUI no surt en imatge , se senten els nens parlar de fons , no puc identificar qui es qui , frame 2045 es veu un grup de nens pintant , entre ells hi ha QUI , GUI no hi es , frame 2170 un Adult explica un conte , frame 2280 els nens tornen a estar tots descontrolats , frame 2293 tall a la cinta , es veu GUI davant un pastis d' aniverari
+*ADU:	escolta guillem , em sembla que la idea de la teva mare era posar l' altre aqui .
+@Comment:	ADU treu el pastis de la capsa
+*CHI:	a mi , a mi , a mi .
+*CHI:	on es l' encenedor ?
+*ADU:	no , l' encenedor no .
+@Comment:	frame 2310 , hi ha molt soroll
+*ADU:	xxx m' ha demanat quants anys feia el guillem .
+*CHI:	quatre .
+*CHI:	quatre en faig .
+@Comment:	els adults estan preparant el pastis per a encendre les espelmes
+*MAR:	ho farem alla , no ?
+*CHI:	jo ho fare .
+*CHI:	jo el portare .
+*CHI:	jo el portare .
+*MAR:	tu el portaras .
+*CHI:	jo el portare .
+@Comment:	continua l' enrenou
+*MAR:	va , que el portem cap alla .
+*CHI:	bien !
+*MAR:	va [% agafa el pastis] .
+*CHI:	no !
+*CHI:	jo .
+*MAR:	no el pots portar que cauria .
+*CHI:	si , jo .
+*INV:	caura .
+*CHI:	jo el vull portar .
+*ADU:	caura .
+@Comment:	porten el pastis entre MAR i GUI mentre els altres canten
+*CHI:	0 .
+%act:	bufa les espelmes
+*INV:	bravo !
+@End

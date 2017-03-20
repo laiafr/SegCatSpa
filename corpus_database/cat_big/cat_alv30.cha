@@ -1,0 +1,642 @@
+@UTF8
+@PID:	11312/c-00028045-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , FER ferran Child , HMA hmain Nurse , MAR mare Mother , INV Investigator
+@ID:	cat|Serra|CHI|2;6.25||||Target_Child|||
+@ID:	cat|Serra|FER|||||Child|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	arriba a a casa i h li treu la jaqueta
+*INV:	amb qui has vingut alvar ?
+*CHI:	amb l' adria i el ferran .
+*INV:	ah si ?
+*INV:	que aneu al mateix col'legi el ferran i tu ?
+*CHI:	si .
+*INV:	si ?
+*INV:	que be !
+@Comment:	a i f estan a la cuina , preparats per a dinar
+*FER:	mucho viento eh ?
+*CHI:	si .
+*FER:	pcf [% "aaa"] .
+*CHI:	pcf [% "aaa" , imita f] .
+@Comment:	estan al bany , h ajuda a a a fer pipi , f obre l' aixeta del bidet i es renta les mans
+*CHI:	hola [= es dirigeix a e] !
+*INV:	hola !
+*CHI:	se li ha mullat al ferran [% "se li ha muxat"] .
+*HMA:	lo hace bien ?
+*CHI:	se li ha mullat [% "se li ha muxat"] .
+*FER:	<amb una> [/?] amb unes calces que tenien uns noms , que tenien animalets i una personeta .
+@Comment:	enraonen h i f , a intenta agafar el sabo
+*HMA:	tu , tu , tu [= a a] !
+*HMA:	deja el jabon ahi .
+*HMA:	tu ya te has lavado las manos , no ?
+*CHI:	no .
+*HMA:	si .
+*CHI:	no , mira [= li ensenya les mans a h] .
+*HMA:	tu ya te has lavado las manos .
+*CHI:	no .
+*FER:	no s' ha lavado .
+*FER:	yo lo he visto que no +...
+*HMA:	si s' ha lavado .
+*HMA:	donde vas ?
+*CHI:	0 .
+%act:	vol anar a l' altre costat del bidet per agafar el sabo
+*HMA:	a la cocina a comer [= aparta a a del bidet] .
+*CHI:	no .
+*HMA:	alvar no me hagas enfadar .
+@Comment:	estan asseguts a taula , h posa el tovallo al coll de a
+*CHI:	xxx xxx .
+*HMA:	vale .
+*CHI:	xxx xxx .
+*HMA:	luego a la noche cuando te de la maria la cena alli .
+*CHI:	xxx xxx [= es treu el tovallo i plora] .
+*HMA:	hombre !
+*HMA:	a ver si es lo que tu digas !
+*CHI:	0 [=! plora] .
+@Comment:	en una altra taula , h li dona el menjar a a
+*INV:	ui !
+*INV:	que vas anar a beneir la palma ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	si ?
+*INV:	i amb qui vas anar alvar ?
+*CHI:	amb el papa i amb xxx [% "a papa i a lu"] .
+*INV:	amb el papa ?
+*CHI:	si .
+*INV:	i la mama ?
+*CHI:	si .
+*HMA:	despacito [= li dona una cullerada] .
+*HMA:	despacito y come bien la comidita .
+*HMA:	ya sabes que tiene trocitos y tienes que mascar bien .
+*HMA:	mascar mucho la comida .
+*HMA:	porque tienes unos trocitos ya grandes .
+*HMA:	como eres ya muy grande .
+*HMA:	quien ha dicho que ya no te chafa la comida la maria mucho ?
+*HMA:	solo te chafa un poquito la comida eh ?
+*CHI:	0 [= fa que si amb el cap] .
+*HMA:	a que si ?
+*CHI:	si .
+*INV:	veus que ets guapo .
+*HMA:	claro , porque se come el platano el solito .
+*HMA:	ya no se lo chafa tampoco la maria el platano .
+*CHI:	moquitos [% "moquitu" , es toca el nas amb el dit] .
+*HMA:	moquitos .
+*HMA:	ara te limpio yo los moquitos .
+*INV:	ara te'ls treuran eh !
+*INV:	clar , plores i llavorens et surten moquitos i llagrimetes .
+*INV:	i tot surt .
+*HMA:	0 .
+%act:	treu els mocs a a
+*HMA:	ya esta .
+*HMA:	es que no tienes que llorar .
+@Comment:	h comenca a enraonar , a juga amb el tovallo
+*HMA:	voy a ver que hace ferran .
+*CHI:	si .
+*HMA:	voy a decirle a ferran que venga aqui a comerse el platano .
+*CHI:	el tractor [% "tato" , l'assenyala] .
+*HMA:	el tractor ahora [% "el tato ahora"] .
+*HMA:	0 .
+%act:	li atanca el tractor
+*INV:	es molt gran aquest tractor , oi ?
+*INV:	t' agraden molt els tractors , oi alvar ?
+*INV:	eh que t' agraden molt ?
+*INV:	ja ho se ja .
+*CHI:	on es a <&ca> [/?] casa teva ?
+*CHI:	on es ?
+*INV:	casa meva ?
+*INV:	es una mica lluny .
+*INV:	voldras venir un dia a casa meva ?
+*INV:	eh alvar ?
+*INV:	que t' ensenyare les meves coses .
+*INV:	que et sembla ?
+*INV:	voldras venir un dia amb la mama i el papa ?
+*CHI:	si .
+*INV:	val , pues un dia et convidare , eh !
+*INV:	tu li dius a la mama vull anar un dia a casa de la carme .
+*INV:	diga'li porta'm a la casa de la carme algun dia .
+*INV:	li diras ?
+*INV:	eh [>] alvar ?
+*CHI:	si [<] .
+*INV:	jo tambe tinc juguets a casa meva .
+*CHI:	si .
+*INV:	si .
+*INV:	per quan venen nens com tu .
+*INV:	els hi deixo jugar amb els meus juguets .
+*CHI:	si .
+*INV:	si .
+*CHI:	tens nens [% "tin nens"] ?
+*INV:	tinc dos nens pero son molt grans .
+*INV:	saps quants anys tenen ?
+*CHI:	dos [= posa dos dits] .
+*INV:	no .
+*INV:	molts mes .
+*INV:	un te setze anys .
+*INV:	es molt gran , molt gran .
+*INV:	i l' altre es mes gran que el ferran .
+*INV:	en te dotze .
+*INV:	i tu [/?] quants en tens tu ?
+*INV:	quants anys tens tu ?
+*CHI:	dos .
+*INV:	dos ?
+*INV:	ui !
+*INV:	encara te'n falta molts .
+*CHI:	tu que tens ?
+*INV:	jo quants anys tinc ?
+*INV:	que tinc jo ?
+*INV:	que ?
+*CHI:	tens cotxets ?
+*INV:	cotxets petits [>] ?
+*CHI:	petits [<] .
+*INV:	si , tinc cotxets petits .
+*INV:	tinc contes .
+*INV:	tambe tinc +...
+*INV:	jocs de construccio per fer casetes .
+*CHI:	on es ?
+*INV:	a casa meva .
+*CHI:	si tens tots llibres [% "si tens tots ibes"] .
+*INV:	que ?
+*CHI:	llibres tambe .
+*INV:	llibres tambe .
+*INV:	molts llibres tinc .
+*CHI:	platano [= mira a h] .
+*INV:	t' agrada ?
+*CHI:	xxx un xxx xxx xxx .
+*INV:	i contes del teo .
+*INV:	que en tens tu de contes del teo ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	no en tens de contes del teo ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	em sembla que m' enganyes .
+*INV:	tens moltes joguines , no [>] ?
+*CHI:	quina [<] pala que tinc [= es refereix a la pala del tractor] !
+*INV:	que grossa eh ?
+*INV:	pot agafar molta terra .
+*CHI:	0 .
+%act:	juga amb el tractor i va jugant
+*INV:	que vas anar a la masia dels avis ?
+*INV:	eh alvar ?
+*CHI:	avi te un tractor per tallar herba [% "tato"] .
+*INV:	ah si ?
+*CHI:	si .
+*INV:	i l' ajudes tu ?
+*CHI:	si .
+*INV:	si ?
+*INV:	i que mes fas a la masia ?
+*INV:	que fas ?
+*CHI:	tambe jugo .
+*INV:	tambe jugues .
+*INV:	i vas a passeig ?
+*CHI:	si .
+*INV:	ah , que be !
+*INV:	no ?
+*INV:	i prens el sol .
+*INV:	per aixo estas tan moreno , no ?
+*INV:	eh que si que prens el sol ?
+*CHI:	0 .
+%act:	juga amb el tractor i no diu res
+*INV:	i a l' avia tambe l' ajudes ?
+*INV:	eh alvar ?
+*INV:	que t' explica l' avia ?
+*HMA:	no , es que no dice avia .
+*HMA:	una es iaia , la iaiona .
+*HMA:	i l' altra es la mami .
+*INV:	ah , es clar !
+*INV:	jo no ho dic be i tu no saps que et dic .
+*INV:	doncs , que t' explica la mami ?
+*INV:	que t' explica ?
+*CHI:	cuentos .
+*INV:	cuentos .
+*INV:	i com te'ls explica ?
+*INV:	que te'n saps algun ?
+*HMA:	mira quien viene .
+*HMA:	ya ha comido .
+*INV:	mira , veus que ha anat depressa el ferran .
+*HMA:	te lo has comido todo [= a f] ?
+*HMA:	la fruta tambien ?
+*CHI:	el platano [% "a platano"] .
+@Comment:	h li explica a e que els hi dona per menjar , a juga amb el tractor
+*HMA:	ahora a dormir un poquito eh ?
+*CHI:	si .
+*HMA:	hoy a dormir un poquito .
+*CHI:	no .
+*HMA:	si , hoy si .
+@Comment:	tall a la cinta
+*HMA:	alvar abre la boca .
+*HMA:	vamos , abre la boca'h a que ha hablado esta manyana el ferran con la mama ?
+*HMA:	a que si ?
+*HMA:	a que ha hablado el ferran con la ana esta manyana por telefono ?
+*CHI:	no .
+*HMA:	ah , mentira !
+*HMA:	0 .
+%act:	fa pessigolles a a
+*CHI:	jo no .
+*HMA:	luego , el lunes cuando llame la mama por telefono .
+*HMA:	entonces (.) se pondra .
+@Comment:	enraonen h i f
+*HMA:	y la mama de alvar se va el sabado a la masia .
+*HMA:	a que si ?
+*CHI:	0 [= fa que si amb el cap] .
+@Comment:	h renya a f perque fa tonteries
+*HMA:	esas tonterias quien las dice ?
+*HMA:	los ninyos feos .
+*FER:	los ninyos macos .
+*HMA:	no .
+*FER:	si .
+*CHI:	no [= riu i h aprofita per posar'li una cullerada a la boca] .
+@Comment:	continuen enraonant h i f , a agafa el platan i se'l posa al brac com si fos un bebe
+*CHI:	hummm !
+*HMA:	que haces ?
+*HMA:	abre la boquita .
+*HMA:	masca i traga .
+*FER:	deixa'ho que jo li fare de mainador [% "que jo li fare de maniador"] .
+*CHI:	si [= allarga el platan a f] .
+*FER:	pcf [% "iii"] .
+*FER:	0 .
+%act:	torna a posar el platan sobre el brac de a
+@Comment:	f i a riuen , a agafa el platan
+*FER:	alvar , ara el cuidaras tu , eh !
+*CHI:	ara tu , vale [= allarga el platan a f] ?
+@Comment:	f posa el platan sobre h , a i f riuen , h els hi pega a la galta amb el platan , a agafa el platan i intenta pegar a h
+*HMA:	eh !
+*FER:	ara jo , vale ?
+*FER:	ara jo , va , ara jo .
+*HMA:	cuidado la comida de la boca eh [= amenaca amb el dit a a] !
+*HMA:	cuidado [% "cuidado"] .
+*FER:	ara jo .
+*FER:	ara jo [= s' apropa a a] .
+*HMA:	despacio [= posa una cullerada a la boca de a] .
+*CHI:	0 .
+%act:	intenta pegar amb el platan a h
+*HMA:	no , pegar no .
+*FER:	ara jo [= vol prendre el platan a a] .
+*CHI:	hummm !
+*FER:	xxx xxx .
+*CHI:	0 .
+%act:	li llenca el platan
+*HMA:	eh , eh !
+*HMA:	que te lo vas a comer .
+*FER:	0 .
+%act:	intenta pegar a h amb el platan
+*HMA:	no .
+*HMA:	ferran .
+*HMA:	deja .
+*HMA:	son cosas de comer y no se juega [= li pren el platan] .
+*HMA:	donde vas ?
+*CHI:	on va ?
+*HMA:	a su habitacion .
+*HMA:	luego va a ir la maria a ponerlo a dormir .
+*FER:	al cuarto de la caca .
+*HMA:	corre a tu cuarto , si , corre .
+*FER:	0 .
+%act:	se'n va
+*CHI:	0 .
+%act:	pica amb el platan sobre el tractor
+*HMA:	no hagas eso con el platano .
+*HMA:	vamos [= li toca la barbeta] .
+*CHI:	0 .
+%act:	acosta el platan a la cara de h
+*CHI:	humm !
+%com:	a continua picant amb el platan sobre el tractor , h li pren el platan
+*HMA:	una poquita de agua ?
+*CHI:	una poquita aigua [% "una poquita aia"] .
+*CHI:	pcf [% "ee"] .
+*HMA:	ten , una poquita agua .
+*HMA:	bebe agua .
+*CHI:	0 .
+%act:	acosta el got al tractor com si li dongues beure
+*CHI:	shshsh@c .
+*HMA:	0 .
+%act:	li aparta el tractor
+*FER:	alvar .
+*HMA:	que ?
+*CHI:	t' ha tocat .
+*HMA:	le ha tocado .
+*FER:	arr@c [= juga amb el tractor] !
+*CHI:	humm [= allarga la ma cap a f] !
+*HMA:	el platano te lo comes tu solito ?
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	jo vull el tractor i el platano [% "tato"] .
+*FER:	no .
+*FER:	nomes una cosa .
+*FER:	el tractor o el platano .
+*CHI:	el tractor [% "tato"] .
+*FER:	el tractor .
+*FER:	te [= li allarga el tractor i agafa el platan] .
+*FER:	hola xxx [% "hola pito"] !
+*FER:	bum@c bum@c [= dispara amb el platan] .
+*CHI:	hola xxx [% "hola pito"] !
+*CHI:	bum@c bum@c [= imita f] !
+*FER:	amb les xxx de la ma esquerra vas a dormir [= mou els dits de la ma dreta] .
+*FER:	jo tambe vull dormir avui .
+*HMA:	como lo sabes !
+*FER:	jo vull dormir .
+*FER:	tu tambe voldras dormir [= cantant] .
+*HMA:	como lo sabes que vas a dormir !
+*FER:	jo no vull anar a dormir .
+*HMA:	no , tu no .
+*FER:	no .
+*CHI:	si [>] .
+*FER:	hoy [<] no tengo ganas de dormir .
+*HMA:	0 .
+%act:	troceja el platan
+*FER:	para quien es este ?
+*FER:	<para (.)> [/?] para meneo .
+@Comment:	f i a riuen
+*CHI:	meneo no .
+*FER:	<un meneo> [>] .
+*CHI:	<xxx xxx> [<] meneo .
+*FER:	maria [= allarga la r] .
+*FER:	hola maria !
+*CHI:	maria , xxx [% "maria , arria" , esta comparant la diferencia entre maria i marria] .
+@Comment:	f i a riuen
+*CHI:	esto <xxx xxx xxx> [>] [= toca el cabell de h] .
+*HMA:	<oye aqui> [<] estaba yo eh [= a f] !
+*CHI:	i jo .
+*FER:	aqui tambien estaba yo .
+*HMA:	y yo tambien .
+@Comment:	riuen tots
+*FER:	dejame sentar .
+@Comment:	f i a es llencen sobre h
+*HMA:	ya esta , venga .
+*HMA:	tu come [= a a] .
+*HMA:	mira lo que te digo [= li posa a a un tros de platan a la boca] .
+*CHI:	0 [= assenyala el tractor amb el dit] .
+*FER:	0 .
+%act:	agafa el tractor
+*HMA:	llevate eso a tu habitacion .
+*CHI:	mama !
+*HMA:	no esta .
+*INV:	diu que vindra un dia a casa meva l' alvar [= a m] .
+*INV:	ja li he dit que li digui a la seva mama que el porti un dia .
+*INV:	que jo tinc juguets .
+*INV:	eh alvar que tinc juguets jo ?
+*CHI:	0 [= mira a e pero no diu res] .
+*MAR:	que aniras un dia a casa de la carme ?
+*CHI:	hummm !
+*MAR:	la carme te dos nens .
+*MAR:	bueno +/.
+*INV:	m' ho ha preguntat .
+*INV:	tu tens nens ?
+*MAR:	un nen i mig .
+*MAR:	perque l' altre ja no es tan nen .
+*MAR:	ja es un noi .
+*MAR:	i te joguinetes .
+*MAR:	perque un dels nens , que es diu eugeni , encara juga amb joguinetes .
+*MAR:	el gran , el sergi , ja no .
+*MAR:	pero l' eugeni si que et deixaria joguinetes em sembla .
+*MAR:	un dia anirem , vale ?
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	i la maria i el narcis i (.) el ferran [% en lloc de narcis diu "fati"] .
+*HMA:	no [>] , no , no .
+*MAR:	tots [<] .
+*MAR:	la maria , el narcis i el ferran .
+*CHI:	yo solo no .
+*HMA:	tu y <la mama y el papa> [>] .
+*MAR:	<yo solo no> [<] .
+*MAR:	no , tu sol no .
+*HMA:	ira la mama , el papa y alvar .
+*CHI:	i en ferran .
+*HMA:	ferran tambien .
+*MAR:	bueno , a lo millor tambe en ferran .
+*MAR:	si es porta be tambe el portarem , eh ?
+*MAR:	aixi estareu mes divertits .
+*CHI:	0 [= va fent que si amb el cap] .
+*MAR:	anirem de visita .
+*CHI:	jugant .
+*MAR:	jugant , clar .
+*HMA:	vamos [= a a per a que s' empassi el que te a la boca] .
+*MAR:	nino , que has pujat a peu ?
+*HMA:	si .
+*MAR:	tota l' escala ?
+*HMA:	si .
+@Comment:	enraonen m i h , a dona cops amb la ma a h
+*CHI:	ja he dinat [= h li vol donar mes platan , a amaga el cap] .
+*HMA:	mira a ferran .
+*HMA:	que ya ha recogido su habitacion .
+*HMA:	y tu no recoges [= li pica a les mans] .
+*HMA:	y hay que ensenyarse a recoger los juguetes .
+*HMA:	ya has recogido la habitacion [= a f] ?
+*FER:	si .
+*HMA:	muy bien .
+*FER:	0 .
+%act:	es posa darrera a i li fa pessigolles
+*CHI:	0 [=! riu] .
+*FER:	ho faig per que mengis , eh !
+*FER:	no per que rigis .
+*FER:	va , menja .
+*CHI:	mes [% "me"] .
+*HMA:	0 .
+%act:	posa la cullera a la boca de a
+*HMA:	si , pero es que si no menges no te lo hace mas .
+*FER:	0 .
+%act:	mou la cadira de a
+*HMA:	tu [= a f] !
+*HMA:	que lo vas a sacar de la mesa .
+@Comment:	a i f riuen , tall a la cinta , f li vol donar el platan a a
+*HMA:	no , tu solo come lo tuyo .
+*HMA:	a alvar o se lo come el o se lo doy yo .
+@Comment:	h i m renyen f
+*HMA:	tu come y no te rias mas [= li dona menjar] .
+*CHI:	ferran .
+*HMA:	se va a su cuarto .
+*CHI:	por que ?
+*HMA:	porque no comes .
+*CHI:	0 [=! riu] .
+*HMA:	no te rias .
+*CHI:	puj@c puj@c [= fa veure que dispara a h , no vol mes platan] .
+*HMA:	mira que falta nada mas .
+*HMA:	uno por la mama [= li posa un tros de platan a la boca] .
+*HMA:	i otro por el papa .
+*CHI:	0 [= obre la boca] .
+*HMA:	esperate .
+*HMA:	comete antes ese .
+*HMA:	a ver como matas , a ver .
+*CHI:	puj@c puj@c .
+*CHI:	vull cacota .
+*HMA:	ahora cacota ?
+*CHI:	si .
+*HMA:	la cacota la tienes que hacer por la noche .
+*CHI:	tinc caca .
+*HMA:	esperate .
+*HMA:	comete este trozo .
+*HMA:	no te vamos a dejar este trozo a medias .
+@Comment:	enraonen h i m , a acaba el que te a la boca i l' obre demanant l' ultim tros que queda
+*CHI:	pcf [% "aaa"] .
+*MAR:	igual es un pepe@c pet [/?] .
+*MAR:	no sera pas un pepe@c pet [/?] nomes ?
+*CHI:	no .
+*CHI:	cacota .
+*HMA:	tienes cacota de verdad ?
+*CHI:	0 [= fa que si amb el cap] .
+*HMA:	de verdad , de verdad , de verdad ?
+*CHI:	0 [= continua fent que si amb el cap] .
+*HMA:	no me enganyas ?
+*CHI:	0 [= fa que no amb el cap] .
+*HMA:	no ?
+*HMA:	bueno .
+@Comment:	h aixeca a a de la cadira , a s' escapa correns
+*CHI:	mama , mama , no tinc .
+@Comment:	estan a l' habitacio , h treu la roba a a
+*CHI:	mama , mama [= plora] .
+*MAR:	no , la mama se'n va a treballar .
+*CHI:	mama .
+*MAR:	estic treballant amb la nuria .
+*CHI:	mama , cacota [= continua plorant] .
+*FER:	cucota@c caca [/?] .
+*CHI:	0 [=! riu] .
+*MAR:	que es allo [= es refereix a un poster d' animals que hi ha penjat a la paret] ?
+*FER:	un cocodrilo [% "un drilu"] .
+*CHI:	si .
+*MAR:	que es allo d' alla ?
+*MAR:	que no ho veig be .
+*FER:	un cocodrilo [% "un drilu"] .
+*CHI:	si [= rient] .
+*MAR:	un que ?
+*FER:	un cocodrilo .
+*MAR:	ah , un cocodrilo !
+@Comment:	m treu els pantalons a a , a i f riuen
+*CHI:	cacota .
+*FER:	cacota [>] .
+*CHI:	cacota [<] .
+*HMA:	tu no tienes cacota .
+*CHI:	si que en tinc .
+*HMA:	me voy a enfadar si no haces cacota eh !
+*CHI:	si que en tinc .
+*HMA:	vale .
+*HMA:	venga , a hacer cacota .
+@Comment:	a assegut al wc
+*MAR:	en tens molta ?
+*CHI:	m' has tallat [% "m' has talla"] .
+*MAR:	esta treballant oi ?
+*CHI:	mitjons .
+*CHI:	hay mitjo [% "hay minyo" , mira dins el cistell de la roba bruta] .
+*INV:	que hi ha aqui dintre ?
+*CHI:	mitjo [% "minyo"] .
+*CHI:	0 .
+%act:	obre una revista
+*CHI:	mira .
+*INV:	uh , quants contes !
+*INV:	no ?
+*CHI:	si .
+*INV:	tots son teus ?
+*CHI:	si .
+*CHI:	no .
+*INV:	de qui son ?
+*CHI:	teus .
+*INV:	no , meus no .
+*CHI:	si .
+*INV:	aquests no .
+*INV:	aquests no son meus alvar .
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	no , no , no .
+*CHI:	per que ?
+*INV:	perque son teus .
+*INV:	de qui es aquesta casa , a veure ?
+*CHI:	meva .
+*INV:	i de qui son les coses que hi ha en aquesta casa ?
+*CHI:	meves .
+*INV:	i de qui mes ?
+*INV:	qui mes viu en <aquesta casa> [>] ?
+*CHI:	el xxx [<] .
+*INV:	i el papa i la mama .
+*INV:	no ?
+*CHI:	si .
+*INV:	i la maria .
+*CHI:	i el ferran .
+*INV:	i el ferran .
+*INV:	i qui mes ?
+*CHI:	la carme .
+*INV:	la carme a ratets .
+*INV:	jo no visc aqui .
+*INV:	vinc algunes vegades a veure't .
+*INV:	oi alvar ?
+*CHI:	si .
+*CHI:	que hi ha aqui darrera [% "que hi ha aqui radera" , assenyala la camera] .
+*INV:	aqui darrera ?
+*INV:	pel'licules .
+*CHI:	a veure que hi ha .
+*INV:	no es pot veure perque esta tancat .
+*CHI:	no ho veig .
+*INV:	no , jo tampoc .
+*CHI:	a veure .
+*INV:	despres t' ho ensenyo eh ?
+*INV:	pero encara no m' has explicat que hi fas a la masia de la mami .
+*INV:	no m' ho has explicat .
+*INV:	que fas quan vas alla ?
+*INV:	eh ?
+*INV:	que fas quan vas a la masia ?
+*INV:	eh alvar , que fas ?
+*CHI:	xxx xxx .
+*INV:	no ho saps ?
+*INV:	no ho saps que fas ?
+*CHI:	pis@c pipi [/?] .
+*INV:	jugues ?
+*INV:	treballes ?
+*CHI:	aixo que son alla [= assenyala amb el dit] ?
+*INV:	diaris .
+*CHI:	pcf [% "ai xixi"] .
+*INV:	ja has fet cacones ?
+*CHI:	no .
+*INV:	no ?
+*INV:	no dius que en tens ?
+*CHI:	no en tinc [= s' aixeca del w .c .] .
+*CHI:	no puc .
+*INV:	no pots ?
+*CHI:	no .
+*INV:	doncs espera't que vingui la maria .
+*CHI:	aixi , aixi [= aconsegueix baixar del w .c .] .
+@Comment:	a l' habitacio , a esta sobre el llit
+*INV:	que son aquells animals ?
+*CHI:	cotxe [= es refereix a un poster diferent del assenyalat per e] .
+*INV:	ui , aquest si que es maco !
+*INV:	oi ?
+*CHI:	cotxe .
+*CHI:	cotxe [= l'assenyala amb el dit] .
+*INV:	si , ja ho veig ja .
+*INV:	un cotxe molt maco .
+*CHI:	gros [% "gos"] .
+*CHI:	es gros aquest cotxe [% "es gos"] .
+*INV:	si .
+*CHI:	animals [= mira a l' altre poster] .
+*INV:	quants animals !
+*CHI:	pcf [% "a a ai" , es deixa caure sobre el llit] .
+*INV:	quins animals hi ha alla ?
+*CHI:	ai !
+*CHI:	un xxx [= es mira en el mirall] .
+*INV:	que son allo ?
+*INV:	una tortuga .
+*INV:	oi que hi ha una tortuga ?
+*CHI:	grossa [% "gossa"] .
+*INV:	on es ?
+*CHI:	es aqui [= l'assenyala] .
+*INV:	oi si !
+*HMA:	has hecho cacota ?
+*CHI:	no .
+*HMA:	ya sabia yo que no tenias cacota [= li pega al cul] .
+*CHI:	au !
+*CHI:	el ferran on es ?
+*HMA:	durmiendo [= li atanca el nas a la cara] .
+*CHI:	0 [=! riu] .
+*CHI:	i no (.) a cucu@c .
+*CHI:	ai a cucu@c [= es toca el cap] .
+*HMA:	ay a cucu@c .
+*CHI:	tu si que hi xxx .
+*CHI:	esto no , no .
+*CHI:	pum@c !
+*HMA:	hum !
+*CHI:	0 [=! riu] .
+*CHI:	tiene a xxx xxx xxx .
+*HMA:	0 .
+%act:	fa pessigollles a a
+*CHI:	ai [= riu] !
+*HMA:	0 .
+%act:	posa a a en el bressol
+*HMA:	hala !
+*HMA:	ponte bien que te arrope .
+*CHI:	aixo [= dona a h un os de drap] .
+*HMA:	aixo [= agafa l' os i li col'loca al costat] .
+*HMA:	adeu .
+*CHI:	adeu .
+*HMA:	adeu .
+@End

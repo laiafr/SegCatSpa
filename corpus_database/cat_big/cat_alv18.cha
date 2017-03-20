@@ -1,0 +1,179 @@
+@UTF8
+@PID:	11312/c-00028035-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , MAR mare Mother , HMA hmain Nurse , INV Investigator
+@ID:	cat|Serra|CHI|1;5.27||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	a , h i m estan a la terrassa , h dona de menjar a a , m riu , a la mira
+*CHI:	pcf [% "quie"] .
+*MAR:	que , que fa la carmen , eh ?
+*MAR:	que fa fiss@c <soroll de filmacio> [/?] amb la maquineta ?
+*CHI:	0 [= diu si amb el cap] .
+*MAR:	com si fes clic@c clic@c , com l' avi pero amb una maquina mes grossa , eh ?
+*CHI:	clic@c [% "tic" , repeteix el so que ha fet m] .
+*HMA:	si [>] .
+*MAR:	<clic@c clic@c> [<] .
+*CHI:	avi avi .
+*MAR:	com l' avi , si .
+*MAR:	aquesta es molt gran , aquesta maquina que te la carmen , eh ?
+*MAR:	es una maquina de fer fotos , pero molt grossa .
+*MAR:	veus que grossa ?
+*MAR:	es grossisima .
+*CHI:	tutu@c [= assenyala amb el dit cap amunt] .
+*MAR:	on esta ?
+*MAR:	ah , si , alla esta el tutu@c , ara l' agafaras , eh ?
+@Comment:	a mira a e , m riu
+*MAR:	que fa la carmen , que te mira amb un ull nomes ?
+*MAR:	que nomes te mira amb un ull ?
+*MAR:	on es l' altre ull de la carmen ?
+*MAR:	nomes te un ull .
+*CHI:	esta [% "ta"] .
+*MAR:	aqui esta si .
+*CHI:	0 .
+%act:	fa un moviment amb el cos cap endavant com si volgues baixar de la cadira
+*HMA:	espera a ver la boquita .
+*CHI:	ja esta [% "ta eta"] .
+*HMA:	ya esta si .
+@Comment:	a baixa de la cadira , agafa un objecte
+*CHI:	te .
+*CHI:	0 .
+%act:	porta l' objecte a m
+*MAR:	gracies .
+*MAR:	que anem a mirar els gossos [% "nem" en comptes de anem] ?
+*MAR:	anem a veure si hi ha els gossos a baix [% "nem" per anem] ?
+*CHI:	pala [% "papa" , agafa la pala de terra] .
+*MAR:	la pala , si .
+*CHI:	pcf [% "pi"] .
+*CHI:	0 .
+%act:	es dirigeix a m , allargant un brac cap a ella
+*MAR:	que ?
+*MAR:	mira , mira no estan .
+*MAR:	no hi son alvar avui .
+@Comment:	hi ha un tall a la cinta
+*MAR:	on hi ha els nens ?
+*MAR:	no n' hi ha cap de nen , carinyo .
+*MAR:	ensenya'l'hi a la carmen com vas en bicicleta .
+*MAR:	ensenya'l' hi a la carmen com vas a la bicicleta , va .
+@Comment:	va corrent a buscar la bicicleta , el transcriptor no diu qui pero suposo que es a
+*CHI:	pcf [% "canyi"] .
+*MAR:	si , va , vine , vine amb la bicicleta .
+*MAR:	a veure , a veure com va amb la bicicleta l' alvar .
+*CHI:	pcf [% "bi" , aixeca lleugerament la bicicleta de terra] .
+*MAR:	espera ja t' ajudo , ja t' ajudo .
+*CHI:	aqui [% "qui"] .
+*CHI:	0 .
+%act:	dona cops amb la ma al seient de la bicicleta
+*MAR:	aqui , si .
+%com:	m ajuda a a a muntar a la bicicleta
+*CHI:	pcf [% "bi"] .
+*CHI:	0 .
+%act:	baixa de la bicicleta i li dona cops
+*MAR:	vols portar'la cap alla ?
+@Comment:	m intenta emportarse la bicicleta , a plora i es dirigeix cap a m
+*CHI:	pcf [% sona com "qui"] .
+*MAR:	aqui vols pujar ?
+*MAR:	oh , que tontito que estas avui , que tontito que esta .
+%com:	m agafa als bracos a a i li dona un peto
+*CHI:	pcf [% "xa" , assenyala amb el dit cap endavant] .
+*MAR:	tu tens que jugar com si no hi fos .
+*CHI:	pcf [% "to" , assenyala amb el dit] .
+*MAR:	no hi es el cotxe alla dalt no , no hi es , no hi es aquell .
+@Comment:	a esta de peu junt a la barana de la terrassa
+*CHI:	avi [= assenyala amb el dit al carrer] .
+*MAR:	que , el cotxe del avi ?
+*MAR:	si que sembla el cotxe del avi , si .
+*MAR:	alla a baix .
+@Comment:	a esta jugant amb la pala i un cub de sorra
+*CHI:	pcf [% "a xxx lla" , mira i assenyala amb el dit] .
+*MAR:	la carmen , si .
+*MAR:	ai ai ai , agafa el cotxe , agafa'l !
+*CHI:	mama [= es dirigeix corrent cap a m] .
+*MAR:	que ?
+*CHI:	mama mama !
+*MAR:	que ?
+*CHI:	mama [= assenyala a m] .
+*MAR:	hola !
+*CHI:	mama [% "ama"] .
+*MAR:	alvar .
+*CHI:	pcf [% "be"] .
+*MAR:	alvar .
+@Comment:	a aconsegueix passar amb la pala de sorra d' un cub a un altre
+*MAR:	molt be !
+*CHI:	mama mama la mama [% "mama mama a mama" , assenyala a m] .
+*MAR:	posa , posa la terra l' altre test , posa'la .
+*CHI:	la xxx mama [% "a yaya mama"] .
+*MAR:	alvar .
+*MAR:	hola !
+@Comment:	a escampa la sorra del cub a terra
+*CHI:	oh !
+*MAR:	oh oh oh oh !
+*MAR:	t' ha caigut tot per sobre .
+*MAR:	tot per sobre .
+*MAR:	tot per sobre , xxx [% la xxx vol dir "tatatata" , mentre li treu la sorra que l' ha caigut al pantalo] .
+@Comment:	a s' espolsa la terra que li ha caigut al pantalo imitant a m
+*CHI:	ja esta [% suena "ta ta"] .
+*MAR:	ja esta .
+*MAR:	te aquesta [= li dona la pala groga i a l' agafa] .
+@Comment:	a juga amb la pala intentant treure sorra , m s' en va
+*INV:	on esta la mama ?
+*CHI:	mama [= assenyalant amb el dit] .
+*INV:	s' ha anat , ara ve , eh ?
+*INV:	tu estas molt be aqui jugant , eh ?
+*INV:	quants cotxes .
+@Comment:	a segueix jugant amb la sorra i tira amb la pala una mica a terra
+*CHI:	oh !
+*INV:	oh , que t' ha passat ?
+*INV:	s' ha embrutat ?
+*INV:	espolsa't .
+*CHI:	0 .
+%act:	mou la cama a on li ha caigut la sorra
+*INV:	aixi , molt be .
+*CHI:	pcf [% "aea" , assenyala cap a e] .
+*INV:	que ?
+*INV:	que ja esta espolsat , veus , ara esta net .
+*INV:	mira com esta net .
+*INV:	on es la xxx del papa ?
+@Comment:	a s' aixeca de terra , agafa un cotxe i l' hi dona a e
+*INV:	me'l dones ?
+*CHI:	0 [= fa si amb el cap] .
+*INV:	per mi ?
+@Comment:	a es dirigeix amb els cubs i juga , se sent un soroll i a somriu
+*INV:	ai , que ha passat ?
+@Comment:	canvia l' escena , a esta segut amb la pala a la ma i un cotxe , s' aixeca i dona el cotxe a e
+*INV:	molt be !
+*INV:	me'l dones ?
+@Comment:	a agafa un cotxe i es dirigeix cap a e
+*HMA:	no , deja alli el coche y el verde tambien .
+@Comment:	a deixa el cotxe a la fila de cotxes que hi ha a terra
+*HMA:	el coche verde , alvar .
+*HMA:	el coche ese tambien , ponlo alli en el desfile .
+@Comment:	a l' agafa i el posa a la fila
+*HMA:	asi , muy bien !
+*HMA:	sientate ahi , sientate , asi , sientate , toma [= li dona el cub] .
+*CHI:	pcf [% "a"] .
+*HMA:	te traigo el rastrillo , eh ?
+@Comment:	a s' aixeca i es dirigeix cap a e
+*HMA:	estate alli .
+*CHI:	0 [=! riu] .
+*HMA:	estate alli .
+*HMA:	ves alli con el coche .
+*HMA:	ves alli .
+*HMA:	ves a ver si esta el guau@c gos [/?] .
+*HMA:	asomate a ver si esta el guau@c gos [/?] .
+*HMA:	esta el guau@c gos [/?] ?
+*CHI:	pcf [% "que"] .
+*HMA:	a ver .
+@Comment:	h va a veure si hi ha el gos i a segueix a h
+*HMA:	no esta .
+*HMA:	venga juega ahi .
+*HMA:	mira , saca esto .
+%com:	h agafa el cub petit i el treu de dintre d' altre mes gran
+*HMA:	ah , mira que pequenyito , mira que bonito !
+*HMA:	a ver como juegas .
+*CHI:	0 .
+%act:	introdueix el cub petit en el gran , la ma la te ficada a la boca
+*CHI:	pcf [% "ia"] .
+@End

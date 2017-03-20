@@ -1,0 +1,247 @@
+@UTF8
+@PID:	11312/c-00028070-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Gisela Target_Child , ULI uli Nurse , INV Investigator
+@ID:	cat|Serra|CHI|4;0.24||||Target_Child|||
+@ID:	cat|Serra|ULI|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g i u estan assegudes al sofa , u ensenya a g una pila de contes
+*CHI:	tampoc .
+*CHI:	tampoc .
+*ULI:	aquest si que te'l saps gisela [>] [= li ensenya un conte] .
+*CHI:	tampoc [<] .
+*ULI:	no diguis mentides .
+*ULI:	el del teo a la piscina que no te'l saps ?
+*CHI:	<xxx xxx> [>] .
+*ULI:	<i el> [<] soldadet de plom ?
+*CHI:	tampoc .
+*INV:	no sap cap <conte la gisela> [>] .
+*CHI:	tampoc [<] .
+*ULI:	0 .
+%act:	li va ensenyant contes
+*CHI:	tampoc .
+*CHI:	tampoc .
+*ULI:	no em crec res del que m' estas dient , eh .
+*CHI:	tampoc .
+*ULI:	aquest tampoc te'l saps ?
+*CHI:	no .
+*ULI:	segur que no te'l saps ?
+*ULI:	si te'l va explicar l' altre dia la nuria .
+*ULI:	oi ?
+*ULI:	hum ?
+*ULI:	no te'n recordes ?
+*CHI:	no .
+*CHI:	jo no me'l se .
+*ULI:	es aquell d' aquell nen que +...
+*ULI:	mira , veus on dorm [= assenyala en el conte] ?
+*ULI:	es tant petit tant petit que pot dormir dintre d' una ma .
+*ULI:	aixi [= posa la ma] .
+@Comment:	enraonen u i e
+*CHI:	xxx xxx xxx .
+*ULI:	si que es molt petit .
+*ULI:	saps qui [/?] que es el polze ?
+*CHI:	no .
+*ULI:	es aquest dit [= li ensenya el polze] .
+*CHI:	xxx .
+*ULI:	era un nen <tan petit com aquest> [>] dit .
+*CHI:	<es aquest> [<] [= s' assenyala el seu dit petit] .
+*ULI:	no , aquest es el dit petit .
+*ULI:	i aquest es el polze [= es toca el seu polze] .
+*CHI:	aquest es el polze [= s' assenyala el seu dit petit] .
+*ULI:	no .
+*CHI:	i aquest es el dit petit [= s' assenyala el seu polze] .
+*CHI:	aquest es el colze [= s' assenyala el seu dit petit] .
+*ULI:	no .
+*ULI:	el colze es aixo [= es toca el seu colze] .
+*ULI:	a veure [= obre un conte] .
+*ULI:	no te'n recordes de que era una familia molt pobra molt pobra .
+*ULI:	que hi havia un nen petit , menut com un dit , que es deia polzet .
+*CHI:	no .
+*CHI:	<es aquest> [>] [= es toca el seu dit petit] .
+*ULI:	<i que passava> [<] amb aquests nens ?
+*ULI:	a veure .
+*ULI:	que passava gisela ?
+*CHI:	0 [= arronsa les espatlles] .
+*ULI:	eh ?
+*CHI:	0 [= torna a arronsar les espatlles] .
+*ULI:	que a casa seva no tenien dinerets i no podien donar de menjar a tots els fills .
+*ULI:	i van decidir portar'los al bosc .
+*ULI:	pero que va fer el polzet ?
+*CHI:	0 [= arronsa les espatlles] .
+*ULI:	eh ?
+*ULI:	0 .
+%act:	tanca el conte davant la negativa de g a col'laborar
+@Comment:	tall a la cinta , frame 3768
+*ULI:	i aquest de les tres bessones ?
+*CHI:	<no &s> [/?] no el se .
+*ULI:	la blancaneus i els set nans tampoc el saps ?
+*CHI:	no .
+*ULI:	gisela , gisela , gisela [= agafa un altre conte] .
+*CHI:	i aquest ?
+*ULI:	el soldadet de plom si que el saps .
+*CHI:	no [= rient] .
+*ULI:	que me l' has explicat mes d' una vegada , eh , el <soldadet de plom> [>] .
+*CHI:	<ara no> [<] .
+@Comment:	ara u explica el conte del pinotxo , g no li fa cas , tall a la cinta en el frame 3783
+*ULI:	llavors apareixia la fada (.) dolenta .
+*ULI:	eh gisela ?
+*CHI:	no .
+*ULI:	la fada dolenta que era con una bruixa .
+*CHI:	qui ?
+*ULI:	la fada del pinotxo .
+*CHI:	no .
+*ULI:	no ?
+*CHI:	no era dolenta .
+*ULI:	com era doncs ?
+*CHI:	era bona [= amb el dit a la boca] .
+*ULI:	era que ?
+*CHI:	era bona .
+*ULI:	vols dir ?
+*ULI:	i que li feia ?
+*ULI:	el castigava , oi ?
+*CHI:	no .
+*ULI:	no ?
+*ULI:	que li feia doncs ?
+*CHI:	no t' ho explico .
+*CHI:	jo no xxx xxx xxx .
+*ULI:	que ?
+*ULI:	que que ?
+*CHI:	xxx mes .
+*ULI:	no en saps mes ?
+*ULI:	bueno .
+*ULI:	i aquest del teo ?
+*CHI:	tampoc .
+*ULI:	hi havia una vegada +...
+*CHI:	0 .
+%act:	li tanca el conte
+*ULI:	aquest no que es molt rotllo [= canvia de conte] .
+*ULI:	pero aquest si .
+*CHI:	aquest no me'l se .
+*ULI:	diga'm que no vols explicar cap [/?] cap conte llavors et creure , eh .
+*ULI:	que podem fer doncs ?
+*CHI:	res .
+*ULI:	estar aixi tota la tarda assegudetes [= creua els braáos] ?
+*CHI:	si .
+*ULI:	mirem els clavells , eh .
+*CHI:	eh ?
+*ULI:	mirem els clavells .
+*CHI:	no .
+*ULI:	si , ens aburrim una miqueta .
+*CHI:	que no .
+*ULI:	doncs que vols fer ?
+*CHI:	res .
+*CHI:	res .
+*CHI:	res .
+*ULI:	que aburrit !
+*CHI:	no es aburrit .
+@Comment:	u fa pessigolles a g , g riu i li agafa les mans a u
+*CHI:	ja no em pots fer pessigolles .
+*ULI:	si [% "ssss" , lliura una ma] .
+@Comment:	tall a la cinta , frame 3844
+*ULI:	explica'li ara mateix .
+*INV:	que +/.
+*ULI:	va , explica'li .
+*INV:	jo no ho se .
+*ULI:	que la gisela i la nuria i el ferran van preparar +...
+*ULI:	que van preparar ?
+*CHI:	0 [=! riu] .
+*ULI:	van preparar una guerra .
+*INV:	ah si ?
+*ULI:	una guerra sorpresa .
+*ULI:	oi ?
+*INV:	contra qui ?
+@Comment:	g no te ganes de parlar , fa tonteries
+*ULI:	ahir vam fer una festa aqui .
+*ULI:	oi ?
+*CHI:	0 [= fa que si amb el cap] .
+*ULI:	explica'li .
+*CHI:	0 [= fa que no amb el cap] .
+*ULI:	explica'li .
+*CHI:	es un secret .
+*ULI:	ja no <es un secret> [>] .
+*INV:	<es un secret> [<] ?
+*ULI:	ja no ho es , ja s' ha fet la festa .
+*CHI:	no .
+*CHI:	mira quants [= assenyala alguna cosa] .
+*CHI:	xxx xxx .
+*CHI:	mira .
+*CHI:	xxx xxx .
+*ULI:	vam fer una festa i la gisela em va regalar +...
+*CHI:	0 .
+%act:	tapa la boca de u amb la ma
+*ULI:	unes +/.
+*CHI:	0 .
+%act:	li torna a tapar la boca
+*ULI:	unes mitges de color vermell .
+*CHI:	0 [= fa que no amb el cap] .
+*ULI:	si senyora .
+*ULI:	negres .
+*CHI:	0 [= fa que no amb el cap] .
+*ULI:	de quin color ?
+*CHI:	roses .
+*ULI:	roses que l' amor s' hi posa .
+*ULI:	i despres em van regalar +...
+*ULI:	que mes ?
+*CHI:	0 .
+%act:	li torna a tapar la boca
+*ULI:	un barret de palla .
+*ULI:	un barret de palla .
+*INV:	per prendre el sol .
+*CHI:	no .
+*ULI:	0 .
+%act:	fa pessigolles a g
+*CHI:	ah !
+*CHI:	no .
+*CHI:	calla !
+*CHI:	calla !
+*ULI:	un +/.
+*CHI:	0 .
+%act:	li torna a tapar la boca
+*ULI:	unes sabates negres .
+*ULI:	a veure si ho endevines maria rosa .
+*ULI:	una cosa que va al cap que es molt dura .
+*INV:	ah !
+*INV:	un casco per anar amb moto .
+*ULI:	un casc de color negre .
+*CHI:	no [= cridant i intentant tapar la boca de u] !
+*ULI:	maquissim .
+*ULI:	i vam prendre xampany i la gisela <va prendre llet> [>] .
+*CHI:	<no , no> [<] [= crindant] !
+*ULI:	oi ?
+*CHI:	no .
+*ULI:	si .
+*CHI:	vam prendre +...
+*ULI:	vas prendre llet amb una copa [>] .
+*CHI:	no [<] .
+*CHI:	jo vaig prendre un conte .
+*CHI:	vaig menjar .
+*ULI:	i vas menjar flamets .
+*CHI:	no .
+*CHI:	jo em vaig menjar un conte .
+*CHI:	eh que si ?
+*ULI:	si .
+*ULI:	i jo vaig menjar una ampolla .
+*CHI:	0 [=! riu] .
+*ULI:	oi que si ?
+*CHI:	no .
+*ULI:	va !
+*ULI:	gisela , que morena que estas .
+*ULI:	i que mes va passar ?
+*ULI:	a veure .
+*CHI:	<i &va i vaig> [/?] i tu vas a dormir .
+*CHI:	i vas trencar el bra .
+*CHI:	i te vas trencat les mans .
+*CHI:	es va trencat l' ull .
+*CHI:	es va trencar el coll .
+*CHI:	es va trencar l' orella .
+*CHI:	es va trencar les dents .
+*ULI:	es va trencar les dents ?
+*ULI:	qui es va trencar les dents ?
+@Comment:	g enraona molt depressa i sense vocalitzar , no s' enten
+*ULI:	no se t' enten res del que dius .
+*CHI:	xxx xxx xxx .
+*CHI:	la casa es va trencar .
+*ULI:	que es va trencar ?
+*CHI:	0 [= ara comenáa a dir coses sense sentit] .
+@End

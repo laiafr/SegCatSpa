@@ -1,0 +1,341 @@
+@UTF8
+@PID:	11312/c-00028078-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , ROS rosa Nurse , MAR mare Mother , QUI quim Brother
+@ID:	cat|Serra|CHI|1;11.13||||Target_Child|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@Comment:	en g , en q , m i r son a la cuina , m dona un tros de formatge als nens i aquests mengen , a la Maria Rosa li diuen ioia@c
+*CHI:	mira ioia@c [= amb un tros de formatge a la ma] .
+%com:	g torna al costat de m
+*CHI:	<a mes a mes> [/] a mes [= estirant la faldilla de m] .
+*MAR:	en vols mes [= se'l mira] ?
+*MAR:	ai que la saps llarga tu !
+%act:	agafa un altre tros de formatge
+*MAR:	digues gracies [= donant'li el tros de formatge] !
+*CHI:	gracias [% "atatas"] !
+@Comment:	habitacio nens , r asseguda al llit , g va menjant el formatge i te un altre tros de formatge a la ma
+*ROS:	t' ho dona la maria rosa a poc a poc .
+%act:	agafa el formatge de la ma de g
+*ROS:	si ?
+*CHI:	0 .
+%act:	deixa agafar'se el formatge
+*ROS:	a poquet a poquet .
+*ROS:	obre la boca [= li va donant] .
+@Comment:	g es mou d' un costat a l' altre , amb un paper a la ma , sembla content
+*ROS:	trasto [= castella] .
+%act:	li va donant un tros de formatge
+*CHI:	0 .
+%act:	li mossega el dit
+*ROS:	ah ah !
+*CHI:	0 [=! somriu i mira a e] .
+@Comment:	g surt de l' habitacio
+*ROS:	adeu guillem .
+*ROS:	vine que et dire un secret .
+*CHI:	0 .
+%act:	se li acosta
+*ROS:	ah [= fica els llavis a prop de l' orella de g] !
+*ROS:	ara tu .
+*ROS:	diga'm un secret .
+*ROS:	diga'm un secret .
+*CHI:	0 .
+%act:	s' acosta a r
+*ROS:	ah [= s' aparta] !
+*ROS:	a veure la boca .
+*ROS:	obre la boca !
+*CHI:	0 .
+%act:	obre la boca , hi te menjar
+*ROS:	va mastega .
+@Comment:	en g s' acosta a e amb la boca plena
+*CHI:	ah ah [= obrint la boca] !
+*CHI:	xxx t'agafo yoya@c [% diu "xxx tafu yoya" , es gira i mira a r] .
+*ROS:	no t' agafo yoya@c ?
+*ROS:	si que t' agafo [= l' agafa pel coll] .
+@Comment:	g a terra
+*ROS:	obre la boca [= te un tros de formatge a la ma] .
+*ROS:	te guillem formatge !
+*ROS:	apa@i !
+%act:	agafa un bloc de paper
+@Comment:	g te el bloc a la ma tot arrugat
+*CHI:	ai [= li ensenya a r] !
+*ROS:	que ha passat ?
+*CHI:	xxx mira [= amb el bloc a la ma] !
+*ROS:	que mira .
+*ROS:	s' ha trencat ?
+@Comment:	g assegut a terra
+*ROS:	que s' ha trencat guillem ?
+@Comment:	g va arrancant fulls del bloc
+*ROS:	diga'li [: digues'li] a la maria rosa que s' ha trencat .
+*ROS:	diga'li [: digues'li] .
+@Comment:	g amb un retolador a la ma comenca a guixar un full d' un bloc blanc , es assegut a terra , r es asseguda al llit
+*ROS:	guillem diga'li [: digues'li] que s' ha trencat el paper !
+*CHI:	mira yoya@c .
+*CHI:	esta trencat [% "a tat" , mira a e] .
+*ROS:	s' ha trencat el paper .
+*CHI:	el paper trencat [% "a pape atat" , te el bloc a la ma] .
+*ROS:	renya'l guillem renya' l .
+*CHI:	te te !
+%act:	dona cops amb el full de paper a terra
+*ROS:	home !
+*ROS:	enfada't enfada't mes !
+*CHI:	home !
+%act:	dona un cop amb la ma al full de paper
+*ROS:	no t' estimo .
+*CHI:	no t' estimo [% "no atimo"] .
+*ROS:	paper no t' estimo !
+*CHI:	no t' estimo paper [% "no atimo pe"] .
+*ROS:	home .
+%act:	dona a g un tros de formatge
+*ROS:	trasto diga'li .
+*CHI:	0 [= te el paper a la ma] .
+*ROS:	diga'li trasto al paper !
+*CHI:	saldo !
+*ROS:	saldo !
+*CHI:	pcf [% xxx atela] .
+*ROS:	que dibuixes ?
+*CHI:	pcf [% xxx a laninu xxx] .
+*CHI:	mira a xxx xxx [% diu "mira a laninu xxx" , ensenya el dibuix] .
+*ROS:	oh que xuli [= tot mirant se'l] !
+*ROS:	que es xuli ?
+*CHI:	mira a la xxx [% diu "mira a la ninu" , no se sap que diu] .
+*ROS:	es xuli ?
+*CHI:	es xuli [% "e xuli"] .
+*CHI:	ai [= amb les cames tapa el full] !
+*ROS:	no hi es que se n' ha anat ?
+*CHI:	ai [= separa les cames i mira el full] !
+*ROS:	esta dormint el paper esta dormint .
+*CHI:	esta dormint el paper [% "ata dumin xxx pape"] .
+*ROS:	xist@o [= amb l' index sobre la boca , senyal de silenci] !
+*CHI:	xist@o [% diu "xi" , fa el mateix gest] !
+*CHI:	eh [= amb les mans es tapa la cara i despres mira a r] !
+@Comment:	g te el retolador a la ma i agafa el tap
+*CHI:	tapo .
+%act:	fica el tap a la punta del retolador
+*ROS:	tapes ?
+*ROS:	tapa'ho !
+*CHI:	ai [= vol treure el tap , fa forca i no pot , mira a r] !
+*CHI:	no puc .
+*ROS:	no pots ?
+*ROS:	t' ajudo ?
+*CHI:	ja esta [% diu "ata" , segueix fent forca] .
+*ROS:	t' ajudo ?
+*CHI:	ajudo [% "xudu"] .
+*ROS:	t' ajudo ?
+*CHI:	ja esta [% diu "ata" , treu el tap] .
+*CHI:	0 .
+%act:	li dona el tap a r
+*ROS:	ja esta ?
+*ROS:	bravo !
+@Comment:	r te el retolador a la ma , l' amaga perque vol que en g endivini on es , g s' enfada , r li torna el retolador
+*CHI:	ja esta [% diu "iata" , treu el tap del retolador] .
+*CHI:	ja esta [% diu "iata" , fica el tap a un extrem del retolador] .
+*CHI:	0 .
+%act:	comenca a pintar en un full
+*ROS:	ja esta !
+*CHI:	xxx una fulla [% "xxx a fuia" , pinta assegut a terra , mig ajupit] .
+*ROS:	vols una altra fulla ?
+*ROS:	0 .
+%act:	s' aixeca per agafar la del prestatge
+*CHI:	xxx una fulla [% "xxx a fuia" , amb el retolador a la ma] .
+*ROS:	si ?
+*ROS:	vols un paper .
+*CHI:	paper [% "a pe"] .
+*CHI:	aqui [% diu "ati" , mira a r que amb el brac es penja per sobre el prestatge] .
+*ROS:	aqui ?
+*CHI:	mira paper [% "mira pe" , amb el full de paper en el que pintava a la ma] !
+*ROS:	te un altre paper .
+%act:	dona a g un full de paper
+*CHI:	paper [% "a pape" , l' agafa] .
+*ROS:	gracies .
+*CHI:	gracies [% "atia" , comenca a pintar amb el retolador sense mirar a r] .
+*CHI:	pcf [% "ata" , mentre va fent ratlles amb el retolador sobre el paper] .
+*ROS:	que dibuixes ?
+*ROS:	dibuixa una sabata dibuixa una sabata .
+*CHI:	0 .
+%act:	aixeca el peu i li ensenya a r
+*ROS:	no , aqui [= indica el full de paper] .
+*ROS:	dibuixa una sabata .
+*CHI:	pcf [% diu "atata" , retolador a la ma , li ofereix el retolador a r] .
+*CHI:	mira xxx xxx [% diu "mira a tata" , entonacio de demanar] !
+*ROS:	tu !
+*CHI:	xxx yoya@c te xxx sabata [% "xxx yoya te xxx atata" , continua oferint el retolador a r] .
+*ROS:	que jo dibuixi una sabata ?
+*ROS:	tu tambe ajuda'm agafa el llapis agafa .
+*CHI:	0 .
+%act:	agafa el retolador
+*ROS:	va dibuixem una sabata .
+%act:	agafa el retolador
+*ROS:	ara tu !
+*ROS:	oi quina sabata mes xuli .
+@Comment:	r i g dibuixen junts
+*CHI:	mira la sabata [% diu "mira a tatata" , to de cantarella , retolador a la ma , mirant el dibuix] .
+*ROS:	qui l' ha dibuixat aquesta sabata ?
+*CHI:	la sabata [% diu "a tata" , mirant el dibuix , retolador a la ma] ?
+*CHI:	mira la sabata [% diu "mira a tata" , amb l' index assenyala la sabata] .
+*CHI:	ai [= amb el retolador destapat es guixa la ma] !
+*ROS:	es xuli eh !
+*ROS:	no no , t' ho he dit [= l' index aixecat , actitud de renyar] !
+*CHI:	ai !
+*ROS:	que ha passat ?
+*CHI:	mira [= l' ensenya la ma guixada] .
+*ROS:	que ha passat ?
+*CHI:	mira .
+*ROS:	ja miro .
+*CHI:	mira [= torna a guixar el paper amb el retolador] .
+*ROS:	fluixet fluixet [= mirant el que fa en g asseguda al llit] !
+@Comment:	g fa un moviment amb les cames , es a terra assegut i arruga el paper , te el retolador a la ma
+*ROS:	ai que es trenca el paper .
+*ROS:	ai que es trenca .
+*CHI:	0 .
+%act:	torna a ajuntar les cames i arrugar el paper
+*ROS:	no hi es .
+*ROS:	se n' ha anat el paper .
+*CHI:	te [= obre les cames , retolador a la ma] .
+*CHI:	paper [% "xxx a pe" , obre les cames] .
+*ROS:	mira ja s' ha arrugat guillem !
+*CHI:	0 .
+%act:	arruga el paper
+*ROS:	anem a llencar'ho a les escombraries .
+*CHI:	anem a xxx [% diu "nem a xxx"] .
+*CHI:	0 [=! fa vocalitzacions inintel'ligibles] .
+@Comment:	s' aixequen i van al lavabo
+*ROS:	anem .
+%act:	tira el paper a la cistella lavabo
+*CHI:	anem [% "nem"] .
+%com:	g pica a la paret amb un tros de fusta
+*ROS:	guillem que tens gana ?
+*CHI:	no !
+*ROS:	vine a jugar amb les joguines !
+*CHI:	no [= continua picant] .
+@Comment:	r i g habitacio dels nens , r asseguda al llit , g a terra
+*ROS:	posa discos .
+*ROS:	posa discos .
+*CHI:	ai ai ai [= assegut a terra davant calaix del discos i no pot treure el tocadiscos] !
+*ROS:	t' ajudo ?
+*ROS:	t' ajudo ?
+*CHI:	ajudo [% "axudo"] .
+*ROS:	surt doncs surt [= s' ajup per obrir el calaix] .
+*CHI:	0 .
+%act:	s' enretira pero encara fa nosa
+*ROS:	surt mes .
+*ROS:	surt mes !
+*ROS:	ai t' ajudo [= amb la ma al calaix] ?
+*CHI:	t' ajudo t' ajudo [% "t' axudo t' axudo] .
+@Comment:	r treu el tocadiscos
+*ROS:	l' obre la maria rosa ?
+*CHI:	t' ajudo [% "t' axudo xxx"] .
+*ROS:	0 .
+%act:	obre el tocadiscos
+@Comment:	tocadiscos obert , g fica un disc sobre el tocadiscos , sona la musica
+*CHI:	mira [= a r] !
+*ROS:	canta tu .
+*ROS:	canta !
+@Comment:	r i g busquen discos dintre del calaix
+*CHI:	pcf [% "la la la le" , fica un disc sobre el plat i canta] .
+*ROS:	que es xuli aquesta ?
+*CHI:	no va [% "ai oba" , mentre para el disc] .
+*ROS:	no va ?
+*CHI:	ja va [% "a ba" , torna a engegar el tocadiscos] ?
+*ROS:	no va ?
+*ROS:	doncs treu'lo treu'lo .
+*ROS:	posa'n un altre .
+*CHI:	espera [= no esta clar el que diu , agafa un altre disc del calaix] .
+@Comment:	g vol ficar un altre disc sobre el que ja esta posat , entren m i q que arriben de casa del metge , q esta malalt , m s' asseu al llit i l' explica a r el que li ha dit el metge , q es davant seu
+*CHI:	mare .
+*CHI:	a quim [% "a mim" , assegut a terra agafa unes sabatilles i les ensenya a m] .
+*MAR:	si son d' en quim !
+*CHI:	on xxx quim [% "on a kim" , assenyala un dibuix de la paret] .
+*MAR:	si aixo tambe es del quim .
+@Comment:	m asseguda al llit , q i g drets
+*MAR:	i el llop on es ?
+*CHI:	aqui [= fa un gest amb el dit] .
+*MAR:	a veure'l la titella llop [= a r] .
+*MAR:	que s' espanta el guillem amb el llop .
+*CHI:	el llop [% "a pop"] .
+*MAR:	s' ha perdut ?
+@Comment:	r el va cercant
+*QUI:	ai s' ha cabat .
+*QUI:	s' ha acabat [= la canco del disc] .
+*MAR:	guillem s' ha acabat .
+*ROS:	s' ha acabat .
+*ROS:	guillem posa un altre cop el disc .
+@Comment:	g dret mira el tocadiscos , s' ajup i torna a ficar el disc
+*MAR:	mira el llop on es [= assenyala cistella de les joguines] !
+*MAR:	a dintre la cistella alla [= agafa a g pel brac] !
+@Comment:	g i q se'n van corrent a cercar la titella
+*MAR:	no m' espantis eh !
+*CHI:	llop aqui esta [% diu "pop aqui eta" , li dona a m] !
+*MAR:	0 .
+%act:	es fica la titella al dit
+*CHI:	ah ah [= corrent fica el cap a la falda de r] !
+*ROS:	digues no hi es en guillem [= a g] .
+*ROS:	no hi es !
+*CHI:	ai ai [= d' esquena] !
+*ROS:	no hi soc .
+*CHI:	0 .
+%act:	s' aixeca i mira cap el llop
+*CHI:	0 .
+%act:	s' acosta a m
+*MAR:	espanta a la maria rosa [= fica el llop a la ma de g] .
+*MAR:	espanta'la !
+*CHI:	ah ah [= mira a r] .
+@Comment:	g dona cops amb la titella a r , m i despres a q , s'acaba el disc
+*MAR:	guillem s' ha acabat el disc .
+*CHI:	0 .
+%act:	se'n va corrent a posar el disc
+*MAR:	mes enrera [= el disc] .
+*CHI:	te te [= torna i comenca a donar cops amb la titella] !
+%com:	g te una peca d' un trencaclosques a la ma , la caputxeta
+*CHI:	mira la caputxeta [% diu "mira a teta" , ensenya la peca a m] .
+*MAR:	xxx jo soc el llop [= a r] .
+*CHI:	0 .
+%act:	llenca la peca del trencaclosques
+*ROS:	caputxeta vermella on estas ?
+*CHI:	ai ai [= va donant voltes] !
+@Comment:	r i q estan jugant a titelles en un raco de l' habitacio
+*ROS:	on es la caputxeta ?
+*MAR:	s' ha perdut ?
+*CHI:	s' ha perdut [% "a pedut" , assegut a terra regira dintre d' un cistell de joguines , d' esquena a m] !
+*ROS:	caputxeta .
+*MAR:	busca'l .
+*MAR:	busca'l be .
+*CHI:	ai [= peca a la ma] !
+*MAR:	ara .
+*CHI:	ara ara [= rient amb la peca] !
+*CHI:	te te [= dona cops amb la peca] !
+*MAR:	pobret perque li fas aixo ?
+@Comment:	g s' acosta a r que te la titella llop al dit , perque juga amb en q
+*CHI:	no no [= vol agafar el llop titella] .
+*ROS:	deixa'm'ho !
+*CHI:	no !
+*ROS:	estic jugant amb el quim !
+*CHI:	no !
+*ROS:	no t' enfadis !
+*CHI:	0 .
+%act:	agafa el llop
+*ROS:	m' ho ha agafat !
+@Comment:	g s' acosta a m amb la titella llop a la ma
+*MAR:	que t' ha fet la maria rosa ?
+*CHI:	la yoya@c [% diu "a yoya" , li ensenya la titella a m] !
+*MAR:	si ?
+*MAR:	te l' ha pres ?
+*CHI:	xxx l' ha pres [% "xxx a la tes"] .
+*ROS:	deixa'me'l guillem .
+*CHI:	no !
+%com:	en g agafa un coixi i comenca a donarli cops
+*MAR:	que vols anar a dormir ?
+*MAR:	mira a dormir .
+*MAR:	vinga [= fica el coixi a terra] .
+*CHI:	0 .
+%act:	s' ajeu i fica el cap sobre el coixi
+*MAR:	0 [= mira a g i riu] .
+*ROS:	0 [= mira a g i riu] .
+@Comment:	g agafa el coixi i el fica sobre una taula , tot seguit hi fica el cap , despres fica el cap sobre la falda de m
+*CHI:	0 .
+%act:	cap a la falda de la m
+*MAR:	0 .
+%act:	li dona uns copets al cul
+*CHI:	pcf [% "ataba tu tu xxx" , cap sobre la falda de m es dona ell mateix uns cops al cul i canta] .
+@End

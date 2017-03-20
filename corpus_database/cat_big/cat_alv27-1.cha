@@ -1,0 +1,756 @@
+@UTF8
+@PID:	11312/c-00028041-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , PAR pare Father , INV Investigator
+@ID:	cat|Serra|CHI|2;2.28||||Target_Child|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	p esta segut a l' habitacio d' a , a esta amb les joguines
+*PAR:	eh !
+*PAR:	alvar .
+*CHI:	es meva [= te un cotxet a la ma] .
+*PAR:	es teva ?
+*PAR:	no , em sembla que perque [/?] la teva es un altre , no ?
+*CHI:	0 [= mira el garatge que te muntat a terra] .
+*CHI:	el ferran [% "al fegan"] .
+*PAR:	aquesta em sembla que es del ferran .
+*CHI:	0 .
+%act:	arrossega el cotxet
+*PAR:	eh !
+*PAR:	alvar ?
+*PAR:	que fas ara ?
+*PAR:	que fas ara ?
+*CHI:	0 .
+%act:	s' aixeca de terra i va cap uns prestatges de l'habitacio
+*PAR:	ensenya'li els camions aquells .
+*CHI:	0 .
+%act:	va cap al garatge
+*CHI:	mira [% "mia" , assenyala el garatge] .
+*PAR:	alla estan els camions .
+*INV:	oh !
+*INV:	que maco !
+*CHI:	mira [% "mia" , torna cap als prestatges] .
+*PAR:	no , treu els camions grossos , alla , que estan alla sobre del camio gros , alla en el camio gros xxx hi ha , a terra , a terra .
+*PAR:	en el camio gros .
+*CHI:	0 [= mira a terra] .
+*PAR:	hi ha uns camions que t' han portat els reis .
+*CHI:	pcf [% "a dado" , mira a sota] .
+*PAR:	alla , a sobre del cavall , mira , mira , ja veig .
+*PAR:	mira dintre , del camio , dintre , aqui , tot aixo , porta els camions cap aqui .
+*CHI:	0 .
+%act:	agafa unes joguines , uns remolcadors i li porta a p
+*PAR:	els remolcs .
+*PAR:	i on son els camions ?
+*CHI:	0 .
+%act:	torna cap al prestatge
+*PAR:	agafa els camions .
+*CHI:	0 .
+%act:	remena les joguines
+*CHI:	aqui , aqui esta .
+*PAR:	aquest , aquest (.) que es aixo ?
+*CHI:	0 .
+%act:	te a les mans una joguina que no es pas el camio
+*CHI:	un xxx meu .
+@Comment:	sona el telefon
+*PAR:	que es aixo ?
+*PAR:	un helicoptero , ensenya'li a la carme com va el helicoptero [= s' aixeca per anar a contestar el telefon] .
+*CHI:	auf@c , auf@c , auf@c [= agafa un altre helicopter mes gran i es dirigeix a la carme per ensenyar'li] !
+*INV:	oh !
+*INV:	que maco !
+*INV:	aixo tambe t' ho han portat els reis ?
+*CHI:	si .
+*INV:	juga , juga , que aixi sortiras a la foto , posa't alla que aixi sortiras a la foto i m' ho expliques , eh !
+*INV:	i m' has [/?] expliques les coses que tens .
+*CHI:	0 .
+%act:	surt de l' habitacio i se'n va al passadis
+*INV:	vine , alvar , vine .
+*CHI:	si .
+*CHI:	0 .
+%act:	torna a estar a l' habitacio al costat del prestatge de les joguines
+*INV:	ets matiner ?
+*CHI:	0 [= mira a la carme] .
+*PAR:	0 .
+%act:	torna a estar segut al mateix lloc d' abans
+*PAR:	al migdia no para de xerrar .
+*PAR:	eh , nino [= mira a] ?
+*CHI:	0 .
+%act:	va cap al garatge
+*PAR:	que es aquest cotxe ?
+*PAR:	on el poses aquest cotxe ?
+*CHI:	0 .
+%act:	juga amb el garatge i el cotxe
+*CHI:	a dalt [% "a alt"] .
+*PAR:	el poses a dalt ?
+*CHI:	aqui [= posa el cotxe damunt el garatge] .
+*PAR:	mira alvar , jo crec que tindries que ensenyar'li a la carme com pugen l' ascensor els cotxes i com baixen sols per la rampa .
+*CHI:	0 .
+%act:	dona a la maneta per fer pujar els cotxes
+*INV:	oh !
+*PAR:	si pero no te cap cotxe , aquest ascensor no baixa .
+*CHI:	on es cotxe ?
+*PAR:	no se , busca'ls , algun de petit , o un jeep .
+*PAR:	pots posar un jeep dintre , o d' aquests cotxes petits .
+*CHI:	0 .
+%act:	s' aixeca del terra i va cap el prestatge
+*CHI:	petit aquest [= agafa un cotxe del prestatge] .
+*PAR:	aquest si , ara has de baixar l' ascensor , ara , eh !
+*CHI:	0 .
+%act:	torna cap al garatge
+*PAR:	no , no pot passar , ha de baixar l' ascensor .
+*CHI:	0 .
+%act:	dona a la maneta
+*PAR:	ara , la xxx , no baixa , baixa .
+*CHI:	0 .
+%act:	continua donant'li a la maneta
+*PAR:	ara , vinga , ja veuras , ara quan pugi .
+*CHI:	0 .
+%act:	manipula l' ascensor
+*PAR:	que vols que pugi aqui , a sobre del camio ?
+*CHI:	0 .
+%act:	manipula els cotxes i el camio
+*PAR:	no , aqui no cal .
+*PAR:	espera , espera , no , no , no .
+*CHI:	0 .
+%act:	li dona a la maneta
+*PAR:	espera't , espera't , aixo no funciona [= s' ha acostat al garatge i l' hi explica a] .
+*PAR:	veus , es que ha quedat el jeep aqui , enganxat .
+*CHI:	0 [= mira p] .
+*PAR:	aixi , ara , vinga [% "aixins , ara , vinga" , li arregla i comenca a fer baixar un cotxe] .
+*CHI:	0 .
+%act:	separa la ma de p
+*CHI:	jo .
+*PAR:	ala , vinga , el jeep .
+*CHI:	0 .
+%act:	comenca a fer baixar cotxes
+*PAR:	mira , s' ha quedat aqui [= agafa el cotxe] .
+*PAR:	es que hi ha un altre .
+*CHI:	0 .
+%act:	segueix baixant cotxes
+*PAR:	aixi , veus [% "aixins"] ?
+*CHI:	oi , passa aquest jeep [% "passa quet jeep"] !
+*PAR:	que vol fer ?
+*CHI:	0 .
+%act:	li dona a la maneta
+*PAR:	li has ensenyat , que mes t' han portat els reis alvar ?
+*PAR:	alvar , quines coses t' han en portat mes els reis ?
+*PAR:	mira ha caigut !
+*PAR:	quina altra cosa t' han portat els reis que t' ha agradat molt , eh ?
+*CHI:	0 .
+%act:	segueix jugant amb els cotxes i el garatge
+*CHI:	xxx [% "ababa"] .
+*PAR:	que ?
+*CHI:	xxx , una cosa [% "ababa , una cosa"] .
+*PAR:	quines coses t' han portat els reis que t' agraden ?
+*CHI:	espera [% "a peda" , mira a e] .
+*PAR:	ensenya'li a la carme , ensenya'li .
+*PAR:	ho tens aqui [= assenyala amb el cap el lloc on es] .
+*CHI:	on es ?
+*PAR:	aquest cavall no t' agradava gaire .
+*PAR:	o si t' agrada .
+*PAR:	t' agrada aquest cavall ?
+*CHI:	no .
+*PAR:	no t' agrada ?
+*PAR:	es molt maco .
+*CHI:	no vull .
+*PAR:	ensenya'li el tambor que tu has demanat als reis , ensenya'li .
+*PAR:	ensenya'li a la carme un tambor .
+*PAR:	toquem ?
+*CHI:	no [= agafa la capsa del tambor que es a terra] .
+*PAR:	bueno , va , porta el tambor i toquem una canconeta .
+*CHI:	si [= s' aixeca a buscar el tambor] .
+*CHI:	xxx toca el tambor [% "jeta toca el tambor" , agafa el tambor] .
+*PAR:	tu toca el tambor .
+*CHI:	0 .
+%act:	es penja el tambor
+*CHI:	posa'm aixo .
+*CHI:	0 .
+%act:	va cap a p amb el tambor posat
+*PAR:	va aixi [% "aixins"] .
+*PAR:	veuras .
+*CHI:	posa'm aixo .
+*CHI:	0 .
+%act:	torna a anar cap a p amb el tambor penjat i els dos palets a les mans
+*PAR:	aixi , ja esta , a veure posa't alla i toquem una musiqueta [= li assenyala un lloc] .
+*PAR:	va , alla .
+*CHI:	la flauta on es [% "a tafant on es"] ?
+*PAR:	alla esta , alla esta .
+*CHI:	la flauta [% "a taufa"] .
+*PAR:	la flauta ?
+*PAR:	no , alla , sobre el prestatge esta .
+*CHI:	0 [= mira al prestatge] .
+*PAR:	l' harmonica vols dir ?
+*CHI:	<l' &hamo> [>] .
+*PAR:	<l' harmonica> [<] .
+*PAR:	que vols dir ?
+*CHI:	on es ?
+*PAR:	alla .
+*CHI:	0 .
+%act:	es dirigeix cap el prestatge
+*CHI:	agafa [= assenyala el prestatge] .
+*PAR:	ai !
+*PAR:	no puc [= s' aixeca i va cap al prestatge] .
+*PAR:	no pots agafar'la ?
+*CHI:	jo no .
+*PAR:	tu no , no arribes [= li agafa] .
+*PAR:	vinga posa't alla .
+*CHI:	0 .
+%act:	es situa en un lloc de l' habitacio
+*PAR:	aqui .
+*CHI:	0 .
+%act:	seu
+*CHI:	aqui [= s' aixeca] .
+*CHI:	posa'm aixo .
+*PAR:	0 .
+%act:	li posa be el tambor
+*PAR:	aixi vinga [% "aixins vinga"] .
+*CHI:	0 .
+%act:	seu
+*PAR:	0 .
+%act:	comenca a tocar l' harmonica i a el segueix amb el tambor
+*CHI:	0 [= riu , mirant la carme] .
+*PAR:	molt be !
+*CHI:	molt [= pica amb els palets com si aplaudis] .
+*CHI:	un mes .
+*PAR:	una altra , quina ?
+*PAR:	quina canconeta vols que et canti ?
+*CHI:	cocodrilo [% "a lilu"] .
+*PAR:	quina , la del cocodrilo ?
+*PAR:	quina es , a veure , tu comenca .
+*CHI:	0 .
+%act:	pica el tambor
+*PAR:	0 .
+%act:	segueix amb l' harmonica
+*PAR:	molt be !
+*CHI:	molt [= pica amb els palets com si aplaudis] .
+*CHI:	una altra [% "una ata"] .
+*PAR:	quina ?
+*CHI:	una altra [% "una ata"] .
+*PAR:	quina canconeta toquem ?
+*CHI:	0 .
+%act:	pica amb les mans el tambor
+*CHI:	a mans .
+*PAR:	la canconeta de que ?
+*PAR:	de les mans ?
+*CHI:	si .
+*PAR:	bueno , a veure , tu comenca [= toca l' harmonica i a pica de mans al tambor] .
+*PAR:	ja esta !
+*CHI:	0 .
+%act:	agafa els palets
+*CHI:	vull mes .
+*PAR:	que vols que toquem ara ?
+*PAR:	eh ?
+*PAR:	que vols que toquem ?
+*CHI:	0 .
+%act:	pica amb els palets una llauna que es al prestatge
+*PAR:	toquem [= comenca a tocar l' harmonica i a el segueix tocant amb els palets el tambor] .
+*CHI:	esta nit ?
+*PAR:	eh ?
+*CHI:	es de nit [% "es a nit"] .
+*PAR:	si que es de nit .
+*CHI:	a veure [% "a vera"] .
+*PAR:	pero si no hi ha llum .
+*PAR:	la lluna sortira despres .
+*CHI:	0 .
+%act:	segueix tocant el tambor
+*PAR:	eh !
+*CHI:	molt be .
+*PAR:	a veure toca una tu , una tu sol .
+*CHI:	0 .
+%act:	comenca a picar mes fort amb els palets
+*CHI:	fort .
+*PAR:	fort , molt be l' alvar , molt be .
+*CHI:	0 [= mira la camera somrient] .
+*PAR:	0 .
+%act:	aplaudeix a
+*CHI:	0 .
+%act:	deixa els palets i es treu el tambor
+*PAR:	que mes hi ha per ensenyar'li a la carme ?
+*PAR:	a veure , li podem ensenyar +...
+*PAR:	que li podem ensenyar , eh , alvar ?
+*CHI:	0 .
+%act:	s' aixeca
+*INV:	i el cavall , me l' ensenyes aquest cavall .
+*CHI:	no , meu .
+*INV:	no t' agrada ?
+*CHI:	0 [= mira el prestatge] .
+*CHI:	no .
+*PAR:	si que es teu , si .
+*INV:	no t' agrada ?
+*CHI:	no vull .
+*INV:	me'l regales ?
+*CHI:	0 [= mira el tambor] .
+*PAR:	i els tractors aquells tan macos , aquells xxx deu estar alla dintre xxx .
+*CHI:	0 [= mira cap al prestatge] .
+*PAR:	aquell tan gros .
+*CHI:	0 .
+%act:	busca pels prestatges
+*PAR:	no hi es ?
+*PAR:	no hi es , nino ?
+*CHI:	si hi es .
+*PAR:	si , no ?
+*CHI:	0 .
+%act:	treu un cavall
+*CHI:	mira [% "mia"] .
+*INV:	tambe te l' han portat els reis ?
+*CHI:	mira , el tambor , cavall [% "mia , a tambor , cavall" , posa el cavall a sobre del camio] .
+*PAR:	i s' apoia , eh ?
+*PAR:	li agrada el tambor al cavall .
+*CHI:	si !
+*PAR:	si , li agrada molt .
+*CHI:	0 .
+%act:	juga amb el tambor i el cavall
+*CHI:	0 .
+%act:	es dona un cop amb el cavall quan el vol posar dret
+*PAR:	0 [=! riu] .
+*PAR:	que ha passat ?
+*CHI:	mullat aigua al cap [% "muia aia al cap" , es assenyala el cap] .
+*PAR:	i que ha passat ?
+*CHI:	aigua [% "aia" , deixa el cavall a terra] .
+*PAR:	t' ha caigut aigua al cap ?
+*CHI:	si .
+*PAR:	si ?
+*PAR:	amb el cavall , has donat un copet alla ?
+*CHI:	0 .
+%act:	juga amb el tambor i agafa tambe el cavall
+*PAR:	bueno , no passa res , no passa res .
+*CHI:	0 [= mira la camera] .
+*CHI:	posat aigua aqui [% "posat aiua aqui" , s'assenyala el cap] .
+*INV:	si ?
+*PAR:	aqui , del vas ?
+*INV:	on era l' aigua , alvar , on era ?
+*CHI:	aqui [= s'assenyala el cap] .
+*INV:	al cap , oi si que portes el cap mullat !
+*PAR:	si , i on esta el vas que t' ha caigut aigua ?
+*CHI:	aqui [= assenyala amunt on el vas esta] .
+*PAR:	aqui esta , veus ?
+*CHI:	aixo , les botes tambe [% "atxo , a botos tambe" , assenyala les botes] .
+*PAR:	les botes s' han mullat ?
+*CHI:	0 .
+%act:	es toca la maniga de la camisa
+*PAR:	i que mes s' ha mullat ?
+*CHI:	camisa .
+*PAR:	camisa , si .
+*CHI:	0 .
+%act:	es recolza en el tambor i s' aixeca
+*CHI:	xxx xxx xxx [% "a yu chita"] ?
+*PAR:	si .
+*CHI:	aigua [% "aia" , s' aixeca i assenyala el got d'aigua] .
+*PAR:	vols veure ?
+*PAR:	veu aigua si vols .
+*CHI:	mam@c [= agafa el got d' aigua i veu] .
+*CHI:	tinc set [% "tinc chet" , ho diu mirant p] .
+*PAR:	tens set , molt be .
+*CHI:	0 .
+%act:	continua bevent aigua i deixa el got al prestatge
+*CHI:	el cotxe si va [% "e cotcho si va" , es dirigeix al prestatge] .
+*PAR:	quin ?
+*CHI:	aquest , aquest si , <vull vi> [/?] vull aquest cotxe [% "aque , aque chi vu vi vu quet cotxe"] .
+*PAR:	aquest es teu tambe ?
+*CHI:	0 .
+%act:	agafa el cotxe i va cap a p
+*CHI:	no , ferran [% "no , fegan"] .
+*PAR:	es del ferran ?
+*PAR:	pero te'l deixa ?
+*PAR:	si ?
+*CHI:	mira , a dalt [= deixa el cotxe sobre un garatge] .
+*PAR:	aqui dalt , l' has posat aqui dalt .
+*CHI:	0 .
+%act:	agafa una altra vegada el cotxe
+*CHI:	rum@c [= imita el soroll del cotxe] !
+*CHI:	0 .
+%act:	deixa el cotxe a terra
+*CHI:	aquest no cap [% "quet no cap"] ?
+*PAR:	em sembla que no cap aquest , eh ?
+*CHI:	aquest si , <aquest no> [>] [% "quet si , quet no" , mira cap amunt del garatge] ?
+*PAR:	no [<] no hi cap aqui , posa una mica de gasolina a veure !
+*CHI:	hi ha cotxes [% "aian cotxes"] .
+*PAR:	treu els cotxes perque sino no hi caben , eh ?
+*CHI:	no hi caben [% "no hi caba" , remena i agafa un cotxe que fa correr pel terra] .
+*PAR:	i el helicoptero xxx xxx giratori ?
+*CHI:	aquest fa xxx soroll [% "quet fa cu soroll"] ?
+*CHI:	aquest cotxe [% "quet cotxe"] ?
+*PAR:	si que fa soroll , si , si que fa soroll .
+*CHI:	si ?
+*PAR:	si .
+*PAR:	fa molt de soroll , eh ?
+*CHI:	0 .
+%act:	agafa un altre cotxe i el deixa al garatge
+*CHI:	atomico [% "atomicu"] .
+*PAR:	el que ?
+*CHI:	atomico [% "atomicu"] .
+*PAR:	el atomico , el coche atomico .
+*CHI:	aquest , aquest si .
+*CHI:	atomico [% "atomo" , va a buscar el cotxe atomic] .
+*CHI:	no hi es .
+*PAR:	no hi es ?
+*CHI:	no .
+*PAR:	ensenya'li a la carme aquest cotxe que t' ha regalat la xxx , que fa tot de llumetes .
+*CHI:	0 [= somriu mirant la carme] .
+*PAR:	on esta ?
+*CHI:	aqui [= assenyala cap un raco] .
+*PAR:	aqui esta , ensenya'li , ensenya'li .
+*CHI:	a on [% "anon" , agafa un cotxe] ?
+*PAR:	no vols ?
+*CHI:	si .
+*PAR:	xxx esta el camio gros , veus ?
+*CHI:	0 [= mira el cotxe , les rodes] .
+*PAR:	eh ?
+*CHI:	0 .
+%act:	posa el cotxe a terra i ho fa rodolar molt poc a poc
+*CHI:	el tractor , el tractor no hi es [% "a tato , a tatato no hi es"] .
+*PAR:	no hi es dintre de la caixa del camio , aquell gros ?
+*CHI:	0 .
+%act:	toca la corda del llum i es mira el llum
+*PAR:	mira , mira el camio gros , dintre , dintre de la caixa del camio .
+*CHI:	on es ?
+*PAR:	alla , en aquell camio groc d' aqui [= li assenyala des del seu lloc el camio] .
+*PAR:	aquell groc , aqui dintre .
+*CHI:	0 .
+%act:	agafa un camio groc , al costat del que diu p
+*PAR:	no , aquest no , l' altre gros , l' altre camio gros .
+*CHI:	0 .
+%act:	deixa el que havia agafat al costat de l' altre
+*PAR:	el groc , el camio gros groc , que hi ha totes les peces , veus ?
+*CHI:	que no [= assenyala el camio gros] .
+*PAR:	no hi ha ?
+*PAR:	no hi es el tractor aqui dintre ?
+*CHI:	no .
+*PAR:	no ?
+*CHI:	xxx xxx [% "a ta" , podria ser'no esta' o be'on esta' , pel context no crec que sigui'ja esta' , mira pel camio] .
+*PAR:	no hi es ?
+*CHI:	no .
+*PAR:	mira , mira a ver , mira a ver , mira a ver , segur que , mira aqui en veig un a sota , mira a sota del camio gros , veig un tractor , sota .
+*CHI:	0 .
+%act:	s' ajup a mirar sota el camio
+*PAR:	veus , mira , el veus ?
+*CHI:	tractor , tractor , tractor [% "ato , ato , tator" , esta segut tocant el cavall] .
+*PAR:	i tens tota la palla per aqui a terra , mira , posa be la palla dintre del [/?] del remolc .
+*CHI:	0 .
+%act:	es posa a recollir la palla
+*PAR:	qui menja la palla ?
+*CHI:	les vaques [% "a vaques"] .
+*PAR:	les vaques , els hi agrada molt ?
+*CHI:	0 .
+%act:	pren un camio molt llarg
+*PAR:	els hi agrada molt la palla a les vaques alvar [>] ?
+*CHI:	<la palla> [<] [% "a palla"] ?
+*CHI:	xxx got , o pels cotxes [% "amam got , o pa cotxes" , continua recollint] .
+*PAR:	i que mes mengen les vaques ?
+*CHI:	l' herba [% "l' heba"] .
+*PAR:	l' herba , aixi , ja esta , veus ?
+*PAR:	i aquest tractor tambe ho pots aparcar aqui al garatge .
+*CHI:	no cap , <no aqui> [>] .
+*PAR:	<no , no> [<] no hi cap ?
+*CHI:	no cap , xxx els cotxes aqui [% "no cap , xxx a cotxes aqui" , posa un cotxe a prop del garatge] .
+*CHI:	0 .
+%act:	s' aixeca
+*CHI:	a [/?] a on es ?
+*PAR:	que busques ?
+*CHI:	<el &ta> [/?] , el tractor [% "el tractoz"] .
+*PAR:	alla a darrera hi ha un [/?] un de tractor , xxx .
+*CHI:	0 .
+%act:	agafa un del prestatge
+*CHI:	aquest .
+*PAR:	aquest tambe si , i alla a darrera en tens un altre .
+*CHI:	0 .
+%act:	posa el tractor dins del garatge
+*CHI:	xxx ?
+*PAR:	a darrera , a darrera alla .
+*CHI:	0 .
+%act:	busca
+*PAR:	veus el raconet ?
+*PAR:	aquell de la pala .
+*CHI:	xxx xxx [% "at et" , torna al garatge] .
+*PAR:	aquell de la pala petit , el vermell , el vermell petit !
+*CHI:	no , vermell no !
+*PAR:	no vols el vermell ?
+*CHI:	no .
+*PAR:	no t' agrada aquest ?
+*CHI:	<a &a> [/?] aquest [= assenyala un] .
+*PAR:	aquest si , porta'l aquest .
+*CHI:	no vull .
+*PAR:	no ?
+*PAR:	no t' agrada ?
+*CHI:	no .
+*PAR:	qui te l' ha regalat aquest tractor ?
+*CHI:	0 .
+%act:	vol tocar la bombeta de la llum
+*PAR:	no sse@c sse@c , no toquis que et cremara els ditets .
+*PAR:	qui t' ha regalat aquell tractor vermell ?
+*CHI:	no vull !
+*PAR:	no vols ?
+*PAR:	bueno pues res xxx , i +...
+*CHI:	0 .
+%act:	s' apropat al llit i toca un abric
+*CHI:	que [/?] que es aixo meu [% "ques xo meu"] ?
+*PAR:	no , aixo es de la carme .
+*CHI:	carme [>] ?
+*PAR:	<aixo es> [<] l' abriguet de la carme , que fa molt fred , saps ?
+*PAR:	si .
+*CHI:	0 [= es mira la carme , des de el costat de p] .
+*PAR:	vols que +...
+*PAR:	que vols fer .
+*PAR:	<que vols que fem> [>] .
+*CHI:	<vull pa> [<] .
+*PAR:	tens gana ?
+*CHI:	si , vull pa [= somriu] .
+*PAR:	vols un trosset de pa ?
+*CHI:	si , pa .
+@Comment:	es veu a amb un tros de pa a la ma
+*PAR:	eh ?
+*CHI:	ui , xxx xxx [% "ui , sacan santa" , seu al costat de p] .
+*PAR:	t' asseus com el papa aqui al costat [% "te sentes com el papa aqui al costat"] ?
+*PAR:	que has fet al cole avui ?
+*CHI:	0 .
+%act:	agafa un cotxe
+*PAR:	0 .
+%act:	li acaricia els cabells
+*CHI:	vull aquest cotxe .
+*PAR:	que has fet al cole , alvar , avui ?
+*CHI:	hum [= mira el cotxe] .
+*PAR:	eh ?
+*CHI:	xxx [% "utu" , posa a rodolar el cotxe] .
+*PAR:	que has fet ?
+*CHI:	que gros i que gros [% "que cos i que cos" , fica un altre cotxe al garatge] !
+*PAR:	aquest hi cap ?
+*CHI:	no , aquest , aquest [% "no , quet , quet" , assenyala un cotxe] .
+*PAR:	aquest no hi cap , eh ?
+*PAR:	<es molt> [>] gros aquest , eh ?
+*CHI:	no [<] [= agafa un altre cotxe] ?
+*CHI:	aquests [% "quets" , ho fica al garatge] ?
+*PAR:	aquest si cap , veus ?
+*PAR:	ah , pues si , si que veig si .
+*CHI:	0 .
+%act:	agafa un altre cotxe i intenta ficar'lo dintre
+*CHI:	aquest [% "quet"] .
+*PAR:	aquest no .
+*CHI:	aquest si cap .
+*PAR:	no hi cap aquest .
+*CHI:	si , aquest si cap [% "si , quet si cap" , ho fica dintre] .
+*PAR:	si cap ?
+*CHI:	si xxx , el jeep tambe [% "si tau , el jeep tambe" , ho fica dintre] .
+*PAR:	el jeep tambe .
+*CHI:	xxx xxx [% "o finos"] ?
+*PAR:	0 .
+%act:	agafa un helicopter
+*PAR:	i aquest helicopter de qui es ?
+*CHI:	meu .
+*CHI:	0 .
+%act:	segueix prestant atencio al garatge i cotxes
+*PAR:	es teu ?
+*PAR:	no .
+*CHI:	si .
+*PAR:	em sembla que es del ferran aquest , eh ?
+*CHI:	0 [= es mira l' helicopter] .
+*CHI:	meu .
+*PAR:	aquest no es del ferran ?
+*CHI:	no [= dona una mossegada l' entrepa que porta] .
+*PAR:	<qui te l' ha> [/?] te l' han portat aquest ?
+*PAR:	qui te l' ha portat aquest helicopter ?
+*CHI:	el llorenc [= agafa l' helicopter] .
+*PAR:	el llorenc ?
+*CHI:	no , violeta [% "no , vuvineta"] .
+*PAR:	la violeta ?
+*CHI:	si .
+*CHI:	0 .
+%act:	deixa l' entrepa a terra
+*PAR:	xxx xxx xxx violeta .
+*CHI:	0 .
+%act:	manipula l' helicopter
+*PAR:	com ho dius , viuleta ?
+*PAR:	com dius viuleta [= toca els cabells d' a] ?
+*CHI:	violeta [% "uvireta"] .
+*PAR:	violeta [% "uvireta"] ?
+*CHI:	si [= continua manipulant l' helicopter] .
+*PAR:	bueno !
+*CHI:	l' helicopter [% "a coptis" , arrossega l' helicopter per terra mentre va dient'a coptis'] .
+*PAR:	helicopters [= repeteix ben dit el que diu a] !
+*CHI:	no sent aquest [= deixa d' arrossegar al helicopter i posa a damunt de les helices el tros d' entrepa] !
+*PAR:	no s' asseuen [% "no s' asenten"] ?
+*CHI:	que es aixo [= fa girar les helices de l' helicopter] ?
+*PAR:	aixo es l' helice .
+*CHI:	0 .
+%act:	arrossega l' helicopter
+*PAR:	aixo es l' helice <de la> [/?] de l' helicopter .
+*CHI:	0 .
+%act:	deixa d' arrossegar l' helicopter i mira d' agafar l' entrepa
+*PAR:	posa el pa [= assenyala l' entrepa amb el dit] .
+*CHI:	0 [= ho mira] .
+*PAR:	que t' ha dit el papa ?
+*PAR:	el pa no es deixa al terra !
+*CHI:	si [% "txi"] .
+*PAR:	no [= diu no tambe amb el cap] .
+*PAR:	es deixa aqui sobre de la taula , o aqui sobre [= assenyala el sofa] .
+*PAR:	a terra no vull el pa .
+*CHI:	0 .
+%act:	es queda mirant el pa mentre mou amb les mans l'helice de l' helicopter
+*PAR:	pues te'l trec , eh [= agafa el tros de pa] !
+*CHI:	0 .
+%act:	agafa el pa de la ma de p
+*CHI:	aqui [= torna a deixar el pa a terra on era abans] .
+*PAR:	no , no , no , no , no [= agafa el pa de terra i el deixa sobre el sofa] !
+*PAR:	el pa aqui [>] .
+*CHI:	<aqui si> [<] [% "qui si"] .
+*CHI:	0 .
+%act:	agafa el pa de sobre al sofa i el deixa
+*CHI:	aqui si [= torna a deixar el pa a terra , i mira p] !
+*PAR:	aqui no alvar , aqui !
+*CHI:	aqui si .
+*PAR:	vols que m' enfadi ?
+*PAR:	hum [= mira seriosament a] ?
+*CHI:	0 .
+%act:	encongeix el cap
+*CHI:	no [= manipula l' helicopter] .
+*PAR:	no , bueno , pues llavors posa el pa aqui [= assenyala sobre el sofa] .
+*PAR:	mira aqui te'l deixo posat , aqui llavors , aqui te'l deixo , vinga [= agafa la capsa d' una joguina , la posa al costat d' a i deixa l' entrepa a sobre] .
+*CHI:	a taula [= deixa l' entrepa a sobre de la capsa] .
+*PAR:	si , en aquesta tauleta , molt be , aixi .
+*CHI:	el camio fora , fora , fora , fora , fora , fora , fora [% "a mamo foga , foga , foga , foga , foga , foga , fora" , agafa el camio i el posa darrera seu i agafa cotxe per cotxe i els deixa darrera] .
+*PAR:	bueno !
+*CHI:	0 .
+%act:	agafa la capsa on te l' entrepa se'l posa davant
+*CHI:	a menjar !
+*PAR:	que es una tauleta , aixo ?
+*CHI:	0 .
+%act:	agafa l' entrepa
+*CHI:	mira [% "mila"] !
+*PAR:	0 [= mira l' entrepa] .
+*PAR:	que es aixo ?
+*CHI:	xxx xxx .
+*PAR:	si aixo no es res , aixo no es brut .
+*CHI:	0 .
+%act:	agafa l' entrepa i el mossega
+*CHI:	a no tractor [>] [% "a no trato" , manipula la capsa] .
+*PAR:	tambe [<] podries seure't et [/?] a la cadireta i fas aixo de taula [= assenyala on es la cadireta i lo que pot fer servir de taula] .
+*PAR:	i menges amb la cadira .
+*CHI:	0 .
+%act:	deixa l' entrepa a sobre del sofa i amb l' altra ma agafa la capsa
+*CHI:	aqui [= deixa l' entrepa al sofa] ?
+*PAR:	aqui si [= posa be l' entrepa] .
+*CHI:	ui , ui [= s' aixeca del terra amb la capsa a les mans] !
+*PAR:	em sembla que ja ve en ferran !
+*CHI:	0 .
+%act:	s' atura al sentir a p i escolta el soroll que se sent de fora
+*CHI:	si [% "txi"] ?
+*CHI:	0 .
+%act:	deixa la capsa a terra davant de la cadireta
+*PAR:	si , em sembla que si .
+*CHI:	ara ve [% "aga re"] ?
+*CHI:	0 .
+%act:	va treient les joguines que te sobre la cadireta
+*PAR:	ara ve .
+*PAR:	on ha anat el ferran ?
+*PAR:	digues'li a la carme on ha anat .
+*CHI:	0 .
+%act:	agafa les coses i les deixa a sobre del sofa
+*CHI:	on es [= s' atura i mira p] ?
+*PAR:	on ha anat ?
+*PAR:	digues , explica'li a la carme on ha anat , amb el nen petit .
+*CHI:	0 .
+%act:	agafa l' entrepa del sofa i mira al seu voltant
+*CHI:	a taula !
+*PAR:	mira'la on esta [= assenyala la taula] .
+*CHI:	0 .
+%act:	es dirigeix a on esta la capsa l' agafa amb les dues mans i seu a la cadireta
+*PAR:	cuidado !
+*CHI:	0 .
+%act:	mossega l' entrepa alhora que seu
+*CHI:	xxx [% "ioque"] .
+*PAR:	molt be .
+*CHI:	xxx [% "ioque" , deixa a terra la capsa justament davant seu] .
+*PAR:	molt be i aixo es la taula .
+*CHI:	0 .
+%act:	mossega l' entrepa una altre vegada , somriu i mira al seu voltant mentre mastega
+*PAR:	es bo ?
+*CHI:	tinc gana !
+*PAR:	tens gana !
+*PAR:	que be [= somriu] !
+*PAR:	pues res , menja't el pa .
+*CHI:	0 .
+%act:	segueix menjant l' entrepa
+*CHI:	aixo que es ?
+*CHI:	0 .
+%act:	assenyala un dels barrots del bressol
+*PAR:	hum ?
+*CHI:	de que es aixo [= torna assenyalar un dels barrots i dona una mossegada mes a l' entrepa] ?
+*PAR:	de fusta , aixo esta fet de fusta , es de fusta aixo .
+*PAR:	hum ?
+*CHI:	0 .
+%act:	s' aixeca i mira quelcom que te penjat al bressol
+*PAR:	que es aixo ?
+*PAR:	que es ?
+*CHI:	0 .
+%act:	manipula un cordill
+*PAR:	un cordill ?
+*CHI:	0 .
+%act:	seu a la cadireta i dona una altra mossegada
+*PAR:	explica'li a la carme on vas dema ?
+*PAR:	on vas dema ?
+*PAR:	ui !
+*PAR:	si tens la boca plena no et posis el trossos tan grossos .
+*PAR:	no li expliques a la carme on vas dema , no ?
+*CHI:	0 .
+%act:	continua menjant
+*CHI:	hum , va .
+*PAR:	on vas dema ?
+*PAR:	on vas ?
+*CHI:	0 .
+%act:	toca els barrots
+*PAR:	qui ve a buscar'te dema .
+*CHI:	la mama .
+*PAR:	no .
+*CHI:	l' avi [= mira a p] .
+*PAR:	si .
+*PAR:	on vas amb l' avi ?
+*CHI:	masia [= mira la carme mentre toca la capsa] .
+*INV:	hum [>] ?
+*PAR:	<a la> [<] masia .
+*CHI:	i la mami tambe .
+*PAR:	i la mami tambe ?
+*PAR:	i que vas a fer a la masia .
+*CHI:	0 .
+%act:	mou la capsa cap un costat
+*CHI:	traballar [% "treballer"] .
+*PAR:	traballar vas [>] [% "trevaller"] ?
+*CHI:	<jo sec> [<] aqui [% "jo sento qui"] .
+*PAR:	vas a traballar [% "trevaller"] ?
+*PAR:	i en que traballes ?
+*CHI:	0 .
+%act:	dona una altra mossegada
+*CHI:	amb mami [% "on mami"] .
+*PAR:	amb la mami ?
+*PAR:	i que amb la +...
+*CHI:	forca [% "foca"] .
+*PAR:	amb la forca ?
+*CHI:	0 .
+%act:	dona una altra mossegada
+*PAR:	i que mes ?
+*PAR:	i tu que amb una pala petita ?
+*CHI:	no .
+*PAR:	com es la teva pala ?
+*CHI:	grossa [% "coha"] .
+*PAR:	grossa ?
+*PAR:	<i la> [/?] un carretonet no ?
+*CHI:	si [% "txi"] .
+*PAR:	si ?
+*CHI:	0 .
+%act:	segueix menjant'se l' entrepa assegut a la cadira
+*CHI:	0 .
+%act:	agafa un tros d' entrepa sencer i se'l fica a la boca
+*PAR:	home !
+*PAR:	no et posis aquests trossos tan grossos pa .
+*INV:	quina gana que tens , eh ?
+*PAR:	eh [>] .
+*INV:	<t' ho> [<] t' ho acabaras de seguida ?
+*PAR:	t' ho acabaras de seguida i despres diras , ja esta !
+*PAR:	i el papa no te'n donara mes perque despres has de menjar .
+*PAR:	despres anirem a banyar , eh !
+*CHI:	0 .
+%act:	mira la camera amb la boca plena de pa i movent al cap
+*PAR:	ja fas &tonte +/.
+*CHI:	&ries .
+*PAR:	&ries , si , ja ho veig que fas tonteries ara .
+*CHI:	0 .
+%act:	es treu el pa de dintre la boca
+@End

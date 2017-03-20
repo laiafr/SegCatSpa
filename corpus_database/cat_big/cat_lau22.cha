@@ -1,0 +1,1077 @@
+@UTF8
+@PID:	11312/c-00028107-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Laura Target_Child , AVI avi Grandfather , MAR mare Mother , INV Investigator
+@ID:	cat|Serra|CHI|1;10.22||||Target_Child|||
+@ID:	cat|Serra|AVI|||||Grandfather|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	a i l juguen en el menjador amb un telefon que tenen a les mans , l esta seguda a terra i a al sofa
+*AVI:	escolta .
+*AVI:	escolta tu .
+*AVI:	telefona a en joan .
+*AVI:	telefona .
+*CHI:	<pcf [% "ai ai" , mira el telefon que te a les mans]> [>] .
+*AVI:	<digues joan> [<] .
+*CHI:	cau , cau .
+*CHI:	cau [>] .
+*AVI:	<digues'li> [<] joan com esteu [% "diga'li joan com esteu"] ?
+*CHI:	cau , cau , cau .
+*CHI:	cau , cau [= ajunta els dos auriculars del telefon] .
+*AVI:	deixa'm [= li vol agafar a l els auricular] .
+*AVI:	deixa'm' ho .
+*CHI:	0 .
+%act:	allarga la ma dreta , perque vol tornar a agafar els auriculars
+*AVI:	anem a buscar (.) aquelles rodes d' alla ?
+*AVI:	escolta .
+*AVI:	busca aquelles rodetes (.) que tirarem xxx .
+*AVI:	i fem aixi [= fa amb la ma un gest de llancament] .
+*AVI:	xxx [% "plin"] .
+*AVI:	porta allo [= assenyala cap al balco] .
+*AVI:	aquells aros d' alla .
+*AVI:	<porta'ls> [>] .
+*CHI:	<pcf [% "ai"]> [<] .
+*AVI:	corre .
+*AVI:	<si , porta'ls> [>] .
+*CHI:	<pcf [% "ai" , s' aixeca]> [<] .
+*AVI:	veuras , porta els aros d' alla .
+*CHI:	0 .
+%act:	se'n va cap al balco
+*AVI:	veus .
+*AVI:	porta'ls .
+*AVI:	molt be .
+*AVI:	mira si ho enten .
+*AVI:	els aros , els aros .
+*AVI:	si , molt be .
+*CHI:	0 .
+%act:	esta en el balco , agafa els cercols amb la ma esquerra
+*CHI:	pcf [% "ai"] .
+*AVI:	si , porta els aros .
+*CHI:	si [% "ii"] .
+*AVI:	si .
+*AVI:	els posem aqui [= assenyala el terra] .
+*AVI:	aqui .
+*CHI:	ah [= seu a terra amb ells] !
+*AVI:	molt be .
+*AVI:	posa'ls aqui [= assenyalant a terra] .
+*AVI:	aixi [= s' aixeca , li agafa els cercols] .
+*AVI:	veus , aixi [= s' ajup i obre la caixa dels cercols] .
+*AVI:	mira , aixi .
+*CHI:	vinga [= s' acosta mes a a] .
+*AVI:	vinga , va .
+*CHI:	ale !
+*AVI:	ale [= enf] !
+*AVI:	que estarem be .
+*AVI:	mira , veus .
+*AVI:	mira , has de fer aixi [= treu els cercols i la peca per ficar'los dins] .
+*AVI:	mira , aixi [= li ensenya com ha de ficar els cercols dintre de la peca] .
+*AVI:	veus .
+*AVI:	mira , aixi .
+*CHI:	pcf [% "mi"] .
+*AVI:	un .
+*AVI:	va , fes'ho .
+*CHI:	ah [= agafa el cercol que te a amb la ma dreta] !
+*AVI:	veus .
+*AVI:	dos .
+*AVI:	fes'ho .
+*CHI:	0 .
+%act:	llenca el cercol pero no ho encerta
+*CHI:	pcf [% "ai"] .
+*AVI:	ai !
+*AVI:	no aixi .
+*AVI:	mira , aixi [= li ensenya com ha de fer'ho] .
+*AVI:	veus , aixi .
+*AVI:	mira [= li torna a ensenyar] .
+*AVI:	pum@c [% "pom"] !
+*AVI:	fes'ho tu .
+*AVI:	fes'ho aixi .
+*CHI:	0 .
+%act:	agafa un cercol
+*AVI:	poc a poc .
+*CHI:	pcf [% "ai" , llenca el cercol pero no encerta] .
+*AVI:	ai [= enf] !
+*CHI:	0 .
+%act:	torna a agafar el mateix cercol i el fica dintre des de molt a prop
+*AVI:	un , molt be [= enf , li dona un altre] .
+*CHI:	0 .
+%act:	ho torna a ficar
+*AVI:	molt be [= li dona un altre] .
+*CHI:	0 .
+%act:	ho torna a ficar
+*AVI:	molt be [= li dona un altre] .
+*CHI:	0 .
+%act:	no fica aquest cercol
+*CHI:	<pcf [% "ai"]> [>] .
+*AVI:	ai [<] !
+*AVI:	ai , ai !
+*CHI:	que cau [= agafa un cercol i el fica dintre] .
+*AVI:	ai , que cau !
+*AVI:	molt be [= li dona un altre cercol] .
+*AVI:	un altre .
+*CHI:	0 .
+%act:	agafa el cercol amb la ma esquerra
+*AVI:	va .
+*CHI:	0 .
+%act:	ho intenta ficar dins
+*CHI:	pcf [% "uva" , mirant a a] .
+*AVI:	ai !
+*AVI:	que cau .
+*AVI:	posa'li , vinga .
+*AVI:	va .
+*AVI:	fes'li aixi .
+*AVI:	pam@c [= amb un cercol a la ma fa el gest de llencar'ho] !
+*AVI:	va , vinga .
+*AVI:	fes pam@c xxx [% "fes pam yup" , enf , fica un cercol amb l' esquerra] .
+*AVI:	pam@c !
+*AVI:	molt be .
+*AVI:	un altre [= li dona un altre cercol] .
+*AVI:	va .
+*CHI:	pcf [% "ai" , no fica cercol dintre] .
+*CHI:	pcf [% "ai" , torna a agafar'ho] .
+*AVI:	ai !
+*CHI:	0 .
+%act:	fica el cercol dintre de la caixa dels cercols
+*AVI:	tria [= donant'li un altre cercol] .
+*AVI:	corre .
+*AVI:	te [>] .
+*CHI:	oh [<] [= aixecant la caixa que estava tombada] !
+*AVI:	te .
+*CHI:	0 .
+%act:	agafa el cercol amb l' esquerra , sembla que ho vulgui ficar a la caixa i finalment ho fica dintre de la peca
+*AVI:	ai !
+*CHI:	pcf [% "aa"] .
+*AVI:	fes aixi .
+*CHI:	0 .
+%act:	es gira mirant cap a l' altre canto
+*AVI:	mira , escolta'm .
+*AVI:	fes aixi .
+*AVI:	pum@c [= ficant el cercol dintre de la peca] .
+*AVI:	te .
+*CHI:	0 [= mira cap al sostre] .
+*AVI:	fes aixi .
+*CHI:	0 [= mira cap a la camera i riu] .
+*AVI:	pum@c .
+*AVI:	fes'lo saltar .
+*AVI:	corre , mira .
+*AVI:	mira [>] .
+*CHI:	<pcf [% "aaii"]> [<] .
+*AVI:	ai [= enf , fa rodolar el cercol] !
+*AVI:	oh !
+*AVI:	fes'ho .
+*AVI:	aixi [= s' aixeca i es posa davant de l] .
+*AVI:	tira'ho aixi .
+*AVI:	tira'ho , va .
+*CHI:	0 .
+%act:	ho intenta amb la ma dreta
+*AVI:	aixi .
+*AVI:	mira [= li ensenya com es fa] .
+*CHI:	pcf [% "ai" , no li roda el cercol i li cau] .
+*AVI:	ai !
+*AVI:	mira [= llenca un altre] .
+*AVI:	corre tira .
+*CHI:	0 .
+%act:	agafa el cercol que ha tirat a amb la ma esquerra
+*CHI:	pcf [% "ta"] .
+*AVI:	si .
+*CHI:	0 .
+%act:	deixa caure el cercol de la ma
+*CHI:	pcf [% "ai"] .
+*AVI:	ai [= enf , tira un cercol dintre de la peca] !
+*AVI:	mira , tira'ho aixi .
+*AVI:	mes lluny [= allunyant la peca de l] .
+*AVI:	tira'ho .
+*AVI:	tira'ho aqui va .
+*CHI:	0 .
+%act:	llenca el cercol , pero no encerta
+*AVI:	molt be .
+*AVI:	te tots [= li dona tots els cercols] .
+*AVI:	te .
+*AVI:	molt be .
+*CHI:	0 .
+%act:	ha llencat un cercol amb la ma esquerra
+*AVI:	tira'ls .
+*AVI:	tira'ls aqui [= agafa la peca per adaptar'la una mica als llancaments de l] .
+*AVI:	corre , va .
+*CHI:	0 .
+%act:	tira un cercol amb l' esquerra , pero no encerta
+*CHI:	pcf [% "ai"] .
+*AVI:	ai [= enf] !
+*AVI:	un .
+*AVI:	mira , un [= ha ficat dins un cercol] .
+*AVI:	un .
+*CHI:	pcf [% "ai"] .
+*AVI:	va , un altre .
+*CHI:	0 .
+%act:	llanca un altre
+*AVI:	ui !
+*CHI:	0 .
+%act:	es gira
+*CHI:	no xxx [% "no oi" com si busques alguna cosa] .
+*AVI:	estan aqui sota .
+*AVI:	va , vinga .
+*AVI:	tira , tira .
+*CHI:	pcf [% "a muntet" , llanca un cercol efusivament] .
+*AVI:	oh [= riu] !
+@Comment:	el cercol se'n va cap al sofa i l va a quatre grapes per agafarho
+*AVI:	tres .
+*AVI:	tira'ls aqui .
+*AVI:	aixi .
+*CHI:	0 [= mira cap a m] .
+*CHI:	pilar [% "piaa"] .
+*AVI:	pilar .
+*AVI:	mira que ha fet .
+*AVI:	mira que ha fet .
+*AVI:	fes aixi ara .
+*AVI:	veus .
+*AVI:	escolta (.) fes aixi .
+*AVI:	mira , aixi [= li escampa els cercols i li fa un simbol semblant al de les olimpiades] .
+*CHI:	pcf [% "eh"] .
+*AVI:	fes aixi .
+*CHI:	oh !
+*AVI:	fes aixi .
+*AVI:	no aixi .
+*AVI:	fes'ho aixi [= ho torna a fer] .
+*CHI:	lluis [% "llui"] .
+*AVI:	mana .
+*CHI:	xxx cotxes .
+*AVI:	el cotxe ?
+*CHI:	joan [% "oan"] .
+*AVI:	posarem el cotxe (.) a en joan .
+*AVI:	fes aixo .
+@Comment:	frame 3822 , tall a la cinta , de nou en la mateixa situacio
+*CHI:	0 [= mira la camera somrient] .
+*AVI:	tu .
+*AVI:	0 .
+%act:	estira a l del peu per acostar'la
+*AVI:	vine cap aqui .
+*CHI:	0 .
+%act:	s' acosta
+*AVI:	tu , posa aixo be .
+*AVI:	aixi .
+*AVI:	mira [= li assenyala un cercol] .
+*AVI:	posa aixi .
+*AVI:	un [= posa un cercol a terra] .
+*AVI:	dos [= posa un altre cercol] .
+*CHI:	aquest [% "aque" , apartant'se d' a cap al sofa] .
+*CHI:	no .
+*CHI:	pilar [% "ia"] .
+*AVI:	on es (.) la pilar ?
+*CHI:	joan .
+*AVI:	el joan ?
+*AVI:	mira (.) fes aixi .
+*AVI:	un [= li fica un cercol dins el peu] .
+*AVI:	dos [= li fica un altre a l' altre peu] .
+*CHI:	no puja .
+*CHI:	oh [= enf] !
+*CHI:	oh [= intenta treure's els cercols dels peus] !
+*AVI:	fes aixi [= li continua posant cercols] .
+*AVI:	oh !
+*CHI:	ai [= com queixant'se , es treu els cercols] !
+*AVI:	posa't' els .
+*AVI:	aqui .
+*AVI:	si .
+*AVI:	vinga [= agafa els cercols de terra] .
+*AVI:	va .
+*CHI:	va .
+*AVI:	en els peus .
+*AVI:	posa't' els (.) a dins (.) dels peus .
+*CHI:	ai [= es queixa , te un cercol en el peu esquerra i no se'l pot treure] !
+*AVI:	ai !
+*CHI:	ai [= queixant'se] !
+*CHI:	cau .
+*AVI:	ai !
+*CHI:	ai [>] [= es queixa] !
+*AVI:	cau [<] .
+*AVI:	un .
+*AVI:	un altre [= amb un cercol a la ma] .
+*AVI:	te .
+*AVI:	un altre .
+*AVI:	aixeca el peu .
+*AVI:	aixeca el peu .
+*AVI:	aixeca (.) aixi [= li ajuda a treure's l' cercol del peu] .
+*CHI:	ai [= es queixa] !
+*AVI:	ai [= com si imites a l] !
+*CHI:	sabata [% "ata"] .
+*AVI:	ala [= enf] !
+*CHI:	sabata [% "ata"] .
+*AVI:	la sabata .
+*AVI:	fora la sabata .
+*AVI:	vinga [= enf] .
+*CHI:	sabata [% "ata"] .
+*AVI:	fora [= enf] .
+*CHI:	pcf [% "aaa" , enf , es treu la sabata] .
+*AVI:	ale [= enf] !
+*CHI:	la treus [% "a teus" , assenyalant l' altra sabata] ?
+*AVI:	no .
+*AVI:	aquesta no .
+*AVI:	aquesta no .
+*AVI:	aixeca el peu [= amb un cercol a la ma] .
+*AVI:	aixeca el peu .
+*CHI:	la treus [% "a teus"] .
+*AVI:	la trec .
+*AVI:	mira .
+*AVI:	trec [= li treu la sabata] .
+*AVI:	ale [= enf] !
+*CHI:	pcf [% "aiuiui"] .
+*AVI:	aixeca el peu [= te un cercol a la ma] .
+*AVI:	aixeca el peu , aixi (.) mira .
+*CHI:	0 .
+%act:	en comptes d' aixecar el peu , l' abaixa
+*AVI:	pum@c [= li fica el cercol dins el peu] !
+*AVI:	un .
+*CHI:	la treus [% "a teus" , es treu el cercol del peu] .
+*CHI:	va .
+*AVI:	va .
+@Comment:	a vol tirarli un altre cercol al peu , pero l se li avanca , li pren el cercol i el tira a terra
+*AVI:	ole [= enf] !
+*AVI:	ole [= enf] !
+*CHI:	0 .
+%act:	va fent correr el cercol amb la ma , mentre va marxant a quatre grapes
+*AVI:	vale .
+*AVI:	ala !
+*AVI:	ale !
+*CHI:	ai [= queixant'se , llanca el cercol una mica lluny] !
+*AVI:	<asa@c (hala) aqui> [>] !
+*CHI:	oi [<] [= seu recolzant'se al sofa] !
+*AVI:	asa@c hala [/?] aqui !
+*CHI:	ui !
+*AVI:	ui !
+*AVI:	tira'me'ls (.) a mi .
+*AVI:	te (.) tira'me'ls (.) a mi .
+*AVI:	vine .
+*AVI:	va .
+*CHI:	va .
+*AVI:	va .
+*AVI:	si .
+*CHI:	pcf [% "tes"] .
+*AVI:	si .
+*AVI:	vinga .
+*CHI:	0 .
+%act:	llanca un cercol
+*AVI:	ole !
+*AVI:	un altre .
+*AVI:	te [= llanca un cercol] .
+*CHI:	ai !
+*CHI:	ai [= mentre s' aixeca i va cap al balco a buscar el cercol que ha llancat] !
+*AVI:	porta'ls .
+*AVI:	te .
+*AVI:	que vols (.) ara ?
+*AVI:	que vols ?
+*AVI:	porta els aros .
+*AVI:	porta'ls .
+*AVI:	molt be .
+*AVI:	molt be .
+*CHI:	0 .
+%act:	agafa el cercol i el porta corrent fins a
+*AVI:	molt be .
+*AVI:	alcala@c hala [/?] !
+*CHI:	pilar [% "ia"] .
+*MAR:	0 .
+%act:	apareix a la porta
+*MAR:	on vas (.) descalca ?
+*CHI:	pcf [% "aaaa"] .
+*MAR:	on vas (.) descalca ?
+*MAR:	vine .
+*MAR:	que et (.) posare (.) les sabates .
+*MAR:	vine .
+*AVI:	digues'li [% "diga'li"] (.) m' he tret (.) les sabates .
+*MAR:	vine (.) que te les (.) has de posar [= agafa l i la porta fins al sofa] .
+*MAR:	has de posar (.) les sabates .
+*MAR:	vine .
+*CHI:	pcf [% "aaa" , baixant del sofa] .
+*MAR:	posa't (.) les sabates .
+*MAR:	corre .
+*CHI:	la treus [% "a teus"] .
+*AVI:	treus ?
+*MAR:	no .
+*MAR:	no .
+*CHI:	0 .
+%act:	s' allunya
+*MAR:	posem (.) les altres ?
+*MAR:	posem (.) les espardenyetes ?
+*CHI:	altres [% "ates"] .
+*MAR:	si .
+*MAR:	les altres si ?
+*MAR:	espera't [= se'n va cap a l' habitacio i l la segueix] .
+*AVI:	espera't (.) laura .
+*AVI:	vine .
+@Comment:	hi ha un tall a la cinta , al menjador , a i l estan jugant amb els cercols , a esta seguda
+*CHI:	pcf [% "aaa"] .
+*AVI:	te , mira .
+*CHI:	pcf [% "aaa"] .
+*AVI:	si , aixo .
+*AVI:	mira [= agafant els cercols i la peca] .
+*CHI:	pcf [% "oquie , oquie"] .
+*CHI:	pcf [% "ni"] .
+*AVI:	si mira (.) aqui [= li posa tots els cercols i la peca junt i altres peces] .
+*CHI:	pcf [% "aninocota"] .
+*CHI:	cadira [% "adira"] .
+*AVI:	0 .
+%act:	ha portat una cadira petita
+*CHI:	hum !
+*CHI:	seu [= aixecant'se de terra] .
+*AVI:	tu seu aqui [= assenyalant a terra] .
+*AVI:	jo aqui [= seu a la cadira] .
+*AVI:	te [= li ensenya una peca i li dona] .
+*AVI:	quina vols ?
+*AVI:	els ninos ?
+*CHI:	oh [= enf , mirant la peca que te un dibuix] !
+*CHI:	cotxe .
+*AVI:	el cotxe .
+*AVI:	mira .
+*AVI:	un altre cotxe [= i li dona una altra peca] .
+*CHI:	0 .
+%act:	li agafa la ma esquerra
+*CHI:	ai [= li ha caigut una peca a terra , que estava enganxada a la que ella ha agafat] !
+*AVI:	ai !
+*CHI:	cau , cau .
+*AVI:	cau , cau .
+*CHI:	brum@c [= fent el soroll d' un cotxe , com si la peca fos un cotxe] .
+*AVI:	brum@c .
+*AVI:	mira .
+*AVI:	aixi .
+*AVI:	escolta'm tu .
+*AVI:	mira , veus .
+*AVI:	mira quin nas [= li ensenya la peca dels cercols] .
+*CHI:	pcf [% "io" , mirant cap a la camera i ensenyant una peca] .
+*AVI:	mira , un nas .
+*AVI:	tu .
+*AVI:	que es aixo [= assenyalant la peca dels cercols que te a la ma] ?
+*CHI:	nas .
+*AVI:	nas .
+*AVI:	un nas .
+*AVI:	mira , un nas .
+*AVI:	que es aixo [= tocant el seu nas] ?
+*AVI:	que es aixo ?
+@Comment:	hi ha un tall a la cinta , mateixa situacio
+*AVI:	el cotxe .
+*CHI:	0 .
+%act:	te una peca a la ma amb el dibuix d' un cotxe
+@Comment:	a deixa a terra la peca dels cercols , davant de l
+*AVI:	au , tira [= li dona dos cercols a l] .
+*CHI:	0 [= no agafa els cercols] .
+*AVI:	tira .
+*CHI:	pcf [% "aaa"] .
+*AVI:	si .
+*AVI:	tira amb els aros .
+*CHI:	pcf [% "noie"] .
+*AVI:	aixo es el cotxe (.) i aixo es la roda [= li ensenya una peca] .
+*AVI:	veus , una roda .
+*CHI:	pcf [% "aaaa"] .
+*AVI:	una roda .
+*AVI:	aixo son nens (.) que van en cotxe [= li ensenya un altre peca] .
+*AVI:	i fan (.) brum@c [= fa el soroll d' un cotxe] .
+*AVI:	van de passeig .
+*AVI:	veus (.) aqui hi ha (.) la pilar [= agafa una altra peca i l'assenyala] .
+*AVI:	i en joan .
+*AVI:	mira en joan .
+*AVI:	qui es aquest ?
+*CHI:	joan [% "oan"] .
+*AVI:	i aquesta [= assenyalant] ?
+*CHI:	imma .
+*AVI:	si , es la imma .
+*AVI:	si .
+*CHI:	pcf [% "iaia"] .
+*CHI:	pcf [% "paia"] .
+*CHI:	pcf [% "iaia"] .
+*CHI:	pcf [% "aia"] .
+*AVI:	i l' ana .
+*AVI:	on es l' ana .
+*CHI:	pcf [% "aia"] .
+*CHI:	pcf [% "aia"] .
+*CHI:	pcf [% "aia"] .
+*CHI:	pcf [% "caia"] .
+*AVI:	<qui es aquest> [>] ?
+*CHI:	<pcf [% "caia"]> [<] .
+*CHI:	joan [% "oan"] .
+*AVI:	en joan .
+*AVI:	tots son (.) en joans per ella .
+*AVI:	si .
+*CHI:	joan [% "oan"] .
+*AVI:	joan , si .
+*AVI:	qui son aquests ?
+*CHI:	0 [= te una peca a la ma , que esta mirant] .
+*AVI:	mira l' emma [= assenyalant la peca que te l] .
+*AVI:	on es l' emma ?
+*CHI:	imma .
+*AVI:	l' emma .
+*CHI:	la imma .
+*AVI:	i la laura ?
+*AVI:	on es la laura ?
+*AVI:	ensenya'm , ensenya'm (.) la laura .
+*CHI:	0 [= mira la peca atentament] .
+*AVI:	laura .
+*CHI:	0 [= mira a sorpresa] .
+*AVI:	digues laura .
+*CHI:	pcf [% "aia"] .
+*AVI:	emma .
+*CHI:	pcf [% "tau" , llanca la peca amb forca] .
+*AVI:	l' emma .
+*AVI:	en joan i (.) la pilar .
+*AVI:	eh , no !
+*CHI:	ale [= s' aixeca de terra] !
+*AVI:	ale [= agafant una peca del terra] !
+*CHI:	pcf [% "daieda"] .
+*CHI:	0 .
+%act:	s' apropa a a i li pren la peca
+*CHI:	0 .
+%act:	llanca la peca a terra
+*AVI:	que vols [= aixecant'se de la cadira] ?
+*CHI:	pcf [% "a cuca" , agafant la ma d' a] .
+*AVI:	a vols seure tu ?
+*AVI:	te .
+*AVI:	seu (.) seu (.) vine , vine [= agafa la cadira] .
+*AVI:	seu (.) seu [= li fica a la banda on es l] .
+*CHI:	<que cau> [>] .
+*AVI:	<seu tu> [<] (.) si home .
+*CHI:	0 .
+%act:	seu a la cadira
+*AVI:	aixi seu [= li fica be la cadira] .
+*AVI:	vols fer xxx aixi [= agafa la cadira de darrera i comenca a engronsar'la] .
+*CHI:	hum !
+*AVI:	aixi , aixi .
+*AVI:	xxx xxx [% "sim sam"] .
+*AVI:	xxx xxx [% "sim sam"] .
+*CHI:	hum [= sembla que no li agradi] !
+*AVI:	aixi .
+*AVI:	aixi (.) com ho vols fer [= deixa la cadira a terra] ?
+*CHI:	0 .
+%act:	es gira i li treu la ma de la cadira a a
+*AVI:	com ?
+*AVI:	aixi [>] .
+*CHI:	<pcf [% "a ma" , assenyalant cap el costat]> [<] .
+*CHI:	tu xxx [% "tu llalli" , podria voler dir tu alli] .
+*CHI:	alla [= assenyalant cap el costat] .
+*AVI:	alla .
+*CHI:	pcf [% "a"] .
+*AVI:	jo , alla ?
+*AVI:	no ?
+*CHI:	pcf [% "a"] .
+*AVI:	on ?
+*AVI:	on em poso jo ?
+*AVI:	a on [= s' ajup al costat de l] ?
+*AVI:	aqui .
+*AVI:	te [= li dona una peca] .
+*AVI:	te el cotxe .
+*CHI:	0 .
+%act:	ho llanca amb la ma dreta cap l' altre costat
+*AVI:	ui !
+*CHI:	0 .
+%act:	s' aixeca de la cadira
+*AVI:	aixi (.) ben a l' aire .
+*AVI:	vinga .
+*CHI:	0 .
+%act:	agafa la peca
+*AVI:	te [= agafa totes les joguines] .
+*AVI:	tira'ls .
+*AVI:	te (.) seu [= posa totes les joguines davant l] .
+*AVI:	seu .
+*AVI:	tira'ls aqui [= amb els cercols a la ma] .
+*AVI:	fes aixi .
+*AVI:	mira , mira .
+*AVI:	mira .
+*AVI:	pum@c [= llanca el cercol] .
+*AVI:	oi [% "ouh"] !
+*AVI:	tira'ls'hi [= donant'li un cercol a l] .
+*CHI:	pum@c [= llanca el cercol cap l' altre costat] .
+*AVI:	ui !
+*AVI:	pum@c !
+*CHI:	0 .
+%act:	s' aixeca a buscar el cercol que ha llancat
+*CHI:	0 .
+%act:	torna amb el cercol
+*AVI:	ala !
+*AVI:	fes aqui , (.) fes pum@c .
+*CHI:	0 .
+%act:	seu un altre cop a la cadira
+*AVI:	va [= agafant cercols del terra] .
+*CHI:	0 .
+%act:	s' aixeca i agafa un altre cercol que hi havia a terra
+*CHI:	xxx pum@c [% "a pum" , llanca els cercols pero no encerta] .
+*AVI:	pum@c !
+*AVI:	0 [= riu , mirant a l] .
+*CHI:	cau [= sembla que mirant a la camera] .
+*AVI:	cau .
+*AVI:	va te (.) un altre (.) te [= donant'li un cercol] .
+*CHI:	0 .
+%act:	s' apropa a la camera mirant
+*AVI:	vine .
+*AVI:	vine .
+*AVI:	vine .
+*CHI:	<ja , ja> [>] .
+*AVI:	<(te) te'ls portare> [<] .
+*AVI:	si ha caigut , si .
+*AVI:	vine .
+*CHI:	caigut [% "igut" , mirant a terra] .
+*INV:	ja ho veig que ha caigut , ja .
+*AVI:	si , vine .
+*CHI:	0 .
+%act:	es gira i va cap l' altre costat a buscar un cercol
+*AVI:	si .
+*AVI:	vine , vine .
+*AVI:	mira [= ensenyant'li els cercols] .
+*AVI:	seu [= picant amb els cercols a la cadira] .
+*AVI:	pcf [% "ai"] .
+*CHI:	0 .
+%act:	torna corrent cap a la camera i mira fixament amb els cercols a la ma
+*AVI:	<xxx te [% "&it te"]> [>] .
+*CHI:	<ja , ja , ja> [<] [= oferint'li els cercols a e] .
+*INV:	m' ho dones ?
+*CHI:	0 .
+%act:	es gira cap a a
+*INV:	no ?
+*CHI:	pum@c [% "tium" , llenca els cercols] .
+*AVI:	pum@c [= recollint els cercols del terra] .
+*CHI:	ai , ai [= anant a buscar el cercol que ha llencat] !
+*AVI:	ai !
+*CHI:	ai , ai [= recollint el cercol del terra] !
+*AVI:	<te , te> [>] [= picant amb els cercols a la cadira] .
+*CHI:	<pcf [% "acuca" , va cap l' altre costat del salo]> [<] .
+*CHI:	pcf [% "an an" , li mostra a e un cercol i un elefant de fusta] .
+*AVI:	l' elefant , l' elefant .
+*INV:	ah !
+*INV:	molt be !
+*AVI:	l' elefant .
+*CHI:	ai [= mirant e] !
+*AVI:	on es l' oca [% "on tes l' oca] ?
+*AVI:	on es l' oca [% "on tes l' oca] ?
+*CHI:	pcf [% "aa" , mirant'se el cercol i l' elefant] .
+*AVI:	xxx on es l' oca [% "xxx on tes l' oca] ?
+*AVI:	porta l' oca (.) corre .
+*CHI:	oh !
+*AVI:	porta l' oca (.) si .
+*AVI:	l' oca .
+*CHI:	pcf [% "io" , mostrant l' elefant a e] .
+*AVI:	aixo es l' elefant .
+*CHI:	xxx pum@c [% "a pum" , llencant l' elefant] .
+*AVI:	pum@c .
+*AVI:	aixo mateix .
+*CHI:	oi [= agafant un altre peca del terra] !
+*AVI:	l' oca .
+*AVI:	on es l' oca [% "on tes l' oca"] ?
+*CHI:	0 .
+%act:	va cap a a amb la peca que ha agafat a la ma
+*AVI:	mira .
+*AVI:	mira .
+*AVI:	mira .
+*AVI:	aqui l' oca [= agafant l' oca del terra] .
+*CHI:	pcf [% "aai"] .
+*AVI:	mira , mira (.) l' oca , mira [= li ensenya una peca] .
+*AVI:	que es aixo ?
+*CHI:	oca .
+*AVI:	l' oca , te .
+*CHI:	hum [= mirant a] !
+*AVI:	l' oca , va .
+*AVI:	com fa l' oca ?
+*AVI:	com fa ?
+*AVI:	moac@c , moac@c .
+*AVI:	moac@c , moac@c [= acompanya el so amb moviments de la ma] .
+*AVI:	que fa l' oca ?
+*AVI:	que fa ?
+*CHI:	0 [= mira a] .
+*CHI:	oca .
+*AVI:	moac@c , moac@c [= mou la ma a la mateixa vegada] .
+*CHI:	moac@c [= mentre seu a terra , al costat del sofa] .
+*AVI:	si .
+*CHI:	0 [= mira a la camera] .
+*AVI:	te l' oca , te .
+*AVI:	xxt@c te .
+*CHI:	0 .
+%act:	seu be a terra
+*CHI:	pcf [% "eiac" , traient'se el cercol que te ficat al brac] .
+*CHI:	0 .
+%act:	s' arrossega pel terra fins arribar a prop de les joguines de fusta
+*AVI:	para , para xxx ?
+*CHI:	pcf [% "aieu" , mentre s' arrossega] .
+*AVI:	aixeca el brac .
+*AVI:	aixeca el brac .
+*CHI:	0 .
+%act:	s' aixeca i va cap on esta segut a
+*AVI:	aixeca el brac .
+*AVI:	si .
+*AVI:	aixeca el brac [= mentre aixeca ell el brac , perque l ho vegi] .
+*AVI:	aixi , aixi (.) fes aixi .
+*CHI:	pcf [% "aae" , llencant el cercol que portava a la ma] .
+*AVI:	0 .
+%act:	intenta aixecar'li el brac a l
+*CHI:	pcf [% "taaa" , agafant a de la ma per que s' aixequi de la cadira] .
+*AVI:	aixeca .
+*AVI:	au , seu tu !
+*AVI:	seu .
+*CHI:	0 .
+%act:	seu a la cadireta
+*AVI:	te , mira .
+*AVI:	pum@c , una [= llancant'li un cercol] .
+*CHI:	ai [= s' aixeca per agafar el cercol] !
+*AVI:	ai !
+*CHI:	0 .
+%act:	ho agafa , sembla que seu , i va cap a les joguines de fusta
+*AVI:	seu alla , seu .
+*CHI:	0 .
+%act:	torna cap a la cadira i seu
+*AVI:	te , xxt@c .
+*AVI:	mira .
+*CHI:	pcf [% "aua" , mirant que fa a] .
+*AVI:	a l' una (.) a les dues (.) a les tres [= enf , li llanca un cercol] .
+*CHI:	0 [= mira a a] .
+*AVI:	au , fes ho tu ara !
+*AVI:	a la una +...
+*AVI:	a les dues +...
+*CHI:	pcf [% "ina" , llencant el cercol] .
+*AVI:	a les tres .
+*AVI:	ara jo .
+*AVI:	mira , xxt@c .
+*CHI:	0 .
+%act:	s' aixeca per agafar el cercol que ha llancat
+*AVI:	va , a la una +...
+*CHI:	0 .
+%act:	llanca el cercol
+*AVI:	oh !
+*CHI:	0 .
+%act:	corre cap a on a caigut el cercol
+*CHI:	pcf [% "oou" , es mira a] .
+*AVI:	no dona .
+*AVI:	no res , no res [= gesticulant a la vegada amb el brac] .
+*AVI:	porta l' aro , porta .
+*CHI:	0 .
+%act:	s' ajup per agafar el cercol del terra
+*AVI:	no res allo .
+*AVI:	digues , apa !
+*AVI:	digues'li (.) apa [% "diga'li apa"] .
+*CHI:	0 [= mira a] .
+*CHI:	apa [= imitant la gesticulacio que fa a] !
+*CHI:	au [= gesticulant amb el brac] !
+*AVI:	au !
+*CHI:	au [= caminant al voltant de la taula] .
+*CHI:	pcf [% "xu" , llanca el cercol que portava a la ma] .
+*AVI:	ale !
+*CHI:	allo [= agafant una caixa de sobre la taula] .
+*AVI:	no .
+*AVI:	aixo no .
+*CHI:	imma [= intentant agafar'ho] .
+*AVI:	ah !
+*AVI:	es de l' imma aixo ?
+*CHI:	0 .
+%act:	agafa la capsa
+*AVI:	de l' emma ?
+*AVI:	te [= oferint'li un cercol] .
+*AVI:	vine , vine .
+*CHI:	0 .
+%act:	amb la capsa seu a terra
+*AVI:	au , posa , te (.) , el nino .
+*CHI:	0 .
+%act:	obre la capsa , sembla que no li faci cas a a
+*AVI:	posa el nino .
+*AVI:	corre .
+*AVI:	el cotxe .
+*CHI:	0 .
+%act:	manipula la caixa
+*CHI:	emma .
+*CHI:	imma .
+*AVI:	si .
+*CHI:	imma , imma [= mirant a i manipulant la capsa a la vegada] .
+*AVI:	emma , si .
+*CHI:	ja , ja [= obrint la caixa] .
+*AVI:	l' emma (.) posa els cotxes aqui [= agafant la part de la caixa que ha caigut al obrir'la] .
+*AVI:	posa'hi +...
+*AVI:	un [= ficant peces a la capsa] .
+*AVI:	dis [/?] dos [= continua ficant peces] .
+*AVI:	tres [= ficant peces] .
+*CHI:	no [= allarga la lletra o , queixant'se , li treu la capsa a a] .
+*CHI:	pcf [% "autu tu" , agafa la capsa i llenca les peces que hi havia dins] .
+*AVI:	oh !
+*CHI:	pcf [% "auvi"] .
+*CHI:	pcf [% "dido"] .
+*CHI:	pcf [% "cotaqui" , intentant tancar la capsa] .
+*AVI:	no xafis (.) fort .
+*AVI:	xxt@c , no !
+*AVI:	posa'ho be .
+*CHI:	ai !
+*AVI:	ai , ai !
+*CHI:	pcf [% "ou" , treu la tapa i ho intenta posar be] .
+*AVI:	ai , ai !
+*AVI:	ai , l' emma !
+*AVI:	que fara l' emma ?
+*AVI:	que fara ?
+*CHI:	pam@c [= intentant tancar la capsa] .
+*AVI:	et fara pam@c pam@c [= movent la ma , com si li pegues] .
+*AVI:	a on ?
+*AVI:	que fara l' emma ?
+*AVI:	que fara ?
+*CHI:	xxx cau , oi [% "a cau , oi" , li mostra a a les dues parts de la capsa] .
+*CHI:	cau [>] [= mostrant'li la capsa] .
+*AVI:	<et fara> [<] +...
+*AVI:	eh !
+*AVI:	pam@c pam@c , al cul [= gesticula amb la ma] .
+*AVI:	eh !
+*CHI:	0 .
+%act:	escolta el que diu a , mentre continua manipulant la capsa
+*AVI:	on ho tens el culet ?
+*AVI:	on ho tens el culet ?
+*CHI:	0 [= assenyala el seu culet amb la ma] .
+*AVI:	i que et fa la iaia ?
+*AVI:	que et fa la iaia ?
+*CHI:	pam@c pam@c [= picant'se al culet] .
+*AVI:	a on [= rient] ?
+*CHI:	pcf [% "queica" , jugant amb la caixa] .
+*AVI:	si .
+*AVI:	vine [= es treu un mocador de la butxaca] .
+*AVI:	vine , digues xxx .
+*AVI:	el moquinyo [= mentre li neteja el nas amb el mocador] .
+*AVI:	ale !
+*CHI:	pcf [% "aaa" , juga amb la capsa i les peces de fusta] .
+*AVI:	mira , mira .
+*AVI:	mira [= aixecant'li el peu i ficant'li un cercol al peu] .
+*AVI:	oh !
+*AVI:	oh !
+*CHI:	treu [% "a teu" , intentant treure's el cercol] .
+*AVI:	treu .
+*AVI:	posa .
+*AVI:	posa'ho aqui [= intenta ficar un altre cercol] .
+*AVI:	aixi .
+*CHI:	0 .
+%act:	es vol treure els dos cercols que li ha ficat a
+*AVI:	0 [= riu , veient l] .
+*CHI:	0 .
+%act:	es treu els cercols
+*AVI:	fora [= enf] !
+*CHI:	sabates [% "ates"] .
+*CHI:	sabates [% "aates"] .
+*AVI:	fora [= enf] .
+*AVI:	una [= ficant'li cercols al peu] .
+*CHI:	sabates [% "ates" , agafant'se la sabata] .
+*AVI:	dues [= ficant'li un altre cercol] .
+*CHI:	pcf [% "aah" , com queixant'se] .
+*AVI:	un altre .
+*CHI:	sabates [% "ates"] .
+*CHI:	sabates [% "ates"] .
+*AVI:	tres [= ficant'li cercols] .
+@Comment:	sembla que a no li vulgui fer cas
+*CHI:	sabates , sabates [% "ates , ates" , agafant'se la sabata] .
+*AVI:	les sabates .
+*AVI:	les sabates , si [= continua amb els cercols] .
+*AVI:	mira , mira .
+*AVI:	posa'm [= li torna a ficar cercols als peus] .
+*CHI:	0 .
+%act:	continua agafant'se la sabata
+*CHI:	0 .
+%act:	es treu el cercol que ha ficat a
+*AVI:	un altre .
+*AVI:	posem'hi [= amb el cercol preparat per llancar'ho] .
+*CHI:	0 .
+%act:	s' agafa la cama mirant'se'la
+*AVI:	no treguis (.) no [= donant'li un copet a la sabata amb el cercol] .
+*AVI:	xxt@c , no !
+*AVI:	no .
+*AVI:	ai , la pilar !
+*CHI:	0 .
+%act:	intenta treure's la sabata
+*AVI:	xxt@c [= con renyant'la] !
+*AVI:	ai , la pilar !
+*CHI:	ja esta [% "ja ta" , deixa la capsa que tenia agafada amb l' altra ma i s' aixeca] .
+*AVI:	au , te !
+*AVI:	ja esta .
+*AVI:	ja esta .
+*CHI:	au !
+*AVI:	au !
+*CHI:	0 .
+%act:	se'n va corrent cap al passadis
+*AVI:	xxx els bomberos !
+*AVI:	xxx els bomberos !
+@Comment:	l torna al salo
+*AVI:	xxx els bomberos .
+*CHI:	pilar [% "ia"] .
+*AVI:	si .
+*CHI:	pilar [% "ia"] .
+@Comment:	frame=4143 , hi ha un tall , estan al salo , l intenta pujar al sofa i porta a la ma un conte del teo , a esta parlant , pero no se l' enten , sembla que parli amb m
+*AVI:	xxx que t' ho expliqui ?
+*AVI:	0 .
+%act:	amb la cadireta i un conte a la ma seu al costat del sofa on es l
+*AVI:	mira , mira que t' ho explicare .
+*CHI:	pcf [% "iai"] .
+*AVI:	vine .
+*AVI:	veus (.) una vegada (.) l' emma [= obre el conte del teo] .
+*AVI:	i la laura (.) han anat a mallorca .
+*CHI:	0 .
+%act:	obre el conte i comenca a passar fulls
+*AVI:	van anar +...
+*AVI:	mira que t' ho explicare .
+*AVI:	mira [= agafant els fulls que l va passant] .
+*AVI:	veus (.) van anar (.) al port .
+*CHI:	0 [= para de passar fulls] .
+*AVI:	0 .
+%act:	torna els fulls
+*CHI:	0 [= mira el que li ensenya a] .
+*AVI:	hi en el port havia un barco .
+*CHI:	barco [% "baco"] .
+*AVI:	si , havia un barco .
+*AVI:	veus [= va passant els fulls] .
+*AVI:	mira quin barco mes maco [= assenyalant en el llibre] .
+*CHI:	0 [= mira a i el conte] .
+*AVI:	veus aquest barco [% "ves aquest barco" , assenyalant] +...
+*CHI:	pcf [% "aaa" , apropant mes la mirada] .
+*AVI:	veus ?
+*AVI:	i fa +...
+*AVI:	i quan ha de marxar del port (.) fa (.) xxx [= la xxx es el soroll com de la sirena] .
+*CHI:	pcf [% "ne ne bu" , movent la ma esquerra] .
+*AVI:	fa xxx [% la xxx es la sirena , assenyalant] .
+*CHI:	pcf [% "ne ne bu" , bellugant les dues mans i mirant a] .
+*AVI:	que fa el barco ?
+*AVI:	que fa ?
+*CHI:	pcf [% "ne ne bu" , segueix movent les mans] .
+*AVI:	xxx [= fa el soroll de la sirena i mou la ma] .
+*AVI:	i veus (.) i va pujar aqui dalt [= assenyalant] .
+*CHI:	0 [= mira el conte] .
+*AVI:	veus (.) i a [/?] llavors aqui (.) l' emma (.) es banyava [= assenyala el conte] .
+*AVI:	i tu (.) reies .
+*CHI:	0 .
+%act:	agafa un costat del conte i intenta treure alguna cosa del conte
+*AVI:	deies emma , emma .
+*AVI:	no , no el lleves [= traient'li la ma] .
+*AVI:	no .
+*AVI:	veus , veus .
+*AVI:	aqui hi ha una bandera .
+*AVI:	veus .
+*AVI:	i va marxar (.) per l' aigua .
+*AVI:	va marxar [= assenyalant el conte] .
+*CHI:	0 [= mira el conte i escolta el que diu a] .
+*AVI:	i marxava , marxava (.) cap alla [= assenyalant com marxa] .
+*AVI:	veus (.) i despues +...
+*CHI:	0 [= va mirant el conte] .
+*CHI:	0 .
+%act:	es va tocant el cabell
+*AVI:	al cap d' una estona (.) la pilar +...
+*CHI:	pcf [% "iaia" , assenyalant el conte] .
+*AVI:	la pilar (.) es banyava per aqui [= assenyalant] .
+*AVI:	la iaia es banyava per aqui .
+*AVI:	la iaia [= assenyalant el conte] .
+*AVI:	en joan es banyava per aqui .
+*AVI:	per aqui .
+*AVI:	veus [= assenyalant] ?
+*CHI:	ja [= agafant el conte] .
+*AVI:	si i aqui (.) mira , veus .
+*AVI:	mira (.) veus [= assenyalant l' altra pagina] .
+*AVI:	0 .
+%act:	li assenyala a l l' altre part del conte
+*CHI:	0 [= mira atentament] .
+*AVI:	mira l' emma com llegeix .
+*AVI:	veus (.) l' emma [= assenyalant amb el dit] .
+*AVI:	l' emma , llegeix (.) un cuento [= assenyala com fent un cercle] .
+*AVI:	llavors aquest cuento (.) te l' explicava a tu .
+*AVI:	veus [= passant full] ?
+*CHI:	pcf [% "aaa" , cridant i ajudant a passar el full] .
+*AVI:	mira (.) veus (.) si .
+*AVI:	i vam anar alla a la platja .
+*AVI:	veus , diu mallorca [= assenyalant els dibuixos que te aquest full] .
+*CHI:	0 [= mira atentament i escolta el que diu a] .
+*AVI:	i quasi que tu no el tenies .
+*CHI:	0 .
+%act:	es separa una mica i fica les mans als bracos del sofa
+*AVI:	veus (.) que hi ha aqui ?
+*AVI:	que es aixo [= assenyalant un canto de la part de dalt del llibre] ?
+*CHI:	pcf [% "cue" , assenyalant] .
+*AVI:	xxx .
+*CHI:	pcf [% "acute" , assenyalant] .
+*AVI:	mira [= assenyalant] .
+*AVI:	oh , que hi ha aqui ?
+*CHI:	0 .
+%act:	mentre a parla , va movent el dit sobre el llibre com assenyalant moltes coses a la vegada
+*AVI:	mira (.) vam anar a la platja (.) i teniem la galleda .
+*AVI:	mira [= assenyala] .
+*CHI:	0 [= para de moure el dit i mira el que a assenyala] .
+*CHI:	pcf [% "tata" , potser es refereix a galleda o a pala] .
+*AVI:	la pala [= continua assenyalant] .
+*AVI:	la barca (.) per anar a passeig [= assenyalant'li] .
+*AVI:	veus .
+*AVI:	i tu pujaves aqui ?
+*AVI:	fes un castell [= li va assenyalant tot el que li diu] .
+*AVI:	i mira la pilar (.) s' ho mirava (.) veus .
+*CHI:	0 [= mira i escolta atentament] .
+*AVI:	si .
+*AVI:	i hi havia nens (.) que jugaven .
+*AVI:	a que jugaven aquest nens ?
+*AVI:	a que jugaven ?
+*CHI:	0 [= mira els nens que assenyala a] .
+*CHI:	pilota [% "ota" , assenyalant cap el llibre] .
+*AVI:	a pilota , si .
+*AVI:	mira veus , la pilota [= assenyala] .
+*CHI:	pilota [% "ota"] .
+*AVI:	<pilota , si , si> [>] .
+*CHI:	pilota [<] [% "ota"] ?
+*AVI:	la pilota , si .
+*AVI:	xuta .
+*AVI:	xuta .
+*AVI:	mira com xuta [= assenyalant] .
+*AVI:	veus (.) xutaven (.) i es guanyaven .
+*AVI:	xxx i es guanyaven [= assenyala] .
+*AVI:	xxx xxx [% "patxi patxa"] .
+*AVI:	xxx xxx [% "patxi patxa"] .
+*AVI:	com ho feien , aixi ?
+*AVI:	com ho feien ?
+*CHI:	pcf [% "oca" , mirant l' altre full] .
+*AVI:	feien xxx xxx [% "feien patxi , patxa"] .
+*AVI:	aixi , a l' aigua [= picant al llibre] .
+*AVI:	mira , veus (.) aquesta nena !
+*CHI:	0 .
+%act:	agafa el full i el gira amb impetu
+*AVI:	gira el full .
+*AVI:	pero (.) poc a poc (.) espera [= torna a gira els fulls i passa nomes un] .
+@Comment:	l havia passat mes d' un
+*AVI:	espera't , espera't .
+*AVI:	despres , veus +...
+@Comment:	a continua explicant un conte a l , segons el que van veien als dibuixos , a gira un full cap enrera
+*AVI:	tornem'hi .
+*AVI:	mira , barco , barco .
+*AVI:	que fa el barco (.) que fa ?
+*CHI:	uuh@c <soroll de vaixell> [/?] [% "umm"] .
+*AVI:	uuh@c uuh@c <soroll de vaixell> [/?] .
+*CHI:	0 .
+%act:	assenyala el vaixell d' un costat a un altre del full
+*AVI:	veus (.) uuh@c uuh@c <soroll de vaixell> [/?] .
+*AVI:	fa soroll el barco .
+*CHI:	barco , barco [% "baco , baco" , girant el full] .
+*AVI:	el barco , si .
+*CHI:	barco , barco [% "baco , baco"] ?
+*CHI:	0 .
+%act:	va girant fulls com si busques mes vaixells
+@Comment:	a li va contestant cada full que passa
+*AVI:	si maco , el barco .
+@Comment:	a intenta que l s' estigui quieta i li deixi explicar coses , l va girant fulls i diu alguna vegada la paraula barco " dient baco , com si continues buscant , a , a cada full , li intenta explicar coses , l sense ferli cas continua buscant
+*CHI:	0 .
+%act:	passa un full
+*CHI:	ara [= amb veu alta , com si hagues trobat ho que buscava] .
+*AVI:	ara (.) ara tenim el barco , veus .
+*CHI:	sabata , sabata , sabata [% "ata , ata , ata" , assenyalant] .
+@Comment:	a no enten a l i comenca a explicarli coses del vaixell
+*CHI:	la treus [% "a teus" , aixecant el peu i ensenyant'li] .
+*AVI:	si , el peu .
+*CHI:	sabata [% "ata" , tocant'se'la] .
+*AVI:	te la vols treure ?
+*AVI:	ja esta [= amagant'li el peu] .
+*AVI:	mirem , mirem el barco (.) mirem .
+*CHI:	oh !
+*AVI:	veus .
+*AVI:	el barco va fer una excursio .
+*CHI:	0 [= mira el que assenyala a] .
+*AVI:	primer va pujar l' emma .
+*AVI:	xxx va pujar la pilar .
+*AVI:	despres va pujar en joan .
+*AVI:	0 .
+%act:	va assenyalant com van pujant les diferents persones
+*CHI:	treu , treu , treu [% "teu , teu , teu" , assenyalant] .
+@Comment:	a va dient coses , com si no entengues el que diu l
+*AVI:	el tren .
+*AVI:	el tren , no ?
+*CHI:	pcf [% "jeu"] .
+*AVI:	que fa el tren , tambe ?
+*CHI:	pcf [% "jeu , jeu , jeu"] .
+*AVI:	si , vaig , vaig .
+*AVI:	i una barca .
+@Comment:	a comenca a explicar coses sobre el vaixell , l no li fa molt cas
+*CHI:	0 .
+%act:	passa full
+*AVI:	ja esta .
+*AVI:	mira el peix .
+*AVI:	veus ?
+@End
