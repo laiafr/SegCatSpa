@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|2;0.4||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	14-NOV-1995
+@Location:	in the sitting-room
+@Activities:	MIR is sitting on an armchair playing with a telephone
+@Comment:	MOT is video-taping
+*MIR:	0 .
+%act:	rests her legs on the arm of the armchair
+*MOT:	hola !
+*MOT:	què fas així (.) eh ?
+*MIR:	0 .
+%act:	shows a battery to MOT
+*MIR:	això ?
+*MOT:	el què ?
+*MOT:	ah (.) una pila .
+*MOT:	s'ha trencat el telèfon (.) s'ha trencat (.) què fas (.) què fas ?
+*MIR:	0 .
+%act:	puts the battery in the phone
+*MIR:	aquí (.) aquí (.) aquí .
+*MIR:	a poso a piles .
+*MOT:	poso les piles (.) t'ajudo ?
+*MIR:	a tapa (.) mama (.) a tapa ?
+*MOT:	no sé on t'ès .
+*MOT:	s'ha perdut ?
+*MIR:	sí (.) és igual .
+*MOT:	funciona ?
+*MIR:	sí .
+%act:	presses a button and puts the phone next to her ear to listen to the music it makes
+*MOT:	què diu ?
+*MIR:	bona tarda (.) operador .
+*MOT:	bona tarda (.) operador .
+*MIR:	a fer a casa ati@c ?
+%exp:	grandmother
+*MOT:	ho vas fer a casa ati@c (.) sí (.) sí que ho vas fer (.) vas fer lo
+	de la ranita .
+*MIR:	tothom .
+*MOT:	tothom va dir (.) bravo !
+*MIR:	xxx .
+*MOT:	en Ton ?
+*MIR:	a ton [= ?] .
+*MOT:	què pasa amb en ton (.) eh ?
+@End

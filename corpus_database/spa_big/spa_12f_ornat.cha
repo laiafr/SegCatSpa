@@ -1,0 +1,441 @@
+@UTF8
+@PID:	11312/c-00032791-1
+@Begin
+@Languages:	spa
+@Participants:	CHI María Target_Child , MAD Mother , PAD Father
+@ID:	spa|Ornat|CHI|2;6.||||Target_Child|||
+@ID:	spa|Ornat|MAD|||||Mother|||
+@ID:	spa|Ornat|PAD|||||Father|||
+@Media:	12f, video
+@Comment:	DV Tape is maria12
+@Tape Location:	Z-2;07-521
+@Situation:	María en el baño jugando con una botella.
+*MAD:	www [= habla a Papá] . 0_21081
+*CHI:	uy ! 21081_22560
+%mor:	co|uy !
+*PAD:	no te metas las pompas en la boca hija . 22560_27505
+%mor:	adv|no=no pro:obj|te=you v|mete-2S&SUB&PRES=put pro:obj|la&f-PL=she
+	v|pompa-2S&PRES=blow_bubble prep|en=in det:art|el&FEM&SG=the
+	n|boca&f=mouth n|hijo-FEM=child .
+*CHI:	por_qué ? 27505_28485
+%mor:	pro:int|por_qué=why ?
+*PAD:	pues porque luego te duele la tripa . 28485_30040
+%mor:	co|pues=well conj|porque=because adv|luego=afterwards
+	pro:obj|te=you v|dole-3S&PRES=hurt det:art|el&FEM&SG=the
+	n|tripa&f=belly .
+*MAD:	es una guarrería eso , simplemente por eso . 30040_32191
+%mor:	cop|se-3S&PRES=be det:art|un-FEM=one n|guarrería&f=pigginess
+	pro:dem|eso=that_one cm|cm adv:adj|simple-ADV=simple prep|por=for
+	pro:dem|eso=that_one .
+*PAD:	no te chupes las pompas . 32191_40081
+%mor:	adv|no=no pro:obj|te=you v|chupa-2S&SUB&PRES=suck
+	det:art|el&FEM-PL=the n|pompa&f-PL=bubble .
+*PAD:	joder Tía ! 40081_41835
+%mor:	inf|jode-INF=screw n:prop|Tía !
+*PAD:	mírala , no me hace ni caso . 41835_44295
+%mor:	imp|mira-2S&IMP~pro:clit|OBJ&FEM cm|cm adv|no=no pro:obj|me=me
+	v|hace-3S&PRES=do coord|ni=nor v|casa-1S&PRES=marry .
+*MAD:	0 [% pega la mano de María] . 44295_47790
+*CHI:	&=rie . 47790_49248
+*MAD:	María , no estamos jugando . 49248_51775
+%mor:	n:prop|María cm|cm adv|no=no aux|esta-1P&PRES&PRET=be
+	ger|juga-PROG=play .
+*PAD:	María , te va a doler la tripa . 51775_54958
+%mor:	n:prop|María cm|cm pro:obj|te=you v|i-3S&PRES=go aprep|a=to
+	inf|dole-INF=hurt det:art|el&FEM&SG=the n|tripa&f=belly .
+*MAD:	0 [% pega a María más duro] . 54958_58718
+*PAD:	ya has cobrado . 58718_61720
+%mor:	adv|ya=already aux|habe-2S&PRES=have part|cobra-PPART-MASC=charge .
+*MAD:	xxx .61720_66321
+*PAD:	claro cariño es que luego te duele la tripita . 66321_70915
+%mor:	co|claro=obvious co:voc|cariño=affection cop|se-3S&PRES=be
+	pro:rel|que=that adv|luego=afterwards pro:obj|te=you
+	v|dole-3S&PRES=hurt det:art|el&FEM&SG=the n|tripa-DIM-FEM=belly .
+*MAD:	anda , lávate . 70915_72778
+%mor:	co|anda=come_on cm|cm imp|lava-2S&IMP~pro:clit|2S .
+*MAD:	a_ver qué limpitas tienes las manos xxx . 72778_76271
+%mor:	co|a_ver=see pro:int|qué=what adj|limpio-DIM-FEM-PL=clean
+	v|tene-2S&PRES=have det:art|el&FEM-PL=the n|mano&f-PL=hand .
+*CHI:	tonta . 76271_77041
+%mor:	n|tonto-FEM=dummy .
+*PAD:	es una tonta pela(d)a Mamá , pero tiene razón . 77041_81015
+%mor:	cop|se-3S&PRES=be det:art|un-FEM=one n|tonto-FEM=dummy
+	part|pela-PPART-FEM=peel n:prop|Mamá cm|cm conj|pero=but
+	v|tene-3S&PRES=have n|razón&f=reason .
+*CHI:	tiene razón ! 81015_83430
+%mor:	v|tene-3S&PRES=have n|razón&f=reason !
+%com:	protestando y queriendo decir lo contrario-por el tono
+*MAD:	tengo razón ? 83430_84276
+%mor:	v|tene-1S&PRES=have n|razón&f=reason ?
+*CHI:	por pegarme . 84276_85260
+%mor:	prep|por=for inf|pega-INF~pro:clit|1S .
+*MAD:	a_ver , dejame ver xxx 0 [% besa donde pegó a María] . 85260_88245
+%mor:	co|a_ver=see cm|cm imp|deja-2S&IMP~pro:clit|1S inf|ve-INF=see .
+*PAD:	tienes razón por pegarme . 88245_89076
+%mor:	v|tene-2S&PRES=have n|razón&f=reason prep|por=for
+	inf|pega-INF~pro:clit|1S .
+*PAD:	y lo dice así de muy enfadada . 89076_90350
+%mor:	coord|y=and pro:obj|lo&m=him v|deci-3S&PRES=say adv|así=thus
+	prep|de=of adv|muy=very adj|enfadado-FEM=anger .
+*MAD:	cántame lo del tonto pelado . 90350_93210
+%mor:	imp|canta-2S&IMP~pro:clit|1S pro:obj|lo&m=him prep|de~det|el&MASC
+	n|tonto-MASC=dummy part|pela-PPART-MASC=peel .
+*CHI:	no quiero . 93210_94305
+%mor:	adv|no=no v|quere-1S&PRES=want .
+*MAD:	anda . 94305_95156
+%mor:	co|anda=come_on .
+*MAD:	dime , tonto ⌈pelado⌉ [% empieza a cantar] . 95156_97718
+%mor:	imp|deci-2S&IMP~pro:clit|1S cm|cm n|tonto-MASC=dummy
+	part|pela-PPART-MASC=peel .
+*CHI:	⌊pelado⌋ que te pican lo(s) mosquito(s) [% cantando] . 97718_99938
+%mor:	part|pela-PPART-MASC=peel pro:rel|que=that pro:obj|te=you
+	v|pica-3P&PRES=prick det:art|el&MASC-PL=the n|mosquito&m-PL=mosquito
+	.
+*CHI:	dile a tu Papá que te comp(r)e un so(m)b(r)erito [% cantando] . 99938_103606
+%mor:	imp|deci-2S&IMP~pro:clit|3S aprep|a=to det:pos|tu=your n:prop|Papá
+	pro:rel|que=that pro:obj|te=you v|compra-13S&SUB&PRES=buy
+	det:art|un&m=one n|sombrero-DIM-MASC=hat .
+*CHI:	⌈tonto pela(d)o⌉ +... 103606_105376
+%mor:	n|tonto-MASC=dummy part|pela-PPART-MASC=peel +...
+*MAD:	⌊quién es mi Papá⌋ ? 105376_106948
+%mor:	pro:int|quién=who cop|se-3S&PRES=be det:pos|mi=my n:prop|Papá ?
+*CHI:	ese es tu Papá que te saca una foto . 106948_110278
+%mor:	det:dem|ese=that cop|se-3S&PRES=be det:pos|tu=your n:prop|Papá
+	pro:rel|que=that pro:obj|te=you v|saca-3S&PRES=bring_out
+	det:art|un-FEM=one n|foto&m=photo .
+*PAD:	no , no soy su Papá , yo soy tu Papá . 110278_112916
+%mor:	adv|no=no cm|cm adv|no=no cop|se-1S&PRES=be det:pos|su&3S=his
+	n:prop|Papá cm|cm pro:sub|yo=I cop|se-1S&PRES=be det:pos|tu=your
+	n:prop|Papá .
+*PAD:	yo soy el Papá de María . 112916_115381
+%mor:	pro:sub|yo=I cop|se-1S&PRES=be det:art|el&MASC&SG=the n:prop|Papá
+	prep|de=of n:prop|María .
+*CHI:	sí , y de la Mamá . 115381_117306
+%mor:	co|sí=yes cm|cm coord|y=and prep|de=of det:art|el&FEM&SG=the
+	n:prop|Mamá .
+*PAD:	no . 117306_118118
+%mor:	adv|no=no .
+*PAD:	no , de Mamá es el Yayito . 118118_119390
+%mor:	adv|no=no cm|cm prep|de=of n:prop|Mamá cop|se-3S&PRES=be
+	det:art|el&MASC&SG=the n:prop|Yayito .
+*CHI:	no eres el Papá de Mamá ? 119390_123550
+%mor:	adv|no=no cop|se-2S&PRES=be det:art|el&MASC&SG=the n:prop|Papá
+	prep|de=of n:prop|Mamá ?
+*PAD:	no señor , yo soy el Papá de María . 123550_125580
+%mor:	adv|no=no co:voc|señor=sir cm|cm pro:sub|yo=I cop|se-1S&PRES=be
+	det:art|el&MASC&SG=the n:prop|Papá prep|de=of n:prop|María .
+@Tape Location:	Z-2;07-522
+@Situation:	María jugando en el baño con un bote. Lo tira de repente.
+*PAD:	te enfadruscas ? 125580_127908
+%mor:	pro:obj|te=you v|enfadrusca-2S&PRES=enrage ?
+*CHI:	no , es que estoy jugando . 127908_130340
+%mor:	adv|no=no cm|cm cop|se-3S&PRES=be pro:rel|que=that
+	aux|esta-1S&PRES=be ger|juga-PROG=play .
+*CHI:	en el agua . 130340_132651
+%mor:	prep|en=in det:art|el&MASC&SG=the imp|agua-2S&IMP=water_down .
+*CHI:	uy , uy , uy el cubo , el cubo ! 132651_136916
+%mor:	co|uy cm|cm co|uy cm|cm co|uy det:art|el&MASC&SG=the n|cubo&m=tub
+	cm|cm det:art|el&MASC&SG=the n|cubo&m=tub !
+%com:	se refiere al bote
+*CHI:	uy ! 136916_143365
+%mor:	co|uy !
+*MAD:	ha entrado mucha agua ? 143365_150171
+%mor:	aux|habe-3S&PRES=have part|entra-PPART-MASC=come_in
+	det:indef|mucho-FEM=many imp|agua-2S&IMP=water_down ?
+*CHI:	sí . 150171_151198
+%mor:	co|sí=yes .
+*MAD:	llénalo , y apriétalo como si estuviera haciendo pis . 151198_153693
+%mor:	imp|llena-2S&IMP~pro:clit|OBJ&MASC cm|cm coord|y=and
+	imp|apreta-2S&IMP~pro:clit|OBJ&MASC adv|como=like conj|si=if
+	cop|esta-13S&SUB&PAS=be ger|hace-PROG=do n|pis&m=piss .
+*CHI:	mira , ha salido . 153693_162595
+%mor:	co|mira=look cm|cm aux|habe-3S&PRES=have part|sali-PPART-MASC=leave
+	.
+*MAD:	claro , esta niña es muy lista , más lista que el hombre . 162595_165550
+%mor:	co|claro=obvious cm|cm det:dem|este-FEM=this n|niño-FEM=child
+	cop|se-3S&PRES=be adv|muy=very adj|listo-FEM=ready cm|cm
+	adv|más=more adj|listo-FEM=ready pro:rel|que=that
+	det:art|el&MASC&SG=the co:voc|hombre=man .
+*PAD:	&=rie . 165550_169776
+*MAD:	qué pasa ? 169776_170560
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+*PAD:	no , es que está terminando el rollo . 170560_172116
+%mor:	adv|no=no cm|cm cop|se-3S&PRES=be pro:rel|que=that
+	aux|esta-3S&PRES=be ger|termina-PROG=end det:art|el&MASC&SG=the
+	n|rollo&m=roller .
+*PAD:	más lista que roque ? 172116_173920
+%mor:	adv|más=more adj|listo-FEM=ready pro:rel|que=that
+	adj|roque=knocked_out ?
+*CHI:	mira cómo sale . 173920_174731
+%mor:	co|mira=look pro:int|cómo=how v|sali-3S&PRES=leave .
+*MAD:	y quién es ese ? 174731_175773
+%mor:	coord|y=and pro:int|quién=who cop|se-3S&PRES=be det:dem|ese=that ?
+*PAD:	www [= habla con Mamá] . 175773_193198
+*CHI:	Mamá mira que va a salir . 193198_195955
+%mor:	n:prop|Mamá co|mira=look pro:rel|que=that v|i-3S&PRES=go aprep|a=to
+	inf|sali-INF=leave .
+*CHI:	Ma(má) , mi(ra) ! 195955_197855
+%mor:	n:prop|Mamá cm|cm co|mira=look !
+*MAD:	a_ver como sale . 197855_198783
+%mor:	co|a_ver=see adv|como=like v|sali-3S&PRES=leave .
+*MAD:	uy como sale ! 198783_201521
+%mor:	co|uy adv|como=like v|sali-3S&PRES=leave !
+*MAD:	bien por María , bien , bien , bien bien bien bien [% cantando] . 201521_204785
+%mor:	adv|bien=well prep|por=for n:prop|María cm|cm adv|bien=well cm|cm
+	adv|bien=well cm|cm adv|bien=well adv|bien=well adv|bien=well
+	adv|bien=well .
+*CHI:	ot(r)a ve(z) va a salir . 204785_206781
+%mor:	det:indef|otro-FEM=other n|vez&f=turn v|i-3S&PRES=go aprep|a=to
+	inf|sali-INF=leave .
+%com:	lo llena de nuevo
+*CHI:	ya verá(s) Mamá . 206781_208878
+%mor:	adv|ya=already v|ve-2S&FUT=see n:prop|Mamá .
+*CHI:	es que la voy a llenar , yo lo puedo llenar soli(ta) +... 208878_215038
+%mor:	cop|se-3S&PRES=be pro:rel|que=that pro:obj|la&f=she v|i-1S&PRES=go
+	aprep|a=to inf|llena-INF=fill cm|cm pro:sub|yo=I pro:obj|lo&m=him
+	v|pode-1S&PRES=can inf|llena-INF=fill adj|solo-DIM-FEM=alone +...
+*PAD:	solita , nananananananananananananananana@wp [% cantando] . 215038_224916
+%mor:	adj|solo-DIM-FEM=alone cm|cm wplay|nananananananananananananananana
+	.
+*MAD:	www [= habla con Papá] . 224916_280000
+*CHI:	ya . 280000_283790
+%mor:	adv|ya=already .
+*MAD:	www [= siguen hablando Mamá y Papá] . 283790_310028
+*CHI:	Mami , esto es para mí . 310028_311753
+%mor:	n:prop|Mami cm|cm pro:dem|esto=this_one cop|se-3S&PRES=be
+	prep|para=for pro:prep|mí=me .
+*PAD:	el qué ? 311753_314706
+%mor:	det:art|el&MASC&SG=the pro:int|qué=what ?
+*CHI:	e(s)to para no . 314706_316325
+%mor:	pro:dem|esto=this_one prep|para=for adv|no=no .
+*PAD:	eso es +... 316325_317551
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be +...
+*CHI:	++ para María . 317551_318628
+%mor:	prep|para=for n:prop|María .
+*CHI:	es agua y la agua no se la va a beber . 318628_323403
+%mor:	cop|se-3S&PRES=be n|agua&f=water coord|y=and det:art|el&FEM&SG=the
+	imp|agua-2S&IMP=water_down adv|no=no pro:refl|se=itself
+	pro:obj|la&f=she v|i-3S&PRES=go aprep|a=to inf|bebe-INF=drink .
+*MAD:	para no . 323403_324163
+%mor:	prep|para=for adv|no=no .
+*MAD:	no sé que quiere decir . 324163_325076
+%mor:	adv|no=no v|sabe-1S&PRES=know pro:rel|que=that v|quere-3S&PRES=want
+	inf|deci-INF=say .
+*PAD:	ah ! 325076_325988
+%mor:	co|ah !
+*PAD:	y el agua no se la va a beber . 325988_327476
+%mor:	coord|y=and det:art|el&MASC&SG=the imp|agua-2S&IMP=water_down
+	adv|no=no pro:refl|se=itself pro:obj|la&f=she v|i-3S&PRES=go
+	aprep|a=to inf|bebe-INF=drink .
+*PAD:	tú aguanta , es para no . 327476_329313
+%mor:	pro:sub|tú=you v|aguanta-3S&PRES=endure cm|cm cop|se-3S&PRES=be
+	prep|para=for adv|no=no .
+*PAD:	ese agua es para no beber . 329313_333338
+%mor:	det:dem|ese=that n|agua&f=water cop|se-3S&PRES=be prep|para=for
+	adv|no=no inf|bebe-INF=drink .
+*PAD:	es que xxx el beber . 333338_335521
+%mor:	cop|se-3S&PRES=be pro:rel|que=that det:art|el&MASC&SG=the
+	inf|bebe-INF=drink .
+*MAD:	no se bebe el agua porque , qué pasa , mi vida cuando se bebe el agua ? 335521_341203
+%mor:	adv|no=no pro:refl|se=itself v|bebe-3S&PRES=drink
+	det:art|el&MASC&SG=the n|agua&f=water conj|porque=because cm|cm
+	pro:int|qué=what v|pasa-3S&PRES=pass cm|cm det:pos|mi=my
+	co:voc|vida=life conj|cuando=when pro:refl|se=itself
+	v|bebe-3S&PRES=drink det:art|el&MASC&SG=the
+	imp|agua-2S&IMP=water_down ?
+*CHI:	que me duele la t(r)ipa . 341203_344480
+%mor:	pro:rel|que=that pro:obj|me=me v|dole-3S&PRES=hurt
+	det:art|el&FEM&SG=the n|tripa&f=belly .
+*MAD:	claro . 344480_345225
+%mor:	co|claro=obvious .
+*MAD:	quién te lo ha contado a ti eso , mi niña ? 345225_348191
+%mor:	pro:int|quién=who pro:obj|te=you pro:obj|lo&m=him
+	aux|habe-3S&PRES=have part|conta-PPART-MASC=count_tell aprep|a=to
+	pro:prep|ti=you pro:dem|eso=that_one cm|cm det:pos|mi=my
+	co:voc|niña=child ?
+*CHI:	mi Mami . 348191_349236
+%mor:	det:pos|mi=my n:prop|Mami .
+*MAD:	tu Papi ? 349236_350871
+%mor:	det:pos|tu=your n:prop|Papi ?
+*CHI:	mi Papi , mi Mami . 350871_353216
+%mor:	det:pos|mi=my n:prop|Papi cm|cm det:pos|mi=my n:prop|Mami .
+*CHI:	a que sí ? 353216_354623
+%mor:	aprep|a=to pro:rel|que=that co|sí=yes ?
+*MAD:	claro que sí , porque te quiere mucho . 354623_356991
+%mor:	co|claro=obvious pro:rel|que=that co|sí=yes cm|cm
+	conj|porque=because pro:obj|te=you v|quere-3S&PRES=want
+	adv|mucho=much .
+*CHI:	me ha pegado ! 356991_358360
+%mor:	pro:obj|me=me aux|habe-3S&PRES=have part|pega-PPART-MASC=hit_adhere
+	!
+*CHI:	aquí [% señala] . 358360_359480
+%mor:	adv|aquí=here .
+*PAD:	está bien o +... 359480_364293
+%mor:	cop|esta-3S&PRES=be adv|bien=well coord|o=or +...
+*CHI:	esta [% mirando a Mamá] . 364293_364980
+%mor:	imp|esta-2S&IMP=be .
+*MAD:	quién es esta ? 364980_365510
+%mor:	pro:int|quién=who cop|se-3S&PRES=be imp|esta-2S&IMP=be ?
+*CHI:	te voy a tirar un día agua . 365510_367948
+%mor:	pro:obj|te=you v|i-1S&PRES=go aprep|a=to inf|tira-INF=throw
+	det:art|un&m=one n|día&m=day imp|agua-2S&IMP=water_down .
+*MAD:	por_qué ? 367948_369101
+%mor:	pro:int|por_qué=why ?
+*CHI:	porque sí , porque me ha(s) pegado . 369101_371281
+%mor:	conj|porque=because co|sí=yes cm|cm conj|porque=because
+	pro:obj|me=me aux|habe-2S&PRES=have part|pega-PPART-MASC=hit_adhere
+	.
+*MAD:	pero por_qué te he pegado ? 371281_372901
+%mor:	conj|pero=but pro:int|por_qué=why pro:obj|te=you
+	aux|habe-1S&PRES=have part|pega-PPART-MASC=hit_adhere ?
+*MAD:	por_qué has sido buena o mala ? 372901_374251
+%mor:	pro:int|por_qué=why aux|habe-2S&PRES=have cop|se-PPART-MASC=be
+	adj|buen-FEM=good coord|o=or adj|malo-FEM=bad ?
+*CHI:	mala . 374251_375670
+%mor:	adj|malo-FEM=bad .
+*MAD:	y las niñas , cómo tienen que ser ? 375670_377875
+%mor:	coord|y=and det:art|el&FEM-PL=the n|niño-FEM-PL=child cm|cm
+	pro:int|cómo=how v|tene-3P&PRES=have pro:rel|que=that inf|se-INF=be
+	?
+*CHI:	buena(s) . 377875_379311
+%mor:	adj|buen-FEM-PL=good .
+*MAD:	porque si no , qué pasa ? 379311_380926
+%mor:	conj|porque=because conj|si=if adv|no=no cm|cm pro:int|qué=what
+	v|pasa-3S&PRES=pass ?
+*CHI:	le da su Mamá , con agua . 380926_383581
+%mor:	pro:ind|le=him v|da-3S&PRES=give det:pos|su&3S=his n:prop|Mamá
+	cm|cm prep|con=with imp|agua-2S&IMP=water_down .
+*MAD:	porque si no , tástás@c . 383581_388110
+%mor:	conj|porque=because conj|si=if adv|no=no cm|cm chi|tástás .
+*CHI:	hale , si no te doy agua , eh ? 388110_390881
+%mor:	co|hale=lets_go cm|cm conj|si=if adv|no=no pro:obj|te=you
+	v|da-1S&PRES=give n|agua&f=water cm|cm co|eh ?
+*CHI:	como me pegues o(t)ra vez te doy agua , así . 390881_394038
+%mor:	adv|como=like pro:obj|me=me v|pega-2S&SUB&PRES=hit_adhere
+	det:indef|otro-FEM=other n|vez&f=turn pro:obj|te=you
+	v|da-1S&PRES=give n|agua&f=water cm|cm adv|así=thus .
+%com:	coge el bote y enchufa a Mamá
+*MAD:	yo no te pego si tú eres buena yo te pego a ti ? 394038_396453
+%mor:	pro:sub|yo=I adv|no=no pro:obj|te=you v|pega-1S&PRES=hit_adhere
+	conj|si=if pro:sub|tú=you cop|se-2S&PRES=be adj|buen-FEM=good
+	pro:sub|yo=I pro:obj|te=you v|pega-1S&PRES=hit_adhere aprep|a=to
+	pro:prep|ti=you ?
+*CHI:	no . 396453_397076
+%mor:	adv|no=no .
+*PAD:	xxx [% a Mamá] . 397076_401311
+*MAD:	sí , y a tu madre ! 401311_403540
+%mor:	co|sí=yes cm|cm coord|y=and aprep|a=to det:pos|tu=your
+	n|madre&f=mother !
+*PAD:	xxx . 403540_406250
+@Tape Location:	Z-2;07-523
+@Situation:	María en el baño jugando con un bote. Papá y mamá hablan.
+*CHI:	co(mo) sale Mamá . 406250_407056
+%mor:	adv|como=like v|sali-3S&PRES=leave n:prop|Mamá .
+*MAD:	que pareció qué [% a Papá] ? 407056_409231
+%mor:	pro:rel|que=that v|parece-3S&PRET=seem pro:int|qué=what ?
+*PAD:	que parecía tonto que no sabía ni hablar . 409231_410738
+%mor:	pro:rel|que=that v|parece-13S&PAS=seem adj|tonto-MASC=stupid
+	pro:rel|que=that adv|no=no v|sabe-13S&PAS=know coord|ni=nor
+	inf|habla-INF=speak .
+*PAD:	www [= habla con Mamá] . 410738_418346
+*CHI:	Mamá , mira como sale . 418346_419720
+%mor:	n:prop|Mamá cm|cm co|mira=look adv|como=like v|sali-3S&PRES=leave .
+*CHI:	Mami , mira como sale . 419720_421758
+%mor:	n:prop|Mami cm|cm co|mira=look adv|como=like v|sali-3S&PRES=leave .
+*MAD:	www [= habla con Mamá] . 421758_451325
+%com:	María coge el bote , se echa agua a la cara y mira a Papá
+*CHI:	Mamá , mira la cara . 451325_457226
+%mor:	n:prop|Mamá cm|cm co|mira=look det:art|el&FEM&SG=the
+	adj|caro-FEM=dear .
+*PAD:	qué te ha pasado en la cara ? 457226_458426
+%mor:	pro:int|qué=what pro:obj|te=you aux|habe-3S&PRES=have
+	part|pasa-PPART-MASC=pass prep|en=in det:art|el&FEM&SG=the
+	adj|caro-FEM=dear ?
+*CHI:	que me he mojado . 458426_460056
+%mor:	pro:rel|que=that pro:obj|me=me aux|habe-1S&PRES=have
+	part|moja-PPART-MASC=moisten .
+*PAD:	no , no mucho . 460056_463656
+%mor:	adv|no=no cm|cm adv|no=no adv|mucho=much .
+@Tape Location:	Z-2;07-524
+@Situation:	María en el baño jugando. Papá y mamá hablan sobre dos molinillos que le han comprado.
+*PAD:	he comprado otro molinillo a los Quillis [: Tíos] , xxx verdad ? 463656_468980
+%mor:	aux|habe-1S&PRES=have part|compra-PPART-MASC=buy
+	pro:indef|otro-MASC=other n|molino-DIM-MASC=mill aprep|a=to
+	det:art|el&MASC-PL=the n:prop|Tíos cm|cm co|verdad=right ?
+*MAD:	uy , el morrazo que tienes . 468980_470291
+%mor:	co|uy cm|cm det:art|el&MASC&SG=the n|morro-AUG-MASC=round_thing
+	pro:rel|que=that v|tene-2S&PRES=have .
+*PAD:	eh , María ? 470291_471363
+%mor:	co|eh cm|cm n:prop|María ?
+*CHI:	mnn . 471363_472413
+%mor:	co|mnn .
+*PAD:	salirte a comprar otro . 472413_474540
+%mor:	inf|sali-INF~pro:clit|2S aprep|a=to inf|compra-INF=buy
+	det:indef|otro-MASC=other .
+*CHI:	mnn . 474540_474973
+%mor:	co|mnn .
+*PAD:	y también había dicho que Papá iba a comprar uno , eh ? 474973_477518
+%mor:	coord|y=and adv|también=also aux|habe-13S&PAS=have
+	part|deci-PPART-MASC=say pro:rel|que=that n:prop|Papá v|i-13S&PAS=go
+	aprep|a=to inf|compra-INF=buy pro:dem|uno-MASC=one cm|cm co|eh ?
+*PAD:	y el de los molinillos el cabrón se ha caído como una puta . 477518_481461
+%mor:	coord|y=and det:art|el&MASC&SG=the prep|de=of
+	det:art|el&MASC-PL=the n|molino-DIM-MASC-PL=mill
+	det:art|el&MASC&SG=the n|cabrón&m=bastard pro:refl|se=itself
+	aux|habe-3S&PRES=have part|cae-PPART-MASC=fall adv|como=like
+	pro:dem|uno-FEM=one adj|puto-FEM=damned .
+*PAD:	dice , hombre a mi marido de antes xxx .481461_485278
+%mor:	v|deci-3S&PRES=say cm|cm co|hombre aprep|a=to det:pos|mi=my
+	n|marido&m=husband prep|de=of adv|antes=before .
+*MAD:	sí ? 485278_485981
+%mor:	co|sí=yes ?
+*PAD:	sí . 485981_486838
+%mor:	co|sí=yes .
+*CHI:	oye , y mi molinillo ? 486838_490740
+%mor:	co|oye=listen cm|cm coord|y=and det:pos|mi=my
+	n|molino-DIM-MASC=mill ?
+*PAD:	está , está en +... 490740_492485
+%mor:	cop|esta-3S&PRES=be cm|cm imp|esta-2S&IMP=be prep|en=in +...
+*MAD:	⌈ahora cuando te salgas⌉ , vamos a por él . 492485_493985
+%mor:	adv|ahora=now conj|cuando=when pro:obj|te=you
+	v|sali-2S&SUB&PRES=leave cm|cm v|i-1P&PRES=go aprep|a=to
+	prep|por=for pro:sub|él&m=he .
+*PAD:	⌊está en el comedor⌋ . 493985_494193
+%mor:	cop|esta-3S&PRES=be prep|en=in det:art|el&MASC&SG=the
+	n|comedor&m=dining_room .
+*MAD:	ahora te voy a lavar la cabeza . 494193_496841
+%mor:	adv|ahora=now pro:obj|te=you v|i-1S&PRES=go aprep|a=to
+	inf|lava-INF=wash det:art|el&FEM&SG=the n|cabeza&f=head .
+*PAD:	además es que tenía tres molinillos . 496841_497986
+%mor:	adv|además=likewise cop|se-3S&PRES=be pro:rel|que=that
+	v|tene-13S&PAS=have det:num|tres=three n|molino-DIM-MASC-PL=mill .
+*MAD:	xxx . 497986_499858
+*PAD:	fíjate , claro . 499858_501565
+%mor:	imp|fija-2S&IMP~pro:clit|2S cm|cm co|claro=obvious .
+*PAD:	yo le compre uno entonces tu hermano se le compró otro , le quedaba uno y así viene la niña esta tarde con su madre y le pide otro molinillo . 501565_508688
+%mor:	pro:sub|yo=I pro:ind|le=him v|compra-13S&SUB&PRES=buy
+	pro:dem|uno-MASC=one adv|entonces=then det:pos|tu=your
+	n|hermano-MASC=sibling pro:refl|se=itself pro:ind|le=him
+	v|compra-3S&PRET=buy pro:indef|otro-MASC=other cm|cm pro:ind|le=him
+	v|queda-13S&PAS=stay pro:dem|uno-MASC=one coord|y=and adv|así=thus
+	v|veni-3S&PRES=come det:art|el&FEM&SG=the n|niño-FEM=child
+	imp|esta-2S&IMP=be adv|tarde=late prep|con=with det:pos|su&3S=his
+	n|madre&f=mother coord|y=and pro:ind|le=him v|pedi-3S&PRES=request
+	pro:indef|otro-MASC=other n|molino-DIM-MASC=mill .
+*CHI:	pues además tengo la pelota más bonita que está en el agua . 508688_515418
+%mor:	co|pues=well adv|además=likewise v|tene-1S&PRES=have
+	det:art|el&FEM&SG=the n|pelota&f=ball adv|más=more
+	adj|bonito-FEM=pretty pro:rel|que=that cop|esta-3S&PRES=be
+	prep|en=in det:art|el&MASC&SG=the imp|agua-2S&IMP=water_down .
+*PAD:	además . 515418_516858
+%mor:	adv|además=likewise .
+*PAD:	www [= hablan Mamá y Papá] . 516858_542065
+*CHI:	0 [% juega con un tapón y va diciendo .. ] fútbol , fúrbol [: fútbol] , fútbol , fútbol , fútbol . 542065_545571
+%mor:	n|fútbol&m=soccer cm|cm n|fútbol&m=soccer cm|cm n|fútbol&m=soccer
+	cm|cm n|fútbol&m=soccer cm|cm n|fútbol&m=soccer .
+*CHI:	voy a abílo [: abrirlo] , voy a abíle [: abrirle] la t(r)ipa (.) xxx +... 545571_552196
+%mor:	v|i-1S&PRES=go aprep|a=to inf|abri-INF~pro:clit|OBJ&MASC cm|cm
+	v|i-1S&PRES=go aprep|a=to inf|abri-INF~pro:clit|3S
+	det:art|el&FEM&SG=the n|tripa&f=belly +...
+*MAD:	www [= siguen hablando Mamá y Papá] . 552196_567480
+@End

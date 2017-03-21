@@ -1,0 +1,306 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MIR Mireia Sister, MOT Mother, FAT Father
+@ID:	cat|change_me_later|EVA|2;1.14||||Target_Child|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|FAT|||||Father|||
+@Date:	05-JAN-1998
+@Location:	In the living room
+@Activities:	Looking at books and playing with puppets
+@Comment:	MOT is video-taping
+*FAT:	qui és aquest?
+%act:	points to picture in book
+*MIR:	i aquest?
+*FAT:	què fa (.) què fa el Teo?
+*EVA:	xxx.
+%act:	sticks out her tongue
+*FAT:	llepar un +/.
+*MIR:	un què?
+*EVA:	0.
+%act:	points to picture in book
+*MOT:	xupa-xup@c.
+%exp:	lollipop
+*FAT:	xupa-xup (.) llepant un xupa-xup.
+*MOT:	bueno (.) deixeu les mario (.) les titeñlles ara (.) per després.
+*FAT:	ui@i (.) què hi ha aquí?
+*EVA:	una b(r)uixa.
+*FAT:	i què +/.
+*MOT:	www.
+*FAT:	www.
+*MOT:	www.
+*FAT:	Eva (.) què hem fet avui?
+*FAT:	on t'hem (a)nat?
+*MIR:	on t'hem (a)nat?
+*EVA:	no sé.
+*FAT:	no hem anat a tirar la carta dels reis?
+*EVA:	sí.
+*FAT:	i l'hem donada a un senyor.
+*EVA:	sí.
+*MIR:	que es diu patge?
+*FAT:	i com estava?
+*EVA:	allà.
+*FAT:	i què ens ha donat?
+*MIR:	què ens ha donat (.) Eva?
+*FAT:	carmelos.
+*EVA:	melos (.) carmelos.
+*FAT:	i després hem anat a un lloc que hi havia un pallasso?
+*FAT:	què feia el pallasso?
+*EVA:	Mireia (.) aquesta.
+%act:	points to the puppets MIR is playing with
+*MOT:	aquesta (.) què ha fet amb la Mireia?
+*FAT:	ha agafat el pallasso la Mireia?
+*EVA:	sí.
+*FAT:	i què ha fet?
+*EVA:	xxx.
+%act:	stands up and jumps on the chair
+*FAT:	sí (.) el confeti.
+*EVA:	mira aquest.
+%act:	points to picture in book
+*FAT:	ui@i (.) què és?
+*EVA:	una b(r)uixa.
+*FAT:	i el Teo (.) què li passa (.) se asusta@s?
+*EVA:	no.
+*FAT:	té por?
+*EVA:	sí té por (.) xxx aquest.
+*FAT:	molt bé.
+%act:	turns page
+*EVA:	mira fet a Teo.
+*FAT:	mira què ha fet.
+*MIR:	què ha fet el Teo (.) què ha fet?
+*EVA:	mira a mare.
+*FAT:	la seva mare.
+*EVA:	a seva mare?
+*MIR:	que està enfadada?
+*FAT:	què li fa?
+*MIR:	està enfadada la mare?
+*EVA:	sí.
+*MIR:	i què ha fet el Teo?
+@New Episode
+*FAT:	oh@i (.) qui és aquest?
+*EVA:	un pallasso.
+*FAT:	com el que hem vist avui?
+*EVA:	sí.
+*FAT:	i el Teo plora?
+*EVA:	sí.
+*FAT:	no.
+*EVA:	no (.) (es)tà content.
+*MOT:	està content.
+*MIR:	el pallasso fa així perquè toca l'acordeón.
+*FAT:	és diferent (.) aquí sí que plora.
+*MIR:	què li ha passat (.) Eva?
+*EVA:	xxx.
+%act:	points to book
+*MOT:	què?
+*EVA:	xxx.
+*MOT:	soroll (.) què?
+*MIR:	que s'ha fet mal (.) s'ha caigut del xxx (.) Eva?
+*EVA:	mira aquest.
+*MIR:	sí (.) ja el veig.
+*EVA:	i aquest.
+%act:	points to another picture in book
+*FAT:	qui és aquest?
+*EVA:	un Teo.
+*MOT:	un Teo.
+*FAT:	i aquest?
+*EVA:	a caigut a xxx.
+*MOT:	s'ha caigut.
+*MIR:	ara un altre.
+%act:	picks up another book
+*MIR:	el sol solet.
+*EVA:	sol solet.
+*EVA:	sol solet.
+%act:	sings
+*EVA:	0.
+%act:	sees MIR has got a puppet
+*EVA:	Eva titella.
+*MOT:	Eva titella (.) dona-li (.) dona-li.
+*MIR:	0.
+%act:	gives girl-puppet to EVA
+*EVA:	nena no.
+*MIR:	hola (.) com estàs?
+%act:	pretends she is the puppet
+*EVA:	0.
+%cod:	has broken her puppet
+*MOT:	què ha passat?
+*FAT:	té (.) agafa'l pel pal (.) no pel cap (.) pel pal.
+%act:	fixes EVA's puppet
+*MIR:	www.
+%act:	sings and shades the light of the lamp with her puppet
+*MOT:	què fa la Mireia (.) Eva?
+*EVA:	tapa llum.
+*EVA:	un osito@s.
+%act:	looks at picture on book
+*FAT:	un osito.
+*MIR:	un osito (.) aquesta (.) què és?
+*FAT:	què fan aquests dos nens?
+*EVA:	xxx.
+*MOT:	què?
+*MIR:	ballen?
+*EVA:	ballen sí.
+*MIR:	sí que ballen (.) no?
+*FAT:	que has ballat tu avui?
+*EVA:	sí.
+*FAT:	a on?
+*MIR:	amb el pallasso?
+%act:	dances and sings
+*MIR:	fent així?
+@New Episode
+*FAT:	Eva (.) què ha passat?
+*MOT:	què t'ha passat?
+%cod:	EVA's puppet is broken again and she is trying to fix it
+*FAT:	el pal aquí al mig (.) tens que possar.
+*EVA:	aquí.
+%act:	EVA puts stick into the puppet to fix it
+@New Episode
+*FAT:	hola (.) hola Eva.
+*EVA:	mirem.
+%act:	points at book
+*FAT:	què fa aquesta (.) fan aquests nens?
+*MIR:	www.
+*EVA:	aquest nen.
+*FAT:	què fan?
+*EVA:	van.
+*FAT:	van amb autobus.
+*MIR:	www.
+*EVA:	0.
+%act:	sings
+*FAT:	i aquesta nena (.) què pensa?
+*FAT:	en regals.
+*EVA:	(re)gals.
+*FAT:	quins regals?
+*EVA:	aquí.
+%act:	points to picture in book
+*FAT:	aquí (.) molt bé.
+*MIR:	mira aquesta nena.
+*FAT:	què li passa?
+*EVA:	mulla aigua.
+*FAT:	per què es mulla amb l'aigua?
+*FAT:	si té un para(igua) (.) que plou?
+*EVA:	0.
+%act:	turns page
+*EVA:	mira.
+*FAT:	sí que plou (.) Eva.
+*FAT:	què porta la nena (.) què porta aquesta nena?
+*EVA:	paraigua.
+*FAT:	per què (.) per què el porta?
+@New Episode
+*FAT:	0.
+%act:	fixes Mireia's puppet
+*MOT:	què ha passat?
+*EVA:	trencat aixís.
+*MOT:	trencat aixís.
+*MOT:	el què?
+*EVA:	Mireia aixís.
+*EVA:	trencat.
+*MOT:	què Eva?
+*EVA:	Mireia.
+*MOT:	què ha fet la Mireia (.) què ha fet?
+*EVA:	mira.
+*MIR:	no vull que ho dieu!
+%cod:	she does not want them to say she has broken her puppet
+*MOT:	què ha fet (.) Eva?
+*MIR:	no vull que ho dieu!
+*FAT:	bueno va (.) continuem amb el llibre (.) www.
+*EVA:	ara això.
+*FAT:	què és això?
+%act:	points to picture in book
+*EVA:	mira xxx.
+*MOT:	què?
+*MOT:	a la platja?
+*EVA:	platja.
+*FAT:	que es banyen?
+*EVA:	0.
+*FAT:	i això (.) aquest nen què fa?
+*EVA:	un flotador.
+*FAT:	amb el flotador.
+*FAT:	i aquí (.) el papa què porta?
+*EVA:	papa (.) xxx aquí.
+%act:	holds her father
+*FAT:	és veritat (.) el teu papa està a quí (.) aquest no és el papa.
+*EVA:	(Pas)cual.
+%cod:	FAT's name is Pascual
+*FAT:	jo!
+*EVA:	(Pas)cual.
+*FAT:	Pascual.
+*EVA:	0.
+%act:	sings and jumps on the chair
+*FAT:	mira aquesta nena que fa!
+*FAT:	saps lo que fa?
+*EVA:	i mira hi ha aquí.
+%act:	turns page
+*EVA:	mira això.
+*EVA:	una escala a pujar.
+*MOT:	una escala per pujar?
+*FAT:	sí (.) per agafar llibres.
+*FAT:	i els nens què fan amb els llibres?
+*EVA:	mirant.
+*FAT:	com mirant?
+*EVA:	sentats.
+%act:	sits down
+*FAT:	sentats (.) molt bé!
+*FAT:	un altre (.) aquest (.) ara mirem aquest de la granja.
+%act:	picks another book
+*FAT:	oh@i (.) quants animalets!
+*FAT:	i la nena què fa?
+*MIR:	per aquí no comença (.) eh@i!
+*EVA:	aquest no.
+*FAT:	no t'agrada?
+*EVA:	sí.
+*FAT:	és una granja.
+*MOT:	què hi ha a la granja (.) Eva?
+*EVA:	quaquas@c.
+%exp:	ducks
+*MOT:	quaquas.
+*EVA:	gallines.
+*MOT:	gallines.
+*MOT:	què més?
+*EVA:	una vaca.
+*FAT:	això què és (.) que avui la Mireia ha pujat en un?
+*EVA:	no volia.
+*FAT:	tu no volies.
+*FAT:	per què?
+*EVA:	sí.
+*FAT:	no (.) no has pujat.
+*EVA:	sí.
+*FAT:	per què no has pujat?
+*FAT:	t'has posat a plorar.
+*FAT:	tenies por del cavall?
+*EVA:	sí.
+*FAT:	era un cavall petit.
+*EVA:	Mireia pujat sí.
+*FAT:	sí (.) la Mireia ha pujat i ha donat una volta.
+*MOT:	com era el cavall de la Mireia?
+*EVA:	blanc!
+*MOT:	blanc (.) sí senyor!
+*FAT:	com aquest.
+%act:	points to horse in book
+*MIR:	però no tenia això.
+*FAT:	no?
+*EVA:	sí.
+*MIR:	era tot blanc.
+*FAT:	ah@i!
+*FAT:	i la Eva per què ha tingut por?
+*MIR:	no ho sé.
+*FAT:	què són això?
+%act:	points to picture in book
+*EVA:	(o)velles.
+*FAT:	ovelles.
+*FAT:	i això?
+*EVA:	0.
+*FAT:	aquesta ovella (.) què vol fer?
+*FAT:	o aquesta (.) què vol fer aquesta?
+*EVA:	mira un gos.
+*MOT:	mira un gos?
+@New Episode
+*FAT:	mirem això.
+%cod:	EVA's handmade schoolbook
+*EVA:	sí.
+*FAT:	qui ho ha fet això?
+*EVA:	jo.
+*FAT:	quan?
+*EVA:	al cole@c.
+%exp:	school
+*FAT:	al cole.
+@End

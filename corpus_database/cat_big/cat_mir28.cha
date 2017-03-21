@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|2;2.14||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	24-JAN-1996
+@Location:	in the dining-room
+@Activities:	MIR is sitting at the table drawing
+@Comment:	MOT is video-taping
+*MIR:	aquest té punta .
+%exp:	pen
+*MIR:	Mimi fa punta .
+%act:	clicks the pen
+*MOT:	tu vols dibuixar una miqueta ?
+*MIR:	sí (.) aquí conte .
+%act:	points at a book on the table
+*MOT:	aquí al conte ?
+*MOT:	bueno (.) vale (.) dibuixa una miqueta .
+*MIR:	0 .
+%act:	marks the paper with dots
+*MOT:	què fas ?
+*MIR:	puntets .
+*MOT:	puntets ?
+*MIR:	0 .
+%act:	stains her hand with ink
+*MIR:	mira (.) ma dibuixat una miqueta .
+*MOT:	què ?
+*MIR:	ma dibuixat una miqueta .
+*MOT:	me l'he dibuixat una miqueta la mà (.) la mà ?
+*MIR:	és igual .
+*MOT:	és igual (.) sí (.) ja t'ho netejaré ara .
+*MOT:	què fas ?
+*MIR:	ratlletes .
+*MOT:	ratlletes ?
+%sit:	MIR's little sister wakes up in the cot on the table and cries . MIR talks to her
+*MIR:	què passa (.) què passa (.) què passa (.) què passa ?
+*MOT:	no (.) Mireia (.) deixa'la (.) deixa'la (.) digues'li (.)
+	digues'li .
+*MOT:	què li dius per això ?
+*MIR:	què passa (.) què passa (.) què passa ?
+*MOT:	li dius que no plori ?
+*MIR:	no ploris .
+@End

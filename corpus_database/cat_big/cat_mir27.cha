@@ -1,0 +1,129 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|2;2.3||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	13-JAN-1996
+@Location:	in the toy-room
+@Activities:	MIR is playing wtih her toys
+@Comment:	MOT is video-taping
+*MOT:	què estàs fent (.) què estaves fent ?
+*MIR:	jugant ma mama .
+*MOT:	jugant ma mama (.) jugant amb la mama ?
+*MIR:	no vens al billar ?
+*MOT:	tu no vens al billar ?
+*MOT:	sí (.) ja vinc (.) www .
+%act:	MIR and MOT go to the toy-room
+*MIR:	0 .
+%com:	MIR is at the top of her slide looking at all her toys on the table
+*MIR:	mi(r)a pissarra aquí .
+*MOT:	la pissarra has vist (.) què has vist ?
+*MIR:	la pissarra aquesta meva .
+*MOT:	una pissarra has vist ?
+*MOT:	ah sí (.) és veritat !
+*MIR:	mama me la poses la pissarra i a peces per una caseta ?
+*MOT:	la pissarra i les peces per fer una caseta ?
+*MOT:	sí .
+*MIR:	mira com me tiro .
+%act:	slides down
+*MIR:	forquilla !
+*MOT:	mira com me tiro (.) forquilla (.) què és això ?
+*MIR:	el peu aquí .
+*MIR:	altre peu aquí .
+%act:	sits on top of the slide
+*MIR:	a baixo per darrera .
+%act:	goes down the steps of the slide
+*MOT:	baixes per darrera ?
+*MIR:	0 .
+%act:	slides down and falls on her knees
+*MIR:	ma fet pupa@c aquí (.) ma fet pupa@c aquí .
+%exp:	I've hurt myself
+%act:	kisses her hand
+*MOT:	t'has donat un petó tu .
+*MIR:	0 .
+%act:	sist on top of the slide again
+*MIR:	(a)deu mama (.) fins xxx aquí .
+*MOT:	què dius ?
+*MIR:	(a)deu mama (.) fins xxx aquí .
+*MOT:	què ?
+*MIR:	(a)deu mama (.) fins xxx aquí .
+*MOT:	fins què ?
+*MIR:	fins .
+*MOT:	t'ho inventes això (.) eh (.) adéu mama fins què ?
+*MIR:	fins xxx .
+@New Episode
+*MIR:	0 .
+%act:	is switching on and off a lamp but it does not work
+*MOT:	què fas ?
+*MIR:	aquesta no .
+*MIR:	no s'encen aquesta llum .
+*MIR:	no s'encén .
+*MIR:	aquesta sí .
+%exp:	another lamp
+*MIR:	aquiesta no .
+*MIR:	aquesta sí .
+*MIR:	aquesta no .
+*MIR:	papa arreglar aquesta llum que està trencada .
+*MOT:	el papa l'arregla ?
+*MIR:	0 .
+%act:	looks at the things on the table
+*MIR:	mama (.) la pissarra està aquí .
+*MOT:	jo no la veig .
+*MIR:	jo sí .
+*MOT:	on ?
+*MOT:	jo no la veig .
+*MIR:	la pissarra .
+*MOT:	potser és a dins el bagul .
+*MIR:	0 .
+%act:	reaches for a jigsaw
+*MIR:	mira això que me va comprar la iaia .
+*MOT:	això t'ho va comprar la iaia (.) t'ho va comprar la iaia això ?
+*MIR:	sí .
+*MOT:	no .
+*MOT:	quí t'ho va portar (.) eh ?
+*MIR:	mío@s .
+%act:	drops the box
+*MOT:	és mío@s (.) sí .
+*MOT:	però quí t'ho va portar ?
+*MIR:	la iaia .
+*MOT:	però els Reis de ca la iaia !
+*MIR:	la iaia .
+%act:	looks at the things on the table
+*MIR:	mira a piruleta que va comprar Isabel .
+*MOT:	la piruleta que va comprar la Isabel (.) és veritat !
+@New Episode
+*MIR:	0 .
+%act:	has the empty box of a building set on her hands
+*MIR:	mira això és per posar una caseta .
+%act:	drops this box and points to a box on the table
+*MIR:	mira (.) mira (.) vull aquestes peces de caseta .
+*MOT:	vols aquestes peces de caseta (.) les de fusta ?
+*MOT:	ja te les agafo jo (.) no pugis .
+%exp:	on the table
+*MIR:	vull una peces a fusta (.) a fusta (.) de fusta .
+*MOT:	què vols ?
+*MIR:	unes peces a fusta .
+*MIR:	peces de fusta .
+*MOT:	no vols les de plàstic (.) eh (.) i què has fet amb totes aquestes
+	que han caigut a terra (.) i ara què faràs (.) què faràs ?
+*MIR:	mira el meu boli !
+%act:	picks up a pencil from the floor
+*MOT:	l'has trobat (.) és teu ?
+*MIR:	sí (.) sí (.) sí (.) sí que és meu !
+*MIR:	és meu !
+*MOT:	sí que és veritat que és teu (.) sí .
+*MIR:	a pissarra (.) a pissarra on t'està ?
+*MOT:	la pissarra on t'està ?
+*MOT:	em sembla que ho sé .
+%act:	gives the blackboard to MIR
+*MIR:	aquí sí que (es)tà .
+*MIR:	la trobat aquí .
+*MOT:	l'he trobat .
+*MIR:	el boli està aquí .
+*MIR:	el meu boli està aquí .
+%act:	picks up the pencil from the table
+*MIR:	a trobat (.) a trobat !
+%act:	starts singing
+*MOT:	ara què busques (.) eh (.) què busques ?
+@End

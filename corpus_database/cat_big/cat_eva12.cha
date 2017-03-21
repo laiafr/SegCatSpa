@@ -1,0 +1,275 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MOT Mother, MIR Mireia Sister
+@ID:	cat|change_me_later|EVA|2;4.4||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@Date:	25-MAR-1998
+@Location:	bedroom
+@Activities:	playing with shoes
+@Comment:	MOT is video-taping
+*EVA:	això.
+%com:	EVA's shoes are spread on the floor
+*MOT:	què és això?
+*EVA:	un xxx.
+*EVA:	mira (.) no hi ha res.
+%act:	points to a cupboard and an empty shoe box
+*EVA:	no xxx.
+%act:	trips over the shoes on the floor
+*MOT:	ui@i (.) què són això?
+*EVA:	sabates.
+*MOT:	de qui són?
+*EVA:	meves.
+*MOT:	i ara què fas?
+*EVA:	mira (.) mira aquesta maques.
+%act:	picks up a shoe
+*MOT:	què?
+*EVA:	són botes (.) eh?
+*MOT:	botes (.) Eva?
+*MOT:	això no són botes!
+*EVA:	són sabates.
+*MOT:	com se diuen aquestes sabates?
+*EVA:	0.
+%act:	tries to put on the shoe
+*MIR:	s'ha acabat el video.
+%com:	MIR was in the living room watching a video
+*MOT:	Eva (.) què ens expliques?
+*EVA:	m'he posat aquesta.
+%act:	has put on a shoe
+*MOT:	t'has posat aquesta.
+*MIR:	www.
+*EVA:	m'he posat aquesta.
+*EVA:	ma van bé.
+*MOT:	que van bé?
+*EVA:	i l'altra?
+*MOT:	i l'altra?
+*MOT:	www.
+%com:	the doorbell rings
+@New Episode
+*MOT:	què fas?
+*EVA:	això.
+%act:	points to a shoe buckle
+*MOT:	i què és això?
+*EVA:	xxx.
+%act:	tires to put on the shoe
+*MOT:	què fas amb això?
+*EVA:	això també són botes.
+%act:	pointing to shoes, not boots
+*MOT:	això no són botes!
+*MOT:	què són?
+*EVA:	sabates.
+*MOT:	sí (.) però com se diuen?
+*EVA:	xxx.
+*MOT:	què (.) què t'inventes?
+*MOT:	escolta Eva (.) què m'explicaves del pollet al cole?
+*EVA:	de xocolata.
+*MOT:	xocolata?
+*EVA:	ma poso aquestes.
+%act:	has put on a shoe
+*EVA:	per què ma poso aquestes.
+*EVA:	me'ls corda mama.
+*EVA:	mama (.) me'ls corda?
+%act:	stands up and goes to MOT to get her shoes buckled
+*MOT:	què?
+*EVA:	me'ls +...
+%act:	trips over
+*MOT:	ai@i!
+*EVA:	me'ls corda.
+*MOT:	que te les cordi?
+*EVA:	ma van bé.
+*MOT:	segur que et van bé?
+*EVA:	mira.
+*MOT:	no et van petites?
+*EVA:	no.
+*MOT:	segur (.) no t'apreten?
+*EVA:	no.
+*MOT:	ni una mica?
+*EVA:	una mica (a)preten.
+*MOT:	una mica t'apreten?
+*MOT:	pues no te les posis (.) trien unes altres.
+*EVA:	no (.) aquestes vull.
+*MOT:	segur?
+*EVA:	segur.
+*MOT:	no t'agraden més les sandalies?
+*EVA:	0.
+%act:	is looking for another pair of shoes
+*MOT:	o les botes.
+*EVA:	o les sandalies.
+*MOT:	o les sabatilles.
+*EVA:	o les xxx.
+*MOT:	Eva (.) i de quin color són les sabatilles?
+*EVA:	xouxes@c.
+%exp:	roses
+*MOT:	roses.
+*EVA:	què és això?
+*MOT:	el què?
+*EVA:	això!
+*MOT:	ensenya'm'ho que no ho veig.
+*EVA:	això.
+%act:	shows to MOT a shoe sole from MOT's shoe
+*MOT:	iu@i (.) això és una plantilla.
+*EVA:	treure'la.
+%act:	takes the sole out of the shoe
+*MOT:	eh?
+*EVA:	treure'la.
+*MOT:	treure'la.
+*EVA:	puc treure'la aquesta.
+%act:	points to the bottom of the shoe
+*MOT:	aquesta no es pot treure (.) no.
+*EVA:	sí.
+%act:	tries to put MOT's shoe on top of the shoe she is wearing
+*MOT:	te la vols posar la sabata aquesta?
+*EVA:	le dugues.
+%exp:	dues
+*MOT:	les dugues (.) però a on està l'altra?
+*EVA:	aquí.
+*MOT:	a on?
+*EVA:	aquí.
+*MOT:	l'altra?
+*EVA:	aquí.
+*EVA:	mira camino.
+%act:	walks around with two shoes on on foot
+*MOT:	què fas (.) Eva &=laughs?
+*EVA:	0.
+%act:	sits on the corridor and takes off MOT's shoe
+*EVA:	xxx.
+*MOT:	què dius (.) Eva?
+*EVA:	xxx.
+%act:	takes off the other shoe
+*MOT:	Eva (.) vina aquí (.) seu sobre l'alfombra (.) vale?
+*EVA:	jo no puc.
+%act:	is trying to take something out of one shoe
+*MOT:	no pot què?
+*EVA:	això.
+*MOT:	però que no ho has de treure això (.) eva.
+*MOT:	què has fet?
+*EVA:	xxx.
+*MOT:	què?
+*EVA:	titotito [=! sings].
+%act:	is playing with the shoes
+*MOT:	ai@i!
+%act:	has turned off the light and turns it on
+*MOT:	què ha fet la mama?
+*EVA:	ma la [/] ma la posa i ma la corda.
+%act:	runs to MOT with the shoe
+*MOT:	què?
+*EVA:	me la corda (.) es corda.
+%act:	puts one hand in the shoe and claps hands
+*MOT:	què fas amb la sabateta (.) Eva?
+*MOT:	que vols que te les posi aquestes?
+*EVA:	titotito [=! sings].
+%act:	walks around dancing
+*MOT:	on vas?
+@New Episode
+*MOT:	Eva (.) i les bambes vermelles (.) on són?
+*EVA:	aquí (.) aquí (.) aquí!
+*MOT:	a on?
+*EVA:	mira la Mireia.
+%act:	has a look into MIR's cupboard
+*MOT:	què hi ha aquí?
+*EVA:	la Mireia xxx.
+*MOT:	la Mireia?
+%com:	MIR is in the living room
+*EVA:	0.
+%act:	falls
+*MOT:	oi@i (.) aquí no hi és la Mireia!
+*EVA:	mira.
+%act:	picks up one of MIR's sandals from a box inside the cupboard
+*MOT:	què és això?
+*EVA:	mira!
+*MOT:	però què és?
+*EVA:	la sandalia de la Mireia.
+*MOT:	ah@i (.) les sandalies de la Mireia!
+*EVA:	vull posar'les?
+*MOT:	què?
+*EVA:	vull posar'les?
+*MOT:	te les vols posar?
+*MOT:	bueno (.) vale.
+*EVA:	això què són?
+%act:	tries to put on a sandal
+*MOT:	què?
+*EVA:	això què són?
+*EVA:	per què són?
+*MOT:	són per l'estiu.
+*EVA:	ah@i!
+*MOT:	per quan fa calor.
+*EVA:	mira (.) me posat.
+%act:	has put the sandal on
+*MOT:	te les has posat bé?
+*EVA:	sí (.) me'l corda?
+*MOT:	vols que te les cordi?
+*EVA:	sí.
+*EVA:	i l'altra?
+%act:	looks for the other sandal
+*EVA:	aquí.
+%act:	has found the other sandal and is trying to unbuckle it
+*EVA:	mira (.) és aquí.
+*MOT:	a veure'la?
+*EVA:	jo (.) jo no puc.
+*EVA:	no ma (a)graden aquestes.
+%act:	takes the sandal off
+*MOT:	no t'agraden aquestes?
+*EVA:	tinc pipi.
+*MOT:	vale (.) pues (a)nem.
+@New Episode
+*MOT:	què són aquestes?
+*EVA:	merceditas.
+%com:	shoe trademark
+*MOT:	i t'agraden?
+*EVA:	ui@i!
+*MOT:	quan les portes (.) les merceditas quan les portes?
+*EVA:	xxx.
+*MOT:	posa'te les (.) dona (.) ja en saps!
+*MOT:	no en saps?
+*EVA:	sí.
+*EVA:	ai@i (.) ai@i (.) no!
+*MOT:	no què?
+*EVA:	ai@i!
+*MOT:	no què?
+*MOT:	Eva (.) mira'm (.) mira'm que no et veig (.) gira't.
+%com:	EVA is not facing the camera
+*EVA:	xxx.
+*MOT:	per què no em mires?
+*MOT:	que no et veig (.) Eva.
+*EVA:	jo no puc.
+%act:	cannot unbuckle the shoe
+*MOT:	que no pots què?
+*EVA:	xxx.
+*MOT:	no pots què?
+*EVA:	jo no puc.
+*EVA:	mira l'altra mercedita.
+%act:	gives the shoe to MOT
+*MOT:	què vols que faci?
+*EVA:	treu això.
+%act:	points to the camera
+*MOT:	que tregui això (.) per què?
+*EVA:	per què no m'ensenyes.
+*MOT:	no t'ensenyo què?
+*EVA:	la merceditas.
+*MOT:	ja te la poso (.) mira.
+%act:	unbuckles the shoe
+*MOT:	què he fet (.) què he fet jo?
+*EVA:	ha descordat la mercedita.
+*MOT:	he descordat la mercedita (.) vale.
+*EVA:	0.
+%act:	puts on both shoes
+*EVA:	mas corda?
+*EVA:	mami (.) mas corda?
+*MOT:	sí.
+@New Episode
+*MOT:	què (.) què em dius (.) què em dius ara?
+*EVA:	mama.
+*MOT:	què?
+*EVA:	estic aixís.
+%act:	is on her fours
+*MOT:	estàs aixís?
+*MOT:	a veure (.) te les he cordat (.) oi?
+*MOT:	que et van bé?
+*EVA:	sí (.) xxx.
+*MOT:	què?
+*MOT:	aixeca't que les vull veure (.) aixeca't.
+*EVA:	0 [=! sings].
+%act:	leaves the room
+*MOT:	on vas (.) on vas?
+@End

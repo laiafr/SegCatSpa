@@ -1,0 +1,256 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MOT Mother
+@ID:	cat|change_me_later|EVA|2;3.6||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	27-FEB-1998
+@Location:	In the living-room
+@Activities:	Playing with animals
+@Comment:	MOT is video-taping
+*EVA:	un ozito@s.
+%cod:	un osset
+*MOT:	un ossito@s?
+*MOT:	avui estem a dia veintisiete de febrer (.) i la Eva està a casa
+	perquè està malalta.
+*MOT:	oi que sí Eva?
+*EVA:	0.
+%act:	nods
+*MOT:	estàs malalta?
+*EVA:	0.
+%act:	combs one of the toys
+*MOT:	que has anat a cole@c tu?
+%exp:	col.legi
+*EVA:	sí.
+*MOT:	avui?
+*EVA:	sí.
+*MOT:	on t'estàs tu ara?
+*EVA:	(a)quí.
+*MOT:	on és aquí?
+*EVA:	xxx.
+*MOT:	eh@i?
+*EVA:	jo.
+*MOT:	què és això?
+%com:	referring to a penguin EVA is playing with
+*EVA:	0.
+%act:	takes another toy
+*EVA:	a cumpa [= ? a comprar].
+%act:	makes the toys jump
+*MOT:	què fan?
+*EVA:	0.
+*MOT:	eh@i?
+*EVA:	piquen.
+*MOT:	piquen?
+*EVA:	mira lai dos.
+%cod:	mira aquests/els dos
+%act:	makes the animals jump
+*MOT:	0 &=laughs.
+*EVA:	xxx mira.
+%act:	takes the penguin and looks at it
+*MOT:	què és?
+*EVA:	0.
+%act:	makes the penguin go round the table
+*EVA:	oh@i una.
+%act:	looks at the penguin again
+*MOT:	què?
+*EVA:	oi@i!
+*MOT:	què ha passat?
+*EVA:	tenia xxx cargol [= ?] aquí.
+*MOT:	què?
+*EVA:	xxx una roda.
+*MOT:	una roda?
+*EVA:	no (.) no podem passar.
+*MOT:	no podem passar?
+*EVA:	0.
+%act:	says no with her head
+*EVA:	xap@o!
+*EVA:	e teu no .
+@New Episode
+*MOT:	Eva mira què he trobat!
+*MOT:	què són?
+*EVA:	Pingus.
+%exp:	it is the name of the toys
+*MOT:	els Pingus (.) té.
+*EVA:	0 &=laughs.
+*EVA:	xxx trobat!
+*MOT:	sí els he trobat eh@i?
+*EVA:	mira aque(s)ta foca.
+*MOT:	la foca.
+*EVA:	pe@o pe@o pe@o.
+%act:	makes the seal jump and hit one of the penguins
+*MOT:	què li fa?
+*MOT:	què li fa la Pinga?
+*MOT:	oh@i.
+%act:	EVA has thrown the penguin down to the floor
+*EVA:	po(b)reta Pinga.
+*MOT:	eh@i?
+*EVA:	tirat la foca.
+*MOT:	ha pegat a la Pinga (.) l'ha tirat la foca?
+*EVA:	0.
+%act:	nods
+*MOT:	pobreta Pinga (.) no?
+*MOT:	on és ara?
+*EVA:	aquí!
+%exp:	on the floor
+*MOT:	que plora?
+%act:	EVA throws the seal away
+*MOT:	oh@i!
+*EVA:	xxx.
+*MOT:	eh@i?
+*EVA:	foca xxx plora.
+%act:	takes two penguins
+*MOT:	qui són aquests dos?
+*EVA:	0.
+*MOT:	que és la mare Pingu?
+*EVA:	0.
+*MOT:	i el Pingu!
+*MOT:	escolta Eva Eva (.) Eva!
+*EVA:	i el pare?
+*MOT:	el què?
+*EVA:	i el pare?
+*MOT:	el pare del Pingu?
+*MOT:	pues@s no ho sé (.) l'hem perdut.
+*EVA:	0.
+%act:	says no with her head
+*MOT:	qui es va disfressar de Pingu?
+*EVA:	jo.
+*MOT:	i què feies?
+*EVA:	e tu.
+*MOT:	eh@i?
+*EVA:	e tu!
+*EVA:	mi(r)a què fan el Pingu i la mare.
+*MOT:	què fan?
+*EVA:	mira.
+%act:	starts singing
+*EVA:	0 &=laughs.
+*EVA:	mira mira mira!
+*MOT:	què vols?
+*EVA:	xxx vull que vinguis.
+*MOT:	vols que vingui?
+*EVA:	0.
+%act:	nods
+*MOT:	i que faci què?
+*EVA:	el Pingu.
+*MOT:	que faci què (.) què vols que faci?
+*EVA:	sorollet.
+*MOT:	sorollet?
+*MOT:	amb què?
+*EVA:	(a)m(b) així.
+%act:	takes a penguin
+*MOT:	què?
+*EVA:	mira (.) no fan sorollets (.) ja (.) no fan sorollets [=! sings]
+	(.) xxx Pingus.
+%act:	makes penguins jump
+*EVA:	oi@i.
+*MOT:	oi@i.
+*MOT:	que li diu algo@s el Pingu a la mare?
+*MOT:	què li diu (.) què li diu?
+*EVA:	xxx cap.
+%act:	lifts the toys up
+*MOT:	què?
+*MOT:	ai@i (.) que s'ha fet pupa@c?
+%exp:	mal
+%com:	one of the penguins has fallen down
+*EVA:	0.
+%act:	lifts one of the penguins up
+*EVA:	no (a)rriba.
+*MOT:	no arriba (.) a on?
+*EVA:	e pilota e Pingu.
+*MOT:	la pilota?
+*MOT:	quina pilota Eva?
+*EVA:	0 [=! shouts].
+%act:	looks at the ceiling
+*MOT:	què hi ha Eva allà dalt?
+*EVA:	una llum.
+*MOT:	ah@i però no hi ha una pilota.
+*MOT:	on hi ha una pilota?
+*EVA:	al billar.
+%com:	the room where the girls play
+*MOT:	al billar.
+*MOT:	una?
+*EVA:	sí una.
+%act:	nods
+*MOT:	només una?
+*EVA:	una.
+%act:	nods
+*MOT:	no.
+*EVA:	no.
+*EVA:	sí.
+*MOT:	una?
+*EVA:	una.
+*MOT:	tens moltes.
+*EVA:	moltes.
+*EVA:	tinc moltes (.) xxx la Mireia.
+%com:	Mireia is EVA's sister
+*MOT:	què és això?
+*EVA:	0.
+*MOT:	què és?
+*EVA:	tots!
+*MOT:	ole@i!
+*MOT:	i què fan (.) que fan una festa?
+*EVA:	0.
+%act:	nods
+*MOT:	sí?
+*MOT:	com tu a cole quan feu una festa d'aniversari (.) què feu?
+*EVA:	0[=! sings].
+%act:	takes a plastic box
+*MOT:	què feu (.) a què jugueu?
+*EVA:	0 [=! sings].
+*MOT:	0 &=laughs.
+*MOT:	amb què jugueu quan feu una festa d'aniversari?
+*EVA:	0 [=! sings].
+*EVA:	el Pingu dorm en aquí?
+*MOT:	ah@i mira (.) si vols.
+*EVA:	oh@i.
+*EVA:	0 [=! sings].
+*EVA:	xxx mare.
+*EVA:	0 [=! sings].
+*MOT:	que li cantes la cançoneta per anar a dormir?
+*MOT:	twinkle@c twinkle@c (.) li cantaves?
+%exp:	English song
+*EVA:	no e mare.
+*MOT:	la mare li canta?
+*EVA:	0.
+%act:	nods
+*MOT:	que té son el Pingu?
+*EVA:	0.
+%act:	nods
+*MOT:	què vol fer (.) què vol?
+*EVA:	mi(r)a una pilota.
+*MOT:	una pilota?
+*MOT:	on hi ha una pilota?
+*EVA:	a casa.
+*MOT:	que té soneta el Pingu (.) eh@i?
+*EVA:	0.
+%act:	says no with her head
+*MOT:	op@i.
+*EVA:	no.
+*EVA:	0 [=! sings].
+*EVA:	a mi mare.
+*EVA:	xxx cantaràs?
+%act:	talks to the toys
+*EVA:	em cantaràs?
+*MOT:	sí sí que cantaré.
+%com:	imitates the voice of Mother Penguin
+*EVA:	no.
+*EVA:	e mare ca(n)tarà.
+*MOT:	sí (.) què cantarà?
+*EVA:	xxx ca(n)tarà!
+*MOT:	en el Pingu li cantarà?
+*EVA:	aprés.
+%cod:	després
+*MOT:	després (.) ara dorm (.) o què fa?
+*EVA:	dorm.
+*MOT:	o descansa.
+@New Episode
+*EVA:	mi(r)a el Teo.
+%act:	EVA is looking at a book
+*MOT:	el Teo (.) què fa?
+*EVA:	pintant e terra.
+*MOT:	pintant a terra?
+*EVA:	0.
+%act:	nods
+*MOT:	ai@i ai@i ai@i.
+*MOT:	què més veus (.) què veus?
+*EVA:	la llum.
+@End

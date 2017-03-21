@@ -1,0 +1,137 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;11.15||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	25-OCT-1995
+@Location:	in the bathroom
+@Activities:	MIR is in the bathtub playing with her toys. She has got a book
+@Comment:	MOT is video-taping
+*MOT:	hola carinyo .
+*MOT:	què fas ?
+*MIR:	el culete [= cullete] .
+*MOT:	el culete (.) escolta (.) i La Ranita Rita@s on t'ès ?
+%exp:	a children's book
+*MIR:	aquí .
+%act:	picks up the book
+*MOT:	vols que el llegim (.) me l'expliques tu ?
+*MIR:	mama .
+*MOT:	tu el vas mirant (.) tu el vas mirant (.) tu el vas mirant .
+*MIR:	a mama !
+%act:	gives the book to MOT
+*MOT:	la mama ho diu (.) La Ranita Rita .
+*MOT:	i després que vé ?
+*MOT:	digues'ho tu .
+*MIR:	a mama .
+*MOT:	ui@i que està mullat (.) La Ranita Rita diu aquí .
+*MOT:	què més ?
+*MIR:	+" a Ranita Rita .
+*MOT:	què (.) eh ?
+*MIR:	+" a Ranita Rita pasea bosque@s .
+*MOT:	pasea por el bosque (.) molt bé (.) los pájaros y sus polluelos
+	+...
+*MIR:	a Mimi aquest petit .
+*MOT:	què diu la Mimi aquest petit (.) què diu ?
+*MIR:	a xxx .
+*MOT:	què ?
+*MIR:	ese@s gran ?
+%act:	points at something
+*MOT:	el què ?
+*MIR:	ese@s ?
+*MOT:	ese@s és gran ?
+*MOT:	bueno (.) ja mirarem després el conte (.) té .
+%act:	throws the book into the bath
+*MIR:	0 .
+%act:	opens the book
+*MIR:	no xxx .
+*MIR:	aixís sa obre a Mimi .
+*MOT:	aixís obre Mimi ?
+*MIR:	mira .
+%act:	shows the book to MOT
+*MOT:	mira (.) què veig (.) què hi ha (.) aquí hi ha ?
+*MIR:	enanitos@s .
+*MOT:	enanitos (.) aquí hi ha enanitos ?
+*MIR:	sí .
+*MIR:	aigua .
+*MIR:	també aigua .
+*MOT:	també hi ha aigua .
+*MOT:	i què més ?
+*MIR:	peix .
+*MOT:	un peix ?
+*MIR:	sí .
+*MOT:	i a l'aigua (.) què tens tu a l'aigua ?
+*MIR:	peix .
+*MOT:	un peix ?
+*MIR:	sí un peix .
+*MOT:	on t'està ?
+*MIR:	0 .
+%act:	lays herself down
+*MOT:	ah (.) tu ets el peixet (.) què hi ha allà ?
+*MOT:	l'esponja .
+*MOT:	no hi ha una esponja ?
+*MIR:	0 .
+%act:	picks up a sponge with the shape of an orange
+*MOT:	què és aquesta esponja (.) eh (.) què és ?
+*MIR:	cota [= ?] .
+*MOT:	eh ?
+*MIR:	cota [= ?] .
+*MOT:	una taronja .
+*MIR:	0 .
+%act:	picks up the book and closes it
+*MIR:	el plego ?
+*MOT:	el pleges (.) sí (.) el plego (.) vale (.) plega'l .
+*MIR:	0 .
+%act:	shakes the book in the air
+*MOT:	ui (.) no (.) no esquitxis que està mullat !
+*MOT:	què fas ?
+*MIR:	així .
+*MOT:	aixís (.) vols sortir de l'aigua (.) vols sortir de l'aigua ?
+*MIR:	a Ranita Rita .
+*MOT:	La Ranita Rita ?
+*MOT:	sí que ens l'endurem (.) la mirarem ara per sopar (.) vale ?
+*MIR:	0 .
+%act:	opens the book
+*MIR:	+" a Ranita Rita a pasea a bosque@s .
+*MOT:	molt bé (.) la Ranita Rita se paseaba por el bosque (.) los pájaros
+	y sus polluelos +...
+*MIR:	[- spa] se preparan a comer  .
+*MOT:	molt bé (.) se preparan para comer (.) molt bé !
+*MIR:	aquí no .
+%act:	looks at the page
+*MOT:	en aquí no (.) aquí passa una altra cosa (.) la ranita vuelve a
+	casa +...
+*MIR:	+" a jugar [= jugak] a (a)migos@s .
+*MOT:	a jugar con sus amigos (.) molt bé !
+*MIR:	0 .
+%act:	turns to another page
+*MIR:	+" visita a monos@s .
+*MOT:	molt bé (.) la ranita visita a sus amigos los monos (.) visita
+	monos .
+*MOT:	i aquí ?
+*MIR:	[- spa] a comer .
+*MOT:	a comer (.) molt bé (.) a comer !
+*MOT:	i a l'altra (.) qué coméis (.) les pregunta@s .
+*MIR:	+" manzanas a p(l)átanos@s .
+*MOT:	manzanas y plátanos .
+*MIR:	a passo a pàgina .
+*MOT:	a passo a pàgina (.) vale (.) a passo a pàgina .
+*MOT:	què fan aquí (.) què hi ha aquí ?
+*MIR:	té (.) té mama .
+%act:	gives the book to MOT
+*MOT:	té mama .
+*MOT:	què vols ?
+*MIR:	té mama .
+*MOT:	què vols (.) que el sequi i el mirem mentre sopem ?
+*MIR:	secat .
+*MOT:	l'asseco ?
+*MIR:	a Mimi fa aixís .
+*MIR:	a petit fa aixís .
+%act:	wrings a sponge
+*MOT:	la fas petita l'esponja ?
+*MIR:	no .
+%act:	makes it flat
+*MOT:	quin color és aquesta esponja ?
+*MIR:	verd .
+*MOT:	si (.) verda (.) l'esponja és verda .
+@End

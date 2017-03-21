@@ -1,0 +1,710 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, INV Susanna Investigator, MOT Mother,
+	MIR Mireia Sister
+@ID:	cat|change_me_later|EVA|1;10.5||||Target_Child|||
+@ID:	cat|change_me_later|INV|||||Investigator|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@Date:	26-SEP-1997
+@Location:	In the living-room and the toy-room
+@Activities:	looking at books and playing with toys
+@Comment:	MOT and INV take turns at video-taping
+*EVA:	0.
+%act:	touches her navel
+*MOT:	el ringring@c (.) es toca el ringring.
+%exp:	navel
+*MOT:	què porta la mama a la panxa?
+%act:	points to picture in book
+*MIR:	la Queta.
+*EVA:	la Queta!
+*MOT:	on és la Queta?
+*EVA:	0.
+%act:	points to picture in book
+*MOT:	no no hi és (.) encara no ha nascut aquí!
+*MIR:	aquesta.
+%act:	points to another picture in book
+*MOT:	és aquesta (.) Eva.
+*MIR:	www.
+*MOT:	www.
+*MOT:	i aquesta (.) qui és?
+*EVA:	la Queta.
+*MOT:	la Queta.
+*EVA:	xxx la Queta.
+*MOT:	què?
+*MIR:	no (.) aquesta és la Queta.
+*EVA:	és la Queta.
+*MOT:	mira aquest.
+*MOT:	qui és aquest?
+*EVA:	el Teo.
+*EVA:	no hi és la Queta.
+*EVA:	aqui!
+*MOT:	sí que és la Queta (.) està aqui!
+*EVA:	aqui.
+*MOT:	està mamant.
+*MIR:	www.
+*MOT:	www.
+*EVA:	una cocol .
+*MOT:	que va descalç?
+*MOT:	què s'ha de posar?
+*MIR:	sabatilles.
+*EVA:	la Queta.
+*MOT:	què fa la Queta?
+*MIR:	i el cotxe?
+*MOT:	està aqui.
+*MOT:	què fa el Teo?
+*MOT:	què és això?
+*EVA:	el bibe@c.
+%exp:	the baby bottle
+*MOT:	i què fa?
+*EVA:	la Queta.
+*MIR:	i la tele?
+*MOT:	no (.) això ho veurem després.
+*EVA:	i la tele?
+*MOT:	www.
+*MIR:	www.
+@New Episode
+*MOT:	a veure (.) que aquest t'agrada molt a tu.
+%act:	picks another book
+*MOT:	què són això?
+*MOT:	què és això (.) què li dona?
+*MOT:	què li dona el Pau a la foca?
+*MOT:	què és això?
+*EVA:	Pau.
+*MOT:	què menja la foca?
+*EVA:	xxx.
+%act:	stretches her arm on the table
+*MOT:	vols que em posi aquí com un ocellet?
+%act:	puts two fingers on EVA's arm and pretending to a bird
+*MOT:	i què és això?
+*EVA:	mira.
+*MOT:	què és això?
+*EVA:	0.
+%act:	pulls faces
+@New Episode
+*EVA:	mira (.) entrepà.
+*MOT:	l'entrepà.
+*EVA:	malo@s!
+*MOT:	per que es menja l'entrepà dels nens aquest gos.
+*MOT:	és dolent aquest gos (.) no ens agraden els gossos (.) eh?
+*MOT:	què fan els nens?
+*EVA:	a tele.
+*MOT:	sí senyor (.) miren la tele.
+*EVA:	a tele.
+*MOT:	s'ha disfressat de tele aquest nen (.) eh?
+*EVA:	mira un gelat.
+*MOT:	un gelat (.) aquest s'ha disfressat de gelat.
+*EVA:	Teo l'avi.
+*MOT:	l'avi del Teo que els porta a menjar un gelat (.) oi?
+*EVA:	l'avi.
+*MOT:	aquesta qui és?
+*EVA:	l'avi.
+*MOT:	aquesta qui és?
+*EVA:	la Queta.
+*MOT:	i què menja?
+*EVA:	un gelat.
+*MOT:	aquest qui és?
+*EVA:	el Teo.
+*MOT:	aquest és el Teo (.) i aquest?
+*EVA:	Teo.
+*MOT:	aquest és el Pau!
+*EVA:	Pau.
+*MOT:	el germà.
+*EVA:	mira aquest petitó.
+*MOT:	el petitó.
+*EVA:	aquest és petitó.
+*MOT:	la Queta (.) que petiteta (.) quina cara més petitona té.
+*EVA:	està a quí.
+*EVA:	aquí.
+%act:	turns page
+*EVA:	això un bobo@c.
+%exp:	sweet
+*MOT:	sí senyora (.) molt bé (.) un bobo!
+*MOT:	aquí.
+%act:	turns page
+*MOT:	aquest t'agrada em sembla.
+*MOT:	què la Queta aquí (.) què fa?
+*EVA:	oh@i.
+%act:	looks around
+*MOT:	què sents (.) una sirena (.) un soroll?
+*EVA:	soroll.
+*EVA:	mira.
+%act:	points to picture in book
+*MOT:	mira (.) què li passa a la Queta?
+*EVA:	xxx.
+*MOT:	què li ha caigut?
+*EVA:	la Queta.
+*MOT:	què li ha caigut aquí (.) què li ha caigut aquí (.) què li ha
+	caigut a terra?
+*MOT:	què és (.) què és?
+*MOT:	mira pobreta com plora per què no té pepe.
+%exp:	dummy
+*MOT:	mira (.) veus (.) el germanet l'agafa (.) el neteja el Teo.
+*MOT:	veus com el neteja?
+*MOT:	i aquí (.) està contenta la Queta?
+*MOT:	què li han donat?
+*EVA:	el Teo.
+%act:	turns page
+*MOT:	què hi ha aquí?
+*EVA:	xxx.
+*MOT:	estan a cole@c (.) Eva (.) estan a cole@c?
+*EVA:	cole@c.
+%exp:	school
+*MOT:	i què fan (.) què fan aquí?
+*EVA:	a cole@c.
+%exp:	school
+*MOT:	el Teo dibuixa.
+*MOT:	i aquí (.) que pinten tots.
+*MIR:	tinc pipi.
+*MOT:	doncs ves-lo a fer.
+*EVA:	jo pipi.
+*MOT:	www.
+%act:	leaves
+*INV:	què passa (.) qui hi ha aquí (.) Eva (.) qui hi ha?
+*INV:	que hi ha el Teo?
+*EVA:	sí.
+*INV:	a on?
+*EVA:	el Teo.
+*INV:	i on t'és el Teo?
+*EVA:	aquí.
+*INV:	aquí.
+*INV:	i què fa?
+*EVA:	està arbre.
+*EVA:	mira aquí.
+%act:	points to picture in book
+*INV:	que es vol enfilar a l'arbre?
+*EVA:	pipi.
+@New Episode
+*INV:	què han fet a la bombeta?
+*EVA:	trencat.
+*MOT:	i això (.) què és?
+*EVA:	trencat.
+*EVA:	pipi (.) pipi (.) pipi.
+%act:	sings
+*INV:	i què diu la mama (.) què els hi diu la mama?
+*EVA:	0.
+%act:	plays with book
+*INV:	què era això que ha passat (.) què hem sentit (.) què era?
+*EVA:	avió.
+*INV:	un avió (.) sí.
+*INV:	i quin soroll fa?
+*EVA:	pipi.
+*INV:	tens pipi?
+*EVA:	sí.
+*INV:	bueno@s.
+@New Episode
+*MOT:	www.
+*INV:	no (.) el Teo és aquest.
+*INV:	i què fa?
+*EVA:	el Pau.
+*INV:	en Pau (.) molt bé!
+*INV:	i amb què juga en Teo?
+*INV:	què és això?
+*EVA:	camió.
+*INV:	un camió.
+*INV:	i la nena (.) què té la nena aquí?
+*EVA:	nyamnyam@c.
+%exp:	food
+*INV:	una nina.
+*MOT:	no (.) li dona nyamnyam.
+*INV:	ah@i sí (.) sí sí.
+*EVA:	mira (.) ca la iaia!
+*INV:	la iaia?
+*EVA:	aquí no.
+%act:	tries to turn another page but there is not another one.
+*INV:	aquí no (.) s'ha acabat!
+*INV:	què és això?
+*EVA:	osito@s.
+*INV:	un osito (.) sí.
+*INV:	i què duu (.) i què duu la iaia al cap?
+*EVA:	la iaia.
+*INV:	sí (.) però què duu al cap?
+*EVA:	vull aquest.
+%act:	picks another book
+*EVA:	Queta.
+*INV:	sí (.) i el papa li fa una foto (.) oi (.) que és el bateig.
+*INV:	mira (.) qui és?
+*EVA:	a iaia.
+*INV:	la iaia (.) sí.
+*EVA:	Queta.
+*INV:	sí (.) i el Teo.
+*INV:	mirem aquest més gros.
+%cod:	picture
+*EVA:	a culete.
+*INV:	el culete (.) sí (.) el papa li posa talc.
+*MIR:	llapis (.) un llapis (.) mira.
+%cod:	shows her book to INV
+*INV:	com tu i la Mimi@c.
+%exp:	Mireia
+*INV:	oi que us banyeu a la banyera?
+*EVA:	peix.
+*INV:	un peix.
+*INV:	mira com plora (.) no li agrada (.) oi?
+*MIR:	a veure.
+*INV:	plora una mica (.) no li agrada.
+%act:	turns page
+*INV:	van de passeig.
+*INV:	què és això?
+*EVA:	un gos.
+*INV:	un gos (.) molt bé!
+*INV:	i què se li ha caigut a la Queta?
+*EVA:	Queta.
+*INV:	sí (.) però què se li ha caigut de la boca (.) què és?
+*EVA:	mira.
+*INV:	un barret.
+*INV:	ha caigut el pepe@c (.) oi?
+%exp:	dummy
+*MIR:	mira quantes pàgines (.) el meu és molt gros.
+%act:	shows her book to INV and EVA
+*MIR:	a veure si són iguals?
+%act:	puts her book on EVA's book
+@New Episode
+*INV:	va (.) explica'm què passa.
+*EVA:	xxx aquest.
+*INV:	això és llana de la iaia (.) la iaia fa jerseis pel Teo (.) pels
+	germans.
+*INV:	i el gos (.) què?
+*INV:	vol menjar.
+*INV:	vol menjar.
+*INV:	i la Queta què fa?
+*EVA:	xxx.
+%act:	coughs
+*INV:	menja (.) el teo li dona menjar (.) oi?
+*INV:	mirem un altre.
+%act:	turns page
+*EVA:	descalça!
+*INV:	què?
+*EVA:	(sa)batilles.
+*MOT:	que s'ha de posar sabatilles.
+*INV:	sí (.) va descalç (.) s'ha de posar sabatilles en Teo (.) oi?
+*INV:	la mama en duu?
+*INV:	i per què plora?
+*INV:	vol el xumet (.) oi?
+*EVA:	agua@s.
+*INV:	aigua?
+*EVA:	la Queta.
+*INV:	aquí té el pepe@c i aigua.
+*EVA:	xxx.
+*INV:	és menjar del gos.
+%act:	turns page
+*INV:	on t'estan (.) on ta van?
+*EVA:	mira Queta!
+*INV:	van en cotxe (.) eh (.) pel carrer.
+*EVA:	agua@s.
+*INV:	mira aquí quants jugets que li han donat.
+@New Episode
+*EVA:	0.
+%act:	is drinking water from her baby bottle
+*MOT:	www.
+*MOT:	què porta l'aigua (.) Eva (.) què té l'aigüeta?
+*MOT:	aigua (.) amb què?
+*EVA:	un piu@c.
+%exp:	bird
+%act:	stretches her arm on the table
+*INV:	0.
+%act:	puts two fingers on EVA's arm pretending to be a bird
+*INV:	un ocell (.) un colom.
+*INV:	què menja la foca (.) què li donen?
+*EVA:	0.
+%act:	plays with her bottle
+*INV:	què fas?
+*INV:	t'estas possant!
+*INV:	va (.) què menja la foca?
+*INV:	un peix.
+@New Episode
+*INV:	no m'ho vols explicar el que passa (.) eh (.) Eva?
+*EVA:	0.
+%act:	plays with her bottle
+*EVA:	tonto (.) tonto (.) tonto.
+*INV:	qui és tonto (.) el pallaso?
+*MOT:	que no hi ha una conillet?
+*EVA:	no.
+*MOT:	no.
+*INV:	i això (.) què és?
+*INV:	mira.
+%act:	points to rabbit on book
+@New Episode
+*MOT:	què vols fer tu?
+%act:	has EVA's bottle and EVA tries to snap it
+*EVA:	jo.
+*MOT:	tu què?
+*EVA:	jo (.) jo (.) jo.
+*MOT:	vols el bibe@c?
+%exp:	baby bottle
+*EVA:	sí.
+*MOT:	www.
+*MOT:	mira què veig aquí!
+%act:	opens book
+*MOT:	Eva (.) que busquem un tauró (.) Eva?
+*MOT:	què hi ha aquí (.) què hi ha?
+*INV:	què és això?
+*INV:	digue'm'ho que no ho veig.
+*EVA:	0.
+%act:	plays with her botthe
+*MOT:	això ho guardem.
+%act:	takes bottle
+*EVA:	0.
+%act:	cries
+*MOT:	et poso més aigüeta?
+*EVA:	més aigüeta (.) més.
+*MOT:	et poso més aigüeta?
+%act:	she has got EVA's bottle
+*EVA:	meu.
+*MOT:	sí (.) ja sé que és teu.
+*MOT:	vols més aigüeta amb sucre?
+*EVA:	0.
+%act:	takes bottle
+*MOT:	digues (.) vols més aigua amb sucre?
+*EVA:	no.
+*MOT:	no vols aigua amb sucre?
+*EVA:	0.
+%act:	plays with bottle
+*EVA:	0.
+%act:	looks under the table
+*MOT:	s'ha caigut?
+%act:	piece of the bottle
+*MOT:	no ho tinc jo això.
+*MOT:	de quin color és això?
+*EVA:	meu.
+*MOT:	no (.) de quin color és?
+*EVA:	color.
+*EVA:	mira!
+%act:	puts one finger inside the bottle teat
+*MOT:	què fas?
+*EVA:	xxx.
+*MOT:	on t'és el dit?
+*EVA:	aquí.
+*MOT:	aquí (.) que l'amagues?
+*EVA:	aquí.
+*MOT:	però això no és per jugar (.) això és per veure (.) vale?
+*EVA:	mira.
+%act:	plays with bottle
+*MOT:	Eva (.) dona'm la tetina (.) dona'm això.
+*MOT:	Eva (.) que no és per jugar (.) vale?
+%act:	snaps botlle from EVA
+*MOT:	poso més sucre (.) vols sucre?
+*EVA:	a tu no.
+*EVA:	jo (.) eh?
+%act:	takes bottle and plays with it
+*MOT:	tu no (.) jo (.) eh?
+*MOT:	això sempre ho diu (.) jo (.) eh?
+*MOT:	www.
+@New Episode
+@Comment:	in the toy-room. EVA is playing with a doll and a teddy bear
+*INV:	què fa?
+%act:	puts the doll lying on the floor
+*INV:	s'està assentat?
+*INV:	no.
+*MOT:	s'estira.
+*EVA:	0.
+%act:	puts teddy bear next to the doll
+*INV:	què fan?
+*EVA:	osito@s.
+*INV:	què fan?
+*INV:	nonnon@c?
+%exp:	go to sleep
+*EVA:	presses buttons on toy phone and it makes noise.
+*MOT:	oh no!
+*MOT:	què fas?
+@New Episode
+*EVA:	0.
+%act:	covers a doll with a towel
+*EVA:	mama (.) nina nonnon@c.
+*INV:	què has fet Eva?
+*EVA:	nina.
+*INV:	què els hi has fet?
+*EVA:	nina.
+*INV:	l'has tapat?
+*MOT:	hola Eva (.) bon dia Eva (.) que hem desperto (.) no tinc son (.)
+	no vull dormir!
+%act:	has picked doll and pretends she is the doll
+*MIR:	jo tampoc vull dormir.
+%act:	picks another doll
+*EVA:	ullets.
+*MOT:	ullets (.) els ullets (.) que els obre.
+*MOT:	t'has fixat que obre els ullets aquesta nina (.) és clar!
+*EVA:	xxx ullets.
+*MIR:	vols un vestit d'aquests?
+%act:	gives EVA a big scarf
+*MOT:	no ara no (.) ara l'Eva que parli una estona (.) que volem que
+	parli!
+*EVA:	volem que parli?
+*INV:	sí (.) què fa?
+%cod:	the doll
+*INV:	s'ha despertat?
+*EVA:	a nina.
+*EVA:	mama (.) a desperti a nina!
+%cod:	EVA does not want her mother to wake up the doll
+*MOT:	no vols que la desperti la nina (.) no vols que la desperti?
+*MOT:	no vull dormir (.) no vull dormir!
+%act:	pretending she is the doll
+*EVA:	xxx nina.
+%act:	covers doll with towel
+*MOT:	que la tapes tota (.) Eva?
+*MOT:	on té el cap?
+*MOT:	que es desperta la nina?
+%act:	picks doll
+*MOT:	que no vull dormir (.) que no vull dormir!
+%act:	pretends she is the doll
+*EVA:	mama no.
+%act:	puts doll on the floor and covers it with towel
+*EVA:	0.
+%act:	holds doll in her arms and sings
+*MOT:	no vols que es desperti la nina?
+@New Episode
+*EVA:	mira mama.
+%act:	points to a red thing on the towel
+*MOT:	ai (.) sí (.) ho treiem?
+*MOT:	una coseta vermella.
+*MOT:	de quin color és això?
+*EVA:	color.
+*MOT:	un trosset de llana.
+%act:	removes red thread from the towel
+*MIR:	un trosset de llana (.) què és un trosset de llana?
+*MOT:	una miqueta de llana (.) un fil de llana (.) ja està.
+*MOT:	Eva (.) se n'ha anat?
+*EVA:	0.
+%act:	covers doll with towel again
+*EVA:	aquí no (.) allà.
+%act:	picks doll from the floor and puts it on a chair
+*MOT:	no vull dormir (.) no vull dormir!
+%act:	picks doll and pretends she is the doll
+*EVA:	mama no!
+%act:	picks doll singing and puts it on the floor again
+*MOT:	què fa la nina (.) Eva?
+*EVA:	0.
+%act:	puts finger on her mouth asking for silence
+*MOT:	que li cantes tu a la nina?
+*EVA:	0.
+%act:	sings
+*MOT:	que es desperta la nina?
+*MOT:	em sembla que s'està despertant la nina (.) Eva.
+*MOT:	que es desperta la nina?
+*EVA:	no.
+%act:	rearranges towel on doll
+*MOT:	no (.) li tapes la cara (.) Eva?
+*EVA:	pilota.
+%act:	leaves doll and picks up a green ball
+*MOT:	de quin color és la pilota?
+*EVA:	color.
+*MOT:	eh?
+*EVA:	color.
+*EVA:	0.
+%act:	shakes rattle
+*INV:	què has trobat?
+*MOT:	què has trobat?
+*EVA:	0.
+%act:	shakes rattle
+@New Episode
+*MOT:	mira què hi ha per aquí.
+%act:	picks puppet
+*MOT:	qui és?
+*EVA:	nas!
+*MOT:	el nas.
+%act:	touches EVA's nose with the puppet
+*EVA:	nas!
+*MOT:	que t'agafo el nas (.) que t'agafo el nas!
+*EVA:	ara mama (.) ara mama.
+*MOT:	que t'agafo el nas!
+%act:	touches her nose with the puppet
+*MOT:	a la mama ja li ha agafat.
+*EVA:	ara Mimi@c.
+%exp:	Mireia
+*MOT:	que t'agafo el nas!
+%act:	touches MIR's nose with the puppet
+*EVA:	mama.
+*MOT:	t'agafo la pilota!
+%act:	snaps ball from EVA's hand
+*EVA:	a(l)t(r)a pilota.
+%act:	gives a green ball to the puppet
+*MOT:	què és això (.) què és això?
+*MIR:	una pilota.
+*MOT:	què és això?
+*EVA:	pilota mei.
+%exp:	vermell
+*MOT:	no (.) no és de color vermell.
+*MOT:	de quin color?
+*EVA:	color.
+*MOT:	no (.) no és de color.
+*MOT:	de quin color és?
+*EVA:	0.
+%act:	puts green ball on the puppet's hands
+*MOT:	és de color verd (.) verd!
+%act:	throws the ball
+*EVA:	o.
+%act:	catches the ball and gives it to MOT's puppet
+*MOT:	què ha passat (.) què ha passat?
+*MIR:	www.
+*MOT:	ai@i (.) que m'ha caigut.
+%act:	throws the ball again
+*MOT:	què ha passat?
+*EVA:	0 &=laughs.
+%act:	tries to catch the ball but MOT is faster and catches the ball with her puppet
+*MOT:	no te la dono (.) no te la dono.
+*EVA:	0.
+%act:	laughs and snaps tha ball from the puppet's hands
+*MIR:	mira quin bebé!
+%act:	shows MOT a doll in a pram
+*MOT:	ai@i (.) quin bebé més maco!
+*MOT:	on està la Susanna?
+%com:	Susanna is INV's name
+*EVA:	0.
+%act:	points around but cannot see INV
+*MIR:	aquí.
+*MOT:	què li dius (.) què li dius (.) que li dius a la Susanna?
+*EVA:	0.
+%act:	throws a ball to INV
+*INV:	oh@i (.) em tires la boleta?
+*MOT:	l'has tirat la pilota?
+*MOT:	que la tires?
+*EVA:	0.
+%act:	sings and dances
+*INV:	Eva (.) Eva!
+*MOT:	mira Eva (.) què és això?
+%act:	pulls a string from a box
+*INV:	Eva (.) mira!
+*MOT:	què surt per aquí (.) què surt per aquí?
+%act:	pulls a toy with wheels from a box
+*EVA:	0.
+%act:	picks up a toy and plays with it
+*MIR:	mira què estic trobant!
+%act:	is taking toys from the box
+*MOT:	sí (.) quantes coses (.) eh!
+*MIR:	sí (.) dos.
+*MOT:	0.
+%act:	looks for other toys in the box
+@New Episode
+*EVA:	0.
+%act:	is holding a big cube
+*MOT:	aquest és el gran.
+%act:	points to EVA's cube
+*MOT:	aquest el petit (.) ho veus?
+%act:	shows a small cube to EVA
+*MOT:	ah@i (.) mira (.) els tinc aquí.
+%act:	picks up another big cube from a box
+*MIR:	0.
+%act:	shakes a rattle making a lot of noise
+*EVA:	0 [=! cries].
+*MOT:	què vols (.) què vols (.) els barrilets?
+*MOT:	té.
+%act:	gives a small cube to EVA
+*MOT:	com és aquest (.) de quin color és aquest?
+*EVA:	0.
+%act:	has opened the small cube and is trying to put the two pieces together again.
+*MOT:	molt bé (.) ho has aconseguit!
+%com:	EVA has put the two pieces together
+*EVA:	xxx.
+%act:	takes a toy from the box and throws it on the floor twice
+*INV:	què fas Eva?
+*EVA:	0.
+%act:	approaches INV
+*INV:	ho tires?
+*EVA:	0.
+%act:	hides her face behind the toy and then throws it again
+*MOT:	que ha caigut (.) Eva (.) que ha caigut?
+*MOT:	ha caigut o ho has tirat?
+*INV:	www.
+*MOT:	Eva (.) hola!
+%act:	has a puppet and pretends the puppet is speaking to EVA
+*MOT:	qui soc?
+*MOT:	vine aquí (.) vina aquí.
+*EVA:	0.
+%act:	goes to MOT
+*MOT:	dóna'm la mà.
+*EVA:	0.
+%act:	shakes the puppet's hand
+*MOT:	hola!
+*EVA:	ara mama.
+*MOT:	0.
+%act:	shakes the puppet's hand
+*MIR:	www.
+*MOT:	ai@i ai@i (.) la panxolina@c!
+%exp:	tummy
+%act:	touches EVA's tummy with the puppet
+*EVA:	0 &=laughs.
+%act:	pulls up her dress showing her tummy
+*MOT:	què m'ensenyes (.) què m'ensenyes?
+*EVA:	0.
+%act:	shows her tummy again
+*MOT:	on t'està la careta de l'Eva?
+*EVA:	0.
+%act:	pulls her dress down
+*MOT:	hola!
+*MOT:	on t'estan les dents?
+*EVA:	0.
+%act:	shows her teeth
+*MOT:	0.
+%act:	touches EVA's nose with the puppet
+*EVA:	ara mama.
+*MOT:	0.
+%act:	touches her nose with the puppet
+*EVA:	0.
+%act:	goes next to a table and opens a drawer
+*MOT:	Eva (.) què fas (.) què fas?
+@New Episode
+*EVA:	ala@i (.) ala@i!
+%act:	has thrown a lot of toys on the floor
+*MOT:	ala@i (.) sempre diu això (.) ala@i!
+*EVA:	0.
+%act:	picks up a mask
+*INV:	què és això?
+*EVA:	0.
+%act:	picks up a case
+*EVA:	a iaia això (.) a iaia.
+*MIR:	0.
+%com:	is making a lot of noise
+*MOT:	la iaia t'ho ha comprat?
+*MOT:	i això que hi ha per aquí?
+%act:	picks up a toy with wheels
+*MOT:	no t'agrada.
+*MOT:	què és (.) què és?
+*MOT:	és un +...
+*EVA:	0.
+%act:	throws the case into the box
+*MOT:	que vé (.) que vé (.) que vé!
+%act:	pushes the wheeled toy towards EVA
+*EVA:	0 &=laughs.
+%act:	picks up this toy
+*MOT:	que el fas anar tu per terra?
+*EVA:	0.
+%act:	swings it around holding the string
+*INV:	què és (.) és una nina?
+*EVA:	nina.
+%com:	repeats INV's words
+*MOT:	no és una nina.
+*MOT:	què és?
+*EVA:	nina.
+*MOT:	no és una nina això.
+*MOT:	què és?
+*MOT:	si tu ho dius.
+*MOT:	és un cuc.
+*EVA:	nina no.
+*MOT:	nina no (.) és un cuc.
+*EVA:	cuc.
+*MOT:	és un cuc.
+*EVA:	oh@i!
+%act:	throws the worm away and picks up a very small doll
+*MOT:	que és petit o gran?
+*EVA:	0.
+%act:	sits on the floor and plays with the small doll
+*MOT:	que és petit o gran?
+*MOT:	és gran?
+*EVA:	petit.
+*MOT:	on t'està la careta?
+*EVA:	0.
+%act:	touches the doll's face
+*MOT:	i com és la careta?
+*EVA:	gran.
+*MOT:	és gran la careta (.) és gran?
+*EVA:	0.
+%act:	throws the doll into a box
+*EVA:	0.
+%act:	picks up`a box full of toys and tries to empty it on the floor
+*MOT:	quantes (.) eh!
+*EVA:	ara més.
+%act:	stands up and emties another box full of toys
+*MOT:	quantes coses (.) Eva (.) eh!
+*MIR:	0.
+%act:	is making a lot of noise.
+@End

@@ -1,0 +1,316 @@
+@UTF8
+@PID:	11312/c-00031877-1
+@Begin
+@Languages:	spa
+@Participants:	CHI Eduard Target_Child , MAR mare Mother
+@ID:	spa|SerraSole|CHI|1;4.||||Target_Child|||
+@ID:	spa|SerraSole|MAR|||||Mother|||
+@Comment:	m dona el menjar a e
+*CHI:	&+pcf [% "eee" , estira el brac com si demanes mes menjar] .
+*MAR:	0 .
+%act:	li dona una cullerada
+*CHI:	&+pcf [% "ee um" , toca l' espatllera de la trona] .
+*MAR:	no te subas eh .
+%mor:	adv|no=no pro:obj|te=you v|subi-2S&SUB&PRES=go_up co|eh .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MAR:	a_ver las manos .
+%mor:	co|a_ver=see pro:obj|la&f-PL=she n|mano&f-PL=hand .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	&+pcf [% "eee" , obre la ma] .
+*MAR:	la manita .
+%mor:	pro:obj|la&f=she n|mano-DIM-f=hand .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&+pcf [% "eee"] .
+*MAR:	come .
+%mor:	imp|come-2S&IMP=eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "eee" , amb entonacio creixent , asseñala amb el dit alguna cosa] .
+*MAR:	la música ?
+%mor:	pro:obj|la&f=she adj|músico-f=musical ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*CHI:	&+pcf [% "um" , entonacio decreixent , sembla una afirmacio] .
+*MAR:	espera , espera .
+%mor:	v|espera-3S&PRES=wait cm|cm v|espera-3S&PRES=wait .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&+pcf [% "aa , mm" , es queixa] .
+*MAR:	la música ?
+%mor:	pro:obj|la&f=she adj|músico-f=musical ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MAR:	la música ?
+%mor:	pro:obj|la&f=she adj|músico-f=musical ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MAR:	ahora la pongo , espera .
+%mor:	adv|ahora=now pro:obj|la&f=she v|pone-1S&PRES=put cm|cm
+	v|espera-3S&PRES=wait .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|5|SUBJ 5|3|OBJ 6|2|PUNCT
+*CHI:	&+pcf [% "mmm"] .
+*MAR:	a_ver las palmitas .
+%mor:	co|a_ver=see pro:obj|la&f-PL=she n|palma-DIM-f-PL=palm .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAR:	abre la boquita .
+%mor:	imp|abri-2S&IMP=open pro:obj|la&f=she n|boca-DIM-f=mouth .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAR:	0 .
+%com:	dona menjar a e i canta els cinco lobitos
+*CHI:	&+pcf [% "mm" , li cau el menjar de la boca] .
+*MAR:	no quieres mas ?
+%mor:	adv|no=no v|quere-2S&PRES=want conj|mas=moreover ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	&+pcf [% "eee" , es queixa] .
+*MAR:	mas ?
+%mor:	conj|mas=moreover ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "eee"] .
+*MAR:	0 .
+%act:	li dona una cullerada
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	quieres el yogurt ?
+%mor:	v|quere-2S&PRES=want det:art|el&m&SG=the n|yogurt&m=yogurt ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	&+pcf [% "aa" , mira a la camera , podria ser una salutacio] .
+@Comment:	m dona iogurt a e
+*CHI:	&+pcf [% "ee"] .
+*CHI:	&+pcf [% "mm"] .
+*MAR:	a_ver las palmitas Edu .
+%mor:	co|a_ver=see pro:obj|la&f-PL=she n|palma-DIM-f-PL=palm n:prop|Edu .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|MOD 5|1|PUNCT
+*CHI:	&+pcf [% "ee" , asseñala amb el dit] .
+*MAR:	ahora la pongo , ahora la pongo .
+%mor:	adv|ahora=now pro:obj|la&f=she v|pone-1S&PRES=put cm|cm
+	adv|ahora=now pro:obj|la&f=she v|pone-1S&PRES=put .
+%gra:	1|2|JCT 2|3|SUBJ 3|7|SUBJ 4|7|JCT 5|6|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*MAR:	espera .
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "mm"] .
+*MAR:	si .
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "ee"] .
+*CHI:	0 [= fa un inten per moure's] .
+*MAR:	no te pongas de pie que te pego .
+%mor:	adv|no=no pro:obj|te=you v|pone-2S&SUB&PRES=put prep|de=of
+	imp|pia-3S&IMP=chirp pro:rel|que=that pro:obj|te=you
+	v|pega-1S&PRES=hit_adhere .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|REL 7|8|SUBJ 8|6|ROOT
+	9|8|PUNCT
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	si , si .
+%mor:	conj|si=if cm|cm conj|si=if .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	si , si .
+%mor:	conj|si=if cm|cm conj|si=if .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	&+pcf [% "e" , es torna a moure] .
+*MAR:	si , si .
+%mor:	conj|si=if cm|cm conj|si=if .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAR:	venga , que nos vamos a la calle [= li dona iogurt] .
+%mor:	co|venga=come_on cm|cm pro:rel|que=that pro:obj|nos=us
+	v|i-1P&PRES=go aprep|a=to pro:obj|la&f=she
+	v|calla-13S&SUB&PRES=silence .
+%gra:	1|0|ROOT 2|1|COMP 3|2|REL 4|5|SUBJ 5|3|CMOD 6|5|APREP 7|8|JCT 8|6|POBJ
+	9|1|PUNCT
+*MAR:	vamos a la calle ?
+%mor:	v|i-1P&PRES=go aprep|a=to pro:obj|la&f=she
+	v|calla-13S&SUB&PRES=silence ?
+%gra:	1|0|ROOT 2|1|APREP 3|4|JCT 4|2|POBJ 5|1|PUNCT
+*CHI:	&+pcf [% "um" , podria ser una afirmacio] .
+*MAR:	venga , di adiós .
+%mor:	co|venga=come_on cm|cm imp|deci-2S&IMP=say co|adiós=goodbye .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	&+pcf [% "um" , fa adeu amb la ma] .
+*CHI:	&+pcf [% "mm"] .
+*MAR:	0 .
+%act:	li va donant iogurt
+*CHI:	&+pcf [% "a" , agafa la cullera del iogurt amb la ma esquerra] .
+*MAR:	dame [= li pren la cullera] .
+%mor:	imp|da-2S&IMP~pro:clit|1S .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MAR:	me lo llevo ?
+%mor:	pro:obj|me=me pro:obj|lo&m=him v|lleva-1S&PRES=carry ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&+pcf [% "e mm" , es queixa , vol la cullera] .
+*MAR:	0 .
+%act:	li dona
+*CHI:	0 .
+%act:	agafa la cullera
+*MAR:	come , come .
+%mor:	v|come-3S&PRES=eat cm|cm v|come-3S&PRES=eat .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&+pcf [% "mm" , es posa la cullera a la boca] .
+*CHI:	&+pcf [% "ee" , enseña la cullera a m] .
+*MAR:	come , come .
+%mor:	v|come-3S&PRES=eat cm|cm v|come-3S&PRES=eat .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@Comment:	e juga amb el iogurt buit i la cullera sense dir res
+*CHI:	&+pcf [% "ee" , enseña la cullera a m] .
+*MAR:	me la das ?
+%mor:	pro:obj|me=me pro:obj|la&f=she v|da-2S&PRES=give ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&+pcf [% "ummm" , agafa la cullera amb la ma dreta i la posa dins el iogurt] .
+*CHI:	&+pcf [% "eee" , li ha caigut la cullera , mira a terra i la demana] .
+*MAR:	0 .
+%act:	li dona la cullera
+*CHI:	&+pcf [% "ee" , es posa la cullera a la boca] .
+*CHI:	&+pcf [% "ee" , mira a m] .
+*CHI:	&+pcf [% "ee" , com si intentes cridar l' atencio de m] .
+*CHI:	0 .
+%act:	va jugant amb la cullera
+@Comment:	tall a la cinta , m a baixat e de la trona i li neteja els mocs
+*CHI:	&+pcf [% "ee" , es queixa] .
+*MAR:	estas mocoso eh .
+%mor:	det:dem|este-f-PL=this n|mocoso-m=youth co|eh .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*MAR:	0 .
+%act:	treu el pitet a e i desa la trona
+*CHI:	&+pcf [% "ee" , va cap m , es queixa] .
+*MAR:	espera , espera .
+%mor:	v|espera-3S&PRES=wait cm|cm v|espera-3S&PRES=wait .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MAR:	ah , la quieres ?
+%mor:	co|ah cm|cm pro:obj|la&f=she v|quere-2S&PRES=want ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MAR:	la dejo aquí .
+%mor:	pro:obj|la&f=she v|deja-1S&PRES=leave adv|aquí=here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	&+pcf [% "eje" , li ha caigut la cullera] .
+*CHI:	&+pcf [% "a" , s' ajup a recollir'la] .
+*CHI:	&+pcf [% "aa" , va a buscar a m] .
+@Comment:	e dona tombs pel menjador , llenca i replega la cullera
+*CHI:	&+pcf [% "ee"] .
+*CHI:	&+pcf [% "umm"] .
+*CHI:	&+pcf [% "ue ee ee" , insistentment , esta davant la radio , vol música] .
+*MAR:	quita la mano [= posa música] .
+%mor:	imp|quita-2S&IMP=remove pro:obj|la&f=she n|mano&f=hand .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	&+pcf [% "e"] .
+*CHI:	0 .
+%act:	replega la cullera que havia llencat al demanar la música , se la posa a la boca
+*CHI:	0 .
+%act:	va llencant i recollint la cullera
+*CHI:	&+pcf [% "ee"] .
+*CHI:	caca [% "ca" , replega la cullera de terra] .
+%mor:	n|caca&f=feces .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	caca .
+%mor:	n|caca&f=feces .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	caca .
+%mor:	n|caca&f=feces .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "eee" , vol pujar a la trona] .
+*CHI:	&+pcf [% "eeee" , insisteix] .
+*CHI:	0 [= plora i pataleja] .
+*MAR:	Edu [= li dona la cullera per a que calli] .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	no te la metas en la boca eh .
+%mor:	adv|no=no pro:obj|te=you pro:obj|la&f=she v|mete-2S&SUB&PRES=put
+	prep|en=in det:art|el&f&SG=the n|boca&f=mouth co|eh .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|MOD
+	9|4|PUNCT
+*CHI:	0 .
+%act:	llenca la cullera i la replega
+*CHI:	&+pcf [% "ee" , juga amb la cullera en el moble on hi ha l' aparell de música] .
+*CHI:	&+pcf [% "a" , ha posat la cullera sota el moble] .
+*CHI:	&+pcf [% "aa" , es posa dret i toca la radio] .
+*CHI:	&+pcf [% "aa"] .
+*CHI:	&+pcf [% "mmm" , surt del menjador buscant a m] .
+*MAR:	Edu .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAR:	Edu .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "e" , torna] .
+*MAR:	tat@c .
+%mor:	chi|tat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "eje" , al tornar cap al menjador li ha caigut el iogurt] .
+*MAR:	me lo llevo ?
+%mor:	pro:obj|me=me pro:obj|lo&m=him v|lleva-1S&PRES=carry ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MAR:	me lo llevo [= agafa el iogurt] ?
+%mor:	pro:obj|me=me pro:obj|lo&m=him v|lleva-1S&PRES=carry ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&+pcf [% "ee" , es queixa , vol el iogurt] .
+*CHI:	&+pcf [% "ee" , agafa el iogurt] .
+@Comment:	tall a la cinta , e esta assegut a terra amb una cistella davant
+*CHI:	0 .
+%act:	s' aixeca i va cap al vídeo
+*CHI:	&+pcf [% "ee" , toca el vídeo] .
+*MAR:	Edu .
+%mor:	n:prop|Edu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "ee" , mira a m] .
+*CHI:	&+pcf [% "eee" , va cap a m] .
+*CHI:	&+pcf [% "mm" , torna cap al vídeo] .
+*CHI:	&+pcf [% "ta" , toca el vídeo] .
+*MAR:	Edu mira [= mou una joguina] .
+%mor:	n:prop|Edu co|mira=look .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MAR:	cogelo [= li dona la joguina] .
+%mor:	imp|coge-2S&IMP~pro:clit|OBJ&m .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*CHI:	0 .
+%act:	deixa la joguina i va cap al vídeo
+*CHI:	&+pcf [% "aa" , toca el vídeo] .
+*CHI:	&+pcf [% "ee" , juga amb el vídeo] .
+*MAR:	mira Edu [= mou la joguina de abans] .
+%mor:	co|mira=look n:prop|Edu .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	&+pcf [% "ee" , mira la joguina pero no l' interessa] .
+*CHI:	&+pcf [% "iii" , toca el vídeo] .
+*MAR:	Edu para [= li acosta la joguina] .
+%mor:	n:prop|Edu prep|para=for .
+%gra:	1|0|ROOT 2|3|INF 3|1|PUNCT
+*CHI:	&+pcf [% "eee" , mira la joguina] .
+*CHI:	0 .
+%act:	juga amb la joguina un moment , torna al vídeo
+*CHI:	&+pcf [% "eea" , toca el vídeo] .
+*CHI:	&+pcf [% "eje ee" , intenta treure la cinta de vídeo que esta posada] .
+*MAR:	0 .
+%act:	guarda la cinta
+*MAR:	Edu mira .
+%mor:	n:prop|Edu co|mira=look .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MAR:	otro [= li acosta una altra joguina] .
+%mor:	pro:indef|otro-m=other .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&+pcf [% "ee a" , es passeja amb la joguina a la ma] .
+*CHI:	&+pcf [% "ee" , llenca la joguina i l'asseñala mirant a m] .
+*MAR:	si , ya la has roto .
+%mor:	conj|si=if cm|cm adv|ya=already pro:obj|la&f=she
+	v|habe-2S&PRES=have part|rompe-PPART-m=break .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|6|SUBJ 5|6|AUX 6|2|POBJ 7|1|PUNCT
+*CHI:	&+pcf [% "e ee e" , encara asseñala la joguina] .
+*MAR:	venga , arreglalo [= li dona un tros de joguina trencada] .
+%mor:	co|venga=come_on cm|cm imp|arregla-2S&IMP~pro:clit|OBJ&m .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ2 5|1|PUNCT
+*CHI:	&+pcf [% "ee" , intenta arreglar'ho] .
+*CHI:	0 .
+%act:	es passeja per l' habitacio amb la joguina a la ma
+*CHI:	0 .
+%act:	llenca la joguina i va cap a les cortines
+*CHI:	&+pcf [% "ee" , toca les cortines] .
+*CHI:	&+pcf [% "ee" , allarga el brac cap a m] .
+*CHI:	0 .
+%act:	dona tombs per l' habitacio a veure amb que pot jugar
+*CHI:	&+pcf [% "eea" , agafa un cistell ple de joguines] .
+@Comment:	del frame 1914 fins el 2009 no hi ha interaccio ni verbalitzacions , e esta assegut a terra jugant
+*CHI:	&+pcf [% "ee e" , enseña a m una joguina] .
+*CHI:	&+pcf [% "aa" , col'loca les joguines dins el cistell] .
+*CHI:	&+pcf [% "ca" , continua col'locant joguines] .
+*CHI:	&+pcf [% "ca" , te una cassola a la ma , pero yo no veig clar que vulgui dir cassola] .
+*CHI:	&+pcf [% "aca" , llenca la cassola] .
+*CHI:	0 .
+%act:	treu i posa joguines en el cistell
+*CHI:	&+pcf [% "ee" , enseña el cistell a m] .
+*MAR:	cogelo tu .
+%mor:	imp|coge-2S&IMP~pro:clit|OBJ&m det:poss|tu=your .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ2 4|1|PUNCT
+*CHI:	&+pcf [% "e" , enseña una joguina a m] .
+*CHI:	&+pcf [% "ca" , agafa una joguina] .
+@End

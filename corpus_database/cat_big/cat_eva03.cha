@@ -1,0 +1,273 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MOT Mother, MIR Mireia Sister
+@ID:	cat|change_me_later|EVA|2;1.27||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@Date:	17-JAN-1998
+@Location:	In the playing room
+@Activities:	Playing with dolls
+@Comment:	MOT is video-taping
+*MOT:	què m'explicaves de la Barbie (.) què li passa?
+*EVA:	bora.
+%cod:	plora
+%act:	shows Barbie doll to MOT
+*MOT:	plora (..) què m'has dit abans (.) plora Barbie (.) plora Barbie.
+*MOT:	i què li fas tu?
+*EVA:	oh@i oh@i oh@i!
+%act:	holds the doll in her arms
+*EVA:	ara tu.
+%act:	gives doll to MOT
+*MOT:	ara jo?
+*EVA:	sí.
+*MOT:	oh@i oh@i oh@i (.) ja està.
+*EVA:	nara no pora?
+%cod:	ara no plora?
+*MOT:	no (.) ara no plora.
+*EVA:	ami tots ninus [=! sings].
+%act:	looks at the toys on the floor
+*MOT:	què fan tots els ninos?
+*EVA:	mira.
+%act:	shows something to MOT
+*MOT:	què m'ensenyes?
+*EVA:	bateta Nancy (.) Nancy [=! shouts].
+%cod:	sabateta de la Nancy
+*MOT:	sabateta de la Nancy?
+*EVA:	sí!
+*MOT:	on és (.) em sembla que està per aquí (.) mira-la!
+*EVA:	qui (.) sa per qui (.) sa per qui xxx.
+%cod:	aquí , està per aquí , està per aquí xxx .
+*MOT:	però vine aquí (.) vine aquí Eva (.) vine amb mi (.) posa-la a
+	dormir (.) vine.
+*MOT:	vine amb mi (.) posa-la allà amb la Barbie que està molt soleta (.)
+	la Barbie.
+*EVA:	mira una sa [/] una basaseta [: sabateta].
+%act:	puts a shoe to a doll
+*MOT:	una sabateta?
+*EVA:	sí (.) de la Nancy!
+*MOT:	hmm@i?
+*EVA:	xxx.
+*MOT:	què?
+*EVA:	xxx Nancy mira (.) té pa(n)talons.
+%act:	holds a Barbie dressed in trousers
+*MOT:	ah@i sí (.) té pantalons?
+*EVA:	sí (.) i aque(s)ta no té pa(n)talons.
+%cod:	takes a Barbie dressed in a dress
+*MOT:	no (.) què té aquesta?
+*EVA:	ve(s)tidet!
+*MOT:	hmm@i.
+%com:	assenting
+*MOT:	de quin color?
+*EVA:	rosa.
+*MOT:	que és maco?
+*EVA:	sí (.) vull epullar.
+%cod:	sí (.) vull despullar
+*MOT:	vols despullar?
+*EVA:	sí (.) no kup ebi e ve(s)tidet.
+%cod:	sí (.) no puc obrir el vestidet
+%act:	tries to unfasten the dress
+*MOT:	què?
+*EVA:	no po (.) ubi e ve(s)tidet.
+%cod:	no puc obrir el vestidet
+*EVA:	e ve(s)tidet e Ba(r)bie.
+%cod:	el vestidet de la Barbie
+*MOT:	què dius?
+*EVA:	xxx ve(s)tidet xxx no va bé xxx.
+%act:	still trying to undress Barbie
+*MOT:	no tindrà fred +...
+*EVA:	no.
+*MOT:	+, si la despulles?
+*EVA:	a no.
+%cod:	ara no.
+*MOT:	ara no té fred?
+*EVA:	no.
+*MOT:	i tu?
+*EVA:	no!
+*MOT:	no!
+*EVA:	e ve(s)tidet!
+%act:	lifts Barbie above her head
+*MOT:	ai@i (.) que balla la Barbie?
+*EVA:	no.
+*MOT:	hmm@i.
+*EVA:	xxx pullo.
+%cod:	xxx despullo.
+*MOT:	què?
+*EVA:	mira hi ha Ba(r)bies!
+%act:	goes to a toy box
+*MOT:	a on hi ha Barbies?
+*EVA:	aquí dorm xxx.
+*MOT:	aquí dormint (.) ah@i sí (.) hi ha Barbies (.) i què fan aquestes
+	Barbies?
+*EVA:	dorm.
+*MOT:	eh@i?
+*EVA:	dorm i e manteta (.) no [/] una manteta.
+*MOT:	una manteta (.) sí (.) qui les va tapar?
+*EVA:	e Mireia!
+%exp:	Eva's sister
+*MOT:	hmm@i.
+%com:	assenting
+*EVA:	xxx trobo.
+*MOT:	estan dormint (.) eh@i les Barbies (.) les altres.
+*MOT:	la teva s'ha despertat (.) oi@i?
+*EVA:	mira.
+%act:	looks at Barbie's face
+*MOT:	s'ha despertat la teva (.) sí?
+*EVA:	sí.
+*MOT:	i què vol fer ara?
+*EVA:	pullar (.) vull soleta (.) vull jo sole [=! coughs] +/.
+%cod:	despullar
+%act:	tries to undress Barbie
+*MOT:	qui la despulla?
+*EVA:	jo (.) m'apulles e tu?
+%act:	gives doll to MOT
+%cod:	jo (.) me la despulles tu
+*MOT:	què?
+*EVA:	m'apulles e Ba(r)bie meva?
+%cod:	em despulles la meva Barbie
+*MOT:	em despulles la Barbie meva (.) sí (.) t'ajudo?
+%com:	MOT quotes EVA's words
+%act:	EVA takes another doll while MOT is undressing Barbie
+*EVA:	sí (.) xxx pits ipits i +/.
+*MOT:	aquesta Na +/.
+*EVA:	+, bracets.
+*MOT:	+, aquesta Nancy té pits i bracets i què més?
+*EVA:	pa(n)talons trec i puc i no puc.
+%act:	trying to undress Nancy
+*MOT:	+" pantalons trec i puc i no puc.
+%com:	MOT is repeating EVA's words
+*MOT:	i el cabell com el té?
+*EVA:	molt llarga!
+*MOT:	molt llarga?
+*EVA:	sí.
+*MOT:	és maco aquest cabell?
+*EVA:	0.
+*MOT:	mira té (.) la Barbie.
+%act:	gives naked Barbie to EVA
+*EVA:	apullat.
+%cod:	despullat
+*MOT:	l'he despullat (.) sí (.) té el vestit (.) el vols?
+*EVA:	sí.
+*MOT:	té.
+%act:	gives dress to EVA
+*EVA:	era mamanyera.
+%act:	looks around for something
+%cod:	era una banyera
+*MOT:	què carinyo (.) era què?
+*EVA:	era una manyera.
+%cod:	era una banyera
+*MOT:	ah@i (.) busques una banyera?
+*EVA:	sí.
+*MOT:	la vols banyar?
+*EVA:	sí.
+*MOT:	i si agafes la pandereta i fas veure que és una banyera?
+*EVA:	0.
+%act:	starts looking for an object to use as a bath
+*MOT:	està aquí sota (.) a sota la taula.
+*EVA:	oh@i?
+%act:	takes a musical instrument
+*MOT:	0 &=laughs.
+*EVA:	queta?
+%cod:	aquesta
+*MOT:	sí.
+*EVA:	vale (.) és e banyera.
+%act:	plays the instrument
+*MOT:	0 &=laughs.
+*EVA:	ea@i ea@i!
+%act:	sings
+*MOT:	a veure si trobem una altra cosa perquè sigui la banyera (.) vols
+	això?
+%act:	takes a green pot
+*EVA:	sí.
+*MOT:	és això la banyera?
+*EVA:	0.
+*MOT:	què vols (.) què prefereixes?
+*EVA:	0.
+%com:	MIR enters the playing room
+*MIR:	mama (.) també vull tocar la pandereta (.) xxx vull la de fusta.
+*MOT:	i què ha passat amb el vídeo Mireia?
+*MIR:	és més maca (.) eh@i (.) la de fusta xxx.
+%com:	MIR is talking to EVA
+*MOT:	Mireia (.) carinyo.
+*MIR:	aquesta és més mona (.) eh@i?
+%act:	takes a smaller instrument and gives it to EVA
+*EVA:	la meva (.) é(s) la meva aque(s)ta!
+*MOT:	0 &=laughs.
+*EVA:	la manyera xxx.
+%cod:	la banyera xxx
+*MOT:	on la posaràs a banyar Eva (.) i aquí (.) posa-la a banyar aquí (.)
+	no?
+*EVA:	vale@s .
+%act:	tries to put Barbie into the pot
+*EVA:	ai@i!
+*MOT:	oh@i (.) no hi cap?
+*EVA:	sí.
+*MOT:	hi cap o no?
+*EVA:	sí.
+*MIR:	no (.) fica-la a banyar aquí (.) aquí Eva.
+%act:	takes a pillow
+*EVA:	no (.) no vull.
+%act:	plays the instrument
+*MOT:	què Eva?
+*EVA:	0.
+*MOT:	Eva mira'm (.) què és això?
+%act:	shows EVA a toy
+*EVA:	una vaca.
+%act:	still playing the instrument
+*MOT:	hmm@i.
+%com:	assenting
+*MIR:	mama.
+*MOT:	ui@i (.) què fas?
+%com:	EVA has hit the instrument very hard
+*MIR:	xxx.
+*MOT:	ole@i!
+*MIR:	xxx.
+@New Episode
+*MOT:	xxx marxi?
+*EVA:	no.
+*MOT:	no?
+*EVA:	mira.
+%act:	shows a naked Barbie to MOT
+*MOT:	mira què?
+*EVA:	mira.
+*MOT:	què és?
+*EVA:	0.
+*MOT:	eh@i?
+*MOT:	encara estem al mateix dia (.) oi@i xxx ?
+*EVA:	i el ve(s)tidet (.) el ve(s)tidet?
+*MOT:	i el vestidet# on t'està el vestidet (.) estem a dia diezysiete de
+	gener de mil novecientos noventa y ocho.
+*EVA:	mira meva Ba(r)bie.
+%act:	makes Barbie open its legs
+*MOT:	què fa?
+*EVA:	xxx ara balla ara balla xxx ara balla ara balla xxx.
+%com:	sings a popular song
+*MOT:	el Gegant del Pi ara balla?
+*EVA:	sí (.) un collar.
+*MOT:	què porta?
+*EVA:	veti [/] vetidet!
+%cod:	vesti vestidet
+*EVA:	aquí posa e Ba(r)bie.
+%act:	tries to put Barbie in its car
+*MIR:	a veure (.) que te la fico (.) vale?
+%act:	puts Barbie in its car
+*EVA:	vale (.) e ve(s)tidet xxx.
+*MOT:	què (.) què dius Eva?
+*EVA:	mira aquí# aquí (.) aquí e ve(s)tidet!
+%act:	EVA has found Barbie's dress on the floor and picks it up
+*MIR:	te'l fico?
+%act:	takes the dress
+*EVA:	sí.
+*MIR:	xxx.
+*EVA:	xxx.
+*MIR:	xxx que el cotxe és meu.
+*EVA:	fica e Ba(r)bie.
+%com:	EVA wants MIR to put the doll into the car
+*MIR:	www.
+*MOT:	www.
+*EVA:	xxx.
+*MIR:	la fiquem a banyar?
+*EVA:	sí.
+%act:	takes another doll.
+*MIR:	www.
+@End

@@ -1,0 +1,64 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother, EVA Sister
+@ID:	cat|change_me_later|MIR|2;2.1||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|EVA|||||Sister|||
+@Date:	11-JAN-1996
+@Location:	in the bedroom
+@Activities:	MIR is playing with her little sister, who is lying on the bed
+@Comment:	MOT is video-taping
+*MOT:	què li dius (.) què li dius ?
+*MIR:	hola !
+*MOT:	què li deies abans (.) eh ?
+*MOT:	mira com riu ella quan et veu a tu .
+*MIR:	només camino per sobre .
+%act:	walks on the bed
+*MOT:	Mimi (.) què li deies abans ?
+*MOT:	mira com riu quan et veu .
+*MOT:	què li deies (.) què li deies (.) eh ?
+*MIR:	mira .
+%act:	touches her sister's ear
+*MOT:	maca .
+*MOT:	no li deies maca ?
+*MIR:	digu maca ?
+*MOT:	sí .
+*MIR:	maca !
+*MIR:	porto una tovalloleta [= tuvulleta] .
+*MIR:	això a tovalloletes [= tuvulletes] aquestes .
+%act:	fetches a box of tissues
+*MOT:	bueno (.) vale .
+*MIR:	té .
+*MIR:	vols una ?
+*MIR:	no !
+*MIR:	poso aquí .
+%act:	puts the box on the bed next to the baby . MIR climbs on the bed again
+*MIR:	ma pujat al llit .
+*MOT:	ja ho veig ja que t'has pujat al llit .
+@New Episode
+*MOT:	què li fas ?
+*MIR:	0 .
+%act:	kisses her sister
+*MOT:	així (.) no ploris (.) digues'li (.) digues (.) no t'espantis que
+	sóc jo (.) la Mimi .
+@New Episode
+*MOT:	mira com et mira (.) posa't allà com et posaves abans (.) mira com
+	et mira l'Eva (.) mira com et mira (.) digues'li cosetes .
+*MIR:	hola !
+*MOT:	has vist com et mira ?
+*MIR:	hola !
+*MIR:	aquesta al vinticinc de desembre agrada molt ?
+*MOT:	sí que li agrada molt (.) li agrada molt .
+%act:	MIR sings a Christmas song
+*MIR:	el vinticinc de desembre .
+*MIR:	fum fum fum .
+*MIR:	un minyonet ros e blanquet .
+*MIR:	fill d'una establia .
+*MIR:	fum fum fum .
+*MIR:	la verge Maria nat en una establia .
+*MIR:	fum fum fum .
+*MOT:	mira com li agrada (.) molt bé (.) Mimi (.) el vinticinc de
+	desembre (.) bravo !
+%act:	MIR sings the song again
+@End
