@@ -1,0 +1,117 @@
+*PAD:	qué haces María ? 64800_65698
+*PAD:	qué estás haciendo ? 66898_67888
+*PAD:	qué cosas haces ? 69051_70081
+*PAD:	qué ? 73005_73915
+*PAD:	cómo dices ? 75440_77975
+*PAD:	coger botes ? 79581_81406
+*PAD:	vaya , y luego qué haces ? 82430_85391
+*PAD:	bueno , vale . 88880_89856
+*PAD:	a_ver ? 94311_95003
+*PAD:	eso es un plato ? 96646_98353
+*PAD:	no , esa es una botella . 98353_100178
+*PAD:	sí . 101870_102651
+*PAD:	botella . 105306_106106
+*PAD:	botella . 107950_108965
+*PAD:	sí . 110550_111615
+*PAD:	para beber ? 116261_116821
+*PAD:	seguro ? 117371_118341
+*PAD:	está bueno ? 118341_120328
+*PAD:	está bueno ? 120328_124185
+*PAD:	no . 125723_126218
+*PAD:	está bueno ? 126938_127826
+*PAD:	la botella ? 127826_129796
+*PAD:	seguro ? 129796_131626
+*PAD:	vale . 142608_143218
+*PAD:	yo ? 158583_159255
+*PAD:	gracias , hija . 160113_160970
+*PAD:	toma tú . 160970_162358
+*PAD:	mira a_ver si está rica . 162358_164551
+*PAD:	pruébala . 164551_165440
+*PAD:	estaba buena ? 167461_171678
+*PAD:	eh ? 173056_173721
+*PAD:	no ? 174631_177920
+*PAD:	bueno no dice ni pío Marián , ya estoy desesperado . 177920_184478
+*PAD:	xxx . 184478_188936
+*MAD:	María , dale de merendar a Malena , por_favor , que tiene mucha hambre . 188936_193021
+*MAD:	sí . 195098_195698
+*MAD:	vale ? 195698_199283
+*MAD:	pues anda , dale de merendar a Malena . 201230_203158
+*MAD:	sí , por_favor . 203903_204750
+*MAD:	sí , mi vida . 205421_206085
+*MAD:	sí . 206583_207103
+*MAD:	luego vamos a la calle , vale ? 209093_211213
+*MAD:	xxx . 212613_213670
+*MAD:	sí . 214473_215298
+*MAD:	sí , mi vida ? 216785_217706
+*MAD:	sí , mi vida , sí ? 218698_220928
+*MAD:	xxx . 222570_227015
+*MAD:	dale de merendar a Malena ahí en la terraza . 227015_232218
+*PAD:	a dónde vas ? 232218_251986
+*PAD:	pero , qué estabas haciendo ? 252738_254145
+*PAD:	el qué ? 256176_256903
+*PAD:	que me has dicho antes ? 257911_259623
+*PAD:	dónde venías ? 259623_260621
+*PAD:	cómo ? 261375_262230
+*MAD:	se ha lavado las manos . 263246_264406
+*PAD:	ah . 264406_264880
+*PAD:	Mamá ? 264880_266153
+*MAD:	qué ? 266153_266985
+*PAD:	www [= habla con Mamá] . 266985_279641
+*PAD:	llueve [% cantando] . 344271_345173
+*PAD:	qué estás haciendo con los zapatos ? 346796_348693
+*PAD:	no pero no se hace falta , cariño , están abrochados . 351415_354061
+*PAD:	no los abroches tú , vale ? 354791_356373
+*PAD:	lo vas a abrochar ? 356373_361086
+*PAD:	no verdad ? 362526_362878
+*MAD:	qué ? 362878_363806
+*PAD:	no ella , que me quiere abrochar los cordones . 363806_365430
+*PAD:	abrochar no . 373565_374323
+*MAD:	María , mira lo que trae Mamá . 374323_384093
+*MAD:	qué es esto ? 384856_385845
+*MAD:	a medicina , para qué es la medicina ? 387496_389551
+*MAD:	María no me vaciles venga por_favor ven aquí . 391706_394736
+*MAD:	María ? 394736_397965
+*MAD:	xxx . 398971_401776
+*MAD:	vengas por la mitad ? 401776_403878
+*MAD:	ven aquí anda . 404863_405620
+*PAD:	no cuela eh ? 405620_407461
+*MAD:	eh ? 407461_407903
+*PAD:	que no cuela . 407903_408691
+*MAD:	te estás manchando la chaqueta María con la pared . 408691_412150
+*MAD:	xxx . 416895_423880
+*MAD:	María . 423880_424726
+*PAD:	qué ha pasado ? 424886_425456
+*PAD:	te has ensuciado ? 425456_427310
+*PAD:	por_qué ? 428196_428921
+*PAD:	por_qué te has ensuciado ? 430331_431546
+*PAD:	la tos te ha ensuciado ? 432291_434161
+*PAD:	xxx . 434161_438210
+*MAD:	0 [% vuelve con una balleta] . 438210_439436
+*PAD:	qué , le tienes que dar otra ? 441856_444050
+*MAD:	no , la voy a limpiar porque se ha manchado . 444050_446050
+*MAD:	si no luego no se quita . 446050_447008
+*MAD:	ven aquí ! 447008_448185
+*MAD:	cochina , mira el vestido nuevo cómo que lo has puesto ! 448185_454641
+*MAD:	qué ? 466295_467236
+*MAD:	ven aquí que te lo limpio . 468881_471571
+*MAD:	cómo te has puesto ! 471571_475065
+*PAD:	qué dijo pestes ? 479751_482046
+*MAD:	cómo te has puesto verdad ? 482220_483713
+*MAD:	cómo te has puesto . 483713_484691
+*MAD:	sí , luego te lo voy a &+tar en la cara . 490165_491986
+*MAD:	xxx . 492810_500440
+*MAD:	qué vas a hacer ? 502770_503513
+*MAD:	qué vas a hacer ahora ? 504511_506211
+*MAD:	vas a merendar [% le da un yogourt] ? 508363_512081
+*MAD:	debía haberte puesto la babela@f para darte la medicina pero como no paras . 512429_517120
+*MAD:	el yogur . 525423_528748
+*PAD:	pero María qué pasa hija , qué pasa ? 538980_542678
+*MAD:	bueno , me perdonas ? 545505_546556
+*MAD:	vale ? 546556_548013
+*MAD:	me perdonas ? 548013_548906
+*MAD:	qué pasa ? 548906_552905
+*PAD:	xxx . 552905_556630
+*MAD:	me perdonas ? 556630_558821
+*MAD:	eh ? 558821_560365
+*MAD:	gracias María , un besito ? 560365_562731
+*MAD:	la mano me das la mano ? 562731_565315

@@ -1,0 +1,883 @@
+*JOA:	no es un oro , no .
+*JOA:	aixo es un oro .
+*JOA:	que es aixo ?
+*JOA:	que es aixo [= li ensenya una carta] ?
+*JOA:	aixo una gallina ?
+*JOA:	no !
+*JOA:	un oro no .
+*JOA:	si , aqui xxx a veure un que xxx i l' altre que vagi dient les cartes , eh ?
+*JOA:	a veure si surt un altre cavall .
+*JOA:	mira , que es aixo ?
+*JOA:	un cavall ?
+*JOA:	no ?
+*JOA:	que es aixo ?
+*JOA:	un duro no .
+*JOA:	i aixo ?
+*JOA:	i aixo ?
+*JOA:	no un duro .
+*JOA:	que es aixo ?
+*JOA:	i aquest ?
+*JOA:	aquest es el rei ?
+*JOA:	no .
+*JOA:	qui es aquest ?
+*JOA:	la caputxeta potser si .
+*JOA:	i aquest ?
+*JOA:	no , aquest tampoc .
+*JOA:	i aquest ?
+*JOA:	un cavaller [% "a cavaller"] ?
+*JOA:	un cavaller que anava on ?
+*JOA:	deixem aquest cavall aqui al cim [= se'l posa sobre el genoll] .
+*JOA:	a veure , aixo son espases .
+*JOA:	si .
+*JOA:	un altre cavall .
+*JOA:	mira , un altre com aquest .
+*JOA:	com aquest d' aqui no .
+*JOA:	pero aquest cavall que es blanc , aquest no .
+*JOA:	aquest es blanc ?
+*JOA:	aquest es negre .
+*JOA:	que no , que jo el veig negre .
+*JOA:	oh !
+*JOA:	i que farem amb aixo ?
+*JOA:	que ho vols obrir ?
+*JOA:	espera , espera , espera .
+*JOA:	espera que ho obrirem .
+*JOA:	a veure aixo .
+*JOA:	que hi ha aqui dins ?
+*JOA:	un lleo ?
+*JOA:	ai , vigila que sortira el lleo eh !
+*JOA:	un lleo .
+*JOA:	ui que sortira el lleo !
+*JOA:	0 .
+*JOA:	uuuh !
+*JOA:	el lleo no .
+*JOA:	que es aixo ?
+*JOA:	el lleo no es .
+*JOA:	ui , no ho trenquis eh !
+*JOA:	no .
+*JOA:	a veure , que es aixo ?
+*JOA:	que hi ha aqui ?
+*JOA:	ho tires a terra ?
+*JOA:	i que farem a terra ?
+*JOA:	a veure .
+*JOA:	que hi farem aqui a terra , a veure ?
+*JOA:	un altre pot ?
+*JOA:	ai [= li cau el pot] !
+*JOA:	que t' agrada tirar'ho a terra ?
+*JOA:	per que t' agrada tirar'ho a terra ?
+*JOA:	per que ?
+*JOA:	ui quin lleo !
+*JOA:	tornem'hi ?
+*JOA:	que fas ?
+*JOA:	ho tornes a posar ?
+*JOA:	que ho vols desar ?
+*JOA:	oh !
+*JOA:	que hi ha aqui ?
+*JOA:	a veure quines coses son .
+*JOA:	quines coses son aquestes ?
+*JOA:	a veure , dona'm una cullera .
+*JOA:	a veure , la cullera .
+*JOA:	si , mira [= agafant la cullera] .
+*JOA:	ara un plat .
+*JOA:	a veure , busquem un plat ara .
+*JOA:	si n' hi ha cap de plat .
+*JOA:	guaita'l .
+*JOA:	no .
+*JOA:	no n' hi ha de plats , doncs dona'm +/.
+*JOA:	no ho se .
+*JOA:	una barca , un nen , una cosa que vulguis .
+*JOA:	una barca , si .
+*JOA:	un nen ?
+*JOA:	que vols ?
+*JOA:	que li fas fer ?
+*JOA:	oh pero si n' hi ha una altra de barca !
+*JOA:	quantes barques hi ha ?
+*JOA:	mira , pero si n' hi ha una altra barca .
+*JOA:	quantes barques hi ha laura ?
+*JOA:	que porta aqui al cap ?
+*JOA:	que es aixo ?
+*JOA:	un cistell ?
+*JOA:	i on va amb aquest cistell ?
+*JOA:	va a l' escola aquest amb el cistell ?
+*JOA:	vinga , posa'l que vagi cap a l' escola .
+*JOA:	si , au , cap a l' escola !
+*JOA:	esta malalt aquest avui ?
+*JOA:	que fa festa avui ?
+*JOA:	no es treu la jaqueta .
+*JOA:	no es treu la jaqueta , no .
+*JOA:	no , aquesta no .
+*JOA:	aquesta no es treu .
+*JOA:	no , aquesta [/?] es com una bata aquesta .
+*JOA:	si .
+*JOA:	ui !
+*JOA:	porta'l cap aqui .
+*JOA:	no , no .
+*JOA:	seu , seu , seu .
+*JOA:	dona'm , dona'm , dona'm .
+*JOA:	oh , i on el posarem el gorro ?
+*JOA:	mira , ja l' he tret .
+*JOA:	treu'li tu , treu'li tu .
+*JOA:	ara .
+*JOA:	i on el posarem aquest gorro ?
+*JOA:	vols posar'lo aixo ?
+*JOA:	mira aquest .
+*JOA:	aqui es el plat , si .
+*JOA:	mira'l , dona'm' ho , dona'm' ho .
+*JOA:	dona'm una altra cullera .
+*JOA:	jo veig una altra cullera .
+*JOA:	jo la veig una altra cullera .
+*JOA:	a veure , jo veig una altra cullera .
+*JOA:	aixo es un pastis , doncs dona'me'l .
+*JOA:	posa'l en un plat que me'l menjare .
+*JOA:	eh ?
+*JOA:	per dema el deixes aqui dintre ?
+*JOA:	que el portarem a l' escola dema ?
+*JOA:	no ?
+*JOA:	aquest pastis no ?
+*JOA:	per que no el portarem a l' escola ?
+*JOA:	per que ?
+*JOA:	no es de menjar ?
+*JOA:	ah , no l' agafare , no !
+*JOA:	i tu ?
+*JOA:	que te'l menjaras tu ?
+*JOA:	l' has fet tu aquest pastis ?
+*JOA:	si .
+*JOA:	de quin color es aquest pastis ?
+*JOA:	oh !
+*JOA:	que es bo ?
+*JOA:	doncs me'l menjo .
+*JOA:	ara no ?
+*JOA:	per esmorzar ens el menjarem .
+*JOA:	per esmorzar o per sopar ?
+*JOA:	un altre plat ?
+*JOA:	que es aixo ?
+*JOA:	un altre plat , mira .
+*JOA:	dos , pero falta una cullera .
+*JOA:	jo la veig aqui a terra .
+*JOA:	jo la veig aqui a terra la cullera .
+*JOA:	un cavall , si .
+*JOA:	pero tambe una cullera .
+*JOA:	mira , aquest nen va a cavall .
+*JOA:	que vols ?
+*JOA:	que vols ?
+*JOA:	mira , un altre nen que va a cavall .
+*JOA:	no , no , no .
+*JOA:	no que ho trencaras .
+*JOA:	que li vols fer ?
+*JOA:	que li vols fer ?
+*JOA:	que vols fer ?
+*JOA:	que puja a un cavall ?
+*JOA:	mira'l aqui .
+*JOA:	posa'li .
+*JOA:	ai !
+*JOA:	no .
+*JOA:	li has de posar cames .
+*JOA:	cames .
+*JOA:	aixi , una cama .
+*JOA:	ai !
+*JOA:	pel costat .
+*JOA:	oh no !
+*JOA:	una cama a cada costat .
+*JOA:	has de posar una cama a cada costat del cavall .
+*JOA:	si .
+*JOA:	a veure ?
+*JOA:	aixi va molt mes be .
+*JOA:	una cama a cada costat , posa'li .
+*JOA:	primer aixi , apreta , apreta .
+*JOA:	molt be .
+*JOA:	molt be .
+*JOA:	vinga , apreta una miqueta mes .
+*JOA:	molt be .
+*JOA:	ara , veus , molt be .
+*JOA:	a veure si saps posar ara un altre nen a <un altre> [/?] un altre cavall de color negre .
+*JOA:	espera't que s' ha de posar aixo .
+*JOA:	si no el nen caura si no li posessim aixo .
+*JOA:	costa una miqueta .
+*JOA:	costa molt no .
+*JOA:	una miqueta .
+*JOA:	ja esta , vinga , ara +/.
+*JOA:	ara ja li podem posar un nen aqui dalt .
+*JOA:	posem'hi un nen .
+*JOA:	ui [= a l se li desmonta el cavall] !
+*JOA:	xxx .
+*JOA:	no , si n' hi haure de posar un altre .
+*JOA:	en tinc un altre que va mes be .
+*JOA:	xxx una mica .
+*JOA:	busca un nen que el posarem a dalt d' aquest cavall .
+*JOA:	si .
+*JOA:	un altre nen , un altre nen .
+*JOA:	potser aquell nen que anava a l' escola .
+*JOA:	que hi voldria pujar a cavall ?
+*JOA:	qui es aquell que va a l' escola ?
+*JOA:	no , no .
+*JOA:	a veure si el saps posar eh !
+*JOA:	no , no , deixa'l estar .
+*JOA:	ja esta be , ja esta be .
+*JOA:	ja esta be aixi , ja esta be .
+*JOA:	posa'li una cama a cada canto de cavall , vinga .
+*JOA:	si , una cama .
+*JOA:	una cama a cada banda .
+*JOA:	molt be , aixi .
+*JOA:	pero d' aqui eh !
+*JOA:	d' aqui .
+*JOA:	ja t' aguanto .
+*JOA:	no , no .
+*JOA:	seu , seu , seu , seu .
+*JOA:	a veure , va , posa'l dret .
+*JOA:	dret .
+*JOA:	no , assegut no .
+*JOA:	dret .
+*JOA:	molt be .
+*JOA:	<posa'l> [/?] posa'l dret .
+*JOA:	molt be .
+*JOA:	posem'ho be .
+*JOA:	apreta fort ara .
+*JOA:	molt be .
+*JOA:	ja esta , ja s' aguanta .
+*JOA:	que hi vas tu ?
+*JOA:	que hi vas a l' escola amb cavall ?
+*JOA:	com hi vas tu ?
+*JOA:	pastis es teu ?
+*JOA:	escolta , per que no els poses en fila tots els nens amb els cavalls ?
+*JOA:	no hi es , no hi es , no hi es [= posant la cara dins el pot] .
+*JOA:	quina veu sento mes rara .
+*JOA:	qui es que em parla ?
+*JOA:	quina veu xxx .
+*MAR:	pel mig .
+*MAR:	i l' emma ve amb mi .
+*MAR:	vine emma .
+*JOA:	porta'l aqui laura .
+*JOA:	0 .
+*JOA:	que tens aqui laura ?
+*JOA:	que es aquesta capsa d' aqui ?
+*JOA:	a veure , porta tot aixo .
+*JOA:	a veure , porta'ho .
+*JOA:	pesa ?
+*JOA:	ui !
+*JOA:	a veure .
+*JOA:	que vols que mirem que hi ha aqui dintre ?
+*JOA:	seu , a veure , seu .
+*JOA:	no , aqui , aqui .
+*JOA:	seu aqui , aqui si .
+*JOA:	apa'la ui que cau aixo [= buidant la capsa] !
+*JOA:	a veure , fem una casa .
+*JOA:	a veure , a veure .
+*JOA:	fem una casa .
+*JOA:	fem un castell ?
+*JOA:	a veure , comenca a posar fustes , si .
+*JOA:	ai , fas fressa !
+*JOA:	a veure , ara agafa'n una amb cada ma .
+*JOA:	que vols ?
+*JOA:	fem un castell ?
+*JOA:	fem un pont .
+*JOA:	fem un castell amb un pont ?
+*JOA:	si , molt alt , molt alt .
+*JOA:	molt alt el fem ?
+*JOA:	a veure , primer quina posem ?
+*JOA:	primer aquest eh ?
+*JOA:	aquesta i aquesta eh ?
+*JOA:	ui que cau !
+*JOA:	ara posem aquests .
+*JOA:	a veure , un pont hem fet .
+*JOA:	i ara , a veure , prova tu .
+*JOA:	ui , son iguales !
+*JOA:	son iguales o no ?
+*JOA:	oi !
+*JOA:	que en vols mes ?
+*JOA:	ara posem'hi aquestes .
+*JOA:	el que no va ?
+*JOA:	si que hi va , si .
+*JOA:	aixi va [= acostant les peces] .
+*JOA:	aixi , fem'ho aixi , si ?
+*JOA:	aixi .
+*JOA:	ara posa +/.
+*JOA:	posa , posa'li aquest .
+*JOA:	oi xxx !
+*JOA:	que bonic , si .
+*JOA:	una casa , ara fem una casa i ara hi posem aquest .
+*JOA:	un altre pont .
+*JOA:	ui , ui , ui , ui !
+*JOA:	es per posar el dit aixo ?
+*JOA:	te , ara posa aquest .
+*JOA:	oi que cau !
+*JOA:	a veure [= ajudant'la] .
+*JOA:	no va be ?
+*JOA:	doncs ara posem'hi (.) aquest .
+*JOA:	potser aquest .
+*JOA:	a veure si aquest pont anira mes be .
+*JOA:	a veure , posa .
+*JOA:	a veure com el posaras .
+*JOA:	aquest va be .
+*JOA:	no cau , no cau .
+*JOA:	bueno , a veure +/.
+*JOA:	0 [= repeteix el tuti tuti de l] .
+*JOA:	bueno , a veure .
+*JOA:	i el cavall ?
+*JOA:	i per que no hi posem el cavall a dalt de tot ?
+*JOA:	que va be el cavall ?
+*JOA:	i ara la vaca ?
+*JOA:	a veure , a veure si s' aguanta .
+*JOA:	a veure .
+*JOA:	ui que cau !
+*JOA:	a veure , tornem'hi .
+*JOA:	a veure , torna'ho a provar , a veure .
+*JOA:	a veure si s' hi &aguan +/.
+*JOA:	a veure si s' hi aguanta la vaca .
+*JOA:	que es aixo ?
+*JOA:	que cau , que cau tan alta .
+*JOA:	que cau .
+*JOA:	no va , no .
+*JOA:	no pot ser , no pot ser .
+*JOA:	i aquest xxx ?
+*JOA:	que hi cabria aquest ?
+*JOA:	que l' has vist ?
+*JOA:	oh [= cau tot el castell] !
+*JOA:	tornem'hi .
+*JOA:	tornem'hi o no ?
+*JOA:	aquest i ara aquest .
+*JOA:	no hi va aqui ?
+*JOA:	que hi va ?
+*JOA:	te , ara posa'hi aquest .
+*JOA:	posa'hi aquest .
+*JOA:	la rosa no porta sabates ?
+*JOA:	ai !
+*JOA:	que li passara si no porta sabates ?
+*JOA:	que li agafara ?
+*JOA:	que tindra ?
+*JOA:	si .
+*JOA:	i potser , potser tindra tos .
+*JOA:	eh !
+*JOA:	que diu la pilar quan no portes sabates a tu ?
+*JOA:	que et diu la pilar amb les sabates ?
+*JOA:	ah !
+*JOA:	diu no et treguis les sabates , eh ?
+*JOA:	posem , posem +...
+*JOA:	va , que mes ?
+*JOA:	que podem posar ?
+*JOA:	a veure , que hi podriem +/.
+*JOA:	el cavall .
+*JOA:	ja , mira el tinc +/.
+*JOA:	la vaca aqui .
+*JOA:	que fa ?
+*JOA:	<que fa la vaca> [>] ?
+*JOA:	mira'ls !
+*JOA:	va be ?
+*JOA:	ara posem'hi aquest .
+*JOA:	aquest no ?
+*JOA:	quin va ?
+*JOA:	aquest va aqui ?
+*JOA:	i aquest ?
+*JOA:	i aquest ?
+*JOA:	i aquest ?
+*JOA:	molt be .
+*JOA:	bueno , a veure +/.
+*JOA:	quin va aqui ?
+*JOA:	aquest ?
+*JOA:	a veure , i aquest ?
+*JOA:	eh ?
+*JOA:	estas cansada ?
+*JOA:	de que estas cansada ?
+*JOA:	te .
+*JOA:	aquest no vols ?
+*JOA:	quin vols ?
+*JOA:	ara vols aquest ?
+*JOA:	0 .
+*JOA:	tornem'hi , a veure .
+*JOA:	tornem'hi ?
+*JOA:	<a veure> [/?] a veure com va aixo .
+*JOA:	ai !
+*JOA:	primer on va aquest ?
+*JOA:	aqui ?
+*JOA:	a veure , aquest on va ?
+*JOA:	i aquest ?
+*JOA:	aquest va aqui .
+*JOA:	i aquest ?
+*JOA:	aixi van ara ?
+*JOA:	la vaca , mira'la aqui home !
+*JOA:	ui que cau !
+*JOA:	ah !
+*JOA:	ui !
+*JOA:	pel damunt .
+*JOA:	i aquest ?
+*JOA:	posem aqui ?
+*JOA:	aqui al darrera , que els hi digui arri@c vaca .
+*JOA:	que diu la senyora ?
+*JOA:	te cua aquesta senyora ?
+*JOA:	ah si !
+*JOA:	la vaca te una cua , si , mira .
+*JOA:	que diu aquesta senyora ?
+*JOA:	que diu ?
+*JOA:	no pateixis diu ?
+*JOA:	oi que cau !
+*JOA:	te [= dona a l la vaca] .
+*JOA:	te [= li dona una altra vaca] .
+*JOA:	ara que hi vols posar ?
+*JOA:	que hi posem mes , a veure ?
+*JOA:	la senyora aqui ?
+*JOA:	i que dira la senyora ?
+*JOA:	que diu ?
+*JOA:	no ?
+*JOA:	no que ?
+*JOA:	no pateixis li diu .
+*JOA:	bueno , doncs no patim .
+*JOA:	i aixo ?
+*JOA:	i aixo posem o no ?
+*JOA:	a on ?
+*JOA:	aqui davant ?
+*JOA:	aixi ?
+*JOA:	aqui aixi .
+*JOA:	aqui aixi .
+*JOA:	hi posem res mes ?
+*JOA:	aqui potser aixo , aixi .
+*JOA:	un plat amb el menjar ?
+*JOA:	ui , ui , ui , ui que cau !
+*JOA:	que cau , que cau , que cau !
+*JOA:	a veure , tu vols que mengi el cavall o que ?
+*JOA:	aqui .
+*JOA:	aqui ara .
+*JOA:	on va ?
+*JOA:	on va ara aquest blau ?
+*JOA:	aqui va el blau ?
+*JOA:	bueno , ara .
+*JOA:	aquest va aqui ?
+*JOA:	ara que hi podem posar mes ?
+*JOA:	el cavall .
+*JOA:	on es el cavall ?
+*JOA:	guaita'te'l .
+*JOA:	a veure , la vaca .
+*JOA:	aqui ?
+*JOA:	molt be .
+*JOA:	ei , ei , ei espera't [= cau un tros de castell] !
+*JOA:	ei , que cau home !
+*JOA:	a veure , la senyora on laura ?
+*JOA:	la senyora va aqui ?
+*JOA:	potser la vaca li menjara el cabell .
+*JOA:	li menjara el cap la vaca .
+*JOA:	que se li menjara el cap ?
+*JOA:	ui , ui , ui !
+*JOA:	ui , ui , no tindra cabell !
+*JOA:	que porta al cap ?
+*JOA:	un gorro ?
+*JOA:	posa'l , posa'l .
+*JOA:	els peus aqui [= indicant'li com ha de posar la figura] .
+*JOA:	aqui les banyes .
+*JOA:	aixi , aixi !
+*JOA:	j ui , que cau home aquest cavall !
+*JOA:	que fa aquest cavall ?
+*JOA:	que no esta quiet ?
+*JOA:	no va be aixi .
+*JOA:	s' ha de posar aixi .
+*JOA:	veus .
+*JOA:	se li menja el cabell ?
+*JOA:	els cavalls se li mengen .
+*JOA:	els cavalls mengen cabell ?
+*JOA:	que t' agrada a tu el cabell ?
+*JOA:	que faras ara ?
+*JOA:	que faras ?
+*JOA:	que faras ?
+*JOA:	que faras ?
+*JOA:	ara fem'ne una altra ?
+*JOA:	fem'ne una altra , a veure .
+*JOA:	primer posam'la aixi .
+*JOA:	posem primer aquest .
+*JOA:	primer aixi , va .
+*JOA:	ara no .
+*JOA:	ara no aquest .
+*JOA:	ara aquest aixi ?
+*JOA:	ara una altra , va .
+*JOA:	no , no n' hi ha cap mes d' aquest [= triant peces] .
+*JOA:	ara podem posar +/.
+*JOA:	aquest , si .
+*JOA:	rodo ?
+*JOA:	tots .
+*JOA:	que ?
+*JOA:	junts , aixi ?
+*JOA:	i aquest ?
+*JOA:	que el vols posar aquest ?
+*JOA:	no hi cap ?
+*JOA:	si , mira .
+*JOA:	aixi .
+*JOA:	i aquest ?
+*JOA:	<com el podem posar> [>] ?
+*JOA:	ara un senyor aqui dalt ?
+*JOA:	un senyor o un pont ?
+*JOA:	a veure , posa'hi aquest pont d' alla .
+*JOA:	a veure com queda , a veure .
+*JOA:	i ara un altre pont ?
+*JOA:	te .
+*JOA:	hi veus ui !
+*JOA:	quants ponts hi ha aqui ?
+*JOA:	ui , ui , ui !
+*JOA:	quants ponts hi ha laura ?
+*JOA:	hum !
+*JOA:	ui !
+*JOA:	hi veus aixi ?
+*JOA:	a veure si hi veiem .
+*JOA:	fem tat@c <ve a ser com un cucu@c> [/?] [= torna a col'locar els ponts] .
+*JOA:	espera't , farem tat@c eh !
+*JOA:	espera't , va , a veure si ens veiem , a veure .
+*JOA:	a veure si ens veiem ?
+*JOA:	ara si que et veig .
+*JOA:	ah !
+*JOA:	tornem'hi a veure si ens veiem eh ?
+*JOA:	si que et veig !
+*JOA:	ui , tat@c !
+*JOA:	ara aixi .
+*JOA:	ara jo et miro per aqui el forat .
+*JOA:	vinga , ui , ui , ui !
+*JOA:	ara no hi es la laura .
+*JOA:	ara no hi es .
+*JOA:	ara no hi es la laura .
+*JOA:	si que hi es , si .
+*JOA:	si que hi es , si que hi es .
+*JOA:	eh ?
+*JOA:	ara juguem , vale ?
+*JOA:	ui !
+*JOA:	hum !
+*JOA:	oi , espera't !
+*JOA:	<a veure> [/?] a veure com ho fem .
+*JOA:	a veure , a veure .
+*JOA:	i aixi ?
+*JOA:	oi !
+*JOA:	i si ho fem aixi ?
+*JOA:	<a veure> [/?] a veure , que passaria ?
+*JOA:	oi !
+*JOA:	no el treguis .
+*JOA:	per que el treus ?
+*JOA:	a veure , primer el petit .
+*JOA:	<a veure> [/?] a veure , primer el petit i en acabar el gros .
+*JOA:	a veure el gros ?
+*JOA:	no , no va be .
+*JOA:	ah !
+*JOA:	aixi va be ?
+*JOA:	oi !
+*JOA:	oi que cau !
+*JOA:	a veure si va be aixi .
+*JOA:	aixi va be ?
+*JOA:	oi !
+*JOA:	hola !
+*JOA:	hola , hola , hola !
+*JOA:	hola !
+*JOA:	hola , hola , hola !
+*JOA:	aixi com ?
+*JOA:	amb els peus [= estirat a terra i mirant a traves del forat del pont] ?
+*JOA:	eh , no ho puc fer aixo amb els peus !
+*JOA:	no ho puc fer aixo amb els peus ara .
+*JOA:	no ho puc fer aixo amb els peus ara .
+*JOA:	no , perque jo tinc els peus que em toquen alla a la finestra .
+*JOA:	no puc .
+*JOA:	mira , una boleta [= col'locant una peca en el castell que despres cau] .
+*JOA:	oi que cau !
+*JOA:	tornem'hi .
+*JOA:	vols que posem una boleta ara damunt de tot ?
+*JOA:	una altra aixi , una altra aixi .
+*JOA:	vols que hi posem una d' aquestes ?
+*JOA:	oi !
+*JOA:	ho has fet tu laura ?
+*JOA:	com ho has fet ?
+*JOA:	aixi has fet ?
+*JOA:	paff@c ?
+*JOA:	no ho facis home !
+*JOA:	eh , qui ho ha fet aixo ?
+*JOA:	ai !
+*JOA:	<que diu> [/?] que diu la maria a l' escola quan fas aixo ?
+*JOA:	que et diu la maria ?
+*JOA:	diu no ?
+*JOA:	i et renya la maria ?
+*JOA:	et renya ?
+*JOA:	i que ho diu , enfadada o no ?
+*JOA:	que s' enfada la maria ?
+*JOA:	si .
+*JOA:	i com fa la cara d' enfadada ?
+*JOA:	que fas , que fas ?
+*JOA:	ja ho tens be , ja ho tens be .
+*JOA:	baixa aixo [= es refereix al jersei de l] .
+*JOA:	quina cosa fa la maria quan s' enfada ?
+*JOA:	aixi ?
+*JOA:	vols que en fem mes ?
+*JOA:	eh ?
+*JOA:	i que en vols fer mes ?
+*JOA:	de castells ?
+*JOA:	a veure , fem'ne un altre ?
+*JOA:	vale ?
+*JOA:	fem'ne un de ben gros .
+*JOA:	llavors li faras pam@c amb el peu ?
+*JOA:	vale ?
+*JOA:	a veure , vinga .
+*JOA:	a veure , provem'ho .
+*JOA:	un de ben gros , eh ?
+*JOA:	a veure [= comenca a agafar peces] .
+*JOA:	a veure , aixi .
+*JOA:	com ho farem aixo ?
+*JOA:	a veure , aixi i aixi .
+*JOA:	i despres farem +/.
+*JOA:	aquest aixi .
+*JOA:	posem aquest aixi .
+*JOA:	va , ves posant tu , ves .
+*JOA:	ves posant tu .
+*JOA:	te , te .
+*JOA:	ara aquest al damunt , vinga .
+*JOA:	no , aqui no .
+*JOA:	al damunt , al damunt , al damunt .
+*JOA:	si , aixi , molt be .
+*JOA:	i ara aquest .
+*JOA:	te , te , posa aquest i farem pam@c amb el peu .
+*JOA:	que has anat a buscar ?
+*JOA:	que es aixo ?
+*JOA:	pero que no el vols posar ja ?
+*JOA:	no vols fer el castell ?
+*JOA:	que el farem caure .
+*JOA:	fem el castell .
+*JOA:	no vols fer el castell ?
+*JOA:	te , te .
+*JOA:	aixi , molt be .
+*JOA:	i ara aquest .
+*JOA:	oi , home !
+*JOA:	hem de posar mes coses encara , mes .
+*JOA:	si .
+*JOA:	fem'lo ben gros ?
+*JOA:	va , vinga , ben gros .
+*JOA:	va , a veure , a veure .
+*JOA:	aquest aqui .
+*JOA:	i ara aquest .
+*JOA:	aquest aqui .
+*JOA:	la cadira .
+*JOA:	on es la cadira ?
+*JOA:	alla , guaita'la , guaita'la .
+*JOA:	alla , alla , alla .
+*JOA:	no , espera , espera , espera .
+*JOA:	espera , espera , tira la casa enrera .
+*JOA:	tira [/?] tira la casa enrera .
+*JOA:	aixi , a veure , vinga .
+*JOA:	aixi , vale , vinga , vinga .
+*JOA:	ara posa aquest .
+*JOA:	ara aquest .
+*JOA:	ara aquest .
+*JOA:	ara aquest .
+*JOA:	espera , fem puesto .
+*JOA:	ara aquest altre .
+*JOA:	no , aqui no , aqui no .
+*JOA:	aqui no .
+*JOA:	aqui tampoc , aqui tampoc .
+*JOA:	aqui tampoc , aqui tampoc .
+*JOA:	al damunt , al damunt .
+*JOA:	al damunt d' aquests .
+*JOA:	al damunt , posa'l al damunt .
+*JOA:	si .
+*JOA:	home , fem'ho mes estona !
+*JOA:	fem'ho mes gros .
+*JOA:	mes gros , si .
+*JOA:	que t' agrada fer'lo caure a terra ?
+*JOA:	per que t' agrada ?
+*JOA:	oh mes no !
+*JOA:	per que el fas caure ?
+*JOA:	ara tu sola .
+*JOA:	oh tu , que el fas caure !
+*JOA:	no ?
+*JOA:	segur ?
+*JOA:	bueno .
+*JOA:	ah !
+*JOA:	una miqueta nomes ?
+*JOA:	a veure .
+*JOA:	aquest .
+*JOA:	i aquest .
+*JOA:	ara aquest .
+*JOA:	ara aquest , posa'li .
+*JOA:	laura !
+*JOA:	si .
+*JOA:	que no hi es ?
+*JOA:	que no hi es la montse ?
+*JOA:	que passa ?
+*JOA:	que tens ara ?
+*JOA:	que no hi es ?
+*JOA:	i si et moques jo ?
+*JOA:	espera't que et mocare .
+*JOA:	ella tampoc ?
+*JOA:	potser a marxat .
+*JOA:	que et sembla que ha marxat ?
+*JOA:	vine , vine que et mocare .
+*JOA:	vine que et mocare que et surt un moc , vine .
+*JOA:	ei vine que et mocare !
+*JOA:	mira tinc una cosa , una cosa .
+*JOA:	tinc una cosa a aquesta ma .
+*JOA:	oh !
+*JOA:	que tens a la ma ?
+*JOA:	tens una cosa de color vermell .
+*JOA:	jo tinc una cosa de color vermell .
+*JOA:	vine , vine pallaringo@c .
+*JOA:	moca't .
+*JOA:	no .
+*JOA:	moca't be .
+*JOA:	sona , has de sonar .
+*JOA:	sona mes , mes fort , mes fort que tens mocs al nas .
+*JOA:	mes fort .
+*JOA:	espera't , fort .
+*JOA:	un , dos , tres , va !
+*JOA:	aixo es sonar , aixo es sonar .
+*JOA:	te , fem un castell .
+*JOA:	fem mes castell .
+*JOA:	a quina ma el tinc ?
+*JOA:	a quina ma es ?
+*JOA:	a veure , a quina ma es ?
+*JOA:	meu , es meu [= li pren una peca a l] .
+*JOA:	a quina ma es ?
+*JOA:	a veure [= obrint la ma] .
+*JOA:	ah , no hi es !
+*JOA:	ara !
+*JOA:	ara tu .
+*JOA:	va , va , digues a quina ma es .
+*JOA:	ara no hi es .
+*JOA:	i les teves mans ?
+*JOA:	on son les teves mans ?
+*JOA:	eh ?
+*JOA:	tens una cosa vermell ?
+*JOA:	em donaras +/.
+*JOA:	una cosa em donaras ?
+*JOA:	a veure , dona , dona .
+*JOA:	ai !
+*JOA:	aixo no .
+*JOA:	jo vull , jo vull , jo vull una cosa vermella i aixo es groc .
+*JOA:	si .
+*JOA:	de quin color es aixo ?
+*JOA:	doncs jo vull una cosa vermella .
+*JOA:	no , xxx , aixo , aixo ?
+*JOA:	jo vull una cosa vermella .
+*JOA:	vermell , si .
+*JOA:	ah , molt be !
+*JOA:	doncs ja m' agrada aquest .
+*JOA:	vinga , va .
+*JOA:	au , ara fes el quina ma es !
+*JOA:	a veure .
+*JOA:	ai !
+*JOA:	que ha marxat ?
+*JOA:	mira , ja ho tinc , ja ho tinc allo que tens tu .
+*JOA:	mira , jo tambe ho tinc .
+*JOA:	jo ho tinc .
+*JOA:	ai [= l li ha pres la peca] !
+*JOA:	oh busca'la !
+*JOA:	on es ?
+*JOA:	ha marxat .
+*JOA:	ai , guaita'la , guaita'la !
+*JOA:	on es , on es ?
+*JOA:	que es aixo [= ensenyant'li una peca vermella] .
+*JOA:	on es allo ?
+*JOA:	on es allo ?
+*JOA:	on es ?
+*JOA:	que es aixo [= ensenyant'li una altra peca] ?
+*JOA:	oi , aixo es vermell !
+*JOA:	pero no [/?] no ho trobo .
+*JOA:	guaita'l , que es aixo ?
+*JOA:	un os ?
+*JOA:	que menja el peu l' os ?
+*JOA:	mira , que es aixo ?
+*JOA:	que es aixo ?
+*JOA:	i que fa el pollet ?
+*JOA:	piu@c piu@c piu@c piu@c .
+*JOA:	ai , ai , ai !
+*JOA:	ho he vist , ho he vist .
+*JOA:	guaita'l aqui .
+*JOA:	te , te [= ensenyant'li la ma sense res] .
+*JOA:	si , si , si .
+*JOA:	te .
+*JOA:	a veure , a quina ma es ?
+*JOA:	te [= ensenyant'li la ma contraria] .
+*JOA:	ah [= tampoc hi ha la bola] !
+*JOA:	si , ara +...
+*JOA:	mira , mira , mira .
+*JOA:	agafa'la .
+*JOA:	oh troba'l , troba'l !
+*JOA:	on es ara ?
+*JOA:	cavall , que has vist la bola ?
+*JOA:	cavall , cavall , que has vist la bola ?
+*JOA:	no diu res aquest cavall .
+*JOA:	ho preguntarem a la vaca .
+*JOA:	cavall [/?] vaca que has vist la bola ?
+*JOA:	no parla aquesta vaca .
+*JOA:	que parla aquesta vaca ?
+*JOA:	<a veure> [>] , vaca que has vist la bola ?
+*JOA:	no em diu res .
+*JOA:	potser [/?] potser el senyor .
+*JOA:	senyor , que has vist la bola ?
+*JOA:	que diu aquest senyor ?
+*JOA:	no .
+*JOA:	doncs anem a veure qui l' ha vist .
+*JOA:	el be .
+*JOA:	be , que has vist la bola ?
+*JOA:	no .
+*JOA:	oi !
+*JOA:	el cavall , potser , a veure el cavall , a veure .
+*JOA:	0 .
+*JOA:	saps que m' ha dit el cavall ?
+*JOA:	guaita'la [= prenent'li les boles] !
+*JOA:	m' ha dit el cavall on es la bola .
+*JOA:	la bola es a la ma de la laura .
+*JOA:	ai carai !
+*JOA:	que diu el cavall ?
+*JOA:	que diu el cavall ?
+*JOA:	que ha dit el cavall ?
+*JOA:	la bola es a la ma de la laura .
+*JOA:	oh !
+*JOA:	cavall , que no saps !
+*JOA:	a veure , potser ho sap la vaca .
+*JOA:	vaca on es la bola ?
+*JOA:	ai !
+*JOA:	<damunt de> [/?] damunt de la butaca es vaca ?
+*JOA:	damunt del sofa .
+*JOA:	busquem , a veure si hi es .
+*JOA:	si !
+*JOA:	no hi es , no hi es no , damunt del sofa , no .
+*JOA:	a veure .
+*JOA:	no hi es .
+*JOA:	vaca , que saps on es ?
+*JOA:	ho sap el senyor on es la bola .
+*JOA:	a veure , preguntem'li ?
+*JOA:	pregunta'li , pregunta'li .
+*JOA:	si .
+*JOA:	si .
+*JOA:	si .
+*JOA:	si que l' he vist .
+*JOA:	si , es [>] sota [/?] sota la butaca .
+*JOA:	no en saps ?
+*JOA:	si que l' he vist la bola .
+*JOA:	si ?
+*JOA:	si .
+*JOA:	oi !
+*JOA:	el senyor sap .
+*JOA:	si , a sota la butaca .
+*JOA:	que ho sap el senyor ?
+*JOA:	ui !
+*JOA:	mirem'ho a veure si ho ha dit be el senyor ?
+*JOA:	a veure , aixeca la butaca , a veure .
+*JOA:	no vull .
+*JOA:	per que no vull ?
+*JOA:	per que ?
+*JOA:	si que vull .
+*JOA:	ai , potser hi ha un gat aqui sota !
+*JOA:	ah !
+*JOA:	qui hi ha aqui ?
+*JOA:	que ha sortit d' aqui dintre ?
+*JOA:	que ha sortit d' aqui dintre ?
+*JOA:	que ha sortit d' aqui ?
+*JOA:	qui es aquesta ?
+*JOA:	qui es aquesta nena ?
+*JOA:	a veure , mira que tinc .
+*JOA:	mira que tinc , a veure .
+*JOA:	oi !
+*JOA:	i si la fico a la butxaca ?
+*JOA:	mira .
+*JOA:	ui !
+*JOA:	on son les boles ?
+*JOA:	porta , porta , porta , porta .
+*JOA:	a veure si podem posar <aqui aqui fora> [/?] aqui fora .
+*JOA:	oi , guaita'l !
+*JOA:	que tens aqui dintre ?
+*JOA:	mira , que es aixo [= treient quelcom de la butxaca de l] ?
+*JOA:	aixo es per anar a l' escola ?
+*JOA:	oi !
+*JOA:	on son les boles ?
+*JOA:	i on son les boles ?
+*JOA:	les has perdut ?
+*JOA:	on son les boles ?
+*JOA:	guaita , qui es aquella ?
+*JOA:	la montse , que havia marxat ?
+*JOA:	escolta , oh , aqui no hi ha res !
+*JOA:	mira [/?] mira la butxaca que no hi ha res .

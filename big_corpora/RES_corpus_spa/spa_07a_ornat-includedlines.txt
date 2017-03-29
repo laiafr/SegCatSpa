@@ -1,0 +1,142 @@
+*TIO:	ya sabes contar , María ? 3951_5681
+*TIO:	ya sabes contar ? 6490_7428
+*TIO:	este , quién es ? 10245_11708
+*TIO:	mira , vamos a buscar aquí a Antonio , en esta revista , vale ? 11708_14530
+*MAD:	está ahí ? 14530_16728
+*TIO:	me imagino . 16728_18625
+*PAD:	xxx . 18625_28200
+*TIO:	vamos a buscar a Antonio ? 29745_31336
+*TIO:	sí . 34596_35615
+*TIO:	www [= habla con Mamá] . 44661_59443
+*TIO:	ese es Antonio , has visto ? 70251_72006
+*TIO:	es este , este , verdad ? 72006_75556
+*MAD:	a_ver , María , ven para acá hija , ven . 77491_79115
+*TIO:	vamos María ? 80355_81763
+*TIO:	dejamos esto y luego seguimos con ella [% se refiere a la revista] ? 81763_85225
+*TIO:	vale ? 85225_85880
+*TIO:	0 [% coge a María y la sienta en su sillita para comer] . 91720_100088
+*TIO:	ah ! 117373_117930
+*TIO:	el Pepito , toma [% cogiendo un enanito y dándoselo a María] . 117930_119145
+*TIO:	ya voy , ya voy . 130138_131210
+*TIO:	espérate un momento . 131210_132618
+*MAD:	te la doy yo , mi niña [% se refiere a la papilla que trae] eh ? 132618_136658
+*MAD:	vale te doy la cena yo ? 138548_139670
+*MAD:	quieres ? 139670_141071
+*MAD:	pero , te la vas a comer bien con Ricardo ? 142363_145828
+*TIO:	a_ver , esta por quién ? 146805_149051
+*TIO:	ese es Antonio vale ? 152641_153580
+*TIO:	xxx [% dice algo a mamá] . 153580_162148
+*TIO:	a_ver , yo te distraigo y te lo da Mamá , vale ? 162148_165046
+*MAD:	que Ricardo no sabe; como nunca te lo ha dado +... 165046_167513
+*TIO:	es que soy un poco inútil Ricardo , vale ? 167513_169103
+*TIO:	vale ? 169103_170183
+*MAD:	0 [% le da la comida a María] oye , sabes lo que es ? 170183_174436
+*MAD:	a qué está rico ! 174436_176405
+*MAD:	es puré y también tiene un huevo , te gusta ? 177808_183873
+*MAD:	el huevo ? 185043_186255
+*MAD:	no se ve . 187751_188360
+*MAD:	está dentro , está batido . 188360_189270
+*MAD:	has buscado a Antonio , mi niña ? 189270_193598
+*TIO:	ah , qué bueno está verdad ? 193598_195861
+*MAD:	ese es Antonio , claro que sí es Antonio . 199941_202328
+*MAD:	ah , qué bien ! 204985_206155
+*MAD:	www [= habla con papá que hay que apagar el televisor] . 206155_217708
+*MAD:	oye María , dile a Papá lo que tú quieras . 217708_220778
+*MAD:	dile alguna cosita . 220778_221985
+*MAD:	ya te has manchado la mano ! 221985_227313
+*MAD:	ya te has manchado la mano . 228458_230130
+*MAD:	espera . 230130_230921
+*MAD:	voy a por una servilleta . 230921_238183
+*MAD:	no , no toques nada . 238183_239690
+*TIO:	no toques , no toques . 239690_242946
+*TIO:	con la mano así , así las manos . 242946_245521
+*TIO:	arriba las manos ! 245521_246645
+*TIO:	no , así , no la muevas de ahí , no la muevas de ahí . 246645_251338
+*TIO:	oye , quién es la más bonita ? 251338_253440
+*TIO:	quién es la más bonita ? 253440_256005
+*TIO:	así no ? 256620_257180
+*TIO:	sí: . 258138_258805
+*MAD:	0 [% le limpia la mano] . 258805_261769
+*TIO:	quién es la más bonita ? 262281_265361
+*MAD:	ven , dame la manita . 266316_267741
+*MAD:	duerme duerme [% cantando] . 267741_270313
+*TIO:	adónde vamos a ir mañana ? 271270_272550
+*TIO:	yo a cantar . 277853_278861
+*TIO:	&=canta . 278861_297350
+*MAD:	xxx . 297350_299681
+*TIO:	oye , dile a Papá que cante . 299681_301993
+*TIO:	dile a Papá que cante María . 301993_303216
+*PAD:	quién cariño , quién tiene que cantar ? 305978_308306
+*PAD:	oye , canta tú , María . 312803_313673
+*PAD:	qué ha dicho ? 314463_318065
+*MAD:	tiene calvo +... 318065_318938
+*MAD:	esta tarde mira , trae el hipopótamo ese que le han regalado , enséñamelo que tiene mucha gracia; se queda mirando esos pelitos que tiene en la frente el hipopótamo y dice: es calvo como Papá . 318938_329115
+*MAD:	te lo juro que ha dicho eso . 329115_331251
+*TIO:	qué le pasa al hipopótamo , María ? 331251_333618
+*TIO:	qué le pasa al hipopótamo ? 334938_336218
+*TIO:	eh ? 337090_338441
+*TIO:	qué es esto ? 338441_340193
+*MAD:	xxx . 340193_341448
+*MAD:	es calvo ? 342280_343463
+*TIO:	quién más es calvo ? 343463_345065
+*TIO:	no: , ese +... 346625_348306
+*MAD:	Papá no es calvo , es calvito . 351871_355296
+*TIO:	oye y esto qué es , María ? 355296_358856
+*TIO:	⌈no , es un⌉ +... 361585_363170
+*MAD:	⌊cómo se llama⌋ ? 363170_363870
+*TIO:	es un &+hipo (.) , hipopótamo . 363870_369028
+*MAD:	pero , cómo se llama de nombre ? 372330_374698
+*TIO:	se llama chiquitito de nombre ? 379508_381908
+*MAD:	no , se le llama Pipo pero +... 381908_384241
+*MAD:	espera , María , que te has vuelto a manchar las manos hija . 388241_390103
+*MAD:	oy , qué mostrenco eres ! 390103_391616
+*TIO:	di: Mamá , mostrenco no . 391616_394526
+*TIO:	no se dice , verdad ? 397453_398580
+*TIO:	mostrenco no se dice . 398580_400536
+*MAD:	cómo eres tú entonces ? 400536_401601
+*TIO:	y bonita . 402570_403990
+*TIO:	espera , quédate ahí y cuando acabes de cenar te cojo , vale ? 405055_408170
+*MAD:	mira , te cantamos algo ? 408170_409710
+*MAD:	que queremos que te cantemos ? 410138_411940
+*TIO:	te cantamos la cancioncilla de tío Felix ? 411940_415506
+*MAD:	no: . 415506_416218
+*MAD:	el cuento ? 417690_418890
+*MAD:	qué cuento quieres que te cuente ? 418890_420778
+*TIO:	0 [% empieza a cantar] . 420778_423888
+*TIO:	el cuento , te cuento un cuento ? 427178_428213
+*MAD:	siéntate , siéntate . 430161_431546
+*TIO:	érase una vez un censo de niña muy pequeñita , muy pequeñita , muy pequeñita que comía muy mal muy mal muy mal . 431546_436653
+*TIO:	y se llamaba María y entonces María una noche estaba cenando porque al día siguiente se iba a Galicia a_ver al Yayito y a la Yayita y al tío Antonio . 436653_446616
+*TIO:	y a la tía Mabel , verdad María ? 446616_448595
+*TIO:	eh ? 448595_450031
+*TIO:	a que sí . 450031_451008
+*TIO:	dónde vas mañana ? 451008_452148
+*TIO:	con Yayito , verdad ? 458805_460356
+*TIO:	y con el Aito . 460356_461548
+*TIO:	quién es el Aito ? 461548_463361
+*MAD:	no sabes quién es el Aito ? 470423_471978
+*TIO:	el Aito es un guauguau , verdad ? 471978_474408
+*TIO:	es el guauguau de María , verdad ? 476673_478746
+*TIO:	el Aito . 478746_480245
+*MAD:	dónde está la Aito , María ? 480245_481320
+*MAD:	este se llama Pepito , este muñeco ? 485061_487286
+*MAD:	quién te ha traído a Pepito ? 487286_489875
+*MAD:	quién te lo ha traido a Pepito ? 494180_495451
+*MAD:	Irma , jolín , la tía ! 498653_500810
+*MAD:	has oído ? 500810_501410
+*MAD:	quién te lo ha dicho ? 501410_502858
+*MAD:	Irma ? 503521_504240
+*MAD:	y el hipopótamo ? 504240_506990
+*MAD:	quién te lo ha traido ? 507871_509510
+*TIO:	oye , María , María , dónde está Carlitos ? 511558_525701
+*TIO:	este Pipo . 526826_528076
+*TIO:	y Carlitos hace muchos días que no le ves , verdad ? 528076_532226
+*MAD:	dónde está Carlitos ? 532226_540258
+*TIO:	oye , y qué vamos a hacer en Galicia ? 540258_541505
+*TIO:	ir de ? 541505_542136
+*TIO:	eh ? 542136_544770
+*TIO:	qué vamos a hacer en Galicia ? 544770_547658
+*TIO:	ir de copas ! 547658_549638
+*TIO:	no , más alto , más alto . 551910_553140
+*TIO:	copas ! 553140_554650
+*MAD:	y tú que vas a beber , hija ? 558576_559518
