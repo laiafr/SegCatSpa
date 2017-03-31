@@ -26,7 +26,7 @@ f 3 t ;eword ;esyll m a l ;eword ;esyll p 0 ;esyll b r 3 t ;eword
 p u ;esyll p a ;eword 
 3 s ;esyll t a ;eword ;esyll k 0 ;esyll r a t ;eword 
 k 3 ;eword ;esyll n o ;eword 
-n o ;eword ;esyll t r 3 d ‍ ;esyll J i s ;eword 
+n o ;eword ;esyll t r 3 d ;esyll J i s ;eword 
 a w ;eword ;esyll k 0 ;esyll r 3 w ;eword ;esyll a l ;eword ;esyll p a ;esyll r E ;eword ;esyll k 3 ;eword ;esyll 3 s ;esyll t a ;eword ;esyll m a ;esyll l a l t ;eword 
 a j ;eword ;esyll a j ;eword ;esyll a j ;eword 
 m i ;esyll r a ;eword ;esyll E l ;eword ;esyll p a ;esyll r E ;eword ;esyll g i ;esyll L E m ;eword ;esyll m i ;esyll r a ;eword ;esyll E l ;eword ;esyll p a ;esyll r E ;eword 
@@ -43,13 +43,13 @@ a j ;eword ;esyll k i n ;eword ;esyll m a l ;eword
 E s ;esyll p 3 ;esyll r a ;eword ;esyll k 3 ;eword ;esyll b 3 ;esyll n E n ;eword ;esyll R E ;esyll f o R ;esyll k 0 s ;eword 
 f l 0 j ;esyll S 3 t ;eword ;esyll g i ;esyll L E m ;eword ;esyll f l 0 j ;esyll S 3 t ;eword 
 J a ;eword ;esyll 3 ;esyll m a ;eword ;esyll a s ;eword ;esyll k 0 ;esyll r a t ;eword 
-n o ;eword ;esyll m 0 ;esyll s 3 d ‍ ;esyll J i s ;eword 
+n o ;eword ;esyll m 0 ;esyll s 3 d ;esyll J i s ;eword 
 k u ;esyll r a ;eword ;esyll a l ;eword ;esyll p a ;esyll r E ;eword ;esyll g i ;esyll L E m ;eword ;esyll k 0 ;esyll r a l ;eword 
 a ;esyll r a ;eword ;esyll a ;esyll r a ;eword ;esyll m o l t ;eword ;esyll b 3 ;eword 
 a ;esyll r a ;eword ;esyll t u ;eword ;esyll g i ;esyll L E m ;eword ;esyll a ;esyll r a ;eword ;esyll t u ;eword 
 k 3 ;eword ;esyll b o ;eword 
 a ;esyll k i ;eword 
-n o ;eword ;esyll s i d ‍ ;esyll J i s ;eword ;esyll t a n ;eword ;esyll b E s ;esyll t i ;esyll a ;eword ;esyll g i ;esyll L E m ;eword 
+n o ;eword ;esyll s i d ;esyll J i s ;eword ;esyll t a n ;eword ;esyll b E s ;esyll t i ;esyll a ;eword ;esyll g i ;esyll L E m ;eword 
 k u ;esyll r a ;eword ;esyll a l ;eword ;esyll p a ;esyll r E ;eword ;esyll k o ;esyll R E ;eword ;esyll k u ;esyll r a ;eword 
 k u ;esyll r a m ;eword ;esyll k u ;esyll r a m ;eword ;esyll k u ;esyll r a m ;eword 
 k o ;esyll R E ;eword ;esyll a ;eword ;esyll k 0 ;esyll r a R ;esyll l 0 ;eword ;esyll b a ;eword ;esyll k o ;esyll R E ;eword ;esyll a ;eword ;esyll t r E ;esyll b a ;esyll L a ;eword ;esyll R a ;esyll p i t ;eword 
@@ -64,7 +64,7 @@ k 3 ;eword ;esyll p o r ;esyll t E s ;eword ;esyll a ;eword ;esyll l a ;eword ;e
 b r u t ;eword 
 s i ;eword 
 p a ;esyll r E ;eword 
-n o ;eword ;esyll m 0 ;esyll s 3 d ‍ ;esyll J i s ;eword ;esyll g i ;esyll L E m ;eword 
+n o ;eword ;esyll m 0 ;esyll s 3 d ;esyll J i s ;eword ;esyll g i ;esyll L E m ;eword 
 J a ;eword ;esyll 3 ;esyll m a ;eword ;esyll a ;esyll p a r ;esyll t 0 ;eword ;esyll b a ;eword 
 k a n ;esyll t a ;eword ;esyll g i ;esyll L E m ;eword ;esyll k a n ;esyll t a ;eword 
 g i ;esyll L E m ;eword ;esyll a ;esyll r a ;eword ;esyll E l ;eword ;esyll k i m ;eword 
@@ -72,8 +72,8 @@ a ;esyll r a ;eword ;esyll E l ;eword ;esyll k i m ;eword
 m o l t ;eword ;esyll b 3 ;eword 
 a ;esyll r a ;eword ;esyll E l ;eword ;esyll k i m ;eword 
 o n ;eword ;esyll E s ;eword ;esyll E l ;eword ;esyll S 0 ;esyll m 3 t ;eword ;esyll g i ;esyll L E m ;eword 
-b a ;eword ;esyll n o ;eword ;esyll s i d ‍ ;esyll J i s ;eword ;esyll a j ;esyll S i ;eword 
-n o ;eword ;esyll s i d ‍ ;esyll J i s ;eword ;esyll m a ;esyll l a ;eword ;esyll p 3 ;esyll k a ;eword 
+b a ;eword ;esyll n o ;eword ;esyll s i d ;esyll J i s ;eword ;esyll a j ;esyll S i ;eword 
+n o ;eword ;esyll s i d ;esyll J i s ;eword ;esyll m a ;esyll l a ;eword ;esyll p 3 ;esyll k a ;eword 
 a ;esyll r a ;eword ;esyll E l ;eword ;esyll g i ;esyll L E m ;eword 
 b a ;eword 
 g i ;esyll L E m ;eword ;esyll k a n ;esyll t E m ;eword ;esyll l E ;esyll l E ;esyll f a n ;eword 
