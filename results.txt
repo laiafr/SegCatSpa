@@ -1,0 +1,81 @@
+version matching algo token_f-score token_precision token_recall boundary_f-score boundary_precision boundary_recall
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/dibs/cfgold-res.txt	dibs	0.2568	0.2937	0.2282	0.4816	0.5837	0.4098
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/puddle/cfgold-res.txt	puddle	0.2571	0.4349	0.1825	0.3429	0.9321	0.2101
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/0/TPs/cfgold-res.txt	TPs	0.3388	0.4071	0.2901	0.5716	0.7494	0.462
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/AGu_1/cfgold-res.txt	AGu_1	0.5708	0.5528	0.5901	0.7632	0.7317	0.7977
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/AGu_2/cfgold-res.txt	AGu_2	0.5674	0.5532	0.5825	0.7629	0.7376	0.79
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/AGu_3/cfgold-res.txt	AGu_3	0.5609	0.5474	0.5751	0.7606	0.7364	0.7864
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/AGu_4/cfgold-res.txt	AGu_4	0.583	0.5623	0.6052	0.7726	0.7369	0.812
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/AGu_5/cfgold-res.txt	AGu_5	0.5755	0.5627	0.5889	0.7652	0.7427	0.789
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/dibs/cfgold-res.txt	dibs	0.2939	0.3332	0.2629	0.5049	0.6043	0.4336
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/puddle/cfgold-res.txt	puddle	0.2312	0.4018	0.1623	0.3183	0.9464	0.1913
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/1/TPs/cfgold-res.txt	TPs	0.3385	0.4102	0.2881	0.574	0.7641	0.4596
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/dibs/cfgold-res.txt	dibs	0.2772	0.3069	0.2528	0.5052	0.5833	0.4456
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/puddle/cfgold-res.txt	puddle	0.2441	0.4186	0.1723	0.3294	0.9372	0.1998
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/2/TPs/cfgold-res.txt	TPs	0.3225	0.392	0.2739	0.5629	0.7527	0.4495
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/dibs/cfgold-res.txt	dibs	0.2881	0.3222	0.2605	0.5084	0.5956	0.4435
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/puddle/cfgold-res.txt	puddle	0.2399	0.416	0.1685	0.3196	0.9355	0.1927
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/3/TPs/cfgold-res.txt	TPs	0.3262	0.397	0.2768	0.5659	0.7577	0.4516
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/dibs/cfgold-res.txt	dibs	0.331	0.38	0.2932	0.5229	0.6381	0.4429
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/puddle/cfgold-res.txt	puddle	0.2631	0.4437	0.187	0.3411	0.9285	0.209
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/4/TPs/cfgold-res.txt	TPs	0.3391	0.4104	0.2889	0.5757	0.765	0.4616
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/dibs/cfgold-res.txt	dibs	0.2681	0.3137	0.2341	0.459	0.5801	0.3798
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/puddle/cfgold-res.txt	puddle	0.2437	0.4157	0.1723	0.3187	0.9425	0.1918
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/5/TPs/cfgold-res.txt	TPs	0.3279	0.3983	0.2787	0.5566	0.7489	0.4429
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/AGu_1/cfgold-res.txt	AGu_1	0.5746	0.562	0.5878	0.7696	0.7471	0.7936
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/AGu_2/cfgold-res.txt	AGu_2	0.5815	0.5697	0.5939	0.7736	0.7525	0.7959
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/AGu_3/cfgold-res.txt	AGu_3	0.5723	0.5635	0.5813	0.7588	0.7431	0.7751
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/AGu_4/cfgold-res.txt	AGu_4	0.5544	0.5382	0.5717	0.7499	0.7207	0.7816
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/AGu_5/cfgold-res.txt	AGu_5	0.5726	0.5555	0.5907	0.7648	0.7345	0.7977
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/dibs/cfgold-res.txt	dibs	0.2939	0.3515	0.2525	0.4726	0.6184	0.3824
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/puddle/cfgold-res.txt	puddle	0.2811	0.4649	0.2015	0.3629	0.9616	0.2237
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/6/TPs/cfgold-res.txt	TPs	0.3427	0.4156	0.2916	0.5646	0.7558	0.4506
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/AGu_1/cfgold-res.txt	AGu_1	0.5939	0.5841	0.604	0.7725	0.7548	0.791
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/AGu_2/cfgold-res.txt	AGu_2	0.588	0.572	0.6048	0.7718	0.743	0.8031
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/AGu_3/cfgold-res.txt	AGu_3	0.5998	0.5914	0.6084	0.7761	0.761	0.7918
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/AGu_4/cfgold-res.txt	AGu_4	0.5894	0.5745	0.6052	0.7693	0.7423	0.7983
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/AGu_5/cfgold-res.txt	AGu_5	0.5877	0.572	0.6043	0.7716	0.7432	0.8024
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/dibs/cfgold-res.txt	dibs	0.2986	0.3488	0.261	0.4655	0.5935	0.3828
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/puddle/cfgold-res.txt	puddle	0.2538	0.4185	0.1822	0.3089	0.913	0.1859
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/7/TPs/cfgold-res.txt	TPs	0.3571	0.4283	0.3063	0.5658	0.7558	0.4521
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/AGu_1/cfgold-res.txt	AGu_1
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/AGu_2/cfgold-res.txt	AGu_2
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/AGu_3/cfgold-res.txt	AGu_3
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/AGu_4/cfgold-res.txt	AGu_4
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/AGu_5/cfgold-res.txt	AGu_5
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/dibs/cfgold-res.txt	dibs	0.3291	0.3631	0.3009	0.4949	0.5745	0.4347
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/puddle/cfgold-res.txt	puddle	0.2972	0.4734	0.2166	0.355	0.9528	0.2181
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/8/TPs/cfgold-res.txt	TPs	0.3715	0.4409	0.321	0.5826	0.766	0.4701
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/AGu_1/cfgold-res.txt	AGu_1	0.5657	0.5529	0.579	0.7586	0.7353	0.7835
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/AGu_2/cfgold-res.txt	AGu_2	0.587	0.5857	0.5883	0.7694	0.767	0.7717
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/AGu_3/cfgold-res.txt	AGu_3	0.5837	0.5839	0.5834	0.7636	0.764	0.7631
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/AGu_4/cfgold-res.txt	AGu_4	0.5702	0.5652	0.5753	0.7552	0.7461	0.7646
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/AGu_5/cfgold-res.txt	AGu_5	0.5848	0.587	0.5827	0.7627	0.7665	0.7588
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/dibs/cfgold-res.txt	dibs	0.3269	0.3811	0.2862	0.5065	0.6401	0.419
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/puddle/cfgold-res.txt	puddle	0.2838	0.4623	0.2048	0.3507	0.9469	0.2152
+/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_cat_10/2/9/TPs/cfgold-res.txt	TPs	0.3672	0.4424	0.3138	0.5833	0.7804	0.4657
