@@ -19,6 +19,7 @@ Nal
 Nan
 Nar
 Nas
+Nas”
 Ne
 Nes
 Ni
@@ -125,7 +126,6 @@ bri
 brir
 bris
 bro
-bron
 bros
 brown
 bru
@@ -190,7 +190,6 @@ dur
 e
 e8
 ed
-edon
 egg
 el
 em
@@ -266,6 +265,7 @@ ges
 get
 gi
 gim
+gir
 gis
 gla
 glar
@@ -387,6 +387,7 @@ lix
 lo
 lon
 lor
+lor8
 los
 lox
 lu
@@ -453,11 +454,11 @@ nir
 nis
 no
 no8
-noel
 nom
 nor
 nos
 not
+no”
 nu
 nun
 nun8
@@ -540,7 +541,6 @@ pur
 ra
 ra8
 rak
-ral
 ram
 ran
 rar
@@ -596,6 +596,7 @@ sin
 sir
 sis
 six
+si”
 so
 so8
 sokb
@@ -614,12 +615,14 @@ tSan
 tSar
 tSas
 tSe
+tSe8
 tSen
 tSes
 tSi
 tSin
 tSis
 tSo
+tSoms
 tSon
 tSon8
 tSos
@@ -635,6 +638,7 @@ tak
 tal
 tam
 tan
+tan8
 tar
 tas
 te
@@ -662,9 +666,12 @@ to
 tol
 ton
 ton8
+ton”
 tor
 tor8
 tos
+tos”
+to”
 tra
 tram
 tran
