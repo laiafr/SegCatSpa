@@ -122,6 +122,7 @@
 < E7anSat
 < E7anSinEs
 < EduaRt
+< EgzkuRsi0
 < EiS0ga
 < EiS0gada
 < EiS0gat
@@ -338,7 +339,6 @@
 < EstraNEs
 < EstraNa
 < Estripat
-< EɡzkuRsi0
 < J0RdinEs
 < J0Rdina
 < J0an
@@ -5508,7 +5508,7 @@
 > labatelas
 > labatelos
 > labe
-2502,2556c3034,3052
+2502,2557c3034,3052
 < labi0
 < labia
 < labitasi0
@@ -5525,6 +5525,7 @@
 < lagantEs
 < laganta
 < lagantara
+< lagzuksis
 < laiS3kEs
 < laiS3ta
 < laia
@@ -5584,7 +5585,7 @@
 > largas
 > largo
 > larios
-2558,2569c3054,3101
+2559,2569c3054,3101
 < lassEnsor
 < latr0p3La
 < latr0pELara
@@ -5593,7 +5594,6 @@
 < laura
 < laurora
 < lautob0s
-< laɡzuksis
 < li
 < lidia
 < lila
@@ -6141,12 +6141,13 @@
 ---
 > miLones
 > mia
-2797,2805c3374,3384
+2797,2806c3374,3384
 < miaumiau
 < midJ0
 < midJ0n3t
 < midJEs
 < midJons
+< migdia
 < mik
 < mik0
 < mik3ta
@@ -6163,7 +6164,7 @@
 > mikes
 > mikkei
 > miko
-2807,2810c3386,3403
+2808,2811c3386,3403
 < mil0
 < milupa
 < mimi
@@ -6187,7 +6188,7 @@
 > minutin
 > minuto
 > minutos
-2812,2819c3405
+2813,2820c3405
 < mir0
 < mir3m0
 < mir3ml0
@@ -6198,15 +6199,15 @@
 < mirEs
 ---
 > mios
-2821,2824d3406
+2822,2825d3406
 < mira0
 < miraL
 < miraRtE
 < miraaa
-2826,2827d3407
+2827,2828d3407
 < miral
 < miral0
-2829,2831c3409,3414
+2830,2832c3409,3414
 < mirali
 < mirals
 < miram
@@ -6217,7 +6218,7 @@
 > miralos
 > mirame
 > miramos
-2833,2863c3416,3457
+2834,2863c3416,3457
 < mirarE
 < mirarEm
 < miraras
@@ -6228,7 +6229,6 @@
 < mist0
 < misti
 < mitE
-< miɡdia
 < mo
 < moL
 < moRi0
@@ -8675,7 +8675,7 @@
 > serpiente
 > sesion
 > setina
-3822,3838c4898,4944
+3822,3828c4898,4919
 < si3l0s
 < si7k
 < siEntatE
@@ -8683,16 +8683,6 @@
 < siRk
 < sidJi
 < sidJis
-< sigt
-< sii
-< siii
-< silbia
-< sim
-< sim0ltani
-< simpatika
-< sin0
-< sindia
-< sindria
 ---
 > siLa
 > siLeta
@@ -8716,7 +8706,18 @@
 > sif
 > sigar
 > sigas
-> signifika
+3830,3839c4921,4944
+< sigt
+< sii
+< siii
+< silbia
+< sim
+< sim0ltani
+< simpatika
+< sin0
+< sindia
+< sindria
+---
 > sigo
 > siguas
 > sigue
@@ -8741,14 +8742,13 @@
 > sindarela
 > sindo
 > sindonela
-3840,3848c4946,4954
+3841,3848c4946,4954
 < sinta
 < sir3na
 < sir3rEs
 < sis
 < sist3L
 < sistEL3t
-< siɡnifika
 < soRa
 < sobrE
 ---
