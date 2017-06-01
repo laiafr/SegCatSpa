@@ -1,0 +1,51 @@
+version matching algo token_f-score token_precision token_recall boundary_f-score boundary_precision boundary_recall
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/0/AGc3sf/cfgold-res.txt	AGc3	0.7967	0.7609	0.836	0.8967	0.8465	0.9534
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/0/AGu/cfgold-res.txt	AGu	0.7023	0.6547	0.7574	0.8455	0.7748	0.9304
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/0/dibs/cfgold-res.txt	dibs	0.3105	0.3624	0.2716	0.5195	0.642	0.4363
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/0/puddle/cfgold-res.txt	puddle	0.488	0.6184	0.4031	0.6505	0.9118	0.5056
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/0/TPs/cfgold-res.txt	TPs	0.2335	0.3319	0.1801	0.5215	0.889	0.369
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/1/AGc3sf/cfgold-res.txt	AGc3	0.7716	0.7291	0.8194	0.8866	0.8249	0.9582
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/1/AGu/cfgold-res.txt	AGu	0.6972	0.6454	0.7582	0.8415	0.7634	0.9375
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/1/dibs/cfgold-res.txt	dibs	0.3332	0.3781	0.2979	0.5446	0.6488	0.4692
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/1/puddle/cfgold-res.txt	puddle	0.5271	0.6427	0.4467	0.6755	0.8987	0.5412
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/1/TPs/cfgold-res.txt	TPs	0.2547	0.3619	0.1965	0.5269	0.9162	0.3698
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/2/AGc3sf/cfgold-res.txt	AGc3	0.8212	0.7866	0.859	0.9097	0.8617	0.9635
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/2/AGu/cfgold-res.txt	AGu	0.6791	0.6324	0.7332	0.8399	0.7686	0.9258
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/2/dibs/cfgold-res.txt	dibs	0.2879	0.3238	0.2591	0.5149	0.6036	0.4489
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/2/puddle/cfgold-res.txt	puddle	0.5482	0.6737	0.4621	0.6998	0.936	0.5588
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/2/TPs/cfgold-res.txt	TPs	0.2552	0.3627	0.1969	0.5479	0.9369	0.3871
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/3/AGc3sf/cfgold-res.txt	AGc3	0.7797	0.737	0.8277	0.8927	0.832	0.963
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/3/AGu/cfgold-res.txt	AGu	0.6858	0.6536	0.7214	0.837	0.788	0.8925
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/3/dibs/cfgold-res.txt	dibs	0.3441	0.376	0.3172	0.5797	0.6522	0.5217
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/3/puddle/cfgold-res.txt	puddle	0.4875	0.6271	0.3987	0.6391	0.9176	0.4903
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/3/TPs/cfgold-res.txt	TPs	0.242	0.3469	0.1858	0.5375	0.9301	0.378
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/4/AGc3sf/cfgold-res.txt	AGc3
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/4/AGu/cfgold-res.txt	AGu	0.6993	0.649	0.7581	0.8477	0.7721	0.9398
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/4/dibs/cfgold-res.txt	dibs	0.3134	0.3703	0.2717	0.5351	0.6754	0.443
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/4/puddle/cfgold-res.txt	puddle	0.5472	0.6432	0.476	0.7076	0.8865	0.5888
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/4/TPs/cfgold-res.txt	TPs	0.2553	0.3645	0.1964	0.5366	0.9321	0.3768
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/5/AGc3sf/cfgold-res.txt	AGc3
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/5/AGu/cfgold-res.txt	AGu	0.6862	0.6417	0.7374	0.8417	0.7742	0.9221
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/5/dibs/cfgold-res.txt	dibs	0.3207	0.3828	0.2759	0.5467	0.6988	0.449
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/5/puddle/cfgold-res.txt	puddle	0.5414	0.6791	0.4501	0.6876	0.9487	0.5392
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/5/TPs/cfgold-res.txt	TPs	0.2497	0.3566	0.1921	0.5397	0.9289	0.3804
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/6/AGc3sf/cfgold-res.txt	AGc3
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/6/AGu/cfgold-res.txt	AGu	0.7024	0.6529	0.76	0.8516	0.7786	0.9397
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/6/dibs/cfgold-res.txt	dibs	0.2898	0.3535	0.2456	0.5156	0.6768	0.4164
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/6/puddle/cfgold-res.txt	puddle	0.4826	0.6067	0.4006	0.6484	0.8914	0.5095
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/6/TPs/cfgold-res.txt	TPs	0.2458	0.3489	0.1897	0.5552	0.9312	0.3955
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/7/AGc3sf/cfgold-res.txt	AGc3	0.7888	0.7527	0.8285	0.8966	0.8467	0.9527
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/7/AGu/cfgold-res.txt	AGu	0.6892	0.639	0.7479	0.8452	0.7713	0.9347
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/7/dibs/cfgold-res.txt	dibs	0.29	0.3347	0.2558	0.5222	0.6304	0.4458
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/7/puddle/cfgold-res.txt	puddle	0.5486	0.6639	0.4675	0.707	0.9125	0.577
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/7/TPs/cfgold-res.txt	TPs	0.2333	0.3341	0.1793	0.5469	0.9182	0.3895
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/8/AGc3sf/cfgold-res.txt	AGc3	0.7835	0.7404	0.8319	0.8947	0.8345	0.9643
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/8/AGu/cfgold-res.txt	AGu	0.6835	0.6346	0.7406	0.8395	0.7666	0.9278
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/8/dibs/cfgold-res.txt	dibs	0.3127	0.3835	0.2639	0.5488	0.7261	0.4411
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/8/puddle/cfgold-res.txt	puddle	0.544	0.6712	0.4573	0.6951	0.9279	0.5558
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/8/TPs/cfgold-res.txt	TPs	0.2454	0.3487	0.1893	0.5405	0.9068	0.385
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/9/AGc3sf/cfgold-res.txt	AGc3
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/9/AGu/cfgold-res.txt	AGu	0.7103	0.6625	0.7654	0.8568	0.7864	0.941
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/9/dibs/cfgold-res.txt	dibs	0.362	0.4154	0.3207	0.5773	0.6943	0.494
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/9/puddle/cfgold-res.txt	puddle	0.5571	0.6883	0.468	0.7052	0.9455	0.5624
+/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_eng_10/4/9/TPs/cfgold-res.txt	TPs	0.2416	0.3435	0.1863	0.5439	0.9185	0.3863
