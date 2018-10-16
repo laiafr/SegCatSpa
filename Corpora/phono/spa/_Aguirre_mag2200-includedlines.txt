@@ -1,0 +1,751 @@
+*MOT:	las cartas ?
+*MOT:	a_ver .
+*MOT:	toma .
+*MOT:	toma , cielo .
+*MOT:	ah , éstas no te gustan ?
+*MOT:	éstas no le gustan , eh .
+*MOT:	no gustan .
+*MOT:	no , ya no te puedo abrir .
+*MOT:	ya lo ha cerrado eso , mamá .
+*MOT:	qué , mi amor ?
+*MOT:	la pluma .
+*MOT:	qué ?
+*MOT:	Rosana ?
+*MOT:	no está Rosana .
+*MOT:	qué ?
+*MOT:	que te caes ?
+*MOT:	ven aquí .
+*MOT:	ven que te voy a cambiar en casa y ahora salimos .
+*MOT:	qué ?
+*MOT:	que quema .
+*MOT:	qué quema ?
+*MOT:	ah , quema , claro , porque han encendido la barbacoa .
+*MOT:	quema , sí .
+*MOT:	dile a papá ahora qué ha pasado .
+*MOT:	mira , papuchi , ahora se ha hecho caca .
+*MOT:	ven .
+*MOT:	que vamos a cambiar .
+*MOT:	ven .
+*MOT:	ay , quieto .
+*MOT:	no toques .
+*MOT:	no te toques .
+*MOT:	no te muevas , eh .
+*MOT:	xxx .
+*MOT:	xxx .
+*MOT:	Mario ?
+*MOT:	atiza ?
+*MOT:	hala , ven .
+*MOT:	qué Magín ?
+*MOT:	a_ver .
+*MOT:	qué dices ?
+*MOT:	ay va , que te caes .
+*FAT:	te tira mamá ?
+*FAT:	no me tires , mamá .
+*FAT:	quién ha sido ?
+*MOT:	voy a desayunar .
+*FAT:	la mancha .
+*MOT:	ahora vengo , Magín .
+*FAT:	a ?
+*FAT:	qué tienes ?
+*FAT:	más .
+*FAT:	la boca .
+*FAT:	te brilla la boca .
+*FAT:	no quieres ?
+*FAT:	venga a (dor)mi(r) .
+*FAT:	qué ?
+*FAT:	qué ?
+*FAT:	la mancha .
+*FAT:	toma .
+*FAT:	sí , aquí .
+*FAT:	a caballo .
+*FAT:	xxx sube .
+*FAT:	dónde ibas ?
+*FAT:	xxx una araña .
+*FAT:	mira dónde está .
+*FAT:	está allí .
+*FAT:	allí .
+*FAT:	llámala , que baje .
+*FAT:	ah , quieres caca ?
+*FAT:	espera .
+*FAT:	quieto .
+*FAT:	Mari Carmen , sube que quiere caca .
+*FAT:	venga , yo te llevo .
+*FAT:	Mari Carmen , está haciendo pis en el váter .
+*FAT:	qué has hecho ?
+*FAT:	qué has hecho ?
+*FAT:	por dónde sale el pis ?
+*FAT:	por dónde sale ?
+*FAT:	por dónde sale el pis ?
+*FAT:	por la +"/.
+*FAT:	sí .
+*FAT:	sale el pis por la colilla , verdad ?
+*FAT:	espera .
+*FAT:	quieto , que te caes !
+*FAT:	ya .
+*FAT:	que te vas a caer .
+*FAT:	qué ?
+*FAT:	no , a duchar .
+*FAT:	a duchar .
+*FAT:	venga , haz caca primero .
+*FAT:	xxx .
+*FAT:	te cansas ?
+*FAT:	espera , cuando salga el agua caliente te pongo .
+*FAT:	vale ?
+*FAT:	es fría .
+*FAT:	canta .
+*FAT:	y mamá ?
+*MOT:	qué ?
+*FAT:	siéntate .
+*FAT:	siéntate .
+*FAT:	espera .
+*FAT:	espera .
+*FAT:	no [x 2] .
+*FAT:	no toques ahí que sale fría .
+*FAT:	mira , calentita .
+*FAT:	que sale bien .
+*MOT:	te has hecho pis otra vez ?
+*MOT:	pongo el [*] dodo ?
+*MOT:	a tailla [: colilla] pongo ?
+*MOT:	has dicho ?
+*MOT:	ya .
+*FAT:	&+chan &'tata &+chan .
+*FAT:	&+chan &'tata &+chan .
+*FAT:	&+chan &'tata &+chan .
+*FAT:	toma .
+*MOT:	luego +//.
+*MOT:	venga .
+*MOT:	esto qué es ?
+*MOT:	así .
+*FAT:	(a)chucho .
+*FAT:	xxx .
+*FAT:	y dijo +"/.
+*FAT:	dónde vas , cielo ?
+*FAT:	salta ahí .
+*FAT:	una y +"/.
+*FAT:	que te caes !
+*FAT:	mira los pajaritos .
+*FAT:	mira el pajarillo verde .
+*FAT:	mira .
+*FAT:	el pajarillo .
+*FAT:	xxx .
+*FAT:	cuidado , que te caes .
+*FAT:	sí , pero no puedes estar ahí .
+*FAT:	bájate .
+*FAT:	bájate , que te puedes caer .
+*FAT:	aquí .
+*FAT:	bueno , ahí nada más .
+*FAT:	así te dejo .
+*MOT:	ay , ven .
+*FAT:	pues había un pajarillo volando como el de anoche , más o menos .
+*MOT:	ahora vamos a mirar allí .
+*MOT:	ah , que hay aceitunas ahí .
+*MOT:	a_ver , como son xxx .
+*MOT:	eso no se come , eh !
+*FAT:	caca .
+*MOT:	no , no se come .
+*MOT:	son como las aceitunas , pero no son aceitunas , Curri .
+*MOT:	www .
+*FAT:	www .
+*FAT:	vámonos .
+*MOT:	adiós .
+*MOT:	venga .
+*MOT:	vamos .
+*MOT:	nos mojamos .
+*MOT:	porque está el suelo mojado .
+*MOT:	verdad ?
+*MOT:	eh ?
+*MOT:	ahí está mojado .
+*MOT:	a que sí ?
+*MOT:	uy , cómo pesas Magín !
+*MOT:	quién pesa ?
+*MOT:	qué ?
+*MOT:	qué ?
+*MOT:	un coche amarillo ?
+*MOT:	pero no hay ningún coche amarillo .
+*MOT:	como te gusta decir eso del coche amarillo .
+*MOT:	eh ?
+*MOT:	amarillo .
+*MOT:	quieres que vayamos a montar a los caballitos ?
+*MOT:	a los caballitos .
+*MOT:	ya verás como son los caballitos .
+*MOT:	otro amarillo .
+*MOT:	verdad ?
+*MOT:	mira .
+*MOT:	ése sí que es amarillo .
+*MOT:	amarillo .
+*MOT:	uy , cómo pesas Curri .
+*MOT:	pesas un montón .
+*MOT:	qué hacemos ?
+*MOT:	ya , muy bien !
+*MOT:	ya , hala vamos .
+*MOT:	quieres abrir ?
+*MOT:	hala , venga .
+*MOT:	vámonos !
+*MOT:	vámonos , ven !
+*MOT:	ya , Magín , ya .
+*MOT:	vamos .
+*MOT:	qué es eso ?
+*MOT:	no te entiendo .
+*MOT:	esa puerta ahora no se puede abrir .
+*MOT:	no sé qué dices .
+*MOT:	oye , por_qué no nos vamos ?
+*MOT:	esa no se puede abrir .
+*MOT:	pero bueno , qué es lo que quieres hacer ?
+*MOT:	a dónde vamos ?
+*MOT:	pero pasa .
+*MOT:	vamos .
+*MOT:	mira como se abre eso .
+*MOT:	ves como se abre ?
+*MOT:	hala , vamos .
+*MOT:	vamos a dar un paseo , ven .
+*MOT:	venga , vamos a dar un paseo .
+*MOT:	qué ?
+*MOT:	ven aquí .
+*MOT:	ven .
+*MOT:	venga , vamos a colocar .
+*MOT:	así .
+*MOT:	otra .
+*MOT:	las colocamos así ?
+*MOT:	no ?
+*MOT:	no te gusta colocarlas así ?
+*MOT:	así , mira .
+*MOT:	mira , ves .
+*MOT:	así .
+*MOT:	mira , las copas las ponemos con las copas .
+*MOT:	vale ?
+*MOT:	no ?
+*MOT:	ésa no ?
+*MOT:	eh ?
+*MOT:	eh ?
+*MOT:	noto@p ?
+*MOT:	al suelo ?
+*MOT:	no la tires al suelo tesoro .
+*MOT:	mira , vamos a poner ésta aquí .
+*MOT:	el oro , aquí .
+*MOT:	otro oro aquí .
+*MOT:	aquí .
+*MOT:	el basto [x 2] .
+*MOT:	aquí , el basto .
+*MOT:	espera , vamos a ponernos más aquí .
+*MOT:	vamos a ponernos aquí , que ahí está la corriente .
+*MOT:	ven .
+*MOT:	así .
+*MOT:	las cartas .
+*MOT:	&+onto , qué es eso de &+onto ?
+*MOT:	otra .
+*MOT:	mira el basto , Magín .
+*MOT:	mira el basto .
+*MOT:	un basto .
+*MOT:	otro basto .
+*MOT:	otro basto .
+*MOT:	oye , podíamos mirar el cuento ese que teníamos por aquí .
+*MOT:	el cuento ese que había por aquí .
+*MOT:	mira , vamos a_ver este cuento , Magín .
+*MOT:	un cuento , mira .
+*MOT:	no quieres ver el cuento ?
+*MOT:	por_qué ?
+*MOT:	mamá te lo mira .
+*MOT:	lo vamos abriendo las páginas y vamos viendo lo que es cada cosa .
+*MOT:	mira el osito .
+*MOT:	por_qué no quieres ?
+*MOT:	mira .
+*MOT:	pum .
+*MOT:	qué es eso ?
+*MOT:	mira , ven .
+*MOT:	no me pises que me haces daño .
+*MOT:	a_ver , que te cuento .
+*MOT:	mira .
+*MOT:	el oso .
+*MOT:	el pingüino .
+*MOT:	el oso , pero no lo pongas al revés porque si no , no se ve .
+*MOT:	otro oso , sí .
+*MOT:	el león .
+*MOT:	el mono .
+*MOT:	mira el mono .
+*MOT:	un osito .
+*MOT:	un pipi@o .
+*MOT:	y ésta es la ga(llina) +"/.
+*MOT:	la gallina .
+*MOT:	la gallina .
+*MOT:	se va la gallina ?
+*MOT:	eh ?
+*MOT:	qué es lolón@p ?
+*MOT:	el ratón ?
+*MOT:	el ratón quieres decir ?
+*MOT:	el conejo .
+*MOT:	el ratón .
+*MOT:	tatón [: ratón] , sí .
+*MOT:	dónde está la pelota ?
+*MOT:	aquí , esto es un lacito , ahí en la cola .
+*MOT:	tiene una cola con un lacito .
+*MOT:	ves ?
+*MOT:	una cola .
+*MOT:	y esto qué es ?
+*MOT:	muy bien , un pez .
+*MOT:	mira el pato .
+*MOT:	mira el pato , Magín .
+*MOT:	el pato y la foca .
+*MOT:	eh ?
+*MOT:	el mono .
+*MOT:	qué ?
+*MOT:	bibe mono ?
+*MOT:	qué es eso de bibe mono ?
+*MOT:	qué ?
+*MOT:	qué ?
+*MOT:	la gallina es ésta .
+*MOT:	mira , nos falta de mirar muchas páginas por aquí , por el medio .
+*MOT:	el león y el mono sí que lo hemos visto .
+*MOT:	y esto ?
+*MOT:	mira , el canguro .
+*MOT:	y tiene un cangurito chiquitín aquí en la barriguita , que lo guarda , Magín .
+*MOT:	un cangurito chiquitín .
+*MOT:	eso es como un caballito , sí .
+*MOT:	es una cebra .
+*MOT:	tiene rayitas .
+*MOT:	ves que tiene rayas ?
+*MOT:	na [: la] nena ?
+*MOT:	una nena .
+*MOT:	pero , dónde hay una nena ?
+*MOT:	eh ?
+*MOT:	xxx qué es eso ?
+*MOT:	mira la gallina y el pollito .
+*MOT:	mira .
+*MOT:	la gallina .
+*MOT:	ot(r)o naina [: gallina] , sí , otra gallina .
+*MOT:	vamo(s) ?
+*MOT:	te la vas a comer a la gallina ?
+*MOT:	o qué ?
+*MOT:	no te comas el libro , hombre .
+*MOT:	no , que se rompe .
+*MOT:	que se rompe , elemento .
+*MOT:	uy que bonito , mira .
+*MOT:	el gato y el perro .
+*MOT:	el perro . [+ I]
+*MOT:	cómo hace el perro ?
+*MOT:	guau@o [x 2] .
+*MOT:	al caballito .
+*MOT:	muy bien .
+*MOT:	mira .
+*MOT:	cómo hace el caballito ?
+*MOT:	cómo hace ?
+*MOT:	&+pum , salta .
+*MOT:	claro .
+*MOT:	ay , el caballito !
+*MOT:	el qué ?
+*MOT:	no sé qué dices .
+*MOT:	ah , un perrito .
+*MOT:	es un perrito , Magín .
+*MOT:	no , es un canguro .
+*MOT:	eso es un canguro .
+*MOT:	un caballito , sí .
+*MOT:	y qué es eso de un bifi ?
+*MOT:	un pollo ?
+*MOT:	dónde hay un pollo ?
+*MOT:	eso no es un pollo .
+*MOT:	un pipi@o , sí .
+*MOT:	qué dices ?
+*MOT:	es tuyo ?
+*MOT:	qué ?
+*MOT:	de quién es ese libro ?
+*MOT:	es tuyo , sí .
+*MOT:	es del nene .
+*MOT:	venga , deja eso ahí .
+*MOT:	el qué es tuyo .
+*MOT:	que lo vas a romper .
+*MOT:	mira que se xxx todo .
+*MOT:	qué ?
+*MOT:	a ponerlo ?
+*MOT:	qué ?
+*MOT:	así y +//.
+*MOT:	espera .
+*MOT:	espera .
+*MOT:	y dos .
+*MOT:	ven aquí .
+*MOT:	uno y dos .
+*MOT:	ven .
+*MOT:	así .
+*MOT:	ya está .
+*MOT:	(l)a siete el qué ?
+*MOT:	ocho .
+*MOT:	(l)a siete y ocho .
+*MOT:	nueve y diez .
+*MOT:	nos vamos a ir a la cama ya .
+*MOT:	no ?
+*MOT:	no quieres a la cama ?
+*MOT:	0 abrir [*] ? [+ I]
+*MOT:	no , no que se rompe .
+*MOT:	oye , oye que se va a romper .
+*MOT:	ven , vamos a apagar aquí .
+*MOT:	los zapatos no Magín , porque vamos a dormir .
+*MOT:	no [x 2] .
+*MOT:	Magín , échate .
+*MOT:	mira , te tienes que dormir porque luego nos vamos a ir de paseo .
+*MOT:	de paseo , y si no , no te despiertas .
+*MOT:	mira .
+*MOT:	a bañar .
+*MOT:	venga , ven aquí .
+*MOT:	no quema , es que está fría .
+*MOT:	espera , vamos a cerrar aquí un poquito .
+*MOT:	siéntate .
+*MOT:	siéntate .
+*MOT:	no [x 3] .
+*MOT:	qué haces ?
+*MOT:	no , ya está abierto .
+*MOT:	no quieres el plátano ?
+*MOT:	no , Magín .
+*MOT:	qué haces ?
+*MOT:	toma .
+*MOT:	por_qué ?
+*MOT:	por_qué no quieres plátano ?
+*MOT:	venga , si ya le hemos &+qui +...
+*MOT:	le hemos quita(d)o de ahí .
+*MOT:	está muy verde .
+*MOT:	está muy malo .
+*MOT:	quieres ?
+*MOT:	no me extraña .
+*MOT:	está malo esto .
+*MOT:	el globo está aquí .
+*MOT:	y la nena ?
+*MOT:	mira otro .
+*MOT:	dónde está la nena ?
+*MOT:	no , no hagas así que se explota .
+*MOT:	dónde está la nena ?
+*MOT:	está allí .
+*MOT:	oye , cuidado .
+*MOT:	qué quieres ?
+*MOT:	qué quieres , cielo ?
+*MOT:	el bolso ?
+*MOT:	dónde es mama ?
+*MOT:	es mío ?
+*MOT:	toma mamá ?
+*MOT:	trae mamá .
+*MOT:	e(s)to .
+*MOT:	y qué vas a hacer con el bolso ?
+*MOT:	el lápiz , sí .
+*MOT:	no , ahí no lo metas , que ahí no es .
+*MOT:	ahí no es , Magín .
+*MOT:	mira , mira otra nena .
+*MOT:	pero esos son para luego , porque tienes ahí uno y +/.
+*MOT:	mira dónde está el globo .
+*MOT:	coge ése .
+*MOT:	coge ese globo .
+*MOT:	estos son para luego , Magín .
+*MOT:	no se pueden hinchar ahora .
+*MOT:	no , no .
+*MOT:	no puedo .
+*MOT:	ahora no .
+*MOT:	coges ése , mira , y tienes éste otro .
+*MOT:	es que +/.
+*MOT:	es que tienes muchos .
+*MOT:	fíjate , tienes éste y ahí hay otro .
+*MOT:	mira dónde hay otro .
+*MOT:	ahí .
+*MOT:	mira , otro .
+*MOT:	cómo te voy a hinchar un globo si tienes dos .
+*MOT:	fíjate .
+*MOT:	qué ?
+*MOT:	ya no dices ufu@o , como decías antes .
+*MOT:	pero vamos a_ver Currillo , si tienes esos globos ahí .
+*MOT:	anda .
+*MOT:	pero , qué quieres hacer ?
+*MOT:	no le des la vuelta que entonces no se va a oír .
+*MOT:	oye , escucha un momento .
+*MOT:	mira , ese globo y ese globo .
+*MOT:	no vas a jugar con ellos .
+*MOT:	mira la nena .
+*MOT:	la está dando su mamá la merienda .
+*MOT:	qué ?
+*MOT:	no , no des ahí , que se hace pupa el nene .
+*MOT:	mira otra nena , también .
+*MOT:	ya .
+*MOT:	no ?
+*MOT:	cómete el pan sólo .
+*MOT:	corre .
+*MOT:	no te gusta el chorizo ?
+*MOT:	eso es caca , que está en el suelo .
+*MOT:	un plátano , sí .
+*MOT:	un xxx .
+*MOT:	dónde vas ?
+*MOT:	ven , vamos a tirar esto .
+*MOT:	dónde está la papelera ?
+*MOT:	eh ?
+*MOT:	espera .
+*MOT:	un globo ?
+*MOT:	a_ver , espera que lo cierre .
+*MOT:	así , ya está cerrado .
+*MOT:	a_ver , tienes una legañita ?
+*MOT:	cayó .
+*MOT:	cayó .
+*MOT:	para qué quieres que abra aquí ?
+*MOT:	eh ?
+*MOT:	pero si eso es para tirarlo a la basura , porque no lo has querido y ahora es caca .
+*MOT:	te pones vergonzosito tú ?
+*MOT:	Clarita no ?
+*MOT:	otro globo .
+*MOT:	pero mira esos que tienes ahí .
+*MOT:	no juegas con ellos ?
+*MOT:	a limpiar .
+*MOT:	las llaves .
+*MOT:	qué dice la nena ?
+*MOT:	dónde se sube la nena ?
+*MOT:	mira , ésta es como tú , Magín .
+*MOT:	mira , qué le ha pasado a la nena ?
+*MOT:	qué le ha pasado a la nena ?
+*MOT:	es caca , nena .
+*MOT:	es caca .
+*MOT:	se mancha la nena .
+*MOT:	es tu amiguita , Magín ?
+*MOT:	dila , siéntate aquí .
+*MOT:	siéntate aquí , nena .
+*MOT:	que te quiere coger el bolso la nena .
+*MOT:	verdad ?
+*MOT:	uy , se va a caer la nena .
+*MOT:	no , pupa nena .
+*MOT:	no .
+*MOT:	pupa .
+*MOT:	dila no , nena , no .
+*MOT:	no sé .
+*MOT:	de quién es esa nena ?
+*MOT:	ven .
+*MOT:	dile , es pupa .
+*MOT:	qué mi cielo ?
+*MOT:	hay un globo ?
+*MOT:	lo quieres coger ?
+*MOT:	no , cuidado !
+*MOT:	que viene la araña ?
+*MOT:	oye , Magín , y qué decías antes ?
+*MOT:	llora la araña ?
+*MOT:	dónde está la araña ?
+*MOT:	eh ?
+*MOT:	es la araña ?
+*MOT:	la llamas ?
+*MOT:	es tu amiguita la araña ?
+*MOT:	está allí .
+*MOT:	otra ?
+*MOT:	oye , es tu amiguita la araña ?
+*MOT:	pica .
+*MOT:	no .
+*MOT:	tatito@p ?
+*MOT:	quién es tatito@p ?
+*MOT:	xxx .
+*MOT:	qué ?
+*MOT:	momaito@p ?
+*MOT:	&+tu'ta &+la'la , qué es eso ?
+*MOT:	oye [x 2] .
+*MOT:	dónde ?
+*MOT:	quieto [x 2] .
+*MOT:	dónde vas ?
+*MOT:	quieto ahí .
+*MOT:	ven .
+*MOT:	ven aquí .
+*MOT:	ven .
+*MOT:	oye , dónde vas ?
+*MOT:	a (dor)mir , dónde ?
+*MOT:	ahí ?
+*MOT:	échate ahí .
+*MOT:	ahí , a dormir , venga .
+*MOT:	el qué es tuya ?
+*MOT:	oye , no , deja eso .
+*MOT:	pero deja eso .
+*MOT:	deja eso , trae .
+*MOT:	mira [x 3] .
+*MOT:	que lo sacas de su sitio .
+*MOT:	bibe ahora ?
+*MOT:	qué ?
+*MOT:	e(l) nene .
+*MOT:	qué ?
+*MOT:	ay ?
+*MOT:	no sabes abrir esa puerta ?
+*MOT:	eh ?
+*MOT:	no sabes , Magín .
+*MOT:	así no se abre .
+*MOT:	tienes que hacer así , mira .
+*MOT:	xxx .
+*MOT:	qué ?
+*MOT:	qué ?
+*MOT:	quién te asusta ?
+*MOT:	qué ?
+*MOT:	te matas ?
+*MOT:	xxx .
+*MOT:	me mato .
+*MOT:	ay , xxx , no [x 3] xxx que me haces daño .
+*MOT:	un besito .
+*MOT:	un besito a mamá .
+*MOT:	qué ?
+*MOT:	estás muy meadito .
+*MOT:	ay va , que te caes .
+*MOT:	qué ha pasado ?
+*MOT:	dónde ?
+*MOT:	dónde está pupa ?
+*MOT:	te doy un besito ?
+*MOT:	quieto .
+*MOT:	quieto , que te voy a poner el dodotis .
+*MOT:	ven .
+*MOT:	te tengo que vestir .
+*MOT:	vamos a ponerte guapo .
+*MOT:	oye , Magín , pero luego no te manches .
+*MOT:	luego no te manches para comer el yogurcete .
+*MOT:	te vas a manchar ?
+*MOT:	qué te pasa ?
+*MOT:	qué te pasa , cielo ?
+*MOT:	mira , que guapo te ha puesto mamá .
+*MOT:	mira .
+*MOT:	pero no te tienes que manchar , eh ?
+*MOT:	mira que guapete .
+*MOT:	xxx .
+*MOT:	oye , quietecito .
+*MOT:	ven aquí .
+*MOT:	no te metas .
+*MOT:	no te metas .
+*MOT:	pero , qué vas a hacer ahí dentro ?
+*MOT:	qué vas a hacer ahí dentro ?
+*MOT:	está hechita la cama y la deshaces .
+*MOT:	es tuyo ?
+*MOT:	pero , dónde vas ?
+*MOT:	dónde vas ?
+*MOT:	ven .
+*MOT:	aquí .
+*MOT:	aquí .
+*MOT:	oye [x 3] .
+*MOT:	(l)a tuna [: cuna] !
+*MOT:	pero , Magín , escucha un momento lo que te voy a decir .
+*MOT:	mira [x 3] .
+*MOT:	por_qué el dodotis no ?
+*MOT:	pero bueno !
+*MOT:	bueno , entonces no quieres ir a la calle ?
+*MOT:	Magín , si quieres ir a la calle tenemos que poner el dodotis .
+*MOT:	vale ?
+*MOT:	ven .
+*MOT:	no , si no , no podemos ir .
+*MOT:	a momir [: dormir] ahora ?
+*MOT:	pero si te acabas de despertar , hombre .
+*MOT:	todo es amarillo .
+*MOT:	todo es amarillo .
+*MOT:	qué se cae el xxx , Magín .
+*MOT:	has dicho eso ?
+*MOT:	que se cae el globo , verdad ?
+*MOT:	y ahora , mira , mira .
+*MOT:	qué hace el globo ahora ?
+*MOT:	qué hace el globo ahora , Magín ?
+*MOT:	na [: la] nuna [: luna] .
+*MOT:	el globo .
+*MOT:	eh ?
+*MOT:	qué le dices tú al globo ?
+*MOT:	eh ?
+*MOT:	qué le dices tú al globo ?
+*MOT:	se cae ?
+*MOT:	lo coges ?
+*MOT:	lo coges tú al globo ?
+*MOT:	está muy lejos , no lo podemos coger ?
+*MOT:	es un paracaidista , Magín que va con una barca .
+*MOT:	sabes ?
+*MOT:	la barca , sí .
+*MOT:	eh ?
+*MOT:	qué ?
+*MOT:	lo cogemos ?
+*MOT:	globo ven .
+*MOT:	ven aquí globo .
+*MOT:	la luna , ven .
+*MOT:	también llamas a la luna ?
+*MOT:	ven globo !
+*MOT:	qué ?
+*MOT:	globo , ven aquí !
+*MOT:	se ha ido el globo .
+*MOT:	ya se ha ido , mira .
+*MOT:	vamos al otro lado ?
+*MOT:	el globo ya se ha ido ?
+*MOT:	está allí el globo ?
+*MOT:	está allí el globo ?
+*MOT:	mira el chorro .
+*MOT:	mira el chorro .
+*MOT:	que se cae el chorro .
+*MOT:	mira que bonito está .
+*MOT:	es un chorro de agua , mira .
+*MOT:	siéntate .
+*MOT:	siéntate aquí .
+*MOT:	el globo está allí , mira .
+*MOT:	bobo [: globo] .
+*MOT:	globo , ven aquí .
+*MOT:	la luna .
+*MOT:	está allí , la luna , sí .
+*MOT:	bobo [: globo] , ven .
+*MOT:	a quién ?
+*MOT:	a ese globo le llamas otra vez ?
+*MOT:	uy , cuántos escarabajos !
+*MOT:	mira .
+*MOT:	es una caca .
+*MOT:	mira , ven .
+*MOT:	el globo .
+*MOT:	ven .
+*MOT:	pero , ven , ven .
+*MOT:	vamos por aquí , Magín .
+*MOT:	déjame sujetarte .
+*MOT:	déjame sujetarte .
+*MOT:	me dejas sujetarte ?
+*MOT:	dame un besito .
+*MOT:	mi amor bonito .
+*MOT:	a_ver .
+*MOT:	quieto .
+*MOT:	quieto .
+*MOT:	por aquí .
+*MOT:	cuidado .
+*MOT:	cuidado .
+*MOT:	que viene un coche .
+*MOT:	pero , qué es eso ?
+*MOT:	qué ?
+*MOT:	qué dices ?
+*MOT:	cuidado .
+*MOT:	eh ?
+*MOT:	hace frío ?
+*MOT:	tienes frío ?
+*MOT:	tienes frío , mi amor ?
+*MOT:	eh ?
+*MOT:	qué dices que no te entiendo ?
+*MOT:	tienes frío ?
+*MOT:	vamos [x 3] .
+*MOT:	venga .
+*MOT:	qué ha pasado , Magín ?
+*MOT:	a_ver la mano .
+*MOT:	eh ?
+*MOT:	qué ha pasado ?
+*MOT:	caca ?
+*MOT:	pero qué ha pasado ?
+*MOT:	no .
+*MOT:	eso .
+*MOT:	hay que comer eso .
+*MOT:	mira .
+*MOT:	eso es como si fuese caramelo , Magín .
+*MOT:	el melocotón es +//.
+*MOT:	oye .
+*MOT:	es un caramelo de melocotón .
+*MOT:	www .
+*MOT:	a_ver la mariposita .
+*MOT:	y ahora el melocotón .
+*MOT:	estás tonto .
+*MOT:	no hagas el tonto , Magín .
+*MOT:	www .
+*MOT:	oye , Magín .
+*FAT:	está contento .
+*MOT:	www .
+*MOT:	qué mi amor ?
+*MOT:	dónde ha sido la pupa ?
+*MOT:	dónde ha sido la pupa ?
+*MOT:	allí está papá , pero la pupa dónde ha sido ?
+*MOT:	eh ?
+*MOT:	no lo tires .
+*MOT:	www .
+*MOT:	oye , trae aquí .
+*MOT:	déjalo ahí encima y eso dámelo , que lo vamos a llevar a la cocina .
+*MOT:	y por_qué no te lo quieres comer ?
+*MOT:	eh ?
+*MOT:	trae aquí .
+*MOT:	dámelo .
+*MOT:	dámelo .
+*MOT:	pero bueno .
+*MOT:	estás poniendo el suelo perdido .
+*MOT:	cómo se llama esto , Magín ?
+*MOT:	a_ver .
+*MOT:	vamos a arreglar para +/.
+*MOT:	a poner guapo para salir a la calle .
+*MOT:	sabes ?
+*FAT:	has terminado de merendar ?

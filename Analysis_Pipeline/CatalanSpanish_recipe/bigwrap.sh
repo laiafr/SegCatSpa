@@ -4,49 +4,47 @@
 # Alex Cristia <alecristia@gmail.com> 2017-01-14
 # Mathieu Bernard
 # Laia Fibla 2017-01-19
+# Alex Cristia 2018-10-12
 
 ################# Variables ##############
 # Adapt this section with your absolute paths
 
 # Create database and Phonologize
-PATH_TO_SCRIPTS_1="/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/database_creation" #path to the database_creation folder
-INPUT_CORPUS="/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/corpus_database" #where you have put the talkbank corpora to be analyzed
+INPUT_CORPUS="/Users/alejandrinacristia/Dropbox/SegCatSpa/Corpora/cha/" #where you have put the talkbank corpora to be analyzed
 PATH_TO_SCRIPTS_2="/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/phonologization" #path to the phonologization folder
 
 # Process transcriptions
-PROCESSED_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/big_corpora/RES_corpus_"
-CONCATENATED_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/big_corpora/conc_"
-RES_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/results/big_corpora/segcatspares_"
+PROCESSED_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/Corpora/phono/"
+CONCATENATED_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/Corpora/concat/"
+RES_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/results/"
 
 #########################################
 
 # Create Database
 # Turn the cha-like files into a single clean file per type
-#./1_selAndClean.sh $PATH_TO_SCRIPTS_1 ${INPUT_CORPUS}/spa_big ${PROCESSED_FOLDER}spa
-#./1_selAndClean.sh $PATH_TO_SCRIPTS_1 ${INPUT_CORPUS}/cat_big ${PROCESSED_FOLDER}cat
+#./1_selAndClean.sh ${INPUT_CORPUS}/spa ${PROCESSED_FOLDER}/spa
+#./1_selAndClean.sh $PATH_TO_SCRIPTS_1 ${INPUT_CORPUS}/cat ${PROCESSED_FOLDER}/cat
 
 # Phonologize
 # turn transcriptions from orthographical to phonological
 # Select language; language options: cspanish (castillan spanish), catalan  -- NOTICE, IN SMALL CAPS
-Language1=cspanish
-Language2=catalan
-#./2_phonologize.sh $Language1 $PATH_TO_SCRIPTS_2 ${PROCESSED_FOLDER}spa
-#./2_phonologize.sh $Language2 $PATH_TO_SCRIPTS_2 ${PROCESSED_FOLDER}cat
 
-# Concatenate the "monolingual" coprus
-#./3_concatenate_mono.sh ${PROCESSED_FOLDER}spa  ${CONCATENATED_FOLDER}spa
-#./3_concatenate_mono.sh ${PROCESSED_FOLDER}cat  ${CONCATENATED_FOLDER}cat
+#if running on oberon, do:
+#module load python-anaconda
+#source activate phonemizer
+#module load espeak
 
-# Create a Bilingual Coprus and Concatenate
-# This step is to create an artificial bilingual coprus, here we are mixing each 4 and 100 lines
-rm -r ${CONCATENATED_FOLDER}bil_all/100/*
-rm -r ${CONCATENATED_FOLDER}bil_all/4/*
-./3b_concatenate_bil.sh ${PROCESSED_FOLDER} ${CONCATENATED_FOLDER}bil_all
+
+#./2_phonologize.sh cspanish  ${PROCESSED_FOLDER}spa #does not require phonemize
+./2_phonologize.sh catalan  ${PROCESSED_FOLDER}cat #NEEDS TESTING
+
+# Concatenate the corpora
+#./3_concatenate.sh ${PROCESSED_FOLDER}/spa  ${PROCESSED_FOLDER}/cat ${CONCATENATED_FOLDER}
 
 # The bilingual copora is double size than the monolinguals, this step divides it in two parts
 divide_half=2
-#./4_cut.sh ${CONCATENATED_FOLDER}bil_all/4 ${CONCATENATED_FOLDER}bil_half/4 ${divide_half}
-#./4_cut.sh ${CONCATENATED_FOLDER}bil_all/100 ${CONCATENATED_FOLDER}bil_half/100 ${divide_half}
+#./4_cut.sh ${CONCATENATED_FOLDER}spa_cat/4 ${CONCATENATED_FOLDER}spa_cat_h/1 ${divide_half}
+#./4_cut.sh ${CONCATENATED_FOLDER}spa_cat/100 ${CONCATENATED_FOLDER}spa_cat_h/100 ${divide_half}
 
 # Divide
 # note: this step is just used with big corpora!
@@ -56,8 +54,8 @@ divide_multiple=10
 #./4_cut.sh ${CONCATENATED_FOLDER}spa/4 ${CONCATENATED_FOLDER}spa_10/4 ${divide_multiple}
 #./4_cut.sh ${CONCATENATED_FOLDER}cat/100 ${CONCATENATED_FOLDER}cat_10/100 ${divide_multiple}
 #./4_cut.sh ${CONCATENATED_FOLDER}cat/4 ${CONCATENATED_FOLDER}cat_10/4 ${divide_multiple}
-#./4_cut.sh ${CONCATENATED_FOLDER}bil_half/4/0 ${CONCATENATED_FOLDER}bil_half_10/4 ${divide_multiple}
-#./4_cut.sh ${CONCATENATED_FOLDER}bil_half/100/0 ${CONCATENATED_FOLDER}bil_half_10/100 ${divide_multiple}
+#./4_cut.sh ${CONCATENATED_FOLDER}spa_cat_h/4/0 ${CONCATENATED_FOLDER}spa_cat_h_10/4 ${divide_multiple}
+#./4_cut.sh ${CONCATENATED_FOLDER}spa_cat_h/100/0 ${CONCATENATED_FOLDER}spa_cat_h_10/100 ${divide_multiple}
 
 # Analyze
 #rm -r ${RES_FOLDER}spa_10/4/*

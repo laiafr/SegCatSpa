@@ -1,0 +1,82 @@
+*PAD:	qué te parece tu madre ? 0_8508
+*MAD:	voy a barrer el hojaldre que si no lo vamos a pisar . 12020_14716
+*MAD:	⌊qué cariño⌋ ? 25678_26131
+*MAD:	ahora las vuelves a poner . 27521_29431
+*MAD:	se ha caído Papá toda encima de tu hojaldre . 29431_33338
+*MAD:	ahora la haces otra vez cielo . 38471_39975
+*MAD:	venga a_ver si la haces distinta , sabes lo que podías hacer , que no tenía la casita ? 39975_44113
+*MAD:	un aparcamiento , un parking para los coches . 44113_46271
+*PAD:	uy , qué original es Mamá , que cosas se le ocurre . 46271_49183
+*MAD:	www [= habla con Papá] . 49183_74900
+*MAD:	⌈xxx⌉ [% a Papá] . 76271_77223
+*MAD:	ya te la voy a hacer otra vez . 82311_83938
+*PAD:	no llores , cariño . 83938_85206
+*PAD:	ahora te la hace Mamá y si no , te ayuda Papá . 85206_87556
+*MAD:	⌈www⌉ [= habla con Papá mientras María lloriquea y juega] . 87556_179900
+*PAD:	www [= siguen hablando Mamá y Papá] . 183388_225643
+*MAD:	me has perdonado ya , amor ? 237848_240146
+*MAD:	ya has hecho ya lo que te dije , eh ? 240621_242570
+*MAD:	un parking para aparcar ? 242570_246071
+*MAD:	pues aparca un coche . 254865_256618
+*MAD:	ahora coges una pieza como si fuera un coche y lo aparcas . 256618_261610
+*PAD:	uy , qué carita ! 261610_264285
+*PAD:	qué bonita carita [% cantando] . 264285_266605
+*MAD:	⌈de qué color es tu coche , cariño⌉ ? 285176_288793
+*PAD:	⌊&=tararea⌋ .
+*MAD:	⌈muy bonito⌉ . 289296_290403
+*PAD:	⌊&=tararea⌋ . 290403_291843
+*MAD:	muy bonito . 291843_292338
+*MAD:	oye , mira a Papá . 299126_300861
+*PAD:	no , no , déjala está bien . 300861_302896
+*MAD:	xxx .302896_309093
+*MAD:	di perro , para que vea Papá como lo dices .315105_318193
+*MAD:	di perrito . 319211_321378
+*MAD:	no , xxx bien . 322628_324625
+*MAD:	para que sepa que ya sabes pronunciar la doble erre . 326080_329331
+*PAD:	xxx .329331_333226
+*MAD:	mira donde está el pie de Papá de abajo ? 339238_343118
+*MAD:	cógeme un poquito de chorizo y me lo traes por favor . 343118_345611
+*PAD:	a dónde vas , Marieta ? 345611_349898
+*PAD:	qué dónde vas , Marieta ? 353578_355441
+*PAD:	qué dónde vas ? 357603_358408
+*PAD:	eh ? 361271_361846
+*MAD:	cómo me has llama(d)o ? 367070_368243
+*MAD:	cómo ? 369586_370238
+*MAD:	granja ? 371628_372645
+*MAD:	que quiere decir granja ? 372645_374143
+*MAD:	qué quiere decir granja ? 377938_381275
+*MAD:	ah ! 386216_388108
+*MAD:	granja para granjero , no hija ? 388108_391443
+*PAD:	xxx .393665_398411
+*MAD:	cómo se llama él que tiene caballos ? 398411_401425
+*MAD:	y él que tiene pescados ? 404125_406276
+*MAD:	y él que tiene puertas ? 407670_409256
+*MAD:	y él que tiene libros ? 411238_412956
+*MAD:	y él que tiene monos ? 414643_417963
+*MAD:	y él que tiene frutas ? 419515_425380
+*MAD:	y él que tiene carne ? 426891_428786
+*MAD:	&=rie y él que tiene pesetas ? 430980_437145
+*PAD:	ahí , ahí ! 438356_439605
+*MAD:	y él que tiene y no puede , qué ? 439605_443305
+*MAD:	tiene y no puede ? 443305_445023
+*MAD:	y él que tiene ventanas ? 449358_453690
+*MAD:	te sabes alguno más ? 455276_457928
+*MAD:	él que tiene vacas es el vaquero . 461370_464890
+*MAD:	y él que tiene tiendas ? 464890_468268
+*MAD:	efectivamente . 469625_472056
+*MAD:	y él que tiene gorras ? 472056_476871
+*MAD:	y él que tiene pantalones ? 477688_480576
+*PAD:	y qué es un gorrón , hija ? 482056_483436
+*PAD:	no , un gorrón es otra cosa . 486546_488460
+*PAD:	por ejemplo: más de un miembro de tu familia +... 488460_492670
+*PAD:	pues más de un miembro de tu familia son gorrones . 494011_496686
+*MAD:	y tú sabes lo que es , María , tener mucho morro ? 497638_501278
+*MAD:	no , qué quiere decir tener mucho morro ? 504903_507476
+*MAD:	y cuándo se tiene mucho morro ? 510818_512918
+*MAD:	y cómo se llama él que tiene pelo ? 517008_532853
+*PAD:	y él que no lo tiene ? 533926_536176
+*MAD:	él que no lo tiene pelo , cómo se llama ? 539808_541681
+*MAD:	mira a Papá a_ver si tiene pelo o no tiene . 545923_547823
+*PAD:	a_ver , qué está haciendo ? 547823_550358
+*PAD:	tú sabes que cuando se vayan las manos se va a quedar ahí , toda la chepa ? 551840_555803
+*MAD:	xxx . 557213_567480

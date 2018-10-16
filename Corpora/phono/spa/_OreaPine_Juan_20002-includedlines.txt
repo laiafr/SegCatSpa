@@ -1,0 +1,188 @@
+*MOT:	&=q no qué , Juan ?
+*MOT:	vale [x 2] .
+*MOT:	pues tú tienes la tuya y yo tengo la mía , Juan .
+*MOT:	pues venga , tuya .
+*MOT:	a ver < cómo abres cómo > [/] cómo abres la boca y metes la cuchara .
+*MOT:	ahora me toca a mí .
+*MOT:	&=q vale ?
+*MOT:	&=q tú solo ?
+*MOT:	tráe me servilletas , por+favor .
+*FAT:	sí .
+*AB2:	madre .
+*AB2:	&=q tú solito comes ?
+*AB2:	solito Juan come .
+*MOT:	&=q sí o no ?
+*MOT:	venga , Juan .
+*MOT:	a ver .
+*MOT:	ahora .
+*AB2:	madre .
+*AB2:	qué cucharota .
+*MOT:	Juan .
+*MOT:	&=q se te ha caído , Juan ? [+ COR]
+*MOT:	&=q qué se ha caído ?
+*MOT:	&=q la leche ? [+ COR]
+*MOT:	&=q y dónde ?
+*AB2:	en el suelo .
+*AB2:	encima +//.
+*MOT:	&=q dónde se ha caído ?
+*AB2:	encima del pantalón .
+*MOT:	&=q dónde se ha caído , Juan ?
+*MOT:	&=q y eso qué es ?
+*MOT:	&=q en la rodilla se ha caído , cariño ?
+*MOT:	&=q se ha vertido otra vez ? [+ COR]
+*MOT:	&=q y dónde ahora ?
+*MOT:	&=q aquí en la mano ? [+ COR]
+*MOT:	me+cachis .
+*MOT:	todo el rato se vierte , &=q verdad ?
+*MOT:	&=q y por qué será ?
+*AB2:	porque no come bien Juan .
+*MOT:	porque Juan quiere hacer lo solo .
+*AB2:	quiere comer Juan solo y lo vierte .
+*AB2:	cachito [x 2] &=q &-eh ?
+*AB2:	mucho .
+*MOT:	un barquito .
+*AB2:	&=q un barquito ?
+*FAT:	dejar le hablar al niño .
+*MOT:	vale .
+*MOT:	tú esa .
+*MOT:	&=q dónde estuviste ayer ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q dónde estuviste ayer ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q viendo una película ? [+ COR]
+*MOT:	no es verdad .
+*MOT:	estuvimos en la playa &=q no ?
+*MOT:	&=q qué hiciste en la playa ?
+*MOT:	&=q vimos camiones ?
+*MOT:	&=q sí ?
+*MOT:	&=q dónde ?
+*MOT:	&=q qué ?
+*MOT:	&=q se ha partido ? [+ COR]
+*MOT:	vaya .
+*MOT:	&=q quieres una redonda ?
+*MOT:	ahora te la doy .
+*MOT:	toma .
+*MOT:	una redonda .
+*MOT:	&=q esa ?
+*MOT:	&=q a echar la ?
+*MOT:	cuidado que se te va a verter &=q &-eh ?
+*MOT:	&=q un barco ?
+*MOT:	anda , sí .
+*MOT:	que se está yendo .
+*MOT:	&=q o está entrando ?
+*MOT:	&=q se va ?
+*MOT:	&=q sí ?
+*MOT:	sí .
+*MOT:	&=q quieres otra redonda ?
+*MOT:	espera .
+*MOT:	ahora te la doy .
+*MOT:	vale .
+*MOT:	abre la boca , hombre .
+*MOT:	toma .
+*MOT:	sí .
+*MOT:	jo@i .
+*MOT:	que con esa se te va a caer , Juan , hombre .
+*MOT:	qué bobalato@f eres .
+*AB2:	dí “no , Mamá” .
+*AB2:	+" no soy bobalato@f .
+*MOT:	&=q no eres bobalato@f ?
+*AB2:	no .
+*MOT:	&=q < qué se ha roto > [/] qué se ha roto ? [+ COR]
+*MOT:	la leche no se puede romper .
+*MOT:	&=q qué se puede romper ?
+*MOT:	&=q a ver ?
+*MOT:	ah .
+*MOT:	la galleta sí .
+*MOT:	pero la leche no se puede romper .
+*MOT:	&=q y < qué más se puede romper > [/] qué más se puede romper ?
+*MOT:	&=q quiénes son ?
+*MOT:	&=q abuela no qué ?
+*MOT:	oye .
+*MOT:	a ver si me enfado &=q &-eh ?
+*MOT:	no se echa a nadie fuera .
+*MOT:	toma otra redonda .
+*MOT:	&=q < qué estás haciendo > [/] qué estás haciendo , Juan ?
+*MOT:	&=q qué estás haciendo con la galleta ?
+*MOT:	&=q partiendo ?
+*MOT:	mm@i qué rica .
+*MOT:	venga &-eh .
+*MOT:	no hagas el tonto .
+*MOT:	bueno .
+*MOT:	no me cuentas qué hiciste ayer en la playa .
+*MOT:	&=q qué hiciste ayer en la playa ?
+*MOT:	&=q un mono saltarín hiciste en la playa ?
+*MOT:	&=q pero qué es eso ?
+*FAT:	cuéntale lo de la cometa , Juan .
+*MOT:	oye .
+*MOT:	&=q qué hiciste con la cometa ?
+*MOT:	&=q volar ? [+ ADS]
+*MOT:	&=q y cómo [/] cómo hacía Juan ?
+*MOT:	&=q cómo hacía ?
+*MOT:	&=q abre la boca te decía ?
+*MOT:	&=q quién te decía eso ?
+*MOT:	&=q un dragón ?
+*MOT:	&=q hacía una pedorreta el dragón ?
+*MOT:	&=q y qué más ?
+*MOT:	&=q qué pasa con el culo ?
+*MOT:	&=q ah ?
+*MOT:	&=q el culo también hace pedorretas ?
+*MOT:	ese yo creo que se tira pedetes .
+*MOT:	no hace pedorretas .
+*MOT:	pedetes , sí .
+*MOT:	&=q un mono saltarín como una pulga ?
+*MOT:	&=q y eso qué es ?
+*MOT:	&=q el cuento de Papá ?
+*MOT:	un mono saltarín como una pulga .
+*MOT:	&=q y qué más animales hay ?
+*MOT:	&=q un +..?
+*MOT:	&=q y qué otro animal hay ahí ?
+*MOT:	a ver .
+*MOT:	&=q un +..?
+*MOT:	&=q un +..?
+*MOT:	&=q un ti@x +..?
+*MOT:	&=q tigre ?
+*FAT:	no .
+*FAT:	un leopardo .
+*MOT:	un lepardo seco como un +...
+*MOT:	como un palo .
+*MOT:	< y una > [/] y una +...
+*MOT:	&=q la pequeñita [x 2] cómo se llama ?
+*MOT:	una mos::ca +...
+*MOT:	chichosa .
+*MOT:	&=q y qué más hay ?
+*MOT:	a ver .
+*MOT:	&=q qué más animales hay ?
+*MOT:	un camaleón +...
+*MOT:	multicolor .
+*MOT:	&=q vas a querer más galletas ?
+*MOT:	&=q no , verdad ?
+*MOT:	&=q me pasas un paquete de galletas que hay por ahí ?
+*MOT:	está por ahí encima yo creo .
+*FAT:	0 .
+*MOT:	me lo iba a traer y lo he dejado .
+*MOT:	&=q quieres otra ?
+*MOT:	&=q quieres otra o no ?
+*MOT:	bueno .
+*MOT:	&=q entonces para qué me la pides ?
+*MOT:	venga .
+*MOT:	abre la boca .
+*MOT:	oye .
+*MOT:	hay que terminar se esto .
+*MOT:	mira .
+*MOT:	bebido .
+*MOT:	venga .
+*MOT:	va .
+*MOT:	bebe leche .
+*MOT:	Juan .
+*MOT:	bebe leche .
+*MOT:	Juan .
+*MOT:	&=q no quieres más ?
+*MOT:	&=q ya no quieres más ?
+*MOT:	&=q qué hace el abuelo ?
+*AB2:	xxx .
+*AB2:	venga .
+*AB2:	que está muy rica .
+*MOT:	venga .
+*MOT:	tú solo , venga .
+*MOT:	< tú solo > [/] tú solo .
+*MOT:	pero sin verter la .

@@ -1,0 +1,342 @@
+*MOT:	&-eh , Juan .
+*MOT:	míra me .
+*MOT:	oye , Juan .
+*MOT:	oye .
+*MOT:	escúcha me .
+*MOT:	< ven aquí > [/] ven aquí .
+*MOT:	&=q qué quieres hacer ?
+*MOT:	&=q dónde vas ?
+*MOT:	a ver qué quieres hacer .
+*MOT:	no te veo .
+*MOT:	&=q quién está cortando el césped ? [+ COR]
+*MOT:	&=q sí ?
+*MOT:	pero ahora no .
+*MOT:	por la mañana .
+*MOT:	claro .
+*MOT:	es por la mañana .
+*MOT:	venga , Juan .
+*MOT:	&=q quieres un po@x [//] cachito más de salchicha ?
+*MOT:	ah .
+*MOT:	&=q cómo que no ?
+*MOT:	&=q no quieres más ?
+*MOT:	a ver .
+*MOT:	que yo te vea .
+*MOT:	Papá viene ahora .
+*MOT:	venga .
+*MOT:	oye .
+*MOT:	< vamos a > [//] .
+*MOT:	ven .
+*MOT:	y luego vamos a pintar cosas .
+*MOT:	&=q quieres ?
+*MOT:	&=q vamos a pintar ?
+*MOT:	pero tienes que terminar te por lo menos una salchicha .
+*MOT:	&=q vale ?
+*MOT:	oye , Juan .
+*FAT:	tengo un plato de una papilla preparado en el microondas .
+*MOT:	no le hagas mucha &=q &-eh ?
+*MOT:	no tiene hambre .
+*FAT:	está preparada .
+*FAT:	no hay mucha .
+*MOT:	sí .
+*MOT:	ahora te la trae Papá .
+*MOT:	da te la vuelta .
+*FAT:	&=q te la preparo ya ?
+*MOT:	da te la vuelta .
+*MOT:	sí , amiguito .
+*MOT:	oye , Juan .
+*FAT:	oye , Juan .
+*MOT:	vale .
+*FAT:	vale .
+*FAT:	siéntate bien .
+*FAT:	venga .
+*FAT:	voy a preparar la papilla .
+*FAT:	vete comiendo esa salchicha .
+*FAT:	&=q vale ?
+*FAT:	venga .
+*MOT:	claro .
+*FAT:	siéntate bien .
+*MOT:	venga .
+*MOT:	termína la .
+*FAT:	siéntate bien .
+*MOT:	si te gusta mucho la salchicha .
+*MOT:	&=q no ?
+*MOT:	&=q no te gusta la salchicha ?
+*MOT:	&=q es lo que más te gusta en el mundo ?
+*MOT:	&=q sí ?
+*MOT:	oye .
+*MOT:	&=q dónde has estado hoy ?
+*MOT:	&=q dónde has ido hoy ?
+*MOT:	&=q a tomar helados ? [+ COR]
+*MOT:	todavía no hemos ido a tomar helados .
+*MOT:	&=q dónde hemos estado ?
+*MOT:	&=q de dónde hemos venido ahora mismo ?
+*MOT:	&=q del mar ?
+*MOT:	&=q y qué has hecho allí ?
+*MOT:	había arena , sí .
+*MOT:	&=q y qué has hecho ?
+*MOT:	&=q castillos de arena ?
+*MOT:	&=q sí ?
+*MOT:	&=q y qué más has hecho ?
+*MOT:	has dormido bien .
+*MOT:	claro que sí .
+*MOT:	una siesta impresionante .
+*MOT:	&=q < qué te ha hecho > [/] qué te ha hecho Papá ?
+*MOT:	&=q qué te ha hecho Papá para que duermas la siesta ?
+*MOT:	&=q una +..?
+*MOT:	&=q una cabañita ?
+*MOT:	&=q te ha hecho Papá una cabañita para que duermas la siesta ?
+*MOT:	&=q sí ?
+*MOT:	&=q y has dormido bien ?
+*MOT:	&=q o no ?
+*MOT:	&=q qué tiene ?
+*MOT:	no [x 2] tiene pipos , cariño .
+*MOT:	no te comas el lápiz .
+*MOT:	&=q tienes caca , cielo ?
+*MOT:	&=q quieres hacer caca ?
+*MOT:	&=q sí ?
+*MOT:	pues ahora vamos a hacer caca .
+*FAT:	ya llevo el orinal .
+*MOT:	mira .
+*MOT:	viene Papá con el orinal ahora mismo .
+*MOT:	&=q vale ?
+*MOT:	ven .
+*MOT:	que vamos a poner el orinal aquí arriba .
+*MOT:	verás .
+*MOT:	ahí arriba en la silla .
+*MOT:	&=q vale ?
+*MOT:	que te vas a sentar en la silla .
+*MOT:	&=q mañana dónde vamos a ir ?
+*MOT:	&=q vamos a ir otra vez a la playa ?
+*MOT:	&=q y te vas a dormir otra vez mucho ?
+*MOT:	&=q sí ?
+*MOT:	&=q y qué más vas a hacer ?
+*MOT:	&=q cómo ?
+*MOT:	&=q castillos de arena también ?
+*FAT:	a coger piedras .
+*MOT:	ah .
+*MOT:	&=q pescas piedras con Papá ?
+*MOT:	con Papá coges piedras . [+ COR]
+*MOT:	&=q y qué llevas detrás ?
+*MOT:	&=q qué te pone Papá aquí detrás ?
+*MOT:	la burbuja .
+*MOT:	&=q para qué ?
+*MOT:	&=q hacía ?
+*MOT:	&=q cemento [x 2] ?
+*MOT:	no .
+*MOT:	&=q la burbuja te la pone Papá para qué ?
+*MOT:	para que puedas +...
+*MOT:	nadar .
+*MOT:	&=q dormir ?
+*MOT:	la burbuja no te la pones para dormir .
+*FAT:	0 .
+*MOT:	mira .
+*MOT:	papillota .
+*MOT:	&=q nos tomamos la papilla ?
+*MOT:	&=q dejamos la salchicha ?
+*MOT:	tú una .
+*MOT:	vale .
+*MOT:	uy@i .
+*MOT:	&=q qué ha pasado ?
+*MOT:	ay@i .
+*MOT:	perdona .
+*MOT:	&=q está caliente ?
+*MOT:	&=q seguro ?
+*MOT:	un poquito , sí .
+*MOT:	mm@i .
+*MOT:	qué buena .
+*MOT:	&=q qué hacemos ?
+*MOT:	&=q qué estamos haciendo ?
+*MOT:	&=q está caliente ?
+*MOT:	&=q hacemos así para que se enfríe ?
+*MOT:	así no , Juan .
+*MOT:	así [x 2] .
+*MOT:	se mueve un poquito para que se enfríe .
+*MOT:	&=q vale ?
+*MOT:	&=q qué haces ?
+*MOT:	&=q qué haces , Juan ?
+*MOT:	oye .
+*MOT:	yo quiero que me cuentes una historia .
+*MOT:	&=q cómo ?
+*MOT:	uh@i .
+*MOT:	&=q se ha manchado Juan ?
+*MOT:	espera [x 2] que voy a por una servilleta .
+*MOT:	oye .
+*MOT:	no lo veo .
+*MOT:	a ver , Juan .
+*MOT:	&=q cuál era el dedito que estaba manchado ?
+*MOT:	&=q este ?
+*MOT:	a ver .
+*MOT:	venga .
+*MOT:	cuénta me una historia .
+*MOT:	me he perdido un poco &=q &-eh ?
+*MOT:	me he perdido un poco con tu historia .
+*MOT:	a ver .
+*MOT:	venga .
+*MOT:	cuénta me una que sea un poquito más clara .
+*MOT:	porque esa no me he enterado mucho .
+*MOT:	a ver .
+*MOT:	&=q de qué iba ?
+*MOT:	mequico@x .
+*MOT:	eso no lo entiendo .
+*MOT:	&=q qué es eso ?
+*MOT:	a ver , Juan .
+*MOT:	ah .
+*MOT:	qué suena .
+*MOT:	un perro .
+*MOT:	&=q qué hace el perro ?
+*MOT:	&=q es mucho +..?
+*MOT:	&=q se va a dormir el perro , cariño ?
+*MOT:	&=q sí ?
+*MOT:	&=q y dónde se va a dormir ?
+*MOT:	&=q ahí a la calle ?
+*MOT:	&=q dormido en el coche ? [+ COR]
+*MOT:	a ver .
+*MOT:	&=q pero dónde duerme ?
+*MOT:	&=q en la calle o en el coche ?
+*MOT:	&=q en la calle no ?
+*MOT:	&=q en la calle no , en el coche ? [+ COR]
+*MOT:	ah .
+*MOT:	mira .
+*MOT:	creo que suena otro por aquí dentro .
+*MOT:	&=q cómo ?
+*MOT:	&=q están dormidos todos ? [+ COR]
+*MOT:	&=q sí ?
+*MOT:	&=q están dormidos todos los perros ?
+*MOT:	los perros .
+*MOT:	&=q qué más ?
+*MOT:	&=q las luces ? [+ COR]
+*MOT:	&=q también se duermen las luces ?
+*MOT:	&=q y quién más ?
+*MOT:	los coches .
+*MOT:	&=q qué más ?
+*MOT:	las señoras .
+*MOT:	&=q qué más ?
+*MOT:	los árboles .
+*MOT:	&=q quién más se duerme ?
+*MOT:	&=q los +..?
+*MOT:	el señor . [+ COR]
+*MOT:	&=q quién más ?
+*MOT:	&=q quién ?
+*MOT:	&=q quién se duerme ?
+*MOT:	el coche .
+*MOT:	&=q y quién más ?
+*MOT:	&=q el +..?
+*MOT:	&=q el helicóptero también se duerme ?
+*MOT:	&=q y quién más ?
+*MOT:	los señores .
+*MOT:	&=q quién más ?
+*MOT:	las señoras .
+*MOT:	&=q y quién más ?
+*MOT:	los perros .
+*MOT:	las luces . [+ COR]
+*MOT:	el otro perro . [+ ADS]
+*MOT:	&=q quién más ?
+*MOT:	los árboles . [+ COR]
+*MOT:	&=q quién más ?
+*MOT:	el balón . [+ ADS]
+*MOT:	muy bien .
+*MOT:	&=q y quién más ?
+*MOT:	&=q quién más , Juan , se duerme ?
+*MOT:	los señores . [+ COR]
+*MOT:	ya los has dicho los señores .
+*MOT:	unas cuantas veces .
+*MOT:	deben de estar ya dormidísimos .
+*MOT:	&=q quién más ?
+*MOT:	también las señoras las has dicho .
+*MOT:	ya están seguramente que en el séptimo sueño .
+*MOT:	&=q y ahora que hacemos con toda esa gente dormida ?
+*MOT:	a ver .
+*MOT:	los coches pasan .
+*MOT:	entonces los coches si pasan no están dormidos &=q no ?
+*MOT:	&=q a ver cómo va eso ?
+*MOT:	xxx .
+*MOT:	&=e oye !
+*MOT:	pero amiguito .
+*MOT:	&=q qué haces con la última cucharada ?
+*MOT:	&=q dónde ?
+*MOT:	&=q amarilla la luz ?
+*MOT:	&=q y aquella luz de allí cómo está ahora ?
+*MOT:	no .
+*MOT:	&=q aquella de allí cómo está ?
+*MOT:	aquella de allí a lo lejos del semáforo .
+*MOT:	la del semáforo .
+*MOT:	mira .
+*MOT:	allí .
+*MOT:	acaba de cambiar .
+*MOT:	mira ahora cómo está .
+*MOT:	está (.) verde .
+*MOT:	&=q y ahora ?
+*MOT:	ah .
+*MOT:	amarilla y ahora roja .
+*MOT:	&=q a que sí ?
+*MOT:	azul no se pone nunca .
+*MOT:	amarilla .
+*MOT:	y rojo .
+*MOT:	&=q cantamos una canción , Juan ?
+*MOT:	&=q no quieres cantar la de Susanita ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q las cometas ?
+*MOT:	&=q la del cometa ?
+*MOT:	yo no sé ninguna canción del cometa .
+*MOT:	pero sí me sé una de Susanita .
+*MOT:	&=q la cantamos ?
+*MOT:	&=q no ?
+*MOT:	pues vale .
+*MOT:	pues cuénta me una cosa .
+*MOT:	venga va .
+*MOT:	&=q qué haces ?
+*MOT:	&=q cómo ?
+*MOT:	&=q ya has terminado ?
+*MOT:	espera [x 2] un poco .
+*MOT:	espera un poquito , por+favor .
+*MOT:	un momento .
+*MOT:	un momentito .
+*MOT:	&=q y ahora te vas a comer la salchicha , Juan ?
+*MOT:	&=q sí ?
+*MOT:	pero hombre .
+*MOT:	ay@i .
+*MOT:	déjame cortár tela &=q no ?
+*MOT:	< a ver aver > [/] a ver .
+*MOT:	a ver , amiguito .
+*MOT:	&=q qué es lo que pasa ?
+*MOT:	&=q que no la quieres ?
+*MOT:	&=q por qué la coges si no la quieres ?
+*MOT:	&=q te parto un trocito ?
+*MOT:	&=q sí ?
+*MOT:	toma .
+*MOT:	&=q qué haces ?
+*MOT:	vale , Juan .
+*MOT:	pues si no quieres más lo dejamos .
+*MOT:	&=q vale ?
+*MOT:	y además ya te has comido la papilla .
+*MOT:	&=q dónde vas ?
+*MOT:	oye .
+*MOT:	mira para acá .
+*MOT:	míra me , Juan .
+*MOT:	&=q quieres agua ?
+*MOT:	&=q sí ?
+*MOT:	&=q quieres agua ?
+*MOT:	espera que voy a por ella .
+*MOT:	toma .
+*MOT:	&=q dónde ?
+*MOT:	&=q una cuchara meter dónde ? [+ ADS]
+*MOT:	&=q en el agua ?
+*MOT:	no se meten cucharas en el agua .
+*MOT:	&=q tú has visto a Mamá o a Papá tomar agua con cuchara ?
+*MOT:	pues entonces tú tampoco .
+*MOT:	venga .
+*MOT:	bébe te el agua .
+*MOT:	venga bebe .
+*MOT:	&=q quieres contigo una niña ?
+*MOT:	&=q eso me dices ?
+*MOT:	&=q que quieres contigo una niña ?
+*MOT:	&=q una amiguita ?
+*MOT:	&=q qué ?
+*MOT:	juntos@q pero no entiendo lo otro , Juan .
+*MOT:	&=q los dos juntos ?
+*MOT:	&=q un beso ?
+*MOT:	&=q un beso y a dormir a los dos ? [+ COR]
+*MOT:	o a Juan sólo .
+*MOT:	&=q a la nena un beso y a dormir ? [+ COR]
+*MOT:	&=q sí ?
+*MOT:	&=q pero qué nena es esa ?

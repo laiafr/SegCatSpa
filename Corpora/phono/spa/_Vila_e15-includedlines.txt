@@ -1,0 +1,347 @@
+*INE:	qué ?
+*INE:	eh no !
+*INE:	tú se lo das que lo huela .
+*INE:	dáselo .
+*INE:	toma .
+*INE:	quiere que lo huelas .
+*NAC:	oh , qué bien huele Emilio !
+*INE:	quieres que miremos el cuento ?
+*INE:	lo voy a buscar ?
+*INE:	vamos a mirarlo .
+*INE:	buscas el caracol ?
+*INE:	no se ha acabado .
+*INE:	quieres que busquemos el caracol ?
+*INE:	esto qué es ?
+*INE:	no , esto no es un caracol .
+*INE:	esto qué es ?
+*INE:	no , ven conmigo ven .
+*INE:	allí me siento , allí .
+*INE:	0 .
+*INE:	caracol .
+*INE:	y esto ?
+*INE:	que quieres que te lo dé ?
+*INE:	tienes que decir dámelo .
+*INE:	dí dámelo .
+*INE:	da^me .
+*INE:	ésto qué es ?
+*INE:	se están bañando .
+*INE:	quién ?
+*INE:	éste quién es ?
+*INE:	cecilia .
+*INE:	y éste ?
+*INE:	no .
+*INE:	ésta no es Cecilia .
+*INE:	quién es éste ?
+*INE:	es un niño .
+*INE:	y éste ?
+*INE:	y ésto ?
+*INE:	y este niño qué hace ?
+*INE:	mira .
+*INE:	ésto qué són ?
+*INE:	oh .
+*INE:	no ?
+*INE:	dónde están los zapatos ?
+*INE:	a_ver , enséñamelos .
+*INE:	qué hace el caracol ?
+*INE:	no , el caracol no se baña .
+*INE:	qué tos !
+*INE:	dónde están los zapatos ?
+*INE:	aquí .
+*INE:	y ésto que són ?
+*INE:	sí . [+ sn]
+*INE:	mira la cama .
+*INE:	y ésto ?
+*INE:	qué es ésto ?
+*INE:	sí señor muy bien .
+*INE:	mira .
+*INE:	éste es José ?
+*INE:	y éste quién es ?
+*INE:	un niño es un niño .
+*INE:	niño sí .
+*INE:	mira .
+*INE:	y ésto qué es ?
+*INE:	ésto de aquí ?
+*INE:	café con leche .
+*INE:	eh ?
+*INE:	y ésto qué són ?
+*INE:	aviones ?
+*INE:	no , són plantas .
+*INE:	plantas a_ver .
+*INE:	mariquita sí .
+*INE:	dónde está la mariquita ?
+*INE:	ésto són flores .
+*INE:	y ésto ?
+*INE:	qué es ésto ?
+*INE:	mariquita .
+*INE:	qué es ésto ?
+*INE:	qué es ésto ?
+*INE:	letras .
+*INE:	se ha acabado el libro .
+*INE:	oh .
+*INE:	éste es José .
+*INE:	y éste quién es ?
+*INE:	un perro sí .
+*NAC:	qué ?
+*NAC:	hay un perro allí .
+*NAC:	ya lo veo ya .
+*NAC:	qué hace el perro ?
+*NAC:	qué ?
+*NAC:	y qué hace el perro ?
+*INE:	qué es ?
+*INE:	huy mira fuego .
+*INE:	fuego .
+*INE:	qué ?
+*INE:	ring+ring@c [% ombligo] .
+*NAC:	qué ?
+*NAC:	qué hace el perro ?
+*INE:	guau^guau@o .
+*INE:	se ha acabado el cuento .
+*INE:	dónde está el pájaro ?
+*NAC:	qué ?
+*INE:	a_ver aquí .
+*INE:	vamos a buscar el pájaro .
+*INE:	mira dónde está el pájaro ?
+*INE:	que aquí no hay nada .
+*INE:	mira .
+*INE:	qué són ?
+*INE:	són peces .
+*INE:	són peces .
+*INE:	sí .
+*INE:	mira uno , dos , tres , cuatro , cinco , seis , siete peces .
+*INE:	qué es ?
+*INE:	es un pez .
+*INE:	sí perro .
+*INE:	está durmiendo este perro .
+*NAC:	qué ?
+*NAC:	dónde está el perro ?
+*NAC:	y qué hace el perro ?
+*INE:	está durmiendo .
+*NAC:	qué ?
+*INE:	está durmiendo el perro .
+*INE:	0 .
+*INE:	hace guau^guau@o .
+*INE:	ay qué perro !
+*INE:	a_ver mira muchas niñas .
+*INE:	qué es ?
+*INE:	cosas .
+*INE:	casas .
+*INE:	se ha acabado otra vez .
+*INE:	oh .
+*INE:	y ahora qué ?
+*INE:	ahora busca la página del perro .
+*INE:	qué hace el perro ?
+*NAC:	qué ?
+*NAC:	qué hace el perro ?
+*INE:	oh , qué es ésto ?
+*INE:	sí .
+*INE:	qué hay en la mesa ?
+*INE:	ésto qué es ?
+*INE:	ah sí y ésto ?
+*INE:	y ésto qué es ?
+*INE:	agua muy bien y ésto ?
+*INE:	sí , el agua está aquí .
+*INE:	que quieres agua ahora ?
+*INE:	sí .
+*INE:	ahora te traigo agua .
+*INE:	quieres agua ?
+*INE:	quieres ?
+*NAC:	qué ?
+*INE:	toma .
+*INE:	huy qué tos .
+*INE:	qué ?
+*INE:	ésto qué es ?
+*INE:	montañas .
+*INE:	mon^ta^ñas .
+*INE:	no los peces no están aquí .
+*INE:	dónde están los peces ?
+*INE:	a_ver si encuentras los peces .
+*INE:	ésto son abejas .
+*INE:	abejas .
+*INE:	sí .
+*INE:	a^be^ja .
+*INE:	no está .
+*INE:	sí que estan los peces .
+*INE:	vamos a buscarlos .
+*INE:	vamos a buscar los peces ?
+*INE:	a_ver .
+*INE:	no , no se estan bañando .
+*INE:	0 .
+*INE:	se estan mojando .
+*INE:	sí porque llueve .
+*INE:	llueve .
+*INE:	a_ver si encuentras los peces .
+*INE:	oh qué ?
+*INE:	qué hacen estos niños ?
+*INE:	no aquí no hay ningún perro .
+*INE:	qué es ésto ?
+*NAC:	qué ?
+*INE:	no aquí no hay ningún perro .
+*INE:	enséñamelo .
+*INE:	no ésto tampoco son peces .
+*INE:	qué son ?
+*INE:	no , no son perros .
+*INE:	mira aquí .
+*INE:	qué es ésto ?
+*INE:	ésto sí que es un pez .
+*INE:	ésto son niños que estan jugando .
+*INE:	qué hacen estos niños ?
+*INE:	estan jugando .
+*INE:	qué ?
+*INE:	qué hacen estos niños ?
+*INE:	qué ?
+*NAC:	qué ?
+*NAC:	qué ?
+*NAC:	qué es éso ?
+*NAC:	qué ?
+*INE:	sí .
+*NAC:	qué ?
+*NAC:	qué ?
+*NAC:	se están bañando ?
+*NAC:	a nonon@c [% dormir] ?
+*NAC:	quién está durmiendo ?
+*INE:	quién duerme aquí ?
+*NAC:	pero quién duerme ?
+*INE:	quién está en la cama ?
+*INE:	quién ?
+*INE:	quién es éste ?
+*INE:	quién está en la cama ?
+*INE:	un niño .
+*INE:	este niño está en la cama .
+*INE:	sí .
+*INE:	los zapatos están aquí .
+*INE:	que se te ha caído un zapato .
+*NAC:	qué ?
+*INE:	muchos peces hay .
+*INE:	cuántos peces hay ?
+*INE:	uno , dos , tres , cuatro , cinco , seis , siete peces .
+*INE:	0 .
+*INE:	no ésto no es un perro .
+*INE:	es un gato .
+*INE:	gato .
+*INE:	otra vez .
+*INE:	huy este zapato .
+*INE:	qué quieres ?
+*NAC:	enséñale a inés los cuentos .
+*NAC:	sí perro .
+*NAC:	qué ?
+*INE:	y qué más ?
+*INE:	qué hace este niño ?
+*INE:	dos qué ?
+*INE:	ah: .
+*INE:	cuántos años tiene este niño ?
+*INE:	tiene dos años .
+*INE:	cuántos años tienes Emilio ?
+*INE:	muy bien .
+*INE:	enséñaselo a Nacho .
+*INE:	cuántos años tienes ?
+*INE:	dos así así .
+*INE:	así mejor .
+*INE:	así .
+*INE:	cuántos años tienes ?
+*INE:	muy bien a_ver .
+*INE:	vamos a_ver si encontramos .
+*INE:	mira .
+*INE:	qué es ésto ?
+*INE:	qué hacen estos niños ?
+*INE:	están jugando .
+*NAC:	un pez .
+*NAC:	sí .
+*INE:	qué hace inés ?
+*INE:	qué quieres mamá o inés ?
+*INE:	qué ?
+*INE:	qué ?
+*INE:	no ésto no .
+*INE:	ésto me lo llevo .
+*INE:	es de Nacho .
+*INE:	pero vamos a limpiarlo .
+*INE:	que está sucio .
+*INE:	dile que cante a Nacho .
+*INE:	bueno .
+*INE:	mira Emilio .
+*INE:	se ha caído el cuento .
+*INE:	lo coges .
+*INE:	no lo quieres coger .
+*INE:	está bueno .
+*INE:	vamos a jugar a la cuca .
+*INE:	rolet xxx .
+*INE:	vienes conmigo .
+*INE:	qué vamos a hacer ?
+*INE:	rolet rolet .
+*INE:	el gato xxx .
+*INE:	estaba el señor don gato +...
+*INE:	rolet rolet .
+*INE:	ahora yo lo hago .
+*INE:	mira .
+*INE:	por qué ?
+*INE:	rolet rolet .
+*INE:	cosquillas .
+*INE:	por aquí .
+*INE:	en cual en éste o en ésta .
+*INE:	cosquillas .
+*INE:	la cuca .
+*INE:	oye Emilio me haces rolet a mí .
+*INE:	ay qué me haces !
+*INE:	quién es éste ?
+*INE:	éste es el papa .
+*INE:	quién es éste ?
+*INE:	sí mira sopa y se la come toda .
+*INE:	más ?
+*INE:	quiere que se lo haga yo .
+*INE:	ay , qué pasa ?
+*INE:	se te cae el zapato .
+*INE:	ya está .
+*INE:	zapato otra vez .
+*INE:	ya está .
+*INE:	cómo que no !
+*INE:	si ya está puesto .
+*INE:	a dónde vas ?
+*INE:	papa está durmiendo .
+*INE:	está en la cama .
+*INE:	dónde está Cecilia ?
+*INE:	la Paquita está en el colmado .
+*NAC:	qué ?
+*INE:	qué ?
+*INE:	no se toca .
+*INE:	lo quieres tocar ?
+*INE:	no se toca .
+*INE:	pero por qué llamas a inés ?
+*NAC:	porque la ve desde aquí .
+*INE:	qué ?
+*INE:	qué quieres ?
+*INE:	qué has hecho ?
+*INE:	lo has tirado al suelo .
+*INE:	eh ?
+*INE:	qué pasa ?
+*INE:	que le pongas el zapato ?
+*INE:	socorro .
+*INE:	emilio dí socorro .
+*INE:	0 .
+*INE:	dí auxilio .
+*NAC:	qué ?
+*INE:	no se toca .
+*INE:	me lo das a mí .
+*INE:	bueno ahora el Nacho me lo da a mí .
+*INE:	ves ?
+*INE:	por qué ?
+*INE:	bueno pués se lo doy al Nacho .
+*INE:	ahora me lo da a mí .
+*INE:	por qué ?
+*INE:	ah no .
+*INE:	qué ?
+*INE:	qué hace el Nacho ?
+*INE:	hace pupa el Nacho .
+*INE:	no ?
+*NAC:	no Emilio no .
+*INE:	canta , canta un poquito .
+*INE:	baila .
+*INE:	baila .
+*INE:	muy bien baila .
+*INE:	qué te ha pasado ?
+*INE:	qué te ha hecho inés ?
+*INE:	dónde te ha hecho pupa ?
+*INE:	en la nariz .
+*INE:	no que es mío .
+*NAC:	qué ?
+*NAC:	nacho no .
+*NAC:	lo dejamos ya .
+*NAC:	ya .

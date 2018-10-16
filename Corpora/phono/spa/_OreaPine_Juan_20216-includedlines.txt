@@ -1,0 +1,553 @@
+*FAT:	&=q sabes o no sabes ?
+*FAT:	ven aquí , anda .
+*FAT:	&=q no sabes ?
+*FAT:	ven aquí .
+*FAT:	venga .
+*FAT:	vamos a poner la marioneta .
+*FAT:	vamos .
+*FAT:	&=q sabes poner la marioneta ?
+*FAT:	&=q sabes o no sabes ?
+*FAT:	&=q &-eh , Juan ?
+*FAT:	&=q no qué ?
+*FAT:	&=q sabes o no sabes ?
+*FAT:	&=q no qué ?
+*FAT:	&=q no +..?
+*FAT:	&=q sabes o no sabes ? [+ COR]
+*FAT:	&=q no sabo@c ? [+ ADS]
+*FAT:	bueno , mira ?
+*FAT:	yo te voy a ayudar .
+*FAT:	pon el dedito .
+*FAT:	así .
+*FAT:	a ver .
+*FAT:	vamos a poner un títere .
+*FAT:	vamos a poner el teatrito aquí .
+*FAT:	así .
+*FAT:	mira .
+*FAT:	así para que no se caiga .
+*FAT:	&=q te pones detrás ?
+*FAT:	&=q sí ?
+*FAT:	&=q vas a hacer marionetas ?
+*FAT:	hola .
+*FAT:	&=q yo me siento aquí ?
+*FAT:	&=q para ver las marionetas ?
+*FAT:	&=q sí ?
+*FAT:	hola .
+*FAT:	&=q quién es esa marioneta ?
+*FAT:	&=q pero cómo se llama ?
+*FAT:	&=q es el payaso ?
+*FAT:	&=q sí ?
+*FAT:	&=q es el Payasete ?
+*FAT:	&=q y ese quién es ?
+*FAT:	&=q es el señor +..?
+*FAT:	&=q qué señor ?
+*FAT:	&=q el señor +..?
+*FAT:	que tiene una pluma en el sombrero .
+*FAT:	mira .
+*FAT:	&=q es el señor +..?
+*FAT:	&=q se come la pluma el payaso ?
+*FAT:	pero +//.
+*FAT:	&=q no se lo come ? [+ ADS]
+*FAT:	hola .
+*FAT:	&=q qué dice el payaso ?
+*FAT:	&=q a ver qué dice ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué dice el payaso ?
+*FAT:	hola .
+*FAT:	&=q ha ido a la guardería el payaso hoy ?
+*FAT:	&=q no ha ido a la guardería ?
+*FAT:	&=q por qué no ha ido ?
+*FAT:	uy@i .
+*FAT:	&=q se va a la guardería ?
+*FAT:	&=q pero mira quién viene aquí ?
+*FAT:	&=q viene el payaso ?
+*FAT:	&=q sí ?
+*FAT:	&=q quién viene aquí ?
+*FAT:	&=q quién viene ?
+*FAT:	&=q qué va a hacer aquí ?
+*FAT:	&=q qué va a hacer ?
+*FAT:	xxx un beso . [+ NON]
+*FAT:	&=e ah !
+*FAT:	&=q me da un beso el payaso ?
+*FAT:	&=e bien !
+*FAT:	&=q te gusta el teatro ? [+ ADS]
+*FAT:	&=q el teatro de marionetas te gusta ?
+*FAT:	&=q otro día otro ?
+*FAT:	&=q quieres [/] quieres hacer otro ahora ?
+*FAT:	mira .
+*FAT:	aquí una marioneta grande .
+*FAT:	&=q quieres coger el lobo ?
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q cuál quieres que te ponga ?
+*FAT:	&=q te pongo el lobo ?
+*FAT:	pero bueno .
+*FAT:	&=q to@x [/] todas esas ?
+*FAT:	&=q < cuál quieres que te ponga > [/] cuál quieres que te ponga ?
+*FAT:	a ver .
+*FAT:	trae .
+*FAT:	la princesa .
+*FAT:	aquí .
+*FAT:	que no te cabe , Juan , en el meñique .
+*FAT:	a ver .
+*FAT:	uy@i .
+*FAT:	no te rasques , Juan < no te rasques > [/] .
+*FAT:	a ver .
+*FAT:	a ver .
+*FAT:	no te rasques , cariño .
+*FAT:	&=q vale ?
+*FAT:	&=q te pica algo ?
+*FAT:	claro .
+*FAT:	no .
+*FAT:	pero no te rasques .
+*FAT:	si te rascas te pica más .
+*FAT:	mira [x 3] .
+*FAT:	&=q cuántos tienes ya ?
+*FAT:	&=q cuántas marionetas tienes en los dedos ?
+*FAT:	&=e uh@i !
+*FAT:	ya no caben más .
+*FAT:	esta Papá .
+*FAT:	hola .
+*FAT:	ah .
+*FAT:	&=q ahí detrás ?
+*FAT:	hola .
+*FAT:	&=q los dos aquí ?
+*FAT:	es que no quepo .
+*FAT:	hola .
+*FAT:	&=q que son amigos todos ?
+*FAT:	&=q qué hacen ?
+*FAT:	&=q qué hacen ?
+*FAT:	&=q se van a bañar ?
+*FAT:	&=q sí ?
+*FAT:	mira .
+*FAT:	así .
+*FAT:	mira .
+*FAT:	aquí .
+*FAT:	+" ah , que viene un tiburón .
+*FAT:	+" &=e vámo nos .
+*FAT:	socorro@q .
+*FAT:	socorro@q . [+ IMI]
+*FAT:	&=e un tiburón !
+*FAT:	&=q qué hacemos con el tiburón ?
+*FAT:	&=q qué hacemos ?
+*FAT:	&=q lo bañamos ?
+*FAT:	+" báña te , tiburón .
+*FAT:	dí selo .
+*FAT:	a ver .
+*FAT:	es que no te he oído .
+*FAT:	&=q cómo le has dicho ?
+*FAT:	&=q tiburón +..?
+*FAT:	ay@i .
+*FAT:	&=q malo le has dicho ?
+*FAT:	no .
+*FAT:	pero no .
+*FAT:	has dicho “tiburón , vamos a bañar” .
+*FAT:	&=q le has dicho eso ?
+*FAT:	&=q sí ?
+*FAT:	pues venga .
+*FAT:	dí selo otra vez .
+*FAT:	&=e tiburón !
+*FAT:	+" vamos a bañar +//.
+*FAT:	pero no es malo .
+*FAT:	mira .
+*FAT:	hola@q .
+*FAT:	+" no soy malo .
+*FAT:	+" soy un tiburón .
+*FAT:	es bueno .
+*FAT:	+" no me llames malo .
+*FAT:	oh .
+*FAT:	&=q le llamas malo ?
+*FAT:	+" pobre tiburón .
+*FAT:	pobre@q .
+*FAT:	ah .
+*FAT:	+" pobre tiburón .
+*FAT:	es un tiburón bueno .
+*FAT:	mira .
+*FAT:	se duerme .
+*FAT:	ahora tiene hambre .
+*FAT:	mm@i .
+*FAT:	+" &=q qué me podría comer ?
+*FAT:	ah .
+*FAT:	+" la mariposa de Juan .
+*FAT:	ñam@o [x 6] .
+*FAT:	&=q no ?
+*FAT:	&=q se come un árbol ?
+*FAT:	&=q un globo se come ?
+*FAT:	&=q el árbol ?
+*FAT:	&=q sí ?
+*FAT:	&=q dónde está el árbol ?
+*FAT:	eso son las flores .
+*FAT:	pero cómo se va a comer la rosa tan bonitas que tenemos .
+*FAT:	+" < quiero comer > [/] quiero comer .
+*FAT:	+" me puedo comer la orejita de Juan .
+*FAT:	&=q entonces qué se come ?
+*FAT:	&=q el dinosaurio ?
+*FAT:	&=q la tetera ?
+*FAT:	&=q la tetera ?
+*FAT:	abrimos la +//.
+*FAT:	&=q la tetera no ?
+*FAT:	&=q entonces qué come ?
+*FAT:	da le algo de comer .
+*FAT:	+" < quiero comer > [/] quiero comer .
+*FAT:	uah@i .
+*FAT:	pobre tiburón .
+*FAT:	quiere comer .
+*FAT:	uah@i .
+*FAT:	pobre tiburón .
+*FAT:	uah@i .
+*FAT:	quiere comer .
+*FAT:	pobre@x [//] uah@i .
+*FAT:	pobrecito .
+*FAT:	que quiere comer .
+*FAT:	&=q qué ?
+*FAT:	&=q le damos tu barrigocha@f ?
+*FAT:	&=q sí ?
+*FAT:	ay@i , Juan .
+*FAT:	+" muchas+gracias , tiburón .
+*FAT:	ah .
+*FAT:	&=e un besito le ha dado a la tetera !
+*FAT:	oh .
+*FAT:	&=e uy@i !
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q se ha explotado el globo ? [+ ADS]
+*FAT:	venga .
+*FAT:	vamos a hacer otro .
+*FAT:	no .
+*FAT:	otro globo no .
+*FAT:	otro cuento de [/] de marionetas .
+*FAT:	&=q vale ?
+*FAT:	sí .
+*FAT:	&=q cuál quieres hacer ?
+*FAT:	&=q una con el lobo ?
+*FAT:	&=q con el dinosaurio también ?
+*FAT:	&=q a dónde va el dinosaurio ?
+*FAT:	hola , dinosaurio .
+*FAT:	hola .
+*FAT:	&=q quieres llevar me a caballito ?
+*FAT:	&=q quieres jugar conmigo ?
+*FAT:	&=q quieres bailar un tango ?
+*FAT:	0 .
+*FAT:	&=q quieres bailar un tango ?
+*FAT:	&=q sí ?
+*FAT:	pranpanpanpan@o .
+*FAT:	&=e bien: !
+*FAT:	&=q no aplaudes ?
+*FAT:	&=q y ahora Juan va a cantar una canción ?
+*FAT:	&=q para que bailen ?
+*FAT:	&=q a ver qué cantas ?
+*FAT:	&=q no ?
+*FAT:	&=q no cantas ?
+*FAT:	&=q no quieres cantar ?
+*FAT:	venga .
+*FAT:	pues cuénta me .
+*FAT:	&=q qué has comido hoy ?
+*FAT:	ah .
+*MOT:	&=q quién hay por ahí ?
+*MOT:	&=e hola !
+*MOT:	titiritero .
+*MOT:	&=q qué haces ?
+*FAT:	di le a Mamá qué haces .
+*MOT:	&=q qué haces , Juan ?
+*FAT:	0 .
+*MOT:	&=q &-eh ?
+*MOT:	&=q qué haces , cacharrito ?
+*FAT:	di le a Mamá qué estamos haciendo .
+*MOT:	&=q &-eh ?
+*MOT:	habla .
+*MOT:	di algo .
+*MOT:	hola .
+*FAT:	se ha quedado mudo .
+*MOT:	hola .
+*FAT:	le ha comido la lengua el gato .
+*MOT:	&=q no me vas a dar un beso ?
+*FAT:	corre .
+*FAT:	vete a dar le un beso grande [x 2] a Mamá .
+*FAT:	&=q cómo ?
+*MOT:	ah .
+*MOT:	&=q no me das un beso ?
+*FAT:	&=q cómo ?
+*FAT:	no he escuchado bien lo que has dicho por aquí .
+*MOT:	&=q < le doy > [/] le doy un beso al lobo ?
+*MOT:	hola , guapo .
+*FAT:	puede ser un virus &=q &-eh ?
+*MOT:	&=q sí ?
+*MOT:	&=q cómo lo sabes ?
+*FAT:	quieres bailar conmigo . [+ COR]
+*MOT:	quieres bailar conmigo . [+ COR]
+*FAT:	bailan un tango .
+*FAT:	&=q a que sí ?
+*MOT:	&=q bailan ?
+*MOT:	&=q sí ?
+*FAT:	uy@i .
+*FAT:	&=e bien !
+*FAT:	&=q ya se ha acabado el tango ?
+*FAT:	&=e bien !
+*MOT:	bravo .
+*FAT:	&=q se ha caído ?
+*MOT:	voy por la montaña voy [x 3] [/] .
+*MOT:	voy en mi caballo voy [x 3] [/] .
+*MOT:	oh .
+*MOT:	se cayó .
+*FAT:	hola .
+*FAT:	&=q monta ahí ?
+*MOT:	pero no ve .
+*FAT:	hola .
+*FAT:	hola .
+*FAT:	&=q tienes mocos ?
+*MOT:	voy por algo para limpiar te .
+*FAT:	< yo tengo > [/] yo tengo aquí a mano .
+*MOT:	&=q sí ?
+*FAT:	a ver esos mocos .
+*FAT:	&=q qué estás haciendo , Juan ?
+*FAT:	&=q qué estás haciendo , cariño ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué haces ?
+*FAT:	&=q la cola y los señores están juntos ?
+*FAT:	mm@i .
+*FAT:	enséña selo a Mamá a ver qué es lo que estás haciendo .
+*FAT:	está haciendo la cola de los señores , Mother .
+*FAT:	mira .
+*FAT:	&=q nos vamos a ir a bañar ?
+*FAT:	&=q qué he oído ?
+*FAT:	ah .
+*FAT:	+" &=q Juan es un gorrino ?
+*FAT:	+" &=q no se quiere bañar ?
+*FAT:	pero bueno .
+*FAT:	me dejas sin marionetas .
+*FAT:	+" &=q Juan es un gorrinillo que no se quiere bañar ?
+*FAT:	+" &=q un gorrinilo ?
+*FAT:	+" lo echaremos al cocido .
+*FAT:	+" como si fuera un garbancito .
+*FAT:	&=q qué ?
+*FAT:	&=q me vas a dar un besote ?
+*FAT:	&=q dónde quieres poner los señores ?
+*FAT:	&-eh .
+*FAT:	aquí .
+*FAT:	&=q en el dinosaurio ?
+*FAT:	pero ahí no puedes .
+*FAT:	mira .
+*FAT:	porque se caen .
+*FAT:	ahí se caen .
+*FAT:	así .
+*FAT:	oy@i .
+*FAT:	&=q qué has hecho ?
+*FAT:	&=q cómo que se ha caído ?
+*FAT:	yo más bien diría que lo has tirado .
+*FAT:	&=q lo has tirado ?
+*FAT:	ay@i .
+*FAT:	&=q me engañas ?
+*FAT:	&=q el rey se va ? [+ ADS]
+*FAT:	&=q el rey se va con el dinosaurio a dónde ?
+*FAT:	hijo+mío .
+*FAT:	es que estás todo el rato de espaldas .
+*FAT:	a ver .
+*FAT:	mira .
+*FAT:	ponlo aquí en la silla .
+*FAT:	ponlo aquí encima de la silla .
+*FAT:	aquí .
+*FAT:	eso es .
+*FAT:	&=q se ha caído ? [+ ADS]
+*FAT:	no [x 2] .
+*FAT:	no seas cachiporro@f &=q &-eh ?
+*FAT:	no [x 2] .
+*FAT:	eso no me gusta nada .
+*FAT:	se estropea la silla .
+*FAT:	a ver si me voy a tener < que enfallar@x > [//] que enfadar hoy , &-eh ?
+*FAT:	&=q qué te estoy diciendo ?
+*FAT:	&-eh .
+*FAT:	&=q cómo que mala silla ?
+*FAT:	mala silla no .
+*FAT:	la silla no es mala , no .
+*FAT:	la silla se porta bien .
+*FAT:	&=q qué hace ?
+*FAT:	&=q salta ?
+*FAT:	mira .
+*FAT:	este también .
+*FAT:	mira .
+*FAT:	poin@o [x 3] .
+*FAT:	&=q quién viene ?
+*FAT:	&=q quién viene ?
+*FAT:	&=q quién hace pis ha dicho ?
+*FAT:	&=q viene Mamá ?
+*FAT:	&=q tú quieres el cuento de la rana Juana ?
+*MOT:	&=q vas a por él ?
+*MOT:	&=q dónde está ?
+*MOT:	se ha roto .
+*FAT:	&=q qué es eso ?
+*FAT:	ah , el globo .
+*MOT:	ah , pero si es un globo .
+*MOT:	creíamos que eran lo de las patas de la rana Juana .
+*MOT:	no está .
+*MOT:	está arriba .
+*FAT:	ven aquí , Juan .
+*MOT:	están arriba .
+*MOT:	&=q quieres que suba a por él ?
+*MOT:	&=q subo a por él ?
+*MOT:	voy a por él .
+*MOT:	&=q vale ?
+*MOT:	a ver si lo encuentro .
+*FAT:	< no lo quites > [/] no lo quites , hombre .
+*FAT:	hombre .
+*FAT:	pues es la pajarita .
+*FAT:	claro .
+*FAT:	botones blancos .
+*FAT:	las manitas , sí .
+*FAT:	la otra manita . [+ COR]
+*FAT:	sí .
+*FAT:	sí .
+*FAT:	la corona y la cabeza .
+*FAT:	sí .
+*FAT:	&=q a ver qué gorro ?
+*FAT:	creo que es una gorra mejor &=q no ?
+*MOT:	mira .
+*FAT:	una gorra de plato .
+*FAT:	mira que < me está dicien@x> [//] me está enseñando +//.
+*MOT:	este es +/.
+*MOT:	&=q y qué dice ?
+*FAT:	siénta lo aquí < siénta lo > [/] , anda .
+*MOT:	&=q qué dices ?
+*MOT:	soy una +...
+*MOT:	una [/] soy una +...
+*MOT:	no .
+*MOT:	&=q qué es esto ?
+*MOT:	soy una +...
+*MOT:	verde +...
+*MOT:	verde y a@x +...
+*MOT:	que en una +...
+*MOT:	la vida .
+*MOT:	muy bien .
+*MOT:	&=q y ahora ?
+*MOT:	muy bien .
+*MOT:	la piel se me seca .
+*MOT:	y me voy al agua .
+*MOT:	y me tiro de cabeza .
+*MOT:	muy bien .
+*MOT:	lo has dicho todo perfecto .
+*MOT:	de pequeña +...
+*MOT:	de pequeña fui +...
+*MOT:	un renacuajo .
+*MOT:	&=q y ahora +..?
+*MOT:	ahora soy +...
+*MOT:	sí , muy bien .
+*MOT:	soy rana +...
+*MOT:	soy rana de arriba +...
+*FAT:	abajo , muy bien .
+*MOT:	si un +...
+*MOT:	me das .
+*MOT:	a lo mejor me convierto +...
+*MOT:	&=q de qué color ?
+*MOT:	azul .
+*FAT:	y colorín colorado +...
+*MOT:	este cuento se ha acabado .
+*MOT:	&=q otra vez ?
+*FAT:	&=e bien !
+*FAT:	&=e pero qué bien nos lo ha contado Juan !
+*MOT:	venga .
+*MOT:	que ahora se lo va a saber mejor Juan ya .
+*MOT:	venga .
+*MOT:	vuelvo a poner todo y ahora lo sabes tú solito .
+*MOT:	&=q vale ?
+*MOT:	venga .
+*MOT:	&=q soy ?
+*MOT:	&=q qué soy ?
+*MOT:	soy la rana Juana .
+*MOT:	&=q y qué dic [//] digo ?
+*MOT:	soy una +...
+*FAT:	no te rasques , cariño .
+*FAT:	no te rasques .
+*MOT:	soy una rana (.) verde +...
+*MOT:	y en una +...
+*MOT:	muy bien .
+*MOT:	la vida .
+*FAT:	la vida , sí .
+*MOT:	la vida .
+*MOT:	muy bien .
+*MOT:	&=q y ahora ?
+*FAT:	cuando la +...
+*MOT:	&=q dónde ?
+*MOT:	al agua . [+ COR]
+*FAT:	&=e muy bien !
+*MOT:	&=q y ahora ?
+*MOT:	de pequeña +...
+*MOT:	no .
+*MOT:	de pequeña fui +...
+*MOT:	un renacuajo +...
+*MOT:	&=q y ahora soy +..?
+*MOT:	soy rana de arriba hasta abajo .
+*FAT:	&=e bien !
+*MOT:	&=q de color ?
+*FAT:	< muy bien > [/] muy bien .
+*FAT:	oye .
+*FAT:	es el primer cuento que nos cuentas .
+*FAT:	&=q ahora otro ?
+*MOT:	ya no he traído más .
+*MOT:	como me has pedido sólo el de la rana Jana@x [//] Juana .
+*FAT:	a lo mejor lo que podemos hacer es ir nos a bañar y después ver un cuentecillo .
+*MOT:	vale .
+*MOT:	&=q sí ?
+*MOT:	&=q nos vamos a bañar ya ?
+*FAT:	&=e otro [x 2] !
+*FAT:	&=q sí ?
+*FAT:	oh .
+*MOT:	otro [x 2] .
+*FAT:	&=q sí ?
+*MOT:	ya no tengo más .
+*FAT:	&=q quieres otro ?
+*FAT:	&=q sí ?
+*FAT:	&=q sí ?
+*FAT:	&=q otro más ?
+*FAT:	&=q y cómo lo quieres ?
+*FAT:	&=q grande o pequeña ?
+*MOT:	a ver .
+*MOT:	elige .
+*MOT:	&=q cuál quieres ?
+*FAT:	&=q gordo o delgado ?
+*MOT:	&=q cuál quieres ?
+*MOT:	&=q pero cuál es el que tú quieres ?
+*MOT:	&=q uno para contar lo tú ?
+*MOT:	pues uno de los pequeños tuyos .
+*MOT:	&=q el de la ardilla ?
+*MOT:	&=q el del pato ?
+*MOT:	&=q uno de Maisy ?
+*MOT:	pues < el de > [/] el del número uno .
+*MOT:	< el de > [/] a lo mejor quieres el de Dinky .
+*MOT:	< el de > [//] &=q cómo es ?
+*FAT:	Pigüi .
+*MOT:	&=q Pigüi ?
+*MOT:	&=q el de Pigüi quieres ?
+*MOT:	&=q que es el del cerdito que sabe hacer muchas cosas ?
+*FAT:	oye [x 2] .
+*MOT:	ese .
+*FAT:	&=q sabes que vas a tener un hermanito ?
+*FAT:	que nos hemos enterado hoy .
+*MOT:	ya no se va a llamar Julia .
+*MOT:	es un hermanito .
+*FAT:	&=q cómo se va a llamar ahora ?
+*FAT:	Julia no .
+*FAT:	no sabemos cómo se va a llamar .
+*FAT:	&=q se llama Alejandro ?
+*MOT:	&=q no te gusta Alejandro ?
+*MOT:	&=q por qué ?
+*MOT:	&=q y Fernando ?
+*FAT:	&=q y Juan ?
+*FAT:	&=q te gusta Juan ?
+*FAT:	&=q sí ?
+*FAT:	&=q qué eres ?
+*FAT:	&=q un chinito ?
+*FAT:	&=q eres un chinito de la China ?
+*FAT:	ay@i .
+*FAT:	qué caras pones tan bonitas .
+*FAT:	no pongas muecas .
+*FAT:	no pongas muecas .
+*FAT:	no pongas muecas que estás feísimo .
+*FAT:	venga .
+*FAT:	nos vamos a subir arriba y contamos otro arriba .
+*FAT:	&=q vale ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q sí ?
+*FAT:	sí .
+*FAT:	&=q arriba contamos otro cuento ?
+*FAT:	&=q sí ?
+*FAT:	venga .
+*FAT:	&=q le decimos adiós a Javier ?
+*FAT:	di le adiós .

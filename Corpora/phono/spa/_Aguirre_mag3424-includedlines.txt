@@ -1,0 +1,675 @@
+*MOT:	qué ?
+*MOT:	qué dices ?
+*MOT:	eh ?
+*MOT:	&+cuno , qué es &+cuno ?
+*MOT:	ahí no se puede al autobús ?
+*MOT:	por_qué ?
+*MOT:	porque miro ?
+*MOT:	a_ver , por_qué ?
+*MOT:	ah porque es tuya ?
+*MOT:	y yo no me puedo subir ?
+*MOT:	no me dejas ?
+*MOT:	anda , déjame subirme !
+*MOT:	por_qué no me dejas subirme ?
+*MOT:	&+pum y me hago pupa ?
+*MOT:	me puedo caer ?
+*MOT:	ay !
+*MOT:	qué ?
+*MOT:	un poquito qué ?
+*MOT:	0 hacer [*] abajo ?
+*MOT:	cuidado .
+*MOT:	es que abajo hace frío .
+*MOT:	si quieres bajar abajo tengo que poner la estufita un ratito .
+*MOT:	eh ?
+*MOT:	la pongo para luego ?
+*MOT:	a_ver , vamos a poner un poquito la estufa .
+*MOT:	espera , espera un poco .
+*MOT:	sí hace , sí .
+*MOT:	ven .
+*MOT:	un poquito al aparato ?
+*MOT:	a qué aparato ?
+*MOT:	voy a buscar un kleenex .
+*MOT:	no sé donde está el bolso .
+*MOT:	mi bolso para coger el kleenex .
+*MOT:	www .
+*MOT:	venga !
+*MOT:	no me caigo ?
+*MOT:	y de verdad que no me voy a caer ?
+*MOT:	me da miedo .
+*MOT:	no me caigo ?
+*MOT:	así , aquí ?
+*MOT:	ah , aquí ?
+*MOT:	aquí ?
+*MOT:	y ahora ?
+*MOT:	venga .
+*MOT:	&+pipi , &+pipi .
+*MOT:	ah , bueno .
+*MOT:	venga .
+*MOT:	vamos .
+*MOT:	&+pii &+pii .
+*MOT:	&+pii &+pii .
+*MOT:	dónde vas ?
+*MOT:	dónde vas ?
+*MOT:	vas ahí con ellos ?
+*MOT:	espera .
+*MOT:	espérate un momento que voy a_ver si están los estos .
+*MOT:	www .
+*MOT:	dame el aparato !
+*MOT:	no , pero estáte aquí un poquito , anda .
+*MOT:	estáte aquí .
+*MOT:	estáte aquí un poco porque luego bajamos , Magín .
+*MOT:	que ahora hace frío !
+*MOT:	he puesto la estufita y dentro de un ratito nos bajamos a jugar .
+*MOT:	que ahora hace frío todavía .
+*MOT:	y podemos bajarnos con el helicóptero también .
+*MOT:	sí .
+*MOT:	el aparato no .
+*MOT:	te quieres bajar el aparato también ?
+*MOT:	a &+titón no .
+*MOT:	ven .
+*MOT:	ten cuidado , que lo puedes romper !
+*MOT:	oye , pero qué aparato es ése , Magín ?
+*MOT:	para qué sirve ese aparato ?
+*MOT:	para ir ?
+*MOT:	para qué sirve ?
+*MOT:	para qué sirve ese aparato ?
+*MOT:	oye , ven .
+*MOT:	ven , no seas brutote .
+*MOT:	qué le pasa al aparato ?
+*MOT:	eh ?
+*MOT:	mira .
+*MOT:	venga .
+*MOT:	ay , mira , con el helicóptero .
+*MOT:	que se cae !
+*MOT:	hombre , y el pobre piloto qué le ha pasado ?
+*MOT:	no lo tienes que tirar al suelo porque se puede romper !
+*MOT:	claro que llora , pobrecito .
+*MOT:	ven .
+*MOT:	angelito .
+*MOT:	cura .
+*MOT:	ven a decirle cura sana .
+*MOT:	venga , dile cura sana .
+*MOT:	el casco rojo , sí .
+*MOT:	qué le pasa al casco rojo ?
+*MOT:	pues no sé qué le pasa .
+*MOT:	Magín qué haces ?
+*MOT:	qué haces ?
+*MOT:	qué has hecho ?
+*MOT:	eh ?
+*MOT:	qué quieres hacer ?
+*MOT:	tú con esto ?
+*MOT:	pero mira , mira cómo has tirado todo .
+*MOT:	lo has tirado todo al suelo hombre .
+*MOT:	qué quieres hacer ?
+*MOT:	tú qué ?
+*MOT:	tú solito ?
+*MOT:	échalo ahí .
+*MOT:	échalo ahí , venga .
+*MOT:	vale , vale .
+*MOT:	ahora lo metemos , lo metemos aquí dentro .
+*MOT:	y ahora a cerrar .
+*MOT:	venga , ya .
+*MOT:	vale !
+*MOT:	si es que esto no es de los niños .
+*MOT:	esto no es para jugar los niños , mi amor .
+*MOT:	qué [x 2] ?
+*MOT:	vale , vale .
+*MOT:	ya .
+*MOT:	eh ?
+*MOT:	ya está !
+*MOT:	no , ya no se puede echar más .
+*MOT:	ya tiene mucho .
+*MOT:	ahora lo que hay que hacer es guardarlo .
+*MOT:	mira .
+*MOT:	vamos a jugar con la construcción .
+*MOT:	qué ?
+*MOT:	no , la caja no te la puedo dar !
+*MOT:	ven un momento que vamos a hacer la construcción .
+*MOT:	vamos a hacer una construcción Magín .
+*MOT:	ven .
+*MOT:	deja la caja .
+*MOT:	vámonos de aquí .
+*MOT:	mira que lo estás tirando todo , hombre , hombre .
+*MOT:	vamos a la construcción .
+*FAT:	venga con papito .
+*FAT:	has hecho los huevos ?
+*FAT:	sí , con papito muy bien .
+*MOT:	cuidado que te vas a quemar !
+*FAT:	vamos a hacer los huevos , venga .
+*MOT:	venga !
+*MOT:	este niño por aquí con el aceite .
+*MOT:	xxx los huevos , anda , y vigílame las patatas !
+*FAT:	mira , vente conmigo por aquí !
+*MOT:	qué querías ?
+*MOT:	acaba de decir la sal dámela , que estaba sentada .
+*MOT:	cuidado !
+*FAT:	ahora vete a por un tenedor para ti !
+*MOT:	qué quieres ?
+*MOT:	cuidado !
+*MOT:	toma .
+*MOT:	llévalo .
+*MOT:	lleva el tenedor .
+*MOT:	o lo quieres pequeñito mejor ?
+*MOT:	grande ?
+*MOT:	eh ?
+*FAM:	no llores !
+*MOT:	Magincito , ven aquí .
+*MOT:	ven aquí !
+*MOT:	qué pasa ?
+*MOT:	eh ?
+*MOT:	venga , vamos arriba .
+*MOT:	qué ?
+*MOT:	qué ?
+*MOT:	esto ?
+*MOT:	esto es de papá , sí .
+*MOT:	por_qué ?
+*MOT:	por_qué es de papá ?
+*MOT:	porque es suyo .
+*MOT:	es de papá .
+*MOT:	no es tuyo .
+*MOT:	cómo va a ser tuyo , si es muy grande ?
+*MOT:	no ves que es muy grande ?
+*MOT:	es el jersey de papá .
+*MOT:	qué son tuyos ?
+*MOT:	los pantalones ?
+*MOT:	los pantalones , sí .
+*MOT:	venga .
+*MOT:	qué ?
+*MOT:	eso qué ?
+*MOT:	una cola .
+*MOT:	oye [x 3] .
+*MOT:	una cola para hacer el qué ?
+*MOT:	pues dámela , dámela que tengo que tapar para que no se salga el agua .
+*MOT:	dámela .
+*MOT:	dámela , venga .
+*MOT:	que la cola es el tapón !
+*MOT:	claro , la cola es el tapón .
+*MOT:	el qué te hace a ti tanta gracia ?
+*MOT:	no ?
+*MOT:	quieto , quieto !
+*MOT:	cuidadito , eso te digo yo a ti , cuidadito .
+*MOT:	no me las mojo ?
+*MOT:	y si no me las mojo no lo puedo lavar , cielo .
+*MOT:	a_ver .
+*MOT:	vamos a preparar el agua .
+*MOT:	quita las manitas !
+*MOT:	oye , que me empapas , hombre !
+*MOT:	mira como me estás poniendo !
+*MOT:	no me mojes !
+*MOT:	quieto !
+*MOT:	que lo tenemos que llenar otra vez .
+*MOT:	quita !
+*MOT:	0 poner [*] la cola que no lo he terminado .
+*MOT:	eh ?
+*MOT:	no te mojes !
+*MOT:	venga !
+*MOT:	ya la última aclarada , eh ?
+*MOT:	no [x 3] .
+*MOT:	madre !
+*MOT:	echa [x 2] .
+*MOT:	Magín , que te mojas los puños , hombre .
+*MOT:	oye !
+*MOT:	que te mojas los puños !
+*MOT:	mira , yo no me los mojo porque me he subido las mangas pero tú sí .
+*MOT:	yo no me los mojo .
+*MOT:	oye !
+*MOT:	quita de ahí .
+*MOT:	que te quites de ahí , hombre !
+*MOT:	ven aquí !
+*MOT:	Magín !
+*MOT:	ven aquí !
+*MOT:	Magín !
+*MOT:	ahí va .
+*MOT:	mira , que se ha caído .
+*MOT:	quieres la cola ?
+*MOT:	eh ?
+*MOT:	qué era ésta , la cola ?
+*MOT:	era la cola para lavar ?
+*MOT:	toma , te la llevas ?
+*MOT:	toma , pero no la pierdas , eh , que luego no sabes dónde lo dejas .
+*MOT:	qué ?
+*MOT:	venga .
+*MOT:	vamos para allá .
+*MOT:	vamos .
+*MOT:	pero , qué ?
+*MOT:	que me estás mojando .
+*MOT:	ven aquí .
+*MOT:	ah , que se moja todo !
+*MOT:	madre .
+*MOT:	cuidado !
+*MOT:	cuidado !
+*MOT:	es tu colita ?
+*MOT:	quieto , quieto !
+*MOT:	estáte quieto , anda .
+*FAM:	qué hablas ?
+*FAM:	qué estás cascando ?
+*FAM:	cascas más que un sacamuelas , chico !
+*MOT:	venga , sal de ahí .
+*MOT:	sal de ahí , cielo .
+*MOT:	no puedes salir ?
+*MOT:	oye , no me pises la cartera , tú !
+*MOT:	hombre !
+*MOT:	la cartera no se pisa !
+*MOT:	ay , tu cartera ?
+*MOT:	cómo te voy a dar tu cartera ?
+*MOT:	venga , vamos a_ver .
+*MOT:	vamos a meter esto .
+*FAM:	toma coloca eso en su sitio .
+*FAM:	Pepsicola .
+*FAM:	pa(ra) ti todo son colas .
+*MOT:	ay , mi sábana !
+*MOT:	ésa es tu sábana ?
+*FAM:	eso es mi pañuelo , que no es igual .
+*FAM:	es un pañuelo mío .
+*FAM:	que no es igual .
+*FAM:	es un pañuelo mío .
+*FAM:	el toro , de Miura !
+*FAM:	a_ver si no ha salido ningún nieto torero y va a salir el bisnieto !
+*FAM:	oye [x 2] , qué haces ?
+*FAM:	qué haces tirando todo de ahí ?
+*FAM:	pero qué haces ?
+*FAM:	mira lo que te ha hecho .
+*FAM:	tirando todo .
+*MOT:	Magín !
+*FAM:	pisoteándote los pantalones .
+*MOT:	ven aquí , anda !
+*FAM:	qué va ser el pañuelo tuyo .
+*FAM:	es mío , me lo ha traído tu hermana , que no es igual .
+*FAM:	vaya .
+*FAM:	es de mi hermana ?
+*FAM:	pues qué bien .
+*FAM:	es de mi hermana ?
+*FAM:	ah , que es de tu hermana .
+*FAM:	no se llora ?
+*FAM:	cuando se tienen ganas de llorar o le hacen a uno llorar .
+*MOT:	oye , oye , que me lo rompes .
+*MOT:	qué haces ?
+*MOT:	qué haces ?
+*MOT:	eso no se hace !
+*MOT:	eh ?
+*MOT:	eso no se pisa !
+*MOT:	eh ?
+*MOT:	por_qué lo pisas ?
+*MOT:	una sábana ?
+*MOT:	para poner otra sábana , dónde ?
+*FAM:	www .
+*FAM:	a dónde te dejo ?
+*FAM:	qué es lo que te voy a dejar sin hueso sano .
+*FAM:	esta hoja no , porque esto es de tu padre o de tu madre .
+*FAM:	esta hoja no .
+*FAM:	hay que buscar una hoja , pero esto que está aquí no .
+*MOT:	vamos a_ver si hay alguna otra vacía .
+*FAM:	no , ésta no está vacía .
+*FAM:	allí , donde Raúl .
+*FAM:	donde Raúl , sí , pero aquí están todas escritas .
+*MOT:	éstas están todas escritas xxx de papá y mamá .
+*FAM:	toma una de aquí de Raúl .
+*FAM:	de ésas no , Magín .
+*FAM:	de ésas no , Magín .
+*FAM:	toma , ésta .
+*FAM:	pues , nada , déjala aquí para que la use papá y ya está .
+*FAM:	que esas cosas no , que tienen escrituras de tu padre !
+*FAM:	aquí ésta .
+*FAM:	www .
+*FAM:	te da permiso .
+*FAM:	toma esta otra .
+*FAM:	ésas son tarjetas de tu padre , pinta ahí .
+*FAM:	vamos , que tiene gracia , que la limpia no quiere y quiere la la +//.
+*MOT:	pero si ésa está más bonita porque no tiene nada y tú le pones ahí las cosas .
+*MOT:	tú pintas ahí ahora lo que tú quieras .
+*MOT:	sí , hombre .
+*MOT:	venga , pintas ahí lo que tú quieras .
+*MOT:	pintas ahí lo que tu quieras , Magín .
+*MOT:	qué estás pintando Magín ?
+*MOT:	quién es mamá ?
+*MOT:	ésa es mamá ?
+*MOT:	uy qué guapa ha salido mamá con la pintura de Magín .
+*MOT:	Magín está ahí chiquitito ?
+*MOT:	uy qué rico !
+*MOT:	ése es Magín , sí .
+*MOT:	ése es otro Magín ?
+*MOT:	qué ?
+*MOT:	otro Magín .
+*MOT:	ya está .
+*MOT:	ésa la quitamos .
+*MOT:	ya la hemos quitado .
+*MOT:	qué querías hacer ?
+*MOT:	eh ?
+*MOT:	ah , ésa la querías poner ?
+*MOT:	ésta la querías poner ?
+*MOT:	ya la has puesto .
+*MOT:	y ahora qué hacemos ?
+*MOT:	no , déjalo ya !
+*MOT:	qué haces ?
+*MOT:	los números , sí .
+*MOT:	eso son los números .
+*MOT:	mira cómo se mueven .
+*MOT:	el uno .
+*MOT:	qué número es ése ?
+*MOT:	el dos !
+*MOT:	no , pero no des tú ahí , que lo estropeas !
+*MOT:	se mueve la ruedecita !
+*MOT:	oye , va , no quieres jugar con la moto , eh ?
+*MOT:	pues hale .
+*MOT:	qué querías antes que me estabas llamando ?
+*MOT:	está la moto (.) te la has deja(d)o dentro de la habitación .
+*MOT:	sí .
+*MOT:	la moto .
+*MOT:	está ahí dentro .
+*MOT:	la tienes allí .
+*MOT:	vete a por ella !
+*MOT:	venga , baja .
+*MOT:	dile , cuidado .
+*MOT:	dile a Pompello que se calle , eh , porque da unas voces que vamos !
+*MOT:	calla Pompello !
+*MOT:	sabes qué le pasa , Magín , a Pompello ?
+*MOT:	tiene hambre y quiere pipas , le vamos a echar pipitas .
+*MOT:	aquí tienes pipitas y le vamos a echar , verdad hijo ?
+*MOT:	pobrecito !
+*MOT:	a_ver , Pompe ven aquí , ven .
+*MOT:	esta pipa también ?
+*MOT:	no , Magín le asustas .
+*MOT:	no hagas eso !
+*MOT:	pobrecito , mi chiquitín , pobrecito .
+*MOT:	no le hagas así que le asustas !
+*MOT:	dile cositas .
+*MOT:	dile cariñitos , Magín .
+*MOT:	dile Pompe , bonito .
+*MOT:	no llores .
+*MOT:	también para Pompello ?
+*MOT:	toma Pompe , esa pipita también para ti , eh ?
+*MOT:	te la ponemos ahí .
+*MOT:	ven .
+*MOT:	oye , vamos a jugar un poquito ?
+*MOT:	sí dígame ?
+*MOT:	hola papá .
+*MOT:	sí , sí , cómo estás ?
+*MOT:	muy bien .
+*MOT:	sí , Magín está aquí jugando conmigo .
+*MOT:	sí .
+*MOT:	eh ?
+*MOT:	papaíto .
+*MOT:	ven aquí Magín .
+*MOT:	hola , papaíto , hola .
+*MOT:	le digo a papá qué_tal estás ?
+*MOT:	con el amarillo ?
+*MOT:	le digo a papá qué_tal estás ?
+*MOT:	hola papá qué_tal estás ?
+*MOT:	sí , Magín está aquí .
+*MOT:	Magín , ven , ponte .
+*MOT:	ponte con papá .
+*MOT:	Magincito , jugamos con los gusanos ?
+*MOT:	con éste amarillo ?
+*MOT:	a_ver .
+*MOT:	sí , sí , quién es ?
+*MOT:	hola .
+*MOT:	hola papucho .
+*MOT:	quién es ?
+*MOT:	cómo estás ?
+*MOT:	papuchete .
+*MOT:	aquí viene Magín .
+*MOT:	oye , qué es esto ?
+*MOT:	venga ya .
+*MOT:	te cuento un cuento ?
+*MOT:	quieres que veamos un cuento , Magín ?
+*MOT:	uy va , que te caes !
+*MOT:	ya , pero ya hemos hablado con papá mucho .
+*MOT:	con este con papá ?
+*MOT:	por_qué no hacemos otra cosa ?
+*MOT:	que ya hemos hablado mucho digo , que por_qué no hacemos otra cosa ?
+*MOT:	ya está ?
+*MOT:	ya has hablado con papá ?
+*MOT:	todo [x 3] ?
+*MOT:	se ha ido qué ?
+*MOT:	se ha ido papá mucho ?
+*MOT:	no está , qué dices ?
+*MOT:	ah , que no está papá ya .
+*MOT:	trae , trae que te abrocho esto .
+*MOT:	se te cae todo el tiempo verdad ?
+*MOT:	por_qué se cae ?
+*MOT:	por_qué ?
+*MOT:	el otro ya está bien puesto .
+*MOT:	mira , y esto qué es ?
+*MOT:	oye ven !
+*MOT:	ven Curri , ven .
+*MOT:	Magín .
+*MOT:	qué es eso tu bici ?
+*MOT:	tu bicicleta .
+*MOT:	venga , dale para atrás un poquito .
+*MOT:	sí .
+*MOT:	a(de)lante y ahora atrás , venga .
+*MOT:	a(de)lante y atrás .
+*MOT:	a(de)lante , y atrás .
+*MOT:	vas a por un chocolate ?
+*MOT:	y un carrito .
+*MOT:	para meterme yo ?
+*MOT:	para qué quieres el carrito ?
+*MOT:	a_ver , yo no me meto y yo qué , que no te entiendo .
+*MOT:	qué ?
+*MOT:	que me caigo a la calle ?
+*MOT:	&+pum ?
+*MOT:	ah , en el suelo no me caigo ?
+*MOT:	dónde me caigo ?
+*MOT:	y me hago pupa , pero dónde me caigo ?
+*MOT:	ah , en el suelo , pues eso !
+*MOT:	pero ahora mismo ?
+*MOT:	ahora mismo me caía ?
+*MOT:	&+pum !
+*MOT:	ah .
+*MOT:	ah !
+*MOT:	tengo pupa .
+*MOT:	tengo pupa .
+*MOT:	ah , ya se me pasa .
+*MOT:	ya no tengo pupa ?
+*MOT:	ay , arriba .
+*MOT:	ya no tengo pupa ?
+*MOT:	ven aquí , ven , ven !
+*MOT:	no toques ahí .
+*MOT:	no toques ahí .
+*MOT:	ay , oye .
+*MOT:	venga , dónde íbamos ahora ?
+*MOT:	venga , ahora estábamos en la calle , vale ?
+*MOT:	eh ?
+*MOT:	no quieres ir a la calle ?
+*MOT:	y me he caído yo en la calle .
+*MOT:	y me montaba yo aquí ?
+*MOT:	ah , ay , ah !
+*MOT:	venga ahora tú .
+*MOT:	ése está muy duro , eh !
+*MOT:	es más cómodo el otro , a qué sí ?
+*MOT:	la moto no está mal , verdad ?
+*MOT:	es que está arriba la moto .
+*MOT:	sí .
+*MOT:	está en el comedor .
+*MOT:	vamos a por ella ?
+*MOT:	eh ?
+*MOT:	vamos a_ver el gusano ?
+*MOT:	qué ?
+*MOT:	la calefacción ?
+*MOT:	qué calefacción ?
+*MOT:	a_ver .
+*MOT:	el gusano este ?
+*MOT:	le [x 2] llevamos ahí ?
+*MOT:	pero qué es lo que dices ?
+*MOT:	tienes frío ?
+*MOT:	entonces por_qué +/?
+*MOT:	está duro ?
+*MOT:	a_ver ?
+*MOT:	a_ver ?
+*MOT:	a_ver , vamos a llevarle allí .
+*MOT:	tráetelo aquí , a_ver !
+*MOT:	ya está el gusano , venga .
+*MOT:	colócale .
+*MOT:	colócale tú cositas .
+*MOT:	colócale .
+*MOT:	no , venga Magín .
+*MOT:	ése sí , muy bien , pero ponlo bien , que entre .
+*MOT:	ya ha entrado bien .
+*MOT:	al revés , lo tienes que meter al revés .
+*MOT:	a_ver , ahora , sí así !
+*MOT:	sí , ya estaba !
+*MOT:	no , así está al revés .
+*MOT:	dale la vuelta .
+*MOT:	ahora , muy bien .
+*MOT:	así , ya está muy bien .
+*MOT:	no le das un paseo ?
+*MOT:	se rompe en el suelo ?
+*MOT:	que va !
+*MOT:	quiere darse un paseo .
+*MOT:	así se rompe ?
+*MOT:	dónde ?
+*MOT:	aquí ?
+*MOT:	en el suelo no se rompe .
+*MOT:	por_qué se va a romper en el suelo ?
+*MOT:	quieres que lo ponga yo en el suelo ya verás como no se rompe ?
+*MOT:	eh , di .
+*MOT:	di mi amor , lo pongo yo en el suelo ?
+*MOT:	ése qué es ?
+*MOT:	mira , ése es un triángulo .
+*MOT:	ése es un triángulo .
+*MOT:	éste qué es ?
+*MOT:	éste es un triángulo y por eso el triángulo se pone en el triángulo , ves ?
+*MOT:	muy bien !
+*MOT:	éste , éste es así como .
+*MOT:	esto es un óvalo .
+*MOT:	éste es ovalado , ves ?
+*MOT:	amarillo , claro , por supuesto que es amarillo .
+*MOT:	venga , ahí muy bien .
+*MOT:	y éste también es amarillo .
+*MOT:	dale para atrás , venga .
+*MOT:	no pero no Magín , bien , así .
+*MOT:	ven para acá , ven .
+*MOT:	no me caigo ?
+*MOT:	vamos a jugar a la pelota ?
+*MOT:	venga , a_ver .
+*MOT:	yo te echo a ti .
+*MOT:	vete para allá .
+*MOT:	un , dos , tres , lanzo .
+*MOT:	que te vas a caer !
+*MOT:	con ésa ?
+*MOT:	bien , pumba !
+*MOT:	eh ?
+*MOT:	venga , a por ella !
+*MOT:	qué quieres , poner la calefacción ?
+*MOT:	venga ya está .
+*MOT:	ya está , venga vamos .
+*MOT:	venga dale .
+*MOT:	que ya está puesta , dale .
+*MOT:	ya está puesta , sí .
+*MOT:	venga va , va .
+*MOT:	venga , va , va .
+*MOT:	Pompe , no comes ?
+*MOT:	no se come las pipas Pompello ?
+*MOT:	no las quiere ?
+*MOT:	ni las cáscaras ni las pipas .
+*MOT:	las pipas sí ?
+*MOT:	adiós , adiós .
+*MOT:	ya has venido ?
+*MOT:	hola Magín , hola .
+*MOT:	un besito , que ya ha venido mi chico .
+*MOT:	oh , qué bien , que ya ha venido (.) mi chiquitillo .
+*MOT:	adónde me monto ?
+*MOT:	en la bicicleta no .
+*MOT:	dónde me voy a montar yo ?
+*MOT:	sí .
+*MOT:	dónde está la moto ?
+*MOT:	está arriba en el comedor ?
+*MOT:	sí .
+*MOT:	y cuándo vamos a buscarla ?
+*MOT:	eh ?
+*MOT:	venga , tíramelos !
+*MOT:	ah , me levanto ?
+*MOT:	venga , vamos a jugar con ése .
+*MOT:	con éste no ?
+*MOT:	venga vamos .
+*MOT:	hale , venga que va !
+*MOT:	cuidado [x 2] .
+*MOT:	tira !
+*MOT:	venga tira .
+*MOT:	muy bien !
+*MOT:	ahí va , a por ella .
+*MOT:	a por ella , venga .
+*MOT:	qué ?
+*MOT:	mira , mira dónde se ha ido !
+*MOT:	mira dónde se ha ido la pelota .
+*MOT:	no se va ?
+*MOT:	uy , que se cae .
+*MOT:	a_ver , dónde me siento .
+*MOT:	aquí me siento ?
+*MOT:	aquí me pongo ?
+*MOT:	no , aquí .
+*MOT:	aquí , tú ?
+*MOT:	uy qué bien estamos , verdad ?
+*MOT:	te has puesto muy sucio , eh !
+*MOT:	mira Pompe como llama a Raúl !
+*MOT:	le oyes ?
+*MOT:	Raúl , llama a Raúl , Pompe !
+*MOT:	hola Pompello !
+*MOT:	hola bonito !
+*MOT:	un besito !
+*MOT:	un besito Pompe .
+*MOT:	a_ver qué es éste .
+*MOT:	ven .
+*MOT:	una película .
+*MOT:	ah , un corazón !
+*MOT:	bueno , a_ver , espera , vamos a_ver !
+*MOT:	mira [x 3] qué bonito los ratoncitos .
+*MOT:	eso lo ha pintado Raúl ?
+*MOT:	ha pintado un grande .
+*MOT:	ha , ha pintado un corazón grande , verdad ?
+*MOT:	sí , ha pintado un [*] grande .
+*MOT:	mira lo que tienen esos niños en la mano .
+*MOT:	tienen números , verdad ?
+*MOT:	tienen ?
+*MOT:	qué es eso de sotan@c ?
+*MOT:	los animalitos estás pintando ?
+*MOT:	oh , ya has tirado las pipas .
+*MOT:	por_qué has tirado las pipas Pompello ?
+*MOT:	eh ?
+*MOT:	no se tiran las pipas , hombre .
+*MOT:	no se tiran .
+*MOT:	cuidado .
+*MOT:	qué haces , hijo .
+*MOT:	a_ver , te has hecho pupa ?
+*MOT:	dónde amor .
+*MOT:	dónde ha sido ?
+*MOT:	dónde ha sido la pupa , hijo ?
+*MOT:	en la cabecita ?
+*MOT:	cura sana , no llores .
+*MOT:	ay madre , has tirado toda las pipas , hombre , por_qué haces eso tonto ?
+*MOT:	claro que eres malo Pompe .
+*MOT:	eso no se hace , tirar todas las pipas .
+*MOT:	ahora venimos ?
+*MOT:	venga , dónde vamos ?
+*MOT:	nos vamos arriba , eh ?
+*MOT:	venga , vamos a ponerlas así .
+*MOT:	no las tires más , eh ?
+*MOT:	no las tires .
+*MOT:	vamos arriba .
+*MOT:	se comen , claro .
+*MOT:	se comen las pipas .
+*MOT:	si las tiras no te las puedes comer , verdad ?
+*MOT:	es tonto .
+*MOT:	es bueno ?
+*MOT:	pero si tira las pipas , Magín , fíjate ?
+*MOT:	a_ver ?
+*MOT:	que pintas otro qué ?
+*MOT:	oye tienes mocos .
+*MOT:	sí que los tienes , ven uh !
+*MOT:	espera .
+*MOT:	estás bien ?
+*MOT:	sí ?
+*MOT:	ahora venimos ?
+*MOT:	qué ?
+*MOT:	me ha pica(d)o ?
+*MOT:	no .
+*MOT:	ya no me pica ?
+*MOT:	se ha curado el ratoncito ?
+*MOT:	es que estaba malito ?
+*MOT:	entonces ?
+*MOT:	lo ves ?
+*MOT:	qué le pasaba al ratoncito ?
+*MOT:	pero déjame ver una cosita .
+*MOT:	pero déjame ver una cosa , hombre !
+*MOT:	pero espera un poquito .
+*MOT:	por fa(vor) , déjamelo un poco .

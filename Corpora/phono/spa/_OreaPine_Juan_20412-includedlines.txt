@@ -1,0 +1,305 @@
+*TI1:	mira .
+*TI1:	un xxx con un agujero en medio . [+ NON]
+*TI1:	mira .
+*TI1:	hola .
+*TI1:	xxx .
+*FAT:	oye , Juan .
+*FAT:	di le a Jose qué es eso .
+*TI1:	&=q qué es eso ?
+*FAT:	&=q qué es ?
+*FAT:	&=q qué es qué ?
+*FAT:	&=q qué es qué ?
+*TI1:	&=q qué es ?
+*TI1:	&=q un camaleón ? [+ ADS]
+*TI1:	&=q cambia de color ?
+*TI1:	&=q pues entonces ?
+*FAT:	&=q y eso qué es , Juan ?
+*FAT:	uy@i qué tos .
+*FAT:	&=q y eso qué es , Juan ?
+*FAT:	&=q una pieza muy roja ? [+ ADS]
+*FAT:	&=q amarilla no es ?
+*TI1:	vale .
+*TI1:	a ver si tengo amarillas .
+*TI1:	&=q < y cuáles > [//] y los rojos cuáles son ?
+*TI1:	&=q y el coche ?
+*TI1:	&=q qué coche ?
+*TI1:	&=q hay coche rojo ?
+*TI1:	&=q qué hacemos ?
+*TI1:	&=q un lobo ? [+ ADS]
+*TI1:	&=q un lobo vamos a hacer ahora ?
+*FAT:	Juan .
+*FAT:	dentro de la manta que tienes el culillo fuera .
+*TI1:	mira [x 3] .
+*FAT:	&=q con quién estás jugando , Juan ?
+*FAT:	&=q con quién estás jugando ?
+*FAT:	< ni caso > [/] ni caso .
+*TI1:	&=q qué pasa , Juan ?
+*TI1:	&=q qué le pasa ?
+*TI1:	&=q con una boca muy larga ?
+*FAT:	rara@q yo creo que dice .
+*TI1:	&=q un dragón rojo ?
+*TI1:	mm@i .
+*TI1:	&=q un dragón ?
+*TI1:	a ver , madre .
+*TI1:	&=q con las piezas rojas sólo ?
+*TI1:	claro .
+*TI1:	&=q pero cómo hacemos las patas ?
+*TI1:	a ver .
+*TI1:	primero hacemos la cabeza &=q no ?
+*TI1:	primero hacemos la cabeza .
+*TI1:	esto es la cabeza .
+*TI1:	&=q ves ?
+*TI1:	esto es la cabeza .
+*TI1:	y ahora el cuerpo .
+*TI1:	&=q así ?
+*TI1:	vale .
+*TI1:	un dragón .
+*TI1:	trae .
+*TI1:	ahora las patas .
+*TI1:	pero hay que utilizar otra .
+*TI1:	&=q quieres que lo hagamos de más colores ?
+*TI1:	&=q o sólo rojo ?
+*TI1:	&=q lo hacemos de más colores ?
+*TI1:	&=q más colores ?
+*TI1:	&=q no ?
+*TI1:	&=q entonces no podemos ?
+*TI1:	a ver .
+*TI1:	trae .
+*TI1:	trae .
+*TI1:	mira qué dragón .
+*TI1:	&=q te gusta ?
+*TI1:	&=q más alto ?
+*TI1:	a ver .
+*TI1:	Juan .
+*TI1:	&=q cuál es la cabeza ?
+*TI1:	si no tiene cabeza .
+*TI1:	mira .
+*TI1:	xxx .
+*TI1:	y el rabo .
+*TI1:	la cola .
+*TI1:	< ya me lo > [/] ya me lo traes .
+*TI1:	mira .
+*TI1:	ponlo aquí .
+*TI1:	en el medio .
+*TI1:	ahí .
+*TI1:	a ver .
+*TI1:	ya está .
+*TI1:	&=q qué te parece ?
+*TI1:	&=q te gusta ?
+*TI1:	a ver .
+*TI1:	ponlo donde tú quieras .
+*FAT:	hala@i qué bien con Tío_Jose &=q &-eh ?
+*TI1:	&=e qué guay !
+*TI1:	ya ha vuelto el dragón Dragoneti .
+*TI1:	se llama Dragoneti .
+*TI1:	&=q o cómo quieres que lo llamemos ?
+*TI1:	&=q Dragoneti ? [+ ADS]
+*TI1:	&=q como cuál ?
+*TI1:	&=q como ese ?
+*TI1:	&=q un dragón como cuál ?
+*TI1:	&=q lo hacemos ?
+*TI1:	a lo mejor no hay &=q &-eh ?
+*TI1:	mira .
+*TI1:	sí hay aquí .
+*MOT:	&=q qué haces , Juan ?
+*MOT:	&=q < con Jose > [/] estás con Jose ?
+*TI1:	a ver .
+*FAT:	trae las patas .
+*FAT:	una pata .
+*FAT:	aquí .
+*TI1:	&=q quieres [/] quieres que hagamos un dragón con dos cabezas ?
+*TI1:	&=q no ?
+*TI1:	&=q con cuántas ?
+*TI1:	ahí .
+*TI1:	qué alto &=q no ?
+*TI1:	&=q tan alto ?
+*TI1:	se va a caer .
+*TI1:	ven .
+*TI1:	ahí+va que chulo .
+*TI1:	&=q y ahora qué más le ponemos ?
+*TI1:	la cola .
+*FAT:	está en su etapa monocroma .
+*MOT:	&=q qué ?
+*FAT:	está en su etapa monocroma .
+*TI1:	&=q está en +..?
+*FAT:	++ una etapa monocromo .
+*MOT:	todo lo junta por colores .
+*MOT:	míralo .
+*MOT:	&=q te has dado cuenta ?
+*MOT:	todo lo junta por colores .
+*FAT:	ah , sí .
+*TI1:	sí ya le he dicho que verde y azul y antes me ha dicho que rojo . [+ ADD]
+*MOT:	antes le daba igual porque los utilizaba indistintamente . [+ ADD]
+*MOT:	ahora no .
+*MOT:	ahora los utiliza por colores .
+*FAT:	cómo trabaja el tío &=q &-eh ?
+*TI1:	&=q dónde ?
+*FAT:	&=q qué hora es , Father ?
+*FAT:	las ocho .
+*MOT:	yo iba a hacer una tortilla .
+*FAT:	ole@i .
+*FAT:	yo iba a cenar fruta sólo .
+*FAT:	para comer mañana .
+*FAT:	&=q te apetece ?
+*FAT:	&=q qué haces , Juan ?
+*FAT:	&=q un dragón qué ?
+*FAT:	&=q se ha destrozado el dragón ?
+*FAT:	&=q se ha destrozado el dragón , Juan ?
+*FAT:	&=q y la cabeza del dragón dónde está ?
+*MOT:	&=q la capirota@f del dragón dónde está ?
+*MOT:	hay que hacer la .
+*MOT:	pues venga .
+*MOT:	que te ayude Jose a hacer la .
+*TI1:	&=q vale ?
+*TI1:	&=q qué hacemos ?
+*MOT:	yo voy a hacer la cena .
+*MOT:	&=q vale ?
+*TI1:	&=q cómo la hacemos ?
+*TI1:	o+sea .
+*TI1:	&=q pero un dragón igual que ese ?
+*TI1:	&=q igualito ?
+*FAT:	&=q con la boca abierta ?
+*TI1:	a ver .
+*TI1:	&=q cómo es la boca abierta ?
+*TI1:	mira .
+*TI1:	podemos hacer le la boca abierta con los rojos .
+*TI1:	a ver .
+*TI1:	vamos a ver .
+*TI1:	ya no hay más rojos , Juan .
+*MOT:	los rojos los tiene todos allí .
+*TI1:	es que ya no hay más rojos .
+*TI1:	mira .
+*TI1:	con la boca abierta .
+*TI1:	&=q qué te parece ?
+*TI1:	&=q o no ?
+*TI1:	&=q cómo ?
+*TI1:	o mira así [x 2] cómo se puede hacer con la boca abierta .
+*TI1:	así .
+*TI1:	trae .
+*TI1:	&=q así ?
+*TI1:	&=q con la boca abierta ?
+*TI1:	&=q está bien , no ?
+*TI1:	&=q hacemos uno con la boca abierta ?
+*TI1:	&=q y ahora hacemos otro ?
+*TI1:	&=q quieres que hagamos otro ?
+*TI1:	&=q no te gusta ?
+*TI1:	&=q cómo ?
+*TI1:	a ver .
+*TI1:	otra manera .
+*TI1:	&=q le vas a quitar las patas ?
+*TI1:	madre+mía .
+*TI1:	se va a quedar sin patas .
+*TI1:	oh .
+*TI1:	ya se ha destrozado .
+*TI1:	pequeñín .
+*TI1:	sí .
+*TI1:	qué guay .
+*TI1:	&=q pero tendrás que hacer el lobo entero o qué ?
+*TI1:	&=q o no ?
+*TI1:	&=q esto qué es , Juan ?
+*TI1:	&=q qué es ?
+*TI1:	&=q &-eh ?
+*TI1:	&=q sabes qué es ?
+*TI1:	mira lo .
+*TI1:	qué guay .
+*FAT:	pero bueno , Juan .
+*FAT:	&=q qué estás haciendo tan bonito ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué es eso tan bonito que tienes ?
+*TI1:	mira .
+*TI1:	aquí hay rojas todavía .
+*FAT:	&=q que es eso tan bonito ?
+*FAT:	&=e &-eh !
+*FAT:	&=e cachirulo !
+*FAT:	&=q qué es eso tan bonito que tienes ?
+*FAT:	&=q una pata del dragón ?
+*FAT:	pero bueno .
+*FAT:	pero ese dragón que parece la gallina Anselma es bien bonito &=q &-eh ?
+*FAT:	estamos todos tosilones@f .
+*TI1:	qué guapo .
+*TI1:	qué dragón más chulo ha hecho .
+*TI1:	tiene alas en los pies .
+*TI1:	&=q o no ?
+*FAT:	ay@i qué guarro .
+*FAT:	la colilla roja . [+ ADS]
+*FAT:	&=q cómo se llama el dragón , Juan ?
+*FAT:	&=q dragón Belisario ? [+ ADS]
+*FAT:	&=q Belisario ?
+*FAT:	&=q cómo se llama ?
+*FAT:	&=q es un dragón+elefante ?
+*FAT:	&=q y tiene trompa ?
+*FAT:	&=q ah , no ?
+*FAT:	&=q y tiene orejas ?
+*FAT:	&=q y tiene colmillos ?
+*FAT:	pero bueno .
+*FAT:	&=q entonces por qué es un dragón+elefante ?
+*TI1:	buena pregunta .
+*FAT:	&=q no vuela , no ?
+*FAT:	claro si es un +//.
+*FAT:	&=q sí vuela ? [+ ADS]
+*FAT:	pero vamos a ver .
+*FAT:	si es un dragón+elefante +/.
+*FAT:	yo nunca he visto un elefante volar .
+*FAT:	&=q tú sí ?
+*FAT:	fíjate .
+*FAT:	pues vaya dragón más raro .
+*FAT:	un dragón+elefante que no tiene trompa no tiene orejas no tiene colmillos < no tiene y encima no vuela > [//] y encima vuela .
+*FAT:	a ver si va a ser +//.
+*FAT:	&=q a ver si va a ser un dragón+mosca ?
+*FAT:	&=q es un dragón+mosca ?
+*FAT:	&=q no ?
+*FAT:	&=q no ?
+*FAT:	&=q entonces qué es ?
+*TI1:	muy bien .
+*TI1:	&=q y esto qué es ?
+*TI1:	&=q una torre ?
+*TI1:	&=q una iglesia que tiene una torre muy alta ?
+*TI1:	&=q y para qué tiene una torre ?
+*TI1:	&=q &-eh , Juan ?
+*TI1:	&=q para qué tiene una torre ?
+*FAT:	faltan azules sí .
+*TI1:	vaya pedazo de torre .
+*FAT:	oye .
+*FAT:	&=q y qué tiene la torre en lo alto ?
+*FAT:	&=q qué tiene la torre ?
+*FAT:	sí .
+*FAT:	&=q y además para qué sirven las torres ?
+*FAT:	&=q qué suena en la torre ?
+*FAT:	&=q qué suena ?
+*FAT:	&=q y < cómo suena > [/] cómo suena ?
+*FAT:	tolón@o [x 2] .
+*FAT:	que viene Juan .
+*FAT:	&=q ese es el señor que vive en el castillo ?
+*FAT:	&=q no hay puerta ?
+*FAT:	pues vaya castillo más raro que no tiene puertas .
+*FAT:	así nadie podrá entrar ni salir .
+*FAT:	ah .
+*FAT:	&=q cómo se entra ?
+*FAT:	&=q dando un salto ?
+*FAT:	&=q < a ver > [/] a ver ?
+*FAT:	&=q se llama con la cabeza ?
+*TI1:	&=q se llama al timbre ?
+*TI1:	&=q a ver cómo se llama ?
+*FAT:	ahí+va .
+*FAT:	que viene el camión a destrozar . [+ ADS]
+*TI1:	oh .
+*FAT:	pero Juan .
+*FAT:	cachirulo .
+*TI1:	la torre entera cayó .
+*FAT:	ahí+va el dragón mosca .
+*FAT:	&=q es un dragón mosca o es un dragón mosquito ?
+*FAT:	está algo sordo este niño &=q &-eh ?
+*TI1:	ayuda .
+*FAT:	no veo . [+ ADS]
+*FAT:	se ha ido la luz .
+*FAT:	bueno , chicos .
+*FAT:	&=q vamos a recoger ?
+*FAT:	que hay que bañar se .
+*FAT:	&=q cómo ?
+*FAT:	&=q cómo ?
+*FAT:	no oigo bien (.) por aquí lejos .
+*FAT:	&=q qué dices tú ?
+*FAT:	&=q qué dices tú ?
+*FAT:	pero bueno .
+*FAT:	adiós [x 2] .

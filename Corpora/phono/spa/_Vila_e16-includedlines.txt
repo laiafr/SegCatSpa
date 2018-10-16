@@ -1,0 +1,190 @@
+*INE:	que no lo rompa !
+*INE:	no qué ?
+*INE:	toma .
+*INE:	se llama ignacio .
+*INE:	ignacio .
+*INE:	no xxx .
+*INE:	sí .
+*INE:	ignacio muy bien .
+*INE:	a_ver .
+*INE:	ahora arréglalo .
+*INE:	arréglalo bien .
+*INE:	a_ver cómo lo arreglas .
+*INE:	a_ver .
+*INE:	muy bien .
+*INE:	qué pasa ?
+*INE:	a_ver .
+*INE:	qué te pasa ?
+*INE:	quieres que te lo arregle ?
+*INE:	pues dame .
+*INE:	mira .
+*INE:	sabes qué pasa .
+*INE:	que hay que saber ésto .
+*INE:	entonces +...
+*INE:	primero se pone el grande .
+*INE:	toma .
+*INE:	después éste que es lila .
+*INE:	toma el lila .
+*INE:	ahora éste que es verde .
+*INE:	otro verde .
+*INE:	uno amarillo .
+*INE:	uno rojo .
+*INE:	otro rojo .
+*INE:	espera .
+*INE:	a_ver , pon éste .
+*INE:	ahora otro rojo .
+*INE:	ahora la cabeza .
+*INE:	ay .
+*INE:	éste .
+*INE:	ahora la cabeza .
+*INE:	la capucha roja .
+*INE:	ya está .
+*INE:	y ahora qué ?
+*INE:	sí qué ?
+*INE:	lo vas a romper ?
+*INE:	me lo vas a romper .
+*INE:	ya lo has roto .
+*INE:	hum , no mira .
+*INE:	es la cabeza .
+*INE:	mira .
+*INE:	qué es ésto ?
+*INE:	ésto es ojo .
+*INE:	y ésto ?
+*INE:	mira la nariz está aquí .
+*INE:	y ésto ?
+*INE:	la nariz está aquí .
+*INE:	ésto es la boca .
+*INE:	boca sí .
+*INE:	bueno ya está .
+*INE:	lo rompo yo .
+*INE:	por qué ?
+*INE:	me dejas romperlo ?
+*INE:	lo vas a romper tú .
+*INE:	es tuyo .
+*INE:	no .
+*INE:	es mío .
+*INE:	dámelo .
+*INE:	no es tuyo .
+*INE:	bueno xxx .
+*INE:	quieres comer ?
+*INE:	aún no está la comida .
+*INE:	bueno .
+*INE:	y ahora qué ?
+*INE:	me lo das .
+*INE:	por qué ?
+*INE:	a Nacho se lo dejas y a mí no .
+*INE:	bueno xxx .
+*INE:	ahora Nacho me lo dará a mí .
+*NAC:	a quién se lo doy Emilio ?
+*NAC:	a quién se lo doy ?
+*NAC:	ten .
+*INE:	y a mí ?
+*INE:	no me lo das a mí ?
+*INE:	emilio .
+*INE:	va déjamelo .
+*INE:	va que me enfadaré .
+*NAC:	ten papa ?
+*NAC:	qué ?
+*NAC:	para mí .
+*NAC:	me lo quedo .
+*INE:	mira .
+*INE:	se lo esconde .
+*INE:	ay .
+*NAC:	me lo guardo .
+*NAC:	que no está .
+*INE:	qué pasa ?
+*INE:	qué ha hecho Nacho ?
+*INE:	qué ha hecho se lo ha escondido ?
+*INE:	cógeselo .
+*INE:	qué pasa ?
+*INE:	qué pasa ?
+*INE:	qué ha hecho Nacho ?
+*INE:	te lo ha quitado .
+*NAC:	ten .
+*INE:	te lo ha quitado .
+*INE:	bueno .
+*INE:	pués déjamelo a mí .
+*INE:	va a mí sí .
+*INE:	a mí no .
+*INE:	por qué ?
+*INE:	es mío éso .
+*INE:	no es tuyo .
+*INE:	bueno xxx xxx xxx .
+*INE:	y qué ?
+*INE:	no lo rompas .
+*INE:	eh ?
+*INE:	que no lo rompas .
+*INE:	no .
+*INE:	no lo rompas .
+*INE:	ay .
+*INE:	qué has hecho ?
+*INE:	tráelo que lo arreglaremos .
+*INE:	ya está .
+*INE:	me lo das .
+*INE:	bueno .
+*INE:	dónde vas ?
+*INE:	qué has hecho con las plantas ?
+*INE:	qué me quieres enseñar ?
+*INE:	ésto es tierra .
+*INE:	quién ha tocado la tierra ?
+*INE:	quién ha hecho ésto ?
+*INE:	quién ha sido Emilio ?
+*INE:	cómo te llamas tú ?
+*INE:	no niño no .
+*INE:	cómo te llamas ?
+*INE:	y cuántos años tienes ?
+*INE:	cuántos años tienes ?
+*INE:	dos , así , dos .
+*INE:	muy bien .
+*INE:	y cómo te llamas ?
+*INE:	no .
+*INE:	cómo te llamas ?
+*INE:	muy bien .
+*INE:	has oído Nacho ?
+*INE:	qué hace Nacho ?
+*INE:	te gusta ?
+*INE:	es bonito verdad .
+*INE:	qué hace Emili ?
+*INE:	hace piu^piu@o .
+*INE:	házselo .
+*INE:	no se ha caído no .
+*INE:	pero se caerá .
+*INE:	se aguanta , eh ?
+*INE:	no aquí no .
+*NAC:	adiós .
+*NAC:	dónde está mamá ?
+*NAC:	dónde está mama ?
+*NAC:	vete a verla .
+*NAC:	dónde está papa ?
+*NAC:	ay .
+*NAC:	ponlo bien .
+*NAC:	cógelo y ponlo bien .
+*INE:	bueno .
+*INE:	qué has hecho con ésto ?
+*INE:	no ahora lo coges tú .
+*INE:	sí cógelo .
+*INE:	bueno pués ahora me lo quedaré yo para mí .
+*INE:	ya está .
+*INE:	dónde está la cabeza ?
+*INE:	dónde está la cabeza ?
+*INE:	busca la cabeza .
+*INE:	qué has hecho con la cabeza ?
+*INE:	qué haces ?
+*INE:	no la veo .
+*INE:	no , ésto hace daño .
+*INE:	hace daño .
+*INE:	es que lo tocas todo .
+*INE:	bueno .
+*INE:	por qué no le cantas una canción al Nacho ?
+*INE:	sí , cántale una canción .
+*INE:	lo de la cuna quieres que cantemos .
+*INE:	pajarito que cantas +...
+*INE:	muy bien .
+*INE:	otra vez .
+*INE:	pajarito que +...
+*INE:	muy bien .
+*INE:	ahora ya está .
+*INE:	ya la hemos cantado dos veces .
+*INE:	ahora la de los caramelos .
+*INE:	la de los caramelos venga .
+*INE:	venga .

@@ -1,0 +1,163 @@
+*FAT:	Lucía .
+*FAT:	&=q tomamos más chococrispis@f ?
+*FAT:	venga .
+*FAT:	&=q mi bolígrafo me has cogido ?
+*FAT:	no .
+*FAT:	que no me cojas el bolígrafo .
+*FAT:	trae .
+*FAT:	no .
+*FAT:	esto para desayunar no , bonita .
+*FAT:	venga .
+*FAT:	&=q más leche ?
+*FAT:	y los crispis .
+*FAT:	venga .
+*FAT:	&=q me quedo aquí contigo ?
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	venga , Lucía .
+*FAT:	venga .
+*FAT:	&=q te tomas tú los crispis y yo me voy a buscar a Mamá ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q a ver si se levanta ?
+*FAT:	venga .
+*FAT:	&=q te traigo a Rita , Lucía ?
+*FAT:	a ver , Rita .
+*FAT:	aquí .
+*FAT:	a desayunar con Lucía .
+*FAT:	&=q vale ?
+*FAT:	Lucía .
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q &-eh ?
+*FAT:	ay@i .
+*FAT:	has tirado todo , Lu .
+*MOT:	hola .
+*MOT:	&=q has tirado los crispis ?
+*FAT:	0 .
+*FAT:	voy a por pan también &=q &-eh ?
+*FAT:	&=q me esperas ?
+*FAT:	&=q tienes algo de dinero suelto , Mother ?
+*MOT:	sí , algo .
+*MOT:	hay que sacar dinero .
+*MOT:	&=q está desayunando contigo ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q no ?
+*MOT:	&=q no le das de desayunar ?
+*FAT:	oye .
+*FAT:	&=q y las llaves del coche ?
+*MOT:	&=q quieres más ? [+ COR]
+*MOT:	vale .
+*MOT:	pues sienta .
+*MOT:	siénta te , cielo .
+*MOT:	0 .
+*MOT:	hola , Lucía .
+*MOT:	&=q qué estás haciendo ?
+*MOT:	&=q qué estás haciendo , Lucía ?
+*MOT:	&=q qué ?
+*MOT:	sí .
+*MOT:	todavía no estamos .
+*MOT:	ahora vienes con nosotros .
+*MOT:	no .
+*MOT:	otra vez no , Lucía .
+*MOT:	se ha ido a buscar pan .
+*MOT:	ahora viene .
+*MOT:	sí .
+*MOT:	a buscar pan , hija .
+*MOT:	xxx el rojo red@s , Lucía . [+ NON]
+*MOT:	&=q se te ha desabrochado ?
+*MOT:	uy@i .
+*MOT:	se ha desabrochado .
+*MOT:	&=q &-eh ?
+*MOT:	&=q que ya te lo has puesto ?
+*MOT:	no .
+*MOT:	sí .
+*MOT:	ese no .
+*MOT:	&=q muy sucio de espaguetis ? [+ COR]
+*MOT:	&=q lo has abrochado tú sola ?
+*MOT:	&=q < tú sola > [/] tú sola ?
+*MOT:	hola , Lucía .
+*MOT:	&=q te vienes aquí conmigo ?
+*MOT:	espera [x 2] que hay que coger lo todo .
+*MOT:	ven .
+*MOT:	espera .
+*MOT:	vamos a echar aquí los que han quedado aquí .
+*MOT:	muy bien .
+*MOT:	&=q &-eh , Lucía ?
+*MOT:	&=q cuál ?
+*MOT:	&=q ah esa es Lucía ?
+*MOT:	&=q sí ?
+*MOT:	anda .
+*MOT:	ay@i .
+*MOT:	no te manches , peque .
+*MOT:	&=q tomas la leche con cuchara ?
+*MOT:	&=q &-eh ?
+*MOT:	pues me parece que sí .
+*MOT:	con cuchara te estás tomando la leche &=q no ?
+*MOT:	&=q y eso ?
+*MOT:	&=q te gusta más que bebida ?
+*MOT:	mm@i .
+*MOT:	&=q te gusta jugar ?
+*MOT:	&=q sí , verdad ?
+*MOT:	&=q y a Rita ya le has dado de desayunar ?
+*MOT:	&=q no le has dado todavía ?
+*MOT:	después cuando acabes tú &=q no ?
+*MOT:	hace mucho aire , Lucía .
+*MOT:	&=q ves que se mueven los árboles ?
+*MOT:	&=q lo ves ?
+*FAT:	hola .
+*MOT:	hola .
+*FAT:	&=q dónde estás ?
+*FAT:	Lucía .
+*FAT:	&=q y Mother ?
+*FAT:	no me habéis esperado , carotas .
+*FAT:	&=q &-eh ?
+*FAT:	hala@i .
+*FAT:	&=q Papá no tiene sitio ?
+*FAT:	joe@i .
+*FAT:	pues nada .
+*FAT:	me voy a la cocina , entonces .
+*MOT:	&=q qué ?
+*MOT:	&=q se ha ido a la cocina Papá ?
+*MOT:	&=q por qué será ?
+*MOT:	&=q &-eh ?
+*MOT:	claro .
+*MOT:	&=q se la ha quitado Rita la silla de Papá ? [+ COR]
+*MOT:	me parece que se la has quitado tú .
+*MOT:	porque Rita sola no sabe poner se .
+*MOT:	&=q la has puesto tú ?
+*FAT:	&=q ya tengo sitio ?
+*FAT:	&=q y Rita ?
+*FAT:	&=q no está en mi sitio ?
+*FAT:	hala@i .
+*FAT:	&=e qué bien !
+*FAT:	espera , Lucía .
+*FAT:	podemos poner a Rita aquí al lado .
+*FAT:	y así nos sentamos los cuatro .
+*FAT:	&=q quieres ?
+*FAT:	corre .
+*FAT:	trae a Rita .
+*FAT:	que cabemos todos , Lucía .
+*FAT:	corre .
+*FAT:	ven .
+*FAT:	cabemos todos .
+*FAT:	&=q le ponemos esta silla a Rita ?
+*FAT:	&=q aquí ?
+*FAT:	venga .
+*FAT:	pon la aquí sentadita .
+*FAT:	&=q tú quieres otra tostada , Mother ?
+*MOT:	sí .
+*MOT:	muy bien .
+*MOT:	ya está , &=q verdad ?
+*FAT:	hola , Lulú .
+*FAT:	hola .
+*FAT:	sí .
+*FAT:	corre .
+*FAT:	< ahora voy > [/] ahora voy .
+*FAT:	toma .
+*FAT:	lléva le esto a Mamá .
+*FAT:	uy@i , no .
+*FAT:	todavía no .
+*FAT:	uy@i .
+*FAT:	qué tos , Lucía .
+*FAT:	&=q dónde está < el carrito el carrito > [/] el carrito ?
+*FAT:	&=q es pequeña Rita ?

@@ -1,0 +1,552 @@
+*FAT:	di me , Juan .
+*FAT:	&=q quieres hacer un rescate ? [+ COR]
+*FAT:	pues venga .
+*FAT:	&=q has cogido ya el Barbuchis@f y al naranja ?
+*FAT:	&=q y a la señora piloto ?
+*FAT:	pues venga .
+*FAT:	coge los .
+*FAT:	&=q qué les vas a hacer ?
+*FAT:	&=q una foto ?
+*FAT:	&=q les has hecho una foto ?
+*FAT:	mira .
+*FAT:	aquí está la señora piloto .
+*FAT:	el Barbuchis@f .
+*FAT:	toma .
+*FAT:	toma .
+*FAT:	el niño con el triciclo .
+*FAT:	toma .
+*FAT:	los de las bicis .
+*FAT:	toma las vacas .
+*FAT:	mira , Juan .
+*FAT:	también he encontrado los cascos .
+*FAT:	sí .
+*FAT:	sí .
+*FAT:	los cascos blancos .
+*FAT:	sí .
+*FAT:	venga .
+*FAT:	trae la señora piloto .
+*FAT:	esta es la que yo quiero , sí .
+*FAT:	ahora da me al compañero de la señora piloto .
+*FAT:	que es naranja también .
+*FAT:	mira a ver dónde lo tienes .
+*FAT:	mira .
+*FAT:	naranja y verde .
+*FAT:	no .
+*FAT:	mira a ver dónde está .
+*FAT:	no .
+*FAT:	mira a ver si lo tienes por aquí .
+*FAT:	sí .
+*FAT:	tienes que tener lo por ahí .
+*FAT:	míralo a ver .
+*FAT:	anda .
+*FAT:	mira .
+*FAT:	&=q dónde está el otro piloto del helicóptero ?
+*FAT:	claro .
+*FAT:	&=q pero por qué no lo has buscado , hombre ?
+*FAT:	te he dicho que lo buscaras .
+*FAT:	me lo das ya .
+*FAT:	oye .
+*FAT:	&=q dónde estuviste ayer ?
+*FAT:	&=q qué es lo que viste ayer ?
+*FAT:	&=q qué hacía El_Peli ayer ?
+*FAT:	&=q hacía marionetas ?
+*FAT:	&=q viste marionetas ?
+*FAT:	&=q y cómo eran ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q cómo eran ?
+*FAT:	&=q eran azules las marionetas ?
+*FAT:	&=q y qué más había ?
+*FAT:	a ver .
+*FAT:	< cuénta me > [/] cuénta me las marionetas cómo eran .
+*FAT:	&=q qué había ?
+*FAT:	&=q un señor ?
+*FAT:	&=q cómo era el señor ?
+*FAT:	no .
+*FAT:	&=q pero y [//] cómo tenía +//?
+*FAT:	&=q tenía el pelo rojo ?
+*FAT:	&=q sí ?
+*FAT:	&=q y era simpático ?
+*FAT:	&=q tienes mocos ?
+*FAT:	así .
+*FAT:	&=q y qué hacía el señor ?
+*FAT:	&=q tenía una mesa y allí ponía las marionetas ?
+*FAT:	&=q sí ?
+*FAT:	&=q y cómo era ?
+*FAT:	&=q cómo hacía ?
+*FAT:	a ver .
+*FAT:	cuénta me .
+*FAT:	a ver .
+*FAT:	contaba cuentos con las marionetas &=q no ?
+*FAT:	a ver .
+*FAT:	cuénta me alguno .
+*FAT:	&=q un cuento de un tigre ?
+*FAT:	&=q cómo hacía ?
+*FAT:	+" que te voy a comer decía el tigre ? [+ COR]
+*FAT:	&=q sí ?
+*FAT:	&=q y qué pasaba ?
+*FAT:	la rana .
+*FAT:	un tigre .
+*FAT:	&=q y qué más ?
+*FAT:	&=q un caracol también ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q y con quién fuiste ?
+*FAT:	&=q con quién fuiste a ver los títeres ?
+*FAT:	&=q con Celia ? [+ ADS]
+*FAT:	&=q y con quién más ?
+*FAT:	&=q con Raquel también ?
+*FAT:	jolines , qué suerte .
+*FAT:	&=q y con Lucía también ?
+*FAT:	&=q también estuvo Lucía ?
+*FAT:	&=q seguro ?
+*FAT:	ah .
+*FAT:	Lucía no estuvo , no .
+*FAT:	estaba en casa , sí .
+*FAT:	&=q y quién más ?
+*FAT:	&=q sí ?
+*FAT:	&=q quién más había ?
+*FAT:	&=q había muchos niños ?
+*FAT:	&=q estaba Blanca también ?
+*FAT:	&=q sí estaba Blanca ?
+*FAT:	&=q la madrina ?
+*FAT:	&=q sí ?
+*FAT:	&=q y te dió un beso grande ?
+*FAT:	&=q y qué te dió también ?
+*FAT:	&=q un paraguas de chocolate te dió ?
+*FAT:	&=q lila ? [+ ADS]
+*FAT:	&=q y tú lo compartiste con alguien ?
+*FAT:	&=q compartiste el paraguas ?
+*FAT:	&=q le diste un poquito a alguien ?
+*FAT:	&=q a quién le diste un poquito ?
+*FAT:	tú te comiste un poquito , sí .
+*FAT:	&=q y otro poquito a quién se lo diste ?
+*FAT:	&=q a Raquel le diste un poquito ?
+*FAT:	&=q sí [x 3] ?
+*FAT:	bueno .
+*FAT:	mira qué tenemos aquí .
+*FAT:	a ver .
+*FAT:	&=q qué es ?
+*FAT:	la barca .
+*FAT:	&=q a que sí ?
+*FAT:	y el helicóptero .
+*FAT:	mira .
+*FAT:	son amigos los de la barca y el helicóptero .
+*FAT:	aveces se quedan juntos para tomar una merienda .
+*FAT:	&=q se toman una merienda juntos ahora ?
+*FAT:	&=q sí ?
+*FAT:	mira .
+*FAT:	la barca < aparca justo > [/] aparca justo aquí .
+*FAT:	en la orilla .
+*FAT:	y aquí vienen los del helicóptero y aparcan justo en la playa .
+*FAT:	&=q te parece bien ?
+*FAT:	&=q sí ?
+*FAT:	tu@o [x 6] .
+*FAT:	y ahora quedan juntos para merendar .
+*FAT:	&=q vale ?
+*FAT:	&=q meriendan juntos ?
+*FAT:	&=q sí ?
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q dónde meriendan ?
+*FAT:	&=q aquí ?
+*FAT:	&=q se vienen aquí a merendar ?
+*FAT:	toma .
+*FAT:	mira .
+*FAT:	&=q son amigos ?
+*FAT:	&=q sí ?
+*FAT:	&=q se puede quitar le los cascos ?
+*FAT:	es que dan mucho calor &=q no ?
+*FAT:	venga .
+*FAT:	quíta le los cascos .
+*FAT:	&=q cómo ?
+*FAT:	&=q ah ?
+*FAT:	&=q el reloj también quieres que se lo quitemos ?
+*FAT:	&=q pero por qué ?
+*FAT:	déja selo .
+*FAT:	&=q no ?
+*FAT:	&=q se lo quieres quitar ?
+*FAT:	&=q o le quieres quitar las zapatillas mejor ?
+*FAT:	a ver .
+*FAT:	a lo bruto no se quita .
+*FAT:	mira .
+*FAT:	se quita por aquí detrás .
+*FAT:	así .
+*FAT:	&=q la señora piloto ?
+*FAT:	&=q dónde está la señora +//?
+*FAT:	&=q vale quitar el reloj ?
+*FAT:	pero hombre .
+*FAT:	si lo quitas lo vamos a perder .
+*FAT:	&=q se lo quieres quitar ?
+*FAT:	pero si es muy chulo .
+*FAT:	&=q sí ?
+*FAT:	pues venga .
+*FAT:	quíta selo .
+*FAT:	&=q qué pasa con Papá ?
+*FAT:	&=q quieres que lo quite yo ?
+*FAT:	pero bueno .
+*FAT:	&=q y qué hago con el reloj ?
+*FAT:	&=q lo guardo ya ?
+*FAT:	&=q sí ?
+*FAT:	lo guardo yo .
+*FAT:	toma .
+*FAT:	&=q qué hacen ?
+*FAT:	&=q hacen un tren ?
+*FAT:	&=q y los niños también hacen un tren ?
+*FAT:	&=q sí ?
+*FAT:	&=q se caen ?
+*FAT:	a ver .
+*FAT:	< pon los > [//] si los ponemos bien no .
+*FAT:	o sí .
+*FAT:	uh@i .
+*FAT:	pues sí se caen .
+*FAT:	ah no .
+*FAT:	mira .
+*FAT:	voy a ver si hay alguna señora más arriba .
+*FAT:	bueno .
+*FAT:	arriba o aquí abajo .
+*FAT:	mira .
+*FAT:	están aquí el niño pastor y el ojo morado .
+*FAT:	y la coleta también está .
+*FAT:	voy a ver si hay otra señora más arriba .
+*FAT:	vete poniéndo los en el tren todos .
+*MOT:	hola , Juan .
+*MOT:	&=q qué haces ?
+*MOT:	&=q qué haces ?
+*MOT:	&=q la qué ?
+*MOT:	&=q la qué ?
+*FAT:	&=q qué quieres ?
+*FAT:	sí .
+*FAT:	si es que he ido a ver si veía señoras arriba .
+*FAT:	pero no había ninguna arriba .
+*FAT:	estos deben de ser los que tenemos localizados ahora .
+*FAT:	mira .
+*FAT:	y esto es para que coman las vacas .
+*FAT:	claro .
+*FAT:	xxx ahí las vacas a ver qué comen . [+ NON]
+*FAT:	toma .
+*FAT:	&=q y el niño pastor ?
+*FAT:	ten cuidado .
+*FAT:	&=q dónde está el niño pastor ?
+*FAT:	&=q le tienes tú ?
+*FAT:	mira .
+*FAT:	el ternerillo tiene que llamar lo porque no va a comer .
+*FAT:	a ver cómo le dice para que vaya el ternero .
+*FAT:	eso dice el ternero .
+*FAT:	&=q pero el niño pastor qué le dice ?
+*FAT:	ternero .
+*FAT:	a comer .
+*FAT:	venga .
+*FAT:	a ver si lo lleva .
+*FAT:	muy bien .
+*FAT:	mira .
+*FAT:	&=q un tren ?
+*FAT:	como el de Juan .
+*FAT:	&=q falta un niño ? [+ ADS]
+*FAT:	&=q falta un señor ?
+*FAT:	&=q qué señor falta ?
+*FAT:	&=q el de la barca ?
+*FAT:	el de la barca no falta .
+*FAT:	0 .
+*FAT:	pero Juan .
+*FAT:	&=q qué has hecho con los señores ?
+*FAT:	cógelos , anda .
+*FAT:	< pon los > [//] .
+*FAT:	pon los en la alfombra .
+*FAT:	que están fríos .
+*FAT:	pero pon los en la alfombra , Juan .
+*FAT:	que está frío el suelo .
+*FAT:	0 .
+*FAT:	luego van a venir Lucas y Gonzalo .
+*FAT:	ven .
+*FAT:	vamos a jugar .
+*FAT:	a ver .
+*FAT:	&=q qué querías ?
+*FAT:	&=q jugar con las piezas ahora ?
+*FAT:	&=q sí ?
+*FAT:	pues [//] pero [x 5] vaya cisco que has montado .
+*FAT:	&=q dónde has tirado los señores ?
+*FAT:	ven aquí , anda .
+*FAT:	&=q qué tienes ?
+*FAT:	< a ver > [/] a ver .
+*FAT:	no guardes ahí las cosas , Juan .
+*FAT:	venga .
+*FAT:	vamos a guardar los señores .
+*FAT:	&=q guardamos los señores ?
+*FAT:	&=q sí ?
+*FAT:	&=q recogemos la barca también ?
+*FAT:	la barca la vamos a guardar arriba .
+*FAT:	&=q te parece ?
+*FAT:	mejor que aquí abajo .
+*FAT:	la barca y el helicóptero que ya tienen las piececitas las guardamos arriba .
+*FAT:	en tu habitación .
+*FAT:	&=q vale ?
+*FAT:	&=q sí ?
+*FAT:	oye .
+*FAT:	&=q y qué pasa con estos señores ?
+*FAT:	&=q quién los ha tirado ?
+*FAT:	&=q y quién los está recogiendo ?
+*FAT:	&=q te parece bien ?
+*FAT:	es que a mí no me parece bien &=q &-eh ?
+*FAT:	venga .
+*FAT:	&=q quieres jugar con las piezas entonces ?
+*FAT:	pues venga .
+*FAT:	coge las piezas .
+*FAT:	a ver .
+*FAT:	cuidado .
+*FAT:	no pises .
+*FAT:	a ver .
+*FAT:	aba@x [//] &=e a ver !
+*FAT:	écha las ahí .
+*FAT:	&=q vamos a quitar primero los señores ?
+*FAT:	qué raro .
+*FAT:	oye .
+*FAT:	trae aquellas piezas .
+*FAT:	que las tiene ahí muy lejos .
+*FAT:	&=q vas a hacer un castillo con la puerta abierta ? [+ COR]
+*FAT:	&=q quieres hacer una casa con la puerta abierta ?
+*FAT:	&=q y con escaleras también ?
+*FAT:	&=q has hecho un barco velero ?
+*FAT:	pues sí que es bonito , sí .
+*FAT:	tururú@o .
+*FAT:	&=q qué estás haciendo ?
+*FAT:	&=q &-eh , Juan ?
+*FAT:	&=q qué estás haciendo ?
+*FAT:	&=q estás haciendo un barco ?
+*FAT:	&=q estás haciendo un barco , Juan ?
+*FAT:	pero bueno .
+*FAT:	pero qué barco tan grandísimo .
+*FAT:	hala@i .
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q qué ha pasado con el barco , amigo ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué ha pasado con el barco , Juan ?
+*FAT:	&=q qué ha pasado con el barco , &-eh ?
+*FAT:	mira , Juan .
+*FAT:	una casa con la puerta abierta y con escaleras .
+*FAT:	&=q te gusta ?
+*FAT:	&=q ahora qué dices ?
+*FAT:	pero si ya está ahí la casa con la puerta abierta y con las escaleras .
+*FAT:	ahora lo que vamos a hacer es arriba una terracita .
+*FAT:	para que la gente que suba por las escaleras pueda descansar .
+*FAT:	&=q te parece bien ?
+*FAT:	&=q no quieres una terraza para descansar ?
+*FAT:	una terraza verde .
+*FAT:	&=q no quieres terraza ?
+*FAT:	pero [//] pues entonces sí quieres .
+*FAT:	pues espérate .
+*FAT:	es que para ahí arriba +//.
+*FAT:	cuidado .
+*FAT:	que se te cae .
+*FAT:	sí .
+*FAT:	pero mira .
+*FAT:	si la ponemos +//.
+*FAT:	espera [x 2] .
+*FAT:	< pero si la ponemos ahí arriba > [/] mira .
+*FAT:	si la ponemos así es mejor porque así pueden llegar con las escaleras .
+*FAT:	si la ponemos ahí arriba se puede romper .
+*FAT:	&=q entiendes ?
+*FAT:	&=q no lo entiendes ?
+*FAT:	claro .
+*FAT:	mira .
+*FAT:	ya verás .
+*FAT:	así pueden llegar todos juntos por las escaleras .
+*FAT:	así .
+*FAT:	y ahí están +//.
+*FAT:	&=q quieres un castillo ?
+*FAT:	bueno .
+*FAT:	pues ponemos [//] esto en vez de ser una terraza ponemos que es un torreón .
+*FAT:	&=q lo subimos más alto todavía (.) el torreón ?
+*FAT:	&=q así ?
+*FAT:	con una banderola .
+*FAT:	y ahora ponemos la entrada del castillo por aquí .
+*FAT:	&=q hacemos la entrada del castillo ?
+*FAT:	&=q sí ?
+*FAT:	&=q cómo quieres hacer la ?
+*FAT:	&=q grande o pequeña ?
+*FAT:	&=q qué haces tú ?
+*FAT:	mira que entrada más chula .
+*FAT:	en l@l .
+*FAT:	una entrada en l@l .
+*FAT:	y podemos juntar la entrada por las escaleras .
+*FAT:	y así quien quiera puede subir arriba .
+*FAT:	desde la entrada se puede subir al torréon .
+*FAT:	&=q tú eres muy fuerte ?
+*FAT:	&=q < muy fuerte > [/] muy fuerte ?
+*FAT:	&=q qué has hecho con el moco ?
+*FAT:	&=q qué has hecho con el moco ?
+*FAT:	a ver .
+*FAT:	mocosón@f .
+*FAT:	mira .
+*FAT:	&=q ves qué bien ?
+*FAT:	< mira la entrada > [/] mira la entrada al castillo .
+*FAT:	por aquí .
+*FAT:	&=q te gusta la entrada en l@l ?
+*FAT:	es una entrada en una esquina .
+*FAT:	claro .
+*FAT:	es una entrada en l@l .
+*FAT:	porque somos unos chulos .
+*FAT:	ahora fíjate .
+*FAT:	desde la entrada se puede ir hasta aquí abajo .
+*FAT:	mira [x 2] .
+*FAT:	< por su > [//] mira .
+*FAT:	este niño .
+*FAT:	sube < por aquí por aquí por aquí por aquí por aquí por aquí por aquí por aquí por aquí > [/] por aquí .
+*FAT:	está aquí en la terraza .
+*FAT:	luego sube < por aquí por aquí por aquí > [/] por aquí al torreón .
+*FAT:	luego va < por aquí por aquí por aquí por aquí por aquí > [/] por aquí y ya está en la entrada .
+*FAT:	y ahora aquí se tira por el tobogán .
+*FAT:	por este tobogancito uah@i aquí al suelo .
+*FAT:	&=q te parece bien ?
+*FAT:	&=q sí ?
+*FAT:	&=q ponemos aquí otra terracita ?
+*FAT:	encima de la l@l , sí .
+*FAT:	con esta pieza a:sí .
+*FAT:	no .
+*FAT:	esa no que es la escalera , cariño .
+*FAT:	con esta la ponemos así .
+*FAT:	qué bonita queda así .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	y ya está .
+*FAT:	ahora hay que centrar [?] la así . [+ NON]
+*FAT:	queda muy aparente .
+*FAT:	uh@i .
+*FAT:	toma otro niño .
+*FAT:	que suba por las escaleras .
+*FAT:	&=q y yo este ?
+*FAT:	&=q sí ?
+*FAT:	glup@o .
+*FAT:	te estás tirando unos pedorretes (.) triunfales .
+*FAT:	&=q &-eh , Juan ?
+*FAT:	mira .
+*FAT:	esta niña la dejamos aquí .
+*FAT:	&=q te parece bien ?
+*FAT:	aquí sentada .
+*FAT:	&=q vale ?
+*FAT:	tomando el aire (.) en la terracita .
+*FAT:	&=q ponemos otra niña con ella ?
+*FAT:	&=q sí ?
+*FAT:	&=q esa ?
+*FAT:	pues venga .
+*FAT:	pon esa .
+*FAT:	&=q ahí arribotas@f ?
+*FAT:	hala@i qué bien .
+*FAT:	dónde has sentado al +/.
+*FAT:	mira .
+*FAT:	&=q y aquí ?
+*FAT:	hala@i .
+*FAT:	qué valiente ahí .
+*FAT:	que se puede caer .
+*FAT:	es una niña muy valiente .
+*FAT:	&=q &-eh ?
+*FAT:	&=q pero [x 3] qué has hecho ?
+*FAT:	&=q qué has hecho ?
+*FAT:	&=q como que “pero se cae” ?
+*FAT:	si lo has tirado tú .
+*FAT:	pero Juan .
+*FAT:	0 .
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q qué pasó detrás ?
+*FAT:	&-eh .
+*FAT:	0 .
+*FAT:	&=q qué ha pasado ?
+*FAT:	pero bueno este melón (.) de la melonería .
+*FAT:	uy@i qué niño tan pequeñito .
+*FAT:	hola .
+*FAT:	oye .
+*FAT:	&=q qué tienes aquí ?
+*FAT:	&=q te cuento un cuento de un pajarito ?
+*FAT:	&=q una nube ?
+*FAT:	helicóptero .
+*FAT:	chu@o [x 6] .
+*FAT:	mira .
+*FAT:	entra por la puerta que tiene forma de l@l .
+*FAT:	se esconden .
+*FAT:	está jugando al escondite .
+*FAT:	mira cómo se esconden .
+*FAT:	hala@i .
+*FAT:	juegan al escondite .
+*FAT:	&=q juegan al escondite los niños ?
+*FAT:	venga .
+*FAT:	&=q a ver dónde se esconden ?
+*FAT:	mira qué sitio más bueno para esconder se .
+*FAT:	bueno .
+*FAT:	y aquí también se esconden .
+*FAT:	&=q pero < todos ahí se van a > [//] todos se van a esconder ahí , Juan ?
+*FAT:	no .
+*FAT:	todos no .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	aquí hay otro escondite .
+*FAT:	mira .
+*FAT:	y aquí hay otro .
+*FAT:	mira .
+*FAT:	y hay una niña escondida ahí .
+*FAT:	mira ahí debajo .
+*FAT:	ya verás cómo la ves .
+*FAT:	está escondida .
+*FAT:	xxx .
+*FAT:	oh .
+*FAT:	no puedo .
+*FAT:	mira .
+*FAT:	se tumba así y desde abajo no le ven .
+*FAT:	y está escondido también .
+*FAT:	venga .
+*FAT:	&=q qué más sitios hay para esconder se ?
+*FAT:	mira .
+*FAT:	aquí detrás .
+*FAT:	xxx tampoco . [+ NON]
+*FAT:	todos estos están aquí muy juntos .
+*FAT:	les van a descubrir .
+*FAT:	venga .
+*FAT:	&=q y quién la liga ?
+*FAT:	&=q la liga el niño este ?
+*FAT:	&=q sí ?
+*FAT:	&=q sí ?
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	va a buscar a los niños .
+*FAT:	cógelo tú .
+*FAT:	que vaya a buscar a todos los niños .
+*FAT:	a ver si los encuentras .
+*FAT:	&=q qué le dice ?
+*FAT:	te pillé .
+*FAT:	y se va a buscar a otro .
+*FAT:	&=q a otro ha pillado ?
+*FAT:	está poco locuaz Juan hoy &=q &-eh ?
+*FAT:	&=q a otro ha pillado ?
+*FAT:	venga .
+*FAT:	a ver si pilla más .
+*FAT:	&=e mira !
+*FAT:	a otro ha pillado .
+*FAT:	&=e y a otro !
+*FAT:	pero bueno .
+*FAT:	pero sin pegar .
+*FAT:	&=q otro ha pillado ? [+ ADS]
+*FAT:	&=q sí ?
+*FAT:	te pillé . [+ COR]
+*FAT:	&=q luego vamos a jugar tú y yo al escondite ?
+*FAT:	&=q sí ?
+*FAT:	&=q te vas a esconder y yo te voy a buscar ?
+*FAT:	&=q y al revés ?
+*FAT:	&=q sí ?
+*FAT:	&=q has pillado a otro ?
+*FAT:	&=q ha pillado al niño pastor ?
+*FAT:	con cuidado que lo tiras todo .
+*FAT:	escaramujo .
+*FAT:	&=e hala@i !
+*FAT:	pero hombre .
+*FAT:	hay que tener cuidado , Juan .
+*FAT:	&=q y ahora quién los coge de ahí abajo ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q quién los coge de ahí debajo ?
+*FAT:	pues no me parece nada bien porque es un rollo coger las cosas de debajo del sofá .
+*FAT:	no está bien eso &=q &-eh ?
+*FAT:	0 .
+*FAT:	&=q ahí no va ?
+*FAT:	&=q no ?
+*FAT:	&=q no va ?
+*FAT:	&=q qué ?
+*FAT:	&=q quieres ver a Juan ?
+*FAT:	pero si no está ahora Juan .
+*FAT:	vamos a guardar la cámara .
+*FAT:	di le adiós a Javier .

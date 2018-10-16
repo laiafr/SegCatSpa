@@ -1,0 +1,440 @@
+*FAT:	&=q qué hace la excavadora , Juan ?
+*FAT:	&=q qué hace ?
+*MOT:	&=q está trabajando ? [+ COR]
+*MOT:	&=q está trabajando la excavadora ?
+*MOT:	&=q qué coche ?
+*MOT:	&=q la sirena ?
+*MOT:	&=q dónde está la sirena ?
+*FAT:	ah , el coche con la sirena .
+*FAT:	no sé dónde está .
+*MOT:	a lo mejor está allí .
+*MOT:	vete a buscar lo al comercio .
+*FAT:	&=q sí ?
+*FAT:	&=q has encontrado el coche con la sirena ?
+*FAT:	&=q qué quieres ?
+*FAT:	&=q que juguemos juntos ?
+*FAT:	&=q cómo hace la sirena ?
+*FAT:	&=q cómo ?
+*FAT:	nino@o [x 2] .
+*FAT:	oye .
+*FAT:	&=q y el otro día vimos un coche con sirena ?
+*FAT:	&=q que era ?
+*FAT:	una +...
+*FAT:	una ambulancia .
+*FAT:	&=q y [x 2] dónde íbamos nosotros ?
+*FAT:	&=q dónde ibas montado tú ?
+*FAT:	&=q dónde ibas montado ?
+*FAT:	en la +...
+*FAT:	&=q en qué ibas montando ?
+*FAT:	en la +...
+*FAT:	no .
+*FAT:	&=q tú ibas montado en qué ?
+*FAT:	no .
+*FAT:	tú no ibas en coche .
+*FAT:	ibas montado en una bi@x +...
+*MOT:	nada .
+*FAT:	&=q quién pedaleaba ?
+*FAT:	&=q quién te llevaba el otro dia ?
+*FAT:	Papá: .
+*FAT:	tú ibas en la bicicleta .
+*FAT:	no te muevas .
+*FAT:	íbamos en la bicicleta .
+*FAT:	&=q no te acuerdas ?
+*FAT:	un tractor que está trillando viste el otro día . [+ COR]
+*FAT:	claro .
+*FAT:	cuando íbamos en la bicicleta .
+*FAT:	< y hacía > [/] &=q cómo hacía el tractor ?
+*FAT:	daba vueltas .
+*FAT:	&=q qué hacía ?
+*FAT:	&=q hacía vueltas ?
+*FAT:	daba vueltas &=q verdad ? [+ COR]
+*FAT:	sí .
+*FAT:	&=q cómo las hacía ?
+*FAT:	&=q las hacía en cuadrados ?
+*FAT:	&=q así ?
+*FAT:	no .
+*FAT:	&=q cómo las hacía ?
+*FAT:	en +...
+*FAT:	en redondo .
+*FAT:	sí .
+*FAT:	&=q y en medio qué había ?
+*FAT:	cuando trillaba el tractor .
+*FAT:	&=q qué había en medio ?
+*FAT:	&=q que había en medio ?
+*FAT:	no .
+*FAT:	era [//] &=q te acuerdas lo que era ?
+*FAT:	era amarillo .
+*FAT:	&=q era ?
+*FAT:	era amarillo .
+*FAT:	no .
+*FAT:	era paja .
+*FAT:	&=q te acuerdas ?
+*FAT:	que había un señor con un +...
+*FAT:	rastrillo .
+*FAT:	y otro señor con el tractor dando vueltas .
+*FAT:	el señor del rastrillo cogía la paja y hacía chgu@o .
+*FAT:	&=q te acuerdas ?
+*FAT:	y lo tiraba al alto .
+*FAT:	&=q sí ?
+*FAT:	estuvimos un rato .
+*FAT:	&=q verdad ?
+*FAT:	y el día de la sirena qué xxx montados . [+ NON]
+*FAT:	&=q sentadito en el tractor ? [+ COR]
+*FAT:	&=q tú ?
+*FAT:	&=q grandes , el tractor ?
+*FAT:	sí .
+*MOT:	tenía ruedas grandes .
+*MOT:	&=q verdad , Juan ?
+*MOT:	el tractor tiene ruedas grandes .
+*FAT:	pero el tractor que vimos ahí abajo .
+*FAT:	&=q te acuerdas del tractor que vimos ahí abajo ?
+*FAT:	&=q qué hacía ?
+*FAT:	hacía cemento .
+*FAT:	el tractor que vimos ahí abajo hacía cemento .
+*FAT:	&=q te acuerdas ?
+*FAT:	&=q quieres hacer caca ?
+*FAT:	&=q si ?
+*FAT:	&=q cómo que allí ?
+*FAT:	espérate que te voy a poner a hacer caca .
+*FAT:	&=q al ajedrez ?
+*FAT:	no .
+*FAT:	no puede ser .
+*FAT:	oye [x 2] .
+*FAT:	&=q me vas a contar un cuento como el que me contaste ayer ?
+*FAT:	&=q sí ?
+*FAT:	a ver .
+*FAT:	&=q cómo era ?
+*FAT:	era un cuento en el que había +..?
+*FAT:	&=q había pájaros ?
+*FAT:	&=q y qué más había ?
+*FAT:	&=q qué más había ?
+*FAT:	&=q un +..?
+*FAT:	&=q una mariposa ?
+*FAT:	&=q y qué hacía la mariposa ?
+*FAT:	vuela como la abuela .
+*FAT:	&=q y qué más había en el cuento ?
+*FAT:	&=q había +..?
+*FAT:	&=q ratones ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q y qué hacían los ratones ?
+*FAT:	&=q miau@o [x 2] como los gatos ?
+*FAT:	&=q sí ?
+*FAT:	&=q y qué hacían los gatos entonces ?
+*FAT:	&=q también tigres había en el cuento ?
+*FAT:	&=q y qué más cosas había ?
+*FAT:	&=q una feria también ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q Mónica estaba también ?
+*FAT:	&=q la prima ?
+*FAT:	&=q y qué más ?
+*FAT:	y Juan .
+*FAT:	&=q y qué hacían Juan y Mónica ?
+*FAT:	&=q jugaban en los cacharritos de la feria ?
+*FAT:	&=q sí ?
+*FAT:	&=q y a qué jugábais ?
+*FAT:	< en la otra > [//] en otra feria ?
+*FAT:	&=q y qué había ?
+*FAT:	&=q qué cacharritos había ?
+*FAT:	&=q pero qué cacharritos había ?
+*FAT:	&=q sólo uno ?
+*FAT:	&=q cuál ?
+*FAT:	&=q de un león ?
+*FAT:	&=q y la mariposa qué hacía ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q el león qué hacía ?
+*FAT:	&=q y asustaba a la mariposa ?
+*FAT:	&=q le daba susto a la mariposa ?
+*FAT:	&=q no ?
+*FAT:	&=q no le daba susto a la mariposa ?
+*FAT:	&=q sí ?
+*FAT:	&=q le daba susto a la mariposa ?
+*FAT:	&=q y qué hacía la mariposa ?
+*FAT:	ta@o .
+*FAT:	&=q y se iba volando ?
+*FAT:	&=q le hacía así al león ?
+*FAT:	0 .
+*FAT:	&=q y se iba volando ?
+*FAT:	&=q sí ?
+*FAT:	&=q o le hacía así ?
+*FAT:	tururú@o .
+*FAT:	y se iba volando .
+*FAT:	&=q como le hacía ?
+*FAT:	&=q chillar ? [+ ADS]
+*FAT:	&=q chillaba ? [+ COR]
+*FAT:	&=q la mariposa chillaba ?
+*FAT:	&=q cómo chillaba ?
+*FAT:	ih@i .
+*FAT:	&=q y se iba volando ?
+*FAT:	ay@i qué bien .
+*FAT:	&=q y mientras tanto Juan y Mónica jugaban en un cacharrito ?
+*FAT:	&=q &-eh , Juan ?
+*FAT:	&=q y cómo era el cacharrito ?
+*FAT:	&=q < así de grande > [/] eras así de grande ?
+*FAT:	&=q sí ?
+*FAT:	&=q y había más niños ?
+*FAT:	&=q sí había más niños ?
+*FAT:	&=q había tazas ?
+*FAT:	&=q y se sentaban los niños en las tazas ?
+*FAT:	&=q sí ?
+*FAT:	&=q y qué más hacían ?
+*FAT:	&=q jugar al ajedrez ? [+ ADS]
+*FAT:	&=q jugaban al ajedrez ? [+ COR]
+*FAT:	&=q como el ratón de Susanita ?
+*FAT:	&=q sí ?
+*FAT:	&=q cómo hacía el ratón ?
+*FAT:	Susanita tiene un +...
+*FAT:	un ratón +...
+*FAT:	que come chocolate y +...
+*FAT:	y bolitas de +...
+*FAT:	bien: .
+*FAT:	&=q quién te canta la canción esa ?
+*FAT:	&=q quién te la canta ?
+*FAT:	Mamá la canta mucho &=q verdad ?
+*FAT:	y ya has aprendido a jugar .
+*FAT:	&=q qué quieres ?
+*FAT:	&=q esta pieza ?
+*FAT:	&=q quieres coger otra pieza ?
+*FAT:	no [x 2] sé qué otra pieza , Juan .
+*FAT:	&=q se ha roto ? [+ COR]
+*FAT:	&=q lo vas a poner ?
+*FAT:	&=q que lo ponga su mamá ?
+*FAT:	&=q pero quién es la Mamá del [//] de la furgoneta , Juan ?
+*FAT:	&=q quién es la mamá de la furgoneta ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q quién es la mamá de la furgoneta ?
+*FAT:	&=q hay ruedas ?
+*FAT:	&=q cuántas hay ?
+*FAT:	&=q cuántas ruedas hay ?
+*FAT:	&=q lo quieres meter ?
+*FAT:	&=q dónde ?
+*FAT:	&=q se ha roto ?
+*FAT:	&=q lo quieres poner en la rueda ?
+*FAT:	está ahí .
+*FAT:	&=q no lo ves ?
+*FAT:	< míralo ahí abajo > [/] míralo ahí abajo .
+*FAT:	&=q a ver cómo lo pones en la rueda ?
+*FAT:	&=q gol ?
+*FAT:	&=q cómo que gol ?
+*FAT:	pero no se puede abrir , Juan .
+*FAT:	&=q < lo has > [/] lo has metido aquí dentro ?
+*FAT:	ya no se puede sacar .
+*FAT:	mira .
+*FAT:	se ha caído .
+*FAT:	&=q dónde estás sentado ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q un +..?
+*FAT:	&=q cómo [x 3] ?
+*FAT:	&=q un +..?
+*FAT:	ah .
+*FAT:	eso es la cámara .
+*FAT:	no [x 2] .
+*FAT:	esto [x 2] .
+*FAT:	&=q qué es esto ?
+*FAT:	como que una cámara .
+*FAT:	no .
+*FAT:	es un co@x +...
+*FAT:	uy@i [x 3] .
+*FAT:	un cojín .
+*FAT:	&=q no está ?
+*FAT:	&=q has perdido la pieza otra vez ?
+*FAT:	es que es muy pequeña la pieza .
+*FAT:	&=q &-eh , Juan ?
+*FAT:	&=q me cuentas un cuento para dormir ?
+*FAT:	cuénta me un cuento para dormir .
+*FAT:	&=q qué hace el conejo blanco ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué hace el conejo ?
+*FAT:	&=q se va ?
+*FAT:	&=q a dónde se va ?
+*FAT:	&=q a dónde se va ?
+*FAT:	el conejo blanco .
+*FAT:	sí .
+*FAT:	&=q a dónde se va ?
+*FAT:	&=q a dónde se va ?
+*FAT:	&=q a los caballos ?
+*FAT:	&=q qué más ?
+*FAT:	&=q otro caballo ?
+*FAT:	&=q viene un señor en un caballo ?
+*FAT:	&=q tiene ?
+*FAT:	&=q tiene gatitos el señor ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q sí no ?
+*FAT:	&=q ese no tiene gratitos ?
+*FAT:	&=q el conejo blanco tiene gatitos ?
+*FAT:	&=q quién tiene gatitos ?
+*FAT:	&=q el otro señor ?
+*FAT:	&=q tiene gatitos ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q andan ?
+*FAT:	&=q tiene +..?
+*FAT:	&=q tiene zapatos ?
+*FAT:	&=q andan ?
+*FAT:	&=q con zapatos andan los gatos ?
+*FAT:	&=q como El_Gato_Con_Botas ?
+*FAT:	&=q estaba con el conejo blanco El_Gato_Con_Botas ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q un beso y a dormir ?
+*FAT:	venga .
+*FAT:	pues un beso y a dormir .
+*FAT:	&=q hay un charco ?
+*FAT:	&=q quién ha caído al charco ?
+*FAT:	&=q la jirafa ?
+*FAT:	&=q quién se tiró ?
+*FAT:	&=q el caballo se tiró pumba@o ?
+*FAT:	&=q sí ?
+*FAT:	pumba@o .
+*FAT:	pumba@o .
+*FAT:	&=q tiró la pared ?
+*FAT:	&=q quién tiró la pared ?
+*FAT:	catapum@o .
+*FAT:	&=q quién tiró la pared ?
+*FAT:	&=q la jirafa ?
+*FAT:	&=q pero no es una cabra la del cuento del pequeño conejo blanco ?
+*FAT:	&=q qué ha tirado ? [+ COR]
+*FAT:	&=q el caballo ?
+*FAT:	&=q se ha tirado del caballo ?
+*FAT:	&=q quieres contar lo ?
+*FAT:	cuénta lo .
+*FAT:	a ver .
+*FAT:	&=q cómo ?
+*FAT:	&=q a casa del caballo ?
+*FAT:	&=q < viene o@x > [/] viene otro ?
+*FAT:	&=q y qué le dice ?
+*FAT:	&=q qué le dice ?
+*FAT:	&=q le hace daño ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q un avión ?
+*FAT:	&=q echa fuego ?
+*FAT:	ah .
+*FAT:	&=q como un dragón ?
+*FAT:	&=q echa fuego ?
+*FAT:	&=q por dónde echa fuego ?
+*FAT:	&=q por la boca ?
+*FAT:	&=q como los dragones ?
+*FAT:	&=q se cae al charco ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q echa agua ?
+*FAT:	&=q sí ?
+*FAT:	&=q echa agua ?
+*FAT:	así [x 2] .
+*FAT:	&=q a qué coche ?
+*FAT:	&=q el señor se va ?
+*FAT:	&=q se va a casita ?
+*FAT:	&=q pon me agua y pon me pan ?
+*FAT:	ah .
+*FAT:	&=q come agua y come pan ?
+*FAT:	&=q quién come agua y quién come pan ?
+*FAT:	&=q tú ?
+*FAT:	&=q todo [x 3] te comes ?
+*FAT:	qué bien .
+*FAT:	te vas a hacer un niño muy mayor (.) y muy grande .
+*FAT:	&=q tú sólo ?
+*FAT:	&=q yogur sólo ?
+*FAT:	&=q tú ?
+*FAT:	&=q hay un pozo ?
+*FAT:	&=q en el cuento hay un pozo ?
+*FAT:	&=q un bocadillo ?
+*FAT:	&=q un caballo lleva señores ?
+*FAT:	&=q a cuántos ?
+*FAT:	&=q ocho señores lleva el caballo ?
+*FAT:	cuántos señores son &-eh .
+*FAT:	son muchos .
+*FAT:	&=q tiene orejas ?
+*FAT:	&=q el caballo tiene orejas ?
+*FAT:	a ver si va a ser +//.
+*FAT:	a ver si va a ser un burro , Juan .
+*FAT:	&=q es un caballo o es un burro ?
+*FAT:	&=q es un burro ?
+*FAT:	&=q tiene orejas ?
+*FAT:	tiene orejas como el burro .
+*FAT:	el burro tiene orejas .
+*FAT:	grandes orejas .
+*FAT:	&=q la señora también tiene orejas ?
+*FAT:	qué bien .
+*FAT:	&=q agua sólo ?
+*FAT:	&=q qué pasa con el agua ?
+*FAT:	&=q tú ?
+*FAT:	&=q un nene ?
+*FAT:	&=q qué le pasa al nene ?
+*FAT:	&=q le han hecho daño ?
+*FAT:	&=q quién le hace daño ?
+*FAT:	&=q otros nenes ?
+*FAT:	diez niños .
+*FAT:	&=q siete niños ?
+*FAT:	&=q a casa ?
+*FAT:	&=q van al charco ?
+*FAT:	&=q y qué hacen en el charco ?
+*FAT:	&=q hacen encinas ?
+*FAT:	&=q qué son las encinas , Juan ?
+*FAT:	son árboles .
+*FAT:	&=q para subir ?
+*FAT:	para hacer un columpio .
+*FAT:	como el otro día &=q verdad ?
+*FAT:	que hicimos un columpio en una encina .
+*FAT:	&=q y Juan se columpió ahí ?
+*FAT:	&=q ya no te columpias ?
+*FAT:	&=q bajas por el tobogán ?
+*FAT:	&=q quién baja por el tobogán ?
+*FAT:	&=q Juan ?
+*FAT:	&=q tú ?
+*FAT:	&=q tú te tiras (.) por el columpio [//] tobogán ? [+ COR]
+*FAT:	&=q tiras arena ?
+*FAT:	&=q cuando pasas por el lado del montón de arena que hay abajo ?
+*FAT:	&=q y juegas allí ?
+*FAT:	&=q con qué juegas allí ?
+*FAT:	&=q con Mónica ?
+*FAT:	&=q con la prima ?
+*FAT:	&=q y con qué más juegas ?
+*FAT:	&=q juegas al castillo con un cubo ? [+ COR]
+*FAT:	y una pala también . [+ COR]
+*FAT:	a jugar también . [+ ADS]
+*FAT:	claro .
+*FAT:	muchas cosas , sí .
+*FAT:	un balón .
+*FAT:	parece un balón &=q verdad ?
+*FAT:	la lámpara de esta habitación parece un balón .
+*FAT:	un balón para jugar .
+*FAT:	&=q dos balones tienes ?
+*FAT:	&=q al charco los balones ?
+*FAT:	vaya .
+*FAT:	&=q un perro ?
+*FAT:	&=q qué hace el perro ?
+*FAT:	&=q hace caca un perro ?
+*FAT:	&=q otro perro también hace caca ?
+*FAT:	&=q ese cuento qué cuento es ?
+*FAT:	&=q qué cuento es ese ?
+*FAT:	&=q quién bebe agua ?
+*FAT:	&=q los conejos ? [+ COR]
+*FAT:	&=q quién tiene tetas ?
+*FAT:	&=q Juan tiene tetas ?
+*FAT:	&=q y quién más ?
+*FAT:	&=q quién ha llegado ?
+*FAT:	&=q un lobo ?
+*FAT:	&=q dónde está el lobo ?
+*FAT:	no .
+*FAT:	no es un lobo , Juan .
+*FAT:	&=q es un +..?
+*FAT:	es un perro .
+*FAT:	voy a encender la luz .
+*FAT:	&=q vale , Juan ?
+*FAT:	uy@i .
+*FAT:	&=q < no vas a dormir la siesta ya > [/] &-eh no vas a dormir la siesta ya ?
+*FAT:	&=q ya no vas a dormir la siesta ?
+*FAT:	&=q cómo ?
+*FAT:	&=q llueve ?
+*FAT:	&=q dónde llueve ?
+*FAT:	&=q llueve fuera ?
+*FAT:	&=q llueve mucho ?
+*FAT:	&=q hace ruido la lluvia ?
+*FAT:	&=q una caca ?
+*FAT:	&=q pero ese cuento qué cuento es ?
+*FAT:	&=q el cuento de quién ?
+*FAT:	el cuento del topo .
+*FAT:	< Juan Apellido > [/] Juan Apellido .
+*FAT:	&=q no vas a dormir entonces la siesta ya hoy ?
+*FAT:	&=q qué hay ?
+*FAT:	&=q qué hay ?
+*FAT:	venga .
+*FAT:	vamos a dejar esto .
+*FAT:	no se ve .
+*FAT:	no .

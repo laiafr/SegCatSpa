@@ -1,0 +1,606 @@
+*FAT:	ven .
+*FAT:	ven , Juan .
+*FAT:	vamos a hacer una casa , anda .
+*FAT:	ven .
+*FAT:	siéntate aquí en la manta , anda .
+*FAT:	< siéntate > [/] siéntate .
+*FAT:	&=q el otro tractor quieres ? [+ COR]
+*FAT:	Juan .
+*FAT:	&=q < con quién estuviste ayer > [/] con quién estuviste ayer ?
+*FAT:	&=q y con quién más ?
+*FAT:	&=q estuviste con la Yaya ayer ?
+*FAT:	&=q estuviste con la Yaya ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q y con el Avi ? [+ COR]
+*FAT:	&=q estuviste ayer con la Yaya y con el Avi ?
+*FAT:	&=q sí ?
+*FAT:	&=q < qué hace@x > [/] qué haces , Juan ?
+*FAT:	a ver .
+*FAT:	&=q que está roto ?
+*FAT:	&=q quieres correr ?
+*FAT:	&=q con los tractores ?
+*FAT:	bueno .
+*FAT:	ahora no , Juan .
+*FAT:	que acabamos de desayunar .
+*FAT:	hoy es el día en el que cuando nos hemos vestido resulta que no había pañales .
+*FAT:	a que no había pañales hoy .
+*FAT:	no había .
+*FAT:	&=q a que no ?
+*FAT:	Juan a como los niños mayores .
+*FAT:	tienes un bañador , sí .
+*FAT:	&=q con un conejo ?
+*FAT:	anda .
+*FAT:	mira qué trae Mamá .
+*FAT:	&=q es Teo ?
+*MOT:	&=q es Teo ?
+*MOT:	&=q lo vas a leer ?
+*MOT:	&=q se lo lees a los papás ?
+*MOT:	&=q < se lo dejas a > [//] uh@i xxx . [+ NON]
+*MOT:	venga .
+*MOT:	vamos a ver lo .
+*MOT:	&=q Papá ?
+*MOT:	vale .
+*FAT:	&=q sí ?
+*FAT:	a ver .
+*MOT:	&=q qué hay ahí ?
+*FAT:	mira .
+*FAT:	< este es Teo > [/] este es Teo .
+*FAT:	&=q dónde está Teo ?
+*FAT:	&=q y qué hace ?
+*FAT:	&=q está comiendo ? [+ COR]
+*FAT:	&=q y qué comerá , Juan ?
+*FAT:	&=q qué come ?
+*FAT:	&=q judías+verdes ?
+*MOT:	&=q judías+verdes come ?
+*FAT:	muy bien .
+*FAT:	pues judías+verdes .
+*MOT:	&=q y con quién está ?
+*MOT:	&=q con quién está ?
+*MOT:	&=q quién es este ?
+*MOT:	ese no es Teo .
+*MOT:	este [x 2] es Teo .
+*MOT:	&=q quién es este ?
+*MOT:	otro niño , &=q no ?
+*MOT:	&=q un amiguito de Teo ?
+*MOT:	&=q sí ?
+*FAT:	&=q y también come judias+verdes el amiguito ?
+*MOT:	&=q qué hay ahí ?
+*MOT:	&=q qué ?
+*MOT:	&=q adónde está el perro ?
+*MOT:	anda .
+*MOT:	es verdad .
+*MOT:	ah .
+*MOT:	un perro .
+*FAT:	&=q y qué hace el perro , Juan ?
+*FAT:	sí .
+*FAT:	&=q pero qué está haciendo ahí ?
+*FAT:	&=q está: corriendo ?
+*FAT:	&=q está corriendo ?
+*FAT:	&=q ah , sí ?
+*FAT:	&=q cómo ?
+*FAT:	&=q qué has dicho ?
+*MOT:	tiene manos .
+*FAT:	&=q tiene manos ?
+*MOT:	tiene manos .
+*MOT:	&=q y qué más tiene , &-eh ?
+*MOT:	&=q la mamá de Teo ? [+ COR]
+*MOT:	&=q dónde está la mamá de Teo ?
+*MOT:	ese es Teo .
+*MOT:	pero su mamá todavía no está .
+*MOT:	una señora . [+ COR]
+*FAT:	&=q una señora ?
+*MOT:	otra señora .
+*FAT:	otra señora .
+*MOT:	otra señora que se va de la tienda ya &=q verdad ?
+*MOT:	fue a comprar y se va .
+*MOT:	&=q a que sí ?
+*MOT:	&=q un señor ?
+*FAT:	&=q y qué hace ese señor ?
+*FAT:	&=q qué hace ?
+*MOT:	&=q está comiendo ?
+*FAT:	&=q qué come ?
+*FAT:	&=q judías+verdes también ?
+*MOT:	pero bueno , judías+verdes .
+*FAT:	bueno .
+*MOT:	anda .
+*MOT:	&=q y ahí dónde están ?
+*FAT:	&=q qué hacen aquí ?
+*MOT:	tobogán .
+*FAT:	&=q qué hace en el tobogán ?
+*FAT:	&=q qué hace , Juan ?
+*FAT:	&=q qué hace el niño ?
+*MOT:	&=q qué hace el niño ?
+*MOT:	va a bajar , claro . [+ COR]
+*MOT:	va a bajar del tobogán .
+*MOT:	&=q y qué más ?
+*MOT:	y ahora va la nena , claro .
+*MOT:	ahora le toca a la nena .
+*FAT:	primero el niño y luego la nena , claro .
+*MOT:	&=q y qué está haciendo la nena ?
+*MOT:	está subiendo .
+*MOT:	&=q y qué mas hay ahí en el parque ?
+*MOT:	a ver .
+*MOT:	&=q qué más hay ?
+*FAT:	&=e mira !
+*MOT:	&=q qué es esto ?
+*MOT:	mira [x 2] .
+*MOT:	mira aquí .
+*MOT:	un patinete . [+ COR]
+*FAT:	un patinete . [+ COR]
+*MOT:	&=q y qué mas hay ?
+*MOT:	&=q qué hay encima del patinete ?
+*MOT:	una pelota . [+ COR]
+*FAT:	mira lo que le ha pasado a Teo .
+*MOT:	&=e ah !
+*FAT:	mira lo que le ha pasado .
+*FAT:	&=q qué le ha pasado ahí ?
+*FAT:	&=q qué le ha pasado ?
+*FAT:	&=q se ha hecho daño ? [+ COR]
+*FAT:	< &=q qué le ha pasado en el pantalón > [/] &=q qué le ha pasado en el pantalón , Juan ?
+*FAT:	&=q con la mano ?
+*FAT:	no .
+*FAT:	&=q pero qué le ha pasado ahí en el pantalón ?
+*FAT:	&=q se ha +..?
+*FAT:	&=q se ha +..?
+*FAT:	se ha roto , Juan .
+*FAT:	claro .
+*FAT:	se ha roto el pantalón . [+ COR]
+*FAT:	mira .
+*FAT:	ahí+va .
+*FAT:	&=e y aquí en la arena !
+*FAT:	&=q qué hacen los niños en la arena ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q y qué hace el canmión ?
+*FAT:	&=q qué hace el camión ?
+*FAT:	&=q qué hace ?
+*MOT:	0 .
+*FAT:	ahora viene .
+*FAT:	&=q qué hace el camión , Juan ?
+*FAT:	corre , sí . [+ COR]
+*FAT:	&=q pero < qué pero qué > [/] qué lleva ?
+*FAT:	&=q lleva una pala ?
+*FAT:	&=q y qué más lleva el camión ?
+*MOT:	0 .
+*FAT:	&=e mira !
+*FAT:	&=q qué hay aquí , Juan ?
+*FAT:	&=e una carretilla !
+*MOT:	&=e una carretilla !
+*FAT:	muy bien .
+*FAT:	&=q y el nene con qué juega ?
+*FAT:	con una pala . [+ COR]
+*FAT:	un cubo .
+*FAT:	&=q < y a@x> [/] y aquí la nena ?
+*FAT:	con un rastrillo .
+*FAT:	&=e hala@i qué tienda !
+*FAT:	&=q qué hay en la tienda ?
+*FAT:	&=q qué hay ?
+*FAT:	&=q hay tijeras ?
+*FAT:	&=q dónde están ?
+*FAT:	ah , sí .
+*FAT:	ahí están las tijeras .
+*FAT:	&=q y para qué sirven ?
+*FAT:	otra vez .
+*FAT:	&=q para qué sirven las tijeras ?
+*FAT:	&=q para cortar qué ?
+*FAT:	para cortar la señora , claro .
+*FAT:	&=q y qué más ?
+*FAT:	&=q a Juan qué le cortamos con las tijeras ?
+*FAT:	&=q qué le cortamos con las tijeras a Juan ?
+*FAT:	el pelo de la cabeza . [+ COR]
+*FAT:	&=q sí ?
+*FAT:	&=q quién te lo corta el pelo de la cabeza ?
+*FAT:	&=q una señora ? [+ COR]
+*FAT:	&=e ah !
+*FAT:	mira .
+*FAT:	&=q qué hay aquí ?
+*FAT:	&=q qué tiene el niño ?
+*FAT:	un gorro . [+ COR]
+*FAT:	sí: .
+*FAT:	&=q y aquí qué hay ?
+*FAT:	&=q va a cenar el niño ? [+ COR]
+*FAT:	&=q &-eh ?
+*FAT:	&=q va a cenar ?
+*FAT:	qué bien .
+*FAT:	y mira .
+*FAT:	&=q qué han hecho aquí ?
+*FAT:	cortando papeles .
+*FAT:	&=q y qué han hecho cortando papeles ?
+*FAT:	mira .
+*FAT:	&=q son +..?
+*FAT:	chicos .
+*FAT:	sí .
+*MOT:	muñecos .
+*FAT:	muñecos .
+*FAT:	muñecos de papel , sí .
+*FAT:	&=e hala@i !
+*FAT:	&=q y ahora qué hacen ?
+*MOT:	están echando el pez en la bañera .
+*FAT:	&=q y qué hay aquí en la bañera ?
+*FAT:	&=q qué hay ?
+*FAT:	un grifo , sí .
+*FAT:	&=q y está saliendo el +..?
+*FAT:	agua .
+*FAT:	&=q y qué hace el niño ?
+*FAT:	&=q mete la mano ?
+*MOT:	tiene un barco .
+*FAT:	otro barco , sí .
+*FAT:	&=q y qué hace el pez ?
+*FAT:	&=q y qué hace el pez ?
+*FAT:	&=q nada ?
+*FAT:	&=q y la niña qué hace ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué hace la niña ?
+*FAT:	uy@i .
+*FAT:	no corre .
+*FAT:	se está mirando en un espejo .
+*FAT:	&=q Juan se mira en un espejo alguna vez ?
+*FAT:	&=q te miras alguna vez en un espejo ?
+*FAT:	&=q y qué dices ?
+*FAT:	mira .
+*FAT:	&=q < qué ha pasado aquí > [/] qué ha pasado aquí ?
+*FAT:	&=q están echando agua ? [+ COR]
+*MOT:	se ha salido toda de la bañera .
+*FAT:	mira .
+*FAT:	menos mal que un pez está en la pecera .
+*FAT:	&=q y qué hace el niño ?
+*FAT:	&=q qué pasa ahora ?
+*FAT:	&=q qué pasa ahora , Juan ?
+*FAT:	es Papá sí .
+*FAT:	&=q qué hace Papá ?
+*FAT:	&=q qué hace Papá ?
+*MOT:	&=q tiene un bañador ?
+*FAT:	&=q qué están haciendo en el suelo , Juan ?
+*FAT:	&=q una cama están haciendo ?
+*FAT:	una cama , sí .
+*MOT:	y una pelota .
+*FAT:	&=q y el niño qué hace ?
+*FAT:	&=q qué hace Teo ?
+*FAT:	&=q &-eh ?
+*MOT:	un gorro aquí .
+*MOT:	&=q verdad ?
+*MOT:	un gorro .
+*FAT:	&=q y qué hace Teo , Juan ?
+*MOT:	&=q está pintando ? [+ COR]
+*MOT:	está pintando .
+*MOT:	&=q y este quién es ?
+*MOT:	&=q y qué lleva aquí encima ?
+*MOT:	una toalla .
+*MOT:	pues vaya .
+*MOT:	hala@i .
+*MOT:	&=q qué está pasando ahí ?
+*MOT:	&=q qué ha pasado con Teo ?
+*MOT:	&=q cómo está ?
+*FAT:	como está todo el cuento con chuches .
+*MOT:	&=q &-eh ?
+*FAT:	está todo el cuento con cucherías .
+*MOT:	sí .
+*MOT:	ha estado comiendo chucherías y mira ahora lo que le pasa .
+*MOT:	está malito .
+*MOT:	está malito .
+*MOT:	está vomitando .
+*MOT:	está vomitando , sí .
+*FAT:	mira .
+*FAT:	&=q y aquí qué hace el nene ?
+*MOT:	&=q está dibujando una casa ?
+*MOT:	mira .
+*MOT:	ahora están malitos los dos .
+*MOT:	mira [x 2] .
+*MOT:	&=q qué les duele ?
+*MOT:	&=q les duele +..?
+*MOT:	&=q < dónde se tocan > [/] dónde se tocan ?
+*MOT:	la barriga .
+*MOT:	&=q y sabes por qué se la tocan ?
+*MOT:	porque les duele .
+*MOT:	&=q dónde [x 2] hay un coche ?
+*FAT:	aquí , mira .
+*FAT:	es amarillo , sí .
+*FAT:	&=q qué hace el coche ?
+*FAT:	&=q cómo hace el coche ?
+*FAT:	a ver .
+*FAT:	hala@i .
+*FAT:	ya se ha acabado .
+*MOT:	mira .
+*FAT:	y colorín+colorado este cuento +//.
+*FAT:	&=q ahora tú ?
+*FAT:	a ver .
+*FAT:	cuénta selo a Mamá .
+*MOT:	a ver .
+*MOT:	&=q me lo cuentas ?
+*FAT:	&=q se lo cuentas a Mamá ?
+*MOT:	ven aquí .
+*MOT:	siéntate aquí y me lo cuentas .
+*FAT:	venga .
+*FAT:	siéntate aquí .
+*MOT:	aquí venga .
+*MOT:	va .
+*MOT:	&=q a ver qué pasa ?
+*MOT:	cuénta me .
+*MOT:	&=q qué es lo que pasa ?
+*MOT:	cuénta melo .
+*MOT:	presénta me quién hay aquí .
+*MOT:	Juan .
+*MOT:	&=q qué vas a hacer ?
+*MOT:	&-eh [x 2] .
+*MOT:	&=q < dónde vas > [/] dónde vas , Juan ?
+*MOT:	cuidado que te caes .
+*FAT:	&=q está ahí Juan ?
+*FAT:	sí .
+*FAT:	di le hola a Mamá .
+*FAT:	di le hola .
+*FAT:	ay@i .
+*FAT:	ya no está Juan .
+*FAT:	&=q dónde está Juan ?
+*FAT:	&=q dónde está Juan ?
+*FAT:	claro .
+*FAT:	&=q qué es eso , Juan ?
+*FAT:	&=q qué es eso de ahí ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q qué es eso ?
+*FAT:	< una (.) cámara > [/] una cámara .
+*FAT:	&=q qué es eso ?
+*FAT:	una +...
+*FAT:	una cámara .
+*FAT:	venga .
+*FAT:	no [x 5] .
+*FAT:	no se toca .
+*FAT:	no se toca nada .
+*FAT:	no se toca nada , Juan .
+*MOT:	Juan .
+*MOT:	siéntate y enséña me el libro .
+*FAT:	venga .
+*FAT:	enséña le a Mamá el libro .
+*FAT:	&=q te voy haciendo una casa mientras tanto ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q te voy haciendo una casa mientras tanto ?
+*MOT:	a ver .
+*MOT:	venga , Juan .
+*MOT:	está del revés .
+*MOT:	colóca lo bien .
+*FAT:	claro [x 2] .
+*MOT:	está del revés , sí .
+*MOT:	así .
+*MOT:	a ver .
+*MOT:	&=q qué pasa ahí ?
+*MOT:	&=q dónde están ?
+*MOT:	&=q qué hay ahí ?
+*MOT:	&=q papeles ?
+*MOT:	&=q y qué más ?
+*FAT:	&=q qué hacen ?
+*FAT:	oye .
+*FAT:	&=q con el pie ?
+*MOT:	no , Juan .
+*FAT:	&=q qué hace Andros ?
+*FAT:	&=q qué hace Andros , Juan ?
+*FAT:	el perro .
+*FAT:	&=q qué hace el perro ?
+*FAT:	ya .
+*FAT:	&=q pero cómo se llama eso ?
+*FAT:	sí .
+*FAT:	&=q qué hace Andros ?
+*FAT:	&=q qué hace ?
+*FAT:	está +...
+*FAT:	no .
+*FAT:	no está comiendo .
+*FAT:	está +...
+*FAT:	la@x +...
+*FAT:	la::dran::do .
+*MOT:	&=e una luna tiene ese niño !
+*MOT:	pero bueno .
+*MOT:	&=q < qué hace qué hace > [/] qué hace Teo con la luna ?
+*MOT:	porque es Teo quien tiene la luna .
+*MOT:	mira [x 2] .
+*MOT:	&=q lo ves ?
+*FAT:	&=q qué hace Teo con la luna , Juan ?
+*MOT:	&=q qué hace ahí con la luna Teo ?
+*FAT:	pero bueno .
+*FAT:	estoy haciendo unas escaleras .
+*FAT:	&=q te gustan las escaleras ?
+*FAT:	&=q tú las vas a hacer ?
+*FAT:	&=q a ver cómo las haces ?
+*MOT:	&=q dónde las pones ?
+*MOT:	es que se pone muy mal , Juan .
+*MOT:	&=q te ayudo ?
+*MOT:	ya , toma .
+*MOT:	&=q y ahora dónde quieres poner la ?
+*MOT:	&=q aquí las ponemos ?
+*MOT:	&=q te ayudo otra vez ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q qué quieres , el coche ?
+*FAT:	&=q hacemos [x 2] un garage ?
+*FAT:	&=q sí ?
+*FAT:	&=q dónde hay más ?
+*FAT:	cógelos .
+*MOT:	&=q me lo das ?
+*MOT:	&=q < qué haces qué haces > [/] qué haces ?
+*FAT:	&=q por dónde va el coche , Juan ?
+*FAT:	&=e uy@i !
+*MOT:	pero bueno .
+*MOT:	&=q qué haces con Mamá ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q un cariñito ?
+*MOT:	&=q me vas a dar un abrazo ?
+*MOT:	&=q cantamos ?
+*MOT:	&=q qué vamos a cantar ?
+*MOT:	&=q cantamos o no cantamos ?
+*MOT:	&=q un garage ?
+*FAT:	&=q un garage ?
+*MOT:	venga .
+*MOT:	&=q te hace Papá un garage ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q te hace Papá un garage ?
+*MOT:	venga .
+*MOT:	vamos a ver si nos hace Papá un garage .
+*FAT:	el tren de Matías chu@o [x 3] .
+*FAT:	corre por las vías chucuchucuchu@o .
+*MOT:	&=q qué haces , cariño ?
+*FAT:	mira .
+*FAT:	la entrada del garage .
+*FAT:	&=q te gusta ?
+*FAT:	&=q a ver ?
+*FAT:	sí .
+*MOT:	muy bien .
+*MOT:	sí entra .
+*FAT:	&=q dónde están los otros coches ?
+*FAT:	&=q a ver cuántos coches hay que meter en el garage ?
+*FAT:	&=q qué hace la señora de ese coche ?
+*FAT:	&=q qué hace la señora ?
+*FAT:	&=q < a ver el coche a ver el coche a ver el coche > [/] a ver el coche , Juan ?
+*FAT:	&=q qué hace la señora ?
+*FAT:	&=q qué hace la señora ?
+*MOT:	por ahí entra .
+*MOT:	por ahí .
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué hace la señora , Juan ?
+*FAT:	está +...
+*MOT:	&=q está durmiendo ? [+ COR]
+*MOT:	pero si va conduciendo , &=q no ?
+*MOT:	&=q cómo va a estar durmiendo ?
+*MOT:	está despierta .
+*FAT:	&=q < qué tal conduce > [/] qué tal conduce Juan ?
+*FAT:	&=q conduces bien ?
+*FAT:	&=q cómo conduces ?
+*FAT:	&=q a ver cómo conduces ?
+*MOT:	&=q cómo te pones ?
+*MOT:	&=q así ?
+*MOT:	&=q para conducir ?
+*FAT:	&=q qué más cosas haces bien ?
+*FAT:	&=q sabes tocar el saxofón también ?
+*FAT:	&=q sabes tocar el saxofón ?
+*FAT:	&=q sí ?
+*FAT:	&=q a ver cómo tocas el saxofón ?
+*FAT:	tutururu@o .
+*FAT:	&=q y la trompeta ?
+*FAT:	&=q cómo se toca la trompeta ?
+*FAT:	tutururu@o .
+*FAT:	&=q qué mas sabes tocar ?
+*FAT:	&=q la tompeta ?
+*FAT:	sí .
+*FAT:	&=q qué más ?
+*MOT:	&=q la trompeta ?
+*MOT:	&=q y qué más , cariño ?
+*MOT:	pero Juan .
+*FAT:	ay@i qué modosito está hoy .
+*MOT:	está pendiente .
+*MOT:	sabe que está puesto .
+*MOT:	sabe que la cámara .
+*MOT:	sí .
+*FAT:	pues si quieres lo dejamos .
+*MOT:	&=q qué pasa , mimitos ?
+*MOT:	&=q qué te pasa ?
+*MOT:	&=q cantamos a la luna ?
+*MOT:	venga .
+*MOT:	luna lu@x .
+*MOT:	&=q no le cantamos a la luna ?
+*FAT:	mira qué bien están los coches en el garage , Juan .
+*FAT:	&=q qué hacemos ?
+*MOT:	hala@i qué garaje más grande .
+*FAT:	fíjate .
+*FAT:	probamos a ver si cabe un tractor también .
+*FAT:	venga .
+*FAT:	trae un tractor .
+*MOT:	pero uno pequeñito .
+*MOT:	&=q dónde están los pequeñitos ?
+*FAT:	el pequeño .
+*FAT:	< está ahí > [/] está ahí el pequeño .
+*MOT:	mira .
+*MOT:	&=q este ?
+*MOT:	este no va a caber &=q &-eh ?
+*FAT:	este no cabe &=q verdad ?
+*FAT:	tenemos que cambiar la entrada del garage porque si no no cabe el tractor .
+*FAT:	< a ver > [/] a ver .
+*MOT:	ahora sí .
+*MOT:	a ver si cabe ahora .
+*MOT:	sí .
+*MOT:	ahora casi [x 2] .
+*MOT:	el grande no cabe , Juan .
+*FAT:	el grande no cabe .
+*MOT:	el grande no cabe ahí .
+*MOT:	mira .
+*MOT:	ni [x 3] para entrar < ni para llen@x > [//] ni para terminar de meter se .
+*FAT:	el grande no cabe , Juan .
+*FAT:	no [x 3] .
+*FAT:	que rompes todo el garage .
+*MOT:	no cabe .
+*MOT:	no cabe , hombre .
+*MOT:	ese chiquitito sí .
+*FAT:	hombre , relativamente , la verdad .
+*FAT:	tenemos que hacer una [x 2] puerta .
+*MOT:	ahí cabe .
+*MOT:	&=q el qué ?
+*FAT:	a correr . [+ ADS]
+*FAT:	xxx .
+*MOT:	venga .
+*MOT:	vale .
+*MOT:	venga .
+*MOT:	va .
+*MOT:	desde aquí .
+*MOT:	&-eh .
+*MOT:	desde aquí .
+*MOT:	venga .
+*MOT:	venga .
+*MOT:	a ver .
+*MOT:	preparados .
+*MOT:	ponte ahí .
+*MOT:	venga .
+*MOT:	ponte aquí .
+*MOT:	preparados .
+*MOT:	listos .
+*MOT:	&=e venga !
+*MOT:	que voy .
+*MOT:	venga .
+*MOT:	preparados listos &=e ya !
+*FAT:	&=e hala@i !
+*MOT:	ahora te toca .
+*MOT:	bien .
+*MOT:	casi [x 2] me adelantas .
+*MOT:	&=q me toca otra vez ?
+*MOT:	venga .
+*MOT:	los dos a la vez .
+*MOT:	preparados +...
+*MOT:	&=e ya !
+*MOT:	&=q < qué ha pasado > [/] qué ha pasado ?
+*MOT:	xxx .
+*MOT:	&=q dónde ha llegado ?
+*MOT:	&=q a la puerta ?
+*MOT:	no creo .
+*MOT:	xxx .
+*MOT:	&=e ah !
+*MOT:	que se chocan .
+*FAT:	mira , Juan .
+*FAT:	ya he terminado el garage .
+*FAT:	mira .
+*MOT:	a ver si entra ahora .
+*MOT:	mira a ver si entra .
+*MOT:	pi@o [x 2] .
+*FAT:	a ver .
+*FAT:	&=e hala@i !
+*MOT:	uy@i .
+*MOT:	casi [x 2] que no entra .
+*MOT:	yo creo que sí .
+*MOT:	oh .
+*MOT:	que yo creo que no entra .
+*FAT:	entonces lo subimos un poquito más .
+*MOT:	que no entra todavía .
+*MOT:	todavía no entra .
+*MOT:	mecachis .
+*MOT:	ahora ya sí .
+*MOT:	mira , Juan .
+*MOT:	ahora ya sí .
+*FAT:	&=e hala@i !
+*MOT:	&=e entró !
+*FAT:	&=q a casa ?
+*FAT:	&=q dónde vas ?
+*MOT:	0 .
+*MOT:	&=e ese no entra , Juan !
+*MOT:	no .
+*MOT:	no entra .
+*MOT:	es muy grande .
+*FAT:	claramente no entra .
+*MOT:	Juan [x 3] .
+*FAT:	Juan .
+*MOT:	lo estás destrozando .
+*MOT:	pero qué borrico eres .
+*FAT:	hala@i .
+*MOT:	mira qué ha pasado .
+*MOT:	Juan [x 2] .
+*MOT:	que < vas a > [/] vas a tirar lo .

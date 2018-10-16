@@ -1,0 +1,402 @@
+*MOT:	voy [x 3] .
+*FAT:	&=q qué quieres abrir ?
+*FAT:	&=q qué es esto ?
+*FAT:	&=q dónde quieres meter esos señores ?
+*MOT:	yo creo que debías guardar lo .
+*FAT:	< mira a ver si los puedes > [/] mira a ver si los puedes abrir tú .
+*FAT:	a ver .
+*FAT:	&=q qué es ?
+*MOT:	&=q sí ?
+*MOT:	&=q qué quieres hacer ?
+*MOT:	ah .
+*MOT:	&=q quieres abrir esto ?
+*FAT:	mira [x 2] .
+*FAT:	espera .
+*FAT:	mira .
+*FAT:	da me un dedito aquí .
+*FAT:	mira aquí .
+*FAT:	un dedito .
+*FAT:	mira .
+*FAT:	así .
+*MOT:	para arriba .
+*MOT:	&=q así ?
+*MOT:	venga .
+*MOT:	&=q y ahora a qué vamos a jugar ?
+*MOT:	&=q o < te quieres > [//] quieres que volvamos a pedir ?
+*MOT:	&=q a ver qué te pides ?
+*MOT:	&=q indios ?
+*MOT:	nidios@c .
+*FAT:	&=q te pides indios ?
+*MOT:	venga .
+*MOT:	vamos a ver los .
+*MOT:	di le a Papá todo lo que has visto aquí .
+*MOT:	&=q vale ?
+*MOT:	&=q cómo ?
+*FAT:	yo me tumbo aquí y tú me dices a ver qué es lo que te has pedido de ahí .
+*FAT:	oye , Juan .
+*FAT:	que ya estamos en Noviembre .
+*FAT:	falta muy poco para el tío .
+*FAT:	hay que meter lo ahí y hay que dar lo de comer .
+*MOT:	es verdad .
+*MOT:	eso se hace en +//.
+*FAT:	ahora .
+*MOT:	en la Pura &=q no ?
+*FAT:	no .
+*FAT:	ahora .
+*MOT:	para la Pura ya tenemos que poner el árbol .
+*MOT:	para el ocho o el nueve de diciembre .
+*FAT:	o el veinte .
+*MOT:	o el veinte .
+*FAT:	bueno .
+*FAT:	a ver .
+*FAT:	qué pides .
+*MOT:	&=q qué te vas a pedir ?
+*MOT:	&=q un volante ? [+ ADS]
+*FAT:	&=q qué es eso de un volante ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué estás haciendo ?
+*MOT:	colocando .
+*MOT:	estamos muy ordenaditos .
+*FAT:	&=q qué estás haciendo ?
+*MOT:	&=q qué haces , Juan ?
+*FAT:	&=q colocando los señores ? [+ ADS]
+*FAT:	&=q y dónde los colocas ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q dónde los colocas ?
+*MOT:	así no , Juan .
+*MOT:	así no .
+*MOT:	con la ruedecita .
+*MOT:	claro .
+*MOT:	no .
+*MOT:	así no .
+*MOT:	tirando no , Juan .
+*MOT:	así .
+*MOT:	mira .
+*MOT:	0 .
+*MOT:	pues haz lo tú .
+*FAT:	no puede él .
+*MOT:	&=q no puede ?
+*MOT:	&=q ese va muy duro ?
+*FAT:	sí .
+*MOT:	pues venga .
+*MOT:	yo te ayudo .
+*MOT:	&=q quieres que te ayude ?
+*MOT:	&=q &-eh ?
+*FAT:	oye , Juan .
+*FAT:	&=q qué película has visto ayer (.) en el cine con Papá ?
+*FAT:	&=q con Mamá también ?
+*MOT:	yo no fui , cariño .
+*MOT:	yo no sé de qué va la peli .
+*MOT:	y el caso es que me ha dicho Lari que se la has contado enterita .
+*MOT:	y a mí no me has contado nada de nada .
+*MOT:	a ver .
+*MOT:	&=q cómo era la película ?
+*MOT:	&=q de qué iba ?
+*MOT:	&=q de príncipes ? [+ ADS]
+*MOT:	&=q y qué más había ?
+*MOT:	&-eh .
+*MOT:	cuénta mela .
+*MOT:	&=q había caballos ?
+*FAT:	llamas . [+ ADS]
+*MOT:	&=q se llama llamas ? [+ ADS]
+*MOT:	mm@i .
+*MOT:	esa era las que salían antes con el Avi .
+*FAT:	las llamas .
+*FAT:	no .
+*FAT:	y la llama protagonista se llamaba +...
+*FAT:	&=q cómo se llamaba ?
+*FAT:	&=q cómo se llamaba la llama ?
+*FAT:	Cuz@x +...
+*FAT:	Cuzco .
+*FAT:	mira [x 2] .
+*FAT:	di le a Mamá .
+*MOT:	&=e cuidado [x 2] , Juan !
+*MOT:	cuidado [x 2] .
+*MOT:	a la fuerza no .
+*FAT:	señoras y señores +...
+*FAT:	0 .
+*FAT:	atención [x 2] .
+*FAT:	a este niño le ha tocado +...
+*FAT:	un jamón .
+*FAT:	ah y nos hemos venido todo el rato riendo .
+*FAT:	&=q verdad ?
+*FAT:	en el coche .
+*FAT:	a que sí .
+*FAT:	mira qué bien .
+*FAT:	con las dos manos .
+*FAT:	&=q qué llevas , la camilla ahí ?
+*FAT:	oh .
+*FAT:	madre+mía .
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué llevas , la camilla ahí ?
+*MOT:	es que le estás dando al revés .
+*MOT:	para recoger la tienes que dar le al revés .
+*MOT:	a ver .
+*MOT:	espera , cariño .
+*MOT:	no .
+*MOT:	así no .
+*MOT:	había que dar le para acá .
+*MOT:	así recoges .
+*MOT:	para allá .
+*MOT:	para ti .
+*MOT:	&=q vale ?
+*MOT:	venga .
+*MOT:	da le .
+*MOT:	así [x 2] .
+*MOT:	para ti .
+*MOT:	muy bien .
+*MOT:	así .
+*MOT:	espera .
+*MOT:	&=q ves ?
+*MOT:	ya está .
+*FAT:	hala@i qué bien .
+*FAT:	&=q ahí está colgando , no ?
+*MOT:	tirando no , Juan .
+*MOT:	tirando no que se rompe .
+*MOT:	vas a romper la camilla .
+*FAT:	así .
+*FAT:	muy bien .
+*FAT:	bueno .
+*FAT:	a ver .
+*FAT:	&=q qué pasaba en la película ayer ?
+*FAT:	que no nos has contado nada .
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué pasaba ?
+*FAT:	está poco locuaz hoy &=q &-eh ?
+*MOT:	Juan .
+*MOT:	no me has contado a mí la peli .
+*MOT:	&=q por qué no ?
+*MOT:	yo quiero saber de qué iba .
+*MOT:	&=q vas a ir un día a ver la conmigo ?
+*MOT:	&=q sí ?
+*FAT:	mira .
+*FAT:	mañana podéis ir si queréis .
+*MOT:	&=q no puedes , cariño ?
+*MOT:	a ver .
+*MOT:	&=q pero qué quieres hacer con eso ?
+*MOT:	&=q qué quieres ?
+*MOT:	&=q subir la ?
+*MOT:	pero tenemos que dar la al revés .
+*MOT:	para allá .
+*MOT:	para ti .
+*MOT:	venga .
+*MOT:	a ver .
+*MOT:	para ti .
+*MOT:	así .
+*MOT:	muy bien .
+*MOT:	mira [x 2] cómo sube ya .
+*MOT:	así .
+*MOT:	pero deja lo que tienes en la mano y lo harás mejor .
+*MOT:	así ahora .
+*MOT:	&=q ves cómo sube ahora ?
+*MOT:	uy@i .
+*MOT:	está un poco descompensada .
+*MOT:	Juan .
+*MOT:	oye .
+*MOT:	&=q qué has hecho en la guarde hoy ?
+*MOT:	&=q Juan ?
+*MOT:	&=q has hecho pis en el váter ?
+*MOT:	&=q y qué más ?
+*MOT:	&=q y qué más has hecho ?
+*MOT:	&=q habéis cantado ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q habéis cantado una canción ?
+*MOT:	&=q &-eh , Juan ?
+*MOT:	&=q habéis cantado una canción en la guarde ?
+*MOT:	&=q y qué canción ?
+*MOT:	a ver .
+*MOT:	cánta me una .
+*MOT:	a ver .
+*MOT:	&=q cuál es la de los enanitos ?
+*MOT:	cánta mela .
+*MOT:	venga .
+*MOT:	cuando la barba .
+*FAT:	< a ver > [/] a ver .
+*MOT:	< a ver > [/] a ver .
+*MOT:	venga .
+*FAT:	< a ver > [/] a ver .
+*MOT:	sí .
+*MOT:	cuando la barba .
+*MOT:	&=q qué ?
+*MOT:	sigue .
+*MOT:	se te ha olvidado .
+*MOT:	a ver .
+*MOT:	yo te la recuerdo .
+*MOT:	pero yo no sé cantar la .
+*MOT:	yo no sé la música .
+*FAT:	ahí .
+*FAT:	los enanitos .
+*MOT:	< aquí está > [/] aquí está .
+*MOT:	cuando el sol se pone en el horizonte los enanitos juegan en el bosque .
+*MOT:	&=q y ahora qué ?
+*MOT:	muy larga la barba .
+*MOT:	muy rojo el vestido .
+*MOT:	los enanitos juegan sin hacer ruido .
+*MOT:	&=q así es ?
+*FAT:	&=q y cómo +//?
+*MOT:	&=q y cómo se canta ?
+*MOT:	a ver .
+*MOT:	cánta la .
+*MOT:	salta [x 3] +...
+*MOT:	y ríe .
+*FAT:	ja@o [x 3] .
+*MOT:	ah .
+*MOT:	saltan ríen ja@o [x 3] .
+*MOT:	y luego como sigue .
+*FAT:	muy larga la barba .
+*FAT:	muy rojo el +...
+*FAT:	los +...
+*FAT:	juegan sin +...
+*FAT:	trala@o .
+*MOT:	tralalai@o [x 3] .
+*MOT:	&=q cómo es ?
+*MOT:	&=q cómo es ?
+*FAT:	&=q cómo es ?
+*FAT:	&=q a ver cómo es ?
+*FAT:	&=q a ver ?
+*FAT:	&=q pero a ver cómo es ?
+*FAT:	tralaí@o .
+*FAT:	tralalalá@o .
+*FAT:	&=e saltan [x 3] ríen ja@o [x 3] !
+*FAT:	&=q y cuál más ?
+*MOT:	mira .
+*MOT:	yo me sé esta .
+*MOT:	yo me sé esta , Juan .
+*MOT:	cuando el reloj marca la una .
+*MOT:	los esqueletos salen de la tumba .
+*MOT:	tumba catatumba catatumbalé@o .
+*FAT:	&=q no ?
+*FAT:	&=q esa no te gusta ?
+*MOT:	&=q no ?
+*MOT:	y mira .
+*MOT:	esta también me la sé yo .
+*MOT:	los pollitos dicen pío@o [x 3] .
+*FAT:	dicen pío@o [x 3] .
+*MOT:	dicen pío@o [x 3] .
+*MOT:	pues vaya .
+*FAT:	él a lo suyo .
+*MOT:	el uno es un soldado haciendo la instrucción .
+*MOT:	el dos es un patito que está tomando el sol .
+*MOT:	el tres una serpiente que no para de bailar .
+*MOT:	y el cuatro es una silla que invita a descansar .
+*MOT:	xxx .
+*MOT:	y esta también la dice algunas veces .
+*MOT:	los pajaritos que van por el cielo .
+*FAT:	vuelan [x 3] .
+*MOT:	bueno .
+*MOT:	no nos quieres cantar ninguna canción por lo que veo &=q no ?
+*FAT:	así se va a caer y se va a romper .
+*FAT:	se va a caer y se va a romper .
+*MOT:	pues sí .
+*MOT:	y Juan se queda sin él .
+*MOT:	mm@i .
+*FAT:	&=q se ha quitado el gorro ?
+*MOT:	&=q todos no caben ?
+*FAT:	&=q quieres un caramelo ?
+*FAT:	no hombre .
+*FAT:	si vamos a cenar en+seguida .
+*FAT:	&=q qué toca hoy ?
+*FAT:	&=q ducha o baño ?
+*FAT:	pero si la ducha está guay .
+*FAT:	&=q hoy toca baño ?
+*FAT:	&=q sí ?
+*FAT:	&=q y quién te baña hoy ?
+*FAT:	&=q Mamá o Papá ?
+*FAT:	&=q te bañas tú solo hoy ?
+*FAT:	&=q sí ?
+*FAT:	pero bueno .
+*FAT:	&=q entonces ya eres mayor ?
+*FAT:	&=q y qué te vas a llevar a la bañera ?
+*FAT:	&=q la barca y el barco ? [+ ADS]
+*FAT:	&=q y qué más ?
+*MOT:	pero si no cabe el barco .
+*FAT:	&=q y qué más ?
+*FAT:	esa es el ancla , sí .
+*FAT:	&=q te vas a llevar el ancla también ?
+*FAT:	mira lo que ha pasado por tirar .
+*FAT:	&=q qué ha pasado ?
+*FAT:	&=q &-eh ?
+*FAT:	trae que lo arregla Papá .
+*FAT:	trae que lo arreglo yo .
+*FAT:	ah .
+*FAT:	&=q lo vas a arreglar tú ?
+*FAT:	nada .
+*FAT:	de espaldas otra vez .
+*FAT:	al revés , Juan .
+*FAT:	&-eh , cachirulo .
+*FAT:	&-eh , cachirulo .
+*FAT:	pero bueno .
+*FAT:	si está aquí el señor del ojo morado .
+*FAT:	bueno .
+*FAT:	&=q qué ?
+*FAT:	&=q vas a arreglar el ancla o no ?
+*FAT:	&=q cuándo ?
+*FAT:	&=q ahora ?
+*FAT:	&=q mañana ?
+*MOT:	&=e uy@i , casi !
+*FAT:	uy@i .
+*FAT:	casi lo enhebras .
+*FAT:	&=q y qué quieres que haga ?
+*FAT:	&=q que lo arregle yo ?
+*FAT:	déjame .
+*FAT:	anda .
+*FAT:	bueno .
+*FAT:	pero < si la > [//] si quieres que la enhebre me tienes que cantar una canción .
+*FAT:	a ver .
+*FAT:	&-eh , cuidado .
+*FAT:	a ver qué canción me cantas .
+*FAT:	a los papás .
+*FAT:	a los dos nos cantas una canción .
+*FAT:	&=q con silla ?
+*FAT:	pero ahí sentado &=q &-eh ?
+*FAT:	no , aquí [x 3] .
+*FAT:	ahí no .
+*FAT:	aquí [x 3] .
+*FAT:	mejor aquí .
+*FAT:	que aquí te vemos muy bien .
+*FAT:	aquí [x 2] .
+*FAT:	un poco más cerca .
+*FAT:	eso es más lejos .
+*FAT:	más cerca de mí .
+*FAT:	a:quí .
+*FAT:	eso es .
+*FAT:	a:quí .
+*FAT:	venga .
+*FAT:	no .
+*FAT:	< pero así > [//] espera .
+*FAT:	así no podemos .
+*FAT:	a:sí .
+*FAT:	venga .
+*FAT:	siéntate ahí .
+*FAT:	y a ver < cómo nos bailas con silla > [//] cómo nos cantas con silla .
+*FAT:	a ver .
+*MOT:	&=q qué vas a cantar ?
+*FAT:	&-eh , amigo .
+*FAT:	&-eh .
+*FAT:	que hemos hecho un trato .
+*FAT:	tú cantas una canción y yo arreglo el ancla .
+*FAT:	a ver qué canción cantas .
+*FAT:	&=q esa canción ?
+*FAT:	&=q ya está ?
+*FAT:	pero cachirulo .
+*MOT:	no sabemos cuál es .
+*FAT:	&=q ya se ha acabado ?
+*FAT:	pero no me lo puedo creer .
+*MOT:	&=q cuál es esa canción ?
+*FAT:	ya está arreglada el ancla .
+*FAT:	sí .
+*FAT:	&=q y la canción ?
+*FAT:	a ver .
+*FAT:	&=q cuál es ?
+*FAT:	ya está .
+*FAT:	no tires más .
+*MOT:	Juan .
+*MOT:	ya no se puede tirar más &=q no ?
+*FAT:	que no tires más .
+*FAT:	lo vas a romper .
+*MOT:	ya no hay más .
+*MOT:	&=q no ves que ya no hay más cuerda ?
+*FAT:	Juan [x 2] .
+*MOT:	mira .
+*MOT:	ha descubierto la magia .
+*FAT:	0 .

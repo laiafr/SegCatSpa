@@ -1,0 +1,248 @@
+*FAT:	&=q el qué son ?
+*FAT:	&=q qué es ?
+*FAT:	&=q son pasas ?
+*FAT:	&=q son las últimas ?
+*MOT:	&=q sopa ahora , Lucía ?
+*MOT:	está supercaliente@f .
+*MOT:	no te va a gustar .
+*MOT:	no te gusta esto , Lucía .
+*MOT:	&=q qué te ha dicho Soco hoy , Lucía ?
+*MOT:	mm@i .
+*MOT:	&=q qué te ha dicho Soco hoy ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q no me lo cuentas ?
+*MOT:	&=q no me cuentas ?
+*MOT:	a ver .
+*MOT:	&=q qué ?
+*FAT:	&=q quién es ?
+*FAT:	sí .
+*FAT:	&=q quién es Yeli ?
+*FAT:	&=q quiénes son ?
+*FAT:	&=q son tus amiguitos ?
+*FAT:	&=q de quién es ?
+*FAT:	&=q dónde la guardamos ?
+*FAT:	&=q ahí ?
+*FAT:	vale .
+*FAT:	&=q qué es eso ?
+*FAT:	&=q y para quién es ?
+*FAT:	&=q cómo se pide ?
+*FAT:	&=q el qué ?
+*FAT:	&=e &-eh !
+*FAT:	&=q era para Papá o no ?
+*FAT:	&=q no ?
+*FAT:	no .
+*FAT:	para Mamá .
+*MOT:	no me apetece .
+*FAT:	vale .
+*FAT:	gracias .
+*FAT:	&=e uy@i !
+*FAT:	Lucía .
+*FAT:	me has engañado .
+*FAT:	&=q se han acabado las pasas ? [+ COR]
+*FAT:	&=q no hay ?
+*FAT:	Lucía .
+*FAT:	&=q te traes tu puzle nuevo ?
+*FAT:	venga .
+*MOT:	vale .
+*FAT:	&=q qué es eso ?
+*FAT:	&=q es tuyo ?
+*FAT:	&=q quién te lo ha regalado ?
+*FAT:	&=q Rosa ?
+*FAT:	me parece que no .
+*FAT:	&=q quién ha sido ?
+*FAT:	eso sí .
+*FAT:	Lucía .
+*FAT:	coge la tapa .
+*FAT:	anda .
+*FAT:	y vamos a guardar la bien .
+*FAT:	que si no se va a estropear el puzle .
+*FAT:	venga .
+*FAT:	coge la y la guardamos bien .
+*FAT:	venga , Lucía .
+*FAT:	antes de empezar a jugar .
+*FAT:	antes de empezar a jugar coge la tapa , Lucía .
+*FAT:	Lucía .
+*FAT:	coge la tapa , mi+amor .
+*FAT:	Lucía .
+*FAT:	&=q coges la tapa , por+favor ?
+*FAT:	&=q &-eh ?
+*FAT:	por+favor , mi+amor .
+*FAT:	venga .
+*FAT:	&=q me la das ?
+*FAT:	gracias .
+*FAT:	muy bien , Lucía .
+*FAT:	venga .
+*FAT:	vamos a hacer las piezas .
+*FAT:	a ver .
+*FAT:	&=q yo te digo un nombre y tú la pones ?
+*FAT:	a ver .
+*FAT:	la cacerola .
+*FAT:	&=q a ver dónde está ?
+*FAT:	&=e no !
+*FAT:	esa es la pecera .
+*FAT:	&=q dónde está la cacerola ?
+*FAT:	&=e bien !
+*FAT:	venga .
+*FAT:	vamos a poner la aquí .
+*FAT:	a ver .
+*FAT:	ya tenemos la rueda el balón la cacerola y la pluma .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	&=q qué otra cosa nos falta ?
+*FAT:	&=q eso qué es ?
+*FAT:	no .
+*FAT:	es una brocha , Lucía .
+*FAT:	a ver .
+*FAT:	vamos a ver alguna que encaje con estas .
+*FAT:	a ver .
+*FAT:	venga .
+*FAT:	vamos a seguir sacando .
+*FAT:	&=q cuál [x 2] es esa ?
+*MOT:	sí .
+*FAT:	con el pez .
+*FAT:	sí .
+*FAT:	&=q < cómo se llama > [/] cómo se llama ?
+*FAT:	pecera .
+*FAT:	claro .
+*FAT:	es para el pez .
+*FAT:	la pecera .
+*FAT:	&=q qué es eso ?
+*FAT:	no .
+*FAT:	&=q eso qué es ?
+*FAT:	&=q para Papá ?
+*FAT:	&=q y cómo se llama eso ?
+*FAT:	maceta .
+*FAT:	muy bien .
+*FAT:	&=q &-eh ?
+*MOT:	un tiesto . [+ COR]
+*FAT:	un tiesto también .
+*FAT:	sí , muy bien .
+*FAT:	a ver , Lucía .
+*FAT:	yo te voy a dar una de estas y tienes que encajar la .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	&=e una araña !
+*MOT:	la araña de ocho patas .
+*FAT:	a ver .
+*FAT:	&=q esta dónde va ?
+*FAT:	a ver .
+*FAT:	< pon la > [/] pon la tú .
+*FAT:	a ver .
+*FAT:	&=e muy bien !
+*FAT:	&=e choca !
+*FAT:	venga .
+*FAT:	y esta la guardamos ya .
+*FAT:	&=q vale , Lucía ?
+*FAT:	aquí .
+*FAT:	a ver .
+*FAT:	&=q cuál es esa ?
+*FAT:	muy bien .
+*FAT:	&=q y con qué va ?
+*FAT:	&=q con la +..?
+*FAT:	cacerola . [+ COR]
+*FAT:	&=e muy bien !
+*FAT:	&=e choca !
+*FAT:	&=q lo guardamos ?
+*FAT:	sí: .
+*FAT:	las que vayamos haciendo las vamos guardando para hacer más .
+*FAT:	aquí .
+*FAT:	uy@i .
+*FAT:	&=q y cómo se llama ?
+*FAT:	muy bien .
+*FAT:	&=q y esto ?
+*FAT:	muy bien .
+*FAT:	&=q lo guardamos ?
+*FAT:	muy bien .
+*FAT:	oye .
+*FAT:	cuando sean los guiñoles .
+*MOT:	queda poco .
+*FAT:	a ver .
+*FAT:	&=q qué más ?
+*FAT:	Lucía .
+*FAT:	haz así .
+*FAT:	fuerte .
+*FAT:	más fuerte .
+*FAT:	&=q no puedes más fuerte , mi+amor ?
+*FAT:	ay@i mi pequeñita .
+*FAT:	uy@i .
+*FAT:	&=q esto de qué es ?
+*FAT:	&=q de dónde ?
+*FAT:	&=q y dónde está la bota ?
+*FAT:	venga .
+*FAT:	a ver si la encontramos , Lucía .
+*FAT:	uy@i .
+*MOT:	&=e sí !
+*MOT:	las estoy viendo .
+*MOT:	yo la veo .
+*FAT:	qué rabia .
+*MOT:	yo la veo .
+*FAT:	Mamá la ve .
+*MOT:	veo las botas .
+*MOT:	&=q y las botas ?
+*MOT:	&=q dónde están ?
+*MOT:	uy@i .
+*MOT:	&=q y las botas ?
+*FAT:	es que están del revés .
+*MOT:	ya nada .
+*MOT:	&=q y las botas ?
+*MOT:	no .
+*MOT:	&=e claro !
+*FAT:	&=e esas !
+*MOT:	&=e bien !
+*FAT:	&=e muy bien !
+*FAT:	&=q y los cordones ?
+*FAT:	&=q qué juego más diver@c verdad , Lu ?
+*MOT:	pero no es ahí esa , cielo .
+*MOT:	no va ahí , mi+amor .
+*FAT:	me estoy desesperando con su tos .
+*FAT:	&=q quieres fruta , Mother ?
+*MOT:	sí .
+*MOT:	no .
+*MOT:	porque &=q sabes con qué va ?
+*MOT:	con esta .
+*MOT:	van con la pelota .
+*MOT:	no .
+*MOT:	las botas .
+*MOT:	las botas con la pelota .
+*MOT:	&=e esa !
+*MOT:	&=e muy bien !
+*MOT:	a ver .
+*MOT:	ahora la gallina .
+*MOT:	&=q con qué va la gallina ?
+*MOT:	&=q y dónde están los huevos ?
+*MOT:	hay que buscar los .
+*MOT:	a ver .
+*MOT:	&=q dónde están ?
+*MOT:	búsca los .
+*MOT:	&=q dónde están ?
+*MOT:	&=q y los huevos ?
+*MOT:	ah .
+*MOT:	bien .
+*MOT:	a poner .
+*MOT:	muy bien .
+*MOT:	a guardar .
+*MOT:	&=q y la araña ?
+*MOT:	&=q con qué va la araña ?
+*MOT:	la tela de araña .
+*MOT:	&=q y dónde está la tela de araña ?
+*MOT:	&=q &-eh ?
+*MOT:	tienes que buscar la ahí .
+*MOT:	búsca la bien .
+*MOT:	que está ahí .
+*MOT:	está en la caja .
+*MOT:	mira [x 2] .
+*MOT:	muy bien .
+*MOT:	la tela de araña .
+*FAT:	a ver .
+*FAT:	&=q cuáles has ido haciendo ?
+*FAT:	&=q qué hay que ir guardando ?
+*MOT:	ya las hemos guardado .
+*FAT:	&=q también qué ?
+*FAT:	&=q qué quieres ?
+*FAT:	&=q quieres un poquito ?
+*FAT:	venga .
+*FAT:	a ver la tela de araña y la araña .
+*FAT:	&=q &-eh , Lulú ?
+*FAT:	oye .
+*FAT:	son ya los guiñoles , Mother .
+*MOT:	sí .

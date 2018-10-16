@@ -3,11 +3,9 @@
 # Alex Cristia alecristia@gmail.com 2015-10-26
 # Modified by Laia Fibla laia.fibla.reixachs@gmail.com 2016-09-28
 # Adapted to castillan spanish and catalan using espeak
+# minor alex 2018-10-12
 
 ## Activate espeak ##
-module load python-anaconda
-source activate phonemizer
-module load espeak
 
 echo "ja estic funcionant" | phonemize -l ca # testing espeak
 
@@ -17,10 +15,7 @@ LANGUAGE=$1 #language options: cspanish (castillan spanish), catalan  -- NOTICE,
 # e.g. LANGUAGE=catalan
 
 
-PATH_TO_SCRIPTS=$2
-#path to the phonologization folder e.g. PATH_TO_SCRIPTS="/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/phonologization"
-
-RES_FOLDER=$3
+RES_FOLDER=$2
 #this is where we will put the processed versions of the transcripts - E.g. RES_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegCatSpa/big_corpora/RES_corpus_cat/"
 # NOTICE THE / AT THE END OF THE NAME
 #####################################
@@ -36,7 +31,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		echo "using espeak"
 		phonemize -l ca $ORTHO -o phono.tmp
 
-		echo "substituting phones" # correcting phones or exchanging caracters, some cannot be processed by the pearl script
+		echo "substituting phones" # correcting phones or exchanging caracters, some cannot be processed by the perl script
 		sed 's/ t / t/g' phono.tmp |
 		sed 's/ɛssə/s/g' |
 		sed 's/ s / s/g' |
@@ -168,7 +163,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/ˌ//g' > intoperl.tmp
 
 	  echo "syllabify-corpus.pl"
-	  perl $PATH_TO_SCRIPTS/scripts/catspa-syllabify-corpus.pl catalan intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
+	  perl catspa-syllabify-corpus.pl catalan intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
 
 	elif [ "$LANGUAGE" = "cspanish" ]
 		 then
@@ -254,7 +249,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/"//g' > intoperl.tmp
 
 		echo "syllabify-corpus.pl"
-		perl $PATH_TO_SCRIPTS/scripts/catspa-syllabify-corpus.pl cspanish intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
+		perl catspa-syllabify-corpus.pl cspanish intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
 
 	fi
 

@@ -1,0 +1,195 @@
+*FAT:	voy a tomar más coliflor .
+*FAT:	&=q tú quieres ?
+*MOT:	no .
+*MOT:	hay que probar esto , Lucía , primero .
+*MOT:	porque está un poco más fuerte .
+*MOT:	&=q cómo se llamaba este queso ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q cómo se llamaba ?
+*FAT:	0 .
+*MOT:	jo@i .
+*MOT:	es+que esto es una pasada .
+*FAT:	&=q el qué se ha caído , Lucía ?
+*FAT:	mm@i .
+*FAT:	&=q el plato de la coliflor se ha caído ?
+*FAT:	&=q &-eh ?
+*MOT:	esto es una pasada , Father .
+*FAT:	&=q está rico ?
+*MOT:	me lo ha dado a probar en la tienda y casi me desmayo . [+ ADD]
+*FAT:	0 .
+*MOT:	no puede imaginarse esa señora lo que me gusta su tienda .
+*FAT:	0 .
+*FAT:	uy@i .
+*FAT:	&=q qué queso es ese , Lucía ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué queso es ese , Lucía ?
+*FAT:	&=q no te lo sabes ?
+*FAT:	pero si es el preferido de mamá .
+*FAT:	no .
+*FAT:	se parece mucho .
+*MOT:	b@x +...
+*MOT:	bi@x [x 2] +...
+*FAT:	&=q a que no qué ?
+*FAT:	sí .
+*FAT:	es Brie .
+*FAT:	&=q quién te ha ido a buscar hoy a la guardería , Lucía ?
+*FAT:	&=q ah sí ?
+*FAT:	&=q y dónde te han llevado ?
+*FAT:	&=q y después ?
+*FAT:	&=q habéis ido (.) a casa o habéis ido a casa de los abus@f ?
+*FAT:	&=q y has dormido allí la siesta ?
+*FAT:	&=q sí ?
+*FAT:	&=q y a qué hora has venido aquí ?
+*FAT:	&=q te han traído despues aquí para merendar y tomar un yogur de fresa ?
+*FAT:	no: .
+*FAT:	&=q qué ha pasado ?
+*MOT:	&=q qué has merendado , Lucía ?
+*MOT:	&=q eh ?
+*MOT:	&=q qué has merendado ?
+*MOT:	no .
+*MOT:	eso es la cena .
+*MOT:	&=q y la merienda ?
+*MOT:	&=q te ha dado algo la Aba@f ?
+*MOT:	&=q qué te ha dado ?
+*MOT:	&=q te ha dado un yogur el Abu@f ?
+*FAT:	&=q sí ?
+*FAT:	&=q es tu abuelo xxx ? [+ NON]
+*FAT:	xxx .
+*FAT:	&=q el Aba@f le dices ?
+*MOT:	vaya lío .
+*FAT:	es un lío , Mother .
+*FAT:	será +/.
+*MOT:	&=q te ha dado un yogur la Aba@f ?
+*MOT:	&=q y qué más te ha dado ?
+*MOT:	&=q Cola_Cao también ?
+*FAT:	&=q tiene en su casa Cola_Cao ?
+*MOT:	xxx .
+*MOT:	no .
+*MOT:	no es Camembert .
+*FAT:	&=q cómo ?
+*FAT:	muy bien .
+*MOT:	0 .
+*FAT:	Papá no quiere .
+*MOT:	si es+que a ti no te gusta este , Lucía .
+*FAT:	&=q no ?
+*MOT:	no .
+*FAT:	&=q no te gusta , Lucía ?
+*MOT:	ya lo sé yo .
+*FAT:	&=q y tú pinza ?
+*MOT:	&=q y la horquilla que te he comprado , Lucía ?
+*FAT:	&=q te ha traído Mamá una horquilla ?
+*MOT:	&=q dónde está ?
+*MOT:	&=q ya la has perdido ?
+*FAT:	no: .
+*FAT:	&=q quién la tiene ?
+*FAT:	tú dirás lo que quieras pero le queda muy bien el pelo largo , Mother .
+*FAT:	www .
+*FAT:	cómo que tu pata .
+*FAT:	tu pierna será .
+*FAT:	&=q es tu pierna o no es tu pierna ?
+*FAT:	mm@i .
+*FAT:	pero si es Roquefort .
+*MOT:	no es Roquefort , Father .
+*FAT:	&=q qué queso es ?
+*MOT:	queso de oveja que te pones tú .
+*FAT:	está fuerte , &=q eh ?
+*MOT:	fuertísimo .
+*MOT:	es de [//] de Gredos .
+*FAT:	mm@i .
+*FAT:	está fuerte , sí .
+*MOT:	es buenísimo .
+*FAT:	pása me un poco ahí .
+*FAT:	Lucía .
+*FAT:	hola .
+*FAT:	&=q y Rita ?
+*FAT:	&=q dónde está Rita ?
+*FAT:	&=e no [x 2] !
+*FAT:	Lucía .
+*FAT:	no .
+*FAT:	que se cae .
+*FAT:	no , tú .
+*FAT:	tú sola .
+*FAT:	Lucía .
+*FAT:	hombre .
+*FAT:	mira .
+*FAT:	se ha caído .
+*FAT:	&=q cómo ?
+*FAT:	&=q quién te ha dado un poquito ?
+*MOT:	pues no son muy caros , &=q eh ?
+*FAT:	&=q no ?
+*MOT:	dos+mil+doscientas .
+*FAT:	mm@i .
+*MOT:	dos dos .
+*FAT:	hombre .
+*FAT:	qué bueno estaba , Mother .
+*MOT:	sí .
+*MOT:	prueba de este .
+*FAT:	&=q también ?
+*FAT:	mm@i .
+*FAT:	&=e qué bueno !
+*FAT:	bueno , Lucía .
+*FAT:	si te vas a tomar un yogur apago la cámara , &=q &-eh ?
+*FAT:	&=q no es para mi ?
+*FAT:	Mother .
+*FAT:	di le a Lucía que sí es para mí .
+*FAT:	a que sí .
+*MOT:	&=q le damos a Papá ?
+*FAT:	&-eh .
+*FAT:	&=q yo no ?
+*FAT:	&=q yo no qué ?
+*MOT:	ya está , Lucía .
+*MOT:	no hay nada más .
+*FAT:	0 .
+*FAT:	&=q cómo que no hay nada para mí ?
+*FAT:	Lucía .
+*FAT:	carota .
+*FAT:	hala@i .
+*FAT:	&=q no me has guardado un poquito ?
+*FAT:	&=q por qué ?
+*FAT:	Lucía .
+*FAT:	no me has guardado un poco para mí .
+*FAT:	&=q me pongo triste ahora ?
+*MOT:	pero hija .
+*MOT:	&=q la verdad es que son horribles pero tiene que ser de lo más práctico esto &=q verdad ?
+*FAT:	&=q me vas a dar un poco la próxima vez ?
+*FAT:	&=q segura ?
+*FAT:	a ver .
+*FAT:	&=q sí o no ?
+*FAT:	Lucía .
+*FAT:	&=q y ahora qué me das ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué me das ?
+*MOT:	anda .
+*MOT:	&=q tenemos una carta ?
+*MOT:	&=q yo ?
+*MOT:	hala@i .
+*MOT:	qué bien .
+*MOT:	ostra un certificado .
+*MOT:	qué bien .
+*FAT:	una multa .
+*MOT:	xxx .
+*FAT:	Mamá tiene una multa .
+*MOT:	vaya mierda .
+*FAT:	Mamá ha recibido una multa .
+*MOT:	uf@i .
+*FAT:	&=q qué dice ?
+*MOT:	no dice nada .
+*MOT:	xxx .
+*MOT:	pesada .
+*FAT:	0 .
+*FAT:	&=q más ?
+*FAT:	bueno , Lucía .
+*FAT:	&=q llevamos esto a la basura ?
+*FAT:	corre .
+*FAT:	venga .
+*FAT:	a la basura .
+*FAT:	&=q vale ?
+*FAT:	bueno , Lucía .
+*FAT:	pues yo me voy .
+*FAT:	&=q vale ?
+*MOT:	hay que acostar la .
+*FAT:	&=q quieres que vayamos en trenecito ?
+*FAT:	&=q hasta dónde ?
+*FAT:	&=q hasta la cama ?
+*FAT:	&=q le damos un beso a Elsa de buenas+noches ?
+*FAT:	vale .

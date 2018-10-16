@@ -1,0 +1,691 @@
+*FAT:	&=q hay una pieza ?
+*FAT:	venga .
+*FAT:	siéntate ahí que voy a sacar las piezas y jugamos un poco .
+*FAT:	&=q qué quieres hacer ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué es lo que quieres hacer ?
+*FAT:	Juan , por+favor .
+*FAT:	deja eso anda .
+*FAT:	venga .
+*FAT:	vete allí con los juguetes .
+*FAT:	cachis .
+*FAT:	Juan .
+*FAT:	deja eso , por+favor .
+*FAT:	espera .
+*FAT:	< siéntate ahí > [/] siéntate ahí que ahora voy a jugar contigo .
+*FAT:	&=q el humo y el fuego ? [+ ADS]
+*FAT:	&=q se va el avión ? [+ ADS]
+*FAT:	mira .
+*FAT:	&=q cuando viene de+repente qué ?
+*FAT:	&=q se lo va a comer ?
+*FAT:	&=q a ver cómo lo come ?
+*FAT:	pero bueno .
+*FAT:	&=q no son amigos ?
+*FAT:	&=q sí son amigos ?
+*FAT:	&=q y se lo come ?
+*FAT:	venga .
+*FAT:	siéntate .
+*FAT:	&=q a ver ?
+*FAT:	no se comen .
+*FAT:	&=q tiene una comida ?
+*FAT:	mira .
+*FAT:	se come esto .
+*FAT:	las hojas de este árbol .
+*FAT:	&=q sí ?
+*FAT:	venga , a ver .
+*FAT:	&=q qué es esto ?
+*FAT:	&=q una +..?
+*FAT:	&=q una ballena ?
+*FAT:	un tractor .
+*FAT:	&=q y qué se come ?
+*FAT:	&=q el tractor ?
+*FAT:	&=q las hojas del árbol ?
+*FAT:	&=q las palmeras se llaman palmeras ?
+*FAT:	vaya .
+*FAT:	uy@i lo que te mueves , hijo+mío .
+*FAT:	&=q un león vas a hacer ?
+*FAT:	&=q viene el león y se come a la serpiente ?
+*FAT:	&=q sí ?
+*FAT:	no .
+*FAT:	&=q qué vió ?
+*FAT:	&=q a un señor bueno ?
+*FAT:	&=q y cómo era el señor ?
+*FAT:	&=q y qué pasó ?
+*FAT:	&=q un helicóptero vió el señor ?
+*FAT:	&=q qué pasó ?
+*FAT:	&=q la policía se fue corriendo porque se asustó tanto de la seripente ?
+*FAT:	&=q y la serpiente qué hizo ?
+*FAT:	&=q la serpiente también se asustó ?
+*FAT:	&=q no le daba susto el camaleón ?
+*FAT:	&=q era bueno ? [+ ADS]
+*FAT:	&=q qué hace la serpiente , Juan ?
+*FAT:	&=q va adónde ?
+*FAT:	&=q es un dinosaurio ? [+ ADS]
+*FAT:	&=q has traído las piezas ?
+*FAT:	venga .
+*FAT:	déja las ahí y jugamos ahí .
+*FAT:	&=q un helicóptero vamos a hacer con las piezas ?
+*FAT:	&=q sí ?
+*FAT:	&=q y el humo con fuego ?
+*FAT:	&=q y una casa y una chimenea ?
+*FAT:	venga .
+*FAT:	pon las ahí y nos ponemos ahí a jugar .
+*FAT:	&=q ahí , sí ?
+*FAT:	eso es .
+*FAT:	&=q nos sentamos juntos ahí ?
+*FAT:	venga .
+*FAT:	aquí .
+*FAT:	a ver .
+*FAT:	esa ahora tienes que coger la por allí .
+*FAT:	< por allí por allí > [/] por allí .
+*FAT:	cuidado no tropieces .
+*FAT:	cuidado no tropieces .
+*FAT:	&=e cuidado !
+*FAT:	eso es .
+*FAT:	mira .
+*FAT:	allí hay otra .
+*FAT:	&=q no te enterabas ?
+*FAT:	ven .
+*FAT:	siéntate .
+*FAT:	&=q qué hacemos primero ?
+*FAT:	&=q una casa ?
+*FAT:	&=q tiene puertas ?
+*FAT:	&=q y qué más tiene ?
+*FAT:	&=q tiene una chimenea ?
+*FAT:	&=q sí ?
+*FAT:	&=q tú que haces ?
+*FAT:	&=q tú qué haces ?
+*FAT:	&=q la puerta o la chimenea ?
+*FAT:	&=q tú haces las dos cosas ?
+*FAT:	pero vamos a ver .
+*FAT:	&=q y tiene entradas también ?
+*FAT:	&=q y yo qué hago ?
+*FAT:	&=q las ventanas o la puerta ?
+*FAT:	a ver .
+*FAT:	&=q la puerta está abierta o está cerrada ?
+*FAT:	cuénta me .
+*FAT:	&=q está cerrada , Juan ?
+*FAT:	&=q no pueden pasar los señores por la puerta ? [+ COR]
+*FAT:	pero hombre .
+*FAT:	&=q cómo vamos a hacer eso ?
+*FAT:	&=q y si alguien quiere pasar ?
+*FAT:	&=q qué pasa ?
+*FAT:	&=q como me pica la nariz ?
+*FAT:	no se puede poner la torre encima de la puerta porque la puerta es la parte menos fuerte de la casa .
+*FAT:	&=q comprendes [x 2] ?
+*FAT:	ahí es donde menos fuerza hay en la casa .
+*FAT:	ahí se va a volver a romper , Juan .
+*FAT:	&=q por qué no la pones aquí la chimenea ?
+*FAT:	es muy larga &=q &-eh ?
+*FAT:	encima de la otra torre la vas a poner .
+*FAT:	mira .
+*FAT:	una puerta y ventanas .
+*FAT:	mira a ver cuántas ventanas tiene la casa , Juan .
+*FAT:	mira cuántas . [+ ADS]
+*FAT:	ah .
+*FAT:	&=q vas a poner un señor que viva aquí en la casa ?
+*FAT:	&=q sí cabe ese señor ?
+*FAT:	pero eso es estupendo .
+*FAT:	oh .
+*FAT:	mira a ver uno más pequeño anda .
+*FAT:	&=q tiene [/] tiene calor ? [+ ADS]
+*FAT:	&=q se asustó ?
+*FAT:	&=q y por qué se asustó , Juan ?
+*FAT:	&=q cuántas ventanas tiene ?
+*FAT:	mira lo .
+*FAT:	mira cuántas ventanas tiene .
+*FAT:	mira a ver .
+*FAT:	&=q &-eh ?
+*FAT:	mira a ver cuántas ventanas tiene .
+*FAT:	a ver , Juan .
+*FAT:	&=q cuántas ventanas tiene la casa ?
+*FAT:	mira a ver .
+*FAT:	lu@o [x 5] .
+*FAT:	&=q dónde hay un lobo ?
+*FAT:	pero bueno .
+*FAT:	oye .
+*FAT:	&=q sabes quién vió una vez un lobo ?
+*FAT:	&=q sabes quién vió una vez un lobo ?
+*FAT:	el Tío_Paco .
+*FAT:	cuando vayamos al pueblo le vamos a contar al Tío_Paco que nos cuente cómo era el lobo que vió .
+*FAT:	&=q vale ?
+*FAT:	&=q sabes quién es el Tío_Paco ?
+*FAT:	el marido de +//. [+ NON]
+*FAT:	&=q se lo vamos a contar ?
+*FAT:	&=q quieres que se lo preguntemos ?
+*FAT:	vale .
+*FAT:	cuando vayamos se lo vamos a preguntar .
+*FAT:	ya verás qué bien el Tío_Paco .
+*FAT:	nos lo va a contar todo .
+*FAT:	&=q qué pasa ?
+*FAT:	hala@i qué bien .
+*FAT:	&=q conduce el niño con el volante así ? [+ ADS]
+*FAT:	&=q pero es una casa o es un coche ?
+*FAT:	ah .
+*FAT:	ahora es un coche .
+*FAT:	&=q cómo conduce ?
+*FAT:	&=q a ver ?
+*FAT:	mm@o .
+*FAT:	&=q no es coche ?
+*FAT:	a ver si se va a caer ahí , Juan .
+*FAT:	a:quí mejor .
+*FAT:	uah@o .
+*FAT:	&=q se marea el niño ?
+*FAT:	&=q ponemos la chimenea aquí ?
+*FAT:	&=q ahí mejor ?
+*FAT:	&=q que la ponga aquí ?
+*FAT:	pon la . [+ COR]
+*FAT:	&=q qué quieres quitar , hombre ?
+*FAT:	vaya .
+*FAT:	se me ha caído .
+*FAT:	xxx lo voy a poner . [+ NON]
+*FAT:	así .
+*FAT:	oye .
+*FAT:	pues sí que nos ha salido bonita la casa+coche .
+*FAT:	xxx .
+*FAT:	&=q tiene una o tiene dos torres ?
+*FAT:	&=q mejor es aquí ?
+*FAT:	&=q un pajarraco ?
+*FAT:	&=q y cómo hace el pajarraco ?
+*FAT:	anda .
+*FAT:	pero si tienes más piezas ahí .
+*FAT:	&=q otro pajarraco ? [+ ADS]
+*FAT:	&=q cómo hacen los pajarracos ?
+*FAT:	&=q este es un señor ? [+ ADS]
+*MOT:	&=q sí ?
+*MOT:	&=q y esto ?
+*FAT:	esto es una casa+coche .
+*MOT:	ah .
+*FAT:	tosilón@f [x 2] .
+*FAT:	mira [x 4] lo que voy a poner arriba .
+*FAT:	&=q no ?
+*FAT:	&=q el pajarraco sí ?
+*FAT:	y encima esto .
+*FAT:	no .
+*FAT:	pero es que entonces si llueve se moja el pájaro .
+*FAT:	&=q no lo entiendes ?
+*FAT:	< no lo > [/] &=e no lo tires !
+*MOT:	&=q qué es eso que habéis hecho ?
+*FAT:	< di le > [/] di le lo que hemos hecho .
+*FAT:	di le qué es .
+*FAT:	di le qué es esto .
+*FAT:	&=q qué es ?
+*FAT:	no .
+*FAT:	di le qué es esto .
+*FAT:	&=q un [x 2] +..?
+*FAT:	no , hombre .
+*FAT:	esto va por la carretera .
+*FAT:	&=q es un +..?
+*MOT:	&=q va por la carretera ?
+*FAT:	sí .
+*FAT:	&=q qué es ?
+*FAT:	&=q un +..?
+*FAT:	venga , Juan .
+*FAT:	si me lo has dicho tú .
+*FAT:	si conduce un volante el niño .
+*FAT:	&=q qué es ?
+*FAT:	&=q un +..?
+*FAT:	es un coche .
+*FAT:	pero también es una +...
+*FAT:	mira .
+*FAT:	tiene puertas .
+*FAT:	tiene ventanas .
+*FAT:	&=q es una +..?
+*FAT:	vaya+por+dios .
+*FAT:	es una casa y un coche .
+*MOT:	mm@i .
+*MOT:	&=q una casa+coche ?
+*FAT:	claro .
+*FAT:	con chimenea y pajarraco .
+*FAT:	pero la torre es un poco endeble .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	se mueve un poco .
+*MOT:	es que es muy alta .
+*FAT:	es que antes teníamos dos .
+*FAT:	pero ahora tenemos sólo una .
+*FAT:	con un pajarraco aquí y otro aquí .
+*FAT:	&=q una aquí vas a poner ?
+*MOT:	mm@i .
+*MOT:	qué paloma más grande .
+*FAT:	ahí .
+*FAT:	&=q y la paloma es esto ?
+*FAT:	mira .
+*FAT:	pío@o [x 4] .
+*FAT:	&=q se ha roto tu casa ?
+*FAT:	&=q hacemos escaleras en la torre esta ?
+*FAT:	a ver .
+*FAT:	deja la ahí en el xxx . [+ NON]
+*FAT:	hala@i qué bien .
+*FAT:	dos torres comunicadas .
+*FAT:	&=q un poco más grande ?
+*FAT:	&=q qué quieres que sea más grande ?
+*FAT:	&=q la torre o la escalera ?
+*FAT:	&=q la escalera ?
+*FAT:	&=q pero el qué ?
+*FAT:	&=q la escalera ?
+*FAT:	&=q la escalera tiene que ser más grande ?
+*FAT:	a+las+órdenes .
+*FAT:	a ver .
+*FAT:	vamos a hacer la escalera un poco más grande .
+*FAT:	la@o [x 8] .
+*FAT:	ya está .
+*FAT:	ya está .
+*MOT:	qué bonita queda .
+*FAT:	y aquí el pajarraco .
+*MOT:	redondita arriba .
+*FAT:	aquí está el pajarraco .
+*FAT:	la paloma .
+*FAT:	viene y hace prr@o .
+*FAT:	yuju@o [x 3] .
+*FAT:	&=e una paloma ! [+ ADS]
+*FAT:	xxx .
+*FAT:	yuju@o .
+*FAT:	&=q “me llevas o no me llevas” ?
+*FAT:	+" vamos .
+*FAT:	ay@o [x 3] .
+*FAT:	+" que me quitas la escalera .
+*FAT:	+" vamos .
+*FAT:	+" lléva me .
+*FAT:	+" xxx infinito .[+ NON]
+*FAT:	+" &=e uy@i !
+*FAT:	se va .
+*FAT:	&=q xxx ?
+*FAT:	+" venga , paloma .
+*FAT:	+" ayúda me .
+*FAT:	ay@i [x 3] .
+*FAT:	pero bueno .
+*FAT:	si teníamos aquí otra pieza .
+*FAT:	te caes .
+*FAT:	mira el niño este .
+*FAT:	no se cae .
+*FAT:	claro .
+*FAT:	se tira al agua .
+*FAT:	uh@i .
+*FAT:	pin@o [x 3] .
+*FAT:	chof@o .
+*MOT:	veinticinco minutos .
+*FAT:	&=q tú vas a nadar tú solito ? [+ COR]
+*FAT:	&=e oy@i !
+*FAT:	&=q cómo que se ha ido al parque ?
+*FAT:	se ha caído de la torre .
+*MOT:	&=q qué ha pasado ?
+*MOT:	&=e uy@i !
+*FAT:	&=e oye !
+*FAT:	cachirulo .
+*MOT:	se ha caído al agua . [+ ADS]
+*FAT:	&=q qué hace ?
+*FAT:	&=q me das esas dos piezas ?
+*FAT:	oh .
+*FAT:	&=q me das esas dos piezas que hay ahí , Juan por+favor ?
+*FAT:	< mira mira mi dedo > [/] mira mi dedo .
+*FAT:	están detrás de ti .
+*FAT:	&=q me das las dos piezas que están ahí detrás ?
+*FAT:	vale .
+*MOT:	oye .
+*MOT:	&=q y la roja ?
+*FAT:	oye .
+*FAT:	en la alfombra no , Juan .
+*FAT:	Juan Apellido .
+*MOT:	fuera de la alfombra no , Juan .
+*FAT:	Juan .
+*FAT:	< en la alfom@x > [//] &=e Juan !
+*FAT:	pása me las piececillas , anda .
+*FAT:	que al final no me las das .
+*FAT:	trae .
+*FAT:	déjame la pieza .
+*FAT:	anda .
+*FAT:	esta .
+*FAT:	&=q cuál me dejas ?
+*FAT:	a ver .
+*FAT:	déjame una .
+*FAT:	para terminar esta escalera necesito una pieza .
+*FAT:	&=e cachirulo canchinpón@f !
+*FAT:	&=q me dejas la pieza o no ?
+*MOT:	déja le una .
+*FAT:	pues hala@i .
+*FAT:	&=q sabes lo que te digo ?
+*FAT:	que ahí se queda sin terminar .
+*FAT:	una obra incompleta .
+*FAT:	como xxx . [+ NON]
+*MOT:	oh .
+*FAT:	&=q ahora me la das ?
+*FAT:	después de romper la [/] la escalera .
+*FAT:	&=q &-eh ?
+*FAT:	&=q ahora me la das ?
+*FAT:	mangas+verdes .
+*FAT:	a buenas horas .
+*FAT:	ya no lo puedo resistir .
+*MOT:	cómo me pica la nariz .
+*FAT:	achís@o .
+*FAT:	xxx .
+*FAT:	0 .
+*FAT:	son todas tuyas .
+*FAT:	la que tú quieras .
+*FAT:	&=q otra ?
+*FAT:	&=q esta ?
+*FAT:	&=q la has encontrado ?
+*FAT:	vaya suerte que tienes .
+*FAT:	que te falta una pieza y la encuentras .
+*FAT:	no como yo .
+*FAT:	me falta una pieza y nadie se digna a ceder mela .
+*FAT:	yo he hecho esa y tú has hecho esa .
+*FAT:	muy bien .
+*FAT:	no .
+*FAT:	yo no he hecho esta .
+*FAT:	&=q cuál he hecho yo ?
+*FAT:	yo cojo esta .
+*FAT:	&=q pero cuál he hecho yo ?
+*FAT:	ah .
+*FAT:	yo cojo la que ha hecho Juan .
+*FAT:	muy bien .
+*FAT:	a ver .
+*FAT:	&=q y qué ?
+*FAT:	mira qué bien vuela mi paloma .
+*FAT:	fiu@o .
+*FAT:	pío@o [x 6] .
+*FAT:	mira [x 6] .
+*FAT:	que va a hacer un looping@s , Juan Apellido .
+*FAT:	mira .
+*FAT:	bu@o [x 4] .
+*FAT:	&=q le falta una pieza ?
+*FAT:	< pero sí parece > [//] +//.
+*FAT:	pero si parece un enano cabezón .
+*FAT:	&=q pero es una paloma o un avión ?
+*FAT:	mm@i .
+*FAT:	una paloma de acción .
+*FAT:	pío@o [x 8] .
+*FAT:	pr@o .
+*FAT:	porque las palomas se hacen mucha caca .
+*FAT:	muy bien .
+*FAT:	hala@i .
+*FAT:	ha descargado bien .
+*FAT:	pío@o [x 3] .
+*FAT:	pr@o .
+*FAT:	ay@i .
+*FAT:	< se ha hecho caca > [/] se ha hecho caca en la cabeza de Juan .
+*FAT:	ahora hay que lavar la cabeza de Juan otra vez .
+*FAT:	vamos a echar jabón .
+*FAT:	echamos agua .
+*FAT:	chs@o .
+*FAT:	primero la lavamos .
+*FAT:	y ahora la secamos .
+*FAT:	ya está .
+*FAT:	como si no hubiera pasado nada .
+*FAT:	pio@o [x 3] .
+*FAT:	pr@o .
+*FAT:	ay@i .
+*FAT:	se ha hecho caca en mi nariz .
+*FAT:	vamos a lavar la .
+*FAT:	echamos agua .
+*FAT:	chs@o .
+*FAT:	echamos jabón .
+*FAT:	echamos agua .
+*FAT:	chs@o .
+*FAT:	y ahora secamos .
+*FAT:	ya está .
+*FAT:	&=q a que la tengo limpia y brillante ?
+*FAT:	&=q ves ?
+*FAT:	pio@o [x 10] .
+*FAT:	pr@o .
+*FAT:	uy@i que caca en la cabeza de Juan .
+*FAT:	echamos agua .
+*FAT:	chs@o .
+*FAT:	echamos jabón .
+*FAT:	chs@o .
+*FAT:	otra vez echamos agua .
+*FAT:	chs@o .
+*FAT:	y ahora lo secamos .
+*FAT:	ya está .
+*FAT:	ya está limpio y brillante .
+*FAT:	ay@i .
+*FAT:	qué pelo tan limpio y tan brillante tiene este cachirulín@f .
+*FAT:	una paloma blanca .
+*FAT:	una paloma blanca .
+*FAT:	a ver , hijo+mío .
+*FAT:	mira cómo vuela la paloma .
+*FAT:	la@o [x 10] .
+*FAT:	&=q qué ha pasado con tu paloma ?
+*FAT:	&=q se ha roto ?
+*FAT:	ay@i .
+*FAT:	si la paloma parece Gumersindo ahora .
+*FAT:	&=q un gorila es ?
+*FAT:	&=q es un gorila ?
+*FAT:	me gusta más el gorila que la paloma .
+*FAT:	mira .
+*FAT:	ahora sí que vamos a hacer un gorila gorilón@f .
+*FAT:	mira qué gorila gorilón .
+*FAT:	&=e hala@i !
+*FAT:	&=e mira !
+*FAT:	mira qué gorila ha hecho Papá .
+*FAT:	&=q es para ti ?
+*FAT:	pero bueno .
+*FAT:	&=q y yo ?
+*FAT:	&=q para quién ?
+*FAT:	&=q para Papá y para mí ?
+*FAT:	y [x 2] si hago otro gorila para Papá y para mí necesito dos gorilas .
+*FAT:	&=q o solo uno ?
+*FAT:	pero bueno .
+*FAT:	&=e me coges el gorila y me lo desmontas !
+*FAT:	&=q cómo que este es el tuyo ?
+*FAT:	pero [x 3] .
+*FAT:	anda .
+*FAT:	&=q te vas a quedar con el gorila y con el pájaro ?
+*FAT:	&=q todo para ti ?
+*FAT:	sí , hijo , sí .
+*FAT:	tú pájaro .
+*FAT:	pues ahora voy a hacer un león .
+*FAT:	&=e pero hombre !
+*FAT:	y ya verás qué león .
+*FAT:	< te vas a enterar > [/] te vas a enterar .
+*FAT:	&=q ya tiene pies ?
+*FAT:	< ya voy > [/] ya voy .
+*FAT:	rapaz [x 3] .
+*FAT:	que creo que te la quieres quedar .
+*FAT:	aquí está el león Floromundo .
+*FAT:	&=q lo pongo aquí ?
+*FAT:	&=q el león Floromundo ?
+*FAT:	xxx .
+*MOT:	&=q el león Floromundo es ese ?
+*MOT:	&=q y qué hace ?
+*MOT:	&=q le vas a poner alas ?
+*MOT:	yo le veo patas .
+*MOT:	oye .
+*MOT:	qué chulo &=q no ?
+*FAT:	ahora vengo &=q &-eh ?
+*MOT:	a ver .
+*MOT:	cuénta me lo que estás haciendo , Juan .
+*MOT:	&=q Juan ?
+*MOT:	&=q qué haces ?
+*MOT:	&=q haciendo el padre del pájaro ?
+*MOT:	mm@i .
+*MOT:	madre+mía .
+*MOT:	quiero ver lo , Juan .
+*MOT:	&=q no me lo enseñas ?
+*MOT:	hala@i qué chulo .
+*MOT:	&=q qué es esto ?
+*MOT:	ah .
+*MOT:	cachis .
+*MOT:	se ha quitado .
+*MOT:	&=q a ver cómo iba ?
+*MOT:	&=q es un pájaro ?
+*MOT:	&=q a ver cómo iba ?
+*MOT:	&=q iba así ?
+*MOT:	&=q ahí va eso ?
+*MOT:	se va a caer .
+*MOT:	Papá se va a trabajar , cariño .
+*MOT:	oh .
+*MOT:	se ha caído un ala .
+*MOT:	pero no era una pistola .
+*MOT:	era un pájaro , &=q no ?
+*MOT:	&=q Juan ?
+*MOT:	&=q qué era ?
+*MOT:	&=q una pistola o un pájaro ?
+*MOT:	&=q qué tiene el pájaro ?
+*MOT:	uh@i .
+*MOT:	perdona [x 2] .
+*MOT:	se ha quitado solo .
+*MOT:	es que es un poco inestable este pájaro .
+*MOT:	a ver .
+*MOT:	&=q dónde están las alas ?
+*MOT:	mm@i .
+*MOT:	ponte ahí , Juan .
+*MOT:	ahí .
+*MOT:	donde el otro perrito .
+*MOT:	o donde el otro +/.
+*MOT:	&=q qué es eso ?
+*MOT:	pájaro .
+*MOT:	hala@i qué chulo .
+*MOT:	&=q una gallina ?
+*MOT:	&=q una gallina Escalesca ?
+*MOT:	&=q o escaladora ?
+*MOT:	uh@i .
+*MOT:	se cae .
+*MOT:	me+cachis .
+*MOT:	hala@i qué chula .
+*MOT:	&=q un gorila eso ? [+ COR]
+*MOT:	&=q y ahora qué haces , Juan ?
+*MOT:	pero qué chulada .
+*MOT:	&=q qué tiene ?
+*MOT:	&=q eso qué es ?
+*MOT:	&=q qué es eso ?
+*MOT:	sí .
+*MOT:	pero qué sería eso .
+*MOT:	&=q qué come ?
+*MOT:	&=e alcachofas ! [+ ADS]
+*MOT:	&=q le gustan las alcachofas ?
+*MOT:	madre+mía .
+*MOT:	qué goloso .
+*MOT:	mm@i .
+*MOT:	qué ricas las alcachofas .
+*MOT:	&=q quién come ahí ?
+*MOT:	ay@i .
+*MOT:	el dragón come ahí .
+*MOT:	el cocodrilo .
+*MOT:	&=q qué era ?
+*MOT:	&=q un dragón o un cocodrilo ?
+*MOT:	&=q Juan ?
+*MOT:	&=q llueve agua ? [+ COR]
+*MOT:	&=q dónde ?
+*MOT:	ah .
+*MOT:	qué niebla .
+*MOT:	ahí arriba .
+*MOT:	mira qué chulo .
+*MOT:	cuidadito .
+*MOT:	cuidado , cariño .
+*MOT:	que tiene una cabeza como el dinosaurio .
+*MOT:	sí .
+*MOT:	tienen los dos la boca abierta &=q verdad ?
+*MOT:	&=q el dinosaurio y el cocodrilo ?
+*MOT:	o el dragón .
+*MOT:	&=q los dos tienen la boca abierta ?
+*MOT:	uy@i , cuidado .
+*MOT:	&=q está haciendo caca ?
+*MOT:	anda .
+*MOT:	está haciendo caca ahí abajo .
+*MOT:	y tiene caca verde .
+*MOT:	hace caca verde &=q verdad ?
+*MOT:	una montañita como Juan .
+*MOT:	&=q y ahora qué tenemos que hacer ?
+*MOT:	&=q limpiar le el culo ?
+*MOT:	&=q cómo ?
+*MOT:	a ver cómo le limpiamos +//.
+*MOT:	toma .
+*MOT:	límpia le el culo .
+*MOT:	ya le has limpiado el culo .
+*MOT:	ya está .
+*MOT:	hay que arreglar lo otra vez .
+*MOT:	&=q qué es eso ?
+*MOT:	&=q esa es la boca ?
+*MOT:	menuda boca .
+*MOT:	ahí tan cerca no .
+*MOT:	por la foto no veo la boca .
+*MOT:	sólo veo los ojos de Juan .
+*MOT:	&=q a ver la boca ?
+*MOT:	ahora sí veo la boca .
+*MOT:	&=q es Papá quien lo hace eso ?
+*MOT:	mm@i .
+*MOT:	vale .
+*MOT:	&=q el qué hago yo entonces ?
+*MOT:	apagar lo .
+*MOT:	ah .
+*MOT:	di hola .
+*MOT:	está encendido , sí . [+ ADS]
+*MOT:	&=q pero esa no es la boca del dragón o del cocodrilo ?
+*MOT:	&=q &-eh ?
+*MOT:	ah .
+*MOT:	&=q tiene que ser un poco más grande ?
+*MOT:	mm@i .
+*MOT:	yo creía que ya era sufiente grande .
+*MOT:	&=q qué estás haciendo ahora ?
+*MOT:	&=q qué es eso ?
+*MOT:	&=q es una bruja eso ?
+*MOT:	&=q y va en escoba ?
+*MOT:	&=q dice hola a los árboles la bruja ?
+*MOT:	mm@i .
+*MOT:	qué simpática .
+*MOT:	&=q a quién le da miedo las brujas ?
+*MOT:	adiós , bruja .
+*MOT:	&=q dónde la llevas ?
+*MOT:	&=q a casa de quién ?
+*MOT:	&=q a casa de Elmer se va ? [+ ADS]
+*MOT:	hala@i .
+*MOT:	mira la .
+*MOT:	no es tonta ni nada .
+*MOT:	que Elmer es muy grande y la puede proteger .
+*MOT:	&=q se ha dormido la bruja ?
+*MOT:	&=q se ha dormido ?
+*MOT:	&=q tiene miedo la bruja ?
+*MOT:	&=q de qué ?
+*MOT:	&=q de qué tienen miedo ?
+*MOT:	&=q de qué tienen miedo las brujas ?
+*MOT:	&=q pero de qué ?
+*MOT:	&=q se lo ha quitado la cabeza a la bruja ? [+ COR]
+*MOT:	me+cachis .
+*MOT:	0 .
+*MOT:	+" he dicho .
+*MOT:	&=q quién lo ha dicho ?
+*MOT:	&=q quién lo ha dicho ?
+*MOT:	Juan lo ha dicho .
+*MOT:	&=q como siga llorando la bruja la castigas ?
+*MOT:	ah .
+*MOT:	pón sela .
+*MOT:	mira [x 3] .
+*MOT:	< ahí hay una > [/] aquí hay una .
+*MOT:	cóge sela .
+*MOT:	&=q y la otra ?
+*MOT:	anda .
+*MOT:	&=q se ha convertido en un avión el cocodrilo ?
+*MOT:	mm@i .
+*MOT:	&=q y ahora qué haces ?
+*MOT:	&=q un lobo ahora ?
+*MOT:	oye .
+*MOT:	qué chulo .
+*MOT:	y parece [/] parece que va en patienete ese lobo &=q no ?
+*MOT:	&=q dónde va ?
+*MOT:	pues parece que va montado en algo .
+*MOT:	hola .
+*MOT:	hola .
+*MOT:	soy (.) el dinosaurio .
+*MOT:	&=q quién teme al lobo feroz ?
+*MOT:	al lobo .
+*MOT:	ah .
+*MOT:	que me muerde .
+*MOT:	&=q me ha mordido ?
+*MOT:	&=q echa fuego por la boca ?
+*MOT:	eso no echa fuego por la boca .
+*MOT:	no es un dragón .
+*MOT:	es un dinosaurio .
+*MOT:	ah .
+*MOT:	se ha quemado la cámara de Javier .
+*MOT:	madre+mía .
+*MOT:	&=q y ahora qué ?
+*MOT:	nos va a reñir .
+*MOT:	&=q qué le decimos ?
+*MOT:	&=q que ha sido el dinosaurio ?
+*MOT:	a ver .
+*MOT:	&=q y qué le vamos a decir ?
+*MOT:	Javier .
+*MOT:	tú cámara se ha estropeado porque ha venido un dinosaurio y te la ha quemado .
+*MOT:	no .
+*MOT:	ese no se quema .

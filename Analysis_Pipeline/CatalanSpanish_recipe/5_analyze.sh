@@ -2,6 +2,7 @@
 # Script for analyzing mono and bilingual corpus with diferent mixings - M2 SegCatSpa -
 # Alex Cristia alecristia@gmail.com 2016-11
 # Adapted by Laia Fibla 2017-03-15 laia.fibla.reixachs@gmail.com
+# minor changes Alex Cristia 2018-10-12
 
 ######### VARIABLES ###############
 

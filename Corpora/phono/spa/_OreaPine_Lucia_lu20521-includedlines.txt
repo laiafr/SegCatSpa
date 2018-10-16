@@ -1,0 +1,308 @@
+*FAT:	pero si es de Papá , Lucía .
+*FAT:	no .
+*FAT:	es de Papá .
+*FAT:	a ver , Lulu .
+*FAT:	a ver .
+*FAT:	&-eh , Lucía .
+*FAT:	cuidado .
+*FAT:	no .
+*FAT:	el cuchillo no , mi+amor .
+*FAT:	&=q el qué ?
+*FAT:	&=q está caliente ? [+ COR]
+*FAT:	&=q cuánto ?
+*FAT:	a ver .
+*FAT:	uy@i .
+*FAT:	no .
+*FAT:	está calentito .
+*FAT:	está sólo un poquito caliente .
+*FAT:	&=q qué quieres , mi+amor ?
+*FAT:	&=q esto ?
+*FAT:	&=q el cuchillo ?
+*FAT:	&=q la sopa ?
+*FAT:	&=q quieres sopa ?
+*FAT:	&=q por qué quieres sopa , Lucía ?
+*FAT:	Lucía .
+*FAT:	&=q qué has cenado ?
+*FAT:	&=q qué has cenado , mi+amor ?
+*FAT:	no .
+*FAT:	&=q pero qué has cenado ?
+*FAT:	cuénta me .
+*FAT:	&=q qué has cenado ?
+*FAT:	&=q rulitos de qué ?
+*FAT:	&=q y qué más ?
+*FAT:	&=q y carne también ?
+*FAT:	&=q y has cenado mucho o poco ?
+*FAT:	espera , Lucía .
+*FAT:	espera .
+*FAT:	no toques .
+*FAT:	ahora Mamá te va a traer un poquito .
+*FAT:	&=q quieres ?
+*FAT:	vale .
+*FAT:	&=q y lo tomas con nosotros ?
+*FAT:	&=q quieres mucho ?
+*FAT:	a ver , Lucía .
+*FAT:	&=q cómo te has hecho la heridita ?
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho la herida ?
+*MOT:	0 .
+*MOT:	espera &-eh .
+*MOT:	espera [x 3] .
+*MOT:	que esto quema y hay que comer lo despacito .
+*FAT:	&=q qué es ?
+*FAT:	&=q el qué ?
+*FAT:	&=q qué es esto ?
+*FAT:	muy bien .
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho la herida ?
+*FAT:	&=q &-eh ?
+*MOT:	mira .
+*MOT:	te voy a quitar líquido porque me parece que se te va a caer todo , hija .
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho la herida de la nariz ?
+*MOT:	cuidado que quema .
+*MOT:	&=q &-eh , Lucía ?
+*FAT:	no .
+*FAT:	no mucho .
+*MOT:	&=q no ?
+*FAT:	podía quemar más .
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho la herida de la nariz ?
+*FAT:	&=q &-eh , bonita ?
+*MOT:	hay que soplar . [+ COR]
+*MOT:	así , sí .
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho la herida de la nariz ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q cómo ha sido ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q Dan qué ?
+*FAT:	&=q cómo ha sido ?
+*MOT:	&=q qué ha hecho Dan ?
+*FAT:	&=q cómo te ha dado , Lucía ?
+*FAT:	&=q cómo ha sido ?
+*FAT:	&=q estábais jugando en el jardín ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q estábais jugando en el jardín ?
+*FAT:	&=q y qué ha pasado ?
+*FAT:	cuenta .
+*FAT:	mm@i .
+*FAT:	Lucía .
+*FAT:	&=q qué ha pasado ?
+*FAT:	cuénta melo .
+*FAT:	corre .
+*MOT:	&=q qué te ha dicho Soco ?
+*FAT:	Lucía .
+*FAT:	&=q qué te ha dicho Soco ?
+*FAT:	mm@i .
+*MOT:	&=q te ha curado ?
+*MOT:	&=q te ha curado Soco ?
+*MOT:	&=q te ha curado Rocío ?
+*FAT:	&=q qué [//] cómo te ha curado ?
+*FAT:	a ver .
+*FAT:	cuénta nos .
+*MOT:	mm@i .
+*MOT:	no .
+*MOT:	primero de eso , pequeñita .
+*FAT:	&=q qué es ?
+*FAT:	a ver .
+*FAT:	&=q y de quién es ?
+*FAT:	muy bien .
+*FAT:	&=q el qué está caliente ? [+ COR]
+*FAT:	&=q qué es esto ? [+ COR]
+*MOT:	dice el@q .
+*MOT:	me hace gracia eso .
+*MOT:	no [x 2] sabe todavía las cosas .
+*MOT:	le llama él y ella a objetos .
+*FAT:	&-eh , Lucía .
+*FAT:	esa no es la parte de la cuchara con la que se come .
+*MOT:	ah .
+*MOT:	no , Lu .
+*MOT:	no mojes eso .
+*MOT:	mm@i .
+*MOT:	un hueso .
+*MOT:	vale .
+*FAT:	&=q has visto ?
+*FAT:	con lo que se ha quedado es con la piruleta &=q eh ?
+*FAT:	del regalito .
+*FAT:	los de Imaginarium son un poco canallas .
+*MOT:	siempre pasa lo mismo .
+*FAT:	&=q tú quieres ?
+*FAT:	tiraritaritari@o .
+*FAT:	adelante .
+*FAT:	&=q vemos los de animales aunque sea un poco a ratitos ? [+ ADD]
+*MOT:	sí .
+*FAT:	&=q quieres ver a Eladio y a Marta ?
+*FAT:	a ver .
+*MOT:	&=q l@l de +..?
+*FAT:	&=q l@l de +..?
+*MOT:	muy bien .
+*FAT:	muy bien .
+*MOT:	&=q xxx ? [+ NON]
+*FAT:	sí .
+*FAT:	claro .
+*FAT:	para poder acertar el puzle .
+*FAT:	porque son cuarenta piezas .
+*MOT:	muy bien .
+*FAT:	muy bien .
+*MOT:	E@l de Elena .
+*FAT:	&=q t@l de +..?
+*FAT:	&=q t@l de +..?
+*MOT:	no .
+*MOT:	de Teresa .
+*FAT:	&=q de +..?
+*FAT:	&=q qué más ?
+*FAT:	de tortilla .
+*MOT:	de toro .
+*FAT:	de tocino .
+*FAT:	&=q a ver ?
+*FAT:	otra , Lucía .
+*FAT:	cóge la .
+*FAT:	uy@i .
+*FAT:	&=q qué es eso ?
+*FAT:	&=q qué es ?
+*FAT:	q@l .
+*MOT:	q@l .
+*FAT:	&=q de +..?
+*FAT:	&=q q@l de +..?
+*FAT:	queso .
+*FAT:	me podías dar un poquito de madarina .
+*FAT:	a ver .
+*FAT:	&=q sabes ?
+*FAT:	muy bien .
+*FAT:	&=q de +..?
+*MOT:	no .
+*MOT:	no la tires que se mancha .
+*FAT:	&=q l@l de +..?
+*FAT:	&=q l@l de qué ?
+*FAT:	vale .
+*FAT:	quiero más .
+*FAT:	está muy buena &=q &-eh ?
+*MOT:	jo@i están +...
+*FAT:	&=q U@l de +..?
+*FAT:	mm@i .
+*FAT:	de uña .
+*FAT:	&=q de +..?
+*FAT:	&=q de miel ?
+*FAT:	0 .
+*MOT:	0 .
+*FAT:	&=e hala@i !
+*FAT:	a ver .
+*FAT:	aquí otra letra .
+*FAT:	a ver .
+*FAT:	&=q esa cuál es ?
+*FAT:	oh [x 2] .
+*MOT:	&=q cuál es esta ?
+*MOT:	&=q cuál es ?
+*MOT:	ya .
+*MOT:	pero primero cuál es esta .
+*FAT:	uy@i , Lucía .
+*MOT:	la y@l .
+*MOT:	es la y@l , Lucía .
+*FAT:	&=q es la y@l ?
+*FAT:	&=q y si se cae ?
+*FAT:	sí: .
+*FAT:	corre [x 2] .
+*FAT:	que nos quedan muy poquitas letras , Lucía .
+*FAT:	&=q no quieres jugar más a las letras ?
+*FAT:	bueno .
+*MOT:	a ver la casita .
+*FAT:	a ver la casita .
+*FAT:	uy@i .
+*FAT:	una casita de letras &=q verdad ?
+*FAT:	a ver .
+*FAT:	otra letra .
+*FAT:	corre .
+*FAT:	coge otra letra , Lucía .
+*FAT:	a ver .
+*FAT:	&=q cuál es la letra ?
+*FAT:	&=q O@l de +..?
+*FAT:	de oso .
+*FAT:	muy bien .
+*MOT:	muy bien .
+*FAT:	bien .
+*FAT:	&=e muy bien !
+*MOT:	muy bien .
+*FAT:	bien .
+*MOT:	sí .
+*FAT:	&=e muy bien !
+*MOT:	esa es la d@l de dedo .
+*MOT:	muy bien .
+*MOT:	de Foca .
+*FAT:	&=e bien !
+*MOT:	de kilo .
+*FAT:	&=e bien !
+*FAT:	no .
+*FAT:	no hay más .
+*FAT:	mira .
+*FAT:	está vacía ?
+*FAT:	toco@o [x 2] .
+*MOT:	oye .
+*MOT:	&=q y por qué no hay b@l ?
+*FAT:	sí hay .
+*FAT:	&=q b@l de +..?
+*FAT:	&=q dónde está la b@l ?
+*FAT:	&=q cómo que no hay b@l , Mother ?
+*MOT:	que no hay b@l .
+*FAT:	&=q cómo que no hay b@l ?
+*FAT:	&=q dónde está la b@l ?
+*MOT:	no ha salido .
+*FAT:	&=q no ha salido la b@l ?
+*MOT:	no están todas .
+*MOT:	yo creo .
+*FAT:	&=q no están todas , Lulú ?
+*FAT:	a ver .
+*FAT:	vamos a empezar a meter por orden .
+*FAT:	&=q la +..?
+*FAT:	a@l .
+*FAT:	la b@l no está .
+*FAT:	la c@l de Car:los .
+*FAT:	la d@l de dedo .
+*FAT:	E@l .
+*FAT:	Lucía .
+*FAT:	&=q las pegamos en la nevera ?
+*FAT:	&=q e@l ?
+*FAT:	y hacemos una [//] las letras +...
+*MOT:	&=e muy bien !
+*FAT:	oh [x 2] .
+*FAT:	dá sela a Mamá .
+*FAT:	corre .
+*FAT:	corre [x 2] .
+*FAT:	dá sela a Mamá .
+*FAT:	corre [x 2] .
+*MOT:	&=q tampoco hay t@l ?
+*MOT:	&=q o sí ?
+*MOT:	sí .
+*MOT:	t@l sí .
+*FAT:	corre .
+*FAT:	dá sela a Mamá .
+*FAT:	&=q di le cuál es ?
+*MOT:	&=e &-eh !
+*MOT:	&=q de qué ?
+*MOT:	no .
+*MOT:	eso es la m@l .
+*MOT:	m@l de Mamá .
+*MOT:	&=q y b@l ?
+*FAT:	&=q la b@l de +..?
+*FAT:	uy@i .
+*FAT:	Mother .
+*FAT:	tú sí que te vas a caer .
+*FAT:	Lucía .
+*FAT:	cuidado .
+*FAT:	vamos a poner las en la nevera .
+*FAT:	&=q vale ?
+*FAT:	sí .
+*FAT:	corre .
+*FAT:	ven .
+*MOT:	venga .
+*MOT:	< hay que ir se > [/] hay que ir se al chucu@f , Lu .
+*FAT:	le han gustado &=q &-eh ?
+*MOT:	hay que ir se al chucu@f , Lucía .
+*FAT:	Lulú .
+*FAT:	&=q quién se va a dormir ?
+*FAT:	&=q quién se va a dormir , Lucía ?
+*FAT:	&=q quién se va a dormir ?
+*FAT:	espera .
+*MOT:	que yo te ayudo , Lucía .
+*MOT:	muy bien .
+*FAT:	vale .
+*MOT:	venga .

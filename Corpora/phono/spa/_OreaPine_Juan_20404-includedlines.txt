@@ -1,0 +1,246 @@
+*FAT:	&=q qué haces , Juan ?
+*FAT:	&=q metiendo la carretilla ? [+ ADS]
+*FAT:	&=q dónde metes la carretilla ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q dónde metes la carretilla ?
+*FAT:	&=q por aquí ?
+*FAT:	< con cuidado > [/] con cuidado .
+*FAT:	pero bueno .
+*FAT:	y [/] &=q y dónde va la carretilla ?
+*FAT:	no .
+*FAT:	ahí no cabe , Juan .
+*FAT:	no puedes meter el tractor por la puerta de casa .
+*FAT:	claro .
+*FAT:	por ahí no .
+*FAT:	por ahí sólo cabe Maisy .
+*FAT:	y Flor y el cocodrilo .
+*MOT:	a ver .
+*MOT:	pero tendrá que abrir la puerta al cocodrilo .
+*MOT:	&=q cómo se llama el cocodrilo , Juan ?
+*MOT:	Rodrigo .
+*FAT:	écha te un poco más para allá .
+*MOT:	&=q pero < le has > [/] le has presentado a Papá cómo se llaman los amiguitos de Maisy ?
+*MOT:	&=q < cómo se llama > [/] cómo se llama esta ?
+*MOT:	no .
+*MOT:	&=q esta quién es ?
+*MOT:	&=q pero la gallina cómo se llama ?
+*MOT:	Tu@x +...
+*MOT:	Tuna .
+*MOT:	&=q y esta ?
+*MOT:	esta se llama Flor .
+*MOT:	&=q y el que está metido ahí < en el > [/] en el establo ?
+*MOT:	este [/] este de aquí .
+*MOT:	aquel de allí .
+*MOT:	el elefante .
+*MOT:	&=q cómo se llama ?
+*MOT:	Pepo .
+*MOT:	Pepo .
+*MOT:	Pepo .
+*MOT:	Pepo [x 2] .
+*MOT:	&=q qué haces ?
+*MOT:	&=q montando la flor ? [+ ADS]
+*MOT:	&=q en dónde ?
+*MOT:	&=q dónde montas la flor ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q y esto qué es ?
+*MOT:	&=q y cómo montas la carretilla en el tractor ?
+*MOT:	&=q también montas la carretilla en el tractor ?
+*FAT:	tenéis una conversación de lo más granado .
+*MOT:	está montando los animalitos en el tractor .
+*MOT:	&=q por dónde va el tractor ?
+*MOT:	&=q qué hace ?
+*MOT:	toma .
+*MOT:	pon le otro .
+*MOT:	que con uno solo no se sostiene .
+*MOT:	tienes que poner le tres .
+*MOT:	venga .
+*MOT:	a ver .
+*MOT:	yo te ayudo .
+*MOT:	déjame que yo se lo pongo .
+*MOT:	&=q vale ?
+*MOT:	&=q sí ?
+*MOT:	&=q y luego dónde va a ir ?
+*MOT:	uh@i .
+*MOT:	&=q y esto cómo lo tienes tan mojado ?
+*MOT:	pero Juan .
+*MOT:	cómo has dejado esto de babas .
+*MOT:	qué asco .
+*MOT:	ya está .
+*MOT:	espera .
+*MOT:	mira .
+*MOT:	uh@i .
+*MOT:	se cae con tres también .
+*MOT:	vaya .
+*MOT:	venga .
+*MOT:	bueno .
+*MOT:	sujéta lo .
+*MOT:	&=q se sujeta ahí ?
+*MOT:	&=q con el burrito ?
+*MOT:	< mejor con este que tiene > [//] mira .
+*MOT:	uh@i .
+*MOT:	oy@i .
+*MOT:	se ha caído .
+*MOT:	vaya .
+*MOT:	se lo han quitado las patas .
+*MOT:	&=q qué es ?
+*MOT:	&=q dónde ?
+*MOT:	&=q dónde ?
+*MOT:	&=q qué es eso ?
+*MOT:	es su casa .
+*MOT:	&=q la casa de quién ?
+*MOT:	&=q la casa de los animales ?
+*MOT:	pues el establo es este .
+*MOT:	aquí .
+*MOT:	mira lo .
+*MOT:	que < le está poniendo > [//] al elefante le está poniendo heno .
+*MOT:	&=q te acuerdas que dijimos que los caballos comían heno ?
+*MOT:	mira .
+*MOT:	este se ponía aquí a comer .
+*MOT:	verás .
+*MOT:	mira .
+*MOT:	a ver .
+*MOT:	se ponía ahí .
+*MOT:	&=q no ves ?
+*MOT:	claro .
+*MOT:	mira dónde lo guardan .
+*MOT:	lo guardan aquí arriba .
+*MOT:	&=q lo ves ?
+*MOT:	claro .
+*MOT:	eso es heno .
+*MOT:	mm@i .
+*MOT:	mm@i .
+*MOT:	&=q el +..?
+*MOT:	el elefante no se puede quitar de ahí porque está pintado .
+*MOT:	no lo podemos quitar .
+*MOT:	ni al perrito tampoco .
+*MOT:	< hay cosas que están ahí > [/] .
+*MOT:	claro .
+*MOT:	hay cosas que están ahí puestas y hay otras que [x 2] las tenemos aquí fuera .
+*MOT:	&=q ves ?
+*MOT:	los pollitos sí que los podemos quitar .
+*MOT:	y los podemos poner en un sitio y en otro .
+*MOT:	los podemos poner aquí .
+*MOT:	los podemos llevar al lago .
+*MOT:	esto para comer los animales pues también lo podemos poner aquí .
+*MOT:	también podemos poner al burrito ahí fuera .
+*MOT:	&=q ese es para las vacas ?
+*MOT:	&=q y dónde están las vacas ?
+*MOT:	ay@i mira .
+*MOT:	aquí hay una .
+*MOT:	ahí hay una vaca .
+*MOT:	&=q no ?
+*MOT:	sí .
+*MOT:	&=q ahí come ?
+*MOT:	ah .
+*MOT:	pero bueno .
+*FAT:	esa vaca .
+*MOT:	&=q cómo ha subido hasta ahí arriba ?
+*MOT:	&=q va a comer ahí arriba ?
+*MOT:	espera .
+*MOT:	entonces tenemos que poner la así .
+*MOT:	xxx .
+*MOT:	&=q no quiere comida ? [+ ADS]
+*MOT:	bueno .
+*MOT:	pues déja selo para otro .
+*MOT:	a lo mejor el burrito quiere comida .
+*MOT:	mira .
+*MOT:	&=q a la vaca no le gusta ? [+ ADS]
+*MOT:	pero bueno .
+*MOT:	&=q los huevos sí que le gustan (.) a la vaca ? [+ COR]
+*MOT:	claro .
+*MOT:	es que eso no se puede poner , Juan .
+*MOT:	se tiene que quedar así .
+*MOT:	claro .
+*MOT:	hay que sujetar lo .
+*MOT:	&=q ahí lo vas a sujetar ?
+*MOT:	&=q quieres jugar al escondite ?
+*MOT:	&=q con quién ?
+*MOT:	&=q con la gallina que se llama Tula ? [+ ADS]
+*MOT:	&=q y con quién más ?
+*MOT:	espera [x 3] , Juan .
+*MOT:	venga .
+*MOT:	pues a ver .
+*MOT:	&=q quién se esconde ?
+*MOT:	&=q a quién le toca esconder se ?
+*MOT:	&=q < y quién le toca > [//] y a quién le toca buscar los ?
+*MOT:	&=q y dónde está Maisy ?
+*MOT:	mm@i .
+*MOT:	&=q dónde está Maisy ?
+*MOT:	yo creo que no .
+*MOT:	&=q tú crees que está ahí ?
+*MOT:	&=q dónde está Maisy ?
+*MOT:	búsca lo .
+*MOT:	mira a ver si está en el tractor .
+*MOT:	a lo mejor está metida en el tractor .
+*MOT:	sabes que siempre está metida ahí .
+*MOT:	&=q el tractor ?
+*MOT:	estará por ahí en algún sitio .
+*MOT:	mira a ver en aquel rincón de allí que no se ve .
+*MOT:	a ver .
+*MOT:	búsca lo .
+*MOT:	a ver .
+*MOT:	búsca lo .
+*MOT:	&=q dónde está ?
+*MOT:	pero bueno .
+*MOT:	&=q y el tractor ?
+*MOT:	esta aquí debajo .
+*MOT:	estaba escondido también .
+*MOT:	&=q esta ahí Maisy ?
+*MOT:	&=q también Flor se esconde ?
+*MOT:	&=q están todos escondidos ?
+*MOT:	pero bueno .
+*MOT:	&=q tanta gente cabe ahí ?
+*MOT:	&=q ya ?
+*MOT:	&=q le toca a Maisy buscar ? [+ COR]
+*MOT:	mira .
+*MOT:	todos encontrados .
+*MOT:	ya no hay más &=q no ?
+*MOT:	no .
+*MOT:	a ver a quién le toca buscar . [+ COR]
+*MOT:	pero no lo escondas siempre en el mismo sitio .
+*MOT:	ahí lo va a encontrar Maisy rápidamente otra vez .
+*MOT:	se tropieza con Rodrigo .
+*MOT:	oh .
+*MOT:	&=q un poco más para allá para qué ?
+*MOT:	&=q para que no se salga ?
+*MOT:	ya está .
+*MOT:	&=q y ahora ?
+*MOT:	&=q y ahora qué ?
+*MOT:	&=q y ahora qué ?
+*MOT:	&=q quién busca ?
+*MOT:	&=q cómo ?
+*MOT:	&=q no están ?
+*MOT:	&=q pero Maisy ha buscado bien ?
+*MOT:	busca por otro sitio .
+*MOT:	pues busca [/] busca en el corral .
+*MOT:	&=q a ver si están en el corral ?
+*MOT:	o aquí .
+*MOT:	en la casa del tractor .
+*MOT:	que entre Maisy a buscar allí .
+*MOT:	a ver .
+*MOT:	cuidado [x 2] que lo rompes .
+*MOT:	&=q un poco más ya ? [+ ADS]
+*MOT:	&=q la ha encontrado o no ?
+*MOT:	&=q no ?
+*MOT:	&=q ahí no estaban ?
+*MOT:	&=q no ?
+*MOT:	&=q y en dónde estaban ?
+*MOT:	espera [x 3] .
+*MOT:	< vamos a abrir lo > [/] vamos a abrir lo para ver si están ahí .
+*MOT:	mira a ver .
+*MOT:	venga .
+*MOT:	que entre Maisy a ver si están ahí .
+*MOT:	uh@i .
+*MOT:	están todos .
+*MOT:	lo ha encontrado Juan . [+ COR]
+*MOT:	lo ha encontrado Juan . [+ COR]
+*MOT:	Juan y Maisy , claro .
+*MOT:	lo ha encontrado Maisy también .
+*MOT:	a ver .
+*MOT:	venga .
+*MOT:	cierra otra vez .
+*MOT:	así .
+*MOT:	&=q sí ?
+*MOT:	pero cuidado que los puedes romper &=q &-eh ?
+*MOT:	si lo cierras eso con los amigos de Maisy dentro a lo mejor los rompes .
+*MOT:	porque se doblan .

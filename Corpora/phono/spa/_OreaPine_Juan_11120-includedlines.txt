@@ -1,0 +1,488 @@
+*MOT:	di le de qué color es ese .
+*MOT:	di le a Tío_Urbano +//.
+*MOT:	azul: .
+*MOT:	&=q y ese otro ?
+*MOT:	&=q y este ?
+*MOT:	no .
+*MOT:	&=q este de qué color es ?
+*MOT:	naranja .
+*MOT:	muy bien .
+*MOT:	&=q y qué estás pintando ahí ?
+*MOT:	&=q &-eh , Juan ?
+*MOT:	&=q para mí ?
+*MOT:	&=q otra casa quieres que te pinte ?
+*MOT:	a ver .
+*MOT:	aquí .
+*MOT:	aquí .
+*MOT:	otra casa .
+*MOT:	&=q un barco ahora ?
+*MOT:	venga .
+*MOT:	un barco .
+*MOT:	un barquito velero .
+*MOT:	uy@i .
+*MOT:	lo he hecho al revés .
+*MOT:	creo .
+*MOT:	&=q qué barcos pinta Mamá , &-eh ?
+*MOT:	es un desastre .
+*TI3:	&=q vamos a ver el burrito o no ?
+*TI3:	&=q &-eh ?
+*TI3:	&=q no ?
+*TI3:	entonces me voy .
+*MOT:	se va Tío_Urbano .
+*TI3:	bueno , me voy .
+*TI3:	hasta+luego .
+*MOT:	venga , Tío_Urban , hasta+luego .
+*FAT:	adiós .
+*FAT:	di le adiós a Tío_Urbano , Juan .
+*MOT:	di le adiós a Tío_Urbano .
+*MOT:	cariño .
+*MOT:	di le adiós a Tío_Urban .
+*MOT:	hasta+luego .
+*TI3:	venga .
+*TI3:	vamos [x 3] conmigo adonde el burrito .
+*TI3:	&=q no quiere ?
+*FAT:	déjalo ahora , Urbano .
+*TI3:	me voy .
+*MOT:	&=q < a ver qué > [/] a ver qué redondos haces < a ver qué redondos > [/] ?
+*FAT:	&=q redondo [x 2] ?
+*FAT:	&=q qué color me das ?
+*FAT:	en el suelo no se pinta , Juan .
+*FAT:	Juan .
+*FAT:	en el suelo no &=q &-eh ?
+*FAT:	oye .
+*FAT:	&=q y cuadrados ?
+*FAT:	&=q sabes hacer cuadrados ?
+*FAT:	&=q a ver cómo se hace ?
+*FAT:	muy bien .
+*FAT:	&=q otro ?
+*FAT:	a ver .
+*FAT:	&=q otro ?
+*FAT:	a ver .
+*FAT:	oye .
+*FAT:	no te arrastres por el suelo , Juan .
+*MOT:	oye , Juan .
+*MOT:	Juan .
+*FAT:	toma el narnaja .
+*MOT:	cuénta me dónde has ido esta mañana .
+*MOT:	a ver .
+*MOT:	&=q dónde has estado esta mañana , cariño ?
+*MOT:	&=q Juan ?
+*MOT:	cuénta me dónde has estado esta mañana .
+*MOT:	Juan .
+*MOT:	cuénta me dónde has estado esta mañana .
+*MOT:	&=q < has visto > [/] has visto el fuego ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q has visto el fuego ?
+*MOT:	&=q de qué color es ese ?
+*MOT:	&=q de qué color es este ?
+*MOT:	&=q una casa ?
+*MOT:	vale [x 2] .
+*MOT:	ahora te pinto una casa .
+*MOT:	&=q dónde ?
+*MOT:	&=q aquí [x 2] ?
+*MOT:	&=q una casa ?
+*MOT:	jobar , Juan .
+*MOT:	xxx Mamá lo unico que sabe dibujar , casas . [+ NON]
+*MOT:	a ver .
+*MOT:	&=q dónde está la casa ?
+*MOT:	amiguito .
+*MOT:	&=q con camino ?
+*MOT:	&=q la quieres con camino ?
+*MOT:	&=q y qué ponemos en el camino ?
+*MOT:	&=q qué ponemos en el camino ?
+*MOT:	a ver .
+*MOT:	&=q qué quieres que pongamos en el camino ?
+*MOT:	&=q una puerta ?
+*MOT:	la puerta está aquí puesta .
+*MOT:	mira .
+*MOT:	&=q ves ?
+*MOT:	la puerta .
+*MOT:	&=q y aquí en el camino qué plantamos ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q un camello ?
+*MOT:	&=q cómo vamos a plantar un camello en el camino ?
+*MOT:	&=q qué se planta en el camino ?
+*MOT:	a ver .
+*MOT:	&=q qué hay en los caminos ?
+*MOT:	&=q qué es esto ?
+*MOT:	la chimena . [+ COR]
+*MOT:	&=q y qué es esto ?
+*MOT:	un árbol .
+*MOT:	y flores también .
+*MOT:	muy bien .
+*MOT:	&=q más ?
+*MOT:	&=q qué más cosas plantamos en el camino ?
+*MOT:	&=q y qué árboles podemos pintar ?
+*MOT:	a ver .
+*MOT:	&=q qué árboles podemos pintar por el camino ?
+*MOT:	&=q este qué tiene ?
+*MOT:	mira .
+*MOT:	&=q qué tiene este ?
+*MOT:	son chiquititas y rojas .
+*MOT:	&=q qué tiene ?
+*MOT:	< &=q qué són > [/] qué son eso ?
+*MOT:	muy bien .
+*MOT:	cerezas .
+*MOT:	&=q y plantamos otro árbol ?
+*MOT:	&=q y en ese árbol que vamos < a plan@x > [//] a poner ?
+*MOT:	a ver .
+*MOT:	a ver .
+*MOT:	mira .
+*MOT:	vamos a hacer esto .
+*MOT:	&=q qué son ?
+*MOT:	caracoles .
+*MOT:	parece un caracol .
+*MOT:	es verdad .
+*MOT:	son peras .
+*MOT:	son peras .
+*MOT:	son como alargaditas .
+*MOT:	alargaditas .
+*MOT:	y ahora por aquí vamos a pintar otra .
+*MOT:	&=q qué es esto ?
+*MOT:	otro .
+*MOT:	&=q este qué va a tener ?
+*MOT:	mira .
+*MOT:	son redonditas y naranjas .
+*MOT:	&=q qué son ?
+*MOT:	son naranjas .
+*MOT:	&=q y esto qué es , Juan ?
+*MOT:	&=q esto qué es ?
+*MOT:	el tronco del árbol .
+*MOT:	&=q verdad ?
+*MOT:	&=q y estos qué son ?
+*MOT:	&=q qué es esto de aquí ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q qué es esto de aquí ?
+*MOT:	no [//] sí .
+*MOT:	vale .
+*MOT:	el camino .
+*MOT:	&=q y esto (.) que < se xxx > [//] ha plantado Mamá aquí qué es ?
+*MOT:	no , esto .
+*MOT:	esto .
+*MOT:	es un parque , claro .
+*MOT:	en el parque hay flores y árboles .
+*MOT:	&=q a que sí ?
+*MOT:	&=q y esto qué es ?
+*MOT:	&=q qué es eso ?
+*MOT:	una nube .
+*MOT:	&=q y esto ?
+*MOT:	un sol .
+*MOT:	y ahora por aquí viene +...
+*MOT:	&=e la luna !
+*MOT:	muy bien .
+*MOT:	&=q un pez ?
+*MOT:	uf@i .
+*MOT:	qué mal me salen a mí los peces .
+*MOT:	anda .
+*MOT:	qué bien me ha salido este .
+*MOT:	no me lo puedo creer ni yo .
+*MOT:	&=q y eso qué es ?
+*MOT:	un pez .
+*MOT:	&=q vale ?
+*MOT:	ahora pinta tú .
+*MOT:	&=q a ver qué pinta Juan ?
+*MOT:	un camino .
+*MOT:	&=q < qué más > [/] qué más ?
+*MOT:	&=q son pajaritos ?
+*MOT:	el pajarito cuando venga el abuelo se lo pides a él que lo sabe pintar muy bien .
+*MOT:	&=q vale ?
+*MOT:	sí .
+*MOT:	ahora voy .
+*FAT:	no .
+*FAT:	aquí no está el Avi .
+*FAT:	&=q quién está aquí ?
+*FAT:	Mamá .
+*FAT:	&=q y quién más ?
+*FAT:	el a@x +...
+*FAT:	sí .
+*FAT:	pero aquí vive el abuelo y la abuela &=q no ?
+*FAT:	aquí no vive el Avi .
+*FAT:	oye .
+*FAT:	&=q y qué hay ahí en ese cubo ?
+*FAT:	&=q qué hay en ese cubo ?
+*FAT:	&=q hay patatas ?
+*FAT:	mm@i .
+*FAT:	&=q las has cogido del huerto ?
+*FAT:	&=q sí ?
+*FAT:	déjalo en el cubo , anda .
+*FAT:	oye .
+*FAT:	más suave .
+*FAT:	que se estropean .
+*FAT:	no tires las patatas , Juan .
+*FAT:	oye , Juan .
+*FAT:	&=q qué haces ?
+*MOT:	Juan .
+*MOT:	te llama Papá .
+*AB2:	está haciendo caca .
+*FAT:	&=q qué hace la abuela ?
+*AB2:	da me una .
+*AB2:	eso .
+*AB2:	pon la aquí [x 3] .
+*AB2:	pon la aquí , venga .
+*AB2:	tú pón melas ahí .
+*AB2:	cuando yo acabe me las pones ahí .
+*AB2:	hala@i , otra [x 2] .
+*AB2:	otra .
+*AB2:	otra .
+*FAT:	mira a ver quién viene , Juan .
+*AB2:	pon la ahí .
+*FAT:	&=q quién viene ?
+*FAT:	&=q Juan ?
+*FAT:	&=q comiendo ?
+*FAT:	&=q estás comiendo ya ?
+*FAT:	&=q estás comiendo ya , Juan ?
+*FAT:	no .
+*FAT:	todavía no .
+*FAT:	&=q qué tienes ahí en la mano ?
+*FAT:	&=q qué tienes ahí en la mano ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q un barco ?
+*FAT:	espera .
+*FAT:	&=q qué tienes en la nariz ?
+*FAT:	&=q cómo que listos+ya ?
+*FAT:	preparados+listos +...
+*FAT:	oye .
+*FAT:	di le a la abuela dónde has estado ahora .
+*FAT:	&=q quieres hacer el barco ?
+*FAT:	&=q quién hace los barcos chiquititos ?
+*FAT:	&=q quién los hace ?
+*FAT:	no .
+*FAT:	&=q quién los hace ?
+*MOT:	Mamá .
+*FAT:	los hace Mamá .
+*FAT:	&=q un barquito ? [+ COR]
+*FAT:	&=q se lo decimos a Mamá ?
+*FAT:	Mamá .
+*MOT:	&=q qué ?
+*FAT:	ven a hacer un barco para el niño , anda .
+*MOT:	no puedo .
+*FAT:	no puede Mamá hacer un barco ahora .
+*MOT:	un momentito .
+*FAT:	&=q < hacemos un avión > [/] hacemos un avión ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q hacemos un avión ?
+*FAT:	oye .
+*FAT:	&=q dónde has estado ahora ?
+*FAT:	&=q en el parque ?
+*FAT:	&=q has estado jugando ?
+*FAT:	&=q y qué había ?
+*FAT:	&=q una feria , había ?
+*FAT:	&=q y qué había ?
+*FAT:	&=q había tractores ?
+*FAT:	&=q y qué más había ?
+*FAT:	&=q qué más había , Juan ?
+*FAT:	&=q un +..?
+*FAT:	&=q un dragón ?
+*FAT:	&=q un dragón en la feria ?
+*FAT:	no .
+*FAT:	eso fue el otro día en el cine .
+*FAT:	&=q < qué había > [/] qué viste el otro día en el cine ?
+*FAT:	en el cine viste una película .
+*FAT:	película .
+*FAT:	&=q y < qué hay > [/] qué salía en la película ?
+*FAT:	&=q qué salían ?
+*MOT:	&=q te acuerdas del [x 2] ogro ?
+*MOT:	&=q cómo se llamaba el ogro ?
+*MOT:	el ogro que vimos el otro día cómo se llamaba .
+*FAT:	&=q y la princesa ?
+*MOT:	Fiona .
+*FAT:	Fiona .
+*MOT:	&=q y quién más salía , Juan ?
+*MOT:	&=q un león ?
+*FAT:	un dragón .
+*MOT:	ah , un dragón .
+*MOT:	&=q por dónde ?
+*MOT:	pero por dónde echaba el fuego .
+*FAT:	por la boca .
+*MOT:	por la +...
+*MOT:	&=q por la boca echaba fuego ?
+*FAT:	&=q y con quién fuimos al cine , Juan ?
+*FAT:	&=q con quién fuimos ?
+*FAT:	&=q con quién fuimos ?
+*FAT:	&=q quién venía al cine con nosotros ?
+*FAT:	no .
+*FAT:	el tobogán ha sido esta mañana .
+*FAT:	&=q con quién fuimos al cine ?
+*FAT:	con +...
+*FAT:	con Mamá .
+*FAT:	&=q y con quién más ?
+*FAT:	con Mó@x +...
+*FAT:	con Mónica .
+*FAT:	con la prima Mónica .
+*FAT:	&=q y con quién más ?
+*FAT:	mira .
+*TI3:	oye .
+*TI3:	&=q esto para qué es ?
+*TI3:	&=q para fotografiar ?
+*FAT:	no .
+*FAT:	< déjalo deja lo > [/] déjalo .
+*FAT:	&=q qué es eso ?
+*FAT:	un avión .
+*FAT:	&=q y qué hace el avión ?
+*FAT:	&=q se ha chocado ?
+*FAT:	&=q se ha chocado ?
+*FAT:	&=q dónde se ha chocado ?
+*FAT:	&=q en la pared ?
+*FAT:	&=q a ver cómo vuela ?
+*FAT:	&=q hago otro ?
+*FAT:	&=q más pequeñito todavía ?
+*FAT:	no , así .
+*FAT:	&=q así lo hago ?
+*FAT:	&=q así [x 2] de grande ?
+*FAT:	&=q o quieres más grande ?
+*FAT:	oye .
+*FAT:	&=q sabes qué me han dicho ?
+*FAT:	que en casa de [x 2] Adela están naciendo pollitos .
+*FAT:	&=q vamos a ir a ver los pollitos esta tarde ?
+*FAT:	&=q no ?
+*FAT:	&=q y las gallinas ?
+*FAT:	&=q sí ?
+*FAT:	&=q tampoco ?
+*FAT:	&=q y los pavos de Tío_Paco los vamos a ver ?
+*TI3:	tampoco [x 2] .
+*FAT:	&=q y el burro del abuelo ?
+*TI3:	nada [/] hoy nada .
+*TI3:	no quiere animales mi niño .
+*FAT:	mira [x 3] .
+*FAT:	&=q han chocado los aviones ? [+ COR]
+*FAT:	&=q a ver cómo vuelan ?
+*FAT:	&=q y no dan vueltas en el aire ?
+*FAT:	&=q y hacen redondos ?
+*FAT:	a ver cómo hacen círculos .
+*FAT:	muy bien .
+*FAT:	&=q me lo das a mí ?
+*FAT:	&=q vuela Papá con el avión ?
+*FAT:	uh@o .
+*FAT:	xxx .
+*FAT:	así [x 2] .
+*TI3:	toma .
+*TI3:	otro avión .
+*FAT:	mira [/] mira qué te da Tío_Dioni .
+*TI3:	mira cómo vuela .
+*FAT:	mira qué te da el Tío_Dioni .
+*FAT:	otro avión .
+*FAT:	mira .
+*FAT:	otro avión .
+*FAT:	ya tienes tres .
+*FAT:	&=q cuántos aviones tienes ?
+*FAT:	ese < lo ha hecho Dioni > [/] lo ha hecho Dioni .
+*FAT:	&=q < ha choca > [/] ha chocado otro ? [+ COR]
+*FAT:	&=q a ver cómo chocan ?
+*FAT:	catapán@o .
+*FAT:	catapum@o .
+*FAT:	&=q se dan un beso los aviones ?
+*FAT:	&=q a ver ?
+*FAT:	ay@i qué besos .
+*FAT:	< pero bueno > [/] pero bueno .
+*FAT:	se dan muchos mesos los aviones .
+*FAT:	&=q va a dormir el avión ?
+*FAT:	&=q a ver cómo duerme ?
+*FAT:	ay@i se duerme el avión .
+*FAT:	&=q se duerme el avión ?
+*FAT:	&=q sí ?
+*MOT:	hola , Juan .
+*MOT:	hala@i &=q quién te ha hecho esos aviones ?
+*MOT:	&=q te los ha hecho Papá ?
+*MOT:	&=q y vuelan ?
+*FAT:	mira cómo vuelan .
+*FAT:	enséña le +//.
+*MOT:	qué grande es .
+*MOT:	&=q y qué es esto ?
+*MOT:	&=q qué es esto ?
+*MOT:	&=q una sandía ?
+*MOT:	pero si no es redonda .
+*MOT:	es un calabacín .
+*FAT:	&=q qué dices ?
+*FAT:	&=q más ?
+*MOT:	&=q qué vas a hacer lo ?
+*MOT:	ah .
+*MOT:	que Papá te lo ha hecho .
+*MOT:	&=q dices eso ?
+*FAT:	&=q Papá acedo@x ?
+*FAT:	no sé lo que ha dicho .
+*MOT:	Papá hacer lo .
+*FAT:	no sé lo que ha dicho .
+*MOT:	&=q no te has hecho pis ?
+*FAT:	en toda la mañana .
+*FAT:	&=q se ha roto ?
+*FAT:	&=q a ver ?
+*FAT:	no .
+*FAT:	esto es la cola del avión .
+*FAT:	0 .
+*FAT:	&=q qué es tuyo ?
+*FAT:	&=q a ver cómo lo haces girar ?
+*FAT:	oye .
+*FAT:	&=q a ver cómo haces las tijeras con la mano ?
+*FAT:	&=q a ver cómo las haces ?
+*FAT:	&=q a ver cómo haces las tijeras ?
+*FAT:	a ver .
+*FAT:	estos dos se cogen con el dedo gordo .
+*FAT:	a ver cómo lo haces .
+*FAT:	mira .
+*FAT:	oh [x 2] .
+*FAT:	se cogen estos dos con este .
+*FAT:	y estiras la tijera .
+*FAT:	qué sueñito tienes .
+*FAT:	&=q tienes sueño ?
+*FAT:	un poquito .
+*FAT:	&=q comemos ?
+*FAT:	&=q sí ?
+*FAT:	judías+verdes está haciendo Mamá .
+*FAT:	sí .
+*FAT:	está haciendo +//.
+*FAT:	&=q sopa ?
+*FAT:	&=q cómo ayer ?
+*FAT:	&=q maiz quieres ?
+*FAT:	&=q como los pollitos ?
+*FAT:	&=q vamos a ver los pollitos ?
+*FAT:	&=q no ?
+*FAT:	&=q cómo hacen los pollitos ?
+*FAT:	&=q y cómo son ?
+*FAT:	son así de pequeños .
+*FAT:	así [x 4] [/] .
+*MOT:	&=q < le has dicho > [/] le has dicho que están saliendo polluelos del [x 2] huevo ?
+*FAT:	sí .
+*FAT:	pero no quiere ir a ver los .
+*MOT:	&=q no quieres ir a ver lo ?
+*MOT:	mira .
+*MOT:	el huevo se hace pac@o y se abre y sale el pollito .
+*FAT:	claro .
+*MOT:	&=q no quieres ir a ver eso ?
+*MOT:	sale un pollito pequeñito [x 2] .
+*MOT:	hoy ha salido uno blanco .
+*MOT:	y tienen que salir más (.) a lo mejor .
+*FAT:	&=q luego vamos a ver los ?
+*FAT:	ay@i &=q qué le pasa al avión ?
+*FAT:	&=q cómo que se ha roto ? [+ COR]
+*FAT:	&=q quién lo ha roto ?
+*FAT:	&=q cómo que Juan ?
+*FAT:	&=q < quién ha > [//] quién es Juan ?
+*FAT:	&=q quién es Juan ?
+*FAT:	&=q ese de ahí ?
+*FAT:	&=q ese es Juan ?
+*FAT:	&=q y qué hace ?
+*FAT:	&=q está comiendo ? [+ COR]
+*FAT:	pero a ver .
+*FAT:	&=q y qué come ?
+*MOT:	toma , Juan .
+*MOT:	ya te llevo las judías .
+*FAT:	&=q qué come ?
+*FAT:	&=q un papel ?
+*FAT:	&=q quién es este gordinfloncillo de aquí ?
+*MOT:	te traigo unas poquitas por si acaso &=q &-eh ?
+*MOT:	no sé si le gustarán .
+*FAT:	&=e mira !
+*MOT:	mira .
+*MOT:	judías+verdes .
+*FAT:	con huevo .
+*FAT:	no .
+*FAT:	patatas no tiene .
+*MOT:	hoy no tenemos patatas , cariño .
+*FAT:	&=q sopla Papá ?
+*MOT:	a ver .
+*FAT:	&=q quitamos los aviones ?
+*FAT:	venga .
+*FAT:	vamos a comer un poco de judías+verdes .
+*MOT:	a ver si te gustan .
+*MOT:	&=q vale ?
