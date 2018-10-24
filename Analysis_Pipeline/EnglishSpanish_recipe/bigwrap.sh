@@ -7,8 +7,8 @@
 
 ############ VARIABLES ##############
 # Here change the paths
-ORIG_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/Bernstein/berns_all/original_corpus/"
-PROCESSED_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/Bernstein/berns_all/adapted_corpus/"
+ORIG_FOLDER="../Corpora/cha/eng/"
+PROCESSED_FOLDER="../Corpora/cha/eng/"
 PROCESSED_FOLDER2="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/RES_corpus_"
 CONCATENATED_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/conc_"
 RES_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_"

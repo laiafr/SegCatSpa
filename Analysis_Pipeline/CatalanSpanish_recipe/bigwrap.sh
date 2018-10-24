@@ -22,8 +22,8 @@ RES_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/results/"
 
 # Create Database
 # Turn the cha-like files into a single clean file per type
-#./1_selAndClean.sh ${INPUT_CORPUS}/spa ${PROCESSED_FOLDER}/spa
-#./1_selAndClean.sh $PATH_TO_SCRIPTS_1 ${INPUT_CORPUS}/cat ${PROCESSED_FOLDER}/cat
+./1_selAndClean.sh ${INPUT_CORPUS}/spa ${PROCESSED_FOLDER}/spa
+./1_selAndClean.sh ${INPUT_CORPUS}/cat ${PROCESSED_FOLDER}/cat
 
 # Phonologize
 # turn transcriptions from orthographical to phonological
@@ -35,8 +35,8 @@ RES_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/results/"
 #module load espeak
 
 
-#./2_phonologize.sh cspanish  ${PROCESSED_FOLDER}spa #does not require phonemize
-./2_phonologize.sh catalan  ${PROCESSED_FOLDER}cat #NEEDS TESTING
+./2_phonologize.sh cspanish  ${PROCESSED_FOLDER}spa #does not require phonemizer
+./2_phonologize.sh catalan  ${PROCESSED_FOLDER}cat #does require phonemizer
 
 # Concatenate the corpora
 #./3_concatenate.sh ${PROCESSED_FOLDER}/spa  ${PROCESSED_FOLDER}/cat ${CONCATENATED_FOLDER}

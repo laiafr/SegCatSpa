@@ -17,7 +17,9 @@ grep "*" < "$SELFILE" |
 sed 's/^....:.//g' |
 sed "s/\_/ /g" |
 sed '/^0(.*) .$/d' |
-sed  's/.*$//g' | #this code deletes bulletpoints (Û+numbers
+sed  's/\..*$//g' | #this code deletes bulletpoints (Û+numbers
+sed  's/\?.*$//g' | 
+sed  's/\!.*$//g' | 
 tr -d '\"' |
 tr -d '\^' | #used to be identical to previous line
 tr -d '\/' |
@@ -44,7 +46,7 @@ sed 's/0*//g' |
 sed 's/[^ ]*@s:[^ ]*//g' | #delete words tagged as being a switch into another language
 #sed 's/[^ ]*@o//g' | #delete words tagged as onomatopeic
 sed 's/@[^ ]*//g' | #delete tags beginning with @ IMPORTANT CHOICE, COULD HAVE CHOSEN TO DELETE FAMILIAR/ONOMAT WORDS
-sed "s/\' / /g"  |
+sed "s/\'/ /g"  |
 tr -s ' ' |
 sed 's/ $//g' |
 sed 's/^ //g' |
@@ -53,6 +55,7 @@ sed 's/ $//g' |
 sed '/^$/d' |
 sed '/^ $/d' |
 sed 's/\^//g' |
+tr -d '\t' |
 awk '{gsub("\"",""); print}' > $ORTHO
 
 
@@ -60,11 +63,5 @@ awk '{gsub("\"",""); print}' > $ORTHO
 #changes from included to ortho.  For e.g., the cleaning process
 #generated double spaces between 2 words (while not present in
 #included)
-sed -i -e 's/  $//g' $ORTHO
-sed -i -e 's/  / /g' $ORTHO
-sed -i -e 's/  / /g' $ORTHO
-sed -i -e 's/^ //g' $ORTHO
 sed -i -e 's/ $//g' $ORTHO
-sed -i -e '/^$/d' $ORTHO
-sed -i -e '/\t/d' $ORTHO
 
