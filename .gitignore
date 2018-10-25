@@ -6,3 +6,6 @@ Icon?
 */*/.DS_Store
 */*/*/.DS_Store
 */*/*/*/.DS_Store
+Corpora/phono/
+Corpora/concat/
+Corpora/split/

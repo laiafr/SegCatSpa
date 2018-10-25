@@ -11,8 +11,8 @@ echo "ja estic funcionant" | phonemize -l ca # testing espeak
 
 ######### VARIABLES #################
 #Variables to modify
-LANGUAGE=$1 #language options: cspanish (castillan spanish), catalan  -- NOTICE, IN SMALL CAPS
-# e.g. LANGUAGE=catalan
+LANGUAGE=$1 #language options: spa (castillan spanish), cat (catalan)  -- NOTICE, IN SMALL CAPS
+# e.g. LANGUAGE="catalan"
 
 
 RES_FOLDER=$2
@@ -24,7 +24,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	KEYNAME=$(basename "$ORTHO" -ortholines.txt)
 
 	#########
-	if [ "$LANGUAGE" = "catalan" ]
+	if [ "$LANGUAGE" = "cat" ]
 	   then
 	  echo "recognized $LANGUAGE"
 
@@ -165,7 +165,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	  echo "syllabify-corpus.pl"
 	  perl catspa-syllabify-corpus.pl catalan intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
 
-	elif [ "$LANGUAGE" = "cspanish" ]
+	elif [ "$LANGUAGE" = "spa" ]
 		 then
 		echo "recognized $LANGUAGE"
 	tr '[:upper:]' '[:lower:]'  < "$ORTHO"  |

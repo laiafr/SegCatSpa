@@ -22,13 +22,17 @@ echo  $lang1 $lang2 $output #just to check
 lang1_name=`echo $lang1 | sed "s/.*\///"`
 lang2_name=`echo $lang2 | sed "s/.*\///"`
 
+rm ${lang1}/*tags.txt.cut ${lang2}/*tags.txt.cut
+
 # exclude lines that do not lead to a multiple of 100
-for s in $lang1/*tags.txt $lang2/*tags.txt
+for s in ${lang1}/*tags.txt ${lang2}/*tags.txt
 do
-        max=`wc -l $s | grep -v "total" | awk '{print $1}'`
+   max=`wc -l $s | grep -v "total" | awk '{print $1}'`
+   if [ $max -gt 100 ] ; then
         n=$(( ($max / 100)*100 ))
-echo cutting $s
+#echo cutting $s
         head -$n $s > ${s}.cut
+   fi
 done
 
 # cleaning, in case you re-run this script
@@ -70,7 +74,7 @@ while [ "$n1files" -gt 2 -a "$n2files" -gt 2 -a "$end" -lt "$max1" -a "$end" -lt
 	selfile2_lang2=`head -2 ${lang2_name}.txt | tail -1 | awk '{print $1}'`
 
 
-#semd the first 100 lines of each file for each language to each of the 2 piles, for the 100 condition, and repeat 100 times for the switching every line condition
+#send the first 100 lines of each file for each language to each of the 2 piles, for the 100 condition, and repeat 100 times for the switching every line condition
    #100 lines blocks
 	#mono1
          sed -n 1,100p $selfile1_lang1 >> ${output}/${lang1_name}_${lang1_name}/100/tags.txt
@@ -100,6 +104,12 @@ while [ "$n1files" -gt 2 -a "$n2files" -gt 2 -a "$end" -lt "$max1" -a "$end" -lt
         	 sed -n $i,${i}p $selfile2_lang2 >> ${output}/${lang1_name}_${lang2_name}/1/tags.txt
 	done
 
+echo this is the number of lines for ${lang1_name}_${lang1_name}
+wc -l ${output}/${lang1_name}_${lang1_name}/1/tags.txt
+
+echo this is the number of lines for ${lang2_name}_${lang2_name}
+wc -l ${output}/${lang2_name}_${lang2_name}/1/tags.txt
+
 	#and remove the top 100 lines from those 4 files
 
 	tail -n +101 $selfile1_lang1 > temp.txt
@@ -115,17 +125,17 @@ while [ "$n1files" -gt 2 -a "$n2files" -gt 2 -a "$end" -lt "$max1" -a "$end" -lt
 	mv temp.txt $selfile2_lang2
 #wc -l $selfile2_lang2
 
-  #find out how many lines each file now has, and remove if lower than 100
+  #find out how many lines each file now has, and remove the file name altogether if lower than 100
 	selfile1_lang1_lines=`wc -l $selfile1_lang1 | grep -v "total" | awk '{print $1}'`
 	selfile2_lang1_lines=`wc -l $selfile2_lang1 | grep -v "total" | awk '{print $1}'`
-echo $selfile1_lang1_lines $selfile2_lang1_lines
+#echo $selfile1_lang1_lines $selfile2_lang1_lines
 	if [ $selfile1_lang1_lines -lt 100 ] ; then
-echo removing $selfile1_lang1
+#echo removing $selfile1_lang1
 		grep -v "$selfile1_lang1" "${lang1_name}.txt" > temp.txt
 		mv temp.txt "${lang1_name}.txt"
 	fi
 	if [ $selfile2_lang1_lines -lt 100 ] ; then
-echo removing $selfile2_lang1
+#echo removing $selfile2_lang1
 		grep -v "$selfile2_lang1" "${lang1_name}.txt" > temp.txt
 		mv temp.txt  "${lang1_name}.txt"
 	fi
@@ -133,14 +143,14 @@ echo removing $selfile2_lang1
 #repeat for lang2
 	selfile1_lang2_lines=`wc -l $selfile1_lang2 | grep -v "total" | awk '{print $1}'`
 	selfile2_lang2_lines=`wc -l $selfile2_lang2 | grep -v "total" | awk '{print $1}'`
-echo $selfile1_lang2_lines $selfile2_lang2_lines
+#echo $selfile1_lang2_lines $selfile2_lang2_lines
 	if [ $selfile1_lang2_lines -lt 100 ] ; then
-echo removing $selfile1_lang2
+#echo removing $selfile1_lang2
 		grep -v "$selfile1_lang2" "${lang2_name}.txt" > temp.txt
 		mv temp.txt "${lang2_name}.txt"
 	fi
 	if [ $selfile2_lang2_lines -lt 100 ] ; then
-echo removing $selfile2_lang2
+#echo removing $selfile2_lang2
 		grep -v "$selfile2_lang2" "${lang2_name}.txt" > temp.txt
 		mv temp.txt "${lang2_name}.txt"
 	fi
