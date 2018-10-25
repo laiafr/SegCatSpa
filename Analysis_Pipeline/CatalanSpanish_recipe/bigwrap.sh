@@ -89,5 +89,4 @@ divide_multiple=10
 #./5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1
 
 # More analysis on the coprus
-#./_describe_gold.sh
-#./_compare_languages.sh
+#./6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} ${CONCATENATED_FOLDER}${lang2}_${lang2} ${RES_FOLDER}/${lang1}_${lang2}
