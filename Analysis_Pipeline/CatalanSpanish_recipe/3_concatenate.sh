@@ -27,6 +27,7 @@ rm ${lang1}/*tags.txt.cut ${lang2}/*tags.txt.cut
 # exclude lines that do not lead to a multiple of 100
 for s in ${lang1}/*tags.txt ${lang2}/*tags.txt
 do
+echo $s
    max=`wc -l $s | grep -v "total" | awk '{print $1}'`
    if [ $max -gt 100 ] ; then
         n=$(( ($max / 100)*100 ))

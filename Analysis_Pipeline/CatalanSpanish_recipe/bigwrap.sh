@@ -12,15 +12,11 @@
 lang1="spa"
 lang2="cat"
 
-# Create database and Phonologize
-INPUT_CORPUS="/Users/alejandrinacristia/Dropbox/SegCatSpa/Corpora/cha/" #where you have put the talkbank corpora to be analyzed
-PATH_TO_SCRIPTS_2="/fhgfs/bootphon/scratch/lfibla/CDSwordSeg/phonologization" #path to the phonologization folder
-
-# Process transcriptions
-PHONO_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/Corpora/phono/"
-CONCATENATED_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/Corpora/concat/"
-SPLIT_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/Corpora/split/"
-RES_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/results/"
+INPUT_CORPUS="../../Corpora/cha/" #where you have put the talkbank corpora to be analyzed
+PHONO_FOLDER="../../Corpora/phono/"
+CONCATENATED_FOLDER="../../Corpora/concat/"
+SPLIT_FOLDER="../../Corpora/split/"
+RES_FOLDER="../../Results/"
 
 #########################################
 
@@ -33,36 +29,34 @@ RES_FOLDER="/Users/alejandrinacristia/Dropbox/SegCatSpa/results/"
 # turn transcriptions from orthographical to phonological
 
 #if running on oberon, do:
-#module load python-anaconda
-#source activate phonemizer
-#module load espeak
-
-
-#./2_phonologize.sh ${lang1}  ${PHONO_FOLDER}${lang1} #does not require phonemizer
-#./2_phonologize.sh ${lang2}  ${PHONO_FOLDER}${lang2} #does require phonemizer
+module load anaconda/3
+source activate phonemizer
+module load espeak
+./2_phonologize.sh ${lang1}  ${PHONO_FOLDER}${lang1} #does not require phonemizer
+./2_phonologize.sh ${lang2}  ${PHONO_FOLDER}${lang2} #does require phonemizer
 
 # Concatenate the corpora
-#./3_concatenate.sh ${PHONO_FOLDER}/${lang1}  ${PHONO_FOLDER}/${lang2} ${CONCATENATED_FOLDER}
+./3_concatenate.sh ${PHONO_FOLDER}/${lang1}  ${PHONO_FOLDER}/${lang2} ${CONCATENATED_FOLDER}
 
 # The bilingual copora is double size than the monolinguals, this step divides it in two parts, one called 0 and 1 called 1. Then we randomly select part zero to be the one that gets analyzed
 divide_half=2
-#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/ ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
-#./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${divide_half}
-#./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100 ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${divide_half}
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/ ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
+./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${divide_half}
+./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100 ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${divide_half}
 
-#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/0/* ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/
-#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/0/* ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/0/* ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/0/* ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/
 
 # Divide
 # divide the big corpora in 10 parts to evaluate the robustness of the F-score
 divide_multiple=10
 
-#for l1 in $lang1 $lang2 ; do
-#   for l2 in $lang1 $lang2 ; do
-#	./4_cut.sh ${CONCATENATED_FOLDER}${l1}_${l2}/100 ${SPLIT_FOLDER}${l1}_${l2}/100 ${divide_multiple}
-#	./4_cut.sh ${CONCATENATED_FOLDER}${l1}_${l2}/1 ${SPLIT_FOLDER}${l1}_${l2}/1 ${divide_multiple}
-#   done
-#done
+for l1 in $lang1 $lang2 ; do
+   for l2 in $lang1 $lang2 ; do
+	./4_cut.sh ${CONCATENATED_FOLDER}${l1}_${l2}/100 ${SPLIT_FOLDER}${l1}_${l2}/100 ${divide_multiple}
+	./4_cut.sh ${CONCATENATED_FOLDER}${l1}_${l2}/1 ${SPLIT_FOLDER}${l1}_${l2}/1 ${divide_multiple}
+   done
+done
 
 rm -r ${SPLIT_FOLDER}${l2}_${l1}
 
