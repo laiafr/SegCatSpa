@@ -256,7 +256,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	  echo "recognized $LANGUAGE"
 
 		echo "using espeak"
-		phonemize -l -l en-us-festival $ORTHO -o ${RES_FOLDER}/${KEYNAME}-phono.tmp
+		phonemize -l en-us-festival $ORTHO -o ${RES_FOLDER}/${KEYNAME}-phono.tmp
 
 		#rewrite symbols to have the corresponding sounds in both english and spanish conveyed with the same character
 		sed 's/jh/1/g' < ${RES_FOLDER}/${KEYNAME}-phono.tmp
