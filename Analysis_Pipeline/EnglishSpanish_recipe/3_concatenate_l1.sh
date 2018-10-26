@@ -40,7 +40,6 @@ done
 rm ${lang1_name}.txt 
 rm ${lang2_name}.txt
 rm ${output}/${lang1_name}_*/*/tags.txt
-rm ${output}/${lang2_name}_*/*/tags.txt
 mkdir -p ${output}/${lang1_name}_${lang1_name}/100/
 mkdir -p ${output}/${lang1_name}_${lang1_name}/1/
 mkdir -p ${output}/${lang1_name}_${lang2_name}/100/
