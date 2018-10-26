@@ -251,26 +251,60 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		echo "syllabify-corpus.pl"
 		perl catspa-syllabify-corpus.pl cspanish intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
 
+	elif [ "$LANGUAGE" = "eng" ]
+	   then
+	  echo "recognized $LANGUAGE"
+
+		echo "using espeak"
+		phonemize -l -l en-us-festival $ORTHO -o phono.tmp
+
+		#rewrite symbols to have the corresponding sounds in both english and spanish conveyed with the same character
+		sed 's/jh/1/g' < $ORTHO
+		sed 's/th/8/g' |
+		sed 's/ch/T/g' |
+		sed 's/sh/S/g' |
+		sed 's/dh/9/g' |
+		sed 's/sh/S/g' |
+		sed 's/zh/Z/g' |
+		sed 's/uh/U/g' |
+		sed 's/ih/I/g' |
+		sed 's/aa/A/g' |
+		sed 's/ae/E/g' |
+		sed 's/ah/V/g' |
+		sed 's/ao/O/g' |
+		sed 's/ax/2/g' |
+		sed 's/eh/3/g' |
+		sed 's/er/4/g' |
+		sed 's/hh/h/g' |
+		sed 's/ng/7/g' |
+		sed 's/uw/u/g' |
+		sed 's/ow/o_w/g' |
+		sed 's/oy/o_y/g' |
+		sed 's/iy/i/g' | 
+		sed 's/aw/a_w/g' |
+		sed 's/ay/a_y/g' |
+		sed 's/ey/e_y/g' |
+		sed 's/y/j/g' > outofperl.tmp
+
+
 	fi
 
-		echo "removing blank lines"
-		sed '/^$/d' outofperl.tmp |
-		sed '/^ $/d'  |
-		sed '/^[ ]*$/d'  |
-		sed 's/^ //'  |
-		sed 's/^\///'  | #there aren't really any of these, this is just a cautionary measure
+	echo "removing blank lines"
+	sed '/^$/d' outofperl.tmp |
+	sed '/^ $/d'  |
+	sed '/^[ ]*$/d'  |
+	sed 's/^ //'  |
+	sed 's/^\///'  | #there aren't really any of these, this is just a cautionary measure
+	tr '_' ' ' | #added specifically to deal with the English dipthongs
 	sed 's/ / ;eword /g' |
-
-		sed -e 's/\(.\)/\1 /g'  |
+	sed -e 's/\(.\)/\1 /g'  |
 	sed 's/ ; e w o r d/ ;eword /g' |
 	sed 's/\// ;esyll /g'|
 	tr -s ' ' |
 	sed 's/ $//' |
 	sed 's/ ;eword ;esyll/ ;esyll ;eword /g' |
 	sed 's/ ;eword$/ ;esyll ;eword/g' |
-	tr -s ' ' > tmp.tmp
-
-		mv tmp.tmp ${RES_FOLDER}/${KEYNAME}-tags.txt
+	tr -s ' '  ${RES_FOLDER}/${KEYNAME}-tags.txt
 
 
 done
