@@ -12,17 +12,18 @@
 lang1="spa"
 lang2="cat"
 
-INPUT_CORPUS="../../Corpora/cha/" #where you have put the talkbank corpora to be analyzed
-PHONO_FOLDER="../../Corpora/phono/"
-CONCATENATED_FOLDER="../../Corpora/concat/"
-SPLIT_FOLDER="../../Corpora/split/"
-RES_FOLDER="../../Results/"
+ROOT="/scratch1/projects/wordseg-biling/SegCatSpa/"
+
+INPUT_CORPUS="$ROOT/Corpora/cha/" #where you have put the talkbank corpora to be analyzed
+PHONO_FOLDER="$ROOT/Corpora/phono/"
+CONCATENATED_FOLDER="$ROOT/Corpora/concat/"
+SPLIT_FOLDER="$ROOT/Corpora/split/"
+RES_FOLDER="$ROOT/Results/"
 
 
 #if running on oberon, do:
 module load anaconda/3
 source activate wordseg
-module load espeak
 
 
 #########################################
@@ -45,31 +46,29 @@ module load espeak
 # The bilingual copora is double size than the monolinguals, this step divides it in two parts, one called 0 and 1 called 1. 
 # Then we select part zero to be the one that gets analyzed be moving part 1 somewhere else where it won't get analyzed
 divide_half=2
-#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/ ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
-#./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${divide_half}
-#./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100 ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${divide_half}
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/ ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
+./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${divide_half}
+./4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100 ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${divide_half}
 
-#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/tags-1.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1/
-#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/tags-1.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100/
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/1-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1/
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/1-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100/
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/0-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/tags.txt
+mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/0-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/tags.txt
 
 # Divide
 # divide the big corpora in 10 parts to evaluate the robustness of the F-score
 divide_multiple=10
 
-#for l1 in $lang1 $lang2 ; do
-#   for l2 in $lang1 $lang2 ; do
-#	./4_cut.sh ${CONCATENATED_FOLDER}${l1}_${l2}/100 ${SPLIT_FOLDER}${l1}_${l2}/100 ${divide_multiple}
-#	./4_cut.sh ${CONCATENATED_FOLDER}${l1}_${l2}/1 ${SPLIT_FOLDER}${l1}_${l2}/1 ${divide_multiple}
-#   done
-#done
-
-#rm -r ${SPLIT_FOLDER}${l2}_${l1}
+for thispart in ${lang1}_${lang2} ${lang1}_${lang1} ${lang2}_${lang2} ; do
+    ./4_cut.sh ${CONCATENATED_FOLDER}/$thispart/100 ${SPLIT_FOLDER}/$thispart/100 ${divide_multiple}
+    ./4_cut.sh ${CONCATENATED_FOLDER}/$thispart/1 ${SPLIT_FOLDER}/$thispart/1 ${divide_multiple}
+done
 
 # Analyze
 #rm -r ${RES_FOLDER}/*
 
 #analyze the splits
-#./5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
+./5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
 #./5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1
 
 #./5_analyze.sh ${SPLIT_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100
@@ -88,5 +87,5 @@ divide_multiple=10
 #./5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100
 #./5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1
 
-# More analysis on the coprus
+# More analysis on the corpus
 #./6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} ${CONCATENATED_FOLDER}${lang2}_${lang2} ${RES_FOLDER}/${lang1}_${lang2}

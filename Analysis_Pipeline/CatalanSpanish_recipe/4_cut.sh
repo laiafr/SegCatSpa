@@ -23,13 +23,12 @@ echo dividing
   i=0
   while [ $i -lt $divide ]
   do
-  rm -r ${output}/${i}/*
-  echo in while $i
+#  echo in while $i
       ini=$(( $i * $n + 1 ))
       fin=$(( $ini + $n - 1 ))
 
-      sed -n ${ini},${fin}p ${input}/tags.txt >> ${output}/tags-${i}.txt
-  i=$(($i + 1 ))
+      sed -n ${ini},${fin}p ${input}/tags.txt > ${output}/${i}-tags.txt
+      i=$(($i + 1 ))
   done
 done
 

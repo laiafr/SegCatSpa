@@ -7,7 +7,7 @@
 
 ## Activate espeak ##
 
-echo "ja estic funcionant" | phonemize -l ca # testing espeak
+#echo "ja estic funcionant" | phonemize -l ca # testing espeak
 
 ######### VARIABLES #################
 #Variables to modify
@@ -264,15 +264,14 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed -e 's/\(.\)/\1 /g'  |
 	sed 's/ ; e w o r d/ ;eword /g' |
 	sed 's/\// ;esyll /g'|
+	tr -s ' ' |
+	sed 's/ $//' |
+	sed 's/ ;eword ;esyll/ ;esyll ;eword /g' |
+	sed 's/ ;eword$/ ;esyll ;eword/g' |
 	tr -s ' ' > tmp.tmp
 
 		mv tmp.tmp ${RES_FOLDER}/${KEYNAME}-tags.txt
 
-	echo "creating gold versions"
-
-	sed 's/;esyll//g'  < ${RES_FOLDER}/${KEYNAME}-tags.txt |
-		tr -d ' ' |
-		sed 's/;eword/ /g' > ${RES_FOLDER}/${KEYNAME}-gold.txt
 
 done
 
