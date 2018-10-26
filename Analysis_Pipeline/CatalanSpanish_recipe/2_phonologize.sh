@@ -268,6 +268,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	sed 's/ $//' |
 	sed 's/ ;eword ;esyll/ ;esyll ;eword /g' |
 	sed 's/ ;eword$/ ;esyll ;eword/g' |
+	sed 's/;eword ;esyll ;eword/;esyll ;eword/'g |
 	tr -s ' ' > tmp.tmp
 
 		mv tmp.tmp ${RES_FOLDER}/${KEYNAME}-tags.txt
