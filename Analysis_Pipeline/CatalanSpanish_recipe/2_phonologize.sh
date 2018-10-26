@@ -29,10 +29,10 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	  echo "recognized $LANGUAGE"
 
 		echo "using espeak"
-		phonemize -l ca $ORTHO -o phono.tmp
+		phonemize -l ca $ORTHO -o ${RES_FOLDER}/${KEYNAME}-phono.tmp
 
 		echo "substituting phones" # correcting phones or exchanging caracters, some cannot be processed by the perl script
-		sed 's/ t / t/g' phono.tmp |
+		sed 's/ t / t/g' ${RES_FOLDER}/${KEYNAME}-phono.tmp |
 		sed 's/ɛssə/s/g' |
 		sed 's/ s / s/g' |
 		sed 's/^s /s/g' |
@@ -160,10 +160,10 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/u2u/w2w/g' |
 		sed 's/u3u/w3w/g' |
 		sed 's/^pese3fa$//g' |
-		sed 's/ˌ//g' > intoperl.tmp
+		sed 's/ˌ//g' > ${RES_FOLDER}/${KEYNAME}-intoperl.tmp
 
 	  echo "syllabify-corpus.pl"
-	  perl catspa-syllabify-corpus.pl catalan intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
+	  perl catspa-syllabify-corpus.pl catalan ${RES_FOLDER}/${KEYNAME}-intoperl.tmp ${RES_FOLDER}/${KEYNAME}-outofperl.tmp $PATH_TO_SCRIPTS
 
 	elif [ "$LANGUAGE" = "spa" ]
 		 then
@@ -246,20 +246,20 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/⌈//g' |
 		sed 's/ː//g' |
 		sed 's/ˌ//g' |
-		sed 's/"//g' > intoperl.tmp
+		sed 's/"//g' > ${RES_FOLDER}/${KEYNAME}-intoperl.tmp
 
 		echo "syllabify-corpus.pl"
-		perl catspa-syllabify-corpus.pl cspanish intoperl.tmp outofperl.tmp $PATH_TO_SCRIPTS
+		perl catspa-syllabify-corpus.pl cspanish ${RES_FOLDER}/${KEYNAME}-intoperl.tmp ${RES_FOLDER}/${KEYNAME}-outofperl.tmp $PATH_TO_SCRIPTS
 
 	elif [ "$LANGUAGE" = "eng" ]
 	   then
 	  echo "recognized $LANGUAGE"
 
 		echo "using espeak"
-		phonemize -l -l en-us-festival $ORTHO -o phono.tmp
+		phonemize -l -l en-us-festival $ORTHO -o ${RES_FOLDER}/${KEYNAME}-phono.tmp
 
 		#rewrite symbols to have the corresponding sounds in both english and spanish conveyed with the same character
-		sed 's/jh/1/g' < $ORTHO
+		sed 's/jh/1/g' < ${RES_FOLDER}/${KEYNAME}-phono.tmp
 		sed 's/th/8/g' |
 		sed 's/ch/T/g' |
 		sed 's/sh/S/g' |
@@ -284,13 +284,13 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/aw/a_w/g' |
 		sed 's/ay/a_y/g' |
 		sed 's/ey/e_y/g' |
-		sed 's/y/j/g' > outofperl.tmp
+		sed 's/y/j/g' > ${RES_FOLDER}/${KEYNAME}-outofperl.tmp
 
 
 	fi
 
 	echo "removing blank lines"
-	sed '/^$/d' outofperl.tmp |
+	sed '/^$/d' ${RES_FOLDER}/${KEYNAME}-outofperl.tmp |
 	sed '/^ $/d'  |
 	sed '/^[ ]*$/d'  |
 	sed 's/^ //'  |
@@ -312,4 +312,4 @@ done
 echo $RES_FOLDER
 echo "done phonologize"
 
-rm *.tmp
+rm ${RES_FOLDER}/${KEYNAME}-*.tmp
