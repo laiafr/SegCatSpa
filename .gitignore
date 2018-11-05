@@ -11,3 +11,8 @@ Corpora/concat/
 Corpora/split/
 Manuscript/
 Results/
+	Analysis_Pipeline/CatalanSpanish_recipe/cat.txt
+	Analysis_Pipeline/CatalanSpanish_recipe/results.zip
+	Analysis_Pipeline/CatalanSpanish_recipe/spa.txt
+	Analysis_Pipeline/EnglishSpanish_recipe/eng.txt
+	Analysis_Pipeline/EnglishSpanish_recipe/spa.txt
