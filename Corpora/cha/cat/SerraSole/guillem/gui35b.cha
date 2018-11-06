@@ -1,0 +1,530 @@
+@UTF8
+@PID:	11312/c-00028094-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , PAR pare Father , MAR mare Mother , ANN anna Nurse , INV Investigator
+@ID:	cat|Serra|CHI|2;11.21||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|ANN|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan a l' habitacio , hi ha una pila de joguines escampades
+*QUI:	anem a portar aixo a xxx [>] camion .
+*CHI:	ah [<] !
+*CHI:	aquest ha caigut .
+*CHI:	aquest xxx .
+*INV:	que passa ?
+*CHI:	que m' he caigut aqui [% assenyala una caixa] .
+*INV:	has caigut aqui ?
+*CHI:	si .
+*INV:	i <t' has fet mal> [>] ?
+*CHI:	<i m' he fet mal> [<] .
+*INV:	pobrisso .
+*QUI:	per que no portem aixo a on esta la festa [% toca una caixa de joguines] ?
+@Comment:	tall a la cinta , frames de 41 fins a 46 , ara estan al menjador
+*QUI:	el nen petit .
+*QUI:	tinc que portar el nen petit per [% surt del menjador] +...
+*CHI:	0 .
+%act:	apareix picant de mans i surt corrent darrera q
+@Comment:	tall , a l' habitacio , q te un nino a les mans
+*QUI:	mira el sergi .
+@Comment:	tornen al menjador , q posa al sergi en una especie de bressol
+*CHI:	eh , pare , esta dormint el sergi [% mira cap a la porta del menjador i assenyala amb el dit al sergi] .
+*PAR:	no <el desperteu , eh , si esta dormint> [>] .
+*QUI:	<esta dormint , veus> [<] .
+*QUI:	es posa el dit a la boca .
+@Comment:	enraonen q i p
+*CHI:	0 .
+%act:	agafa en sergi i se'n va a l' habitacio de p
+*QUI:	eh , para [% va darrera g] .
+*QUI:	aqui no el posis .
+@Comment:	tall , g ha deixat el nino sobre el llit
+*QUI:	que te de dormir [% vol agafar el nino] .
+*CHI:	no , jo [% l' agafa ell] .
+*QUI:	mira , se li ha sortit [% es refereix al dit de la boca del nino] .
+*QUI:	corre , que s' esta despertant [% agafa en sergi] .
+*QUI:	sergi [% el porta al bressol] .
+*CHI:	sergi .
+*QUI:	sergi .
+*CHI:	sergi [% tocant'lo] .
+*QUI:	deixa'l , deixa'l que dormi .
+*QUI:	deixem'lo que es despertara .
+*MAR:	xxx .
+*CHI:	xxx .
+*QUI:	ves a dinar , que estan cridant per dinar .
+*QUI:	cantem una canconeta , sergi ?
+*QUI:	si [% ell mateix amb veu de sergi] .
+*QUI:	0 .
+%act:	es posa a tocar un piano de joguina
+*CHI:	0 .
+%act:	pica de mans
+*CHI:	0 .
+%act:	agafa en sergi i es posa a ballar
+*QUI:	deixa'l que [/?] que si no no dormira .
+*QUI:	xxx xxx xxx xxx .
+*QUI:	vaig a posar musica [% endolla una radio] .
+*CHI:	0 .
+%act:	balla amb en sergi
+*QUI:	mira com balla .
+@Comment:	q toca la flauta i g juga amb el sergi
+*CHI:	hola sergi .
+*CHI:	0 .
+%act:	deixa al sergi al bressol
+@Comment:	g diu alguna cosa al sergi mentre li posa el dit a la boca , pero no s' enten perque q fa molta fressa fent veure que toca la flauta
+*CHI:	0 .
+%act:	agafa al sergi i es passeja pel passadis
+*CHI:	te xxx [% dona al sergi a q] .
+*QUI:	0 [= no el vol] .
+*QUI:	ara vaig a ballar amb un altre nino i xxx , eh [% surt del menjador] ?
+*CHI:	eh [% va cap a m] !
+*CHI:	eh , mare .
+*MAR:	que ?
+*CHI:	jo soc la mare , vale ?
+*CHI:	i jo tinc al sergi .
+*MAR:	tu tens al sergi perque +/.
+*CHI:	xxx xxx xxx .
+*MAR:	ets la mare i tens el nen .
+*CHI:	tu ets a [% a p] +...
+*CHI:	<i i> [/?] i el quim es el pare [% "a quim es el pare"] .
+*PAR:	el quim es el pare ?
+*QUI:	un altre amic meu [% torna amb un nino] .
+*CHI:	hola [% acostant el sue nino al de q] !
+*CHI:	hola !
+*QUI:	ara el vaig a pujar a cavall .
+@Comment:	llencen els ninos enlaire , enraonen e i m , la camera esta desenfocada , estan a l' habitacio , g llenca una pilota contra la pared
+*CHI:	ai !
+*ANN:	ai !
+*CHI:	caigut [% "caiut" , replega la pilota] .
+@Comment:	enraonen q i a
+*CHI:	basquet [% "paquet" , llenca la pilota] .
+*CHI:	basquet [% "paquet" , la pilota ha anat a parar amb el sergi] .
+*CHI:	t' ha fet mal [% li demana al sergi] ?
+@Comment:	llencen pilotes enlaire , g diu alguna cosa que no s'enten perque fan molta fressa
+*CHI:	te ana , sergi , <que te> [/?] que te molt de son [% li dona el nino] .
+@Comment:	enraonen q i a , g va llencant la pilota enlaire
+*CHI:	vaig a ver la piloteta [% "vaig a ver a piloteta" , cantant , replega la pilota de terra] .
+@Comment:	enraonen q i a
+*ANN:	guillem , tira .
+*CHI:	0 .
+%act:	li tira la pilota
+@Comment:	es van tirant la pilota
+*ANN:	que me la tires [% a g] ?
+*ANN:	tira'me'la .
+*CHI:	no , que me la xxx el quim [% l' assenyala amb el dit] .
+@Comment:	es van tirant la pilota
+*CHI:	va la pelota [% recull la pilota] .
+*CHI:	va la pelota [% llenca la pilota] .
+@Comment:	riuen tots , g s' acosta a a
+*ANN:	ves a darrera .
+*CHI:	0 .
+%act:	seu darrera q
+@Comment:	g s' aixeca , es van tirant la pilota
+*ANN:	para les mans .
+*CHI:	0 .
+%act:	estira les mans
+*ANN:	0 .
+%act:	li llenca la pilota
+*CHI:	0 .
+%act:	l' agafa
+*ANN:	molt be !
+*CHI:	un , dos i tres , pum@c [% llenca la pilota] .
+@Comment:	q es fa mal , plora , tall a la cinta , remenen en un armari de joguines
+*ANN:	xxx primer .
+*CHI:	aquest .
+*QUI:	aquest [% agafa un conte] .
+*ANN:	quin es aquest ?
+*QUI:	te [% li dona el conte] .
+*ANN:	va .
+*CHI:	no , aquest [% te un conte a la ma] !
+*ANN:	primer aquest que es mes petit i despres aquest que es mes gran .
+*ANN:	aquest primer , eh , que es mes petit ?
+*CHI:	no .
+*ANN:	acabem deseguida guillem .
+*QUI:	aquest te poc [/?] poquetes +...
+*ANN:	fulles .
+*CHI:	aquest de qui es [% no es veu] ?
+*CHI:	aquest .
+*INV:	te l' explicara l' anna .
+*INV:	vale ?
+*CHI:	no , a veure , a veure , a mirar [% "a vera , a vera , a mirar" , g esta fora de l' ull de la camera , suposo que insisteix en que expliquin el seu conte] .
+*ANN:	va , vine guillem .
+*QUI:	comenca a parlar .
+@Comment:	tall a la cinta , estan asseguts a terra , q gemega , vol que a expliqui el seu conte
+*ANN:	home !
+*QUI:	fem aquest .
+*ANN:	0 .
+%act:	agafa el conte i mira a g
+*ANN:	aquest s' acaba deseguida guillem , es molt petit , petito , petito .
+*CHI:	no vull [% mig plorant] .
+*ANN:	que es petito aquest .
+*CHI:	es tonto [% agafa el conte de les mans de a i el llenca] .
+*QUI:	0 .
+%act:	agafa a g pel coll
+@Comment:	comencen a mossegarse i d' altres coses , tall a la cinta , un cop torna la pau es disposen a explicar el conte , em sembla que es el de g
+*QUI:	un lladre molt dolent .
+*CHI:	no es un lladre [% "llardre"] .
+*ANN:	no es un lladre ?
+*CHI:	0 [= fa que no amb el cap] .
+*ANN:	que es doncs ?
+*ANN:	que es ?
+*CHI:	es un xxx .
+*ANN:	ah !
+*QUI:	aqui comenca [% pica sobre el conte] .
+*QUI:	va , ves , xxx .
+*QUI:	xxx .
+%exp:	comenca a dir tonteries
+*ANN:	hi havia una +/.
+*QUI:	em fa risa l' anna .
+*ANN:	per que ?
+*QUI:	va , explica .
+*ANN:	doncs no parlis tu .
+*QUI:	no va xxx xxx .
+*ANN:	www .
+%exp:	comenca a explicar el conte
+*QUI:	i qui mes ?
+*ANN:	i un nen que es deia sandro .
+*QUI:	i qui mes ?
+*CHI:	aquest es sandro [% assenyala en el conte] ?
+*ANN:	si .
+*QUI:	i [/?] i el lloro [% vol passar full] ?
+*ANN:	espera , que encara no ha sortit el lloro , home !
+@Comment:	a continua explicant el conte , q interve algun cop i g va fent que si amb el cap
+*CHI:	0 .
+%act:	vol passar full
+*ANN:	espera't [% li pica a la ma] .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	mira les estrelles [% les assenyala en el conte] .
+*QUI:	o [/?] o la neu .
+*ANN:	la neu no , eren estrelles .
+*ANN:	eh , guillem ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	pero hi havia tres senyors que em sembla que eren dolents .
+*ANN:	eh , guillem ?
+*ANN:	eren dolents o no ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	www .
+%exp:	va explicant
+*CHI:	eh [% pica de mans] !
+*ANN:	que ?
+*CHI:	eh [% assenyala en el conte] .
+*ANN:	espera't [% li pica a la ma] .
+*CHI:	no , que fem una cosa [% passa full] .
+*ANN:	oh !
+*ANN:	www .
+%exp:	va explicant
+*CHI:	eh , mira aquest senyor [% passa full] .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	pero quan volien sortir +...
+*ANN:	que va passar , guillem ?
+*CHI:	<a &fei a &fe> [/?] plora [% assenyala en el conte] .
+*ANN:	plora ?
+*ANN:	no .
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	esta fent forca .
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	i no podien obrir la porta .
+*ANN:	eh ?
+*ANN:	www .
+%exp:	va explicant
+*ANN:	i quan van obrir la porta , va dir , ostras , aixo no es el bosc [% assenyala en el conte] .
+*ANN:	eh que no ?
+*ANN:	mira .
+*CHI:	0 [= fa que no amb el cap] .
+*ANN:	aixo no es el bosc .
+*ANN:	on hem anat ?
+*ANN:	no ho se .
+*CHI:	eh [% passa full] !
+*ANN:	espera .
+*ANN:	www .
+%exp:	va explicant
+*CHI:	0 .
+%act:	vol passar full
+*ANN:	espera't guillem .
+*QUI:	despres d' aquest passava un avio .
+*ANN:	un avio ?
+@Comment:	a va explicant , el so es defectuos
+*CHI:	mira [% assenyala en el conte] .
+*ANN:	mira , que han fet ?
+*CHI:	xxx fet [% el so es defectuos] .
+*ANN:	s' havien amagat .
+*CHI:	0 [= fa que si amb el cap] .
+@Comment:	no hi ha so des del frame 998 fins al 1011
+*ANN:	i es van amagar .
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	i el guardia diu , ah , que fan aquests animals aqui pel carrer ?
+*CHI:	a veure el guardia [% "a vere"] .
+*ANN:	0 .
+%act:	li acosta el conte
+*QUI:	que diu aquest guardia ?
+*ANN:	clar , diu que faran aquests animals aqui al carrer , no [/?] no poden anar els animals aqui .
+*QUI:	no .
+*QUI:	que diran , emporteu'se aquest os .
+*ANN:	clar .
+@Comment:	a va explicant , q interve de tant en tant
+*ANN:	se'n van al metro .
+*ANN:	aixo es el metro , eh ?
+*CHI:	si .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	pero a l' os el van agafar .
+*CHI:	mira [>] [% assenyala en el conte] .
+*QUI:	<i aquest> [<] es un lladre [% assenyala en el conte] .
+*ANN:	no , era un altre senyor que el volia portar amb els animals , al zoo , em sembla .
+*QUI:	no , era un lladre .
+*ANN:	bueno , doncs era un lladre .
+*ANN:	i el sandro , l' esquirol i el lloro se n' anaven al metro .
+*CHI:	on es el sandro ?
+*ANN:	el sandro es aquest [% assenyala] .
+*CHI:	no , el sandro [% "a sandro"] .
+*ANN:	el sandro es aquest .
+*CHI:	el sandro que va a metro [% "a sandio que va a metro"] .
+*ANN:	si , es aixo , ara estaven al metro .
+*QUI:	aquest es el sandro .
+*ANN:	que anaven caminant per aqui , pel tunel pero no es podia caminar pel tunel .
+*CHI:	eh [% passa full] .
+*ANN:	perque , veus , mira , van trobar el metro , veus &a +/.
+*CHI:	si .
+*CHI:	mira [% assenyala] .
+*ANN:	bueno , i llavors +/.
+*CHI:	s' han caigut [% assenyala] .
+*ANN:	no , sortien per aqui [% assenyala] .
+*QUI:	que se l' emporten [% assenyala] .
+*ANN:	veus que s' emporten a l' os [% assenyala] ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	se l' emporten al zoo .
+*CHI:	0 [= fa que si amb el cap] .
+@Comment:	enraonen q i a
+*CHI:	dema [/?] dema anire aqui <i i> [/?] i a tirare a l' aigua aquest [% assenyala en el conte] .
+*ANN:	com que et tiraras a l' aigua tu ?
+*CHI:	no , aquest que ha tirat aquest [% assenyala] .
+*ANN:	l' esta agafant .
+*ANN:	l' esta ajudant .
+*ANN:	no ho veus ?
+*ANN:	l' ajuda .
+*QUI:	qui [/?] qui l' ha tirat ?
+*ANN:	no l' ha tirat ningu , surten , estaven dins del metro .
+*ANN:	estan sortint per aqui .
+*CHI:	qui [/?] qui ha tirat ?
+*ANN:	ningu , estan sortint .
+*QUI:	no +/.
+*CHI:	estan sortint de +/.
+*QUI:	de la via del tren .
+*ANN:	clar .
+*CHI:	no , <que xxx> [/?] que ha sortit i ha tirat .
+*ANN:	no l' ha tirat ningu ?
+*CHI:	quin ?
+*ANN:	ningu , el sandro l' ajuda a sortir .
+*QUI:	a sortir del metro .
+*ANN:	mira l' oso yogui .
+*CHI:	<mira xxx> [>] .
+*QUI:	esta amb dos ossos grans .
+*ANN:	esta amb dos ossos que eren mes grans , mira .
+*ANN:	pero el sandro es va trobar amb un gos i diu , tu saps on hi ha un os petit , que l' han portat ?
+*CHI:	eh , plora .
+*ANN:	plora .
+*ANN:	oi , si !
+*ANN:	esta plorant .
+*ANN:	per que ?
+*QUI:	i que li diuen ?
+*ANN:	no ho se .
+*ANN:	guillem , per que plora ?
+*QUI:	perque vol als seus amics .
+*CHI:	si .
+*ANN:	si ?
+*ANN:	i vol anar amb la seva mare ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	www .
+%exp:	continua explicant
+*ANN:	veus , ara , hi havia un elefant .
+*CHI:	<i i> [/?] i jo soc la mare , que [/?] que mira [% passa full enrera] .
+*CHI:	que [/?] que es el meu amic .
+*ANN:	es el teu amic ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	si ?
+*CHI:	i [/?] i els ossos +...
+*CHI:	i aquest es el pare , aquest [% assenyala en el conte] .
+*ANN:	aquest es el pare de l' os ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	molt be .
+*ANN:	i aleshores estaven buscant a l' os .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	i despres van agafar +/.
+*CHI:	mira , plora [% assenyala] .
+*ANN:	plora ?
+*ANN:	no , ara no , que ara esta content .
+*ANN:	eh ?
+*CHI:	no , que els ajuda [% "no , que s' aixura"] .
+*ANN:	0 [= es queda mirant a g] .
+*QUI:	que els ajuda .
+*ANN:	clar , pero no plora perque l' esta ajudant , esta content .
+*QUI:	i que fa l' elefant ?
+*ANN:	www .
+%exp:	va explicant
+*ANN:	diu +/.
+*CHI:	i mira [% passa full enrera] .
+*CHI:	<i i> [/?] i [% va passant fulls] +...
+*CHI:	<&a &a> [/?] aquest es el pare que [/?] que es aquest es amic aquest i aquest es el seu amic i jo [% "es a pare" , va assenyalant en el conte] .
+*ANN:	sou els seus amics ?
+*ANN:	<i jo> [>] ?
+*QUI:	<jo no> [<] .
+*ANN:	oh !
+*CHI:	si !
+*CHI:	si !
+*QUI:	no .
+*ANN:	home , quim !
+*CHI:	tu si ?
+*ANN:	jo si .
+*ANN:	i tu ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	tambe ?
+*QUI:	no , ella no .
+*ANN:	jo si .
+*QUI:	no .
+*ANN:	bueno , doncs l' elefant obre la porta i se n' anaven tots els animals , eh .
+*CHI:	mira , una bruixa .
+*ANN:	una bruixa no , una fada .
+*QUI:	i al nen que no li toca aixi .
+*ANN:	espera't .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	pero no els havia perdut , eh que no ?
+*CHI:	0 [= fa que no amb el cap] .
+*ANN:	diu +/.
+*CHI:	que +...
+*CHI:	mira , s' enfada [% assenyala] .
+*ANN:	s' ha enfadat amb la nena perque l' ha enganyat .
+*ANN:	www .
+%exp:	va explicant
+*CHI:	mira , un dolent , un dolent [% passa fulls] .
+*CHI:	es un dolent .
+*ANN:	ai !
+*ANN:	qui ?
+*QUI:	aquest es el dolent , que li dona una patada al cul [% assenyala] .
+*ANN:	bueno , i van tornar al bosc .
+*CHI:	i aquest que es [% assenyala] ?
+*ANN:	un altre que es dolent tambe .
+*ANN:	i s' ha enfadat perque han tornat al bosc .
+*ANN:	eh ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	per aixo li dona una patada .
+*CHI:	mecatxis !
+*ANN:	mecatxis !
+*CHI:	li dire a la mare .
+*ANN:	www .
+%exp:	va explicant
+*ANN:	mira , aqui menja un platan .
+*CHI:	a veure [% "a vera"] .
+*ANN:	aqui menja un platan .
+*ANN:	el mico o l' elefant ?
+*CHI:	l' elefant .
+*ANN:	segur ?
+*CHI:	0 [= fa que si amb el cap] .
+*ANN:	no .
+*CHI:	el mico .
+*ANN:	ah !
+*ANN:	i l' esquirol que menja ?
+*ANN:	mira , mira que menja .
+*ANN:	que menja ?
+*ANN:	mira [% assenyala en el conte] .
+*QUI:	un gelat .
+*CHI:	si .
+*ANN:	dos gelats .
+*CHI:	si .
+*ANN:	mira , dos .
+*ANN:	i colorin colorado +...
+*QUI:	este cuento se ha acabado [% "s' ha acabado"] .
+*ANN:	molt be .
+*ANN:	que es aixo , guillem [% assenyala en el conte] ?
+*QUI:	un nuvol .
+*ANN:	un nuvol no , un +...
+*QUI:	fantasma .
+*CHI:	colorin [% agafa el conte] .
+*ANN:	colorado .
+@Comment:	q fa tonteries
+*CHI:	se ha acabado [% "s' ha cabado"] .
+*ANN:	se ha acabado .
+*CHI:	i colorin colorete +...
+*ANN:	me lo explicas tu ahora ?
+*CHI:	xxx xxx aun tiene [% em sembla que intenta llegir el titol] .
+*ANN:	eh , guillem , me l' expliques ara ?
+*CHI:	i per entrar la porta hi ha un sac xxx xxx [% assenyala cap a la porta , les xxx son paraules inventades] .
+*ANN:	me l' expliques el conte ?
+*ANN:	va , ens l' explica el guillem ara el conte , va .
+*CHI:	0 .
+%act:	obre el conte
+*CHI:	una vegada (.) havia aquest [% assenyala en el conte] .
+*QUI:	que era , un pato ?
+*CHI:	si .
+*CHI:	era un pato .
+*CHI:	i aquest gos <es es es un es es> [/?] es un a l' aigua [% l' assenyala] .
+*ANN:	i que feien ?
+*ANN:	va , comenca per aqui [% toca una plana] .
+*CHI:	<a ma> [/?] la ma el gira (.) xxx a la porta , se'n va .
+*CHI:	la porta xxx .
+*ANN:	ara aqui .
+*CHI:	i +...
+*ANN:	va , explica'm' ho .
+*CHI:	<i i> [/?] i per aqui +...
+*CHI:	xxx una xxx .
+*ANN:	i on se n' anaven ?
+*ANN:	que feien ?
+*CHI:	a [/?] a on anaven [% "a bon naven"] +/.
+*QUI:	a una cabanya .
+*CHI:	si .
+*CHI:	a [/?] i despres anaven amb un foc a fer un foc [% "depres anaven amb un foc a fer un foc"] .
+*ANN:	i ara aqui [% passa full] .
+*CHI:	mira el dolent [% "a dolent"] .
+*CHI:	i despres [% "depres"] +...
+*CHI:	ets dolent , ai [% tanca el conte] !
+*CHI:	ai , un dolent [% obre el conte] !
+*CHI:	xxx xxx .
+*CHI:	ai , un dolent [% passa fulls] !
+*QUI:	0 .
+%act:	fa el tonto
+*CHI:	oh , plora !
+*ANN:	plora .
+*ANN:	per que ?
+*QUI:	plora [>] .
+*CHI:	plora xxx [<] els ossos .
+*QUI:	0 .
+%act:	empipa a g
+*ANN:	quim , primer el guillem , despres tu .
+*CHI:	mira [% assenyala en el conte] .
+@Comment:	q i a enraonen
+*CHI:	mira .
+*CHI:	mira , s' ha trencat .
+@Comment:	q enraona , g va mirant el conte
+*ANN:	me l' expliques guillem ?
+*CHI:	mira [% assenyala en el conte] .
+@Comment:	g diu alguna cosa , mentre mira el conte , que no s'enten perque q no para de parlar
+*CHI:	mira quina cabanya [% "baina"] .
+*ANN:	es una cabanya .
+*QUI:	es una cabanya , nen .
+*CHI:	mira [% assenyala en el conte] .
+*QUI:	es una cabanya , nen .
+*CHI:	ja s' ha acabat [% "ja s' ha cabat"] .
+@Comment:	q empipa a g i comencen a barallarse , tall a la cinta , estan en un raco on hi ha unes titelles
+*ANN:	mira , el llop .
+*ANN:	que mossega i xxx que et menjo .
+*CHI:	ves'te'n [% a a , llenca el llop] .
+*ANN:	jo tinc soneta .
+*ANN:	jo soc la reina [% es posa una titella a la ma] .
+*CHI:	no !
+*CHI:	mira el llop .
+*ANN:	per que l' has tirat ?
+*ANN:	guillem .
+*ANN:	deixa'l anar [% a q que estira de g] .
+*CHI:	au !
+*ANN:	deixa'l anar .
+*CHI:	ah , deixa !
+*QUI:	no vull .
+@Comment:	comencen a barallarse
+@End

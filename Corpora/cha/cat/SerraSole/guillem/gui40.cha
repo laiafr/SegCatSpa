@@ -1,0 +1,852 @@
+@UTF8
+@PID:	11312/c-00028099-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , AVI avia Grandmother , MAR mare Mother , ROS rosa Adult , INV Investigator
+@ID:	cat|Serra|CHI|3;4.19||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|AVI|||||Grandmother|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|ROS|||||Adult|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	GUI , QUI i l' avia estan a la taula jugant amb peces
+*AVI:	espera , no nen no .
+*AVI:	mira aquests van muntats , veus ?
+*AVI:	amb un d' aixo , veus ?
+*AVI:	va muntant amb un d' aixo , porta , aquestes coses .
+*AVI:	veus ?
+*AVI:	aixo .
+*AVI:	dona'm .
+*AVI:	porta .
+*CHI:	pum@c pum@c [% pica de peus a sobre la cadira] .
+*CHI:	ai !
+*CHI:	que jo no tinc mes .
+*AVI:	mira , mira veus , ja ho tenim .
+*AVI:	que et sembla ?
+*QUI:	ara l' altre .
+*AVI:	ara l' altre .
+*AVI:	on l' hem posat l' altre ?
+*QUI:	aqui .
+*CHI:	0 [= tarareja mentre juga amb un ninot] .
+*AVI:	veus pero ara +...
+*AVI:	veus de mica en mica s' omple la pica .
+*MAR:	guillem vols venir al cuarto ?
+*CHI:	no .
+*QUI:	pero es te que enganxar .
+*CHI:	eixerit .
+*MAR:	es eixerit ?
+*CHI:	0 .
+%act:	s' enfila a la cadira
+*MAR:	que cauras guillem .
+*AVI:	au va que ara us fumareu el cigarrilos , eh ?
+*AVI:	va els cigarrillos .
+*MAR:	espera't un moment guillem .
+*CHI:	els cigarrillos [% torna a seure] .
+*CHI:	els cigarrillos per mi .
+*QUI:	ala cigarrillos !
+*QUI:	es veritat .
+*QUI:	els cigarrillos !
+*CHI:	si si si .
+*QUI:	que son de menjar ?
+*AVI:	home , es clar !
+*CHI:	que son de fumar ?
+*AVI:	si home , si .
+*QUI:	si .
+*QUI:	jo fumare .
+*CHI:	jo tambe .
+*AVI:	si , son per menjar .
+*QUI:	jo jo +/.
+*MAR:	t' agrada mes fumar que menjar ?
+*QUI:	si .
+*QUI:	fumar es mes divertit .
+*AVI:	ara falta que aixo ho sapiguem fer .
+*QUI:	com els senyors que fumen .
+*QUI:	com els senyors .
+*CHI:	eh m' ho obres ?
+@Comment:	r i m parlen
+*CHI:	m' ho obres [% insisteix] ?
+*AVI:	mira tu a veure com pot anar aixo .
+*AVI:	mira veus al final ja ho sabem .
+*MAR:	t' ho obro quim ?
+*MAR:	t' ho obro ?
+*QUI:	no .
+*QUI:	si .
+*QUI:	si .
+*QUI:	t' he enganyat .
+*QUI:	eh ?
+*MAR:	escolta quim que cauras .
+*AVI:	mira'ho alla que sabras com va .
+*CHI:	0 .
+%act:	fuma i fa veure que treu fum
+*AVI:	ho veus de mica en mica ho anem fent tot .
+*QUI:	ho anem fent tot .
+*AVI:	de mica en mica s' omple la pica .
+*QUI:	0 .
+%act:	agafa un dels cigars del guillem
+*CHI:	ai !
+*AVI:	i aquestes helices +/.
+*CHI:	es meu .
+*QUI:	ala tu !
+*QUI:	es de veritat .
+*ROS:	ala tu , es de veritat , que passa !
+*QUI:	mira !
+*QUI:	vaig a treure la pell d' aqui a una mica .
+*QUI:	que despres fumare .
+*AVI:	i aquesta goma que ja l' he posat anava aqui .
+*AVI:	mare de deu quins inventors !
+*QUI:	aquest puro .
+*CHI:	es +/.
+*AVI:	la goma aquesta va +...
+*CHI:	0 .
+%act:	menja el puro
+*AVI:	aixo va aixi al darrera , aixo va aixi al darrera .
+*AVI:	aquesta cosa va , espera , aqui va , aixo aqui , veus , diria jo .
+*QUI:	eh que la xxx en sap molt ?
+*AVI:	aixo si , veus .
+*QUI:	aquests motors van sols .
+*AVI:	eh ?
+*QUI:	aquests motors .
+*QUI:	aquests motors van sols .
+*QUI:	aquest senyor .
+*CHI:	aixo se menja ?
+*CHI:	aixo ?
+*CHI:	aixo se menja ?
+*AVI:	aqui davant va aquesta cosa .
+*INV:	el que guillem ?
+*AVI:	si , has de treure el paper .
+*QUI:	la pell .
+*AVI:	que no treus el paper ?
+*AVI:	has de treure el paper , el paper , el paper no es menja .
+*QUI:	pero jo el llepo el paper .
+*AVI:	te , veus , veus aixi , es va pelant aixi .
+*AVI:	veus ?
+*AVI:	pero el paper no te'l menges tu .
+*QUI:	no .
+*AVI:	ah !
+*CHI:	el llepa .
+*QUI:	el xupo .
+*AVI:	no home no , no el xupis el paper .
+*AVI:	apa , te , apa .
+*AVI:	bueno ara a veure com anem fent tot aixo , perque aixo es mes complicat del que sembla .
+*AVI:	aquest esta aqui la xxx .
+*QUI:	ara vols que tregui molt fum del cigarret ?
+*CHI:	0 [= fa que si amb el cap] .
+*QUI:	0 [= estossega] .
+*INV:	no fumi tant , eh , que li fara mal als pulmons .
+*AVI:	si tens tos , veus .
+*INV:	no fumi tant voste .
+*AVI:	el fumar , veus noi .
+*AVI:	ah , oita si aixo es la roda de baix .
+*QUI:	humm [% continua treient fum] .
+*AVI:	aquesta roda va aqui .
+@Comment:	frame 1918
+*QUI:	atencion .
+*CHI:	es meu .
+*QUI:	eh que aquest deia atencion ?
+*QUI:	que surtin disparados a ver qui guanya .
+*QUI:	i quanyara aquest perque es el que corre mes .
+*QUI:	xxx .
+*QUI:	mira com l' he desfet de xupar .
+*QUI:	tant xupar .
+*QUI:	tant xupar .
+*QUI:	un cigarrito estic fumant .
+*INV:	ja ho veig , ja .
+*AVI:	aixo deu anar aixi .
+*AVI:	veus ?
+*AVI:	perque s' ha de posar a dintre de tot aixo .
+*AVI:	jo sempre busco ajuda perque no , ja veus que no +...
+*AVI:	ja veus m' aclaro amb aixo .
+*AVI:	el que s' ha de fer es posar noms .
+*AVI:	veus aquest d' aixo que va aqui .
+*AVI:	s' enganxa aqui , una cosa que va aqui .
+*AVI:	si no ho trobes es igual .
+*AVI:	mira va aqui .
+*AVI:	<pero aixo que es pla , a veure> [>] .
+*QUI:	<qui em treu l' anell> [<] ?
+*QUI:	qui em treu l' anell ?
+@Comment:	tall a la cinta , guillem a la gibrelleta
+*CHI:	avui he dinat <a l' &es> [/?] a la classe .
+*MAR:	heu dinat a la classe ?
+*CHI:	m' ho he menjat tot .
+*MAR:	si ?
+*MAR:	que has menjat ?
+*CHI:	un bocata de truita .
+*MAR:	un bocata de truita , i que mes ?
+*CHI:	formatge .
+*MAR:	ah , i res mes ?
+*CHI:	un platano .
+*MAR:	un platan tambe !
+*MAR:	i una xocolata ?
+*CHI:	i una xocolata de cullareta .
+*MAR:	apa !
+*MAR:	i per que heu menjat a la classe avui ?
+*CHI:	perque [/?] perque tots se'ls menjaven tots i no han dinat al menjador .
+*MAR:	perque avui no us han donat dinar oi a l'escola ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	oi que plovia ?
+*CHI:	si .
+*MAR:	i heu sortit al pati ?
+*CHI:	no .
+*CHI:	perque plovia .
+*MAR:	clar .
+*MAR:	i tu portaves les botes d' aigua ?
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	perque plovia .
+*MAR:	i t' agrada posar'te les botes d' aigua ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	per que ?
+*CHI:	tenia posada la bota d'aigua <per per per per> [/?] per l' escola .
+*MAR:	es que tot el dia amb les botes d' aigua a l' escola , pels peus no van be .
+*CHI:	per que ?
+*MAR:	no heu pogut anar d' excursio , oi que no ?
+*CHI:	no .
+*MAR:	xxx [% "dena"] !
+*CHI:	anirem d' excursio ?
+*MAR:	un dia .
+*MAR:	escolta , expliquem un conte ?
+*CHI:	que ?
+*MAR:	m' expliques un conte tu a mi ?
+*CHI:	no [% somrient] .
+*MAR:	va explica'm el conte de l' aladi .
+*CHI:	no .
+*MAR:	no el saps ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	quin conte saps tu ?
+*CHI:	ninguno [% "ningun"] .
+*MAR:	jo tampoc .
+*CHI:	per que ?
+*MAR:	jo no se cap conte .
+*CHI:	per que ?
+*MAR:	perque ningu m' explica contes a mi .
+*CHI:	o sino t' explica un conte ella [% assenyala la camara] .
+*MAR:	qui es ella ?
+*CHI:	la maria rosa de les fotos .
+*MAR:	ah , em sembla que tampoc en sap .
+*CHI:	no en saps tu ?
+*CHI:	per que no en saps ?
+*INV:	perque no me'n van explicar quan era petita i no en se .
+*MAR:	jo te n' explico molts , eh que si ?
+*CHI:	si .
+*MAR:	i tu no me n' expliques mai a mi .
+*MAR:	i el del pandi ?
+*MAR:	i el de l' os pandi , aquell que esta malalt ?
+*CHI:	si .
+*MAR:	si el porto me l' explicaras ?
+*CHI:	jo no en se .
+*MAR:	d' explicar'me'l no en saps ?
+*CHI:	jo [/?] jo no se <&lle> [/?] llegir .
+*MAR:	no , pero m' expliques els dibuixos .
+*MAR:	val ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	no ?
+*MAR:	bueno .
+*MAR:	un altre dia .
+*CHI:	no .
+*INV:	no ?
+*MAR:	mai , mai , mai , mai ?
+*CHI:	0 [= fa que no amb el cap] .
+*INV:	i tampoc +...
+*ROS:	escolta , explica'li a la mare que et fa el pau .
+*MAR:	que et fa el pau ?
+*CHI:	molts petons .
+*MAR:	fa petons !
+*CHI:	i el quim no li facis molts petons !
+*MAR:	aixo diu el quim ?
+*MAR:	i per que no vol que et faci petons ?
+*CHI:	molts petons ?
+*MAR:	humm .
+*CHI:	perque [/?] perque no va a casa meva .
+*MAR:	i tu vols que vingui a casa teva ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	escolta , i l' altre dia al parc de la ciutadella a qui ens vam trobar ?
+*CHI:	a +...
+*CHI:	no ho se .
+*MAR:	ens vam trobar un amic teu .
+*CHI:	que ?
+*MAR:	ens vam trobar un amic teu .
+*CHI:	a on [% "abon"] ?
+*MAR:	alla al parc de la ciutadella que estava amb el seu pare i la seva mare .
+*CHI:	quin nen ?
+*MAR:	<com se diu> [/?] com se diu aquell nen de la teva classe +...
+*MAR:	que es amic teu .
+*CHI:	joan fuig .
+*MAR:	ah si .
+*MAR:	fuig no , puig .
+*CHI:	puig [% rient] .
+*MAR:	ara !
+*CHI:	al parc de la ciutadella vam trobar al roger fuig .
+*MAR:	el roger +/.
+*CHI:	puig .
+*MAR:	ah !
+*CHI:	0 .
+%act:	te una goma a la boca i l' estira
+*MAR:	que et faras mal , guillem , que et faras mal , et faras mal .
+*CHI:	no me fare mal .
+*MAR:	doncs tu mateix , ja ho veuras .
+*MAR:	escolta , i despres de banyar que us ha posat la maria rosa ?
+*CHI:	el +/.
+*MAR:	la tovallola ?
+*CHI:	no .
+*CHI:	el barnus .
+*MAR:	el barnus , i a tu t' agrada ?
+*INV:	teniu o no un &bar +/.
+*MAR:	ara se'ls posen al sortir de la banyera .
+*INV:	encara li va be .
+*MAR:	si , justets , pero va molt be perque al sortir de la banyera els hi poses saps i llavors els acaba d' assecar .
+*INV:	es una peca util , no ?
+*INV:	no ho dic per +...
+*CHI:	hala !
+*CHI:	0 .
+%act:	juga amb una goma
+*CHI:	hala !
+*MAR:	els tenen aqui , els dos aqui .
+*INV:	son , es comprats a dinamarca .
+*INV:	ara no se d' on .
+*MAR:	doncs els hi posa cada dia .
+*MAR:	cada dia , els porta de la banyera amb el barnus i llavors els acaba d' assecar .
+*MAR:	i els agrada , eh ?
+*MAR:	sento pudoreta guillem .
+*MAR:	que ja estas ?
+*CHI:	no encara .
+*MAR:	vols dir ?
+*MAR:	doncs jo sento pudoreta .
+*MAR:	ha sortit o no ha sortit ?
+*CHI:	ja veuras [% mira a dins la gibralleta] .
+*CHI:	mira .
+*CHI:	si .
+*MAR:	ah ja ho deia jo , que sentia pudoreta .
+*MAR:	doncs que et sembla ?
+*MAR:	eixuguem ?
+*CHI:	falta el pipi .
+*MAR:	no en deus tenir , home , sino ja hagues sortit .
+*MAR:	aqui espatxorrat .
+*CHI:	ho poso aqui dintre ?
+*MAR:	dema anem al metge .
+*CHI:	jo ?
+*CHI:	per que ?
+*MAR:	perque et miri , per veure si la cuca ja esta maca .
+*ROS:	la cuca .
+*MAR:	perque et miri la cuca , a veure si esta maca .
+*ROS:	diga'li a la mare que feies abans amb la cuca ?
+*ROS:	que feies abans amb la cuca ?
+*CHI:	l' olorava [% rient] .
+*MAR:	l' oloraves ?
+*INV:	l' olorava [% rient] .
+*ROS:	i jo que t' he dit , de que fa pudor la cuca ?
+*CHI:	de pipi .
+*ROS:	i no es pot olorar .
+*INV:	mes que res que es dificil arribar's' hi , no ?
+*ROS:	no , se la toca +/.
+*CHI:	quin dia anirem al metge ?
+*MAR:	dema .
+*CHI:	a quin ?
+*CHI:	com se +/.
+*MAR:	al metge que et va curar la cuca .
+*MAR:	perque te la miri i digui molt be aquest nen , ja te la cuca molt maca .
+*CHI:	0 [=! riu] .
+*ROS:	fa uns pipis aixi , psss@c .
+*MAR:	ostres , l' altre dia va fer un pipi que semblava un sortidor .
+*ROS:	si , si .
+*MAR:	cap enlaire , amunt , amunt .
+*ROS:	si , si .
+*CHI:	mira .
+*CHI:	mira .
+*CHI:	mira [% ensenya la goma posada al dit] .
+*MAR:	la mare no pot aguantar mes la pudor , fill .
+*MAR:	t' eixugo o et quedes aqui una estona mes ?
+*CHI:	una mica mes .
+@Comment:	frame 2213
+*MAR:	doncs mira , amb el teu permis jo +/.
+*CHI:	mira .
+*CHI:	mira .
+*MAR:	una gometa .
+*INV:	no vols sortir guillem ?
+*CHI:	ja estic [% diu cridant] .
+*INV:	els nens son la pera [% rient] .
+*CHI:	ja estic [% cridant] .
+*MAR:	vale , vale .
+*INV:	ja t' han sentit , eh .
+*MAR:	va doncs vinga , vinga , que has de fer ara ?
+*CHI:	0 .
+%act:	s' alca i el freguen
+*MAR:	aixo mateix .
+*MAR:	senyor !
+*MAR:	a mes a mes els dos alhora .
+*MAR:	primer un i despres l' altre .
+*MAR:	ja estas .
+*CHI:	0 [=! tarareja] .
+*CHI:	jo tiro la caca [% tararejant] +/.
+*MAR:	espera't un moment , guillem !
+*CHI:	0 [=! tarareja] .
+@Comment:	tall a la cinta , a l' habitacio
+*MAR:	perdona , ai guillem perdona .
+*MAR:	ja me'n vaig .
+*MAR:	a veure si aixo esta endrecat d' una punyetera vegada , eh nino .
+*MAR:	i falten molts ninos d' aquests , eh ?
+*CHI:	0 .
+%act:	porta una cadireta cap al lavabo
+*ROS:	va col'loca'te'la be .
+*CHI:	0 .
+%act:	obre el calaix
+*ROS:	no puja , jo ja ho tinc .
+*ROS:	que passa amb les manigues ?
+*CHI:	vull aquesta [% ensenya una pasta de dents] .
+*ROS:	que passa amb les manigues ?
+*CHI:	i d' aquesta .
+*CHI:	i d' aquesta .
+*ROS:	que passa amb les manigues ?
+*ROS:	que passa amb les manigues ?
+*CHI:	que ?
+*ROS:	que passa amb les manigues ?
+*CHI:	0 .
+%act:	se les arremanga
+*ROS:	vale .
+*CHI:	el meu es (.) el vermell [% "mamell"] .
+*ROS:	vermell .
+*CHI:	vermell .
+*CHI:	i d' aquest .
+*ROS:	tu nen ets un nen pijito .
+*CHI:	hala !
+*CHI:	mira .
+*ROS:	hala , no te'n poso mes eh , si cau .
+*ROS:	hala , t' ho prometo eh ?
+*CHI:	en vull mes .
+*ROS:	no , en tens dos cops .
+*ROS:	va comenca .
+*CHI:	no .
+*CHI:	no comenco .
+*ROS:	doncs acaba .
+*ROS:	mulla una mica , mulla una mica guillem .
+*ROS:	vale , va , ja pots .
+*ROS:	cuidado , que et saltara tota .
+*ROS:	vinga .
+*ROS:	frega .
+*ROS:	no te l' empassis , eh ?
+*ROS:	tanca les dents aixi .
+*ROS:	vinga aixi .
+*ROS:	va frega , amunt i avall , amunt i avall , els queixals , queixals , frega els queixals .
+*ROS:	els queixals son aqui .
+*ROS:	molt be .
+*ROS:	amunt i avall .
+*ROS:	ara .
+*ROS:	molt be .
+*ROS:	escup .
+*CHI:	0 [= escup] .
+*ROS:	no t' aboquis tant que cauras pel forat de l' aiguera .
+@Comment:	m i r parlen entre elles sobre on ha posat unes pissarres
+*CHI:	0 .
+%act:	surt del lavabo
+*INV:	hala , quina bona olor !
+*ROS:	guillem , aixo que passa ?
+*ROS:	on va aixo ?
+*ROS:	vinga [% referint'se a la cadireta] .
+*CHI:	ara tinc que fer alla shiu@c .
+*CHI:	mira [% ensenya les dents] .
+*ROS:	ja ho has fet .
+*CHI:	no .
+*ROS:	si , perque les tens sense sabo o sigui que ho has fet .
+*CHI:	no .
+*CHI:	no ho he fet .
+*ROS:	ai , te matare , te matare .
+*CHI:	ah !
+*CHI:	ah !
+*ROS:	fes'me un peto [% l' agafa a coll] .
+*CHI:	no .
+*CHI:	no te faig un peto .
+*ROS:	doncs t' enfades amb mi .
+*ROS:	et tiro de cap a la banyera .
+*CHI:	no !
+*ROS:	em fas un peto ?
+*CHI:	ah !
+*ROS:	explica'li a la maria rosa que t' he fet .
+*CHI:	m' ha mullat el cap a dintre de la banyera .
+*INV:	i per que ?
+*ROS:	diga'li m' ha agafat els peus i m' ha posat el cap a dintre de la banyera .
+*INV:	i per que ?
+*CHI:	<perque perque> [/?] perque t' he dit tonta .
+*ROS:	ah si !
+*INV:	i per que li has dit tonta a la maria rosa ?
+*CHI:	perque [/?] perque no me'n recordava .
+*ROS:	no se'n recordava que jo que soc ?
+*CHI:	guapa !
+*ROS:	no .
+*CHI:	molt guapa .
+*ROS:	ah !
+*CHI:	tonta .
+*ROS:	mecachis , ara me l' enduc a casa meva [% l' agafa a coll] .
+*CHI:	no !
+*CHI:	no [% allarga la'o'] !
+*ROS:	socorro , socorro !
+*ROS:	auxili ah [% li apreta la cara] !
+*ROS:	porta'm una bossa d' escombraries , porta'm una bossa d' escombraries .
+*ROS:	al forat del water , per aqui .
+*CHI:	no [% allarga la'o'] !
+*ROS:	si , va vinga .
+*CHI:	no [% rient] !
+*ROS:	que tiro la cadena .
+*CHI:	no !
+*ROS:	que tiro la cadena .
+*CHI:	no !
+*ROS:	0 .
+%act:	tira la cadena
+*CHI:	no .
+*CHI:	ai no !
+*CHI:	no me podria rentar les dents .
+*INV:	et tornes a rentar les dents ?
+*ROS:	no , ara glopeja i prou .
+*ROS:	vinga .
+*CHI:	0 [= glopeja] .
+@Comment:	tall a la cinta , a la taula amb les peces i l' avia i el q
+*QUI:	pero ara falta el senyor .
+*AVI:	el senyor ?
+*AVI:	posa'hi aquest senyor .
+*QUI:	no .
+*AVI:	no , es aquest , el te aquest .
+*AVI:	ara aquest ja l' ha fotut [% referint'se al guillem] .
+*AVI:	no , aquest va aqui .
+*CHI:	0 .
+%act:	el guillem te el ninot i hi juga
+*AVI:	aquest es aquest , el que condueix .
+*QUI:	aquest no va aqui .
+*AVI:	es aquest el que va aqui , es aquest veus ?
+*CHI:	0 .
+%act:	juga i va fent soroll
+*AVI:	i aquests son els tres que d' allo .
+*AVI:	mira veus aquesta bandereta .
+*AVI:	ah , ah , ah !
+*AVI:	espera .
+*QUI:	la bandera .
+*AVI:	la cosa aquesta .
+*QUI:	la bandera .
+*AVI:	ja ho tens ara aqui ?
+*AVI:	es aixo ?
+*AVI:	ah si veus com ens van fent falta coses .
+*CHI:	0 .
+%act:	tarareja i juga amb el ninot
+*AVI:	ara veus !
+*AVI:	te veus !
+*AVI:	la bandera que la porta aquest a la ma i li has d'enganxar .
+*QUI:	si .
+*QUI:	a on esta ?
+*CHI:	0 [= continua tararejant] .
+*AVI:	la bandera , la bandera aquesta .
+*QUI:	el senyor que porta una gorra blanca .
+*AVI:	mira es aixo , es aixo d' aqui , nen .
+*AVI:	has d' arrencar aixo .
+*AVI:	veus que jo deia que faltaven coses ?
+*AVI:	te , veus ?
+*QUI:	es te que enganxar .
+*AVI:	te , mira , te , te .
+*AVI:	un a cada un .
+*AVI:	com que n' hi ha dos , dos a cada banda .
+*AVI:	escolta , hi juguem la mar de be nosaltres a aixo , eh ?
+*INV:	com ajuda el quim , eh ?
+*AVI:	oh , el quim es molt trassut tambe , eh ?
+*AVI:	i el guillem tambe , eh ?
+*INV:	ai +/.
+*AVI:	ara aquesta , aquests l' han fotuda aqui sense rodes o potser no +...
+*AVI:	pero hi havien d' anar les rodes , clar .
+*INV:	si que hi han d' anar les rodes .
+*QUI:	ara l' altre .
+*AVI:	els que ho omplen ho foten tot xxx entens ?
+*AVI:	aixo es culpa de les noies perque alla +/.
+*INV:	si , falten les +...
+*CHI:	0 [=! tarareja] .
+*AVI:	ho omplen i mira ho foten tot com els hi ve be .
+*AVI:	perque oita , aixo esta precintat , vull dir que +/.
+*INV:	si .
+*CHI:	0 .
+%act:	juga amb el ninot i tarareja
+*AVI:	veus ara la bandera li has de posar en aquest d' aqui , en un d'aquests d' aqui .
+*AVI:	a qui li vols donar , en aquest potser , aquest , oi ?
+*QUI:	no .
+*QUI:	que no en porten els +...
+*QUI:	eh , ensenya'li a l' avia .
+*AVI:	ton germa +/.
+*QUI:	veus com no ?
+*AVI:	espavila't amb ton germa quan d' allo .
+*CHI:	0 [=! tarareja] .
+*QUI:	el portes ?
+*CHI:	a on ?
+*CHI:	xxx que ?
+*AVI:	el cabasset d' eines .
+*QUI:	eh rosa !
+*QUI:	que sino no sabre com es .
+*INV:	be , home , no t' ho prenguis +...
+*INV:	espera't , jo me'n vaig d' aqui que faig nosa .
+@Comment:	tall a la cinta
+*ROS:	vinga !
+*CHI:	jo no !
+*ROS:	bueno , doncs dema no et vindre a buscar .
+*CHI:	pum@c pum@c pum@c [% fa veure que pica el cap a r] .
+*ROS:	a veure aquest peto tan gros que em fas [% al guillem] ?
+*QUI:	si no em vens a buscar dire punyeta .
+*ROS:	doncs mira , si dius renecs jo no vull saber res .
+*ROS:	un peto aixi petit , petit , petit .
+*CHI:	0 .
+%act:	li fa un peto
+*QUI:	fill de puta .
+*ROS:	aixo no es diu , et creixera el nas , eh .
+*AVI:	no es diuen aquestes coses tan lletges .
+*QUI:	et creixera l' orella a tu .
+*CHI:	xxx .
+%exp:	diu coses a l' orella de r
+*MAR:	que vols , a veure ?
+*QUI:	mare que vull que posis aquest aqui pero +/.
+*MAR:	pero que ?
+*QUI:	la tapa que vagi aqui aqui al +/.
+*MAR:	al darrera ?
+*QUI:	si .
+*MAR:	aixo vols dir que va al coll ?
+*MAR:	aixo no pot anar al coll , quim .
+*CHI:	0 [=! tarareja] .
+*QUI:	si , perque ho he vist .
+*INV:	ho has vist que ho porta al coll ?
+*QUI:	ho he vist .
+*INV:	on ho has vist ?
+*QUI:	mira'ho .
+*QUI:	xxx .
+*CHI:	epa [% agafa la caixa i tarareja] !
+*MAR:	espera't un moment , espera un moment .
+*AVI:	oh , quan tens una cosa , en falta una altra .
+*MAR:	aixo va aixi .
+*INV:	aguanta .
+*INV:	es que es +/.
+@Comment:	els adults discuteixen entre ells on es posa
+*QUI:	leche de las vacas [% canta] .
+*CHI:	0 [=! tarareja] .
+*QUI:	quien le gusta leche de las vacas ?
+*CHI:	a mi .
+@Comment:	frame 2551
+*MAR:	anem a dormir , ninos , ahir a aquesta hora ja dormieu .
+*QUI:	0 [=! tarareja] .
+*CHI:	a mi m' agrada la leche de las vacas .
+*MAR:	no puc , quim .
+*QUI:	puf@c puf@c .
+*CHI:	aquest es el dolent .
+*QUI:	brrr@c .
+*CHI:	aquest es el dolent .
+*CHI:	aquest es el dolent .
+*MAR:	va que els contes estan endrecats .
+*CHI:	aquest es el dolent .
+*MAR:	i la mare us ho ensenya ?
+*CHI:	aquest es el dolent .
+*CHI:	que no m' escoltes d' una vegada ?
+*QUI:	dejame que t' atropellare eh ?
+*AVI:	mira una cosa , ah , aqui dintre , a veure si entra .
+*CHI:	pumba@c !
+*QUI:	eh , deixa'ho .
+@Comment:	adults parlen entre ells
+*CHI:	leche [/?] leche de las vacas .
+*CHI:	es meu [% una de les peces que te l' avia] .
+*AVI:	si , mira a veure aquest .
+*AVI:	on es ?
+*CHI:	i lo d' allo que m' ho +...
+*CHI:	que m' ho &po [% enfadat] +/.
+*AVI:	que es el que porta el megafono aquest , el megafono aquest , el megafono no se .
+*AVI:	aquest es el del megafono , ep tu , quin es el del megafono .
+*CHI:	<i quin> [/?] i quin [% cridant] +/.
+*AVI:	que vols tu ara ?
+*CHI:	i com ho posaras allo aqui ?
+*QUI:	i la bandera que no la poses ?
+*AVI:	oh , quan una cosa no se'n va , se'n va l' altra .
+*CHI:	com me posaras allo aqui .
+*CHI:	va !
+*AVI:	ara , ara , espera , ara ho posem .
+*MAR:	shhh .
+*QUI:	pum@c pum@c .
+*QUI:	xxx .
+*MAR:	aixo no pot anar aqui , perque aixo +...
+*AVI:	xxx .
+*CHI:	com m' ho posaras ?
+*QUI:	el tractor xxx .
+*CHI:	porta leches de las vacas .
+*QUI:	pues toma leche .
+*QUI:	toma .
+*QUI:	toma mucha .
+*QUI:	toma , toma .
+*CHI:	0 .
+%act:	juga
+@Comment:	adults parlen entre ells
+*QUI:	ara la busques tu , va busca'la .
+*QUI:	la busques tu .
+*QUI:	va busca'la .
+*QUI:	que l' has llencat tu .
+*CHI:	aqui .
+*CHI:	mira'la .
+*CHI:	ja esta .
+*CHI:	la veus ?
+*QUI:	doncs posa'la .
+*CHI:	va .
+*QUI:	vale que la vas posar aqui <i i> [/?] i van venir mes i en van portar mes ?
+@Comment:	adults continuen parlant
+*QUI:	tucu@c , tucu@c [% ho repeteix moltes vegades jugant amb el tractor] .
+*CHI:	que tiro la leche de las vacas [% cantant] .
+*QUI:	tucu@c tucu@c .
+*QUI:	poneis mas .
+*QUI:	primero en esta .
+*QUI:	shh@c .
+*QUI:	esta llena .
+*QUI:	luego en esta .
+*QUI:	shhh@c .
+*QUI:	ya esta llena .
+*QUI:	ahora esta .
+*QUI:	ya esta llena .
+*QUI:	rum@c rum@c rum@c .
+*CHI:	aqui llega la llet de las vacas .
+*QUI:	rum@c rum@c [% ho repeteix varies vegades] .
+*CHI:	aqui llega .
+*QUI:	rum@c rum@c .
+*CHI:	aqui llega xxx [% s' inventa les paraules] .
+*QUI:	a qui li agrada la leche de las vacas [% cantant] ?
+*QUI:	rum@c .
+*CHI:	eh !
+*QUI:	a qui li gusta la leches de las vacas [% cantant] ?
+*CHI:	<amb amb> [/?] amb mi que son el dolent .
+*QUI:	pues toma mucha .
+*QUI:	pues toma mas .
+*QUI:	y toma mas .
+*QUI:	y toma mas .
+*CHI:	0 .
+%act:	va fent com si en beves
+*QUI:	ahora ponlas .
+*CHI:	molt be mira .
+*CHI:	te .
+*CHI:	te .
+*CHI:	te .
+*QUI:	no .
+*QUI:	ponmelas bien sino no .
+*QUI:	no le pondre .
+*QUI:	no le pondre .
+*QUI:	no le pondre mas leche .
+*QUI:	no le pondre .
+*QUI:	no le pondre bien .
+*QUI:	no le pondre .
+*QUI:	no le pondre .
+*QUI:	ai tonto que me l' has posat aqui eh ?
+*AVI:	no us baralleu ara .
+*QUI:	ets un tonto .
+*CHI:	aixo es meu .
+*CHI:	mira .
+*CHI:	i m' ho ha fet malbe [% plorant] .
+*QUI:	xxx que no ho collire .
+*CHI:	tu ho colliras .
+*QUI:	si pero sino +/.
+*CHI:	doncs ho colliras .
+*QUI:	no ho collire .
+*CHI:	ho colliras perque ho has dit primer .
+*QUI:	si no m' ho poses be no .
+*CHI:	0 .
+%act:	li tira una cosa
+*QUI:	0 .
+%act:	s' hi torna
+*CHI:	ah [% plora] !
+*AVI:	home , es que li has fet mal a ton germa .
+@Comment:	tall a la cinta , a l' habitacio , abans de dormir
+*MAR:	corre , mirem a veure'ls a on estan , o sino no els trobaras .
+*QUI:	0 [=! tarareja] .
+*CHI:	ai !
+*CHI:	per que no me'ls agafes tu nena ?
+*MAR:	escolta guillem , vols mirar com estan els contes ?
+*CHI:	no t' ho dic .
+*MAR:	no m' ho dius ?
+*MAR:	bueno , doncs no t' ho explico .
+*ROS:	que estas enfadat avui guillem ?
+*QUI:	s' apanyara ell sol .
+*MAR:	i tant , i tant que s' apanyara ell sol .
+*QUI:	i si ho fa malament +...
+*QUI:	ja s' arreglara ell sol .
+*ROS:	i aixi ?
+*INV:	aquest es el lloc del guillem , no ?
+*QUI:	ha guanyat [% esta mirant un conte] .
+*ROS:	mira guillem .
+*ROS:	guillem !
+*MAR:	va , que explico un conte a tu .
+*ROS:	te guillem !
+*ROS:	guillem !
+*ROS:	te .
+*QUI:	el gufi futbolista .
+*MAR:	el gufi futbolista .
+*MAR:	va a veure si surten aquests mocs .
+*MAR:	no ?
+*MAR:	doncs be , queda'te'ls , que t' aprofitin .
+*ROS:	ja t' ho he arreglat .
+*ROS:	que ho he fet be ?
+*CHI:	0 [= fa que si amb el cap] .
+*ROS:	si ?
+*ROS:	vale , xoca'la .
+*CHI:	0 .
+%act:	la xoca
+*MAR:	www .
+%exp:	explica el conte
+*CHI:	0 [= escolta , pero enfadat] .
+*MAR:	i un dia va haver d' anar al metge .
+*QUI:	a l' hospital .
+*MAR:	a l' hospital .
+*MAR:	www .
+%exp:	continua explicant
+*MAR:	0 .
+%act:	intentar tornar a mocar a g
+*CHI:	no !
+*MAR:	www .
+%exp:	continua explicant
+@Comment:	frame 2808
+*QUI:	per que l' ha agafat ?
+*MAR:	perque es el porter , i no deixava que fessin gols .
+*MAR:	veus ?
+*MAR:	www .
+%exp:	continua explicant
+*MAR:	i al final van guanyar i els hi van donar una copa .
+*QUI:	al gufi ?
+*MAR:	al gufi perque va ser el millor de tots .
+*MAR:	www .
+%exp:	acaba d' explicar el conte
+*ROS:	et moco guillem ?
+*CHI:	que ?
+*ROS:	et moco ?
+*CHI:	no [% molt enfadat] .
+*MAR:	www .
+%exp:	acaba d' explicar el conte al quim
+*MAR:	tu no en vols nino de conte avui ?
+*QUI:	si o no ?
+*CHI:	0 [= no diu res] .
+*MAR:	doncs apa , a fer un pipi i a dormir .
+*MAR:	corre quim .
+*QUI:	anem [% fa com si ronques] .
+*MAR:	ves a fer un pipi , xato meu , va , ves a fer un pipi .
+*QUI:	vull un altre conte .
+*MAR:	que ?
+*QUI:	que vull un altre conte .
+*MAR:	no , es un per tu i un per en guillem , si en guillem no en vol , no n'hi ha .
+*MAR:	va corre xato , ves .
+*QUI:	doncs un altre cop aquest .
+*MAR:	no , jo explico una vegada .
+*QUI:	en vull un altre .
+*MAR:	quim , prou .
+*QUI:	un tros .
+*MAR:	escolta , que ja l' he explicat , afanya't .
+*QUI:	va .
+*QUI:	mira .
+*QUI:	un full i prou .
+*MAR:	ja saps que l' explico una vegada i prou .
+*QUI:	aquest full .
+@Comment:	tall a la cinta , estan bevent llet
+*ROS:	ui , el quim va mes rapid .
+*ROS:	molt be !
+*ROS:	no guillem , que guanyes tu me sembla .
+@Comment:	els adults parlen entre ells
+*ROS:	ui , que t' ha guanyat [% li diu al guillem] .
+*CHI:	ha guanyat .
+*MAR:	vale , vale , vale .
+*ROS:	no pot ser aixo .
+*QUI:	jo t' he guanyat .
+*QUI:	mes fort que tu .
+*QUI:	uau pelem !
+@Comment:	q i g es comencen a barallar
+*MAR:	acabara malament aixo , vinga .
+*MAR:	guillem xxx .
+*QUI:	va barallem'nos .
+*MAR:	no que vaig a apagar la llum immediatament .
+*MAR:	no .
+*MAR:	molt be guillem , molt be .
+@End

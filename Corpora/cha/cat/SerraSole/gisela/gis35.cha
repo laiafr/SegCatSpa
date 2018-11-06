@@ -1,0 +1,723 @@
+@UTF8
+@PID:	11312/c-00028064-1
+@Begin
+@Languages:	cat
+@Participants:	CHI gisela Target_Child , ULI uli Nurse , MAR mare Mother , INV examinador Investigator
+@ID:	cat|Serra|CHI|2;11.||||Target_Child|||
+@ID:	cat|Serra|ULI|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g esta asseguda en una cadira daban la taula on hi a un plat de cargols de pasta , g te un conte a la ma
+*ULI:	aquest xxx .
+*CHI:	<de la > [/?] de la nena .
+*ULI:	em sembla que es un conte del barca aquest .
+*CHI:	si .
+*ULI:	eh que si ?
+*CHI:	mira , es vermell .
+*CHI:	es vermell .
+*ULI:	es els colors del barca .
+*ULI:	la camiseta vermella blava .
+*CHI:	si [= va girant fulls] .
+*ULI:	i grana ?
+*CHI:	mira .
+*ULI:	ai !
+*CHI:	0 [= assenyala en el conte] .
+*CHI:	una nena que esta penjada [% "una nena que ta panjada"] .
+*INV:	una nena que que ?
+*CHI:	que esta penjada [% "que ta panjada"] .
+*INV:	que esta penjada .
+*INV:	i a on esta penjada aquesta nena ?
+*CHI:	0 .
+%act:	tanca el conte
+*INV:	saps com es diu ?
+*CHI:	0 .
+%act:	intenta buscar la plana on hi havia la nena
+*CHI:	ah !
+*CHI:	aqui hi ha un xxx .
+*CHI:	amb aixo , aixo vermell .
+*INV:	l' animal ?
+*INV:	l' animal aquest que vola ?
+*CHI:	0 [= fa que si amb el cap , comenca a menjar] .
+*ULI:	que estan bons ?
+*CHI:	si .
+*CHI:	ai , cau !
+*INV:	com n' hi dius d' aixo ?
+*INV:	cargols ?
+@Comment:	enraonen e i u
+*CHI:	0 .
+%act:	es posa menjar a la boca
+*INV:	quina boca mes grossa !
+*INV:	tens molta gana gisela ?
+*CHI:	si [= ho acompanya amb el cap] .
+*CHI:	la meva truita [% "la meva tuita" , l'assenyala] .
+*INV:	la teva truita .
+@Comment:	tall a la cinta
+*CHI:	a l' altra noia li donarem un bebe .
+*INV:	molt be , clar perque te un xxx a la trona i aixo es com una nena gran amb una cadira .
+*CHI:	si .
+*CHI:	0 .
+%act:	posa el collaret que portava sobre la taula
+*CHI:	si .
+*CHI:	a [/?] ara es petita .
+*INV:	ara et ve petita la trona ?
+*CHI:	si .
+*INV:	clar , tu has crescut molt .
+*INV:	i per <la nina> [/?] aquesta nina ?
+*INV:	<que li> [/?] que hi cap aquesta nina a la trona ?
+*CHI:	no , <no es &pe> [/?] es <&ma> [/?] aixi de <&pe> [/?] petitona .
+*INV:	la nina ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	com se diu aquesta nina ?
+*INV:	que te un nom ?
+*CHI:	es la mariona .
+*INV:	la mariona ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	si ?
+*INV:	<que l' heu &ba> [/?] que li heu posat el nom de mariona ?
+*ULI:	diu que l' ha batejat .
+*ULI:	mira gisela quina truiteta .
+*CHI:	ai !
+*CHI:	la meva nina que no hi arriba .
+*ULI:	0 .
+%act:	li apropa la nina
+*CHI:	l' he posat el pitet perque no se taqui .
+*ULI:	ja li has donat el menjar a la mariona ?
+*CHI:	no .
+*CHI:	si menja madalena .
+*ULI:	ah !
+*ULI:	i que mes ?
+*CHI:	no , no .
+*CHI:	menja madalena i xxx .
+*ULI:	i no [/?] no ha menjat res mes la mariona ?
+*CHI:	no .
+*ULI:	ah no ?
+*CHI:	no .
+*CHI:	ara toca aixo .
+*ULI:	si pero vigila perque crema una miqueta eh !
+*CHI:	un petitet .
+*CHI:	on es ?
+*CHI:	aqui ?
+*CHI:	que crema !
+*CHI:	0 [= bufa el tros de truita] .
+*ULI:	que vols menjar tu la truita ?
+*CHI:	si .
+*ULI:	vols que et dongui jo els cargols ?
+*CHI:	si .
+*ULI:	que estan bons ?
+*CHI:	si .
+*CHI:	ai !
+*CHI:	el posare be , eh ?
+*CHI:	el posare be .
+*ULI:	molt be .
+*CHI:	ui , que caigui !
+*INV:	que ha posat aqui ?
+*CHI:	oh [= li cau un tros de truita] .
+*INV:	crema la truita ?
+*CHI:	0 [= fa que si amb el cap] .
+*ULI:	ara toca aixo , eh !
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	nyam@c !
+*ULI:	i on vas dema gisela ?
+*ULI:	on vas dema amb el cole ?
+*CHI:	amb el ferran .
+*ULI:	pero on anireu amb el cole ?
+*ULI:	on aniras amb el cole ?
+*ULI:	que te +...
+*CHI:	amb el nens .
+*ULI:	amb els nens ?
+*ULI:	i que fareu ?
+*ULI:	que anireu a +...
+*CHI:	que diu ?
+*ULI:	que anireu a +/.
+*CHI:	<a la> [/?] a la meva piscina .
+*ULI:	a la piscina .
+*CHI:	a la meva , eh !
+*ULI:	a la teva ?
+*CHI:	si .
+*CHI:	a tocar a la masia .
+*ULI:	ui !
+*ULI:	la de la masia no .
+*ULI:	una del carrer del que esta a gracia .
+*ULI:	i amb que vas ?
+*ULI:	que vas amb tren ?
+*CHI:	no , en [/?] en autocar [% "no , en tucar"] .
+*ULI:	amb un autocar ?
+*CHI:	si .
+*ULI:	gran ?
+*CHI:	ah !
+*ULI:	o petit ?
+*CHI:	gran .
+*ULI:	ah !
+*ULI:	i qui va de la teva classe ?
+*ULI:	gisela .
+*ULI:	qui va de la teva classe ?
+*ULI:	qui va ?
+*ULI:	l' estel ?
+*CHI:	0 [= fa que no amb el cap] .
+*ULI:	i la julia ?
+*CHI:	0 [= fa que no amb el cap] .
+*ULI:	gisela [= vol donar'li menjar] .
+*CHI:	mira [% "mia" , amaga el cap sota la taula] .
+*ULI:	mira com et mira la nina , gisela .
+*CHI:	0 [= treu el cap i mira la nina] .
+*ULI:	quines tonteries que fas gisela .
+*CHI:	0 [= fa un llengot i torna a posar'se sota la taula] .
+*ULI:	marrana .
+*CHI:	0 [= escup el menjar] .
+*ULI:	no escupis .
+*CHI:	xxx .
+*ULI:	vine aqui , va .
+*ULI:	i la truita ?
+*CHI:	estic amagada .
+*ULI:	que tens vergonya ?
+*CHI:	que estic amagada [% "que etic magara"] .
+*CHI:	oh , oh !
+*ULI:	vinga puja .
+*CHI:	no pujo .
+*ULI:	com que no !
+*ULI:	estas embrutant la forquilla i ja te n' he canviat una .
+*CHI:	0 [= s' incorpora i riu] .
+*ULI:	on has posat la forquilla , eh ?
+*CHI:	aqui [= assenyala sota la taula] .
+*ULI:	i que es aixo ?
+*CHI:	una bombilla [% "una bombella"] .
+*ULI:	una que ?
+*CHI:	una bombilla [% "una bombella"] .
+*ULI:	una bombilla no !
+*ULI:	una garrafa .
+*CHI:	una xxx [% "una gatata"] ?
+*ULI:	no .
+*CHI:	una xxx [% "una tatota"] ?
+*ULI:	no .
+*CHI:	xxx .
+%com:	g fa el gest d' apartar la ma de u quan aquesta vol donarli menjar amb la forquilla , fa que no amb el cap , al final es disposa a menjar
+*CHI:	ara d' aquesta [% "ara d' aqueixa"] ?
+*ULI:	ara aixo , eh ?
+*ULI:	vaig a buscar una cullera gisela .
+*CHI:	i per que ?
+*ULI:	perque amb aquesta forquilla tan gran tinc por de punxar'te la boca .
+*CHI:	si ?
+*ULI:	si .
+*ULI:	0 .
+%act:	torna amb la forquilla
+*CHI:	i aquesta ?
+*ULI:	no , aixo no punxa , es una cullera [= omple la cullera] .
+*CHI:	xxx ha caigut [= es refereix al menjar] .
+*ULI:	no , no ha caigut , ho has llencat [= torna a omplir la cullera] .
+*ULI:	no , no gisela , ara no toquen cargols .
+*ULI:	ja esta be gisela !
+*ULI:	una de cada .
+*CHI:	no [>] .
+*ULI:	<d' acord> [<] ?
+*ULI:	com que no !
+*CHI:	0 [= fa que no amb el cap] .
+%act:	pica a la ma de u fent'li caure el menjar
+*ULI:	ei !
+*ULI:	no em peguis .
+*CHI:	eh !
+*CHI:	n' hi ha grosses [% "n' hi han grosses" , es refereix als talls de truita] .
+*CHI:	oh !
+*CHI:	0 .
+%act:	barreja un tros de truita amb la pasta i s' ho menja
+*ULI:	marranota , eh !
+*CHI:	no [% "nyaaa"] !
+*ULI:	i que us ensenyen a fer a la piscina ?
+*CHI:	0 .
+%act:	frega la forquilla dins el plat
+*ULI:	ai , gisela !
+*CHI:	0 [= mou el cap] .
+*ULI:	que fas ?
+*CHI:	0 [= continua movent el cap] .
+*ULI:	va , prou de tonteries i vinga .
+*ULI:	vols que mirem un conte ?
+*CHI:	si .
+*ULI:	va , quin conte ?
+*CHI:	el teo .
+*CHI:	el teo .
+*ULI:	el teu ?
+*INV:	ah , el teo !
+*ULI:	ja l' has pintat aquest ?
+*CHI:	no [= ho acompanya amb el cap] .
+*ULI:	no l' has pintat aquest ?
+*ULI:	aquest es per pintar , eh !
+*CHI:	mira , hi ha el meu &con +...
+*CHI:	mira , mira [= ensenya una imatge del conte a u] .
+*ULI:	a veure .
+*ULI:	deixa'l sobre la taula .
+*ULI:	que hi ha ?
+*CHI:	0 .
+%act:	deixa el conte obert sobre la taula
+*CHI:	he pintat aixo [/?] aixo [>] .
+*ULI:	que es aixo [<] ?
+*CHI:	un cotxe .
+*ULI:	un ?
+*CHI:	un cotxe [% "a cota"] .
+*ULI:	un cotxe [% "un cota"] ?
+*CHI:	0 [=! riu] .
+*CHI:	no +...
+*ULI:	parles com una <nena petita> [>] .
+*CHI:	<un cotxe , un cotxe> [<] [% "una cota , un cota"] .
+*ULI:	parles com una nena petita .
+*ULI:	0 .
+%act:	es disposa a donar menjar a g
+*CHI:	ara toca aixo [= assenyala la truita] .
+*ULI:	i aixo [/?] que es aixo [= assenyala el conte] ?
+*ULI:	una que ?
+*CHI:	una cullera .
+*ULI:	ah !
+*ULI:	un espantaocells , no una cullera , gisela .
+*ULI:	i aixo ?
+*CHI:	0 .
+%act:	es posa un tros de truita a la boca
+*ULI:	ei , ei , ei , ei !
+*ULI:	frena eh !
+*ULI:	al final m' enfadare , eh , gisela !
+*ULI:	i aixo [/?] que es aixo ?
+*ULI:	que es aixo ?
+*CHI:	un nino [% "un ena"] .
+*ULI:	un que ?
+*CHI:	un nino [% "un enu"] .
+*ULI:	no l' entenc .
+*CHI:	un nino .
+*ULI:	un nino .
+*ULI:	<i i i i> [/?] i aquest cotxe ?
+*CHI:	totes .
+*ULI:	que ?
+*CHI:	totes .
+*ULI:	anda ya !
+*CHI:	ah [= amaga el cap sota la taula i crida] !
+*ULI:	va , puja .
+*ULI:	no t' amaguis .
+*ULI:	puja .
+*CHI:	ui !
+*CHI:	aixi [= s' incorpora pero d' esquena] ?
+*ULI:	et clavaras la forquilla .
+*ULI:	aixi no xxx , al reves .
+@Comment:	la g toca la ma de u quan aquesta intenta posarli el menjar a la boca i la forquilla cau a terra
+*ULI:	obre la boca .
+*CHI:	m' he embrutat [% "m' hi embutat"] .
+*ULI:	no , ja +...
+*ULI:	deixa'm .
+*ULI:	<ja ho &recolli> [/?] ja ho recullire gisela .
+*CHI:	xxx .
+*ULI:	obre la boca .
+*ULI:	obre la boca .
+*CHI:	0 .
+%act:	es posa el menjar que ha caigut a la boca
+*ULI:	<no &sig> [/?] no siguis +...
+*ULI:	ets una marrana eh !
+*ULI:	les coses de [/?] del terra no es posen a la boca gisela .
+*CHI:	aixo no ha caigut a terra .
+*ULI:	doncs a la cadira , tampoc es posen a la boca .
+*ULI:	va , posa't de cara .
+*CHI:	de caca ?
+*ULI:	si , de &ca +...
+*ULI:	no !
+*ULI:	de caca no .
+*ULI:	de cara .
+*CHI:	de tata@c ?
+*ULI:	que tonta ets !
+*CHI:	0 [=! riu] .
+*CHI:	a xxx [% "a cata"] ?
+*CHI:	a xxx no [% "a cata no"] .
+*CHI:	a xxx [% "a cata"] ?
+*ULI:	no fas gracia .
+*ULI:	pensava que sabies parlar molt be ja .
+*ULI:	pensava que eres una nena gran .
+*ULI:	pero ja veig que (.) no .
+*CHI:	xxx caca .
+*ULI:	que toca ?
+*CHI:	aixo .
+*CHI:	hum [= es posa el menjar a la boca] !
+*CHI:	no crema .
+*ULI:	no , ja no crema .
+*ULI:	qui es aquest senyor tan gordo [= assenyala en el conte] ?
+*CHI:	el papa noel .
+*ULI:	el papa noel ?
+*CHI:	si .
+*CHI:	te una barba .
+*ULI:	i que mes ?
+*CHI:	<i i i> [/?] i una tonteta .
+*ULI:	una que ?
+*CHI:	una tonteta .
+*ULI:	de veritat , no se que vols dir amb aixo .
+*CHI:	mira .
+*ULI:	i <a la maneta> [/?] que hi te a la maneta ?
+*CHI:	una pilota .
+*CHI:	per jugar [% "a jugar"] .
+*ULI:	i saps a que juga aquest senyor ?
+*CHI:	que juga ?
+*ULI:	a futbol .
+*CHI:	xxx [% "futfbolto"] ?
+*CHI:	0 [=! riu] .
+*ULI:	ara toca aixo .
+*ULI:	gisela , va .
+*ULI:	seu be i menja com una persona i no com un animal .
+*CHI:	0 [=! riu] .
+*ULI:	vinga .
+*CHI:	jo soc un animal .
+*ULI:	ah !
+*ULI:	ets un animal ?
+*ULI:	ara t' has tornat un gosset ?
+*ULI:	com el balu ?
+*ULI:	ets un gosset com el balu ?
+*CHI:	no [= ho acompanya amb el cap] .
+*ULI:	ah no ?
+*CHI:	no , no .
+*CHI:	jo [/?] jo soc una nena .
+*ULI:	a si ?
+*ULI:	doncs fas coses d' animalet .
+*ULI:	sembles un animalet .
+*CHI:	0 [= riu molt i para de sobte] .
+*CHI:	que vingui la ma [= mira sota la taula] .
+*CHI:	que vingui la ma dreta .
+*CHI:	ai [= riu i mira sota la taula] !
+*ULI:	va , prou [= li acosta el menjar] .
+*CHI:	nyam@c .
+*CHI:	no toquis aixo [= dona l' esquena a u] .
+*ULI:	t' acabes de menjar un tall de truita com una casa .
+*CHI:	0 .
+%act:	punxa un tros de truita gros i riu
+*ULI:	tres , jo en posaria tres de talls [= amb to ironic] .
+*CHI:	0 [=! riu] .
+*ULI:	tramposa .
+*CHI:	hum !
+*ULI:	va , prou .
+*ULI:	ara aixo .
+*ULI:	ah , si encara tens la boca plena !
+*ULI:	m' has enredat .
+*ULI:	i que mes hi ha en aquest conte [= agafant'lo] ?
+*CHI:	a xxx xxx [% "a poneta xxx"] .
+*CHI:	ja s' ha acabat .
+*ULI:	qui es aquest [= assenyala el conte] ?
+*CHI:	el xxx [% "a teto"] .
+*ULI:	i aixo ?
+*CHI:	a xxx a xxx [% "a tit a tit"] .
+*ULI:	i aquesta senyora qui es ?
+*CHI:	la xxx [% "la tona"] .
+*ULI:	sin comentarios .
+*ULI:	i que tenim aqui ?
+*CHI:	xxx xxx xxx [% "a ta toto"] .
+*ULI:	un que ?
+*CHI:	xxx xxx xxx [% "a ta toto"] .
+*ULI:	a si ?
+*CHI:	0 [=! riu] .
+*CHI:	nyam@c [= obre la boca per menjar la cullerada que li dona u] !
+*CHI:	0 .
+%act:	punxa dos cargols de pasta
+*ULI:	un , gisela , un .
+@Comment:	tall a la cinta
+*CHI:	no , he dit que no [= aparta el menjar que li dona u] .
+*ULI:	xxx t' acabes de menjar dos plats de truita .
+*CHI:	ah [= li dona menjar u i g tambe en punxa] !
+*ULI:	gisela !
+*CHI:	0 [=! riu] .
+*ULI:	xsst@c xsst@c !
+@Comment:	la g aparta el plat que te davan , pero se'l torna a acostar per acabarse els ultims trossets
+*ULI:	no te l' omplis mes la boca , eh !
+*CHI:	no .
+*CHI:	n' hi ha poquet .
+*ULI:	si pero no cal que te l' omplis ara , ja te l' ompliras despres .
+*CHI:	hum [= segueix omplint'se la boca] !
+*ULI:	gisela , que no em sents ?
+*ULI:	ara t' ho menges tot tu [= li acosta l' altre plat] .
+*CHI:	no !
+*ULI:	si .
+*ULI:	menja't' ho tu soleta .
+*ULI:	t' has acabat la truita i ara et menges els cargols .
+*ULI:	d' acord ?
+*CHI:	0 [= fa que no amb el cap] .
+*ULI:	per que no ?
+*CHI:	perque no .
+*ULI:	per que ?
+*CHI:	perque no .
+*CHI:	xxx m' ho posat al cap [= juga amb un collar que du penjat al coll] .
+*ULI:	ja ho veig , ja .
+*CHI:	0 [=! riu] .
+*ULI:	i per que t' ho poses al cap ?
+*CHI:	perque si .
+*CHI:	ai !
+*CHI:	m' ho trec [% "m' ho tregu"] .
+*ULI:	i ara penjat de l' orella ?
+%com:	el collaret cau a la falda de g
+*CHI:	ho tinc amagat .
+*CHI:	vull que sigui la tortugueta .
+*ULI:	la tortugueta esta enfadada .
+*CHI:	i per que ?
+*ULI:	perque no menges sola .
+@Comment:	el collar cau a terra , g s' ajup per agafarlo i riu
+*ULI:	cauras , eh !
+*CHI:	no .
+*CHI:	m' aixeco .
+*CHI:	i la tortugueta on es ?
+*ULI:	0 .
+%act:	li va donant menjar
+*ULI:	no hi es avui .
+*ULI:	esta enfadada amb tu perque no menges sola , perque dius tonteries , perque parles com una nena petita .
+*CHI:	0 .
+%act:	li agafa la cullera per menjar ella sola
+*ULI:	poc a poc .
+*CHI:	xxx [= parla amb la boca plena i no s' enten] .
+*CHI:	0 .
+%act:	torna a agafar la cullera per omplir'se la boca que ja te plena
+*ULI:	poc a poc gisela , que encara tens la boca plena .
+@Comment:	la g riu mentre menja , mou el cap d' un costat a l' altre , alhora u s' aixeca i es dirigeix a l' habitacio del costat de la cuina
+*CHI:	quin soroll [= riu i fa copets sota la taula amb el collar] !
+*CHI:	que fa <al la> [/?] el collaret el soroll .
+*INV:	aixo es de la secadora .
+*INV:	eh que si ?
+*CHI:	no , va [/?] el meu collaret [% "no , a meu coiaret"] .
+*ULI:	ei !
+*ULI:	el teu collaret el que feia el soroll .
+*INV:	el trencaras aquest collaret si li dones cops .
+*CHI:	no , no s' ha trencat .
+*INV:	no es pot trencar ?
+*CHI:	0 [= riu i segueix donant cops] .
+*CHI:	ja [/?] ja esta quiet [% "ja ta quiet"] .
+*INV:	perdona .
+*CHI:	s' ha amagat , s' ha amagat , s' ha amagat [% "s' ha magat" , segueix jugant amb el collar] .
+*INV:	qui [/?] qui s' ha amagat gisela ?
+*CHI:	el collaret .
+*INV:	el collaret s' ha amagat ?
+*CHI:	perque <am s' han &peq> [/?] s' ha enfadat [% "peque s' anfadat"] .
+*INV:	el collaret s' ha <&en> [>] +/.
+*CHI:	xxx [<] xxx .
+*CHI:	fa xxx .
+@Comment:	ha caigut el collaret , u el recull
+*ULI:	te , te [= li dona a g] .
+*CHI:	0 .
+%act:	passa pel forat de l' espatllera de la cadira i queda d' empeus al costat de la cadira
+*INV:	on es la gisela ?
+*INV:	ah , no la veig !
+*INV:	s' ha amagat .
+*CHI:	estic aqui .
+*INV:	ets aqui ?
+*CHI:	si .
+*ULI:	seu [>] .
+*INV:	em [<] sembla que <la uli> [/?] esta <un xic> [/?] una mica enfadada amb tu la uli .
+*CHI:	no .
+*ULI:	tu que creus ?
+*CHI:	0 [=! riu] .
+*ULI:	eh ?
+*CHI:	poso aixo aqui [% "poso axo achi" , segueix jugant amb el collaret] .
+*ULI:	vinga va , seu i acaba de menjar aixo .
+*ULI:	corre , vinga .
+*CHI:	espera que vaig a buscar una cosa [% "epera que vaig a bucar una cosa"] .
+*ULI:	que vas a buscar ?
+*CHI:	la cullera [% "a cuiera"] .
+*ULI:	que ?
+*CHI:	la cullera [% "a cuiera"] .
+*CHI:	vaig a deixar aixo aqui [= deixa quelcom al fons de la cuina] .
+*CHI:	0 [=! riu] .
+*CHI:	si que s' aguanta .
+*ULI:	si .
+*CHI:	es com un rellotge [% "e com un relotxe" , dona copets en algun objecte que penja del pany de la porta] .
+*ULI:	si .
+*ULI:	fa tic@c tac@c .
+*CHI:	ti@c tac@c .
+*CHI:	xxx [= riu] .
+*CHI:	mira .
+*ULI:	a veure aquest rellotge .
+*CHI:	mira [= li ensenya] .
+*CHI:	mira , mira .
+*ULI:	ja [/?] ja el veig .
+*ULI:	a veure com fa tic@c tac@c .
+*CHI:	0 [= riu mentre continua donant cops] .
+*CHI:	s' ha trencat la porta .
+*CHI:	s' ha trencat la porta .
+*CHI:	espera que la posare be [% "espera que la puzare be"] .
+*CHI:	espera <que vaig a> [/?] que vaig arreglar el collaret [% "epera que vaig arreglar el cuiaret"] .
+@Comment:	canvi de context , g esta en el sofa de la sala d' estar jugant amb u
+*CHI:	ai !
+*ULI:	has d' anar a sopar gisela .
+*ULI:	quan acabis de sopar podras venir aqui i podras jugar tot el que vulguis .
+*CHI:	ai !
+*ULI:	vine .
+*CHI:	0 .
+%act:	pessiga u
+*ULI:	eh , a mi no em pessiguis eh !
+*ULI:	que et picare els dits eh !
+*CHI:	0 [= riu i continua pessigant u] .
+*ULI:	que t' has tornat nervioseta ?
+*CHI:	soc un conill .
+*ULI:	els conills no fan aquestes tonteries .
+*CHI:	oi que no puc ?
+*ULI:	ara farem el sopar .
+*ULI:	d' acord ?
+*ULI:	despres podras ser un conill , un gat , un gos [>] .
+*CHI:	xxx [<] no !
+*ULI:	una jirafa , un mono , un mico , un <goril'la> [>] .
+*INV:	<i un> [<] senyor de puerto rico .
+*ULI:	d' acord .
+*ULI:	vale , va .
+*CHI:	a veure [% "a vera"] +...
+*CHI:	me fas pessigolles ?
+*ULI:	0 .
+%act:	li fa
+*CHI:	0 [=! riu] .
+*CHI:	espera't eh [% "peret eh"] !
+*CHI:	ma [/?] em fas aixo [% "ma fas aixo"] ?
+*ULI:	que ?
+*CHI:	aixi [% "acis"] .
+*ULI:	el que ?
+*CHI:	aixi [% "acis"] .
+*ULI:	aixi [% "aixis"] ?
+*CHI:	si .
+*ULI:	va , anem a sopar gisela .
+*CHI:	a [/?] a veure [>] .
+*ULI:	a [<] la una [>] .
+*CHI:	<apreta'm> [<] aixi , va [% "apreta'ma axis , va"] .
+@Comment:	u agafa a la g a coll i se l' emporta cap a la cuina , g li tapa els ulls
+*ULI:	que no veig res .
+*ULI:	que no veig res .
+*ULI:	i si ens en donem contra la paret ?
+@Comment:	ja son a la cuina , seuen a taula
+*ULI:	va , va .
+*ULI:	mira , mira gisela , dues cullerades i prou .
+*CHI:	0 .
+%act:	pega u
+*ULI:	eh !
+*ULI:	dues cullerades i prou .
+*ULI:	mira , mira que per pocs cargols que queden i aixi faras contenta a la tortugueta i tu ja tindras gana i +...
+*ULI:	no em peguis !
+@Comment:	tall a la cinta
+*INV:	posa'n , posa'n' hi cacauets .
+*CHI:	carne no te mengis , eh .
+*INV:	no , no .
+*MAR:	li cauran totes les dents si +...
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	diu que si .
+*CHI:	mira a [/?] caramels .
+*CHI:	mes no eh !
+*MAR:	mes no ?
+*CHI:	no .
+*MAR:	no .
+*MAR:	jo me'l guardo per despres de sopar .
+*CHI:	vale .
+*MAR:	d' acord ?
+*MAR:	la revista no gise .
+*MAR:	gise no et carreguis els llapis del teu padrinet [% "llapissos"] .
+*MAR:	no ha vingut el padrinet ?
+*ULI:	no .
+*CHI:	espera , mes carmels , mes carmels [% "epera , mes camels , mes camels"] .
+*CHI:	mira , tinc mes carmels aqui a la bosseta [% "mes camels"] .
+*MAR:	aixo no es una bosseta , tonta .
+*MAR:	aixo es una capsa .
+*CHI:	a veure si xxx [>] .
+*MAR:	aixo [<] es una capsa de llapis , no es una bosseta [% "llapissos"] .
+*CHI:	mira , en tinc mes .
+*CHI:	xxx mes .
+%com:	g te una capsa de llapis i fa que m agafi caramels
+*CHI:	mes no .
+*CHI:	a la butxaca .
+*MAR:	no si [/?] , si no +...
+*MAR:	a la butxaca , a la butxaca .
+*CHI:	a [/?] pica , pica , pica .
+*CHI:	un de que no piqui , ja no pica .
+*MAR:	no pica .
+*MAR:	de quin color son els que piquen ?
+*ULI:	i aquest ?
+*CHI:	el negre .
+*MAR:	els negres i els verds .
+*CHI:	<no aquest> [/?] no , aquest [= assenyala la caixa] .
+*CHI:	0 .
+%act:	dona quelcom a m
+*ULI:	de que es aquest ?
+*CHI:	del +...
+*CHI:	aquest es groc , no , no , un de [/?] de taronja [% "tarontxa"] .
+*ULI:	molt be .
+*CHI:	de taronja [% "de tarontxa"] .
+*ULI:	a la butxaca ?
+*CHI:	si .
+*CHI:	0 .
+%act:	es dirigeix a e per a donar'li un caramel
+*CHI:	<&u> [/?] un altre .
+*INV:	gracies gisela .
+*CHI:	no te'l mengis eh !
+*INV:	on me'l guardo [>] ?
+*CHI:	ah [<] , que pica eh !
+*CHI:	no menja .
+*INV:	me'l guardo a la butxaca .
+*INV:	gracies .
+*CHI:	0 [= fa un sospir] .
+*MAR:	quin cansament !
+*MAR:	que atrafagada que estas .
+*MAR:	on vas ?
+*CHI:	0 .
+%act:	surt de la cuina
+*CHI:	espera't eh !
+*CHI:	que vaig a buscar una cosa .
+@Comment:	tall a la cinta , estan a la cuina al voltant de la taula
+*MAR:	aixo es un plumier .
+*CHI:	mira xxx .
+*MAR:	que hi fan aquests coixins a terra ?
+*MAR:	que es aquest muntatge ?
+*CHI:	ja esta , ja .
+*ULI:	quants caramelets m' has donat ?
+*CHI:	<&do> [/?] tres [% "trez"] .
+*ULI:	tres ?
+*CHI:	vale .
+*ULI:	a la butxaca ?
+*CHI:	si tu tambe fa +...
+*MAR:	no que em faran mal les dents .
+*CHI:	guarda'la [= va cap m a posar'li el caramel a la butxaca] .
+*CHI:	espera't aqui .
+*CHI:	vine , <&sen> [/?] senta't .
+*CHI:	aixi , aixi [= fa ajupir a m per a posar'li el caramel a la butxaca] .
+*MAR:	gracies gisela .
+*MAR:	moltes gracies .
+*MAR:	gracies del que pica .
+*MAR:	no [/?] ja me'l menjare , pero el que pica no m' agrada .
+*CHI:	aquest no pica , mira .
+*MAR:	per que no pica ?
+*MAR:	pero si es de color verd i tambe piquen els de color verd .
+*CHI:	no pica el de &co verd , no .
+*CHI:	es groc .
+*MAR:	ah , es groc !
+*CHI:	si .
+*MAR:	be .
+*MAR:	ja no te'n queden a la bosseta ?
+*CHI:	no .
+*CHI:	<a a> [/?] en posare mes .
+*CHI:	ara en poso [= no queda massa clar que digui aixo] .
+*MAR:	on els vas a buscar ?
+*CHI:	aqui [= rasca a la paret] .
+*MAR:	que es aixo ?
+*CHI:	mira , ja en tinc mes .
+*MAR:	xxx [>] .
+*INV:	que [<] ve a fer ?
+*INV:	ah si !
+*INV:	mes caramels .
+*CHI:	si .
+*MAR:	xxx .
+*INV:	on me'l guardo aquest gisela ?
+*MAR:	no ?
+*MAR:	xxx [>] .
+*CHI:	<aquest no> [<] pica .
+*INV:	aquest no pica ?
+*CHI:	no .
+*INV:	<no me'l puc> [/?] gisela , el caramel no me'l puc menjar ?
+*CHI:	no peque [/?] perque et fara <mal a> [/?] mal a panxeta [% "no peque te fara mal a panxeta"] .
+*CHI:	no te'l mengis eh !
+*MAR:	no , no .
+*MAR:	els tinc a la butxaca .
+*CHI:	en vols un , eh ?
+*CHI:	per despres de sopar .
+*CHI:	per despres de sopar [>] .
+*MAR:	no [<] , un , un .
+*MAR:	no gisela , no em ve de gust .
+*MAR:	no que em fa mal a les dents .
+*CHI:	0 .
+%act:	posa el caramel a la boca de m
+*MAR:	amb paper i tot , marrana !
+@Comment:	g pica al cap de m amb el plumier
+*MAR:	<&gi> [/?] gisela , no jugare mes amb tu .
+*MAR:	una cosa son les bromes i l' altra cosa es fer'me mal al coco@c .
+*CHI:	0 .
+%act:	segueix intentant picar'li al cap a m
+*MAR:	gisela !
+*MAR:	ui gisela dolenta !
+*MAR:	que em faras mal !
+*CHI:	0 [= fa sorolls amb la llengua i crida] .
+*MAR:	que pensara la maria rosa d' una nena que es porta tan malament com tu ?
+@End

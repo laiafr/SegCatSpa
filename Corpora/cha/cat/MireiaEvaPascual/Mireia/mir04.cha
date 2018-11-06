@@ -1,0 +1,162 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, FAT Father, MOT Mother
+@ID:	cat|change_me_later|MIR|1;7.4||||Target_Child|||
+@ID:	cat|change_me_later|FAT|||||Father|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	14-JUN-1995
+@Location:	in the dining-room
+@Activities:	MIR and FAT are sitting at the table. The table is still laid for lunch. There is a picture book on the table
+@Comment:	MOT is video-taping
+*FAT:	tapa això .
+%exp:	wine bottle
+*MIR:	0 .
+%act:	puts the cork on the bottle
+*MOT:	www .
+*FAT:	www .
+*MIR:	xxx .
+%act:	takes the picture book and hands it to FAT
+*FAT:	va mirem això ?
+%exp:	the book
+*MIR:	sí .
+%act:	moves her arms in agitation
+*FAT:	què és això ?
+%act:	points at a picture on the book
+*MIR:	flor [= fo] .
+*FAT:	una flor (.) molt bé !
+*FAT:	i això ?
+%act:	points at a picture
+*MIR:	piopio@c .
+%exp:	bird
+*FAT:	el piopio@c (.) i això ?
+%act:	points at another picture
+*MIR:	piopio@c .
+%exp:	bird
+*FAT:	no (.) això és un paraigües (.) uns nenes amb paraigües .
+*MIR:	pio@c aquí .
+%exp:	bird
+%act:	points at another picture
+*FAT:	aquí sí (.) però això és un cargol .
+*MOT:	com és (.) és gran (.) que és gran ?
+*MIR:	a pí (.) a pà (.) a pà .
+%act:	reaches for the bread basket
+*FAT:	vols pà ?
+*FAT:	està molt dur .
+%act:	picks a piece of bread
+*MIR:	pupa@c no .
+%exp:	pain
+*FAT:	no (.) però es que està molt dur .
+*MOT:	no li fa pupa@c a la boca (.) vol dir .
+*FAT:	0 .
+%act:	gives bread to MIR
+*MIR:	0 .
+%act:	eats bread
+*MIR:	pupa@c no .
+*FAT:	no et fa pupa@c .
+*FAT:	i això ?
+%act:	points at another picture
+*FAT:	una nena .
+*MIR:	0 .
+%act:	points at another picture
+*MIR:	a botes [= butes] .
+*FAT:	les botes (.) www .
+*FAT:	i això ?
+%act:	points at a picture
+*MIR:	plou [= pou] .
+*FAT:	el paraigües que plou .
+*FAT:	i el cargol ?
+*MOT:	com és ?
+*MIR:	gran [= nan] .
+%act:	gestures its size with both arms
+*MOT:	gran .
+*FAT:	i aquest ?
+%act:	points at another picture
+*MIR:	petit .
+*FAT:	i plou (.) que plou ?
+*MIR:	plou [= pou] .
+*FAT:	i aquest nen que va en un cotxe ?
+*MIR:	xxx .
+*FAT:	on va això ?
+*MIR:	a botes [= butes] .
+*FAT:	les botes [= butes] .
+*FAT:	i això ?
+%act:	points at another picture
+*MIR:	xxx .
+*FAT:	paraigües .
+*FAT:	i això ?
+%act:	points at another picture
+*MIR:	0 .
+%act:	points at a different picture and then to FAT
+*FAT:	un barret (.) mira (.) veus el barret .
+*MOT:	jo li dic gorro .
+*FAT:	gorro (.) un gorro (.) mira !
+*FAT:	què és això ?
+%act:	points at another picture
+*MIR:	xxx .
+%com:	her mouth is full of bread
+*FAT:	la cadira .
+*MOT:	mal moment per a gravar mentres menja .
+*FAT:	vols més ?
+%exp:	bread
+*MOT:	vols una galeta ?
+*MIR:	no .
+*FAT:	què és això ?
+%act:	points at another picture
+*MIR:	cargol [= goi] .
+*FAT:	és gran o petit ?
+*MIR:	gran .
+*FAT:	no (.) aquest no és gran .
+*MIR:	(a)quest gran .
+*FAT:	aquest ?
+*MIR:	gran .
+*FAT:	i aquest ?
+%act:	points at another picture
+*MIR:	molt [= mo] petit .
+*FAT:	molt petit .
+*FAT:	i aquest (.) què és ?
+%act:	points at another picture
+*MIR:	gran .
+*FAT:	i aquest ?
+%act:	points at another picture
+*MIR:	gran .
+*FAT:	aquest és gran ?
+*MIR:	no .
+*FAT:	0 .
+%act:	laughs
+*FAT:	aquest que és ?
+%act:	points at the same picture
+*MIR:	a petit .
+*FAT:	però mira'l bé !
+*MIR:	0 .
+%act:	has a closer look
+*MIR:	a petit !
+*FAT:	val .
+*FAT:	i aquest ?
+%act:	points at another picture
+*MIR:	gran .
+*FAT:	molt gran .
+*FAT:	i la flor ?
+*MIR:	gran .
+*FAT:	gran .
+*FAT:	i aquest ?
+%act:	points at another picture
+*MIR:	gran .
+*FAT:	i aquest ?
+%act:	points at another picture
+*MIR:	gran !
+*FAT:	0 .
+%act:	looks at her showing disagreement
+*MIR:	no .
+*FAT:	0 .
+%act:	laughs
+*FAT:	és +...
+*MIR:	petit .
+*FAT:	i aquest ?
+%act:	points at another picture
+*MIR:	gran .
+*FAT:	i la flor ?
+*MIR:	gran .
+*FAT:	i aquesta ?
+*FAT:	mira'la bé .
+@End

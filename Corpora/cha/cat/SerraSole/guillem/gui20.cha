@@ -1,0 +1,307 @@
+@UTF8
+@PID:	11312/c-00028075-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , PAR pare Father , MAR mare Mother , QUI quim Brother , ANA ana Nurse , INV Investigator
+@ID:	cat|Serra|CHI|1;8.||||Target_Child|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|ANA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan g , q i e al pati netejant el cotxe , q renta la roda amb una manega , g juga amb l'aixeta
+*INV:	que tanques guillem ?
+*INV:	guillem , que fas ?
+*INV:	que tanques la +...
+*INV:	tanques ?
+*INV:	per que tanques ?
+*CHI:	tanco .
+*CHI:	xxx xxx xxx [= assenyala a g] .
+*INV:	per que tanques ?
+*INV:	que esta regant el quim .
+*INV:	quim , que vols regar mes ?
+*QUI:	eh ?
+*INV:	que vols anar a la platja ?
+*QUI:	0 [=! fa que si amb el cap] .
+*INV:	si ?
+*INV:	que has d' anar a la platja amb l' anna ?
+*INV:	esta molt met ja el cotxe .
+*INV:	guillem .
+*INV:	que fas ?
+*QUI:	que poqueta .
+*INV:	que ?
+*QUI:	raja poqueta [% "raia poqueta"] .
+*INV:	ha tancat , ha tancat .
+*INV:	es que ens hem d' anar a la platja .
+@Comment:	hi ha un tall a la cinta
+*INV:	i us vinc a veure .
+*INV:	de qui cinc minuts arribo .
+*INV:	vaig a posa'm el vestit de bany .
+*INV:	com treballa [= es refereix a g] .
+*INV:	treballa com tu , eh [= suposo que li diu a q] ?
+*CHI:	0 .
+%act:	esta netejant els fars del cotxe amb una esponja
+*INV:	que neteja ?
+*INV:	els fars ?
+*QUI:	eh ?
+*INV:	neteja els fars del cotxe .
+*CHI:	0 .
+%act:	va cap a l' aixeta
+@Comment:	a enraona amb q
+*INV:	que fas guillem ?
+*ANA:	0 .
+%act:	aparta a g de l' aixeta
+*CHI:	0 .
+%act:	torna cap al cotxe i neteja la porta
+*QUI:	a veure guillem .
+*QUI:	doma'm [= li demana l' esponja] .
+*QUI:	dona'm .
+*QUI:	dona'me'la [= persegueix g] .
+*CHI:	pcf [% "quelaquelaquelaquela"] .
+*CHI:	pcf [% "pelapelapela"] .
+*ANA:	anem [= a g] .
+*CHI:	no .
+*CHI:	pcf [% "palo" , s' apropa a a] .
+*CHI:	pcf [% "palo"] .
+*ANA:	no , vine .
+*ANA:	anem [= l' agafa de la ma] .
+*CHI:	pcf [% "palo"] .
+*ANA:	anem .
+*ANA:	deixa aixo aqui [= es refereix a l' esponja] .
+*ANA:	deixa'ho aqui .
+*ANA:	aqui .
+*ANA:	aqui .
+*INV:	a veure , a veure [= a q] .
+*INV:	que portes tu aqui ?
+*QUI:	l' esnupi [= li ensenya la camiseta] .
+@Comment:	q s' apropa a g i a , vol prendre l' esponja a g , enraonen q i a , q vol netejar el cotxe , enraonen q i o
+@Situation:	canvi de contexte , ara estan a la cuina , g menja un tros de pa
+*MAR:	vine [= a g] .
+*CHI:	pcf [% "aaa"] .
+*CHI:	pcf [% "ma" , assenyala amb el dit l' aigÅera] .
+*MAR:	espera .
+*MAR:	has d' esperar una miqueta que esta molt fred .
+*CHI:	pcf [% "aiaiaia"] .
+*CHI:	vull aigua [% "a bu aigua" , vol agafar un pot] .
+*MAR:	aixo no es aigua guillem .
+*MAR:	espera't un moment si us plau .
+*CHI:	pcf [% "ma"] .
+*CHI:	mama .
+*MAR:	mare .
+*CHI:	mare [= l' agafa de la bata] .
+*MAR:	un moment .
+*CHI:	vull beure [% "abu bera" , em sembla que vol beure , pero podria ser tambe vull veure] .
+*CHI:	ma [/?] mama [= es queixa] .
+@Comment:	a seu a g a la trona del menjador
+*CHI:	anna [% "nana"] .
+*CHI:	0 .
+%act:	mira a e i li treu la llengua
+*INV:	oi !
+*CHI:	anna [% "nana" , ensenya a a com treu la llengua] .
+*ANA:	hola !
+*ANA:	ui , que tens a la boca ?
+*ANA:	pcf [% "aaa"] .
+*ANA:	0 .
+%act:	suposo que treu la llengua
+*CHI:	pcf [% "aaa"] .
+*CHI:	0 .
+%act:	continua treient la llengua
+@Comment:	a dona iogurt a g
+*ANA:	nyam@c [= li dona una cullerada] !
+*ANA:	nyam@c [= una altra cullerada] !
+*ANA:	hum [= una altra] !
+*CHI:	pcf [% "aiaieae"] .
+*CHI:	0 .
+%act:	toca amb el dit un flan que te al davant
+*ANA:	que ?
+*ANA:	no toquis .
+*CHI:	aquest ja [/] ja [% "ete ia ia" , assenyala el flan] .
+*ANA:	no toquis amb la ma .
+*CHI:	para [% "pala" , atura la ma de a que li anava a donar iogurt] .
+*CHI:	no .
+*CHI:	aquest ja [/] ja [% "ete ia ia"] .
+*ANA:	i el iogurt ?
+*ANA:	0 .
+%act:	li dona una cullerada de flan
+*ANA:	no vols iogurt ?
+*CHI:	tu dona'm iogurt [% "tu da iou" , assenyala el iogurt amb el dit] .
+*CHI:	0 .
+%act:	torna a tocar el flan
+*ANA:	no toquis amb la ma .
+*CHI:	pcf [% "ee" , assenyalant el flan insistenment] .
+*ANA:	vols aixo ?
+*ANA:	bueno [= li dona flan] .
+*CHI:	0 .
+%act:	toca el flan amb la ma
+*ANA:	no toquis .
+*CHI:	hum [= ha caigut una mica de flan a la seva falda] !
+*CHI:	0 .
+%act:	mira com m reparteix cafe
+*CHI:	que es aixo [% "e ei ato"] ?
+*MAR:	aixo es cafe .
+*MAR:	quina gana [= a g] .
+*CHI:	0 [=! riu] .
+%act:	assenyala a e
+*CHI:	xxx xxx maria rosa [% "xxx xxx ioia"] .
+*MAR:	que fa la maria rosa ?
+*CHI:	0 .
+%act:	assenyala el flan i fa que no amb el cap
+*INV:	no t'has quedat amb gana , eh guillem ?
+@Comment:	enraonen a i m
+*CHI:	0 [=! mira p] .
+*INV:	mira al pare .
+*INV:	esta vermell , eh ?
+*CHI:	aa [/?] papa [= assenyala a p , em sembla que p li ha fet alguna ganyota] .
+*PAR:	el pare et provoca , eh ?
+*CHI:	0 .
+%act:	li treu la llengua a p
+*PAR:	0 .
+%act:	fa pam i pipa
+*CHI:	0 [=! riu i l' imita] .
+*CHI:	hum [= dona un plat a a] !
+*ANA:	i iogurt ?
+*ANA:	mira , encara n' hi ha [= li acaba de donar el iogurt] .
+*ANA:	nyam@c [= li dona iogurt] .
+*CHI:	0 .
+%act:	s' estira per agafar alguna cosa
+*ANA:	no arriba .
+*ANA:	no arriba en guillem .
+*CHI:	pcf [% "a nau" , pot voler dir que l' aixequi perque ho intenta] .
+*ANA:	0 .
+%act:	el posa dret sobre la trona
+*CHI:	pcf [% "a nau"] .
+*CHI:	0 .
+%act:	agafa el pom de la finestra , la intenta obrir
+*CHI:	pcf [% "tata" , veu alguna cosa per la finestra , no se a que es refereix] .
+*CHI:	0 .
+%act:	pica al vidre
+*ANA:	shuu@c , no piquis [= li aparta la ma del vidre] !
+*ANA:	guillem !
+*ANA:	que es trenca .
+*CHI:	trenca [% "teca"] .
+*ANA:	0 .
+%act:	li continua donant iogurt
+*CHI:	aquest [% "atet" , no se a que es refereix , mira a terra] .
+*CHI:	hum [= es queixa] !
+*ANA:	ui , que passa [= el seu be a la trona] ?
+@Comment:	no hi ha veu a la cinta , frame 5053 a 5056
+*ANA:	0 .
+%act:	va donant iogurt a g
+*CHI:	ja esta [% "a ta"] .
+*ANA:	encara no esta .
+*ANA:	una miqueta .
+*CHI:	0 .
+%act:	vol agafar el iogurt
+*ANA:	espera [= li dona l' ultima cullerada] .
+*ANA:	ja esta .
+*INV:	bravo .
+*CHI:	bravo [% "bavo"] .
+*INV:	bravo .
+*INV:	molt be guillem .
+*CHI:	bravo [% "bavo" , pica de mans] .
+*ANA:	0 .
+%act:	treu el pitet a g
+*CHI:	pcf [% "ahah"] .
+*ANA:	0 .
+%act:	treu a g de la trona
+*ANA:	ai , ai , ai [= s' exclama del que pesa g] !
+*CHI:	ai , ai , ai [= repeteix] !
+@Comment:	enraonen p i m , estan prenent cafe , g s' apropa a ells
+*PAR:	que vols tu , eh ?
+*PAR:	una mica de cafe vols ?
+*PAR:	que xiquet .
+*CHI:	0 .
+%act:	se'n va del menjador
+*ANA:	on vas ?
+*CHI:	0 .
+%act:	ja ha tornat i toca el gos
+*PAR:	eh !
+*CHI:	0 .
+%act:	es toca l' ull
+*INV:	que tens son ?
+*CHI:	0 .
+%act:	agafa una pasta i li dona a p
+*ANA:	guillem .
+*ANA:	dona'm .
+*CHI:	hum !
+*PAR:	gracies .
+*CHI:	papa .
+*CHI:	vull probar'ho [% "papa bu pubabu"] .
+*PAR:	bufa , bufa [= li dona una culleradeta de cafe] .
+*PAR:	prou , eh .
+*CHI:	un altra [% "u ata" , posa la cullera dins la tassa de p] .
+*CHI:	0 .
+%act:	xarrupa la cullera
+*PAR:	apa !
+*CHI:	ai !
+@Comment:	no es veu , pero suposo que g llenca cafe sobre la taula
+*MAR:	ai , ai !
+*CHI:	papa .
+*PAR:	papa .
+*PAR:	va guillem , deixa'la estar la cullera .
+*PAR:	prou , prou .
+*CHI:	ja esta [% "a ta"] .
+*ANA:	ja esta [= li agafa la cullera] .
+*CHI:	ja esta [% "a ta"] .
+*CHI:	no esta [% "no ta"] .
+*ANA:	si esta .
+*CHI:	no esta [% "no ta"] .
+*ANA:	0 .
+%act:	li pren la cullera
+*CHI:	hum , mama [= es queixa] !
+*PAR:	i prou , eh [= dona a g una cullerada de cafe] .
+*PAR:	aquest cafe es pel pare .
+*CHI:	te .
+*CHI:	et dono aixo [% "te ono to"] .
+*CHI:	te [= dona a m un platet i la cullera] .
+*MAR:	gracies .
+*PAR:	ja esta .
+*CHI:	ja esta [% "a ta"] .
+*PAR:	ja esta .
+*CHI:	pcf [% "sssiusssiu"] .
+*CHI:	0 .
+%act:	agafa una cullera i la posa dins la tassa de p
+*PAR:	no , no .
+*CHI:	0 .
+%act:	remena i la deixa dins
+*PAR:	molt be .
+*CHI:	que be [% "e be"] .
+*PAR:	papa .
+*CHI:	papa [= repeteix] .
+*CHI:	papa papa .
+*PAR:	papa pa(pa) .
+*CHI:	0 .
+%act:	agafa un plat
+*ANA:	que fas amb aixo ?
+*CHI:	te [= dona a m el plat] .
+*MAR:	gracies .
+*CHI:	te , te , te [= canturreja] .
+*CHI:	no .
+*CHI:	tu .
+*CHI:	no [= li pren el plat a m] .
+*CHI:	per x [% "pe lo"] .
+*CHI:	no [= afaga una tassa i la porta a m] .
+*MAR:	aquesta a l' anna .
+*MAR:	a l' anna , a l' anna .
+*MAR:	dona'li a l' anna .
+*ANA:	a mi , a mi [= li allarga la ma] .
+*CHI:	no .
+*CHI:	mama .
+*CHI:	mama .
+*ANA:	doncs a la mare .
+*CHI:	0 .
+%act:	deixa la tassa sobre la taula
+*CHI:	pcf [% "cacocacocaco"] .
+*CHI:	te [= li dona el cendrer a p] .
+*PAR:	gracies .
+*CHI:	pcf [% "cacocacocaco"] .
+*CHI:	pcf [% "tatatata"] .
+*CHI:	0 [=! canturreja] .
+*PAR:	cavallet .
+*PAR:	0 [=! imita el sorroll del cavall quan camina] .
+*CHI:	aixo [% "to"] .
+*CHI:	aixo [% "to"] .
+*CHI:	a la mama [% "a mama" , agafa un cendrer] .
+*CHI:	xxx xxx va [% "a a ma va"] .
+@Comment:	g surt del menjador
+@End

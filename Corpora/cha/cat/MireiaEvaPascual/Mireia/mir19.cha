@@ -1,0 +1,101 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother, FAT Father
+@ID:	cat|change_me_later|MIR|2;0.3||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|FAT|||||Father|||
+@Date:	13-NOV-1995
+@Location:	in the sitting-room
+@Activities:	MIR and FAT are sitting on the sofa looking at a book together
+@Comment:	MOT is video-taping
+*FAT:	0 .
+%act:	points at a picture on the book
+*FAT:	veus (.) aquests viuen a la neu (.) són els esquimals .
+*MIR:	a neu .
+*FAT:	esquimals .
+*MIR:	esquimals .
+*FAT:	aquests són els àrabs (.) que viuen al desert (.) el desert és un
+	lloc que és tot sorra (.) com una platja (.) molt gran (.) molt sol
+	(.) no hi han arbres (.) hi viuen els àrabs al desert .
+*FAT:	veus (.) i aquesta ?
+*FAT:	una japonesa que viu al Japó .
+@New Episode
+*FAT:	esquien .
+*MIR:	como@s jo .
+*FAT:	aquests estan a la neu (.) veus (.) la neu és una cosa blanca que
+	cau del cel i tapa tota la muntanya .
+*FAT:	de color +...
+*FAT:	quin color ?
+*FAT:	blanc .
+*MIR:	també blau .
+*FAT:	bueno (.) pues no (.) és blanca (.) la neu és blanca (.) i està
+	mullada (.) la neu .
+*MOT:	què hi ha en el conte (.) Mireia (.) què hi ha en el conte ?
+*FAT:	0 .
+%act:	turns over another page
+*FAT:	i aquí (.) aquí què passa ?
+*MOT:	què hi ha ?
+*MOT:	explica'm'ho que jo no ho veig (.) jo no ho veig .
+*FAT:	explica'li a la mama .
+*MIR:	no vull (.) no vull !
+*FAT:	perquè no (.) perquè no ho vols ?
+*MIR:	sí que vull .
+*FAT:	a veure (.) què hi ha aquí ?
+*MIR:	cotxe .
+*FAT:	cotxe .
+*MIR:	cotxes .
+*FAT:	cotxes .
+*FAT:	i què hi ha aquí dintre ?
+*MIR:	un nen .
+*FAT:	i +...
+*MIR:	una nena (.) un nen .
+*FAT:	molt bé !
+*FAT:	i aquesta nena què porta ?
+*MIR:	un paraigua .
+*FAT:	un paraigues .
+*FAT:	perquè el porta ?
+*MIR:	no mullas a a cap .
+%act:	turns to another page
+*FAT:	molt bé !
+*FAT:	ui (.) i aquests què fan ?
+*FAT:	estan al cine (.) eh ?
+*MIR:	xxx .
+*FAT:	doncs mira una pellícula .
+*MIR:	0 .
+%act:	points at a picture
+*MIR:	ésta@s (.) ésta@s ?
+*FAT:	què és ?
+*MIR:	a mama .
+*FAT:	la mama (.) la ossa mama .
+*MIR:	a sembla a papa .
+%com:	FAT and MOT laugh
+*FAT:	s'assembla a mí (.) quí t'ho ha dit això ?
+*MIR:	0 .
+%act:	poins at another picture
+*MIR:	este@s a papa .
+*FAT:	aquesta és una nena (.) eh (.) no comencem a canviar el rotllo que
+	m'has dit osso !
+*FAT:	quí t'ha dit que m'assenblo a un osso ?
+*MIR:	a papa .
+*FAT:	0 .
+%act:	turns to another page
+*FAT:	oh (.) què és això ?
+*MIR:	este@s a papa .
+%com:	FAT and MOT laugh
+*FAT:	ara qualsevol cosa és el papa .
+*FAT:	de què va disfressada ?
+*MIR:	és a papa .
+%act:	laughs
+*FAT:	perquè no ho fas bé (.) eh ?
+*MIR:	0 .
+%act:	starts singing
+*FAT:	a veure (.) aquest de què va disfressat (.) eh (.) de què va
+	disfressat ?
+%act:	whispers the answer to MIR's ear
+*MIR:	xxx .
+@New Episode
+*MIR:	van a lluna .
+*FAT:	van a la lluna .
+*FAT:	i perquè va tan abrigat (.) perquè porta aquets traje ?
+@End

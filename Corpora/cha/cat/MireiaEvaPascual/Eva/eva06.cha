@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MOT Mother, MIR Mireia Sister
+@ID:	cat|change_me_later|EVA|1;11.10||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@Date:	01-DEC-1997
+@Location:	In the kitchen
+@Activities:	having dinner
+@Comment:	MOT is video-taping
+*MOT:	Eva què fas?
+*EVA:	0.
+*MIR:	posa (.) posa'm això així.
+%act:	takes EVA's arm and puts it around her neck. EVA and MIR sing
+*MOT:	a quin dia estem (.) a u de desembre (.) avui és el mes de Nadal.
+*EVA:	0 &=laughs.
+*MIR:	per què?
+*MOT:	perquè avui és el mes de Nadal.
+*MOT:	què li dius a la Mimi@c Eva?
+%exp:	Mireia
+*EVA:	0.
+%act:	MIR bites EVA's hand
+*EVA:	0 [=! cries].
+*MOT:	què li has fet?
+@New Episode
+*MOT:	què cantaves Eva (.) què cantaves?
+*EVA:	0 [=! sings].
+*MIR:	0 [=! sings].
+*MOT:	què menges Eva?
+*EVA:	mararina.
+%act:	speaks while eating
+*MOT:	mandarina.
+*MOT:	és bona?
+*EVA:	0.
+*MOT:	on t'està la mandarina?
+%act:	EVA takes a plate
+*MOT:	no això és el plat de peles (.) on t'és la macedònia?
+*EVA:	0 [=! lauhgs].
+%act:	takes a peel.
+*MIR:	0 &=laughs.
+%act:	takes another peel
+*MOT:	si això és una pela!
+*MOT:	això no es menja!
+*EVA:	0 [=! sings].
+@End

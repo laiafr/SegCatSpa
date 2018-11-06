@@ -1,0 +1,497 @@
+@UTF8
+@PID:	11312/c-00028076-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , MAR mare Mother , PAR pare Father , VIA avia Grandmother , ANA ana Nurse , INV examinador Investigator
+@ID:	cat|Serra|CHI|1;9.12||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|VIA|||||Grandmother|||
+@ID:	cat|Serra|ANA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan al menjador , g vol pujar a la bicicleta
+*CHI:	no va .
+*MAR:	no va , nino , no va .
+*MAR:	l' ha arreglat molt malament .
+*MAR:	no ho entenc , anava .
+*PAR:	0 .
+%act:	tomba la bici per arreglar'la
+*PAR:	oh , si aqui falta [/?] falta aixo per a montar'ho .
+*QUI:	eh , ja ho ha arreglat !
+*MAR:	si ahir anava be .
+*PAR:	falta aixo que ho han tret .
+*PAR:	a veure , on es el +...
+*PAR:	quim , aqui falta un +...
+*QUI:	<porto un> [/?] porto un +...
+*PAR:	abans hi havia aqui una peca que aguantava aixo .
+*PAR:	quedava aixi [= intenta arreglar la bici] .
+*VIA:	no saps on es quim ?
+*QUI:	eh ?
+*VIA:	no saps on es la peca ?
+*CHI:	a mama [= s' atanca a m] .
+*CHI:	pcf [% "aa"] .
+*CHI:	0 .
+%act:	va cap a p
+@Comment:	enraonen p i m
+*QUI:	tenia un cargol .
+*CHI:	cargol [% "a ol" , repeteix el cargol dit per q] .
+*CHI:	cargol [% "a ol" , toca la roda de la bici] .
+@Comment:	enraonen p i m
+*QUI:	para [= a g] .
+*QUI:	para [= a g] .
+*CHI:	0 [=! riu] .
+*QUI:	per que rius guillem ?
+*CHI:	ale [= no contesta , juga amb la roda] !
+@Comment:	enraonen p , m i v sobre la peca perduda
+*CHI:	pcf [% "ia"] .
+*CHI:	0 .
+%act:	juga amb la roda
+*CHI:	mira [% "mia" , agafa a q per la cintura com si el vulgues enlairar] .
+*QUI:	guillem .
+*ANA:	que li vols fer al quim [= a g] ?
+*CHI:	pcf [% "aia"] .
+*CHI:	0 .
+%act:	s' atanca a la taula , vol agafar una joguina , l'agafa v i li dona corda .
+*VIA:	hola , hola !
+*VIA:	hola guillem !
+*VIA:	0 .
+%act:	deixa la joguina sobre la taula i aquesta comenca a rodar
+*CHI:	0 .
+%act:	l' agafa i es para
+*CHI:	no va .
+*MAR:	no ho agafis .
+*MAR:	no ho toquis que ho trencaras .
+*CHI:	0 .
+%act:	dona la joguina a v per a que li torni a donar corda , ell se'n va a veure com p arregla la bici
+*PAR:	0 .
+%act:	deixa la bici a terra i l' agafa g
+*QUI:	vols anar amb bici [= a g] ?
+*CHI:	0 .
+%act:	vol pujar a la bici pero el seient cau
+*CHI:	ajuda'm [% "aiuem" , mira a p] .
+*MAR:	no va guillem .
+*PAR:	0 .
+%act:	intenta arreglar el seient
+@Comment:	enraonen m i v
+*CHI:	0 .
+%act:	agafa un paper que hi ha sobre la taula
+*VIA:	ves'ho a tirar a les escombreries .
+*VIA:	ves guillem .
+*CHI:	0 .
+%act:	se'n va amb el paper
+*ANA:	no , guillem , no .
+*ANA:	que no n' hi ha .
+*ANA:	esta aqui , mira .
+*VIA:	vine guillem , vine .
+*ANA:	aqui , aqui .
+*ANA:	aqui [= l' adreca a les escombreries] .
+*CHI:	0 .
+%act:	llenca el paper a les escombreries
+@Comment:	enraonen els adults
+*CHI:	0 .
+%act:	s' apropa a p
+@Comment:	hi ha un tall a la cinta
+*CHI:	aqui [% "qui" , assenyala a a] .
+*MAR:	i l' anna ?
+*CHI:	anna [% "nana" , assenyala a a] .
+*MAR:	anna [% "nana"] .
+*VIA:	i la maria rosa ?
+*CHI:	aqui [% "qui" assenyala a a] .
+*VIA:	i la maria rosa ?
+*MAR:	i la maria rosa ?
+*MAR:	que fa fotos .
+*MAR:	on es la maria rosa ?
+*MAR:	guillem .
+*ANA:	i la mare ?
+*ANA:	no hi es .
+*CHI:	mare [= assenyala a m] .
+*VIA:	i aquella qui es [= assenyala a e] ?
+*VIA:	guillem , i aquella qui es ?
+*CHI:	0 [= mira a e] .
+*MAR:	dis maria rosa .
+*CHI:	maria rosa [% "ioia"] .
+@Comment:	hi ha un tall a la cinta , g te una camera a la ma
+*CHI:	mira [% "mia" a v] .
+*VIA:	que fas ?
+*VIA:	fas fotos ?
+*CHI:	0 .
+%act:	s' apropa la camera a la cara
+*VIA:	mira com mira .
+*VIA:	mira com mira .
+@Comment:	enraonen v i e
+*ANA:	0 .
+%act:	li vol agafar la camara
+*CHI:	hum !
+*INV:	deixa'li , deixa'li .
+*CHI:	hum [= s' escapa de a] !
+*CHI:	pcf [% "aa"] .
+*CHI:	0 .
+%act:	posa la camera dins una maleta
+*CHI:	a hi es [% "a hi es" , podria ser "no hi es"] .
+*ANA:	ja esta .
+*ANA:	no hi es .
+*CHI:	mira [% "mia" , torna a agafar la camera] .
+*CHI:	te [= dona la camera a m] .
+*INV:	mare , mare , te [= crida l' atencio de m vers g] .
+*MAR:	gracies [= agafa la camera] .
+@Comment:	m i v miren fotos
+*CHI:	es [/?] es (.) aigua [% "ie" , "baba" , agafa una foto] .
+*MAR:	l' aigua .
+*MAR:	es la barca .
+*VIA:	la barqueta .
+*CHI:	no .
+*MAR:	com que no ?
+*VIA:	qui es aquest [= li ensenya una foto] ?
+*CHI:	no .
+*VIA:	i aquest qui es ?
+*CHI:	0 .
+%act:	assenyala la foto
+*VIA:	qui es aquest ?
+*VIA:	tu .
+*CHI:	tu .
+*VIA:	i aquest ?
+*CHI:	aigua [% "baba"] .
+*MAR:	l' aigua .
+*VIA:	si , l' aigua .
+*CHI:	0 .
+%act:	assenyala la foto
+*VIA:	aquest ets tu , si .
+*VIA:	i aquest qui es ?
+*CHI:	quim .
+*VIA:	el quim .
+@Comment:	enraonen m , v i a
+*CHI:	0 .
+%act:	s' acosta a p
+*CHI:	pare .
+*PAR:	hola !
+*CHI:	hola !
+*CHI:	0 .
+%act:	mou el seient de la bici
+*PAR:	guillem , no toquis .
+*QUI:	no moguis guillem .
+*MAR:	vine , guillem , vine .
+*CHI:	0 .
+%act:	va cap a m
+*CHI:	ao [% "ao" , assenyala les fotos , podria ser "allo"] .
+*MAR:	que vols ?
+*CHI:	mare [= assenyala una foto] .
+*MAR:	<la mare> [>] , si .
+*VIA:	<la mare> [<] .
+*CHI:	la mare [% "a mare" , torna a assenyalar] .
+*VIA:	i aquest qui es [= li ensenya una foto] ?
+*VIA:	guillem .
+*MAR:	mira , qui hi ha aqui ?
+*CHI:	porta [% "ota" , agafa la foto] .
+*CHI:	porta [% "ota"] .
+*MAR:	qui es ?
+*VIA:	en guillem .
+*CHI:	dau es .
+*MAR:	el dau , si senyor .
+*CHI:	dau [= assenyala el gos] .
+*VIA:	ara l' ensenya .
+*CHI:	el dau [% "a dau"] .
+@Comment:	van mirant fotos , parlen d' una on q neteja el cotxe
+*CHI:	a veure [% "a vure"] .
+*VIA:	mira [= li ensenya una foto] .
+*VIA:	veus com neteja el cotxe .
+*VIA:	eh que neteja el cotxe .
+*CHI:	0 .
+%act:	toca les fotos
+*VIA:	quin vols mirar ara ?
+*VIA:	aquest ?
+*CHI:	aquest [% "tet" , agafa una foto] .
+*VIA:	mira , aqui menja un gelat , eh ?
+*VIA:	tu tambe .
+*VIA:	oh , menjeu gelats , eh ?
+*QUI:	a veure [= s' apropa per a veure la foto] .
+*VIA:	mira com menjeu gelats .
+*VIA:	un gelat en guillem i un ge +/.
+*CHI:	gelat [% "at" , assenyala la foto] .
+*VIA:	si , guillem .
+*CHI:	0 .
+%act:	torna a assenyalar
+*VIA:	i en quim .
+*CHI:	gelat [% "at" , ensenya la foto a m i e] .
+*CHI:	mira el gelat [% "mia a at"] .
+@Comment:	enraonen v i q
+*CHI:	dau [= ensenya la foto del gos] .
+*VIA:	mira , mira .
+*VIA:	mira guillem .
+*CHI:	dau .
+*CHI:	es el dau [% "e a dau"] .
+*VIA:	si , que no s' embrutin , vine .
+*CHI:	dau .
+*VIA:	vine guillem .
+*VIA:	guillem , qui es aquesta [= assenyala una foto] ?
+*CHI:	anna [% "nana"] .
+*VIA:	maria rosa , aquella [= assenyala a e] .
+*VIA:	aquella d' alla .
+*CHI:	0 [= mira a e] .
+*CHI:	maria rosa [% "ioia"] .
+@Comment:	enraonen p , m i q
+*VIA:	mira , aquest ets tu [= a g] .
+*VIA:	que fas aqui tu ?
+*CHI:	el dau [% "a dau" , ensenya a v la foto del gos] .
+*VIA:	si , el dau .
+*CHI:	el dau [% "a dau"] .
+*VIA:	el dau .
+*VIA:	i aquest ?
+*VIA:	aquest ets tu , eh ?
+*CHI:	dau [= allarga la a] .
+*VIA:	i aquest ?
+*VIA:	mira , guillem .
+*VIA:	mira , aquest es en quim que menja .
+@Comment:	enraonen m i v
+*CHI:	guillem [% "iem" , ensenya una foto] .
+*CHI:	guaita [% "uita" , a v] .
+*VIA:	0 .
+%act:	no li fa cas , continua enraonant amb m
+*CHI:	gelat [% "at" , ensenya la foto a p] .
+*CHI:	gelat [% "at"] .
+*PAR:	qui es aquest ?
+*PAR:	el dau .
+*CHI:	gelat [% "at"] .
+*PAR:	aquest qui es [= agafa la foto] ?
+*CHI:	0 .
+%act:	assenyala la foto
+*PAR:	gelat ?
+*PAR:	esta menjant un gelat ?
+@Comment:	enraonen els adults
+*CHI:	te .
+*CHI:	te [= dona la foto a p] .
+*CHI:	gelat [% "at" , torna a agafar la foto] .
+*CHI:	te .
+*CHI:	gelat , gelat [% "at , at" , ensenya la foto a p] .
+*CHI:	un gelat [% "a at" , assenyala la foto] .
+*PAR:	un gelat , si , un gelat .
+*PAR:	un gelat .
+*CHI:	vine [% "ine" , estira a p del brac] .
+*PAR:	on vols que vingui ?
+*CHI:	vine [% "ine"] .
+*PAR:	a veure [= s' aixeca de la butaca] .
+*CHI:	vine [% "ine"] .
+*CHI:	aqui [% "ati" , assenyala un lloc] .
+*CHI:	la maria rosa [% "a ioia" , mira a e que s' interposa entre ell i el lloc on vol anar] .
+@Comment:	tall a la cinta , es veu a g sobre la bicicleta
+*VIA:	mira , a la bici .
+*VIA:	a la bici , eh ?
+*CHI:	0 [=! fa que si amb el cap] .
+@Comment:	enraonen v i m
+*CHI:	mare .
+*CHI:	mare [= assenyala v] .
+*CHI:	ajuda'm [% "aiuem" , a p per a que el faci correr] .
+*CHI:	surt [% "tut" , a e] .
+*PAR:	surt .
+@Comment:	enraonen p i e
+*PAR:	va , baixem .
+*PAR:	baixem [= vol baixar a g de la bici] .
+*CHI:	no .
+*PAR:	no .
+*CHI:	no .
+*CHI:	a surt [% "a tut" , vol dir baixa'm] .
+*PAR:	si [= baixa a g de la bici] .
+*CHI:	0 .
+%act:	juga amb la bici
+@Comment:	enraonen els adults , enraonen q i e
+*CHI:	te [% "ti" , dona a p una llibreta] .
+*CHI:	te , te .
+*PAR:	gracies [= agafa la llibreta] .
+*MAR:	a banyar .
+*CHI:	no .
+*MAR:	vinga .
+*CHI:	bici .
+*MAR:	si , vine amb la bici .
+*PAR:	a veure [% "a veiam" , puja a g sobre la bici] .
+*PAR:	0 .
+%act:	empenta a g
+*MAR:	0 .
+%act:	agafa la bici per a dur a g al bany
+*CHI:	no .
+@Comment:	enraonen g i e , enraonen q i a
+*ANA:	anem [= a g] .
+*CHI:	no xxx banyar [% "no ui aiar"] .
+*ANA:	si , ara anem a banyar .
+*CHI:	no .
+*MAR:	no et vols banyar ?
+*ANA:	si , vine , anem .
+*CHI:	no .
+*CHI:	no xxx anar [% "no ui na"] .
+*CHI:	0 .
+%act:	busca refugi en p i riu
+*ANA:	bueno doncs .
+*ANA:	me'n vaig a banyar .
+*PAR:	se'n va a banyar l' anna .
+*QUI:	jo tambe .
+*ANA:	va doncs vine .
+*ANA:	mira guillem .
+*ANA:	crida en guillem , quim .
+*QUI:	guillem vine .
+*PAR:	mira , el quim se'n va a banyar .
+*PAR:	i tu ?
+*QUI:	vols banyar ?
+*CHI:	0 [=! riu] .
+*ANA:	adeu guillem .
+*QUI:	adeu [= a g] .
+*CHI:	pcf [% "pauuu"] .
+*PAR:	0 .
+%act:	toca el cap de g
+*CHI:	ai !
+*CHI:	pcf [% "aaa"] .
+*CHI:	0 .
+%act:	es mou sobre les cames de p com si anes a cavall
+*CHI:	maria rosa [% "ioia" , assenyala una foto que v ensenya a p] .
+@Comment:	enraonen els adults
+*CHI:	0 .
+%act:	va saltant sobre la falda de p
+*PAR:	aah [= es queixa] !
+*CHI:	0 [=! riu] .
+*CHI:	aquest [% "quet" , assenyala una foto] .
+*INV:	que es ?
+*PAR:	el pare , digues , el pare .
+*CHI:	pare .
+*PAR:	el pare .
+*INV:	un rem .
+*INV:	un rem , guillem .
+*CHI:	rem [% "em"] .
+*INV:	rem [% "em" , repeteix el que ha dit g] .
+*CHI:	pom@c pom@c pom@c [= salta sobre p] .
+*VIA:	0 .
+%act:	ensenya a e una foto
+*CHI:	xxx [% "mia" , pero tan pot ser mira , com meva] .
+*CHI:	xxx [% "mia" , jo diria que vol dir meva] .
+*CHI:	0 .
+%act:	pega a v perque no li dona la foto
+*VIA:	hola !
+*PAR:	a l' avia no es pega .
+*VIA:	no .
+*VIA:	un peto .
+*VIA:	un peto .
+*PAR:	fes'li un peto .
+*CHI:	no [= li continua pegant] .
+*VIA:	no .
+*VIA:	em pegues a mi ?
+*VIA:	ara no et portare cap mes cotxe .
+*PAR:	guillem [= li agafa la ma] .
+*PAR:	a l' avia no es pega .
+*VIA:	un peto .
+*PAR:	un peto a l' avia .
+*PAR:	guapa , guapa .
+*CHI:	0 .
+%act:	ara pega a p
+*PAR:	fes mal , fes .
+*CHI:	mal [% "ma" , deixa de pegar i s' agafa la seva ma com si s' hagues fet mal] .
+*PAR:	0 .
+%act:	abraca a g
+*PAR:	no mosseguis [= fa pessigolles a g] .
+*CHI:	aah [= riu] !
+*PAR:	no mosseguis .
+*CHI:	0 .
+%act:	pega a v
+*VIA:	un peto .
+*CHI:	0 [=! riu] .
+@Comment:	enraonen p i v
+*ANA:	va , que el quim s' esta banyant .
+*CHI:	banyar [% "anyar"] .
+*PAR:	a banyar .
+*PAR:	upi@c upi@c [= agafa a g en bracos] .
+@Comment:	estan en la banyera q i g
+*CHI:	0 .
+%act:	llenca aigua fora de la banyera amb un got de plastic
+*MAR:	guillem .
+*MAR:	fora no , eh .
+*CHI:	0 .
+%act:	llenca aigua sobre q i despres veu
+*ANA:	que no .
+*ANA:	que no [= toca la boca de g] .
+*QUI:	esta net el cap ?
+*ANA:	no , encara no .
+*ANA:	hem de posar sabo .
+*QUI:	eh ?
+*ANA:	hem de posar sabo .
+*QUI:	a on [% "abon"] ?
+*ANA:	al cap .
+*QUI:	no .
+*CHI:	0 .
+%act:	treu la llengua a e
+*CHI:	xxx [% em sembla que diu "hola"] .
+*ANA:	ara li posem primer al guillem ?
+*QUI:	si .
+*QUI:	a mi no eh .
+*ANA:	a tu despres .
+*QUI:	no , jo no vull posar sabo .
+*ANA:	una mica .
+*CHI:	humm [= treu la llengua a e] !
+*QUI:	aixi de poquet , aixi [= fa un gest amb els dits] .
+*CHI:	pcf [% "aa" , vol agafar el xampu] .
+*ANA:	no .
+*ANA:	te [= li dona el tap del xampu] .
+*QUI:	me'n poses a mi de sabo ?
+*ANA:	espera't [= posa xampu a g] .
+*ANA:	et poso sabo i tu t' ho rentes ?
+*QUI:	si .
+@Comment:	enraonen q i a
+*CHI:	hola [= a e] !
+*CHI:	aah [= treu la llengua a e] !
+*ANA:	per que treus la llengua guillem ?
+*QUI:	0 .
+%act:	es renta el cap amb l' esponja
+*ANA:	amb l' esponja quim ?
+*ANA:	no , es fa amb la ma .
+*CHI:	0 .
+%act:	agafa una altra esponja i es renta el cap amb l'esponja imitant a q .
+*ANA:	guillem .
+*CHI:	mulla [= apreta l' esponja per a que surti aigua] .
+@Comment:	enraonen q i a
+*CHI:	hola [= a q , seu a la seva vora i q renta el cap a g] !
+@Comment:	enraonen q i a
+*QUI:	ei [= a e] !
+*CHI:	ei [= imita a q] !
+*CHI:	xxx xxx [% "e eto" , vol rentar la cara de q amb l' esponja] .
+*QUI:	no .
+*ANA:	venga guillem .
+*ANA:	vine , vine [= el vol esbandir] .
+*CHI:	no .
+*CHI:	no .
+*ANA:	vine .
+*ANA:	ja veuras com no et fare res , va .
+*QUI:	ja veuras con plorara .
+*ANA:	si , veritat .
+*ANA:	clar , per aixo plora .
+*ANA:	perque no li agrada .
+*CHI:	0 [=! comenca a plorar] .
+*ANA:	vine .
+*CHI:	no .
+*ANA:	0 .
+%act:	agafa una galleda petita de platja i esbandeix amb aixo g
+*CHI:	0 [=! continua plorant] .
+%act:	s' allunya de a
+*ANA:	no te'n vagis .
+*ANA:	mira , veus , que si no no acabarem mai .
+*ANA:	quim posa't aqui que si no no puc agafar al guillem .
+@Comment:	q es canvia de lloc , a agafa el telefon de dutxa i mulla g , g continua plorant , a treu g de la banyera per a secarlo , g plora desesperadament
+*ANA:	mira .
+*ANA:	que fa la maria rosa ?
+*ANA:	mira la maria rosa que fa .
+*ANA:	que vols mirar fotos ?
+*CHI:	mama [= plora] .
+*CHI:	maria rosa [% "ioia" , l'assenyala] .
+*ANA:	que fa ?
+*ANA:	fotos ?
+*CHI:	maria rosa [% "ioia"] .
+*ANA:	0 .
+%act:	embolica g en una tovallola
+*ANA:	no hi es .
+*ANA:	guillem .
+*ANA:	0 .
+%act:	el destapa
+*ANA:	aqui .
+*CHI:	0 [=! riu] .
+*CHI:	xxx [% "a ata"] .
+*ANA:	0 .
+%act:	el torna a tapar
+*ANA:	guillem , hola [= el destapa] !
+*CHI:	xxx [% "a ata"] .
+*ANA:	hola [= el destapa] !
+*CHI:	xxx [% "a ata"] .
+@End

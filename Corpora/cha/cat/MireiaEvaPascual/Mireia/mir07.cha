@@ -1,0 +1,60 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;9.26||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	05-SEP-1995
+@Location:	in the dining-room and in the toy-room
+@Activities:	MIR fetches some of her toys in the toy-room and puts them on a coffee table in the dining-room
+@Comment:	MOT is video-taping
+*MIR:	0 .
+%act:	puts a box on the table
+*MIR:	(a)quí .
+*MIR:	més (.) més mama ?
+*MOT:	més què ?
+*MIR:	cosetes .
+*MOT:	més cosetes ?
+*MOT:	sí carinyo (.) més cosetes (.) tu porta'm més cosetes .
+*MIR:	0 .
+%act:	goes to toy-room, picks up a toy from the floor and puts it on the table
+*MIR:	més cosetes ?
+%act:	bends down, picks up a ball and puts it on the table
+*MIR:	pilota (a)quí .
+*MIR:	mama té pilota .
+*MOT:	mama té pilota (.) molt bé .
+%sit:	the ball rolls on the table
+*MIR:	no caigui (.) no caigui .
+*MIR:	aquí .
+%act:	puts the ball on an ashtray
+*MOT:	no caigui (.) aquí (.) molt bé (.) sí .
+*MIR:	no caigui (.) aquí (.) no caigui .
+%act:	leaves the room and comes back with a tray
+*MIR:	aquí posar pà (.) aquí posar pà .
+%act:	puts the tray on the table
+*MOT:	aquí posar pà (.) sí (.) aquí podem posar pà (.) sí .
+*MIR:	més pà .
+%act:	leaves the room again into the toy-room
+*MIR:	patates fregides [= frigides] fa Mimi (.) patates .
+*MOT:	patata fregida .
+*MIR:	0 .
+%act:	appears on the doorstep
+*MIR:	patates fregides [= frigides] fa Mimi !
+%act:	disappears again in toy-room
+*MOT:	patates fregides fa la Mimi ?
+%act:	gets up and goes to toy-room
+*MIR:	mama vina .
+%act:	points to the dining-room
+*MIR:	allà mama (.) sentar [= satà] sofà .
+*MOT:	mama sentar sofà ?
+*MIR:	sí .
+*MOT:	bueno va .
+%sit:	back in the dining-room
+%act:	MIR puts the ashtray with the ball in it next to the tray with another ball in it
+*MIR:	xxx posar aquí (.) aquí .
+*MOT:	uhu@i !
+*MIR:	cosetes (.) més (.) més ?
+*MIR:	vale [= valle] més .
+%act:	leaves the room
+*MOT:	valle més .
+@End

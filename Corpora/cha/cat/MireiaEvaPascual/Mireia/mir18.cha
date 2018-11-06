@@ -1,0 +1,60 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother, FAT Father
+@ID:	cat|change_me_later|MIR|1;11.25||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|FAT|||||Father|||
+@Date:	04-NOV-1995
+@Location:	in the sitting-room
+@Activities:	MIR is playing with a plastic slide that her parents have just given her as an advanced birthday present
+@Comment:	MOT is video-taping
+*MOT:	què tens ?
+*MIR:	tobogan .
+*FAT:	a veure com baixes ?
+*MIR:	0 .
+%act:	slides down the slide and falls on her knees
+*FAT:	tumbaaa !
+*MIR:	0 .
+%act:	climbs to the top of the slide
+*MIR:	primer a Mimi (.) després a bebe .
+*MOT:	després a bebe ?
+*MIR:	0 .
+%act:	slides down again
+*MOT:	molt bé !
+*MIR:	mica més .
+*MOT:	sí .
+*FAT:	tot lo que vulgis .
+*MIR:	esto@s meu .
+%act:	graps the slide
+*MOT:	esto meu (.) sí senyor (.) és teu (.) tot teu !
+*MIR:	0 .
+%act:	slides down again
+*MIR:	Mimi petita .
+*FAT:	sí (.) quants anys tens ara ?
+*MIR:	a Mimi petita !
+*MOT:	però quants anys tens ?
+*FAT:	dos .
+*MIR:	0 .
+%act:	shows one finger
+*MOT:	no .
+*MOT:	avui en fas +...
+*MIR:	0 .
+%act:	starts whinning .
+@New Episode
+*MIR:	0 .
+%act:	points at a picture on the slide
+*MIR:	mira (.) això a xxx ?
+*MIR:	això és igual a Mimi .
+*MIR:	como@s Mimi .
+*MOT:	como Mimi (.) sí .
+*MIR:	això nen baixa tobogan como@s Mimi .
+*MOT:	un nen que baixa per un tobogan com la Mimi ?
+*MIR:	0 .
+%act:	slides down twice more . She touches each one of the blue steps of the slide
+*MIR:	a Mimi té escales blaves +/.
+*MOT:	la Mimi té escales blaves (.) sí .
+*MIR:	per pujar aixís .
+%act:	climbs to the top of the slide
+*MOT:	per pujar aixís (.) molt bé !
+@End

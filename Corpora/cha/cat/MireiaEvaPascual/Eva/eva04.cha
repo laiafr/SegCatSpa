@@ -1,0 +1,397 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MOT Mother, MIR Mireia Sister
+@ID:	cat|change_me_later|EVA|2;3.2||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@Date:	23-FEB-1998
+@Location:	In the living-room
+@Activities:	Playing with toys and colouring
+@Comment:	MOT is video-taping
+*MOT:	estem a dia veinte tres  de febrer (.) eh@i?
+*MOT:	i la Eva surt del billar (.) del quarto de joguines (.) i què diu
+	la Eva?
+*EVA:	hola!
+*MOT:	mira què hi ha sobre la taula Eva (.) què hi ha (.) què veus?
+*EVA:	e Pingu.
+*MOT:	0 &=laughs.
+*EVA:	0.
+%act:	takes a toy and shows it to MOT
+*MOT:	què és això?
+*EVA:	un nino per mi.
+*MOT:	què?
+*EVA:	un nino per mi.
+*MOT:	un nino per tu?
+*EVA:	0.
+*MOT:	qui te'l va portar?
+*EVA:	xxx [=! shouts] l'avi.
+*MOT:	hmm@i.
+%com:	assenting
+*EVA:	i el (.) i e Pingu?
+*MIR:	què està fent la Mireia?
+%com:	whispers to MOT
+*MOT:	què fa la Mireia?
+*EVA:	0.
+%act:	takes some toys
+*MOT:	què fa la Mireia (.) Eva?
+*EVA:	xxx.
+*MOT:	eh@i?
+*EVA:	dibuixant.
+*MOT:	dibuixant sí (.) molt bé.
+*EVA:	xxx [=! shouts] ninots xxx.
+*MOT:	ninots dormint?
+*EVA:	xxx.
+%act:	plays with two toys
+*MOT:	què són?
+*EVA:	ninots (.) per mi.
+%act:	plays with one of the toys and then takes the other one
+*EVA:	mira aque(s)t!
+*MOT:	què fa &=laughs?
+*EVA:	era meu.
+*MOT:	era teu (.) i què és?
+*EVA:	un conillet.
+*MOT:	sí (.) de quin +/.
+*EVA:	un conillet.
+*MOT:	+, de quin color?
+*EVA:	hmm@o (.) b(l)au!
+*MOT:	i l'altre?
+*EVA:	b(l)anc!
+*MOT:	molt be (.) sí (..) i què portes al xandal(l)?
+%act:	EVA looks at her sweater
+*EVA:	conillet!
+*MOT:	sí.
+*EVA:	posat tu!
+*MOT:	te l'he posat jo (.) sí (.) ho he portat jo.
+*MIR:	digue-li què dibuixa la Mireia.
+%com:	whispering to MOT
+*MOT:	i què dibuixa la Mireia?
+*EVA:	xxx ibuixa.
+%cod:	dibuixa
+%act:	EVA bumps into the camera
+*MOT:	ui@i (.) Eva!
+@New Episode
+*MIR:	jo també puc parlar no?
+*MOT:	sí (.) pregunta-li cosetes a la Eva (.) què ha passat Eva?
+*MIR:	+" què ha passat Eva?
+*EVA:	mira.
+%act:	looks at the floor
+*MOT:	què ha passat?
+*MIR:	què ha caigut?
+*EVA:	e mico.
+%act:	picks up the monkey
+*MIR:	i què més?
+*EVA:	això.
+*MIR:	què és això?
+*EVA:	un (.) un te@c &=laughs.
+%exp:	invented word
+*MOT:	un què?
+*MIR:	un què?
+*EVA:	un te@c.
+%exp:	invented word
+*MOT:	t'ho inventes que no saps lo que vol dir.
+%com:	MIR whispers something to EVA
+*MIR:	què?
+*EVA:	un te@c.
+%exp:	invented word
+*MOT:	és igual (.) és igual xxx .
+*MIR:	moltíssimes no moltes.
+%act:	EVA goes out of the scope of the camera
+*MOT:	Eva vés amb la Mireia dona que sinó no et veig (.) estic gravant
+	allà.
+%act:	EVA sits down on an armchair
+*MOT:	què fas (.) què fas tu (.) Eva què fas (.) què estàs fent ara (.)
+	eh@i?
+*MIR:	què fas ara Eva?
+*EVA:	0.
+*MIR:	vols ficar el vídeo o no xxx?
+*EVA:	sí.
+*MOT:	quin t'agrada a tu de vídeo (.) hmm@i?
+*MIR:	jo vull el Pingu eh@i.
+*MOT:	no.
+*MIR:	sí.
+%act:	EVA stands up and looks at a cupboard
+*MOT:	què fas Eva?
+*EVA:	demamates.
+%cod:	dàlmates
+*MOT:	vols els dàlmates?
+*EVA:	0.
+%act:	nods
+*MOT:	ara no te'n posaré cap baixa baixa.
+*MIR:	jo@i xxx.
+*MOT:	www.
+@New Episode
+*MOT:	un llibre (.) anda@s molt bé vinga!
+%act:	EVA has taken a book
+*EVA:	mira mira.
+*MOT:	què?
+*EVA:	ia vuàs.
+%cod:	ja veuràs
+%act:	takes another book
+*MOT:	ja veuràs.
+%com:	MOT repeats EVA's words
+*EVA:	xxx ara no.
+*MOT:	què?
+*EVA:	això s'ha mullat ara no.
+*MOT:	això s'ha mullat (.) ah@i sí reina?
+*EVA:	ara no.
+*MOT:	ara no?
+%act:	EVA sits down on the armchair and looks at the book
+*EVA:	xxx.
+*MOT:	què dius?
+*EVA:	0.
+%act:	opens the book.
+*EVA:	e canó.
+*MOT:	que no què?
+*EVA:	e canó.
+*MOT:	a que no què?
+*EVA:	e canó.
+*MOT:	un canó?
+*EVA:	trencat.
+*MOT:	no no està trencat no.
+*EVA:	xxx maco aque(s)t (.) mira!
+%act:	turns the page
+*MOT:	què?
+*EVA:	xxx bebé.
+*MOT:	un bebé.
+%act:	EVA looks at MOT with surprise
+*MOT:	què és Eva?
+*EVA:	un paiasso!
+%cod:	un pallasso
+*MOT:	un pallasso?
+*EVA:	mira un xxx.
+*MIR:	&=shouts.
+*MOT:	un què?
+@New Episode
+*MOT:	què veus Eva?
+*EVA:	una nina.
+*MOT:	una nina?
+*EVA:	una nina.
+*MIR:	quina nina Eva?
+*EVA:	xxx.
+*MOT:	què &=laughs?
+%act:	EVA smiles
+*EVA:	b(l)ava.
+*MOT:	blava?
+*EVA:	0.
+%act:	nods
+*EVA:	mia teva!
+%cod:	mira (la) teva
+*MIR:	quina meva?
+*EVA:	(a)quetxa e teva.
+%act:	MIR takes the book and shows it to MOT
+*MIR:	diu que aquesta (.) que la rosa és meva i aquesta la (.) aquesta és
+	meva i aquesta és d'ella.
+*MOT:	vale@s .
+*EVA:	aque(s)ta la teva (.) aque(s)ta teva xxx.
+*MIR:	aquí no.
+*EVA:	aquí.
+%act:	looks at the book again
+*MIR:	xxx.
+*MIR:	Eva (..) què és això (.) què és això?
+*EVA:	un mico.
+@New Episode
+*MOT:	Eva què fas?
+*EVA:	0.
+%act:	tries to stick something on MIR's drawing
+*MOT:	eh@i (.) què fas Eva?
+*EVA:	0.
+*MOT:	què és això?
+*EVA:	e per e Mireia.
+*MOT:	per la Mireia?
+*EVA:	0.
+%act:	tears the piece of paper she is holding
+*MOT:	què faràs amb això (.) eh@i?
+*EVA:	e Mireia.
+%act:	gives MIR a piece of paper
+*EVA:	mira el ve(s)tidet!
+*EVA:	ce lo.
+%com:	whispering
+*MOT:	què?
+*EVA:	cello.
+%act:	shows it to MOT
+*MOT:	cello.
+*MOT:	que enganxa (.) eh@i (.) que enganxa això?
+*EVA:	xxx aquí.
+%act:	starts singing
+*MIR:	mira (.) mama mira què porto.
+*MOT:	0 &=laughs.
+*MOT:	què fas Eva?
+*EVA:	e t(r)encant això.
+*MOT:	trencant això?
+*EVA:	0.
+%act:	nods
+*MIR:	perquè m'ho vol donar a mi.
+*MOT:	hmm@i (.) ja m'ho ha dit ja.
+*MOT:	què faràs amb això ara?
+*EVA:	xxx.
+*MOT:	eh@i?
+*MIR:	xxx vols treure això Eva que a mi em costa molt?
+@New Episode
+*MOT:	què dius?
+*EVA:	no m'ag(r)aden.
+*MOT:	què no t'agraden?
+*EVA:	xxx.
+*MOT:	els lleons eh@i?
+*MOT:	que t'he preguntat per què no jugues amb els lleons?
+%com:	question which MOT has asked to EVA when not recording
+*MOT:	per què no jugues amb els lleons (.) va.
+*MIR:	no li agraden ha dit.
+%act:	EVA takes the lions
+*MOT:	sí que t'agraden.
+%act:	EVA makes the lions jump
+*MOT:	ole@i!
+%act:	EVA makes the lions walk towards MOT
+*MOT:	què fan?
+%act:	EVA makes a horse-walking noise
+*MOT:	hola (.) què fan?
+%act:	MOT greets the lions
+*EVA:	0.
+*MOT:	què fan els lleons?
+*EVA:	0 [=! roars].
+*MOT:	ui@i xxx.
+*MIR:	0 [=! roars].
+*MOT:	ui@i.
+*MOT:	Eva què has fet amb els lleons?
+*EVA:	0 [=! roars].
+*MOT:	què has fet tu amb els lleons?
+*EVA:	mira un ti [= tigre].
+%act:	shows a tiger to MOT
+*MOT:	què és?
+*EVA:	0 [=! roars].
+*MOT:	un tigre &=laughs.
+*MIR:	a veure el tigre?
+*EVA:	mia.
+%cod:	mira
+%act:	covers the camera
+*MOT:	què fas (.) em tapes la càmera (.) no me la tapis (.) no tapis!
+*MIR:	no tapis que no veu la mami!
+*EVA:	ai@i (.) ai@i jo (a)guanto.
+*MOT:	tu aguantes què?
+*EVA:	0.
+*MOT:	i què fas?
+*MOT:	vés allà a jugar a la tauleta dona!
+*EVA:	però (a)guanto.
+*MOT:	però aguanto.
+%com:	repeats EVA's words
+*MOT:	però si no cal que m'ho aguantis això.
+*EVA:	ah@i vale@s.
+*MOT:	ja ho aguanto jo eh@i?
+*EVA:	no (.) jo.
+*MOT:	no dona no.
+@New Episode
+*EVA:	e Mireia tomba e tau(l)a.
+*MOT:	què dius?
+*EVA:	xxx.
+*MOT:	+" mira què fa e Mireia tomba e taula.
+*MOT:	sí senyora (.) que la Mireia s'havia pujat a sobre la taula i això
+	no es fa.
+*MOT:	i tu què fas?
+*EVA:	això.
+%act:	tries to climb up the sofa
+*MOT:	què fas?
+%act:	MIR jumps on the sofa
+*MOT:	no no vull que juguis a això Eva que pots caure i fer-te mal.
+*MOT:	vols caure?
+*EVA:	0.
+%act:	says no with her head
+*MOT:	que no dibuixes caretes?
+*MIR:	jo estic pintant aquest llibre que de vegades pinto.
+*EVA:	0 [=! shouts].
+*MOT:	què fa la Mireia?
+*EVA:	0 [=! shouts].
+*MOT:	què t'ha passat?
+*EVA:	0.
+*MOT:	què t'ha passat eh@i?
+*EVA:	mi(r)a què fem e cole@c.
+%exp:	col.legi
+%act:	takes a crayon and starts colouring her hand
+*MOT:	què feu a cole@c?
+*EVA:	0.
+*MOT:	us pinteu les mans?
+%act:	EVA keeps colouring her hand
+*MOT:	què feu a cole@c digue-m'ho.
+*MIR:	té un rotulador o no?
+*MOT:	no (.) té un llapis.
+*MOT:	què feu al cole@c Eva?
+*EVA:	0.
+*MOT:	què feu?
+*EVA:	pintar mà.
+*MOT:	pintar mà.
+%com:	repeats EVA's words
+*MIR:	jo no.
+*MOT:	clar que no (.) perquè ets més gran (..) i què més feu a cole@c
+	Eva?
+*EVA:	0.
+%act:	colours the sofa
+*MOT:	Eva no es fa això (.) que no ho saps que no es fa?
+*EVA:	sí.
+*MOT:	doncs per què ho fas (.) eh@i (.) eh@i?
+*EVA:	xxx.
+*MIR:	no ho saps?
+*MIR:	no ho has de fer.
+*MOT:	Eva Eva i què més fas a cole@c?
+*EVA:	un cuc.
+*MIR:	www.
+*MOT:	un cuc amb què?
+*EVA:	mel rotulador.
+%cod:	(a)m(b) el rotulador
+*MOT:	amb el rotulador?
+*EVA:	ma pastelina.
+%cod:	(a)m(b) (l)a pastelina
+*MOT:	amb la pastelina feu un cuc (.) i què més feu amb la Mercè?
+*MOT:	eh@i que ju +/.
+*EVA:	curgulet .
+*MOT:	què [/] què has fet?
+*MIR:	què?
+*MOT:	què has fet Eva?
+*EVA:	un cargolet.
+*MOT:	un cargolet?
+*MIR:	que has ?
+*EVA:	un cargolet xxx [=! sings].
+%act:	plays with the pencil
+*MOT:	què &=laughs?
+*EVA:	un cargolet.
+@New Episode
+*MOT:	no me l'expliques el Teo que és molt maco?
+%com:	there is a book with a character named Teo on the floor
+*EVA:	0.
+%act:	plays with the pencil on the floor
+*MOT:	m'expliques el Teo Eva?
+*MOT:	o encara estàs amb el cargolet?
+*MIR:	quin Teo?
+*MOT:	ah@i jo veig un llibre molt maco aquí terra.
+*MIR:	aquí.
+%act:	steps on the book
+*MOT:	home no el xafis!
+*EVA:	mira xxx.
+*MOT:	mira què faig.
+*EVA:	au@i.
+*MOT:	què fas?
+*EVA:	pipi@c.
+%exp:	EVA has to go to the toilet
+*MOT:	no tens pipi@c.
+%act:	EVA stands up
+*MOT:	tens pipi@c?
+*EVA:	0.
+%act:	nods
+*MOT:	i a on vas?
+*EVA:	vine.
+*MOT:	què vols?
+*EVA:	vine.
+*MOT:	per què?
+*EVA:	perquè vine.
+*MOT:	per què?
+*MIR:	perquè vol estar amb tu.
+*EVA:	ah@i.
+*MOT:	on vols que anem?
+*EVA:	0.
+%act:	nods
+*MOT:	on vols que anem?
+*EVA:	allà.
+%exp:	the toilet
+*MOT:	allà on?
+*EVA:	allà.
+*MOT:	a fer què?
+*EVA:	caca.
+@End

@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;11.23||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	02-NOV-1995
+@Location:	in the kitchen
+@Activities:	MIR is sitting on her high-chair. She is eating a banana and playing with a puppet
+@Comment:	MOT is video-taping
+*MOT:	escolta (.) i el plàtano (.) que deixes del plàtano ?
+*MIR:	no menja titella .
+*MOT:	que no menja la titella ?
+*MOT:	clar que no .
+*MOT:	qui se'l menja el plàtano ?
+*MIR:	0 .
+%act:	beats the puppet's face with her finger
+*MIR:	titella no mengis !
+%act:	kisses the puppet
+*MIR:	mossega ?
+*MOT:	no (.) no mossega .
+*MIR:	mama posa el dit .
+*MIR:	a Mimi també .
+*MOT:	mama posa el dit (.) la Mimi també ?
+*MIR:	0 .
+%act:	puts her thumb into the puppet
+*MOT:	ui@i que cau !
+*MOT:	que no es menja el plàtano la titella (.) quí se'l menja ?
+*MIR:	a Mimi .
+*MOT:	doncs vinga (.) a veure .
+*MIR:	a mama .
+*MOT:	la mama ?
+*MIR:	xxx a jugar una miqueta .
+%act:	puts the dish with the banana on the kitchen table
+@End

@@ -1,0 +1,185 @@
+@UTF8
+@PID:	11312/c-00028032-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , MAR mare Mother , HMA hmain Nurse , INV Investigator
+@ID:	cat|Serra|CHI|1;3.18||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	hmain es la mainadera del nen , a es al bressol de peu , m esta amb ell
+*CHI:	pcf [% "edede" , assenyalant al davant] .
+*MAR:	si , espera que passo .
+*MAR:	que fas amb aquest llit tan rebregat i tant desfet , eh ?
+*MAR:	ui , aquest llencolet s' esta trencant !
+*MAR:	aquest llencolet te un foradat , xxx xxx sembla mentida .
+*MAR:	0 .
+%act:	agafa un tractor i el dirigeix cap a a
+*MAR:	ensenya'l' hi a la carmen el tractor .
+*MAR:	te .
+*MAR:	com fa aixo que fa de xxx , el tractor que fa xxx aquest que netegen [% "com fa aixo que fa de chichiii , el tractor que fa chichiii aquest que netegen"] .
+*MAR:	te una obsessio amb els tractors .
+*CHI:	pcf [% "un"] .
+*MAR:	te .
+*CHI:	0 .
+%act:	agafa el tractor
+*CHI:	pcf [% "chis"] .
+*INV:	oi , que es maco !
+*MAR:	que l' hi ensenyes a la carmen , eh ?
+*MAR:	li ensenyes a la carmen el tractor ?
+*CHI:	pcf [% "aaa" , li cau el tractor] .
+*MAR:	te .
+*CHI:	no no [% "na na" , quan m li dona el tractor] .
+*MAR:	no , no ?
+*MAR:	oi , no , no !
+*CHI:	pcf [% "chiii"] .
+*MAR:	com que no , no ?
+*MAR:	mira el gat .
+*MAR:	gat .
+*CHI:	gat gat [% "sat , sa" pero es refereix al gat] .
+*MAR:	el gat , el gat [% "el sat , el sat"] .
+*MAR:	pcf [% "ta"] .
+*CHI:	pcf [% "a tata"] .
+*MAR:	te , estigues una miqueta mes aqui [= li fica al bressol uns llibres] .
+*CHI:	pcf [% "uuu" , com si es queixes] .
+*MAR:	eh [= s' ajup i li olora el cul] .
+*MAR:	tens una cacota@c chaval .
+*CHI:	0 [=! somriu] .
+*MAR:	l' hem de dir a la maria que et canvii tot , em sembla , perque no se que ha passat .
+*CHI:	pcf [% "tatitelu"] .
+*MAR:	estem tots molls .
+*MAR:	quina pudor , no sens quina pudor .
+*MAR:	oi , quina pudoreta que fa aquesta cacota@c d' aquest nino !
+*MAR:	eh ?
+*MAR:	direm a la maria que et vingui a canviar , vale ?
+*MAR:	te , el tap [= li dona una tapa] .
+*CHI:	pcf [% "pallo , papat"] .
+*MAR:	direm a la maria que et vingui a treure la cacota@c , eh ?
+*MAR:	que no pots estar amb el culet aixi .
+*CHI:	pcf [% "ei"] .
+*CHI:	pcf [% "elli"] .
+*INV:	que , que fa aquesta nena , eh ?
+*CHI:	pcf [% "atita , xxx ta"] .
+*INV:	si ?
+*CHI:	pcf [% "tititatiia"] .
+*CHI:	pcf [% &"eiope"] .
+*CHI:	pcf [% "brum te , uu"] .
+*CHI:	pcf [% "sielu sie"] .
+*CHI:	pcf [% "a tielu xxx u"] .
+*CHI:	pcf [% "chiu"] .
+*CHI:	pcf [% "aaaa"] .
+*CHI:	pcf [% "ooo cha ta"] .
+*CHI:	pcf [% "chilles"] .
+*CHI:	mama !
+*CHI:	0 .
+%act:	esta veient un llibre
+*INV:	pcf [% "uuu"] .
+*CHI:	pcf [% "uuu tatitaeee"] .
+*INV:	ai !
+*CHI:	pcf [% "aieto etu"] .
+*INV:	si .
+*CHI:	pcf [% "chachi tae"] .
+*INV:	que llegeixes ?
+@Comment:	a passa a estar al llit tombat , m esta amb ell i es disposa a treureli la caca
+*CHI:	pcf [% "a ateta" , allargant la ma per agafar la bamba que esta a sobre el llit] .
+*CHI:	pcf [% "si titae eai"] .
+*HMA:	que passa ?
+*CHI:	pcf [% "aeuu"] .
+*HMA:	la bamba ?
+*CHI:	mama .
+*HMA:	la bamba si , mama no , la bamba .
+*CHI:	pcf [% "tutu"] .
+*HMA:	la bamba .
+*CHI:	mama .
+*HMA:	mama , no .
+*CHI:	mama .
+*HMA:	mama .
+*CHI:	mama .
+*CHI:	pcf [% "tuctu"] .
+*HMA:	pcf [% "tutu"] .
+*CHI:	pcf [% "pat pipi mame memu ais eeiei"] .
+*CHI:	pcf [% "tatelie"] .
+*HMA:	que ?
+*HMA:	a ver .
+*HMA:	a ver , a ver cuidado .
+*CHI:	cuidado [% "iuado"] .
+@Comment:	h li agafa als bracos i el posa al bressol , a plora
+*HMA:	mira , que va a venir ahora el papa [= parla en castella] .
+*HMA:	alvar .
+@Comment:	a esta al bressol i e parla amb ell
+*CHI:	pcf [% "ai etie"] .
+*INV:	oi , que maco !
+*CHI:	pcf [% "tatete aie"] .
+*INV:	si .
+*INV:	es la sabateta del nen ?
+*CHI:	pcf [% "aeo iai"] .
+*INV:	m' ho dones ?
+*CHI:	0 .
+%act:	li dona la bamba
+*CHI:	pcf [% "aeseee"] .
+*INV:	0 .
+%act:	li torna la bamba
+*INV:	te te te .
+*CHI:	pcf [% "atie tiae"] .
+*INV:	si ?
+*CHI:	pcf [% "chineo tatu"] .
+*INV:	la foto ?
+*CHI:	pcf [% "abom guau guau guau guau guau"] .
+*CHI:	guau@c guau@c [= assenyalant un animal que hi ha al llibre] .
+*INV:	ai !
+*CHI:	pcf [% "ia cau"] .
+*CHI:	pcf [% "oi ach"] .
+*CHI:	guau@c guau@c guau@c .
+*CHI:	pcf [% "iauu"] .
+*CHI:	pcf [% "llailles"] .
+*CHI:	pcf [% "uuu" , agafant un objecte i ensenyant'ho a e] .
+*INV:	oh , que es maco !
+*CHI:	pcf [% "llibllella"] .
+*CHI:	0 .
+%act:	li cau el objecte de les mans i agafa un altre , ensenyant'ho a e
+*CHI:	pcf [% "aie llolliaeo"] .
+*INV:	oh , que es un camio ?
+*CHI:	pcf [% "notataeteeo , aie" , mentre mira el objecte] .
+*CHI:	pcf [% "tatite" , dirigint l' objecte cap a e] .
+*INV:	me'l dones ?
+*INV:	me'l dones a mi , si ?
+*CHI:	0 .
+%act:	li dona el camio i cau
+*INV:	oh , que ha passat ?
+*CHI:	pcf [% "tatiea"] .
+*INV:	ha caigut ?
+*INV:	on es ?
+*CHI:	pcf [% "aaa" , assenyalant cap a terra , a on hi es el camio] .
+*INV:	el vols ?
+*INV:	0 .
+%act:	dona el camio a a
+*CHI:	pcf [% "aaaa" , com si plores] .
+*INV:	dona'm [= li agafa el camio] .
+*CHI:	pcf [% "chichachichce"] .
+*INV:	ai , no hi es !
+*CHI:	0 .
+%act:	esta tombat al bressol envoltat de joguines , s'aixeca amb dos camions a la ma
+*CHI:	tractor [% "tatu" , ensenyant'l'hi a E] .
+*CHI:	tractor tractor tractor tractor [% "tatu tatu tatu tatu"] .
+*CHI:	tractor tractors [% "tatu tatus"] .
+*INV:	cotxes ?
+*CHI:	cotxe tractor tractor [% "cota , tatu tatu" , la primera paraula es imitacio de l' emesa per E] .
+*CHI:	0 .
+%act:	dona els dos camions a E
+*INV:	que ha passat ?
+@Comment:	canvia la imatge i es veu a a aixecant el coixi i trobant els dos camions
+*CHI:	pcf [% "taaa"] .
+*INV:	ah , que be !
+*CHI:	0 .
+%act:	agafa els camions i els manipula
+*CHI:	pcf [% "tatu tato tatatatatata tata"] .
+*CHI:	pcf [% "eiaa chieso"] .
+*CHI:	pcf [% "tatu tao tatu tatooo tato tatoa"] .
+*CHI:	pcf [% "tutu tutu"] .
+*CHI:	0 .
+%act:	agafa un os
+*CHI:	pcf [% "alle llellellei llaei llelele tatata"] .
+*CHI:	0 .
+%act:	es tomba al bressol mirant a la camera
+*CHI:	pcf [% "tite"] .
+@End
