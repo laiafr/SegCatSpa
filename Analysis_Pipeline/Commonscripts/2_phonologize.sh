@@ -255,11 +255,11 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	   then
 	  echo "recognized $LANGUAGE"
 
-		echo "using espeak"
+		echo "using festival"
 		phonemize -l en-us-festival $ORTHO -o ${RES_FOLDER}/${KEYNAME}-phono.tmp
 
 		#rewrite symbols to have the corresponding sounds in both english and spanish conveyed with the same character
-		sed 's/jh/1/g' < ${RES_FOLDER}/${KEYNAME}-phono.tmp
+		sed 's/jh/1/g' ${RES_FOLDER}/${KEYNAME}-phono.tmp |
 		sed 's/th/8/g' |
 		sed 's/ch/T/g' |
 		sed 's/sh/S/g' |
@@ -293,18 +293,21 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	sed '/^$/d' ${RES_FOLDER}/${KEYNAME}-outofperl.tmp |
 	sed '/^ $/d'  |
 	sed '/^[ ]*$/d'  |
+	tr '_' ' ' |  #to deal with diphthongs
 	sed 's/^ //'  |
 	sed 's/^\///'  | #there aren't really any of these, this is just a cautionary measure
-	tr '_' ' ' | #added specifically to deal with the English dipthongs
-	sed 's/ / ;eword /g' |
+	tr -s ' ' |
+	sed 's/ / ;esyll ;eword /g' |
+	sed 's/\// ;esyll /g'|
+	sed 's/;esyll ;esyll/;esyll/g' |
 	sed -e 's/\(.\)/\1 /g'  |
 	sed 's/ ; e w o r d/ ;eword /g' |
-	sed 's/\// ;esyll /g'|
+	sed 's/ ; e s y l l/ ;esyll /g' |
 	tr -s ' ' |
 	sed 's/ $//' |
 	sed 's/ ;eword ;esyll/ ;esyll ;eword /g' |
-	sed 's/ ;eword$/ ;esyll ;eword/g' |
-	tr -s ' '  ${RES_FOLDER}/${KEYNAME}-tags.txt
+	sed 's/;eword ;esyll ;eword/;esyll ;eword/g' |
+	tr -s ' ' > ${RES_FOLDER}/${KEYNAME}-tags.txt
 
 
 done
