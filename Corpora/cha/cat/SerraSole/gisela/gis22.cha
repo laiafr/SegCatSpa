@@ -1,0 +1,540 @@
+@UTF8
+@PID:	11312/c-00028055-1
+@Begin
+@Languages:	cat
+@Participants:	CHI gisela Target_Child , MAR mare Mother , ULI uli Nurse , INV Investigator
+@ID:	cat|Serra|CHI|1;9.||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|ULI|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g esta seguda a la trona , m la esta preparant per a donarli el menjar , li posa el pitet
+*MAR:	poso el pitet ?
+*MAR:	poso el pitet ?
+@Comment:	g te agafat un pot de sopetes , m va a buscar quelcom
+*MAR:	que vols ara gise ?
+*CHI:	pcf [% "ata" , no esta clar a que es refereix , assenyalant] .
+*MAR:	que [= posant un tovallo a sobre la trona] ?
+*CHI:	pcf [% "ata"] .
+*MAR:	que ?
+*MAR:	eh ?
+*MAR:	0 .
+%act:	li acosta una cullereta
+*CHI:	pcf [% "ui"] .
+*MAR:	si .
+*CHI:	0 .
+%act:	agafa la cullereta
+*MAR:	si [= enf en i] .
+@Comment:	g intenta obrir el pot amb la cullera , no pot , deixa la cullera i li ofereix el pot a m
+*MAR:	xxx malament .
+*CHI:	0 [=! gemega] .
+*MAR:	que passa [= acostant'se a g] ?
+*CHI:	pcf [% "ai"] .
+*MAR:	que ?
+*CHI:	0 .
+%act:	intenta desentortolligar'ho
+*MAR:	que ho obri [= agafant el pot] ?
+*CHI:	0 [= fa que no] .
+*MAR:	a veure .
+*MAR:	vols que l' obri [= intentant obrir'ho] ?
+*MAR:	a veure .
+*MAR:	pcf [% "uu" , exagerant l' esforc] .
+*MAR:	pcf [% "uu"] .
+*CHI:	0 [= mira a m] .
+*MAR:	0 [= no pot destapar] .
+*MAR:	ara .
+*CHI:	pcf [% "aie" , com dient ara , o ja esta , exclamant] !
+*MAR:	ja esta !
+*MAR:	si senyora [= acostant el pot a g] .
+*CHI:	0 .
+%act:	agafa la cullera
+*CHI:	nyam@c nyam@c [= posant la cullereta dins del pot] .
+*MAR:	el nyamnyam@c menjar [/?] .
+*MAR:	ja esta .
+*CHI:	0 .
+%act:	comenca a menjar del pot
+*MAR:	ja [= per veure si s' ho ha empassat] ?
+*CHI:	0 [= mira el tap del pot] .
+*MAR:	t' ho dono [= donant'li el tap] ?
+*CHI:	0 .
+%act:	comenca a llepar el tap mirant a e
+*MAR:	que vols una mica de vi , uli ?
+@Comment:	u i m estan fora d' imatge. m i u comencen a parlar mentre g segueix llepant el tap , quan acaba deixa el tap a una taula que te al costat , agafa la cullera i comenca a menjar del pot , mirant a e , m i o comencen a parlar sobre la filmacio
+*MAR:	nyam@c nyam@c .
+*CHI:	0 [= mira a m amb la cullera a la boca] .
+*MAR:	hum [= suposo que vol dir que bo] !
+@Comment:	g va posantse cullerades a la boca
+*MAR:	hum , que es bo [= acostant'se a g] !
+*MAR:	0 .
+%act:	seu al costat de g
+*CHI:	0 .
+%act:	agafa el tap del pot i li dona a m
+*MAR:	gracies [= agafant el tap] .
+*CHI:	gracies [% "atxie" , imitant] .
+*CHI:	0 [= sembla que assenyali quelcom que hi ha a la taula] .
+*MAR:	que ?
+@Comment:	g segueix menjant
+*MAR:	posem el mitjonet mentre tant ?
+*CHI:	0 [= menja] .
+*MAR:	no ?
+*CHI:	0 [= mira a m i comenca a fer que no amb la cullera a la boca] .
+*MAR:	tonta [= movent el cap] .
+*MAR:	no ?
+*CHI:	0 .
+%act:	es treu la cullera de la boca i treu la llengua
+*MAR:	0 [=! riu] .
+*MAR:	no .
+@Comment:	g segueix menjant , m se la mira , riu i marxa. m i e comencen a parlar sobre g , que si esta molt callada , etc , m torna a costarse a g i li toca el cap
+*MAR:	xxx xxx .
+*CHI:	0 [= no li fa cas] .
+*CHI:	0 .
+%act:	es posa la cullera a la boca i fa que no
+*MAR:	que fas ?
+*CHI:	0 .
+%act:	repeteix l' accio
+*MAR:	no n' hi ha ja ?
+*CHI:	0 [= mira a m , sembla estranyada] .
+*MAR:	a veure si no n' hi ha .
+*MAR:	a veure [= s' acosta al pot i veu que encara te menjar] .
+*MAR:	uh !
+*MAR:	si .
+@Comment:	g segueix menjant
+*MAR:	si que n' hi ha molt encara .
+@Comment:	mentre g menja li cau una mica de sopetes
+*MAR:	mira giseleta .
+*MAR:	aixo m' ho guardo jo [= recollint el que ha caigut] ?
+*MAR:	netegem ?
+*MAR:	netegem ?
+@Comment:	g segueix menjant , mira si la trona esta neta i comenca a netejar el pot amb el dit
+*CHI:	pcf [% "nanana"] .
+*CHI:	aqui [= enf en i , assenyalant el nen de l' etiqueta] .
+*MAR:	aqui es el xxx .
+*MAR:	digues'li adeu , adeu , adeu .
+*CHI:	0 .
+%act:	li dona voltes al pot
+*CHI:	aqui .
+*CHI:	pcf [% "nananana"] .
+*MAR:	aqui .
+*MAR:	si [= comenca a fer girar el pot a poc a poc] .
+*MAR:	adeu , adeu , adeu , adeu , adeu , adeu .
+*MAR:	adeu adeu adeu [= fa girar el pot fins que el nen torna a estar al davant de g] .
+*CHI:	ja esta [% "ata" , assenyalant al nen] .
+*MAR:	0 [=! riu] .
+*MAR:	ja hi es .
+*CHI:	0 .
+%act:	agafa la cullereta i es posa a menjar
+*MAR:	0 [=! riu] .
+*MAR:	anem per feina [= rient] .
+*CHI:	0 .
+%act:	li costa agafar sopetes i tomba el pot
+*MAR:	que cau ?
+*CHI:	0 .
+%act:	segueix intentant treure una cullerada
+*MAR:	que vols que t' ajudi la mama ?
+*CHI:	0 [=! gemega] .
+*MAR:	si [= agafant el pot] ?
+*MAR:	que vols que t' ajudi la mama ?
+*MAR:	upa [= donant'li una cullerada] !
+@Comment:	m li dona menjar mentre g mira a e
+*CHI:	0 [=! somriu] .
+@Comment:	m i u riuen
+*MAR:	coqueta .
+*MAR:	que somrius a la camera , tu ?
+*CHI:	0 [=! somriu] .
+*MAR:	que somrius a la camera ?
+@Comment:	m i u riuen
+*CHI:	0 [= mira fixament a camera] .
+*MAR:	0 .
+%act:	li dona menjar
+*CHI:	0 [=! somriu] .
+*MAR:	0 [=! riu] .
+@Comment:	m i u riuen , m continua donantli menjar i g se la mira
+*ULI:	que vols que t' agafin per un anunci gisela ?
+@Comment:	m i u riuen
+*MAR:	de milupa .
+*MAR:	per a un anunci de milupa t' agafaran .
+@Comment:	m continua donantli de menjar , g agafa un encenedor de la taula ho posa a la trona i mira a m
+*MAR:	no .
+*MAR:	no .
+*CHI:	no [% "ne" , fent que no] .
+*MAR:	es meu aquest .
+*MAR:	es meu aquest encenedor .
+*CHI:	0 .
+%act:	agafa el tap del pot i el posa a la trona
+*CHI:	pcf [% s' enten "papepepipi"] .
+*CHI:	pcf [% "ai"] .
+@Comment:	m li va donant cullerades
+*CHI:	tapar [% "apa" , posant el tap al pot] .
+*MAR:	ja vols tapar ?
+*MAR:	ja vols tapar ?
+*MAR:	que no tens mes gana ?
+*CHI:	0 .
+%act:	treu el tap
+@Comment:	u i e comenten la jugada
+*CHI:	0 .
+%act:	va movent el tap per sobre la safata de la trona
+*MAR:	0 .
+%act:	li acosta la cullera pero no li posa a la boca
+*CHI:	pcf [% "ai" , acostant'se a la cullera] .
+*MAR:	0 [=! riu] .
+*MAR:	pero no estaves jugant al pipi@c ?
+%com:	m li dona menjar
+*CHI:	pipi@c [= joc de empenyer , empenyent el tap] .
+*CHI:	ai [= exclamant'se perque casi cau el tap] !
+*CHI:	ai [= mirant a m] !
+*MAR:	que cau ?
+%com:	el tap cau
+*CHI:	ai !
+*CHI:	0 .
+%act:	busca el tap a terra
+*MAR:	ja ha caigut .
+*CHI:	0 .
+%act:	busca el tap
+*MAR:	espera't , espera't .
+*MAR:	que jo te'l cullo [= ajupint'se per agafar el tap] .
+*MAR:	upa [= posant el tap a la trona] !
+@Comment:	g agafa un pitet que hi ha a la taula i se'l intenta posar
+*MAR:	gisela .
+*MAR:	pero si ja en tens un de pitet .
+*MAR:	pero si ja tens aquest [= li treu el pitet que ha agafat] .
+*CHI:	pcf [% s' enten "aclinya" , posant el pitet a la taula] .
+@Comment:	mentre m li va donant de menjar g agafa el tap i l' encenedor , m li ofereix una cullerada
+*MAR:	una altra ?
+*MAR:	una altra cullerada [= posant'li a la boca] ?
+*MAR:	si [= enf en i] ?
+*CHI:	0 [= fa que si] .
+*MAR:	0 .
+%act:	li ensenya el pot
+*MAR:	a veure com n' hi ha .
+*CHI:	no [% "na" , mirant'se el pot i fent que no] .
+*MAR:	no ?
+*CHI:	no no [% "na na"] .
+*MAR:	si que n' hi ha una mica .
+*MAR:	si .
+*CHI:	0 .
+%act:	intenta agafar el pot
+*MAR:	que mires el nen ?
+*CHI:	pcf [% "nana"] .
+*MAR:	digues'li adeu , adeu .
+*MAR:	ei [= com dient que passa] !
+*CHI:	0 .
+%act:	esta estripant el paper
+*MAR:	que l' estripes el nen ?
+*CHI:	0 [= mira a camera i a m] .
+*MAR:	no .
+*MAR:	no pobret [= acariciant la imatge] .
+@Comment:	hi ha un petit tall , g mira a camera
+*MAR:	gisela .
+*MAR:	mira [= ensenyant'li el pot buit] .
+*CHI:	0 [= es mira el pot i somriu] .
+*CHI:	no n' hi ha [% "nina" , mirant a m] .
+*MAR:	no n' hi ha [= fent que no] .
+*MAR:	no n' hi ha .
+*CHI:	0 .
+%act:	agafa el pot i el posa damunt la taula
+*CHI:	pcf [% "i" , assenyalant en front seu] .
+*MAR:	que vols ?
+*CHI:	pcf [% "ti" , assenyalant] .
+*MAR:	que vols ?
+*CHI:	tapar [% "epa" , posant la tapa al pot] .
+*MAR:	que vols ?
+*MAR:	tapem'ho [= tapant el pot] ?
+*MAR:	tapar ?
+*INV:	on es el nen ?
+*MAR:	vols tapar'ho ?
+*MAR:	vols tapar'ho ?
+*INV:	m' ensenyes el nen ?
+*MAR:	0 .
+%act:	gira el pot fins que es veu el nen
+*INV:	aqui .
+*INV:	molt be .
+*CHI:	te [= donant a m l' encenedor] .
+*MAR:	gracies [= agafant'lo] .
+*CHI:	pcf [% "nie"] .
+*CHI:	pcf [% "ie"] .
+*MAR:	meu .
+*MAR:	es meu .
+*MAR:	me'l guardo a la butxaca [= guardant'se l' encenedor] .
+*MAR:	adeu al nen [= acostant el pot de sopetes a g] ?
+*MAR:	li diem adeu ?
+@Comment:	m dona voltes al pot fins que g vegi el nen
+*CHI:	pcf [% "aiaiai" , assenyalant el nen] .
+*MAR:	si .
+*MAR:	que ?
+*MAR:	tens mes gana ?
+*MAR:	gisela [= agafant el pot] .
+*CHI:	0 [= esta mirant el pot] .
+*MAR:	gisela [= picant a la ma de g] .
+*CHI:	0 .
+%act:	es posa la cullera a la boca
+*MAR:	tens mes gana ?
+*MAR:	que vols mes ?
+*MAR:	vols menjar mes ?
+*CHI:	0 [= fa que si] .
+*MAR:	si [= fent que si] ?
+*MAR:	mes nyamnyam@c menjar [/?] ?
+*MAR:	si ?
+*CHI:	0 [= fa que no] .
+*CHI:	0 .
+%act:	tus i es treu la cullera de la boca
+*MAR:	a veure .
+*MAR:	a veure si es veritat .
+*MAR:	si o no ?
+*CHI:	0 [= fa que si] .
+%act:	intenta agafar el pot
+*MAR:	up [= destapant el pot] !
+*MAR:	0 .
+%act:	ensenya el pot buit a g
+*CHI:	no [= fent que no] .
+*MAR:	fora [= tapant el pot] .
+*MAR:	cap a alla [= allunyant el pot] ?
+*CHI:	pcf [% "aia"] .
+*CHI:	caca .
+*MAR:	caca ?
+%com:	es refereixen a les escombreries on m ha llencat el pot
+*MAR:	si .
+*MAR:	molt be [= aixecant'se] .
+@Comment:	g es queda a la trona , va mirant a la camera i somriu. m comenca a buscar mes menjar , m , e i u parlen de les costums alimentaries de g mentre aquesta juga posantse i traientse la cullera de la boca , g veu un pot que li agrada
+*CHI:	pcf [% s' enten "au" , allargant el brac cap a m] .
+*MAR:	si ?
+*MAR:	si ?
+*CHI:	0 [= fa que si i somriu] .
+*MAR:	si [= acostant'se a g] .
+*MAR:	si [= seient] .
+*CHI:	pcf [% "ii" , agafant el tap del pot] .
+*MAR:	que ?
+*CHI:	0 .
+%act:	fa girar el pot al intentar obrir'lo
+*CHI:	pcf [% "queai"] .
+*MAR:	que passa ?
+*CHI:	pcf [% "queai" , acostant el pot a m] .
+*MAR:	a veure [= agafa el pot] .
+*MAR:	a la una [= intentant treure el tap] .
+*MAR:	a les dues .
+*MAR:	ui [= ha destapat el pot] !
+*CHI:	pcf [% "aia" , cridant i fent un somriure] .
+*MAR:	ui !
+*MAR:	que contenta que et poses al sentir el sorollet .
+*MAR:	eh ?
+*CHI:	0 .
+%act:	treu el tap
+*CHI:	pcf [% "tururre" , posant la cullereta al pot] .
+*CHI:	0 [= fa que no amb el cap] .
+*CHI:	pcf [% "uu" , gemegant] .
+*MAR:	no ?
+*MAR:	no tens mes gana ?
+*MAR:	doncs perque m' has dit que si ?
+*MAR:	si no vols menjar mes .
+*MAR:	vols tastar [= oferint'li una cullerada] .
+*CHI:	0 [= fa que no] .
+*MAR:	0 .
+%act:	li dona la cullerada
+*CHI:	0 [= menja] .
+*CHI:	0 .
+%act:	dona un cop i cau el tap
+*MAR:	que ha caigut el tap ?
+*MAR:	0 .
+%act:	li dona una cullerada
+*MAR:	que vols menjar tu soleta [= oferint'li la cullera] ?
+*MAR:	tu soleta ?
+*CHI:	0 [= fa que no] .
+*MAR:	no ?
+*MAR:	t' ho dono jo ?
+*MAR:	si ?
+*CHI:	0 [= fa que si] .
+*MAR:	si [= li dona una cullerada] .
+*CHI:	0 [= obre la boca i somriu] .
+*MAR:	0 [=! riu] .
+*MAR:	seductora .
+*MAR:	coqueta .
+*CHI:	0 [= torna a fer'ho] .
+*MAR:	no se com ho farem pero tot no t' ho pots menjar gisela .
+*CHI:	0 [= torna a fer'ho] .
+*MAR:	0 [=! riu] .
+@Comment:	m comenta amb e com menja g
+*CHI:	0 [= segueix obrint la boca i fent somriures] .
+*MAR:	no riguis amb la boca plena .
+*CHI:	0 [= obre la boca] .
+*MAR:	ah !
+*MAR:	nyam@c [= acostant'se a g , com si anes a mossegar'la] .
+*CHI:	0 [= obre la boca] .
+*MAR:	nyam@c nyam@c nyam@c .
+*MAR:	nyam@c [= donant'li una cullerada] .
+*CHI:	0 [= obre la boca] .
+*MAR:	pcf [% "tst"] !
+*MAR:	cotxinota .
+*MAR:	cap a dins .
+*CHI:	0 [= s' empassa el menjar] .
+@Comment:	m segueix donantli menjar , g comenca a mirar el pot intentant aixecarse , m li ensenya el interior del pot
+*MAR:	que controles tu ?
+*CHI:	0 [=! somriu] .
+*MAR:	que n' hi ha [= acostant'li el pot] ?
+*MAR:	que n' hi ha [= rient] ?
+*CHI:	0 .
+%act:	torna a seure
+*MAR:	que n' hi ha ?
+*CHI:	hi ha [= tambe podria ser n' hi ha , mirant el pot] .
+*MAR:	si que n' hi ha , si [= li dona una cullerada] .
+*CHI:	0 .
+%act:	allarga el brac intentant agafar quelcom que hi ha a la taula
+*MAR:	que vols ?
+*CHI:	llapis [% "ai" , assenyalant a la taula] .
+*MAR:	llapis ?
+*MAR:	que vols dibuixar ara ?
+*CHI:	0 [= fa que si] .
+*MAR:	llapis vols [= donant'li una cullerada] ?
+*CHI:	0 [= fa que si] .
+*MAR:	buscare jo el llapis .
+*MAR:	ell solet [= girant'se cap a la taula] .
+*MAR:	pero si no hi es [= buscant] .
+*CHI:	0 [=! riu] .
+*CHI:	pcf [% "aia" , mirant cap a la taula] .
+*CHI:	no [= fent que no] .
+*CHI:	llapis [% "api" , assenyalant] .
+*MAR:	te [= oferint'li un llapis] .
+*MAR:	el llapis .
+*CHI:	0 [=! gemega] .
+%act:	aparta el llapis que li dona m
+*CHI:	aqui llapis [% "ati api" , assenyalant] .
+*MAR:	0 .
+%act:	busca per la taula
+*MAR:	ah !
+*MAR:	el que embruta els dits [= agafant un retolador] ?
+*MAR:	vols el llapis que embruta els dits , tu [= oferint'li] ?
+*CHI:	0 .
+%act:	agafa el retolador
+*CHI:	aquest [% "aia" , tambe podria volguer dir altre , assenyalant l' altre llapis] .
+*MAR:	molt be [= agafant paper] .
+*CHI:	0 [= gemega , tus i fa que no] .
+*CHI:	pcf [% "ipi" , assenyalant un altre paper] .
+*MAR:	ah !
+*MAR:	vols paper serio tambe ?
+*CHI:	0 [= estossega] .
+*MAR:	0 .
+%act:	agafa el paper
+*MAR:	escolta .
+*MAR:	escolta noia .
+*MAR:	vols que et faci +/.
+*CHI:	pcf [% "ama" , agafant el paper] .
+%com:	g comenca a dibuixar
+*MAR:	ui !
+*CHI:	0 [= mira a m] .
+*MAR:	una rodona .
+*CHI:	0 [= ha fet una rodona] .
+*MAR:	una roda de cotxe [= hi ha cotxes dibuixats al mateix paper] .
+*MAR:	que fas una rodona de cotxe ?
+*CHI:	0 .
+%act:	va dibuixant
+*MAR:	eh ?
+*CHI:	pcf [% "u" , assenyalant el paper] .
+*CHI:	cotxe [= assenyalant un cotxe] .
+*MAR:	cotxe si [= donant'li menjar] .
+*MAR:	que fas una roda de cotxe ?
+*CHI:	0 .
+%act:	va fent rodones
+*MAR:	i aixo [= assenyalant el paper] ?
+*MAR:	que es aixo ?
+*CHI:	llapis [% "api"] .
+*MAR:	un llapis [= donant'li cullerada] ?
+*MAR:	tambe ?
+@Comment:	m segueix donantli cullerades mentre g es distreu guixant el paper per un i altre costat
+*MAR:	oh , que maco !
+*MAR:	una altra roda [= cullerada] ?
+*MAR:	ui !
+@Comment:	g segueix fent ratlles i m donantli menjar
+*MAR:	que fas gisela ?
+*CHI:	0 [= mira a m] .
+*MAR:	que es aixo [= assenyalant] ?
+*CHI:	llapis [% "pi"] .
+*MAR:	0 .
+%act:	li dona cullerada
+*MAR:	un llapis ?
+*MAR:	si .
+*CHI:	pcf [% "acupapi"] .
+*CHI:	roda de cotxe [% en realitat diu "copaquicoque"] .
+*MAR:	ah !
+*MAR:	una roda de cotxe .
+*MAR:	eh , pilla ?
+*CHI:	0 .
+%act:	segueix dibuixant
+*MAR:	si senyora [= cullerada] .
+@Comment:	m va donantli de menjar , g mira a camera i somriu
+*MAR:	0 [=! riu] .
+*MAR:	0 .
+%act:	fa veure que la cullera es un avio
+*CHI:	0 [= obre la boca] .
+*MAR:	0 .
+%act:	li posa cullerada
+*MAR:	ja no n' hi ha .
+*MAR:	no n' hi ha .
+*CHI:	0 [= mira el pot , veu que te menjar i riu] .
+*MAR:	0 [=! riu] .
+@Comment:	al girarse g cau el paper a terra
+*MAR:	que ha passat ?
+*MAR:	que ha passat gisela ?
+*MAR:	que ha passat [= acostant'li la cullera] ?
+*CHI:	pcf [% "ii" , assenyalant a terra] .
+*MAR:	que ha passat ?
+*CHI:	0 [= mira a m] .
+*MAR:	que ha passat ?
+*MAR:	que [= enf en e] ?
+*CHI:	0 .
+%act:	intenta sortir de la trona per agafar el paper
+*MAR:	0 .
+%act:	recull el paper de terra
+*MAR:	te [= deixant el paper a la trona] .
+*MAR:	vols mes ?
+*MAR:	vols mes [= oferint'li la cullera] ?
+*CHI:	pcf [% "ia"] .
+*MAR:	vols mes ?
+*MAR:	en vols mes [= donant'li cullerada] ?
+*CHI:	no .
+*MAR:	no ?
+*MAR:	no en vols mes gisela ?
+*CHI:	0 [= esta mirant el paper] .
+*MAR:	gisela .
+*CHI:	0 .
+%act:	comenca a dibuixar
+*MAR:	gisela .
+*MAR:	ui quina roda !
+*CHI:	pcf [% "a" , assenyalant el dibuix] .
+@Comment:	m va donantli menjar mentre g dibuixa
+*MAR:	gisela .
+*MAR:	aqui no , eh [= assenyalant la fusta de la trona] ?
+@Comment:	mentre m li dona menjar , g pica de pus a la trona , va fent somriures a la camera , m riu
+*MAR:	ja esta be artista quan somrius a xxx .
+*CHI:	0 .
+%act:	dibuixa
+*MAR:	pcf [% "uu" , donant'li cullerada] .
+*MAR:	pcf [% "aaaa" , li acosta la cullera pero no li posa a la boca] .
+*MAR:	pcf [% "aaam" , li posa a la boca] .
+*CHI:	0 [= es llepa els llavis] .
+*MAR:	te gisela [= agafa un drap de paper] .
+*MAR:	eixuga't la boca .
+*MAR:	eixuga't la boca [= li dona el paper] .
+*CHI:	0 .
+%act:	agafa el drap de paper i s' eixuga
+*CHI:	pcf [% "io"] .
+*MAR:	si .
+*MAR:	eixuga't la boqueta .
+*MAR:	molt be .
+*MAR:	aixi , aixi , aixi [= simula el moviment] .
+*MAR:	per dintre no .
+*MAR:	per fora [= intenta eixugar a g] .
+*CHI:	no [= fent que no i seguint ella] .
+*MAR:	no ?
+*CHI:	0 .
+%act:	s' eixuga el nas
+*MAR:	i el nasset ?
+*MAR:	jo em penso que ja has menjat massa [= mirant el pot] .
+*MAR:	ja no n' hi ha gisela [= retirant el pot] .
+*MAR:	fora [= s' emporta el pot] .
+@Comment:	m i e parlen de lo molt que ha menjat g mentre aquesta va mirant la camera , g intenta sortir de la trona per sota la safata
+*MAR:	el pitet .
+*MAR:	el pitet fora abans de baixar de la trona gisela .
+@Comment:	g practicament ja esta fora de la trona
+*MAR:	giseleta .
+*MAR:	que caus ?
+*MAR:	ui !
+*CHI:	0 .
+%act:	surt de la trona i marxa
+@End

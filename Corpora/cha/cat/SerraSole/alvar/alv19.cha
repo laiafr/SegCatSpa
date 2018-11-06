@@ -1,0 +1,147 @@
+@UTF8
+@PID:	11312/c-00028036-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , HMA hmain Nurse , INV Investigator
+@ID:	cat|Serra|CHI|1;7.13||||Target_Child|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	hi ha un tall a la cinta , despres a esta a l'interior de la casa amb h
+*CHI:	0 .
+%act:	aixeca un tractor que te a la ma
+*HMA:	un tractor !
+*HMA:	mira , un tractor que tengo .
+@Comment:	hi ha un tall a la cinta
+*HMA:	que hay muchos los [/?] animales , ensenyaselo .
+@Comment:	hi ha un altre tall a la cinta i apareix a amb un objecte a la ma
+*INV:	que es aixo ?
+*INV:	qui te les ha comprat aquestes bambas tan maques ?
+*INV:	qui te les ha comprat les bambas , alvar ?
+*INV:	a veure , me les ensenyes les bambes [% "a vera" en comptes de a veure] ?
+*INV:	on son les bambas ?
+*INV:	ensenya'me'les .
+*CHI:	maria [% "ia" , dirigint'se cap a la porta] .
+*INV:	la maria s' ha anat .
+*INV:	esta treballant .
+*INV:	que vols que vingui ?
+*INV:	crida'la .
+*INV:	digues maria .
+@Comment:	a surt de la cambra , apareix una nova escena , estan a i h
+*HMA:	sube en el tutu@c venga .
+*HMA:	coge el caballito .
+*HMA:	va sientate .
+*HMA:	ahi a jugar , venga .
+*HMA:	el cuento , explicale el cuento .
+@Comment:	a es recolza al llit i agafa un objecte
+*HMA:	que es eso ?
+*HMA:	eh ?
+*CHI:	pcf [% "etilla"] .
+*HMA:	eh ?
+*CHI:	pcf [% "aada"] .
+*HMA:	quien es ?
+*HMA:	oh !
+@Comment:	a es tira a terra i arrossega l' objecte
+*HMA:	pi@c pi@c pi@c !
+*HMA:	asi como este , mira .
+*HMA:	pi@c pi@c pi@c rum@c rum@c rum@c fisss@c !
+@Comment:	a agafa el cotxe que h l' hi ha enviat rodolant
+*CHI:	tutu@c [= ensenyant'lo a e] .
+*HMA:	tutu@c , si .
+@Comment:	a s' aixeca i es dirigeix cap al llit
+*CHI:	pcf [% "a mama a mama" , mentre s' estira al llit] .
+@Comment:	a es tomba a terra
+*INV:	que tens soneta ?
+*INV:	tens son , alvar ?
+*CHI:	no [= xiuxiuejant] .
+*INV:	no tens son ?
+*CHI:	ah [= llepant un objecte i mirant a h] !
+*HMA:	no xxx aixo en la boca .
+*HMA:	que te lo pones en la boca .
+@Comment:	a es dirigeix a la porta ajupit
+*HMA:	donde vas ?
+*HMA:	afuera no .
+*HMA:	aqui a jugar .
+@Comment:	a se la mira i es queda segut
+*HMA:	eh ?
+*CHI:	pcf [% "i"] .
+%com:	a dona un cop a terra amb l' objecte que porta a la ma
+*HMA:	pon@c [= onomatopeia de cop] !
+@Comment:	a torna a donar un cop
+*HMA:	no des golpes .
+*CHI:	rum@c [= arrossegant l' objecte per terra] !
+*HMA:	rum@c rum@c !
+*HMA:	mira , con este coche .
+*HMA:	rum@c rum@c [= li llanca el cotxe] !
+@Comment:	a i h juguen a llencarse el cotxe , a riu
+*HMA:	mira , ahora el payasito , ahora el payasito [= h envia a a el pallasso rodolant] .
+*HMA:	bumba@c !
+*CHI:	yo [= mentre agafa el pallasso i el manipula] .
+*HMA:	ahora tu , venga , ahora tu .
+*HMA:	echaselo a la maria .
+@Comment:	a aixeca el pallasso de terra com si fos a llencarlo enlaire
+*HMA:	no , asi asi ping@c [= fent una indicacio amb la ma] .
+@Comment:	a allarga el brac i h agafa el pallasso , a agafa un cotxet i el deixa caure
+*HMA:	toma , no lo botes eso .
+@Comment:	a s' inclina cap a la camera de video i despres torna a seure's recolzantse al llit , apareix una nova imatge , a de quatre grapes es disposa a sortir de la cambra a la que estava , h esta amb ell
+*HMA:	no salgas [= agafant'li del brac] .
+*CHI:	pcf [% "aiii taa" , agafa un objecte que dona a h i s' acosta a la falda de h] .
+*HMA:	no salgas .
+*CHI:	0 [= se la mira i somriu] .
+*CHI:	salgas [% "sata"] .
+*HMA:	no salgas .
+*CHI:	salgas [% "tata"] .
+*HMA:	no salgas .
+@Comment:	a s' incorpora i seu a terra i mira a la camera
+*CHI:	salgas [% "tata"] .
+*HMA:	no salgas .
+*CHI:	salgas [% "tata"] .
+*HMA:	mira el guau@c gos [/?] , ensenyaselo , ensenyale el guau@c gos [/?] .
+@Comment:	a agafa el gos
+*CHI:	guau@c gos [/?] [= mentre s' incorpora] .
+@Comment:	canvia la imatge i a apareix de peu recolzat en el llit , mirant a e que li parla
+*INV:	xxx ara ve la maria , eh ?
+*INV:	ara ve .
+@Comment:	a es dirigeix a una cadira petita i es seu
+*INV:	ai que be , asentadet a la cadira , alvar .
+*INV:	que es teva aquesta cadira ?
+*CHI:	0 [= mira a e] .
+*INV:	es teva ?
+@Comment:	a dirigeix la seva atencio a l' objecte que te a les mans
+*CHI:	maria [% "ia" , mentre assenyala la porta] .
+*INV:	ara ve la maria .
+*CHI:	pcf [% "pupipupu" , mentre dona copets a l' objecte que te a les mans] .
+@Comment:	a s' aixeca de la cadira i deixa el cotxet a sobre el llit , es tomba a terra
+*CHI:	pcf [% "ega" , mirant a e] .
+*INV:	que ?
+*CHI:	pcf [% "tatic tati" , colpejant amb la ma a terra i mirant a e] .
+@Comment:	a agafa dos ossos i els aixeca dirigintse cap a e
+*CHI:	osito [% "titu" , assenyalant l' os] .
+*INV:	oi , l' osito .
+@Comment:	a aixeca a l' altre os que porta per a que e el vegi
+*INV:	i aquest qui es ?
+@Comment:	canvi d' imatge , a esta tombat al llit amb els ossos , amb el cap cap a la paret
+*INV:	te soneta , alvar .
+*INV:	tens son ?
+*CHI:	0 .
+%act:	se la mira i es torna a girar
+*CHI:	pcf [% "daaa"] .
+*CHI:	pcf [% "paticu" , baixa del llit] .
+@Comment:	a esta de peu amb l' os al costat del llit
+*CHI:	pcf [% "uuu" , mentre puja al llit] .
+*CHI:	pcf [% "iueie"] .
+*CHI:	pcf [% "paapa" , mentre baixa del llit] .
+*CHI:	pcf [% "eatilla"] .
+@Comment:	a torna a pujar al llit , seu i comenca a passar fulls d' un llibre
+*CHI:	caca [= al veure quelcom al llibre] .
+%com:	segueix passant fulls
+*CHI:	pcf [% "aaaa" , dona una palmellada al llibre] .
+*CHI:	pcf [% "ada" , assenyala a e] .
+*INV:	que es aixo alvar , que es ?
+*INV:	que es un nen ?
+*INV:	es una casa ?
+*CHI:	pcf [% "po" , assenyalant una imatge del llibre i mirant e] .
+@Comment:	a deixa el conte i agafa un altre , despres baixa del llit
+*CHI:	pcf [% "iaiai" , mentre agafa un be de terra i el col'loca a sobre el llit] .
+@Comment:	a agafa el be i el fica de peu i despres el deixa caure
+*CHI:	pupa@c [= quan cau el be] .
+@End

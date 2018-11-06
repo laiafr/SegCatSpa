@@ -1,0 +1,483 @@
+@UTF8
+@PID:	11312/c-00028033-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , MAR mare Mother , HMA hmain Nurse
+@ID:	cat|Serra|CHI|1;4.08||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|HMA|||||Nurse|||
+@Comment:	a i m estan a la cuina , m donara de menjar a , a esta segut a la seva cadira al costat de la taula , h entra a la cuina
+*MAR:	la maria !
+*CHI:	pcf [% "neio" , assenyalant amb el dit cap en davant] .
+*MAR:	maria , si .
+*CHI:	allo [= assenyala amb el dit cap en davant] .
+*MAR:	que es allo ?
+*MAR:	es una maquineta .
+*MAR:	es com de fer fotos , com la de l' avi .
+*MAR:	alvar , se sembla a la de l' avi de fer fotos .
+*MAR:	com fa l' avi quan fa fotos ?
+*CHI:	0 .
+%act:	dirigeix la ma a l' ull i va obrint i tancant els dits index i polze
+*MAR:	clic@c clic@c [= riu] .
+*MAR:	eh , que si ?
+*CHI:	0 [= mira la camera] .
+*MAR:	0 .
+%act:	agafa un basto de pa i se'l ofereix a a
+*MAR:	vols un bastonet ?
+*MAR:	vols mes bastonets ?
+*CHI:	pcf [% "mmm" , amb la boca plena vol afirmar] .
+*MAR:	si encara tens a la boca .
+*MAR:	encara estas menjant bastonets ?
+*MAR:	hum ?
+*MAR:	pcf [% "umm" , assenyalant la taula] .
+*MAR:	ara una miqueta de petit suisse , eh ?
+*MAR:	0 .
+%act:	li dona una cullerada de petit suisse
+*MAR:	pcf [% "umm"] .
+*MAR:	quina xxx mes bona .
+*MAR:	vols bastonet ?
+*CHI:	pcf [% "um um" , amb la boca plena assenyala cap a l'esquerra] .
+*MAR:	que ?
+*CHI:	tuttut@c [% "tutu" , es refereix a cotxe] .
+*MAR:	la revista , vols la revista o l' album ?
+*MAR:	que et sembla ?
+*HMA:	tuttut@c .
+*MAR:	tuttut@c ?
+*HMA:	0 .
+%act:	deixa una revista a sobre de la taula
+*MAR:	ale !
+*MAR:	una revista de cotxes .
+*CHI:	0 .
+%act:	es dirigeix cap a la revista per agafar'la
+*MAR:	espera , espera que traurem tot aixo d' aqui davant , tota la parafernalia .
+*CHI:	pcf [% "um um" , amb la boca plena fa com si es queixes] .
+*MAR:	que em d' anar fent el de sempre ?
+*MAR:	0 .
+%act:	col'loca la revista a prop d' a per a que aquest pugui passar fulls
+*MAR:	el cotxe ple de pols .
+*MAR:	que fa aquest cotxe ?
+*MAR:	brrr@c brrr@c brrr@c pols pel desert !
+*MAR:	ai , quina pols te aquest cotxet , acabara brut , brut com una guilla !
+*CHI:	0 [=! riu] .
+*MAR:	0 .
+%act:	passa full
+*CHI:	0 [= assenyala] .
+*MAR:	i aqui , mira com cau el piloto .
+*MAR:	xxx , eh [% "pap , eh"] ?
+*CHI:	pcf [% "um"] .
+*MAR:	si xxx .
+*MAR:	i aqui , qui es aquest , qui son aquests ?
+*MAR:	el papa i la mama ?
+*CHI:	0 [= mira la revista] .
+*MAR:	que estan en una platja .
+*MAR:	anirem al mar , aquest estiu la mama i el papa et portaran al mar , a veure el mar , eh !
+*MAR:	vale ?
+*CHI:	pcf [% "um um um" , mou la ma de dalt cap a baix] .
+*MAR:	si ?
+*MAR:	que fa la carmen ?
+*MAR:	mira el sol [= assenyala la revista] .
+*MAR:	has vist que surt el sol , al damunt del cotxe ?
+*MAR:	0 .
+%act:	segueix passant fulls
+*MAR:	oi , que es aixo , que es aixo ?
+*MAR:	com fa l' avio ?
+*MAR:	que es un avio ?
+*CHI:	pcf [% "buuu" , aixecant la ma] .
+*MAR:	brrr@c .
+*MAR:	com fa l' avio ?
+*CHI:	pcf [% "um" , es gira i assenyala cap amunt] .
+*MAR:	si , pero ara no en passa cap .
+*MAR:	ara no n' hi ha cap , que vols ?
+*CHI:	pcf [% "um" , assenyalant el dibuix de la revista] .
+*MAR:	si , aquest si que es un avio .
+*MAR:	com fa , com fa l' avio ?
+*CHI:	pcf [% "ea"] .
+*MAR:	com fa l' avio ?
+*CHI:	brrr@c .
+*MAR:	brrr@c .
+*CHI:	0 [= assenyala la revista] .
+*MAR:	mira el cotxe de les portes obertes .
+*MAR:	totes les portes obertes , has vist , les dues del davant , les dues del darrera i la del darrera de tot .
+*CHI:	pcf [% "uh"] !
+*MAR:	pcf [% "uh"] !
+*CHI:	0 .
+%act:	es toca l' orella
+*CHI:	ah !
+*MAR:	que , que et pica la orella ?
+*MAR:	que te rasques l' orelleta ?
+*CHI:	uf !
+*CHI:	0 .
+%act:	es posa a passar fulls de la revista
+*MAR:	espera , espera .
+*MAR:	vols pa ?
+*MAR:	mira , mira , que fa aquest senyor ?
+*CHI:	0 [= mira el que m assenyala] .
+*MAR:	0 .
+%act:	talla un tros de pa
+*CHI:	0 .
+%act:	continua passant fulls
+*MAR:	a veure , ara estas buscant una altra cosa , no se que estas buscant , pero algo estas buscant .
+*MAR:	0 .
+%act:	li dona un tros de pa
+*CHI:	pcf [% "um"] .
+*MAR:	pcf [% "um um"] .
+*MAR:	mira , els cavalls .
+*MAR:	que fan , que fan els cavalls ?
+*CHI:	pcf [% "um" , retirant'li la ma de la revista] .
+*MAR:	que estas buscant , estas buscant algo , pero no se que es .
+*CHI:	0 .
+%act:	continua passant fulls
+*CHI:	pcf [% "um" , assenyalant la revista] .
+*MAR:	oi , el cotxe vermell que maco !
+*MAR:	es que es un porsche , saps ?
+*MAR:	es un porsche , maco , eh ?
+*MAR:	a mi tambe m' agrada molt .
+%com:	continuen passant fulls
+*CHI:	pcf [% "u u m" , mou la ma de dalt a baix] .
+*MAR:	que vol dir aixo ?
+*MAR:	veus es el mateix .
+*CHI:	ou .
+*MAR:	eh , que dius , ou ?
+*MAR:	ara t' estic donant petit suisse , ara ou no toca , el ou a la nit t' ho donara la mama .
+*MAR:	te [= li dona una cullerada de petit suisse] .
+*CHI:	pcf [% "abubui"] .
+*MAR:	petit suisse si .
+*MAR:	xxx xxx no se l' hi xxx nada pero es petit suisse [% "pitiblui xxx no se l' hi xxx nada pero es petit suisse" , 'nada' es paraula castellana] .
+*MAR:	has vist el cotxe que se li encenen les llumetes [= assenyalant la revista] .
+*MAR:	veus potser aixi amb les llumetes tapades o te una porteta que fa xxx i surten les llumetes , veus [% la xxx es "chussii"] ?
+*MAR:	es un cotxe fantastic .
+*CHI:	pcf [% "um ummm"] .
+*MAR:	pcf [% "um um aum"] .
+*MAR:	0 .
+%act:	li dona un tros de pa
+*CHI:	pcf [% "aum"] .
+*MAR:	i aqui que hi ha , que es aixo ?
+*MAR:	un llapis , com el que et deixa la mama per guixar .
+*CHI:	no .
+*MAR:	si .
+*CHI:	no .
+*MAR:	no que ?
+*MAR:	mama et deixa segons quins , hi ha uns que no i altres que si , mira es aixi aixo d' arbitrari saps ?
+*MAR:	si , si la vida es molt dura .
+%com:	continuen passant fulls
+*CHI:	pcf [% "tata"] .
+*MAR:	que es aixo alvar , xxx la musiqueta .
+*MAR:	on som , eh ?
+*MAR:	s' han deixat tots el instruments aqui al cotxe .
+*CHI:	pcf [% "tate"] .
+*MAR:	mira , la bateria , fa pum@c pum@c pum@c pum@c pum@c pum@c [% "mira la bateria fa pom pon pom poporompompon"] .
+*MAR:	aqui el saxo , i aqui una guitarra , aqui un piano i otro piano .
+*MAR:	pcf [% "tururururu"] .
+*CHI:	pcf [% "asu"] .
+*MAR:	que , que hi ha aqui ?
+*MAR:	que es aixo ?
+*MAR:	les cabaretes , que no t' en recordes que hi havien unes cabaretes aqui .
+*CHI:	pcf [% "tullillo" , assenyalant cap en davant] .
+*MAR:	que .
+*CHI:	pcf [% "iaa"] .
+@Comment:	m li dona un petit suisse que hi ha sobre la taula , a mira la camera i comenca a moure's d' un costat a l' altre , somrient
+*MAR:	que es aixo alvar , mira els loros .
+*CHI:	0 .
+%act:	continua mirant al front i es toca una orella
+*MAR:	te pica l' orella , si ?
+*MAR:	que fa la carmen ?
+*MAR:	com una maquineta de fer fotos , com si fes clic@c clic@c pero mes rato .
+*MAR:	com l' avi pero mes , saps ?
+*CHI:	0 [= mira m i riu] .
+*CHI:	pcf [% "um" , assenyala cap a la seva esquerra] .
+*MAR:	que ?
+*CHI:	pcf [% "u u um"] .
+*MAR:	que m' ensenyes carinyo ?
+*CHI:	pcf [% "um"] .
+*MAR:	alla no n' hi ha res que em tinguis que ensenyar .
+*CHI:	pcf [% "um"] .
+*MAR:	si el foc si , si esta el foc ences , molt be .
+*MAR:	i els peixos , on es el peix , on hi ha un peix aqui ?
+*CHI:	0 [= assenyala] .
+*MAR:	aqui , molt be !
+*MAR:	i aqui , on es el peix ?
+*MAR:	on es el peix ?
+@Comment:	se sent al fons un so de sirena
+*CHI:	0 [= assenyala cap al soroll] .
+*MAR:	si una sirena si passa una sirena pel carrer .
+*CHI:	peix .
+*MAR:	aqui , aqui esta el peix mira .
+*CHI:	petit suisse [% "atasuis"] .
+*MAR:	que ?
+*CHI:	ja esta [% "tata"] .
+*MAR:	ja esta ?
+*MAR:	ja esta el petit suisse ?
+*MAR:	no , aquest no .
+*MAR:	aquell si que esta , aquell si .
+*MAR:	aquell si , ja esta molt be .
+*MAR:	i ara em d' obrir l' altre .
+*MAR:	dona'm .
+*MAR:	0 .
+%act:	agafa el petit suisse que a te a les mans
+*CHI:	pcf [% "aiello" , assenyala el petit suisse buit que hi es sobre la taula] .
+*MAR:	te , pero no t' embrutis els ditets si pot ser .
+*MAR:	ho deixem aqui ?
+*MAR:	0 .
+%act:	deixa el petit suisse sobre la taula
+*CHI:	0 .
+%act:	comenca a passar fulls de la revista
+*CHI:	pcf [% "ui"] .
+*MAR:	petit suisse , petit suisse .
+*CHI:	0 .
+%act:	agafa una vaqueta que te a sobre la taula
+*MAR:	oi , la vaca petita , que esta feta una porqueria que li falten dues patetes !
+*MAR:	que ja no s' aguanta .
+*CHI:	pcf [% "medea" , assenyala al seu davant , sobre la taula] .
+*MAR:	0 .
+%act:	li dona una capseta buida
+*CHI:	pcf [% "llellellle aillelle"] .
+*MAR:	0 .
+%act:	li dona el petit suisse buit
+*CHI:	pcf [% "aillella" , vol ficar la vaca dintre el petit suisse buit] .
+*MAR:	aqui em sembla que no es el millor lloc per posar la vaca petita .
+*MAR:	li donaras petit suisse a la vaca petita , dona'li una mica de petit suisse .
+*MAR:	te , dona'li una mica [= dona a a una cullerada] .
+*CHI:	0 .
+%act:	apropa la vaca a la cullera com si menges
+*CHI:	nyam@c nyam@c [% "miam miam"] .
+*MAR:	xxx com li agrada [% "um , com li agrada"] .
+*MAR:	te agafa tu la cullera .
+*CHI:	nyam@c nyam@c [% "miam miam"] .
+*MAR:	oi , petit suisse a la vaca , li agrada molt a la vaca tambe .
+*MAR:	te , dona'li tu , dona'li [= li deixa la cullera sobre la taula] .
+*CHI:	0 .
+%act:	agafa la cullera i intenta ficar'la dintre del petit suisse
+*CHI:	pcf [% "aia" , mira m] .
+*MAR:	dona'li , dona'li a la vaca la mica de petit suisse que queda .
+*CHI:	0 .
+%act:	agafa amb una ma la cullera i amb l' altra el petit suisse i el colpeja amb la cullera , riu
+*MAR:	ja esta , ja li has donat tot a la vaca , ja no vol mes la vaca , eh ?
+*MAR:	0 .
+%act:	agafa un tros de pa i se'l dona a a
+*MAR:	una mica de pa !
+*MAR:	has vist que t' he donat pa , t' has enterat ?
+*CHI:	0 .
+%act:	agafa la vaca i l' acosta al petit suisse
+*CHI:	pcf [% "ea"] .
+*MAR:	li dones de menjar petit suisse a la vaca ?
+*CHI:	nyam@c nyam@c [% "miam miam"] .
+*MAR:	uh , com menja la vaca !
+*MAR:	te molta gana la vaca , eh , tanta gana com l' alvar gairebe !
+*MAR:	uy , que ja s' acaba , que ja s' acaba !
+*CHI:	0petit suisse [% "uiss"] .
+*MAR:	el petit suisse que ja s' esta acabant .
+*MAR:	ja esta , ja esta , ja esta .
+*CHI:	pcf [% "am" , mentre es menja l' ultima cullerada] .
+*MAR:	molt be !
+*MAR:	una miqueta mes de pa , vols ?
+*CHI:	0 .
+%act:	allarga el brac mostrant el petit suisse buit
+*CHI:	0petit suisse [% "suiss"] .
+*MAR:	ja esta petit suisse , s' ha acabat , veus .
+*MAR:	tot se l' ha menjat alvar .
+*MAR:	0 .
+%act:	agafa un petit suisse buit i el fica al costat de l' altre , davant a
+*MAR:	ho posem aqui ?
+*CHI:	pcf [% "chi"] .
+*MAR:	que ?
+*CHI:	pcf [% "ialla" , assenyalant cap als petits suisse] .
+*MAR:	que ?
+*CHI:	pcf [% "um" , continua assenyalant] .
+*MAR:	que vols ara ?
+*CHI:	pcf [% "um" , assenyalant] .
+*MAR:	0 .
+%act:	dona a un petit suisse buit
+*CHI:	0 .
+%act:	agafa el petit suisse i mira l' interior
+*CHI:	ja esta [% "tata"] .
+*MAR:	ja esta , si s' acabat tot .
+*MAR:	tot , se l' ha menjat l' alvar , el petit suisse tot se l' ha menjat .
+*CHI:	0 [= es mira el dibuix que hi ha al pitet] .
+*CHI:	pcf [% "u u u" , assenyalant el dibuix] .
+*MAR:	un cavallet , si .
+*CHI:	0 .
+%act:	es mou com si trotes
+*MAR:	pcf [% "clacot clacot clacot"] .
+*CHI:	pcf [% "uum" , assenyalant el cavall] .
+*MAR:	un cavallet petitet , si .
+*MAR:	pcf [% "clacot clacot"] .
+*CHI:	pcf [% "u u u" , com si plores i agafant a pel brac] .
+*MAR:	que , ja esta , ja vols baixar ?
+*MAR:	vols que te tregui d' aqui la mama ?
+*CHI:	pcf [% "u u u"] .
+*MAR:	espera que traurem aixo , que sobra .
+*CHI:	0 [= estossega] .
+*MAR:	oi , quina tos !
+*MAR:	una mica d' aigueta ?
+*MAR:	0 .
+%act:	es dirigeix cap al safareig per portar un got d'aigua
+*CHI:	0 [= continua assegut] .
+*CHI:	pcf [% "u u u" , estirant'se del pitet] .
+*MAR:	espera , ara t' ho traure .
+*MAR:	0 .
+%act:	s' acosta amb l' aigua
+*CHI:	0 .
+%act:	retira el cap , assenyalant davant seu
+*CHI:	pcf [% "piaue"] .
+*MAR:	no vols aigua ?
+*CHI:	pa [= assenyalant el pa] .
+*MAR:	mes pa ?
+*CHI:	pcf [% "polloeia"] .
+*MAR:	0 .
+%act:	talla un tros
+*CHI:	pcf [% "voilleae"] .
+*MAR:	d' aquest no , d' aquest ?
+*MAR:	0 .
+%act:	agafa un bastonet i li dona una mossegada
+*MAR:	hale !
+*MAR:	com ens entenem , eh ?
+*MAR:	0 .
+%act:	li neteja la boca i li treu el pitet , despres amb el pitet li toca el nas
+*MAR:	pallasso !
+*CHI:	pcf [% "aaa" , s' acosta a m i riu] .
+*MAR:	0 .
+%act:	l' aixeca de la cadira i l' agafa en bracos
+*CHI:	0 [= riu i assenyala davant seu] .
+*MAR:	ja esta be de mirar alla !
+@Comment:	a esta dempeus dintre del bressol i m li dona un cotxe , a es posa a fer anar el cotxe per la barana del bressol
+*MAR:	que vols el camio o l' autobus amb els nens a dintre ?
+*CHI:	0 .
+%act:	tira el cotxe i observa l' autobus que m li ofereix
+*CHI:	pcf [% "ta la ala"] !
+*MAR:	hola !
+*CHI:	hola [% "ala" , sembla que ho vol dir] .
+*MAR:	hola !
+*CHI:	pcf [% "niela" , assenyalant l' interior de l'autobus] .
+*MAR:	els nens i les nenes i el gos .
+*MAR:	on es el gos de l' autobus ?
+*CHI:	esta aqui [% "ta ti" , mirant l' interior] .
+*MAR:	aqui esta , aqui no esta [% "aqui esta , tati no , tita"] .
+*CHI:	0 .
+%act:	es posa a jugar amb l' autobus com si l' estigues conduint
+*CHI:	xxx brrr@c xxx xxx xxx [% "chuschu , brummm tuc tuc tuc"] .
+*CHI:	brrr@c xxx [% "brumm , tala"] .
+*CHI:	pcf [% "nini nini" , agafant un passatger de l' autobus] .
+*MAR:	bebes .
+*CHI:	0 .
+%act:	deixa caure l' autobus a terra
+*MAR:	oi , que cauen ?
+@Comment:	canvia l' escena i ara a te un cotxe a les mans
+*CHI:	pcf [% "eillollolloeie a dada" , tocant el cotxe] .
+*MAR:	no la de darrera em sembla que no s' obre aqui en aquest cotxe , em sembla que no s' obre .
+*CHI:	pcf [% "eee" , intentant obrir la porta] .
+*MAR:	aquesta si .
+*MAR:	a veure , obre'la .
+*CHI:	pcf [% "eillollollo eie" , colpejant el cotxe amb el dit] .
+*CHI:	avi mami [% "avi , mami"] .
+*MAR:	l' avi i la mami , si , se semblen a l' avi i la mami amb el cotxe .
+*MAR:	avui no vindra l' avi i la mami tampoc , dema vindra , dema vindra i te traura un gelat [% diu "traura" com si existis el verb'traer' en catala , hauria de dir portara] .
+*CHI:	pcf [% "u u u" , mirant a m] .
+*MAR:	0 .
+%act:	comenca a parlar en frances , no esta transcrit
+*MAR:	millor que no li parli frances , que et fas un lio !
+*MAR:	el primer dia que ho vaig fer , que li vaig dir l' ho mateix que li diu l' avia s' em va quedar mirant amb una cara , pobre !
+*CHI:	0 .
+%act:	torna a intentar obrir la porta del cotxe
+*CHI:	pcf [% "agg i" , com si fes un esforc per obrir'la] .
+*CHI:	0 .
+%act:	dona el cotxe a m
+*CHI:	te xxx xxx [% "te ti ti" , donant'li el cotxe] .
+*MAR:	que ?
+*CHI:	pcf [% "aeo"] .
+*MAR:	que ?
+*CHI:	pcf [% "igg ig" , fent forca] .
+*MAR:	la porta , vols que obri la porta la mama ?
+*MAR:	0 .
+%act:	obre la porta del cotxe i li dona el cotxe
+*MAR:	aixi , ole !
+*MAR:	ara l' altra , tu obre l' altra .
+*CHI:	0 .
+%act:	intenta obrir'la
+*CHI:	pcf [% "tatiiig" , fent un esforc per obrir'la] .
+*MAR:	0 .
+%act:	l' ajuda
+*MAR:	0 .
+%act:	riu perque a ha aconseguit obrir la porta del cotxe
+*MAR:	ah , has vist !
+*CHI:	0 .
+%act:	tanca les portes
+*MAR:	molt be , ara obre'les , obre'les .
+*CHI:	pcf [% "deiaa llallallo" , assenyalant les llums del cotxe] .
+*MAR:	ara que fas !
+*MAR:	quin cotxe , tu !
+*MAR:	quin cotxe que ha portat la carme .
+*CHI:	0 [= mira m atentament] .
+*CHI:	pcf [% "aaaeia , eaoo ummm" , assenyalant m i ploriquejant per que l' agafi] .
+*MAR:	va seu una miqueta , juga una miqueta xxx .
+*CHI:	0 [=! ploriqueja] .
+*MAR:	si , va .
+*CHI:	pcf [% "aiaaa" , plorant] .
+@Comment:	canvi d' escena , ara es h qui parla amb a , pero no es veu que fan
+*HMA:	les portetes mira , mira .
+*CHI:	0 [=! continua plorant] .
+*HMA:	mira si tu ets un nen molt maco , que sempre juga molt be .
+*HMA:	ai , mira que posem a dintre , mira si li poso una coseta a dintre , corre .
+*HMA:	vols una altra joguina , vols que et doni una altra cosa [% diu "dongui" en comptes de doni"] .
+*HMA:	te , aguanta , aguanta el cotxe .
+*HMA:	no ?
+*CHI:	0 [= esta callat i de tant en tant ploriqueja] .
+*HMA:	mira quina nena .
+*HMA:	ho , mira , una nena .
+*HMA:	no la vols ?
+*CHI:	0 .
+%act:	agafa la nina
+*CHI:	nena [% "eena"] .
+*HMA:	es maca aquesta nena , oi ?
+*CHI:	0 .
+%act:	treu totes les joguines que te al bressol
+*HMA:	oi , quantes coses tens tu .
+*HMA:	quantes coses .
+*CHI:	0 .
+%act:	seu al bressol amb la nina a la ma
+*CHI:	pcf [% "diulli"] .
+*HMA:	a dormir la nena ?
+*HMA:	la poses a dormir ?
+*CHI:	0 .
+%act:	mira h i mou la nina de dalt a baix
+*HMA:	que et sembla , la poses a dormir ?
+*CHI:	0 .
+%act:	es queda mirant la nina i li toca els cabells
+*CHI:	pcf [% "sa" , agafant el cabell de la nina] .
+*HMA:	el cavall ?
+*CHI:	pcf [% "llelle" , mirant la nina] .
+*CHI:	0 .
+%act:	li dona un peto a la nina i es queda mirant h
+*HMA:	oi , dona'li petons , dona'li .
+*HMA:	digues maca , nena maca .
+*CHI:	0 .
+%act:	acaricia el cap de la nina
+*HMA:	que es maca la nena .
+*CHI:	0 .
+%act:	agafa un tractor que te al costat , sense deixar anar la nina amb l' altra ma
+*CHI:	tractor tractor [% "tator , tactor" , ensenyant'li a h] .
+*HMA:	el tractor .
+*CHI:	pcf [% "ei el" , dirigint el tractor a h] .
+*HMA:	es maco el tractor .
+*CHI:	0 .
+%act:	deixa el tractor a un costat i la nina a l' altre , dirigint la seva atencio a la nina que assenyala amb el dit
+*CHI:	pcf [% "aia"] .
+*CHI:	pcf [% "aitititi" , agafant la nina] .
+*HMA:	ai !
+*CHI:	pcf [% "ala"] .
+*HMA:	que fa aquesta nena ?
+*CHI:	0 [= no contesta] .
+%act:	agafa la nina i se l' acosta al pit
+*CHI:	pcf [% "iau"] .
+*CHI:	0 .
+%act:	deixa la nina i agafa un cotxe , es posa dempeus en el bressol i li ensenya el cotxe a h
+*HMA:	que es aixo ?
+*HMA:	m' ho dones ?
+*HMA:	0 .
+%act:	agafa el cotxe
+*CHI:	0 .
+%act:	assenyala cap a la seva esquerra
+*CHI:	tuttut@c [% "tutu" , assenyalant cap a la esquerra] .
+*HMA:	vols el cotxe , alvar ?
+*CHI:	pcf [% "tuitu" , assenyalant a l' esquerra] .
+*HMA:	que vols , tuttut@c ?
+@End

@@ -1,0 +1,548 @@
+@UTF8
+@PID:	11312/c-00028095-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , ROS rosa Nurse , MAR mare Mother , INV Investigator
+@ID:	cat|Serra|CHI|2;11.25||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan a l' habitacio , q dibuixa , g dona tombs
+*CHI:	a veure [% "a vere" , s' apropa a la camera] .
+*CHI:	jo vull mirar .
+*CHI:	jo vull mirar [% allarga el brac cap a la camera] .
+*INV:	vine .
+*CHI:	jo vull mirar .
+*INV:	vine al meu costat i miraras .
+*QUI:	aixi .
+*QUI:	mira mira com esta [% assenyala el sue dibuix] .
+@Comment:	tall a la cinta , suposo que g ja ha mirat , ara s'apropa a q
+*CHI:	a veure [% "a vere"] .
+*CHI:	soc pipi lanstrum [% "so pipi lantru" , canta] .
+*CHI:	xxx xxx xxx la maria rosa [% "xxx xxx xxx la maria iosa" , te com una camera de fer fotos i enfoca a r] .
+*ROS:	xxx xxx xxx la maria rosa [% "xxx xxx xxx la maria iosa" , repeteix] .
+*ROS:	em fas una foto ?
+*CHI:	clic@c [% fa veure que fa la foto] .
+*ROS:	oh !
+*ROS:	que he sortit guapa ?
+*CHI:	si [% "ti"] .
+*ROS:	xxx .
+*CHI:	i veus aquest [% "i sa veu aquest" , assenyala un boto del simulacre de camera] ?
+*ROS:	si .
+*CHI:	pues plic@c [% "pos plic@c"] .
+*ROS:	ah !
+*ROS:	es per fer plic@c .
+*CHI:	plic@c [% fa una altra foto] .
+*ROS:	ara els bracos .
+*CHI:	pic@c .
+@Comment:	q tarareja mentre va dibuixant
+*CHI:	ai [% li cau alguna cosa] !
+*INV:	ai ai ai !
+*ROS:	guillem , <dona'li aixo a la maria rosa> [>] , que si cau a terra +...
+*CHI:	<xxx xxx xxx> [<] .
+*CHI:	xxx xxx xxx [% agafa un cable] .
+*CHI:	s' endolla [% "a s' endoie" , fa intencio d' endollar'lo] .
+*ROS:	no , no es pot endollar .
+*ROS:	no es pot endollar .
+@Comment:	q va dibuixant i enraona tot sol
+*CHI:	tinc caca .
+*ROS:	corre anem .
+*ROS:	ara els pantalons , quim .
+*QUI:	<ara els hi fare> [>] .
+*CHI:	<xxx xxx> [<] .
+@Comment:	enraonen q i e mentre r i g son al lavabo
+*CHI:	ja estic .
+*CHI:	soc pipi lanstrum [% "soc pipi lantru" , canta] .
+*CHI:	soc pipi lanstrum [% "soc pipi lantru" , canta] .
+*CHI:	pipilota para los ninyos soy [% "pa los ninyos soy"] .
+*CHI:	pipi pipi lanstrum xxx xxx xxx yo [% "pipi pipi lantru xxx xxx xxx yo"] .
+*CHI:	ara jo [% a e] .
+*CHI:	vull mirar .
+@Comment:	tall a la cinta
+*CHI:	papa on es [% "papa on e"] ?
+*CHI:	papa on es [% "papa on e"] ?
+*CHI:	eh , jo vull [% a e] +...
+@Comment:	tall a la cinta , enraonen q i r , g no es veu pero deu esta jugant a cotxes perque se sent brrr@c
+*CHI:	brrr@c .
+*CHI:	brrr@c .
+*CHI:	xxx .
+%exp:	enraona sol pero no s' enten perque no esta enfocat
+*CHI:	0 .
+%act:	remena en un prestatge
+*CHI:	soy pipi lanstrum [% "soy pipi lantru" , canta] .
+*CHI:	pipilota para los ninyos soy [% "pa los ninyos soy"] .
+@Comment:	q va dibuixant sota les indicacions de r , g puja sobre la taula i s' estira mirant el que fan r i q
+*CHI:	0 [=! tarareja] .
+*CHI:	0 .
+%act:	baixa de la taula
+*INV:	tu no vols dibuixar guillem ?
+*CHI:	no .
+*INV:	com el quim .
+*CHI:	a veure [% "a vere" , allarga la ma cap a la camera] .
+@Comment:	tall a la cinta
+*CHI:	soy pipi lanstrum [% "lantru" , canta] .
+*CHI:	pipilota para los ninyos soy [% "pa los ninyos"] .
+*CHI:	pipi pipi lanstrum , pipilota para los ninyos [% "lantru , pa los ninyos"] +...
+*CHI:	0 [=! tarareja] .
+@Comment:	q i r enraonen mentre q dibuixa , g esta dret sobre el llit
+*INV:	eh , guillem !
+*CHI:	a veure , maria rosa [% "a vere" , a e] .
+*CHI:	puc mirar ?
+*CHI:	vull mirar .
+*CHI:	maria rosa .
+*CHI:	maria rosa , obre [% te una cartera a la ma] .
+*ROS:	no es pot obrir , guillem , aixo es de la maria rosa , les coses de col'legi no es toquen .
+*CHI:	no .
+*CHI:	obre [>] .
+*ROS:	<aixo es> [<] la cartera de la maria rosa y <xxx xxx xxx> [>] .
+*QUI:	<jo vull fer> [<] com el teu .
+*ROS:	pues com el meu es , mira , com el meu , mira .
+@Comment:	tall a la cinta
+*ROS:	d' aqui una estona , quan acabi el quim .
+*CHI:	0 [= fa que si amb el cap] .
+*ROS:	pero es que a mi em fa molt de mal la ma .
+@Comment:	tall a la cinta , g esta penjant un poster a la pared
+*ROS:	amb la olga l' obrireu ?
+*ROS:	el trencaras , guillem .
+*ROS:	vine que et poso el pantalo be [% "els pantalons"] .
+*CHI:	em donara un regal [% "me donara"] .
+*ROS:	qui et donara un regal ?
+*CHI:	0 .
+%act:	toca el poster amb el dit
+*ROS:	i com se diu ?
+*CHI:	xxx xxx [% sona com "a pauli"] .
+*ROS:	ah !
+*CHI:	0 [= tarareja mentre toca el poster] .
+*ROS:	i els reis tambe si et portes be , eh , et donaran un regal ?
+*CHI:	si .
+*ROS:	pero +/.
+*CHI:	<&ai> [/?] aixo que es [% assenyala en el poster] ?
+*ROS:	un trineu .
+*CHI:	trineu ?
+*CHI:	per menjar [% "pa menjar"] ?
+*ROS:	no .
+*ROS:	es com un cotxe pero <per quan> [/?] per quan hi hagi neu .
+*ROS:	perque els cotxes quan hi ha neu no funcionen i vas amb un trineu +/.
+*QUI:	i aqui dalt tambe un altre ?
+*ROS:	aqui fas una estrella .
+@Comment:	enraonen q i r , g va tocant el poster
+*CHI:	ja no veus ?
+*ROS:	el que no veig ?
+*CHI:	aixo [% assenyala en el poster] .
+%com:	es un poster amb peces mobils
+*ROS:	no , no veig les finestres , son tancades .
+*QUI:	no et portara joguines .
+*ROS:	quines joguines ?
+*QUI:	no se'n recordara si les tanca .
+*ROS:	es veritat .
+*ROS:	guillem , si tanques les finestres el papa noel no et portara joguines , eh .
+@Comment:	g ni cas , va putinejant el poster , enraonen q i r , g torna a la cartera d' abans
+*CHI:	per on obres [% "par abon"] ?
+*CHI:	per on obre [% "par abon"] ?
+*CHI:	eh , maria rosa .
+*ROS:	no es pot obrir guillem .
+*CHI:	per on [% "par abon"] ?
+*INV:	per dalt .
+*CHI:	per on [% "par bon"] ?
+*CHI:	per dalt ?
+*INV:	per aqui , si .
+*CHI:	per aqui [% "per qui" , putineja la cartera] ?
+*INV:	hum [% afirmatiu] !
+*CHI:	aqui .
+*CHI:	aqui ?
+*CHI:	jo no puc .
+*ROS:	doncs no ho toquis , no .
+*ROS:	no toquis que t' enganxaras els dits .
+*ROS:	vine que jugarem .
+*ROS:	a veure qui s' enfada , va .
+*ROS:	ens enfadem ?
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	0 .
+%act:	s' acosta a r i es fan un peto
+*ROS:	va , una +...
+*ROS:	espera't , eh [% li posa be el pantalo] .
+*ROS:	i no s' hi val riure , eh .
+*ROS:	qui rigui perd , i qui no rigui guanya , eh .
+*CHI:	una , dos i tres xxx [>] .
+*ROS:	aixeca [<] els bracos .
+*CHI:	i cinc .
+*ROS:	va , enfada't .
+@Comment:	creuen els bracos i es miren cara a cara
+*ROS:	no riguis , eh .
+*CHI:	0 [=! riu] .
+*ROS:	va , una , dos i tres .
+@Comment:	creuen els bracos i es miren cara a cara
+*CHI:	0 [=! riu] .
+*ROS:	no s' hi val , guanyo , eh , perque tu rius .
+*ROS:	no riguis .
+*ROS:	va , una , dos i tres .
+@Comment:	es miren fitxament i riuen
+*CHI:	no , tu no .
+*CHI:	tu no riguis [>] .
+*ROS:	has [<] guanyat tu , eh .
+*CHI:	tu no riguis .
+*CHI:	vale ?
+*ROS:	una , dos i tres .
+*CHI:	0 [=! riu] .
+*ROS:	0 [=! riu] .
+*CHI:	no , tu no .
+*ROS:	es que em fas riure .
+@Comment:	es tornen a posar en posicio i riuen
+*CHI:	no , tu no .
+*ROS:	em fas riure .
+*CHI:	vale , tu no .
+*ROS:	una , dos i tres .
+*CHI:	0 [= es queda mirant a r somrient] .
+*ROS:	no riguis , enfada't , enfada't .
+*ROS:	una , dos i tres .
+@Comment:	riuen , q s' ha cansat de dibuixar i s' aixeca de la cadira cridant , r fa fer la tombarella a g
+*INV:	que no feu el teatre ?
+*CHI:	xxx xxx .
+*CHI:	xxx xxx xxx .
+*ROS:	un coix [% comenca a cantar] +...
+*CHI:	encara no .
+*CHI:	xxx xxx .
+*QUI:	que no fem el teatre [% "treatre"] ?
+*ROS:	ara tu .
+@Comment:	juguen a enfadarse r i q
+*ROS:	una , dos i tres .
+*CHI:	una , dos i tres [% no surt en imatge , repeteix] .
+@Comment:	riuen
+*CHI:	i tres .
+*ROS:	un altre cop ?
+@Comment:	riuen
+*CHI:	eh , mira [% no es veu] .
+*QUI:	que no fem teatre [% "treatre" , a g] ?
+*ROS:	&te , &te , &te .
+%com:	corregeix el treatre de q
+*QUI:	&te , &te , &te , teatre .
+*ROS:	teatre .
+@Comment:	g esta sobre el capcal del llit , es llenca al llit amb un nino a l' espatlla
+*ROS:	ai , que es bestia !
+*QUI:	que no fem el teatre [% a g] ?
+*CHI:	es el meu amic [% es refereix al nino amb qui ha saltat] .
+*ROS:	i aquest es el meu amic .
+*ROS:	mira quin amic que tinc .
+*QUI:	i aquest es la meva amiga .
+@Comment:	s' abracen r i q
+*ROS:	es un amic .
+*ROS:	i aquest que es el meu amic [% assenyala g] ?
+*CHI:	no .
+*ROS:	tu no ets el meu amic ?
+*CHI:	si .
+*ROS:	ah !
+@Comment:	q va veure que ofega r
+*ROS:	salva'm guillem , salva'm , salva'm auxili , auxili , salva'm .
+*CHI:	xan@c [% es disposa a salvar r] !
+*ROS:	xan@c xanxaran@c !
+*CHI:	xan@c xanxaraxan@c !
+@Comment:	comencen a barallarse q i g , r els atura abans que vagi de debo
+*ROS:	ja esta , ja esta .
+*CHI:	aaag@c [% agonitza] !
+*ROS:	se ha morido@c .
+*ROS:	oh !
+*ROS:	que t' ha passat guillem ?
+*CHI:	0 .
+%act:	esta estirat a terra en plan de mort
+@Comment:	q li fa pessigolles i g riu
+*QUI:	que t' haig de xxx el cul .
+*QUI:	pim@c pim@c [% fa veure que dispara al cul de g] .
+*QUI:	que no fem el teatre [% "treatre"] ?
+@Comment:	g comenca a pegar q
+*ROS:	eh , eh !
+*QUI:	qui vol fer el teatre amb mi ?
+*ROS:	com es fa el teatre ?
+*ROS:	jo no se fer'lo .
+@Comment:	enraonen q i r , g te el nino als bracos
+*CHI:	sergi [% acarona el cap del nino] .
+*ROS:	ah , es el sergi , es veritat .
+*ROS:	que esta malalt el sergi ?
+*CHI:	si .
+*ROS:	que li passa ?
+*CHI:	que [/?] que te mal a la boca .
+*CHI:	<que l' ha fen> [/?] que li ha fet mal <un nen> [/?] un nen molt dolent <de de> [/?] de <a a> [/?] a quim [% "que l' ha fet mal" , assenyala a q] +...
+*ROS:	al quim li ha fet mal a l' escola un nen molt dolent ?
+*CHI:	0 [= fa que si amb el cap] .
+*ROS:	i qui ha sigut ?
+*ROS:	com es diu aquest nen ?
+*CHI:	sergi .
+*ROS:	sergi que ?
+*CHI:	sergi xxx [>] .
+*QUI:	sergi [<] planas ?
+*ROS:	sergi que ?
+*CHI:	sergi planas .
+*ROS:	sergi planas ?
+*CHI:	si .
+*ROS:	li farem un ull al sergi planas .
+*CHI:	eh que et dius sergi planas [% "eh que diu" , li demana al nino] ?
+*CHI:	0 [= ell mateix es contesta que si amb el cap] .
+*ROS:	a veure , me'l deixes veure , pobre , eh ?
+*ROS:	a veure +/.
+*CHI:	te , agafa'la [% li dona el nino a r] .
+*ROS:	oi !
+*ROS:	<si , &escol llavors> [/?] on s' ha fet mal ?
+*CHI:	0 [= assenyala la boca del nino] .
+*ROS:	vigila , que mossega !
+*CHI:	0 .
+%act:	treu el dit
+*ROS:	quin susto , eh ?
+*CHI:	no .
+*CHI:	li [/?] li ha fet mal a la boca .
+*ROS:	a veure , posa el dit .
+*CHI:	0 .
+%act:	ho fa
+*ROS:	que et mossega !
+*ROS:	quin susto , eh ?
+*CHI:	0 .
+%act:	torna a posar el dit
+*ROS:	que et mossega !
+*ROS:	osti , noi !
+*CHI:	0 .
+%act:	torna a posar el dit
+*ROS:	vigila , eh , que no et mossegui , eh .
+*ROS:	ai [% fa veure que el nino mossega a g] !
+*CHI:	0 .
+%act:	treu el dit i riu
+*CHI:	xxx que es el meu amic .
+*ROS:	bueno , i el meu tambe .
+@Comment:	enraonen q i r , g tarareja mentre dona tombs amb el nino a l' espatlla
+*CHI:	eh [% intenta cridar l' atencio de r] !
+*CHI:	eh !
+*CHI:	on es el seu llit [% "abon es" , es refereix al llit del sergi] ?
+*ROS:	no ho se .
+@Comment:	enraonen q i r
+*ROS:	a veure , on es el llit aquest .
+*ROS:	mira , aixo pot ser el seu llit [% atansa una cadira] .
+*CHI:	si , aquest .
+*ROS:	perque pobre sergi , eh , s' ha fet mal .
+@Comment:	q toca el piano , g va a buscar una altra cadira
+*QUI:	mira .
+*CHI:	0 .
+%act:	deixa la cadira i es posa a tocar el piano
+*QUI:	0 .
+%act:	va a agafar la cadira
+*CHI:	no , que ara no .
+*CHI:	que [/?] que aquest aixi [% col'loca la cadira al costat de l' altra , s' hi asseu i es posa el nino a la falda] .
+*CHI:	mira que em fa [% fa creuar les cames al nino] .
+*CHI:	mira que em fa .
+*ROS:	que li passa ?
+*ROS:	te mal a la boca , eh que si ?
+*ROS:	perque un nen li ha fet mal , oi ?
+*CHI:	pobre .
+*ROS:	pobre .
+*ROS:	pobre nino , eh ?
+*CHI:	<no se> [/?] no es <&pro> [/?] pobre [% "nos a probre"] .
+*ROS:	mes val que el portis al metge perque l' ha de veure .
+*ROS:	quina llastima , oi noi ?
+*CHI:	0 [= fa que si amb el cap] .
+*ROS:	a aquest nen li farem un ull , eh ?
+*ROS:	perque no li pot fer al sergi .
+*CHI:	ai , que cau [% "que sa cau"] !
+*ROS:	doncs mulla'l .
+*CHI:	a dins a l' aigua [% "a din a l' aigua"] .
+*CHI:	eh !
+*CHI:	<&a> [/?] aqui [% va cap a m amb el nino] .
+*CHI:	xxx [% puja al llit on esta asseguda m] .
+*CHI:	xxx .
+*CHI:	eh , vols dormir amb [/?] amb +...
+*MAR:	amb la mare ?
+*CHI:	0 .
+%act:	fa que si amb el cap i li dona el nino
+*MAR:	vale [% bressola al sergi] ?
+*MAR:	tu tambe ?
+*CHI:	0 .
+%act:	s' apropa a m i agafa el nino
+*MAR:	potser que li donguis un xerop , eh , que te tos .
+*CHI:	0 .
+%act:	fa veure que estossega
+*CHI:	si , te tos .
+*MAR:	jo l' aguanto , va , dona'li xerop .
+*MAR:	0 .
+%act:	fa veure que estossega
+*MAR:	mira quina tos que te .
+*CHI:	te el xerop [% li dona] .
+*CHI:	shhh@c [% omple altra vegada la cullera] .
+*CHI:	te [% li dona] .
+*MAR:	ara una aspirina , te una mica de febre .
+*CHI:	0 .
+%act:	li dona l' aspirina
+*MAR:	vull mes , vull mes [% amb veu de sergi] .
+*CHI:	0 .
+%act:	li dona una altra aspirina
+*CHI:	vols mes ?
+*MAR:	prou , eh , ara sergi , que et faria mal , prou .
+*CHI:	0 .
+%act:	abraca al sergi
+*MAR:	ai , com te l' estimes , eh , al sergi .
+@Comment:	enraonen q i r
+*QUI:	quiero panadons .
+*QUI:	tireu panadons .
+*CHI:	panadons [% repeteix mentre s' aixeca per anar a buscar un altre nino] .
+@Comment:	q i r juguen per la seva banda
+*CHI:	te .
+*CHI:	te [% dona un nino a m] .
+*MAR:	gracies , em dones el pallasso .
+*CHI:	<que vol> [/?] que vol una aspirina [% "apirina"] ?
+*CHI:	0 [= ell mateix es contesta que si amb el cap] .
+*MAR:	0 .
+%act:	fa estossegar al pallasso
+*CHI:	0 .
+%act:	dona una aspirina al pallasso
+*CHI:	te .
+*CHI:	mes ?
+*CHI:	prou ?
+*CHI:	prou ?
+*MAR:	prou , prou , digues'li , prou [% "diga'li"] .
+*MAR:	no pot ser mes , no pot ser .
+*CHI:	ja no n' hi ha mes .
+*CHI:	ja no n' hi ha [% obre el bracos] .
+*CHI:	mira , veus , no n' hi ha .
+*MAR:	s' ha acabat .
+*MAR:	un altre dia .
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	com [/?] quan vingui [% "com vingui"] +...
+*CHI:	0 .
+%act:	abraca al nino
+*CHI:	eh , xxx xxx .
+*CHI:	te [% dona el sergi a m] .
+*MAR:	dos nens .
+*MAR:	ja torno a tenir dos nens .
+@Comment:	g arreplega un tros de roba que hi ha per terra
+*ROS:	es un vestit , guillem , pero no et va be a tu .
+*CHI:	no va be .
+@Comment:	tall , g te el tros de roba ficat al cap
+*CHI:	ah [% suposo que intenta fer por] !
+*CHI:	ah !
+*CHI:	uah !
+*ROS:	ah , quina por !
+*CHI:	uah !
+*CHI:	0 .
+%act:	agafa els ninos de m
+*CHI:	esteu quiets .
+*ROS:	on vas guillem ?
+@Comment:	enraonen r i m , enraona q
+*CHI:	eh , me [/?] em poses [% "me poses"] +...
+*CHI:	te , que fara mal [% dona un nino a m] .
+*CHI:	te , que te fara mal .
+@Comment:	enraonen q i r , r tapa un ull a q com si fos un pirata
+*QUI:	soy un pirata .
+*CHI:	pirata [% "pirota"] .
+*QUI:	0 .
+%act:	puja a g a coll tot grunyint com un pirata
+*CHI:	0 [=! tarareja] .
+@Comment:	r tapa un ull a g
+*CHI:	aixo que es ?
+*MAR:	aixo es per tapar l' ull del pirata .
+*CHI:	0 [=! tarareja] .
+*ROS:	mira , aquest es mes gros [% es refereix a un altre tros de roba] .
+*CHI:	aixo [% es treu la roba que li tapa l' ull] .
+*ROS:	espera't .
+*CHI:	aquest es a xxx .
+*QUI:	jo vull el del guillem .
+*CHI:	no !
+*ROS:	pero si no va be , mira , en tinc que fer un altre .
+*ROS:	0 [=! tarareja] .
+*CHI:	0 [=! tarareja , repeteix] .
+*QUI:	soy pirata , el bandido .
+*CHI:	<a a> [/?] a aquest [/?] sergi no li facis mal .
+*CHI:	vale ?
+*QUI:	calla que fare mal al sergi [% agafa al sergi per una cama] .
+*CHI:	ai !
+*ROS:	dona'li .
+*QUI:	0 .
+%act:	li torna el nino
+*ROS:	te'l tapo l' ull , guillem ?
+*ROS:	que te'l tapo l' ull ?
+*ROS:	no ?
+*ROS:	li tapem al sergi ?
+*CHI:	si .
+@Comment:	enraonen q i m
+*CHI:	piu@c [% fa disparar al sergi que ara va de pirata] !
+*CHI:	0 [=! tarareja] .
+*QUI:	0 .
+%act:	estira la cama del sergi
+*CHI:	eh !
+*ROS:	quim .
+*ROS:	aquest es el seu nino .
+*CHI:	aquest es el meu nino .
+*CHI:	0 [=! tarareja] .
+@Comment:	comencen a llencar roba enlaire
+*CHI:	te [% dona un tros de roba a r] .
+@Comment:	la cinta fa un salt
+*ROS:	xxx xxx aixo ?
+*CHI:	si .
+*ROS:	mira , el cabells , uns cabells pel guillem , mira que farem +/.
+*CHI:	no , es de la mare .
+*CHI:	te [% li dona a m] .
+*MAR:	gracies .
+*ROS:	ah , bueno .
+*QUI:	enviare una carta [% llenca roba enlaire] .
+*CHI:	enviare una carta [% repeteix] .
+*QUI:	xxx una carta .
+*CHI:	te , maria rosa [% "te , maria iosa" , li dona una peca de roba] .
+*ROS:	moltes gracies guillem .
+*CHI:	te [% li dona una altra peca] .
+*ROS:	gracies .
+*ROS:	mira , et faig una cua [% li vol fer amb la peca de roba que g li acaba de donar] .
+*CHI:	no !
+*ROS:	et faig una cua ?
+*CHI:	es per tu [% "e para tu"] .
+*ROS:	bueno , pero aixo es per fer una una .
+*CHI:	te .
+*ROS:	mira , aixi [% es fa una cua] .
+*ROS:	te'n faig una ?
+*CHI:	tu et fas una cua amb aixo [% "tu a fas una cua"] .
+*ROS:	ja la tinc una cua .
+*CHI:	te [% li dona un tros de roba a m] .
+*MAR:	gracies xato .
+*CHI:	es per fer una cua [% "e pa fer una cua"] .
+*MAR:	vale [% es posa el tros de roba al cap] .
+*CHI:	si , es la cua .
+*ROS:	i tu , que te la faig la cua com la meva ?
+*ROS:	et faig la cua ?
+*QUI:	0 .
+%act:	salta sobre g
+*CHI:	eh !
+*CHI:	encara no .
+*CHI:	0 [=! tarareja] .
+@Comment:	juguen q , r i g
+*CHI:	les cartes [% agafa alguna cosa de terra , sembla un tros de carto amb mostres de roba enganxades] .
+*CHI:	te , uno .
+*CHI:	te , una carta .
+*CHI:	te [% li dona una a q] .
+*MAR:	ah , clar !
+*MAR:	les cartes del filiprim .
+*CHI:	te , la carta del filiprim .
+*CHI:	la carta del filiprim .
+*CHI:	te la , pepe .
+*QUI:	jo vull ser un pirata .
+*CHI:	te .
+*QUI:	vull ser un pirata [% gemega] .
+*CHI:	te .
+*QUI:	jo vull ser un pirata .
+*CHI:	te , mare [% li dona a m] .
+*MAR:	gracies .
+@Comment:	q va gemegant tot dient que vol ser un pirata , g llenca peces de roba enlaire
+*CHI:	te , en paus [% "te , ma paus" , manipula un tros de roba aprop de m] .
+*CHI:	perque no te'n xxx [>] .
+*INV:	aixo [<] potser [% a q que esta buscant un tros de roba , suposo que per posar'se'l a l' ull] .
+*MAR:	no arribara .
+*CHI:	no arribara [% "no ribara"] ?
+*CHI:	<faig aixi i xxx xxx> [>] .
+*QUI:	<lligat aqui i xxx> [<] .
+@Comment:	enraonen q i e , g va posant peces de roba sobre el llit
+*QUI:	vull que em facis una cua , mare [% cridant] .
+*MAR:	a mi no em cridis d' aquesta manera o no faig res .
+*CHI:	calla [% "talla" , tot donant'li una empenta a q] !
+*CHI:	xxx !
+@Comment:	tall a la cinta , g te posat a la ma un jersei de nino
+*INV:	que ets guillem ?
+*CHI:	soc un titella [% cantant] .
+*CHI:	soc un titella .
+*CHI:	soc un titella .
+@Comment:	enraonen q i m , g es posa una paperera al cap i surt de l' habitacio cridant
+*CHI:	olga [% la crida] .
+*CHI:	olga [% la crida] .
+*CHI:	olga [% la crida] .
+@End

@@ -1,0 +1,118 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MIR Mireia Sister, NUR Núria
+	Babysitter, MOT Mother
+@ID:	cat|change_me_later|EVA|2;4.10||||Target_Child|||
+@ID:	cat|change_me_later|MIR|||||Sister|||
+@ID:	cat|change_me_later|NUR|||||Babysitter|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	01-APR-1998
+@Location:	toy room
+@Activities:	looking at books
+@Comment:	MOT is video-taping
+*EVA:	0.
+%act:	throws a ball to NUR
+*NUR:	apa@i (.) que la tires!
+*EVA:	és meva (.) eh?
+*NUR:	qui ho diu que és teva?
+@New Episode
+*MIR:	www.
+*EVA:	0.
+%act:	opens a book
+*MIR:	quin és?
+*MIR:	el del Jordi (.) es diu Jordi aquest nen.
+%act:	points to the main character of the book
+*NUR:	sí (.) ens el mirem (.) Eva?
+*MIR:	no el vull mirar jo.
+*NUR:	doncs ves a mirar el video.
+*EVA:	xxx.
+%act:	turns the pages very quickly.
+*NUR:	què és el que busques?
+*EVA:	xxx.
+*NUR:	va mira't'ho amb calma (.) mirem's'el bé (.) des del començament
+	(.) a veure què passa.
+%act:	opens the book to the first page
+*NUR:	què passa?
+*EVA:	la mare xxx.
+%act:	points to a picture
+*NUR:	i què fa (.) què fa?
+*EVA:	mirant el Jordi.
+*EVA:	això què és?
+%act:	points to a picture
+*EVA:	mira una xxx.
+*NUR:	eh?
+*EVA:	0.
+%act:	nods
+*NUR:	passem plana.
+%act:	turns page
+*NUR:	què passa ra (.) què passa aquí (.) què passa aquí (.) què passa en
+	aquesta vinyeta?
+*EVA:	no tinc bambes.
+%act:	shows her bare feet to NUR
+*NUR:	és veritat.
+%act:	que són mitjonets de plàstic?
+*EVA:	0.
+%act:	shakes her head
+*NUR:	0.
+%act:	turns page
+*EVA:	el llit.
+%act:	points to a picture
+*EVA:	les sabatilles.
+%act:	turns page
+*EVA:	el gos (.) mossega això.
+*NUR:	ah sí (.) i per què això?
+*EVA:	per què mossega el gos.
+*EVA:	és dolent.
+*NUR:	és dolent el gos?
+*EVA:	0.
+%act:	nods
+*NUR:	què són totes aquestes coses tan rares?
+*EVA:	el pare i la mare.
+%act:	turns page
+*NUR:	que és un forn això (.) no és un forn?
+*EVA:	mira.
+%act:	turns page
+*EVA:	mira que fa el Jordi.
+*EVA:	un altre paquet.
+*MOT:	un altre paquet?
+*EVA:	mira això està trencat.
+%act:	shows a torn page to NUR
+*NUR:	oh@i (.) i tant!
+*EVA:	aquí hi ha un xxx i un mussol.
+*EVA:	ja s'ha acabat.
+%act:	closes the book
+*EVA:	ara un altre.
+%act:	stands up and fetches another book
+*NUR:	un altre tres doncs vinga.
+*EVA:	0.
+%act:	throws a book on the floor
+*EVA:	xxx.
+*NUR:	vina (.) vina (.) seu.
+*EVA:	0.
+%act:	sits down and opens the book
+*EVA:	mira aquest.
+%act:	points to picture
+*EVA:	mira aquest aquí.
+*NUR:	són molts animals (.) no?
+*EVA:	molts animals.
+*EVA:	mira això!
+*NUR:	què es això.
+*EVA:	un ocell petitó.
+*EVA:	mira vaques (.) vaques (.) vaques.
+*EVA:	què és això?
+*NUR:	això?
+*EVA:	un vaca.
+*EVA:	mira mama.
+*EVA:	ja han sortit.
+*NUR:	el què ja han sortit?
+*EVA:	han sortit.
+*EVA:	jo tinc butxaques.
+%act:	touches her trousers
+*NUR:	jo no en tinc ni una.
+*EVA:	per què?
+*NUR:	per què no n'hi ha.
+%act:	shows her trousers to EVA
+*EVA:	a veure.
+*NUR:	ens el mirem bé (.) per la primera plana?
+@End

@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	EVA Eva Target_Child, MOT Mother
+@ID:	cat|change_me_later|EVA|2;5.||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	02-MAY-1998
+@Location:	toy room
+@Activities:	playing with toys
+@Comment:	MOT is video-taping
+*MOT:	on t'està la teva tortuga?
+*EVA:	aquí.
+*MOT:	a veure (.) ensenya'me la.
+*EVA:	0.
+%act:	shows toy toreoise to MOT
+*MOT:	i què més hi ha?
+*EVA:	això.
+*MOT:	i què és això?
+*EVA:	mira.
+*MOT:	què?
+*EVA:	és un biberó per la tortuga.
+%act:	picks up a baby bottle
+*MOT:	ah sí (.) això és un biberó per la tortuga?
+*EVA:	no!
+%act:	pretends she is drinking from the baby bottle
+*EVA:	fa sorollet la tortuga.
+%act:	pulls the string attached to the toy tortoise and it makes a noise
+*MOT:	què (.) què?
+@End

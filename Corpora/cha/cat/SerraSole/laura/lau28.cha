@@ -1,0 +1,515 @@
+@UTF8
+@PID:	11312/c-00028111-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Laura Target_Child , IMM imma Sister , GNA gna Nurse , INV examinador Investigator
+@ID:	cat|Serra|CHI|2;4.11||||Target_Child|||
+@ID:	cat|Serra|IMM|||||Sister|||
+@ID:	cat|Serra|GNA|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	l i I estan assegudes al sofa mirant un conte
+*CHI:	llit .
+*CHI:	a llit [= surt corrent de l' habitacio] .
+*IMM:	laura vine .
+*IMM:	juguem .
+*IMM:	laura mira [/?] mira guaita [= li dona una joguina] .
+*IMM:	espera [/?] espera , que hi ha aqui ?
+*CHI:	una casa .
+*IMM:	veus [/?] veus ?
+*CHI:	ui !
+*IMM:	que fa el gos ?
+*CHI:	bau@c bau@c .
+*IMM:	treu la cama laura !
+*IMM:	veus aquest !
+*CHI:	aqui [= esta montant un trencaclosques] .
+*CHI:	aqui , aqui .
+*CHI:	va aqui ?
+*IMM:	no !
+*IMM:	aqui no .
+*IMM:	on va ?
+*CHI:	aqui ?
+*IMM:	no .
+*CHI:	aqui ?
+*IMM:	si .
+*IMM:	que es aixo ?
+*CHI:	<a bus> [/?] un bus .
+*IMM:	i aixo ?
+*CHI:	nuvol .
+*IMM:	i aixo ?
+*CHI:	arbre [% "abre"] .
+*IMM:	i aixo ?
+*CHI:	casa .
+*IMM:	i aixo ?
+*CHI:	casa .
+*IMM:	i aixo ?
+*IMM:	<que es aixo> [/?] que es aixo ?
+*IMM:	va laura que es [/?] es [>] ?
+*CHI:	mei [/?] vermell [<] [% "mei"] .
+*IMM:	un cotxe ?
+*CHI:	si .
+*IMM:	laura espera't un moment .
+*IMM:	<queda't aqui> [/?] queda't aqui laura .
+*CHI:	0 .
+%act:	marxa corrent i torna
+*IMM:	que es [= ensenya a l peces de diferents colors] ?
+*CHI:	xxx .
+*IMM:	groc .
+*IMM:	que es ?
+*CHI:	vermell [% "mei"] .
+*IMM:	i aquest ?
+*CHI:	xxx .
+*CHI:	lila .
+*IMM:	i aquest ?
+*CHI:	verd .
+*IMM:	i aquest ?
+*CHI:	groc .
+*IMM:	i aquest ?
+*CHI:	blau .
+*IMM:	i aquest ?
+*CHI:	vermell [% "mei"] .
+*IMM:	no !
+*CHI:	taronja [% "tonja"] .
+*CHI:	aquest vermell [% "aquest mei"] .
+*IMM:	i aquest ?
+*CHI:	aquest groc .
+*IMM:	i aquest ?
+*CHI:	blau .
+*IMM:	i aquest ?
+*CHI:	taronja [% "gonja"] .
+*IMM:	ara tu laura , dona'me'n un de vermell , dona'me'n un de vermell .
+*CHI:	te [= li dona una peca] .
+*IMM:	no .
+*IMM:	el vermell .
+*CHI:	aqui [= assenyala una peca] .
+*CHI:	aqui [% "qui"] !
+*IMM:	ara un blau .
+*CHI:	blau ?
+*CHI:	<a blau> [>] .
+*IMM:	ara [<] (.) ara un [/?] un verd .
+*CHI:	aqui , aqui [% "qui , qui" , assenyala una peca] .
+*IMM:	ara un taronja .
+*IMM:	no .
+*IMM:	un taronja no un lila .
+*CHI:	no hi ha [= no troba cap peca taronja] .
+*CHI:	aqui !
+*IMM:	ara un taronja .
+*CHI:	aqui vermell aqui [% "aqui mei qui"] ?
+*IMM:	si .
+*CHI:	un groc [% "an goc"] .
+*IMM:	ara un blau .
+*CHI:	blau ?
+*IMM:	blau .
+*CHI:	te , te .
+*IMM:	ara un vermell [% "ara un mei"] .
+*CHI:	vermell [% "mei"] ?
+*CHI:	te , vermell aqui [% "te , mei qui"] .
+*IMM:	ara un groc .
+*CHI:	groc [% "goc"] .
+*IMM:	ara un taronja .
+*CHI:	aqui [% "qui" , assenyala la peca] .
+*IMM:	ara un groc .
+*CHI:	aqui [% "qui"] .
+*IMM:	ara un groc .
+@Comment:	treuen joguines d' un cistell , l agafa un cavall
+*CHI:	cavall , cavall [% "vai , vai"] !
+*IMM:	que fa el cavall ?
+*CHI:	va@c va@c va@c !
+*IMM:	i el gos ?
+*CHI:	bup@c bup@c !
+*IMM:	que es aixo ?
+*CHI:	gat .
+*IMM:	que fa el gat ?
+*CHI:	miau@c !
+*IMM:	que es aixo ?
+*CHI:	xxx .
+*IMM:	i que fa l' anec ?
+*CHI:	cuac@c cuac@c !
+*IMM:	i aixo que es ?
+*CHI:	xxx [% "mimu"] .
+*IMM:	que es aixo , que es aixo ?
+*CHI:	anec [% "ane"] .
+*IMM:	una gallina .
+*IMM:	que fa la gallina ?
+*CHI:	quiii@c !
+*IMM:	no .
+*IMM:	la gallina .
+*CHI:	cococo@c !
+*IMM:	i que fa el gall ?
+*CHI:	quiii@c !
+*CHI:	xxx .
+*IMM:	mira quin gos .
+*IMM:	que es aixo ?
+*IMM:	que fa aixo ?
+*CHI:	gos .
+*IMM:	que fa el gos ?
+*CHI:	bup@c bup@c !
+*IMM:	<i a veure> [/?] a veure (.) i <que fa> [/?] a vegades el gos que fa ?
+*CHI:	muuu@c !
+*IMM:	i que fa la vaca ?
+*CHI:	vaca muuu@c !
+*IMM:	no .
+*IMM:	la vaca .
+*CHI:	beee@c !
+*IMM:	no .
+*IMM:	la vaca .
+*CHI:	<beee@c> [>] !
+*IMM:	<muuu@c> [<] !
+*CHI:	muuu@c !
+*IMM:	muu@c , molt be !
+*IMM:	0 .
+%act:	remena la caixa de joguines
+*IMM:	aixo es un be .
+*IMM:	que fa el be ?
+*CHI:	be ?
+*IMM:	el be que fa ?
+*CHI:	beee@c !
+*IMM:	i el ruc ?
+*CHI:	ah@c !
+*IMM:	i el porc ?
+*IMM:	0 [= imita el so del porc] .
+*IMM:	saps que laura , saps que ?
+*IMM:	tinc un ruc que fa beee@c .
+*IMM:	que fa bee@c ?
+*CHI:	si .
+*IMM:	saps laura <saps que el ruc> [/?] saps que fa el ruc ?
+*IMM:	fa beee@c !
+*IMM:	que fa el ruc ?
+*CHI:	si .
+*IMM:	no .
+*CHI:	0 [= fa el so del ruc] .
+*IMM:	ara !
+*IMM:	saps que , saps que , tinc un gat que fa quiquiriqui@c ?
+*CHI:	si .
+*CHI:	quic@c !
+*IMM:	que fa quiquiriqui@c el gat ?
+*CHI:	si .
+*IMM:	no .
+*CHI:	miau@c !
+*IMM:	ara !
+*CHI:	ai !
+@Comment:	juguen a llencar coses
+*IMM:	va laura [= li tira un cotxe] !
+*CHI:	<a cotxe> [/?] un cotxe [% "a cotxe"] .
+*IMM:	laura mira en popeye .
+*IMM:	mira , que vols que fem una cosa ?
+*IMM:	guaita [= llenca una joguina] !
+*CHI:	0 [=! riu] .
+*IMM:	a veure , a veure [= remena les joguines] .
+*IMM:	que es aquesta gallina ?
+*IMM:	que fa aquesta gallina ?
+*IMM:	<a veure> [/?] a veure , a veure si balla .
+*IMM:	ui !
+*IMM:	laura mira el gos aqui .
+*IMM:	ara [/?] la gallina xxx ara .
+*IMM:	laura , saps on esta xxx ?
+*CHI:	si !
+@Comment:	han carregat els animals en un carreto i I l'estira , passegen totes dues pel menjador
+*IMM:	mira laura .
+*CHI:	0 [=! riu] .
+*CHI:	eh !
+*IMM:	vols veure una cosa laura ?
+*IMM:	vine .
+@Comment:	posen les joguines dins una capsa de cartro
+*CHI:	deixa les coses , deixa les coses !
+@Comment:	simulen una lluita d' espases
+*IMM:	vols que fem la barca ?
+*CHI:	si .
+*IMM:	posa't aqui .
+*IMM:	doncs posa't' hi [= fa posar a l dins la capsa , l 'asseu i li dona un rem per a cada ma] .
+*IMM:	ara amb una ma aquest i amb una ma aquest i ara fem aixi [= ajuda a l a remar] .
+*IMM:	vinga , va , fes'ho tu .
+*IMM:	quina barca !
+*IMM:	oi !
+@Comment:	miren un conte
+*IMM:	riu , plora <que fa> [/?] aquest que fa ?
+*CHI:	xxx .
+*IMM:	no .
+*IMM:	aqui riu .
+*CHI:	riu .
+*IMM:	aqui plora .
+*IMM:	son amics .
+*IMM:	fa adeu .
+*IMM:	mira els petits !
+*CHI:	caca .
+*IMM:	caca jo !
+*CHI:	0 .
+%act:	se'n va i torna
+*IMM:	i <el joan> [/?] que va anar amb un avio el joan ?
+*CHI:	si .
+*IMM:	si eh !
+*IMM:	i que feia l' avio ?
+*CHI:	0 [= fa el soroll de l' avio] .
+*CHI:	<xxx xxx xxx> [>] .
+*IMM:	<xxx xxx xxx> [<] .
+*CHI:	cotxe xxx .
+*IMM:	ui !
+*IMM:	mira , en teo fa vacances .
+*IMM:	que es aixo ?
+*CHI:	xxx .
+*IMM:	que es ?
+*CHI:	si .
+*IMM:	que es un gos ?
+*CHI:	si .
+*IMM:	i aixo +/.
+*CHI:	un gos aqui .
+*IMM:	un gos .
+*IMM:	i aquest <que es> [/?] que es aixo ?
+*CHI:	nen !
+*IMM:	un nen !
+*IMM:	com es ?
+*IMM:	gran o petit ?
+*CHI:	gran .
+*IMM:	no es gran , es petit .
+*CHI:	petit ?
+*IMM:	mira quin avio .
+*CHI:	ui !
+*IMM:	ui , l' avio fa pssst@c !
+*IMM:	aixo que es ?
+*CHI:	cotxe .
+*IMM:	un cotxe .
+*IMM:	i aixo ?
+*CHI:	pcf [% "baba"] .
+*IMM:	que es un altre gos ?
+*CHI:	gos .
+*IMM:	mira que te .
+*IMM:	una pilota .
+*CHI:	aquest ?
+*IMM:	mira , veus , uns nens .
+*IMM:	mira el llit .
+*IMM:	aqui [= va assenyalant els dibuixos del conte] .
+*CHI:	aqui [% "qui"] ?
+*IMM:	mira , veus , <un nen> [/?] un nen que fa un castell .
+*CHI:	a cotxe .
+*INV:	que es el teu cotxe ?
+*CHI:	si .
+*IMM:	mira , ja esta .
+*CHI:	ui , ha caigut [% "ui , ha taigut"] !
+*IMM:	si , si , si , si !
+*IMM:	ui !
+*IMM:	tens mocs .
+*IMM:	vine a treure mocs .
+@Comment:	estan totes dues a l' habitacio i per la finestra que dona al balco apareix g que neteja
+*CHI:	hola !
+*GNA:	hola !
+*GNA:	que tal ?
+*GNA:	hola guapa !
+*CHI:	guaita .
+*GNA:	hola xxx !
+*CHI:	guaita cotxe .
+*GNA:	oh , quin cotxe !
+*GNA:	de qui es ?
+*CHI:	de la mama [% "a mama"] .
+*GNA:	de la laura ?
+*CHI:	si .
+*GNA:	que me'l dona la laura ?
+*CHI:	no .
+*GNA:	no ?
+*GNA:	per que ?
+*CHI:	es meu [% "a meu"] .
+*GNA:	xxx .
+*CHI:	te .
+*GNA:	me'l dones ?
+*CHI:	no .
+*CHI:	mio .
+*GNA:	tuyos [>] ?
+*IMM:	musica [<] !
+*IMM:	laura , ui !
+*CHI:	xxx .
+*IMM:	mira l' anna , mira l' anna .
+*GNA:	laura !
+*IMM:	ui !
+*GNA:	cuqui@c !
+*IMM:	pumba@c [= es llenca sobre el lli] .
+*GNA:	hola !
+*CHI:	hola !
+*GNA:	que fas ?
+*GNA:	que jugues amb l' emma ?
+*IMM:	laura espera't .
+*IMM:	ara vinc .
+*CHI:	oi [= baixa del llit i va cap I] !
+*IMM:	laura espera't .
+*IMM:	0 .
+%act:	treu el cap per la finestra
+*CHI:	0 [=! riu] .
+*CHI:	emma !
+*INV:	jo la veig a l' emma .
+*INV:	que fa l' emma ?
+*CHI:	ui !
+*CHI:	0 [=! riu] .
+*IMM:	espera , ara vinc .
+*IMM:	xxx .
+*IMM:	visca !
+*IMM:	eh que si ?
+*IMM:	gracies .
+*IMM:	0 .
+%act:	entra per la finestra
+*CHI:	0 .
+%act:	vol imitar'la
+*IMM:	surt !
+*IMM:	xu@c xun@c xu@c xun@c !
+*CHI:	oi !
+*IMM:	ja esta .
+*IMM:	ara dibuixa un tren .
+*IMM:	deixa els cotxes , ruc , que no ho podras agafar'ho .
+*CHI:	0 .
+%act:	dibuixa a la pissarra
+*IMM:	t' agrada aixo ?
+@Comment:	l i I estan assegudes a la catifa del menjador mirant un conte
+*CHI:	pau , pau .
+*IMM:	no [/?] no pau , aquest es una altra cosa .
+*IMM:	llegeix .
+*CHI:	pau , pau .
+*IMM:	si , mira , veus el pau ?
+*IMM:	ho posa aqui .
+*IMM:	ara , va , llegeix .
+*CHI:	0 .
+%act:	agafa un altre conte
+*CHI:	ara la nena vol el pau .
+*IMM:	si .
+*IMM:	el pau dormia .
+*CHI:	pupa@c pupa@c .
+*IMM:	i feia gol , gol !
+*IMM:	no pupa@c , no .
+*IMM:	i feia gol , gol , gol .
+*CHI:	mal .
+*IMM:	laura !
+*CHI:	pupa@c .
+*IMM:	no pupa@c , no .
+*IMM:	mal .
+*INV:	si .
+*INV:	s' ha fet <una rascadura> [/?] una pelada ?
+*IMM:	a veure ?
+*INV:	ensenya'li a l' emma , ensenya'li .
+*IMM:	pupa@c , ui !
+*IMM:	quina pupa@c !
+*INV:	ja ho tenia .
+*IMM:	si , ja ho tenia [= mirant el genoll de l] .
+*IMM:	<i i> [/?] i fa gol , gol , gol !
+*IMM:	com ho fa la laura per fer xxx ?
+*CHI:	<gol gol> [>] !
+*IMM:	<gol gol> [<] !
+*CHI:	si .
+*IMM:	i espantat <va riure> [/?] i va riure i es va fer mal i va plorar .
+*IMM:	i [/?] i es va fer amic d' un nen que es deia pau i anava dient adeu , adeu , adeu .
+*IMM:	veus ?
+*IMM:	<hi hi> [/?] hi havia un noi que era molt petit i un nen que era molt gran .
+*CHI:	0 [=! riu] .
+*IMM:	<i un nen que era gran> [/?] i un nen que era gran i un que era petit i una nena que tambe +...
+*IMM:	una nena que plora .
+*CHI:	0 .
+%act:	llenca el conte
+*IMM:	ui [= cull el conte] !
+*IMM:	guaita aixo .
+*IMM:	va , llegeix , llegeix .
+*CHI:	ara aqui .
+*CHI:	0 .
+%act:	agafa el conte i el posa a la falda de I
+*CHI:	ara aquest .
+*IMM:	un altre conte , va , pero llegeix .
+*IMM:	a veure que posa , llegeix .
+*IMM:	coseta , coseta , coseta .
+*CHI:	0 [=! riu] .
+*IMM:	llegeix .
+*CHI:	al reves [% "a ve"] .
+*IMM:	reves ?
+*CHI:	si [= dona la volta al conte] .
+*IMM:	a veure , va , llegeix .
+*IMM:	<que posa> [/?] aqui que posa ?
+*CHI:	a nen .
+*IMM:	si , un nen .
+*IMM:	coleta@c , coleta@c , coleta@c !
+*IMM:	veus ?
+*IMM:	anem .
+*IMM:	vine aqui .
+*IMM:	<no vull> [/?] no vull venir .
+*IMM:	pup@c , ei !
+*IMM:	saps que ?
+*IMM:	saps que laura ?
+*IMM:	xxx ai !
+*IMM:	0 [= canta mentre agafa un nino] .
+*IMM:	emma !
+*CHI:	nuri !
+*IMM:	tira el nino aqui .
+*IMM:	ale , ale !
+*IMM:	ara el nino .
+*IMM:	no hi es ?
+*IMM:	ara que farem ?
+*IMM:	ai [= obre una caixa on hi ha un nino] !
+*IMM:	seu , seu laura , seu .
+*IMM:	tira aquest .
+*IMM:	i ara que ?
+*IMM:	i ara que ?
+*CHI:	ara que ?
+*IMM:	i ara que ?
+*CHI:	ara que [% "a que"] ?
+*IMM:	i ara que [% "i a que"] ?
+*CHI:	ara que [% "a que"] ?
+*IMM:	eh ?
+*IMM:	ara que ?
+*CHI:	0 .
+%act:	remena joguines de dins la caixa
+*IMM:	0 [= canta] .
+*CHI:	0 .
+%act:	agafa una nina
+*CHI:	nina plora .
+*IMM:	a nino .
+*IMM:	el nino plora ?
+*IMM:	a veure ?
+*IMM:	vols que fem que el nino rigui ?
+*CHI:	si .
+@Comment:	juguen amb el nino
+*CHI:	verd [% "vet"] ?
+*CHI:	verd [% "vet"] ?
+*CHI:	verd [% "vet" , ha agafat un cub verd] ?
+*CHI:	si !
+*CHI:	aquest groc [% "aquesta goc"] ?
+*IMM:	com ?
+*CHI:	vermell [% "mei"] .
+*CHI:	0 .
+%act:	fa un castell amb els cubs
+*IMM:	ssst@c !
+*IMM:	al reves .
+*IMM:	ei !
+*CHI:	un altre [% "un alte"] .
+*IMM:	posa't dreta .
+*IMM:	ara el groc .
+*IMM:	l' hem fet !
+*IMM:	va , tira'l .
+*IMM:	va , tira'l , corre .
+*CHI:	0 .
+%act:	fa caure el castell
+*IMM:	be !
+*CHI:	oi !
+*CHI:	no fa aixi [= intenta posar un cub dins l' altre] .
+*IMM:	feia un viatge pero aixo es molt petit .
+*CHI:	ole !
+*IMM:	oi , que es van escapant !
+*CHI:	<quatre una ata> [/?] a quatre .
+*CHI:	si aqui .
+*IMM:	el mar ben salat [= canta] .
+*IMM:	<soc pas> [/?] soc pas el <&pode &pode> [/?] poderos home que [= llegeix un conte en veu alta] .
+*CHI:	0 .
+%act:	va jugant amb els cubs
+*IMM:	segurament ens ho pot dir .
+*IMM:	ah si ?
+*CHI:	0 .
+%act:	s' arrossega per terra jugant amb els cubs
+*CHI:	ah !
+*IMM:	ostras , si , que me'ls he descuidat !
+*IMM:	laura , espera't , eh !
+*IMM:	ara vinc [= se'n va] .
+*CHI:	que fas [= va darrera I] ?
+@Comment:	estan a la cuina , i prepara un entrepa i l juga amb els cubs
+*IMM:	ale !
+*INV:	xxx .
+*IMM:	0 [= tarareja] .
+*IMM:	formatge .
+*CHI:	0 [=! riu] .
+@Comment:	estan al menjador , l riu i porta una motxila a l'esquena
+*IMM:	hola !
+*CHI:	ui !
+*IMM:	so !
+*IMM:	si pero fins que no vingui la laia no .
+*IMM:	dema si que vaig sola .
+*CHI:	xxx xxx .
+@End

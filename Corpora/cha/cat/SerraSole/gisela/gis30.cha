@@ -1,0 +1,468 @@
+@UTF8
+@PID:	11312/c-00028061-1
+@Begin
+@Languages:	cat
+@Participants:	CHI gisela Target_Child , QUI quim Child , ULI uli Nurse , MAR mare Mother , DUL dult Adult , PET petit Child , INV Investigator
+@ID:	cat|Serra|CHI|2;6.23||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Child|||
+@ID:	cat|Serra|ULI|||||Nurse|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|DUL|||||Adult|||
+@ID:	cat|Serra|PET|||||Child|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g , q i u estan a l' habitacio de g i aquesta esta asseguda a terra amb un paper a la ma
+*INV:	que t' agrada molt dibuixar gisela ?
+*CHI:	si [% "i"] .
+*INV:	si ?
+*INV:	al quim tambe li agrada .
+*INV:	li ensenyes els dibuixos en el quim ?
+*CHI:	si [% "ie"] .
+*ULI:	mira quim que t' ensenya la gisela els seus dibuixos .
+*CHI:	0 .
+%act:	es gira cap a q ensenyant un paper dibuixat
+*QUI:	xxx un solet .
+*ULI:	ha fet un solet ?
+*MAR:	tu tambe dibuixes solets quim ?
+*QUI:	0 [= fa que si amb el cap] .
+*QUI:	<i i> [/?] i +...
+*ULI:	i que mes dibuixes ?
+*QUI:	<i i un> [/?] i un cucurutxo .
+*ULI:	i un cucurutxo ?
+*QUI:	0 [= fa que si amb el cap] .
+*QUI:	i una rodona .
+*ULI:	i una rodona ?
+*ULI:	tu per que arrugues el dibuix gisela ?
+*CHI:	0 [= ensenya un objecte a u] .
+*ULI:	aixo que es ?
+*ULI:	no ho conec .
+*ULI:	que es una trompeta ?
+*CHI:	no .
+*ULI:	que es ?
+*CHI:	0 .
+%act:	s' aixeca i treu un cotxe de dins una caixa
+*CHI:	mira .
+*ULI:	ah , un cotxe !
+*CHI:	0 .
+%act:	dona corda al cotxe
+*ULI:	que va amb corda ?
+*ULI:	va amb corda ?
+@Comment:	son a la terrassa , g te dos ninos a la ma
+*ULI:	xxx ?
+*ULI:	tens pessigolles ?
+*CHI:	0 [= fa que no amb el cap] .
+*ULI:	no [= estira la ma per tocar g] ?
+*CHI:	ai [= tira enrera] !
+*ULI:	no ?
+*CHI:	no .
+*ULI:	i al xxx no hi tens pessigolles ?
+*ULI:	faig ?
+*ULI:	faig , eh [= agafa g i li fa pessigolles] !
+*CHI:	0 [=! riu] .
+*ULI:	escolta , abans li has dit a la nuria que havies patinat i no has patinat .
+*CHI:	no .
+*ULI:	i com es que li has dit que si , eh ?
+*INV:	i aquests ninots que tens son nous .
+*INV:	no ?
+*INV:	qui son aquests ?
+*INV:	no els conec .
+*CHI:	el miki i el mikimaus .
+*INV:	t' agraden molt gisela ?
+*CHI:	0 .
+%act:	agafa un petit recipient
+*ULI:	que fan ara ?
+*ULI:	que fa el miki ara ?
+*ULI:	que te pipi ?
+*CHI:	0 [= fa que si amb el cap] .
+*ULI:	si ?
+*ULI:	i te gana ?
+*CHI:	0 .
+%act:	fica els dos ninos dins el recipient
+*ULI:	que els donaras de menjar avui ?
+*ULI:	que tens preparat ?
+@Comment:	g s' arrossega cap un altre costat on hi ha estris de menjar i es passa uns tres o quatre minuts fent un joc simbolic tota sola sense dir res , manipulant els estris de menjar
+*ULI:	que els hi has preparat ara ?
+@Comment:	g segueix jugant , s' aixeca , ho recull tot i va a posarho sobre una taula que hi ha al fons
+*ULI:	que ?
+@Comment:	g torna on estava abans a recollir mes coses , ho endreca tot al fons de la terrassa , agafa un taburet
+*ULI:	et posare be aixo sino t' encostipes [= li posa be el jersei] .
+*ULI:	ai [= li dona un copet al cul] !
+@Comment:	g dona tombs per la terrassa
+*MAR:	hola gisela !
+*MAR:	que estas fent video ?
+@Comment:	g se'n va al fons de la terrassa on hi ha el taburet i els juguets , es posa a jugar
+*INV:	que fas gisela ?
+*CHI:	0 [=! somriu] .
+@Comment:	g agafa totes le joguines i ho posa a un altre raco , seu al taburet , remena les joguines i finalment entra dins de casa. g asseguda a terra amb en q i u , estan mirant un conte
+*ULI:	xxx no ho saps ?
+*ULI:	a veure aquesta [= gira full] .
+*ULI:	alsa !
+*ULI:	que es aixo ?
+*CHI:	xxx .
+*CHI:	butxaca .
+*MAR:	que te butxaques el teu xandal ?
+*CHI:	mira [= es posa la ma a la butxaca] .
+*MAR:	ai , mira'l !
+*MAR:	el quim tambe fa borilles com tu .
+@Comment:	de fons hi ha una conversa entre adults
+*MAR:	xxx botigues .
+*MAR:	i el tintin ?
+*MAR:	ensenya'li el tintin .
+*CHI:	mira .
+*MAR:	ensenya'li el tintin al quim .
+*CHI:	aqui .
+*CHI:	es aqui el tintin [= l'assenyala amb el dit en el conte] .
+*ULI:	no sabies qui era el tintin [= a q] ?
+*QUI:	0 [= fa que no amb el cap] .
+*ULI:	no ?
+*ULI:	explica'm que veus gisela .
+*ULI:	que jo no ho se .
+*ULI:	m' ho tapes tot .
+*ULI:	que veus ?
+*ULI:	xxx mes gran !
+*ULI:	has vist ?
+*QUI:	xxx [= assenyala alguna cosa del conte] .
+*ULI:	xxx [= assenyala tambe] .
+*ULI:	i mantes [= torna a assenyalar] .
+*CHI:	si .
+*ULI:	i arrecades .
+*CHI:	si .
+*QUI:	xxx una arrecada .
+*QUI:	mira'la .
+*ULI:	aixo es una arrecada ?
+*QUI:	0 [= fa que si amb el cap] .
+*ULI:	aixo es una pedra .
+*ULI:	o es una arrecada ?
+*CHI:	una pedra .
+*ULI:	heu pujat algun cop en un elefant ?
+*CHI:	si .
+*ULI:	si ?
+*CHI:	si .
+*ULI:	quan ?
+*ULI:	jo no ho he fet mai aixo .
+*ULI:	era xulo ?
+*ULI:	era maco ?
+*ULI:	o m' estas prenent el pel ?
+*ULI:	has pujat tu aqui o no [= assenyala en el conte] ?
+*ULI:	has pujat ?
+*ULI:	i tu [= a q] ?
+@Comment:	g i q van cap al sofa on hi ha d amb p que te una guitarra de fusta , q es baralla amb p per la guitarra , g s' ho mira , d posa pau i finalment surten tots a la terrassa
+*CHI:	son els meus patins .
+*DUL:	ja saps patinar gisela ?
+*CHI:	0 [= fa que si amb el cap] .
+*DUL:	si ?
+*PET:	jo me'n vull posar un .
+*CHI:	0 .
+%act:	s' esta posant els patins
+*MAR:	ara se'ls posa la gisela i despres te'ls posaras tu .
+*MAR:	eh que els hi deixaras posar ?
+*CHI:	si .
+*PET:	xxx xxx xxx [% "i to ti" , llenca alguna cosa a g] .
+*DUL:	t' ajudo gisela ?
+@Comment:	mentre a ajuda a g , p va picant amb el peu a g
+*DUL:	que vols els dos o nomes un ?
+*PET:	0 .
+%act:	dona un cop al cap a g amb la guitarra
+*INV:	ep !
+*INV:	li dona cops .
+*DUL:	posem l' altre tambe ?
+*CHI:	0 [= fa que si amb el cap] .
+@Comment:	q vol donar una bofetada a p , p vol tornar a picar a g
+*INV:	no !
+*DUL:	no guillem !
+*PET:	0 .
+%act:	escup a g i d
+@Comment:	g porta els patins posats i camina agafada a la barana
+*INV:	molt be !
+*INV:	molt be gisela !
+*INV:	molt be !
+*PET:	0 .
+%act:	va seguint a g i la va escopint
+*INV:	sst@c sst@c !
+*INV:	guillem !
+@Comment:	g seu al taburet i p li vol tornar a pegar amb la guitarra
+*DUL:	guillem [= l' agafa i l' aparta de g] !
+@Comment:	g s' aixeca i va cap a p que te la bicicleta
+*CHI:	vull la bicicleta xxx [% "vull la bicileta xxx"] .
+@Comment:	enraonen els adults
+*MAR:	xxx amb el guillem .
+*DUL:	tu ara portes els patins .
+*DUL:	deixa'ls'hi <una miqueta> [>] .
+*MAR:	no [<] .
+*MAR:	<no et treguis els patins , no> [>] .
+*CHI:	<no , jo em vull treure els patins> [<] [% "jo me vull treure e patins"] .
+*MAR:	que et vull fer una foto amb patinets .
+*DUL:	escolta [>] gisela .
+*CHI:	no [<] .
+*DUL:	despres vindras a casa +/.
+*MAR:	si que et vull fer una foto amb patins .
+*DUL:	gisela , despres vindras a casa del quim i del guillem i et deixaran tambe les joguines .
+*DUL:	en tenen tambe moltes .
+*DUL:	igual que tu .
+@Comment:	g s' acosta a la taula on hi ha d i m que enraonen. son a la cuina i mengen
+*CHI:	nuria [= estira el brac cap a m obrint i tancant la ma] .
+*MAR:	0 .
+%act:	li dona la ma
+*MAR:	i els macarrons que ?
+*MAR:	que hem fet l' estrategia +/.
+*CHI:	macarrons .
+*MAR:	que hem fet l' estrategia +...
+*MAR:	que hem fet l' estrategia de primer la carn i despres macarrons ?
+*MAR:	millor , millor .
+*MAR:	ui !
+*MAR:	quan t' acabis la carn , gisela , ens espera crema per tots .
+*MAR:	eh ?
+*MAR:	els hi donarem una mica de crema ?
+*CHI:	0 [= fa que si amb el cap] .
+@Comment:	d i m discuteixen sobre menjars
+*MAR:	0 .
+%act:	s' acosta a p
+*MAR:	<mira com> [/?] mira com et mira la nina .
+*MAR:	mira com et mira la nina , mira .
+*MAR:	mira com et mira la nina [= li dona un paper a p on hi ha un dibuix] .
+*CHI:	jo vull a la nena [= estirant el brac] .
+*DUL:	ai la nena !
+*DUL:	dona'li , dona'li .
+*MAR:	no pot ser .
+*MAR:	ara li he donat jo al guillem una miqueta .
+*PET:	0 .
+%act:	li dona el dibuix a g
+*DUL:	apa !
+*DUL:	i tu ?
+*DUL:	que no vols macarrons ?
+*DUL:	aquesta avui +/.
+*MAR:	un ?
+*MAR:	un macarro ?
+*DUL:	no vol .
+*DUL:	no vol macarrons .
+*DUL:	el quim i el guillem mengen macarrons i tu no ?
+*CHI:	0 [= fa que no amb el cap] .
+*DUL:	nomes un , nomes un .
+*DUL:	mira , un i prou .
+*CHI:	0 .
+%act:	punxa un macarro i se'l menja
+*DUL:	molt be .
+*ULI:	esta bo ?
+*ULI:	en vols mes ?
+*CHI:	0 [= fa que si amb el cap] .
+*ULI:	eh que si que esta bo ?
+*ULI:	que en vols ?
+*ULI:	ja sabia jo que si en probaves un +...
+*ULI:	mes d' un ara eh ?
+*CHI:	si .
+*ULI:	te'ls menjaras tots ?
+*ULI:	tots no eh ?
+@Comment:	enraonen els adults
+*PET:	vull la nina .
+*DUL:	que vols ?
+*DUL:	la nina ?
+*DUL:	es de la gisela la nina .
+*MAR:	es de tots la +...
+*DUL:	li deixes una miqueta ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	la posem aqui dalt perque us miri a tots a veure com mengeu .
+*MAR:	a veure [= agafa el paper] ?
+*MAR:	a veure nina , mira , mira .
+*MAR:	que t' aguantes nina ?
+*MAR:	a veure , a veure la gisela com menja .
+*CHI:	0 .
+%act:	va menjant
+*MAR:	hummm [= fent de nina] !
+*MAR:	molt be !
+*MAR:	a veure com menja el guillem .
+*MAR:	a veure el guillem com menja .
+*CHI:	no menja .
+*MAR:	oh , no menja !
+*DUL:	menja , corre .
+*DUL:	corre , menja .
+*MAR:	me n' anire a veure si el quim menja perque aquest petit sembla que no vulgui menjar [= amb veu de nina] .
+*MAR:	com pot ser que no mengi el petit ?
+*MAR:	oh !
+*MAR:	ai , ai , ai , ai !
+*CHI:	nuria dona'm [% "nuria dom"] .
+*MAR:	ai que caic !
+*CHI:	es meva <la nina> [>] .
+*DUL:	<si home> [<] !
+*DUL:	si que es teva la nina .
+*MAR:	es de tots , es de tots .
+*MAR:	ara me'n vaig a veure el quim .
+*MAR:	que es el mes gran i el mes guapo .
+*CHI:	jo mes +/.
+*MAR:	oh com menja !
+*CHI:	jo mes gran [% "jo me gran"] .
+*MAR:	aquest tambe es gran , si .
+*CHI:	jo tambe .
+*MAR:	tu tambe .
+*MAR:	mira , aquest es el mes gran .
+*MAR:	tu ets gran i ell es +...
+*CHI:	petit [% "ti"] .
+@Comment:	enraonen d i m , g va demanant la nina
+*CHI:	la nina [= assenyalant] .
+*CHI:	aquesta nina [% "uqueta nina"] .
+*CHI:	vull la nina .
+*CHI:	dona la nina .
+*CHI:	la nina .
+*CHI:	la nina , la nina .
+*CHI:	i la nina ?
+*MAR:	0 .
+%act:	acosta la nina a g
+*CHI:	oi , oi [= intenta agafar'la] !
+*CHI:	que no la puc treure .
+@Comment:	m i d segueixen enraonant
+*PET:	la nina , la nina [% "a nina , a nina"] .
+*DUL:	la nina ?
+*DUL:	no ho se on es la nina .
+*CHI:	tinc jo .
+*DUL:	la te la gisela .
+*MAR:	ai , ai , pillina , pillina !
+*MAR:	gisela , la maria rosa , el guillem , el quim , la nuria , l' eva , tots volem veure la nina .
+*PET:	la nina [% "a nina"] ?
+*DUL:	la nina la te la gisela .
+*DUL:	posa'la aqui gisela , que la veiem tots .
+*DUL:	no te l' agafarem .
+*MAR:	la deixem aqui , mira .
+*CHI:	aqui no .
+*MAR:	no ho vols aqui ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	doncs on la podriem posar la nina ?
+*MAR:	eh ?
+*MAR:	<on la podriem posar> [>] ?
+*CHI:	<aqui hi ha la nina> [<] .
+*MAR:	home !
+*MAR:	pero si te l' amagues no la veurem .
+*MAR:	no la podrem disfrutar .
+@Comment:	d i m continuen enraonant , els nens piquen a la taula amb la ma tot dient aqui perque volen la nina
+*MAR:	gisela , no siguis cabrona !
+*MAR:	que el guillem vol que la nina estigui aqui .
+*MAR:	sino no menja .
+*MAR:	va , corre .
+*MAR:	gisela !
+*MAR:	gisela .
+*PET:	aqui [= picant amb la ma a la taula] .
+*MAR:	mira que diu el guillem .
+*PET:	aqui [= pica a la taula] .
+*QUI:	0 .
+%act:	tambe pica a la taula
+*MAR:	mira , i el quim tambe , mira .
+*MAR:	volem la nina aqui [= picant a la taula , ho diu varies vegades] .
+*MAR:	va , si us plau , gisela .
+*MAR:	va , si us plau .
+*CHI:	0 [= fa que no amb el cap i es mira la nina] .
+*MAR:	gisela !
+*MAR:	dona'm la nina .
+*CHI:	no .
+*MAR:	si us plau gisela .
+*MAR:	volem la nina aqui [= ho diu varies vegades alhora que pica a la taula] .
+*MAR:	corre .
+*CHI:	no .
+*MAR:	corre .
+*MAR:	no vols ?
+*CHI:	no .
+*MAR:	doncs vaig a buscar una altra nina que presideixi la taula .
+*DUL:	i per que no menges [= a g] ?
+*MAR:	ja veuras !
+*MAR:	vinga , anem +...
+*MAR:	que no menges gisela ?
+*MAR:	vinga .
+*MAR:	que vols que t' ho dongui la mare ?
+*CHI:	no .
+*CHI:	vull menjar macarrons .
+*MAR:	vols els macarrons .
+*MAR:	doncs tu sola , gisela , que ja en saps [= punxant un macarro amb un tros de carn] .
+*CHI:	no .
+*CHI:	la carn no .
+*CHI:	la carn no .
+*MAR:	vinga , pues menja i calla .
+*MAR:	menja i calla que t' estan filmant per llenguatge .
+*MAR:	gisela [= ho diu varies vegades] .
+*CHI:	hola !
+*DUL:	quina nina mes grossa !
+*CHI:	es meva .
+*DUL:	ah , es teva !
+*DUL:	tot es teu , eh ?
+*MAR:	hola [= amb una pantera rosa a la ma] !
+*MAR:	com estas , idiota [= tocant el cap de g amb la pantera] ?
+*CHI:	vull la pantera .
+*CHI:	xxx la pantera .
+*MAR:	no vull venir amb tu [= amb veu de pantera] !
+*CHI:	vull la pantera !
+*DUL:	pero que faras amb tots els ninos a sobre teu ?
+*DUL:	si te'ls porta tots la teva mare .
+*CHI:	dona'm la pantera nuria !
+*MAR:	no , no et penso donar [>] la pantera gisela .
+*CHI:	si [<] , si .
+*MAR:	la pantera esta aqui presidint .
+*MAR:	i mira on mirem .
+*CHI:	vull la pantera .
+*MAR:	soc la pantera rosa i no vull anar amb la gisela fins que no es mengi la carn .
+*PET:	mira .
+*DUL:	mira quina pantera .
+*MAR:	has vist quina cua que te ?
+*CHI:	ai !
+*CHI:	vull la pantera .
+*MAR:	si no menges no vull venir amb tu .
+*CHI:	0 .
+%act:	menja una forquillada i estira el brac
+*MAR:	bueno , ara si que vinc .
+*MAR:	com que t' has menjat els macarrons puc venir a veure't [= s' acosta a g i g agafa la pantera] .
+@Comment:	enraonen d i m
+*DUL:	<podra suportar'ho veure el xxx a casa> [>] ?
+*CHI:	<no aquest macarro> [<] [= assenyala un macarro] .
+*MAR:	un macarro ademes [= punxa un macarro] .
+*MAR:	per qui seria aquest macarro [= fent l' avio] ?
+*CHI:	jo !
+*MAR:	per qui es aquest altre macarro ?
+*MAR:	pel petito !
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	un macarro pel petito ?
+*MAR:	si ?
+*MAR:	no ?
+*MAR:	un macarro pel quim ?
+*QUI:	0 [= fa que si amb el cap] .
+*MAR:	ja en te el quim .
+*MAR:	pero <el quim menja sol> [>] .
+*DUL:	<corre , menja't el macarro> [<] .
+*MAR:	per que no menges com el quim ?
+*MAR:	que es molt gran !
+*CHI:	jo tambe .
+*MAR:	pues jo no veig que en mengis com una nena gran .
+@Comment:	enraonen d i q
+*CHI:	xxx !
+@Comment:	enraonen p , d i m. tall a la cinta. a la terrassa , q dalt de la bicleta , g amb la pantera a la ma , tall a la cinta , continuen a la terrassa , d intenta posar un pati a q , p remena l' altre pati , g s'ho mira , enraonen d i p
+*PET:	nena la pega .
+*DUL:	no , no pega .
+*DUL:	la gisela s' ho mira .
+@Comment:	enraonen d , p i q
+*DUL:	es massa petito el teu peu [= a q] .
+*MAR:	i les cremes ?
+*MAR:	que heu menjat les cremes o no ?
+*DUL:	no , em sembla que no .
+*MAR:	que en vols una mica ?
+*MAR:	que vols una mica de crema quim ?
+*QUI:	0 [= fa que no amb el cap] .
+*MAR:	crema de xocolata .
+*CHI:	<jo en vull> [>] .
+*DUL:	<vols xocolata d' aquella> [<] com la del demati ?
+*MAR:	i tu gisela ?
+*CHI:	<jo en vull> [>] .
+*DUL:	<aquell flam de xocolata> [<] .
+*DUL:	en vols ?
+*DUL:	si , si que en vols ?
+*MAR:	d' aquesta , eh ?
+*CHI:	jo vull llet .
+*MAR:	que vols tu ?
+*MAR:	llet ?
+*MAR:	com la vols ?
+*MAR:	que la vols , freda o calenta ?
+@Comment:	tall a la cinta , hi ha llet i cremes sobre la taula
+*CHI:	no toquis a la llet que es meva !
+*MAR:	no es perque sigui teva .
+*MAR:	millor que no la toqui perque pot caure .
+*CHI:	que no toco .
+*CHI:	eh !
+*CHI:	no la toquis que es meva [= no es veu a qui ho diu] .
+*MAR:	0 .
+%act:	dona la crema a g
+*CHI:	que fa <xxx ara> [>] [= assenyala la camera] ?
+*MAR:	<que fa> [<] ?
+@Comment:	m va donant la crema a g
+@End

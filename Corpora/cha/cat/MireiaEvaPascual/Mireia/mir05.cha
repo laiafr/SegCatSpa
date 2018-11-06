@@ -1,0 +1,92 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;9.12||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	22-AUG-1995
+@Location:	in the garden
+@Activities:	MIR is on a swing
+@Comment:	MOT is video-taping
+*MIR:	0.
+%act:	sitting on the swing
+*MIR:	pipam (.) pipam .
+*MOT:	molt bé .
+*MOT:	a veure endavant i endarrera com ho fas això ?
+*MIR:	0 .
+%act:	moves her legs forth and forward to swing
+*MIR:	davant [= ban] .
+*MIR:	enrera [= allella] .
+*MOT:	davant (.) darrera (.) davant (.) darrera .
+*MOT:	de quin color és ?
+%exp:	the seat of the swing
+*MIR:	0 .
+%act:	gets off the swing
+*MIR:	groga [= goga] .
+*MOT:	eh ?
+*MIR:	groga [= goga] (.) groga [= goga] .
+*MOT:	groc .
+*MIR:	no .
+*MOT:	la cadira és groga (.) sí senyor (.) la cadira és groga .
+*MIR:	(ai)xò ?
+%act:	graps the seat of the swing
+*MOT:	això és la cadira (.) sí (.) i és groga .
+*MIR:	(ai)xò (.) (ai)xò ?
+%act:	points at the chain of the swing
+*MOT:	això és una cadena (.) de color plata .
+*MOT:	i això ?
+*MIR:	sabata [= abata] .
+@New Episode
+*MIR:	sabata treure .
+*MOT:	sabata treure ?
+*MOT:	no (.) no (.) aquí fora no .
+*MIR:	0 .
+%act:	takes off her shoes
+*MIR:	mama .
+*MOT:	mama (.) què ?
+*MIR:	pati fred [= fed] (.) pati fred [= fed] .
+*MOT:	és fred el pati ?
+*MIR:	sí .
+*MOT:	posa't les sabates (.) va .
+*MIR:	no .
+*MOT:	posa't les sabates .
+*MOT:	on t'estan les sabates ?
+*MIR:	0 .
+%act:	runs to them
+*MIR:	xxx .
+%act:	sits on the swing again
+*MOT:	què ?
+*MIR:	pipam (.) pipam .
+*MOT:	què has fet de les sabates ?
+*MIR:	xxx .
+*MOT:	què has fet ?
+*MIR:	xxx pipam (.) pi davant [= avan] xxx darrera [= allella] .
+%act:	gets off the swing
+*MIR:	caminar [= kiminar] .
+*MOT:	caminar (.) què dius ?
+*MIR:	caminar [= kiminar] .
+*MOT:	caminar (.) caminar descalça (.) vols ?
+*MIR:	caminar .
+%act:	lifts the piece of plastic covering a small swimming-pool
+*MIR:	xxx .
+*MOT:	on t'és l'aigua ?
+*MIR:	(a)quí .
+*MOT:	on t'ets (.) i tu ?
+*MIR:	(a)quí .
+*MOT:	i tu ?
+*MIR:	(a)quí .
+*MOT:	i tu (.) i la Mimí ?
+*MIR:	0 .
+%act:	comes running to MOT
+*MIR:	aba [= ?] !
+*MIR:	mama !
+*MOT:	què ?
+*MIR:	sabates [= abates] a mama treure [= teua] .
+*MOT:	sabates la mama treure ?
+*MIR:	sí .
+*MOT:	0 .
+%act:	takes her shoes off
+*MOT:	i ara què ?
+*MIR:	0 .
+%act:	puts one of them on
+@End

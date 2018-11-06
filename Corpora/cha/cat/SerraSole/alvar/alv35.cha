@@ -1,0 +1,203 @@
+@UTF8
+@PID:	11312/c-00028049-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , FER ferran Child , GAV avia Grandmother , INV Investigator
+@ID:	cat|Serra|CHI|2;11.13||||Target_Child|||
+@ID:	cat|Serra|FER|||||Child|||
+@ID:	cat|Serra|GAV|||||Grandmother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	a i f estan banyantse a la piscina de la terrassa
+*INV:	t' ho passes be en aquest col'legi ?
+%add:	FER
+*CHI:	foto , foto [= assenyala a e] .
+*INV:	com es diu el teu col'legi ?
+%add:	ALV
+*CHI:	que ?
+*INV:	com es diu el teu col'legi ?
+*INV:	no saps com es diu ?
+*FER:	jo m' ho passo molt be en el meu col'legi .
+*CHI:	jo vaig al tibidavo el meu col'legi .
+*INV:	al tibidavo ?
+*CHI:	jo estic <a (.) > [/?] apuntat al teu col'legi .
+%add:	FER
+*FER:	si , tambe .
+*FER:	i veus els tramvies ?
+*CHI:	no .
+*CHI:	jo estic apuntat al teu col'legi .
+*FER:	pero veus els tramvies ?
+*CHI:	no .
+*CHI:	veig el tibidado .
+*FER:	eh tu !
+%add:	INV
+*FER:	fes una foto .
+*INV:	ja us l' estic fent .
+*INV:	esteu sortint .
+*FER:	que sortira , que sortira ?
+*FER:	jo fent un salt , va .
+*INV:	si , va .
+*INV:	fent un salt , va .
+*FER:	0 .
+%act:	salta
+*INV:	ole !
+*CHI:	igual surt el salt [= salta] .
+*INV:	si que surt el salt , si .
+*INV:	despres un dia ho veurem , eh ?
+*CHI:	que ?
+*INV:	un dia ho veurem .
+*INV:	totes aquestes fotos .
+*CHI:	mira .
+*INV:	que t' ha passat ?
+*INV:	oh quin rellotge !
+*CHI:	<s' ha> [/?] s' ha +...
+*CHI:	s' ha sortit , mira .
+*FER:	vaig a sortir .
+*INV:	ja t' has cansat ?
+*FER:	si .
+*CHI:	jo tambe m' he cansat .
+*INV:	ja t' has cansat de banyar'te ?
+*INV:	si s' esta molt be a l' aigua .
+*INV:	amb aquesta calor que fa .
+*CHI:	jo tambe tinc un rellotge [= ensenya el rellotge a o] .
+*INV:	un dia em deixareu banyar a mi aqui dintre ?
+*CHI:	no .
+*INV:	no ?
+*INV:	per que ?
+*FER:	si .
+*INV:	veus , el ferran em deixara .
+*INV:	tu no em deixaras ?
+*CHI:	no .
+*INV:	que jo tambe tinc calor eh .
+*INV:	i aqui dintre s' hi deu &es +/.
+*CHI:	no .
+*CHI:	quan se fagi de nit de nit [= assenyala el cel] .
+*INV:	no , de nit no .
+*INV:	perque llavors tindre fred .
+*CHI:	de nit si , tambe .
+*INV:	de nit no .
+*CHI:	de nit si .
+*INV:	tu et banyes de nit ?
+*INV:	eh , tu et banyes ?
+*CHI:	0 .
+%act:	es toca el rellotge
+*GAV:	no te'l descordis .
+*CHI:	si no el descordo .
+*CHI:	se descorda tot sol [% "ses corda"] .
+*GAV:	no pot ser .
+*GAV:	no es descorda solet .
+*GAV:	tu no surtis .
+%add:	FER
+*CHI:	si .
+*CHI:	si .
+*CHI:	que jo m' he cansat .
+*GAV:	no , pues encara no pots sortir .
+*GAV:	ni hablar .
+*CHI:	ni hablar .
+*CHI:	es l' hora de banyar [= es mira el rellotge] .
+*FER:	i tu [= assenyala a e] .
+*FER:	i tu .
+*CHI:	i tu no [= mira a e] .
+*CHI:	quan se fagi de nit .
+@Comment:	a i f salten dins l' aigua fent crits
+*CHI:	carme , carme .
+*INV:	que ?
+*CHI:	on vius ?
+*INV:	jo visc a barcelona .
+*CHI:	que ?
+*INV:	a barcelona .
+*CHI:	jo tambe .
+*FER:	a quina calle ?
+*INV:	a la diagonal .
+*CHI:	jo tambe vivo alli [/?] alli a [/?] a diagonal [% "a onal"] .
+*INV:	no .
+*INV:	tu vius al carrer balmes .
+*FER:	que ?
+*INV:	eh que viviu al carrer balmes ?
+*CHI:	jo [/?] visc al carrer balmes jo .
+*INV:	quin numero ?
+@Comment:	a i f parlen tots dos simultaniament , no s' enten el que diuen
+*CHI:	tu no tens ninguna piscina a la teva casa ?
+%add:	INV
+*INV:	no .
+*CHI:	per que ?
+*INV:	perque no tinc terrassa .
+*CHI:	jo si que tinc (.) terrassa .
+*CHI:	i tinc una (.) piscina molt gran .
+*CHI:	gran , gran , gran .
+*INV:	tu tens molta sort .
+%act:	salten i esquitxen tot cridant plou als de baix
+@Comment:	ara esquitxen a e
+*INV:	no .
+*CHI:	t' estem mullant [= riu] .
+*GAV:	buidareu la piscina i despres no tindreu aigua per banyar .
+*FER:	mullem les plantetes ?
+%add:	GAV
+*GAV:	no .
+*GAV:	ja estan molt mullades les plantetes .
+*CHI:	va mullem a la carme ?
+%add:	FER
+*CHI:	vale ?
+*INV:	em volen mullar a mi .
+*INV:	diuen mullem a la carme .
+*CHI:	jo no lo he xxx .
+*GAV:	no cridis .
+%add:	ALV
+*CHI:	0 .
+%act:	salta i li dona per cridar no
+*CHI:	m' estic fent pipi .
+*INV:	estas fent pipi ?
+*GAV:	pobre de tu .
+*CHI:	esta caient aigua del pipi .
+*GAV:	no ho fagis eh !
+*CHI:	si no faig .
+@Comment:	tall a la cinta
+*CHI:	que ?
+*INV:	que m' expliquis coses .
+*CHI:	no t' explico coses .
+*INV:	per que no ?
+*GAV:	explica'li que vas a un col'legi nou .
+*INV:	no m' has explicat res del col'legi nou .
+@Comment:	f beu aigua de la piscina i g el renya
+*GAV:	no bebeu aigua d' aquesta o li dic a la mama .
+*CHI:	o li dic a la mama [= repeteix i riu] .
+*CHI:	mama mama mama [= ho diu tot seguit i enganxat] .
+*CHI:	no teva mama .
+*CHI:	no teva mama .
+*CHI:	meva , meva , meva .
+*GAV:	no bebeu aigua d' aquesta , hombre .
+*CHI:	no .
+*GAV:	us posareu malalts .
+*CHI:	no posarem malalts .
+*GAV:	es clar .
+*GAV:	aquesta aigua esta bruta .
+*CHI:	no , no .
+*CHI:	xxx xxx [= f salta i no s' enten] .
+*CHI:	ferran .
+*CHI:	te vull dir una cosa [= s' apropa a f] .
+*CHI:	te vull dir una cosa ferran [= li diu la cosa a cau d' orella] .
+@Comment:	xiuxejen a i f
+*CHI:	vine carme .
+*CHI:	te vull dir una cosa .
+*INV:	me vols dir una cosa ?
+*CHI:	vine , vine .
+*INV:	segur ?
+*CHI:	carme .
+*INV:	que em vols dir ?
+*CHI:	me sents ?
+*INV:	jo et sento , si .
+*INV:	per que no me la dius aqui ?
+*CHI:	0 [= xiuxeja] .
+*INV:	que ?
+*CHI:	0 [= torna a xiuxejar] .
+*INV:	que , que ?
+*INV:	no t' he sentit .
+*CHI:	jo <ti (.) > [/?] una caca .
+*FER:	caca , pipi tu .
+*CHI:	caca , pipi tu [= repeteix] .
+*INV:	coxinots .
+*CHI:	un dia anirem tots sols a veure caca , pipi tu .
+*CHI:	un dia anirem tots sols a veure xxx [% "un dia anirem tots sols a veure el pititut"] .
+*CHI:	on es el xxx [% "on es el pititut"] ?
+*FER:	un dia anirem al tibidavo a veure xxx [% "a veure pititut"] .
+*CHI:	un dia al tibidavo anirem a veure un nuvol de xxx [% "un nuvol de cacapititut"] .
+@End

@@ -1,0 +1,158 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|1;11.4||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	14-OCT-1995
+@Location:	in the dining-room
+@Activities:	MIR is sitting at the table looking at a picture book and playing with a magnet draught-board and draughts
+@Comment:	MOT is video-taping
+*MIR:	mama (.) tuturut@wp !
+*MOT:	què (.) tuturut@wp (.) què dius ?
+*MIR:	0 .
+%act:	opens the picture book on her knees
+*MIR:	mira [= mia] (.) ànec .
+*MOT:	un ànec ?
+*MIR:	muy malo@s !
+*MOT:	molt malo@s ?
+*MIR:	sí .
+*MOT:	perquè ?
+*MIR:	muy@s maco .
+*MOT:	ah@i (.) maco !
+*MOT:	quin és el llibre que estàs mirant ?
+*MIR:	al revés .
+%act:	turns the book upside down
+*MOT:	l'estàs mirant al revés ?
+*MIR:	sí .
+*MOT:	a veure (.) ensenya'me'l .
+*MIR:	aixís .
+*MOT:	segur ?
+*MIR:	sí .
+*MOT:	segur segur ?
+*MIR:	sí .
+@New Episode
+*MIR:	mira (.) elefant .
+%act:	slaps repeatedly a picture of two blue elephants
+*MIR:	malo (.) malo malo malo@s !
+*MOT:	perquè ?
+*MOT:	no és malo@s l'elefant .
+*MIR:	malo (.) malo@s !
+%act:	slapping it again
+*MOT:	oi@i !
+*MIR:	malo malo malo@s !
+%act:	slaps it again
+*MOT:	de quin color són ?
+*MIR:	blaus .
+*MOT:	blaus ?
+*MIR:	0 .
+%act:	looks at another picture
+*MIR:	a volen (.) sí ?
+*MIR:	a volen ?
+%act:	shakes her arm
+*MOT:	volen (.) sí .
+*MIR:	malo@s !
+*MOT:	a volen (.) sí .
+*MOT:	malos@s ?
+*MIR:	sí .
+*MOT:	perquè ?
+*MOT:	no són malos@s !
+*MOT:	quí ?
+*MIR:	0 .
+%act:	turns another page and slaps it
+*MIR:	malo malo malo@s !
+*MOT:	oi@i (.) a quí li dius malo@s ?
+*MIR:	puerquito@s .
+*MOT:	al puerquito@s aquest ?
+*MIR:	0 .
+%act:	turns to another page
+*MIR:	mira !
+*MOT:	què (.) què hi ha ?
+*MIR:	porcs !
+*MOT:	porcs ?
+*MIR:	0 .
+%act:	closes the book, kneels down on her chair and turns around on the seat
+*MIR:	xxx no eso no@s .
+*MIR:	papa !
+%act:	puts the book on the table
+*MOT:	què ?
+*MIR:	no eso no@s .
+*MIR:	mama més aprop (.) mama més aprop .
+%exp:	draw MIR's chair closer to the table
+*MOT:	més aprop ?
+*MIR:	sí .
+*MOT:	0 .
+%act:	draws MIR's chair closer to the table
+*MOT:	aixís (.) està bé (.) no (.) més aprop encara ?
+@New Episode
+*MIR:	0 .
+%act:	picks up the draught-board and sticks the magnet draughts on it
+*MIR:	aixís .
+*MOT:	poses això ?
+*MIR:	aixís (.) aixís no .
+*MOT:	aixís (.) molt bé !
+*MOT:	has obert la capseta (.) que has posat a sobre les fitxes ?
+*MIR:	0 .
+%act:	sticks more draughts on the board
+*MIR:	aixís sí cau .
+*MOT:	aixís sí cau .
+*MOT:	ai@i (.) que cauen ?
+*MIR:	0 .
+%act:	turns the board upside down
+*MOT:	s'han enganxat ?
+*MIR:	iaia !
+*MIR:	avi !
+*MOT:	0 .
+%act:	laughs
+*MOT:	si no hi són !
+*MOT:	on són ?
+*MIR:	a casa .
+*MOT:	a casa de quí ?
+*MIR:	a Mimi .
+*MOT:	no (.) aquí no estan .
+*MOT:	on són l'avi i la iaia ?
+*MIR:	a casa .
+*MOT:	a casa seva .
+*MIR:	a casa (.) a casa seva ?
+*MOT:	sí .
+*MIR:	a padrina (.) a casa (.) a casa seva ?
+*MOT:	també (.) la padrina també està a casa seva .
+*MIR:	fent nonnon@c .
+%exp:	sleeping
+*MOT:	fent nonnon@c ?
+*MIR:	sí .
+*MOT:	bueno (.) potser sí .
+*MOT:	i tu (.) que has fet nonnon@c (.) que has dormit bé (.) on fas
+	nonnon@c tu (.) eh (.) on fas nonnon@c ?
+*MIR:	al llit .
+%act:	is throwing draughts down her pyjamas' sleeve
+*MOT:	quin llit (.) eh (.) quin llit (.) al llit del papa ?
+*MIR:	sí .
+%act:	tries to find the draughts in her sleeve
+*MOT:	no .
+*MOT:	quin llit ?
+*MIR:	meu .
+*MOT:	molt bé !
+*MIR:	oi@i !
+%act:	looks into her sleeve
+*MOT:	què ha passat (.) què ha passat ?
+*MIR:	0 .
+%act:	smiles
+*MOT:	s'ha ficat per dintre ?
+*MIR:	per dintre .
+*MOT:	què (.) vols que t'ajudi ?
+%sit:	a draught falls on the floor
+*MIR:	ai@i a caigut !
+%act:	gets down from the chair to look for it
+*MOT:	ha caigut (.) on ?
+*MIR:	ai@i !
+*MOT:	ai@i !
+*MIR:	a terra .
+*MIR:	a peu meu .
+*MOT:	a peu meu .
+*MOT:	l'has trobat ?
+*MIR:	a trobat [= tubat] !
+*MIR:	mira mira mira !
+%act:	shows the draught to MOT
+*MOT:	molt bé (.) l'has trobat la fitxa !
+@End

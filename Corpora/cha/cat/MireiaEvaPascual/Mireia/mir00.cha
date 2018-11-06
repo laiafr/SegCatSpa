@@ -1,0 +1,61 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child
+@ID:	cat|change_me_later|MIR|1;6.0||||Target_Child|||
+@Comment:	The data codified here has been taken from a personal diary (MIR's mother). It is a written transcription of MIR's production disregarding the utterances of other speakers
+@Date:	12-MAY-1995
+*MIR:	ai@i que cau !
+*MIR:	abí .
+%xmod:	obrir
+*MIR:	atà .
+%exp:	ja està
+*MIR:	pau .
+%xmod:	peu
+*MIR:	llapi .
+%xmod:	llapis
+*MIR:	aiò .
+%xmod:	allò
+*MIR:	ata .
+%xmod:	altra/altre
+*MIR:	atè .
+%xmod:	aquest/aquesta
+*MIR:	koku@c .
+%xmod:	coco
+%exp:	un cop
+*MIR:	pupa@c .
+*MIR:	pati ia .
+%xmod:	pati allà
+*MIR:	pupa tí .
+%xmod:	pupa sí
+*MIR:	mama no .
+*MIR:	ata tí .
+%xmod:	altre sí
+*MIR:	ata no .
+%xmod:	altre no
+@New Episode
+*MIR:	0 .
+%cod:	13-MAY-1995
+*MIR:	baba mama .
+%xmod:	enfadada mama
+%exp:	la mama està enfadada
+*MIR:	mama baba .
+%xmod:	mama enfadada
+%exp:	la mama està enfadada
+*MIR:	pitè nan .
+%xmod:	pitet gran
+*MIR:	aba ki .
+%xmod:	aigua aquí
+*MIR:	pitè ki .
+%xmod:	pitet aquí
+*MIR:	pepé ki .
+%xmod:	paper aquí
+*MIR:	mami mé .
+%xmod:	mama més
+%exp:	mami dibuixa més
+*MIR:	Mimi no .
+*MIR:	a mama .
+%xmod:	la mama
+*MIR:	a bibe .
+%xmod:	el bibe
+@End

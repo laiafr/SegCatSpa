@@ -1,0 +1,69 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother
+@ID:	cat|change_me_later|MIR|2;2.14||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@Date:	24-JAN-1996
+@Location:	in the kitchen
+@Activities:	MIR is sitting on her high-chair. She is playing with two toy bears. She has the Cinderella book opened in front of her
+@Comment:	MOT is video-taping
+*MIR:	a Carla no que són nostres i no (.) i no a deixava .
+*MOT:	a la Carla no que són nostres i no la deixaves ?
+*MOT:	no els hi deixaves aquestes ossitos a la Carla (.) és veritat .
+*MOT:	perquè ?
+*MIR:	perque són nostres [= notas] .
+*MOT:	bueno (.) però ja els hi podries deixar (.) no (.) per jugar (.)
+	per jugar una miqueta ?
+*MIR:	0 .
+%act:	bites the bear's hat
+*MOT:	què fas ?
+*MIR:	això .
+*MOT:	què ?
+*MIR:	el gorro mossegant a papa que té un gorro a papa .
+*MOT:	el papa ósso té un gorro ?
+*MIR:	mossego .
+*MOT:	no mossegis (.) no es mossega això .
+*MIR:	només es xupa .
+%act:	licks the bear's hat
+*MOT:	només es xupa ?
+*MOT:	tampoc es xupa (.) eh ?
+*MOT:	no (.) no es per posar a la boca .
+*MIR:	a Eva plora .
+*MOT:	la Eva plora (.) sí .
+*MOT:	què li direm ?
+*MIR:	no ploris .
+*MIR:	mira a papa així .
+*MIR:	la mama així .
+%act:	puts the two toys standing on their heads and bangs the table with them
+@New Episode
+*MIR:	0 .
+%act:	looking at the Cinderella book
+*MOT:	els enanitos (.) què fan ?
+*MIR:	0 .
+%act:	sings the dwarfs' song
+*MOT:	però què fan ?
+*MIR:	treballant .
+*MOT:	estan treballant ?
+*MIR:	0 .
+%act:	sings again
+*MOT:	abans què m'has explicat (.) que jugen i què més ?
+*MIR:	a passo pàgina i veuràs que fa a bruixa .
+*MIR:	aquí no està .
+%exp:	on this page
+%act:	turns several pages of the book
+*MOT:	passo pàgina i veuràs la bruixa (.) aquí no està ?
+*MIR:	no està .
+%act:	turns over another page
+*MIR:	aquí tampoc està .
+*MOT:	aquí tampoc està .
+*MIR:	mira !
+*MOT:	què ?
+*MIR:	tepu [= ?] un matalàs !
+*MOT:	què ?
+*MIR:	xxx matalàs !
+*MOT:	un matalàs ?
+*MIR:	sí !
+%act:	laughs
+*MOT:	i què fan amb aquest matalàs ?
+@End

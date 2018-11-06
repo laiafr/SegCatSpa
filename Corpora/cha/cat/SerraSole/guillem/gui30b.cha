@@ -1,0 +1,934 @@
+@UTF8
+@PID:	11312/c-00028087-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , NAN nana Nurse , PAR pare Father , MAR mare Mother , QUI quim Brother , INV Investigator
+@ID:	cat|Serra|CHI|2;5.29||||Target_Child|||
+@ID:	cat|Serra|NAN|||||Nurse|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	g esta assegut a l' engronxadora , i te a les mans un walkitalki , q i n estan asseguts a prop seu , a terra
+*CHI:	xxx butxaca [% "palajaita ucaca"] .
+*QUI:	guillem , jo un dia te fare un dimoni .
+*MAR:	un dimoni pelut !
+*QUI:	i te mossegara el jordi que mossega .
+*CHI:	jo no .
+*QUI:	si .
+*CHI:	no .
+*QUI:	que si , que si , que si , i que si , i casi no tindra xxx xxx xxx xxx xxx [% les xxx volen dir "pen"] .
+@Comment:	intervenen q , n i m esporadicament , m esta netejant el terra
+*MAR:	xxx que son uns gorrins [= gorrins es una castellanada] !
+*QUI:	jo no soc un gorri .
+*NAN:	xxx has sigut tu .
+*QUI:	no , jo no he sigut .
+*NAN:	si .
+*QUI:	xxx .
+*NAN:	jo no .
+*QUI:	el guillem .
+*NAN:	no .
+*QUI:	si .
+*NAN:	no , no , no xxx el guillem .
+*CHI:	jo [>] .
+*QUI:	<doncs jo> [<] no , eh , jo &tam +/.
+*NAN:	i el jordi no .
+*QUI:	jo tampoc .
+*NAN:	ah , doncs no se qui .
+@Comment:	q esta xerrant , g te a les mans el walkitalki
+*CHI:	xxx [>] [= fent que parla amb el walki'talki] .
+*QUI:	xxx [<] .
+*NAN:	vols baixar [= es dirigeix cap a g] ?
+*CHI:	no .
+*CHI:	ara no !
+*NAN:	ah !
+*CHI:	0 .
+%act:	baixa de l' engronxadora i se seu entremig de n i q , a terra
+*CHI:	0 .
+%act:	s' aixeca i camina darrera q
+*CHI:	pcf [% "alaia , alaia"] .
+@Comment:	hi ha un tall a la cinta , n , q i g estan drets al pati , n i q discuteixen , g te dos walkitalki a les mans , sona el xiulet d' un d' ells
+*CHI:	pcf [>] [% "iotutatuteia , irairorati , aiotirapa"] .
+*QUI:	xxx [<] , el guillem .
+@Comment:	hi ha un altre tall , q i g tenen un walkitalki a les mans
+*QUI:	aquesta no es la meva [= es refereix al walki'talki que te a les mans] .
+*QUI:	es aquesta .
+*QUI:	a veure si es la meva aquesta , guillem [= es refereix al walki'talki del guillem] .
+*CHI:	xxx .
+*QUI:	si que es la meva .
+*NAN:	per que ?
+*QUI:	perque te el botonet tancat .
+*NAN:	pero el guillem ha tancat la seva .
+*QUI:	no , era aquesta la seva [= es refereix al walki'talki que te a les mans] .
+*NAN:	no , es aquesta la xxx , aquesta esta mossegada , xxx el guillem l' ha mossegat [= es refereix al que g te a les mans] .
+*NAN:	te [= li torna el walki'talki a q , despres de fer la comprovacio] .
+*NAN:	te !
+*QUI:	aquesta no era la meva .
+*NAN:	que si , que mira , aquesta esta mossegada , l' ha mossegat el guillem , que es la seva , que l' ha mossegat abans .
+*CHI:	0 [= mira el walki'talki de q , el seu] .
+*CHI:	la meva no [% "a meva no"] .
+*NAN:	la teva es aquesta .
+*QUI:	la teva esta mossegada .
+*CHI:	si ?
+*NAN:	l' has mossegat abans .
+@Comment:	sona el xiulet del walkitalki , q mossega l' antena del seu
+*CHI:	pcf [% "aiacucara"] .
+@Comment:	hi ha un tall a la cinta , g esta inflant una pilota de plastic , se'n va cap a q , qui te unes tisores a la ma
+*NAN:	eh , eh , eh , no xxx , dona'me'les , xxx .
+*CHI:	aixo xxx mal [% "aixo e mal"] !
+*NAN:	si , aixo fa mal , es de la mare .
+@Comment:	q i m parlen a la cuina , i despres n , g tambe va a la cuina , n i q se'n van de la cuina
+*CHI:	xxx aigua xxx [% "xxx aua , xxx"] ?
+*MAR:	xxx no hi ha aigua ara .
+*CHI:	a veure [% "a veue" , estira el brac cap al taulell de la cuina] ?
+*MAR:	no puc enfilar , guillem .
+*CHI:	a veure [% "a veue"] ?
+*MAR:	no puc .
+*CHI:	a veure [% "a veue"] ?
+*MAR:	que no puc , et dic .
+*CHI:	0 [=! es queixa] .
+*NAN:	xxx vine [= entra a la cuina i l' agafa en bracos] .
+*CHI:	si .
+*NAN:	si que ?
+*CHI:	si xxx aigua [% "si xxx aua"] .
+*NAN:	si .
+*NAN:	0 .
+%act:	s' emporta a g en bracos cap a la sala
+*CHI:	no !
+*NAN:	a on ?
+*CHI:	no no no [= es queixa] .
+*NAN:	a on vols anar ?
+*CHI:	no no .
+*NAN:	a on vols anar [= el posa a terra] .
+*CHI:	no no no no .
+*NAN:	no no no no ?
+*NAN:	on vols anar ?
+*CHI:	0 .
+%act:	se'n va caminant
+*NAN:	on vas ?
+*CHI:	ah , ah !
+@Comment:	q esta mirant la tele , i g s' hi afegeix , hi ha un tall a la cinta , p i g estan a l' habitacio , g esta al costat de p , amb un walkitalki a les mans , i esta mossegant l'antena
+*PAR:	que mossegues ?
+*CHI:	xxx [= se'n va cap a terra i cull una pistola] .
+*PAR:	apa , la pistola !
+*PAR:	xxx .
+*CHI:	0 .
+%act:	fa anar la pistola
+*INV:	aquesta pistola es teva o es del quim ?
+*INV:	em sents guillem ?
+*INV:	aqueta <&pist> [/?] pistola es teva o es +/.
+*CHI:	aquesta es meva .
+*INV:	i l' altra ?
+*CHI:	0 .
+%act:	deixa la pistola i n' agafa una altra
+*CHI:	xxx meva .
+*INV:	<de qui> [/?] de qui es l' altra ?
+*CHI:	meva .
+*INV:	i l' altra ?
+*CHI:	xxx quim .
+*INV:	del quim ?
+@Comment:	hi ha un tall a la cinta , g te tot de joguines a les mans
+*NAN:	xxx .
+*INV:	tot aixo es teu , guillem ?
+*CHI:	si .
+*NAN:	estan aqui totes les joguines , guillem .
+*CHI:	pcf [% "em , em , em" , vol passar per on es troba n] .
+*NAN:	on [/?] on vas ara [= no el vol deixar passar] .
+*CHI:	pcf [% "em , em , em , em , em , em" , vol passar] .
+*NAN:	digues on vas ara , digue'm' ho !
+*CHI:	0 .
+%act:	aconsegueix passar
+*NAN:	digues'm' ho , digues'm' ho .
+*NAN:	que no et deixo .
+*CHI:	xxx [= trepitja n] .
+*NAN:	au !
+*CHI:	0 .
+%act:	torna a l' habitacio
+*CHI:	ara tu .
+*NAN:	ara jo , va .
+*NAN:	0 .
+%act:	es posa agenollada d' esquena a g
+*CHI:	pcf [% "atulaqui"] .
+*CHI:	vale , xxx , vale [>] [% "vale , atulaqui , vale" , vale es una paraula castellana , surt de l' habitacio i se'n va cap a n] ?
+*NAN:	xxx [<] .
+*NAN:	i tu ?
+*CHI:	vale .
+*NAN:	i tu ?
+*CHI:	pcf [% "itulaqui" , assenyala un lloc del terra] .
+*NAN:	i tu ?
+*CHI:	pcf [% "itula"] .
+*CHI:	xxx , aqui [>] , aqui [% "atu , aqui , aqui" , assenyala mes llocs] .
+*NAN:	<i tu a on> [<] ?
+*CHI:	jo aqui [% "io aqui" , assenyala un altre lloc] .
+*CHI:	xxx xxx [>] aqui [% "ia , atata aqui"] .
+*NAN:	<i jo> [<] me'n vaig [= riu] .
+*NAN:	no te pots escapar !
+*NAN:	oh , qui es aquesta senyora ?
+*CHI:	pcf [% "zeta"] .
+*NAN:	qui es aquesta senyora ?
+*CHI:	yoya@c [% "iaia" , a la maria rosa li diuen yoya] .
+*NAN:	qui ?
+*CHI:	yoya@c [% "iaia"] !
+*NAN:	no .
+*CHI:	la yoya@c 0de 0les fotos [% "a ioia toto"] .
+*NAN:	no .
+*INV:	hola !
+*CHI:	hola [>] .
+*NAN:	xxx [<] , que buscarem el cotxe de la mare .
+*NAN:	mira , xxx i el camion , son [= camion es una paraula castellana , toca un cotxe que te a les mans] .
+*NAN:	anem a buscar xxx , corre .
+*NAN:	on es el camio ?
+*NAN:	jo t' ho porto , jo t' ho porto .
+%act:	agafa un cinturo de terra
+*NAN:	anem a buscar el camio i el cotxe vermell , no ?
+%act:	bef s'aixeca
+*CHI:	mira [% "ira" , seu a terra i fa anar la pistola] !
+*NAN:	0 .
+%act:	tambe seu
+@Comment:	g s' aixeca , i sembla que se'n vagi de l' habitacio
+*NAN:	ui , on vas ?
+*NAN:	xxx [>] [= l' agafa] .
+*CHI:	<ai , ai , ai> [<] !
+*NAN:	on vols anar , digues'm'ho .
+*CHI:	aqui .
+*NAN:	aqui a on ?
+*NAN:	a on , a on ?
+*CHI:	pcf [% "me matu taramla" , s' aixeca] .
+*NAN:	no , anem a buscar el quim [= s' aixeca] .
+*CHI:	xxx [= es resisteix] .
+*NAN:	vine per aqui , vine !
+*CHI:	anem aqui [% "nemaqui"] .
+@Comment:	hi ha un tall a la cinta , n , q i g estan asseguts sobre un sofa , amb els walkitalkis a les mans , i un d' ells esta sonant
+*QUI:	ara se xxx [>] be .
+*CHI:	xxx [<] .
+*QUI:	ara se xxx be .
+*NAN:	si , pero +/.
+*CHI:	a no !
+*NAN:	que no ?
+*CHI:	no .
+*NAN:	que no que ?
+*QUI:	anem al metro , anem al metro [= el soroll del walki'talki sembla de metro] .
+*CHI:	anem al metro xxx xxx [% "nem al tetu atimo , ale"] .
+*INV:	treu aixo , que molesta quim , no ?
+*NAN:	apaga'ho , no quim ?
+*CHI:	jo si [% "jo txi"] .
+*NAN:	tu apaga'l tambe .
+*QUI:	anem al metro [= es dirigeix a n] .
+*NAN:	pcf [% "hum"] .
+*QUI:	si .
+*INV:	aquesta tarda ?
+*NAN:	eh ?
+*INV:	en metro .
+*QUI:	no va [= apaga el walki'talki] .
+*NAN:	no va ?
+*QUI:	0 .
+%act:	es torna a encendre
+*NAN:	va , va .
+*QUI:	0 .
+%act:	apaga el walki'talki
+*NAN:	ja esta , portem al cuarto aixo , xxx .
+*CHI:	0 .
+%act:	s' esta tocant el pantalo
+*INV:	tens pipi , guillem ?
+*CHI:	si .
+*NAN:	tens pipi , vols fer pipi ?
+*NAN:	doncs vine .
+*NAN:	corre , t' ho porto jo , xxx [= agafa el walki'talki] .
+*NAN:	anem .
+*CHI:	0 [=! xiscla] .
+*NAN:	te , va [= li dona el walki'talki] .
+*NAN:	vine .
+*CHI:	pcf [% "ip"] .
+*NAN:	va .
+*CHI:	la cuca [% "acucalara"] ?
+*NAN:	a viam , anem .
+*CHI:	cuca [>] xxx [% "cuca rora" , continua tocant'se els pantalons] ?
+*NAN:	anem [<] !
+*CHI:	xxx cuca xxx [% "ateto cuca rora"] ?
+*NAN:	0 .
+%act:	agafa g i l' enlaira
+*NAN:	aqui , vas a peu , vas a peu .
+*CHI:	pcf [>] [% "atetocuca rora"] ?
+*NAN:	<anem , anem> [<] , anem , anem !
+@Comment:	n i g estan al bany , g esta segut sobre una taula , i n esta davant seu , n l' esta eixugant
+*CHI:	0 [=! es queixa] .
+*NAN:	guillem , xxx ?
+*NAN:	au , dona'm la ma !
+*CHI:	0 [= es queixa i aparta la ma] .
+*NAN:	tanca , tanca , tanca [= li agafa la ma] .
+*NAN:	que no , que no +...
+*CHI:	aqui .
+*NAN:	0 .
+%act:	el treu de la taula
+*NAN:	que no !
+*CHI:	0 [=! es queixa] .
+*NAN:	xxx l' aigua , te , te [= li dona la pistola] .
+*CHI:	ai , ai !
+*NAN:	0 .
+%act:	posa a g a terra
+*CHI:	0t' esquitxare [% "quitxare"] .
+*NAN:	espera't .
+*CHI:	0 .
+%act:	comenca a caminar per a sortir del bany
+*CHI:	xxx mare mare mare [% "e mare , mare , mare"] !
+*NAN:	no , mare no .
+@Comment:	hi ha un tall a la cinta , n porta a g al lavabo
+*NAN:	vine , vine .
+*NAN:	xxx els pantalons .
+*NAN:	aguanta , aguanta aixo .
+*CHI:	no xxx xxx [% "no , aca florear"] .
+*NAN:	no .
+*NAN:	ai , deixa'm !
+*CHI:	0 [=! es queixa] .
+@Comment:	hi ha un tall a la cinta , p esta davant un escriptori , i g esta al costat
+*CHI:	xxx .
+*PAR:	si ?
+*CHI:	si .
+*PAR:	aixo es un xxx .
+*CHI:	ninya de agua [% "ninya de aua" , cantant la canco en castella'ninya de agua' de ana belen , davant el tocadiscos] .
+@Comment:	hi ha un tall a la cinta , sona la canco'ninya de agua' , q i g estan a la sala
+*QUI:	<ninya de aua> [>] [% "ninya de agua"] .
+*CHI:	<ninya de aua> [<] [% "ninya de agua"] .
+@Comment:	q i g estan jugant
+*QUI:	ah !
+*CHI:	ah !
+*QUI:	<de agua> [>] [% "de aua" , cantant] .
+*CHI:	<de agua> [<] [% "de aua" , cantant] .
+*CHI:	de agua [% "de aua"] .
+*CHI:	0 [=! es queixa] .
+*NAN:	que passa ?
+*NAN:	que passa ?
+*QUI:	de agua .
+*CHI:	tonta .
+*CHI:	xxx [= pica a n amb el tambor que te a les mans] .
+*QUI:	0 .
+%act:	pica al costat de g amb un pal
+*NAN:	quim !
+*CHI:	0 .
+%act:	pica al costat de q amb el tambor
+*PAR:	ei , ei , a viam si m' haig d' enfadar jo , eh !
+*CHI:	pcf [% "iei"] .
+*CHI:	pcf [% "xxx auria" , tocant'se una espardenya] .
+*NAN:	0 .
+%act:	li treu l' espardenya i mira que no hi hagi res a dins
+*QUI:	xxx .
+*NAN:	0 .
+%act:	li torna a posar l' espardenya
+*CHI:	puro xxx puro [% "puro iatuia puru" sembla que demani el pal del timbal] !
+*NAN:	xxx , va .
+*CHI:	xxx puro xxx xxx [% "iuia puru apucala te" , pica el tambor amb la ma] !
+*NAN:	xxx .
+*NAN:	vine [= s' aixeca] .
+*CHI:	pcf [% "amea , xxx" , s' aixeca] .
+@Comment:	n i g se'n van de la sala , q esta sol a terra , g torna , picant el tambor , seguint la musica
+*CHI:	pcf [% "titi , ti"] .
+*CHI:	pcf [% "titititi" , continua picant] .
+*CHI:	xxx agua [% "titititi , aua" , seguint la musica] .
+*CHI:	pcf [% "tititititi" , seguint la musica , i picant el tambor , ho fa diverses vegades] .
+*CHI:	0 .
+%act:	pica mes el tambor
+*QUI:	de agua [= seguint la musica] .
+*QUI:	ninya <de agua> [>] .
+*CHI:	<de agua> [<] [% "de aua"] .
+*QUI:	ninya de agua .
+*QUI:	ninya de agua .
+*QUI:	xxx .
+*CHI:	de agua .
+*CHI:	0 .
+%act:	s' acosta a una fotografia
+*CHI:	pcf [% "arrigui , arrigui" , assenyala les fotografies] .
+*QUI:	0 [= va taral'lejant] .
+*CHI:	pcf [% "titititi" , seguint la musica] .
+*CHI:	pcf [% "titititi" , ho fa diverses vegades] .
+@Comment:	s' acaba la canco , minorantse el volum
+*CHI:	xxx xxx agua [% "ete nia aua" , dirigint'se cap al tocadiscos] .
+*CHI:	0 .
+%act:	pica el tocadiscos
+*NAN:	no piquis aqui .
+*CHI:	pcf [% "uuuu" , seguint la musica] .
+@Comment:	s' acaba definitivament la musica , hi ha un tall a la cinta , q i g estan asseguts a terra , g te dos tambors
+*QUI:	guillem , guillem , tu tens dos d' aixo , dona'm un [% diu "aixos" en comptes de aixo] .
+*NAN:	quim , vine , xxx [= se'n va cap a fora de l' habitacio] .
+*INV:	un timbal , vols un timbal ?
+*QUI:	0 [= fa si amb el cap] .
+*QUI:	0 .
+%act:	intenta prendre un timbal a g
+*CHI:	0 [= es resisteix] .
+*QUI:	vull un timbal .
+*NAN:	dons vine .
+*QUI:	xxx [= s' aixeca i se'n va fora d' escena cap a n] .
+*CHI:	0 .
+%act:	toca el timbal
+@Comment:	hi ha un tall a la cinta , g camina amb el tambor per l' habitacio i esta al costat de p
+*CHI:	bravo !
+*QUI:	0 .
+%act:	s' acosta cap a on son g i p
+@Comment:	p , q i n parlen , i decideixen de sortir al carrer , q , g i n surten de l' habitacio , i g continua picant el tambor , hi ha un tall a la cinta , q i g estan dins la banyera , tots ensabonats
+*QUI:	xxx aqui , ara .
+*QUI:	ara se esta muy bien , xxx [>] .
+*CHI:	xxx [<] .
+*QUI:	0 [=! crida] .
+*CHI:	ai , malameva mal [= es toca un genoll que te crostes] !
+*QUI:	ah !
+*CHI:	pcf [% "limal , limal , limal"] .
+*QUI:	ah , si ?
+*CHI:	ah , si ?
+*QUI:	ai , ai !
+*CHI:	ai , ai !
+*QUI:	xxx .
+*CHI:	pcf [% "xxx ititut"] .
+*QUI:	ui !
+*CHI:	pcf [% "amebamal , lamebamal , mebamal" , cantant] .
+*CHI:	0 .
+%act:	pica l' aigua
+*QUI:	ai !
+*QUI:	0 .
+%act:	pica l' aigua
+@Comment:	q i g piquen l' aigua
+*QUI:	ei !
+*QUI:	es meva [= estira el brac cap a g] !
+*CHI:	0 [=! riu] .
+*CHI:	es meva [% "e meva"] .
+*QUI:	la del bigoti , la cara [= es passa l' esponja per la cara] .
+*CHI:	pcf [% "ola titutita" , estira el brac i frega la paret del bany amb una esponja] .
+*QUI:	ai [= s' aixeca] !
+*CHI:	ai [= enf la i , s' aixeca] !
+*QUI:	xxx agua .
+*CHI:	xxx .
+*QUI:	ay , mas agua [= castella] !
+*CHI:	agua [% "aua" , vol posar sabo dins un pot] .
+*QUI:	mas agua !
+*CHI:	agua , ay !
+*CHI:	0 .
+%act:	tira sabo sobre q
+@Comment:	g i q riuen
+*QUI:	0 .
+%act:	escorre una esponja sobre g
+*QUI:	0 .
+%act:	pica amb l' esponja
+*NAN:	quim !
+*QUI:	eh , alto , xxx [>] [= estira el brac] !
+*CHI:	xxx [<] !
+*CHI:	xxx !
+*QUI:	xxx !
+*NAN:	que es aixo [= s' acosta a la paret del bany] ?
+*NAN:	espera't , espera't .
+*NAN:	que es aixo negre ?
+*QUI:	pcf [% "prom , prom"] .
+*QUI:	formigues .
+*NAN:	com que formigues , d' on ho has tret ?
+*QUI:	son d' aqui .
+*QUI:	formigues , formigues .
+*NAN:	mira , no toquis aixo [= frega la sabonera del bany] .
+*QUI:	formigues .
+*NAN:	mira per sota de la banyera .
+*QUI:	formigues .
+*CHI:	0 [=! riu] .
+*QUI:	formigues .
+*NAN:	aixo va , aixo aqui , eh , no tiris .
+*QUI:	<es , es , es> [/?] es xxx , es xxx .
+*NAN:	es xxx ?
+*QUI:	mira , una rodona [% diu "mita" en comptes de mira , assenyala amb el brac] !
+*NAN:	deixa'm , deixa'm aixo , que li poso xxx [= agafa un pot d' esbandir] .
+*QUI:	xxx ai , ai [>] [= no hi vol deixar] !
+*NAN:	<xxx , ara torno> [<] .
+*QUI:	ah [>] !
+*NAN:	<que ho necessito , per xxx> [<] , el guillem xxx [= posa el pot sobre g] .
+*QUI:	ah !
+*QUI:	0 [=! riu] .
+*CHI:	ai !
+*QUI:	pcf [% "aaaaaa"] !
+*QUI:	pcf [>] [% "aaaaaa"] !
+*CHI:	ah [<] , ai !
+*QUI:	pcf [>] [% "aaaaa"] !
+*CHI:	<ah ah i i i ah ah> [<] [% "ah , ah , i , i , i , ah , ah"] .
+*INV:	sembles un anec .
+*CHI:	ah , ah <ah , ah> [>] !
+*QUI:	<ah , ah> [<] , cuac@c , cuac@c , cuac@c , cuac@c .
+*QUI:	cuac@c , cuac@c , cuac@c , cuac@c .
+*CHI:	pcf [% "aaa"] !
+*QUI:	pcf [% "ii"] !
+*NAN:	seu , seu [= li diu a g] .
+*QUI:	mira una xxx , una xxx [% la primera xxx es "boia" , la segona "poia" , mira l' aigua] .
+*QUI:	una xxx [% "una boia"] .
+*NAN:	seu [= li diu a g] .
+*QUI:	una xxx , una xxx [% "una boia , una poia"] .
+*CHI:	0 .
+%act:	va tirant aigua amb un pot
+*NAN:	estas mullant al quim .
+*QUI:	una xxx [% "una poia"] .
+*CHI:	0 .
+%act:	mulla a q
+*NAN:	guillem .
+*NAN:	quim , no eh , no ti [/?] &ti +...
+*QUI:	0 .
+%act:	tira aigua a g
+*QUI:	xxx aigua .
+*CHI:	0 .
+%act:	tira aigua a q
+*NAN:	no tiris aigua , que et tirara el quim !
+*QUI:	pcf [% "ajaja" , mostra un ninot que te a les mans] .
+*NAN:	mira , ara xxx el cavall .
+*QUI:	pcf [% "aja , aja" , es guarda el ninot] !
+*CHI:	ai xxx ai [% "ai , a , ai" , estira el brac , queixant'se] !
+*NAN:	dona'li el cavall , va .
+*QUI:	pcf [% "ajaja"] .
+*NAN:	dona'li el cavall , aquest cavall petit es seu .
+*QUI:	pcf [% "toia toaratin"] .
+*QUI:	xxx [>] ara xxx [% "toio ara , xxx"] .
+*NAN:	<seu , guillem> [<] [= obre l' aixeta del bany] .
+*QUI:	xxx .
+*CHI:	ah [= es queixa de l' aigua] !
+*NAN:	guillem .
+*NAN:	0 .
+%act:	regula la temperatura de l' aigua
+*CHI:	0 .
+%act:	posa una esponja sota l' aigua
+*CHI:	ai , ai !
+*CHI:	xxx ai [% "a , ai"] !
+*NAN:	hola .
+*CHI:	ai !
+*NAN:	va , xxx .
+*CHI:	pcf [% "xxx epim , xxx empim" , es queixa , i sembla que vulgui que mulli primer a q] .
+*NAN:	no , xxx , guillem , i ara xxx de seguida , xxx .
+*CHI:	no .
+*CHI:	primer el quim [% "no , mimele , pim"] .
+*NAN:	no xxx [>] .
+*CHI:	ana [<] , primer en quim [% "ala , pimele pim"] .
+*NAN:	seu seu [>] .
+*CHI:	xxx [<] quim .
+*CHI:	ana primer [% "xxx pim , ala pimelepep" , es resisteix a seure] !
+*NAN:	no , xxx , que xxx sense moure el cap , guillem , va .
+*NAN:	0 .
+%act:	sembla que li vulgui mullar el cap amb la dutxa que te a les mans
+*CHI:	ana [>] .
+*CHI:	em mulles [% "ala mumoies"] ?
+*NAN:	quim [<] , si , ara li mullare .
+*NAN:	xxx cap aqui , quim [= aparta q de la dutxa] .
+*NAN:	et mullare !
+*CHI:	pcf [% "xxx , matxa"] .
+*NAN:	va , vine , posa't aqui [= agafa a g i el vol desplacar una mica] .
+*NAN:	aqui al meu costat , aqui , aqui xxx [>] meu , aqui .
+*QUI:	xxx [<] .
+*NAN:	posa't aqui !
+*NAN:	va , guillem , que et mullare tot .
+*NAN:	tanca els ulls i la boca , tanca .
+*CHI:	0 .
+%act:	tanca els ulls i la boca
+*NAN:	molt be .
+*NAN:	el cap una miqueta cap en darrera [= li posa la dutxa a sobre] .
+*CHI:	ah ah .
+*CHI:	fa mal [>] [% "ah , ah , feamal"] !
+*QUI:	ah [<] !
+*QUI:	ah , ah , ah [= es mou com una mona] !
+*CHI:	0 [= imita QUI] .
+*NAN:	ja esta freda .
+*CHI:	freda [% "feda"] .
+*QUI:	ai , que xxx freda !
+*CHI:	xxx .
+*QUI:	oh , ah , que freda que es !
+*CHI:	0 .
+%act:	agafa un pot d' esbandir
+*CHI:	ai , ah [>] , ah , ah !
+*QUI:	ah [<] !
+*QUI:	ah , ah !
+*CHI:	0 [= li cau un pot a l' aigua] .
+*CHI:	ai , ai , ai , a !
+*QUI:	ai , ai , ai !
+*NAN:	quim , no cridis .
+*CHI:	0 .
+%act:	toca l' aigua que surt de la dutxa
+*CHI:	ai ai [>] .
+*CHI:	crema [% "ai , ai , pema"] !
+*QUI:	<ai ai xxx> [<] .
+*CHI:	crema [% "ai , ai , xxx , pema"] !
+*INV:	ets un contista , sou uns contistes , eh , pero que sou !
+*QUI:	ah , <ah , ah> [>] , ah !
+*CHI:	<ah , ah> [<] , ah !
+*INV:	vine guillem , posa't aqui davant meu , davant meu [= el vol desplacar una mica] .
+*CHI:	pcf [>] [% "xxx amau , amau" , es resisteix] .
+*QUI:	<crema crema> [<] [% "pema , pema"] !
+*NAN:	davant meu , va , xxx [>] .
+*CHI:	xxx [<] .
+*QUI:	crema crema [% "pema , pema"] !
+*NAN:	0 .
+%act:	el mulla
+*CHI:	0 [=! es queixa] .
+*NAN:	quim , vigila , que et mullare .
+*CHI:	ah , ah , ah [= plora] !
+*QUI:	0 [=! crida] .
+*NAN:	0 .
+%act:	el va mullant
+*CHI:	ah [= va plorant] !
+*NAN:	ja esta , xxx mullat molt , eh , quim .
+*NAN:	0 .
+%act:	tanca l' aigua
+*NAN:	vine [= l' agafa i el treu de la banyera] .
+*CHI:	pcf [% "pimelare"] .
+*NAN:	0 .
+%act:	l' asseu a la taula
+*CHI:	0 [=! plora] .
+*NAN:	primer el guillem [= eixuga g] .
+*CHI:	primer [% "pime" , plora mes] .
+*NAN:	no , va , primer el guillem , espera't .
+*CHI:	primer xxx [% "pime ave" , plora] .
+*NAN:	tens aigua aqui [= li posa un tovallo al nas] ?
+*NAN:	tens aigua , que tens aigua ?
+*CHI:	0 [=! plora mes] .
+*NAN:	i aqui ?
+*NAN:	ui , aqui si [= el moca] !
+*NAN:	que faras amb aquesta aigua ?
+*NAN:	mira , aqui , si .
+*NAN:	que faras amb aquesta aigua ?
+*QUI:	ah !
+*NAN:	0 .
+%act:	esta eixugant a g
+*CHI:	0 [=! plora] .
+@Comment:	hi ha un tall a la cinta
+*NAN:	i aquest , tambe , eh , es curara xxx dema .
+*INV:	com t' ho vas fer aixo , guillem ?
+*INV:	que hi va passar ?
+*INV:	va caure [>] ?
+*NAN:	<digues'li> [<] a la maria rosa que vas caure .
+*CHI:	0 [=! plora] .
+*INV:	que et va passar , guillem ?
+*INV:	jo no ho se .
+*NAN:	xxx .
+*CHI:	a l' escola [% "a l' ecola"] .
+*INV:	a l' escola ?
+*CHI:	0 [= fa si amb el cap] .
+*INV:	que vas caure ?
+*CHI:	0 [= fa si amb el cap] .
+*INV:	si ?
+*INV:	on vas caure ?
+*CHI:	a l' escola [% "a l' ecola"] !
+*INV:	xxx .
+*NAN:	xxx ?
+*CHI:	no !
+*NAN:	no , a on ?
+*CHI:	a l' escola [% "a l' ecola"] .
+*NAN:	al pati de l' escola .
+*CHI:	si .
+*NAN:	si ?
+*CHI:	xxx xxx escola xxx nen [% "e tetira ecola ire nen"] .
+*NAN:	un nen ?
+*CHI:	xxx si [% "u si"] .
+*NAN:	oh , quim , com es diu ?
+*QUI:	esteve !
+*CHI:	xxx nen .
+*CHI:	esteve [% "tapeue"] .
+*QUI:	esteve !
+*NAN:	esteve .
+*NAN:	ah , si ?
+*NAN:	<esteve es diu> [>] ?
+*INV:	<esteve es diu> [<] ?
+*NAN:	pobret .
+*CHI:	no mal no xxx [% "no mal no pala" , es queixa] .
+*NAN:	eh ?
+*CHI:	fa mal no .
+*NAN:	no , no es xxx .
+*NAN:	0 .
+%act:	es vesteix
+*NAN:	va , aqui [= li posa un jersei] .
+*CHI:	oh , oh [>] [= es queixa] !
+*NAN:	oh [<] , que et passa ?
+*CHI:	xxx mal mal mal [>] [% "e mal , mal , mal"] !
+*NAN:	<ara xxx> [<] mal , el mal , el mal , espera .
+*CHI:	xxx mal [% "i mal"] .
+*NAN:	espera't , mira .
+*NAN:	ai , ai , ai , ai , on es , que no el trobo [= suposo que es refereix a la ferida del brac] ?
+*NAN:	espera't .
+*CHI:	0 [=! es queixa] .
+*NAN:	ja esta [= li fa passar el brac per la maniga] .
+*NAN:	veus ?
+*NAN:	ja esta .
+*CHI:	0 .
+%act:	es frega els genitals amb una esponja
+*NAN:	ui , que fas ara ?
+@Comment:	hi ha un tall a la cinta
+*CHI:	es meu xxx [% "e meu xxx" , te estirat el brac] !
+*NAN:	xxx un cavall .
+*CHI:	0 [=! es queixa] .
+*NAN:	quim , el cavall aquest es del guillem .
+*CHI:	es meu .
+*CHI:	es meu [% "e meu , e meu" , agafa un pistola] .
+*NAN:	va , aquesta es del quim , no va .
+*NAN:	no va , guillem .
+*NAN:	0 .
+%act:	engega l' assecador , i es posa a eixugar el cabell de g
+@Comment:	q i n estan xerrant
+*CHI:	0 .
+%act:	es posa la pistola a la boca i la treu
+*CHI:	no va .
+*NAN:	no .
+*CHI:	la meva si .
+*NAN:	si , em sembla que si , no se .
+*CHI:	ui , ui [= sembla que busqui quelcom sota les tovalloles] !
+*CHI:	ai [>] !
+*NAN:	xxx [<] .
+*NAN:	que passa ?
+*CHI:	ah ah .
+*CHI:	no vull [% "ah , ah , obui" , aparta l' assecador amb les mans] .
+@Comment:	hi ha diferents talls , en g es queixa , g encara te una pistola a les mans , i n encara seca el cabell de g
+*CHI:	ai [= es queixa] !
+*NAN:	baixa el cap , baixa el cap .
+*CHI:	0 .
+%act:	baixa el cap
+*INV:	guillem , aquesta pistola es teva ?
+*NAN:	xxx .
+*INV:	guillem , aquesta pistola es teva ?
+*CHI:	0 .
+%act:	aixeca el cap
+*CHI:	0 [= fa si amb el cap , i despres fa no] .
+*INV:	de qui es ?
+*CHI:	del quim [% "e pim"] .
+*INV:	i la teva , on es la teva ?
+*CHI:	el quim [% "e pim"] !
+*INV:	la teva on es ?
+*CHI:	la meva aqui [% "a meva aqui" , assenyala endavant amb el brac] .
+*INV:	i la teva si que va ?
+*CHI:	0 .
+%act:	baixa el cap
+*NAN:	ara ja esta guillem , ja esta , aixeca't , aixeca't .
+*CHI:	0 .
+%act:	aixeca el cap
+*CHI:	0 .
+%act:	baixa el cap
+*NAN:	no , ja esta , ja esta .
+*NAN:	ja estas de darrera , guillem , aixeca't .
+*CHI:	0 .
+%act:	aixeca el cap
+*NAN:	ai , xxx , eh !
+*CHI:	0 .
+%act:	posa una esponja a la butxaca de la camisa de n
+*NAN:	home , em mulles , xxx [= li fa treure a g l' esponja] ?
+*CHI:	0 .
+%act:	agafa la ma de n i li passa l' esponja per sobre
+*NAN:	que esta bruta ?
+*NAN:	si ?
+*CHI:	ara l' altra ma [% "ara pamama" , estira el brac com si volgues l' altra ma] .
+*CHI:	pcf [% "al" , passa l' esponja sobre l' altra ma] .
+*CHI:	ja esta [% "a eta"] .
+*NAN:	ja esta ?
+*NAN:	gracies .
+*CHI:	0 .
+%act:	posa sabo sobre una ma de n
+*CHI:	ara aquesta ma [% "ara tema" , li posa sabo a l' altra ma] .
+*NAN:	gracies , guillem .
+*CHI:	0 .
+%act:	es tapa la cintura amb una tovallola
+*NAN:	ui , t' has tapat !
+*NAN:	ja no es veu el guillem .
+*NAN:	ja esta , tapat [= l' acaba de tapar la cintura] .
+*CHI:	0 .
+%act:	agafa el pot de sabo
+*CHI:	pcf [% "ioia ma" , li posa sabo a una ma de n , i li passa l' esponja] .
+*CHI:	pcf [% "a io putxa" , dirigeix la mirada cap a l' altra ma de n] .
+*QUI:	0 [=! es queixa] .
+*NAN:	que passa ?
+*CHI:	xxx .
+@Comment:	q , que esta a la banyera , ha trencat quelcom , i n se'n va cap alla , on discuteixen una estona , n torna a eixugar el cabell de g amb l' assecador
+*CHI:	ai .
+*CHI:	crema [% "ai , pema"] !
+*NAN:	crema ?
+*CHI:	pcf [% "papa , papa" , demana les mans de n , i li posa sabo] .
+*NAN:	ai , que es aixo , sabo ?
+*CHI:	xxx [= passa l' esponja per sobre la ma de n] .
+*CHI:	pcf [% "iai , iapapa , papa" , estira el brac amb l' esponja a la ma , cap a la cara de n] .
+*NAN:	no .
+*NAN:	0 .
+%act:	apaga l' assecador
+*NAN:	0 .
+%act:	talla un tros de paper higienic per a mocar a g
+*QUI:	ja , ja , xxx cul !
+*CHI:	pcf [% "bala" , estira el brac amb l' esponja a la ma] .
+*QUI:	a veure tu .
+*NAN:	que ?
+*CHI:	ai , ai !
+*INV:	0 .
+%act:	intenta agafar l' esponja de g
+*CHI:	no !
+*QUI:	<a veure> [>] tu , maria rosa !
+*NAN:	<que vols> [<] , xxx mocaras , xxx [= el moca] .
+*NAN:	moca .
+*CHI:	ai xxx [% "ai , akexu" , estira el brac amb l' esponja a la ma] !
+*NAN:	que vols ?
+*CHI:	pcf [% "akeiu"] !
+*NAN:	xxx deixar aixo alla ?
+*NAN:	tiro jo [= li vol agafar l' esponja] ?
+*CHI:	no .
+*CHI:	jo [= no li dona l' esponja] .
+*NAN:	ah , doncs espera't .
+*CHI:	ah , ah , ah !
+*NAN:	ara , ara , ara , ara posem , espera't .
+*NAN:	ui , ou [= s' ajup a recollir quelcom] !
+*CHI:	es meva [% "e meva"] !
+*NAN:	xxx tirar .
+*CHI:	0 .
+%act:	tira l' esponja cap a la banyera , on hi ha q
+*NAN:	ai no !
+*CHI:	ai !
+*NAN:	ara l' agafarem .
+*NAN:	xxx el peu [= prepara un mitjo per a posar'lo a g] !
+*QUI:	ana !
+*NAN:	que ?
+*QUI:	ets una maria rosa !
+*INV:	jo [>] , present .
+*NAN:	<vols dir> [<] ?
+*QUI:	i un xxx tambe .
+*NAN:	<i tu> [/?] i tu que ets ?
+*CHI:	pcf [% "xxx tieta pate"] .
+*QUI:	jo soc un petardo !
+*NAN:	ah , molt be , faras pum@c .
+*QUI:	si .
+*NAN:	un dia faras pum@c .
+*CHI:	pum@c [= pica un pot de sabo contra la taula] !
+*NAN:	oh !
+*QUI:	pum@c !
+*CHI:	i pum@c [= tira el pot de sabo] !
+*QUI:	ei , ja he fet pum@c !
+*NAN:	ja has fet pum@c .
+*CHI:	on es [% "ontet" , mentre sembla que busqui el sabo] ?
+*NAN:	darrera teu [% diu "radera" en comptes de darrera] .
+*QUI:	pum@c !
+*CHI:	0 .
+%act:	es gira cap al seu darrera
+*NAN:	espera't , cap a l' altra banda .
+*CHI:	0 .
+%act:	es gira cap a l' altre canto i troba el pot de sabo
+*NAN:	aqui !
+*QUI:	<hi ha , hi ha una xxx> [/?] hi ha una xxx pum@c .
+*CHI:	pum@c , i pum@c [= pica el pot de sabo contra la taula] !
+*QUI:	pam@c , pam@c !
+*QUI:	no , jo soc un cohet .
+*CHI:	0 .
+%act:	tira el pot del sabo a terra
+*NAN:	que fas ?
+*QUI:	apa !
+*NAN:	que li fas mal a la maria rosa ?
+*CHI:	es meu [% "e meu"] !
+*NAN:	no es meu , es teu , ara qui te l' agafa ?
+*CHI:	xxx .
+*CHI:	xxx mal .
+*CHI:	es meva [% "e meva" , estira els bracos cap a n] !
+*NAN:	aquestes son del quim .
+%act:	bef agafa unes espardenyes
+*CHI:	xxx meva !
+*NAN:	xxx [= va preparant les espardenyes] .
+*CHI:	aquesta es meva [% "ateta e meva" , mentre toca l' altra espardenya] .
+*NAN:	si .
+*CHI:	aquesta es meva [>] [% "ateta e meva"] .
+*NAN:	<no , son meves> [<] .
+*NAN:	ai , aquesta no , aquesta es del quim [= agafa una espardenya i la guarda] !
+*NAN:	0 .
+%act:	treu una altra espardenya
+*NAN:	aquesta es del guillem !
+*CHI:	si ?
+*CHI:	aquesta es meva [% "ateta e meva" , agafa l' espardenya d' abans] .
+*NAN:	tambe , si .
+*NAN:	me la deixes ?
+*CHI:	si .
+*NAN:	me la puc emportar a casa meva ?
+*CHI:	no .
+*NAN:	no ?
+*NAN:	per dema , me les deixes ?
+*CHI:	no .
+*CHI:	ah aixi xxx [% "ah , aixi ama" , s' intenta posar l' espardenya] !
+*CHI:	pcf [% "aia"] .
+*NAN:	meu .
+*CHI:	pcf [% "tata tota"] .
+*NAN:	oh , xxx no .
+*NAN:	encara no .
+*NAN:	mira , fem aixi [= li agafa l' espardenya i li obre els cordons] .
+*NAN:	posa'te'la ara .
+*CHI:	0 .
+%act:	s' intenta posar l' espardenya
+*CHI:	ai ai xxx xxx [>] [% "ai , aia micaua"] !
+*NAN:	pots [<] ?
+*NAN:	xxx ai , espera't , espera't [= li fa quelcom a l' espardenya] !
+*NAN:	ara , xxx .
+*CHI:	pcf [% "oxu"] .
+*CHI:	ai , ai , no , no !
+*NAN:	ai , no , no , <no puc> [>] !
+*CHI:	xxx [<] .
+*CHI:	no puc .
+*NAN:	0 .
+%act:	li posa l' espardenya
+*CHI:	deixa !
+*NAN:	ja esta .
+*CHI:	0 .
+%act:	es torna a treure l' espardenya
+*CHI:	ai [= es queixa despres d' haver intentat posar'se l' espardenya] !
+*NAN:	deixa'm ara [= li posa l' espardenya] .
+*CHI:	0 .
+%act:	l' acaba de posar
+*NAN:	molt be !
+*QUI:	jo soc un senyor que porto molta xxx .
+*CHI:	ai !
+*NAN:	ai , ara ho agafes !
+*CHI:	0 [=! es queixa] .
+*NAN:	ara ho agafes .
+*CHI:	0 [=! es queixa] .
+*NAN:	xxx , anem [= agafa a g i el posa a terra] .
+*NAN:	baixa d' aqui , aixi .
+*NAN:	els calcotets , espera't .
+*CHI:	aixo ?
+*NAN:	que ?
+*CHI:	0 .
+%act:	se'n va cap a la brossa
+*NAN:	ai , guillem !
+*CHI:	aqui xxx .
+*NAN:	aixo esta trencat , si .
+*CHI:	si xxx [% "si , alora"] ?
+*NAN:	no , no ho agafis , et faras mal .
+*NAN:	0 .
+%act:	li posa el pantalo
+*NAN:	ja estas .
+*CHI:	pcf [% "mem" , agafa un pot de les mans de n] !
+*CHI:	0 .
+%act:	tira el pot a la banyera
+@Comment:	s' esta una estona davant la banyera , n el fa enretirarse'n , i g se'n va del bany , hi ha un tall a la cinta , p , m i g estan a una sala , p esta estirat a un sofa
+*CHI:	xxx xxx el guillem [% "xxx tota e mimem"] .
+*MAR:	les sabates del guillem ?
+*CHI:	0 .
+%act:	puja al sofa , per sobre de p
+*MAR:	no , escolta , guillem , la mare +/.
+*CHI:	mira [= sembla que senyali quelcom sobre un sofa] !
+*MAR:	si , pero la mare acaba de plegar tota aquesta roba , si us plau , eh [= agafa unes robes que hi ha sobre el sofa] .
+*MAR:	ho vols portar al &cuar +/.
+*CHI:	pcf [% "atata"] !
+*MAR:	si ho vols portar al cuarto ?
+*MAR:	ho vols portar al cuarto ?
+*CHI:	si .
+*MAR:	si , que +/.
+*CHI:	aquesta es meva [% "ateta e meva"] !
+*MAR:	te , aixo es teu , te , porta'ho al cuarto [= li dona la roba] .
+*CHI:	0 .
+%act:	agafa la roba
+*MAR:	no caigui res , eh !
+*CHI:	no .
+*CHI:	no puc [= ho deixa sobre el sofa , al costat de p] .
+*MAR:	no pots ?
+*CHI:	no .
+*MAR:	com que no ?
+*MAR:	ets molt fresc , si que pots , no pesa [>] .
+*CHI:	no [<] .
+*MAR:	no pesa .
+*CHI:	si .
+*MAR:	no .
+*CHI:	si !
+*MAR:	ets un gandul .
+*CHI:	no !
+@Comment:	hi ha un tall a la cinta , g esta dins una banyera de plastic
+*INV:	que fas guillem ?
+*INV:	que et banyes ?
+*CHI:	si .
+*CHI:	0 .
+%act:	esta jugant dins la banyera
+*CHI:	0 .
+%act:	surt de la banyera
+*CHI:	pcf [% "papim , xxx" , agafa una pilota de plastic i la bufa] .
+*CHI:	0 .
+%act:	posa la pilota dins la banyera
+*CHI:	pcf [% "anuaxi , au" , se'n va corrent] .
+@End

@@ -1,0 +1,139 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother, FAT Father
+@ID:	cat|change_me_later|MIR|2;1.4||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|FAT|||||Father|||
+@Date:	14-DEC-1995
+@Location:	in the dining-room
+@Activities:	FAT is sitting at the table and shows MIR pictures on wooden pieces
+@Comment:	MOT is video-taping
+*FAT:	què són això ?
+*MIR:	gossos .
+*FAT:	i això ?
+*MIR:	un ànec .
+*FAT:	i això ?
+*MIR:	conill .
+*FAT:	i això ?
+*MIR:	óssos .
+*FAT:	i això ?
+%act:	shows MIR a picture of two elephants
+*MIR:	un (el)efant .
+*FAT:	i això ?
+*MIR:	gats .
+*MOT:	i vols dir que només n'hi ha un d'elefant (.) només n'hi ha un en
+	aquesta peça ?
+*FAT:	ah sí !
+*MOT:	quants n'hi han ?
+*FAT:	0 .
+%act:	shows MIR the piece with the two elefants again
+*FAT:	quants n'hi ha de l'elefants ?
+*MOT:	mira'ho bé (.) mira'ho bé .
+*MOT:	quants n'hi han ?
+*MIR:	un (.) dos (.) tres (.) deu .
+*MOT:	un (.) dos (.) tres (.) deu ?
+*MOT:	no (.) mira la peça .
+*FAT:	aquí (.) mira (.) hi ha la trompa petita i l'ull .
+*MIR:	0 .
+%act:	has a closer look
+*FAT:	molt petitet .
+*MOT:	quants n'hi ha (.) Mireia (.) eh (.) un ?
+*FAT:	i això (.) què és (.) què és això ?
+*MIR:	0 .
+%act:	takes the piece
+*MIR:	un tren [= ten] (.) tutut@wp (.) tutut@wp !
+*FAT:	però és la màquina del tren .
+*MIR:	vagons .
+*MIR:	falta [= fata] altra [= ata] vagons .
+*MOT:	falta els altres vagons .
+*FAT:	i això ?
+*MIR:	una caseta .
+*FAT:	i què té aquí ?
+*FAT:	una nena .
+*MIR:	mira (.) un llum .
+*FAT:	un llum .
+*FAT:	i això ?
+*MIR:	això ?
+*FAT:	un armari .
+*MIR:	un armari .
+*FAT:	és un armari !
+*FAT:	i això ?
+%act:	shows a picture of a rocking horse
+*MIR:	un cavall .
+*FAT:	un cavall (.) t'agraden els cavalls .
+*MIR:	són monos .
+*MIR:	fan així +...
+%act:	moves her arms to and forward imitating the movement of a rocking horse
+*MOT:	són monos (.) fan així .
+*FAT:	que vols un cavall per Reis ?
+*MIR:	sí .
+@New Episode
+*MIR:	0 .
+%act:	MIR is sitting at the table next to FAT
+*MIR:	un cavall a pujar Mimi .
+*FAT:	sí (.) tu hi vas pujar (.) una miqueta (.) no ?
+*MIR:	a noia +...
+*FAT:	què va dir la noia ?
+*MIR:	no !
+*FAT:	va dir (.) no (.) no toquis (.) i no va deixar que pujessis .
+*FAT:	i on t'haviem anat abans ?
+*FAT:	veniem del Happy Park (.) sí .
+*MIR:	sí .
+*FAT:	i què vas fer al Happy Park ?
+*MIR:	a boles a piscina .
+*FAT:	una piscina de boles ?
+*MIR:	a pilotes .
+*FAT:	de pilotes .
+*FAT:	i què més hi havia ?
+*MIR:	a Mimi cridava així +...
+%act:	shouts
+*MOT:	la Mimi cridava .
+*MIR:	papa agafava a Mimi .
+*MOT:	el papa agafava la Mimi .
+*MIR:	a Mimi va tirar pel tobogan .
+*MOT:	es va tirar pels tobogans .
+*MIR:	així +...
+%act:	shouts
+*MIR:	el meu tobogan .
+*MOT:	on t'és ?
+*FAT:	és més petit .
+*MIR:	és meu .
+*FAT:	sí (.) és teu (.) te'l van portar pel dia del cumpleanys .
+*MIR:	sí .
+*FAT:	de l'aniversari (.) vas cumplir dos anys .
+*MIR:	a Mimi va bufar a pastís .
+*MOT:	la Mimi va bufar el pastís .
+*MOT:	el què va bufar ?
+*MIR:	així +...
+%act:	blows
+*MIR:	a goma .
+%act:	takes a rubber band that is on the table
+*MOT:	www .
+*FAT:	www .
+*MOT:	www .
+*FAT:	www (.) i què (.) i quí vindrà aquesta tarda ?
+*MIR:	papa .
+*FAT:	quí vindrà ?
+*MIR:	ati@c .
+%exp:	greatgrandmother .
+*FAT:	sí (.) i fa fred (.) avui fa molt fred (.) eh ?
+*MIR:	mira xxx .
+*FAT:	ha nevat al Pirineu .
+*MIR:	mira .
+%act:	goes to the window
+@New Episode
+*MIR:	0 .
+%act:	MIR is sitting on FAT's knees at the table
+*MIR:	aigua que pica .
+*FAT:	no n'hi ha .
+*MOT:	vols aigua que pica ?
+*MOT:	però avui hem dit que estava molt freda (.) està molt freda l'aigua
+	que pica .
+*MIR:	vull aigua normal .
+*MOT:	aigua normal .
+%sit:	FAT holds the glass while MIR drinks
+*FAT:	està bona ?
+*MIR:	0 .
+%act:	nods and drinks again
+@End

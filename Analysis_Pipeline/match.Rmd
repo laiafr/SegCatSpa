@@ -1,0 +1,79 @@
+---
+title: "SegBiling: Creating a set of matched samples"
+author: "alejandrina cristia"
+date: "11/5/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## General notes
+
+We hope to do some form of inferential statistics on the corpora, to which end units of analyses must be independent from each other. The best way of assuring independence is using individuals as units. Additionally, when we split by child we might want to make sure that we don't create differences across the corpora. We would if we were to take every child separately, as this would mean many more children with much shorter corpora for Catalan than Spanish, and Spanish than English. So instead, since there are less data in Cat, this is the aim for a reasonably stable split in terms of data quantity. Additionally, since there are fewer kids in English than the other two, we use a split into 6 units as the basis for the IDs, trying to match ages and transcript sizes. 
+
+I proceeded in two steps. First, I found which child or group of children could be matched between Catalan and English, then Catalan and Spanish. This was easier than matching Catalan-Spanish and Spanish-English (i.e. following the current experimental setup) because Catalan and English pose the biggest constraints, as just mentioned, in terms of transcript size (Catalan) and N of kids (English).
+
+The second stage was to try to as much as possible match individual transcripts (in terms of size and age) within each pair of matched children. This was done by hand in Mac's numbers format, then exported to csvs. Of course, it was impossible to do this matching perfectly -- transcripts in Catalan are ALWAYS shorter, which means one ALWAYS need to have more transcripts for Catalan kids than matched peers. When I succeeded in matching in transcript size, we must be wary of bias: Why would one transcript by a Spanish or English kid be so much shorter than the others? Perhaps these data are not representative of the target child (e.g. they were tired or fussy or overly talkative, leaving no space for the adults to talk). But at least we're matching for individual transcript age and size as much as possible, which results in overall corpus matching for these two properties as well.
+
+```{r cars}
+read.csv("matching/cat-cat.csv",header=T,sep=";")->cat
+read.csv("matching/spa-spa.csv",header=T,sep=";")->spa
+read.csv("matching/eng-eng.csv",header=T,sep=";")->eng
+
+summary(cat)
+
+#correct bad age
+cat$years[cat$years==22]<-2
+cat$days[is.na(cat$days)]<-0
+
+summary(spa)
+spa$days[is.na(spa$days)]<-0
+
+summary(eng)
+eng[is.na(eng$months),"months"]<-0
+eng[is.na(eng$days),"days"]<-0
+
+#weird eng error fix
+eng[is.na(eng$Nlines),"Nlines"]<-700
+
+cat$age=cat$years * 12 + cat$months + cat$days/30.24
+spa$age=spa$years * 12 + spa$months + spa$days/30.24
+eng$age=eng$years * 12 + eng$months + eng$days/30.24
+
+#add child key
+cat$child=gsub(".*/","",cat$dir.path)
+spa$child=gsub(".*/","",spa$dir.path)
+eng$child=gsub(".*/","",eng$dir.path)
+
+table(cat$child)
+table(spa$child)
+table(eng$child)
+
+#exclusions
+
+#exclude transcripts from when kids are above 3 years of age
+
+cat[cat$age<=36,]->cat
+spa[spa$age<=36,]->spa
+eng[eng$age<=36,]->eng
+
+sum(cat$Nlines) #max possible is 23400
+
+ager=function(x) {
+  ages=aggregate(x$age,by=list(x$child),range)
+  means=aggregate(x$age,by=list(x$child),mean)
+  nlines=aggregate(x$Nlines,by=list(x$child),sum)
+  cbind(ages,means$x,nlines$x)}
+ager(cat)
+ager(spa)
+ager(eng)
+
+
+
+cat[cat$child=="Pascual" & cat$Nlines>0,c("filename","age","Nlines")]
+spa[spa$child=="Juan" & spa$Nlines>0,c("filename","age","Nlines")]
+eng[eng$child=="William" & eng$Nlines>0,c("filename","age","Nlines")]
+
+```

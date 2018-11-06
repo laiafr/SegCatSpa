@@ -1,0 +1,323 @@
+@UTF8
+@PID:	11312/c-00028081-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , MAR mare Mother , PAR pare Father , QUI quim Brother , ROS rosa Nurse , INV Investigator
+@ID:	cat|Serra|CHI|2;2.11||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|ROS|||||Nurse|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	m i p estan asseguts a una sala d' estar i g esta dret
+*MAR:	pcf [% "la la la la la la" , cantant] .
+*MAR:	ho faig be , guillem ?
+*MAR:	pcf [>] [% "la" , cantant , mentre es va girant cap a g de tant en tant] .
+*CHI:	no [<] !
+*MAR:	ai !
+*CHI:	no !
+*MAR:	pcf [>] [% "la"] .
+*CHI:	no [<] !
+*PAR:	0 .
+%act:	encen un cigar
+*CHI:	pcf [% "acuculae , alado" , mentre es dirigeix cap a p] .
+*CHI:	pcf [% "alado" , mentre agafa un encenedor] .
+*CHI:	pcf [% "arorapara"] .
+*CHI:	pcf [% "ararari" , li dona l' encenedor a p] .
+*PAR:	bufa !
+*CHI:	pcf [% "akeia"] .
+*PAR:	bufa [% despres que encen l' encenedor] !
+*CHI:	0 .
+%act:	bufa l' encenedor
+*PAR:	apa , que be !
+*CHI:	pcf [% "auauajaiaiaki , a" , assenyalant una ampolla d' aigua que esta sobre la taula] .
+*MAR:	es aigua , si .
+*MAR:	l' altra , qui es [% s' aixeca] .
+*CHI:	pcf [% "nenaianink"] .
+@Comment:	apareix a escena en q
+*MAR:	vas a escola ?
+*CHI:	no .
+*CHI:	al parc .
+*MAR:	al parc ?
+*MAR:	que fas , quim ?
+*PAR:	xxx .
+*PAR:	que es aixo ?
+*QUI:	hi ha aigua que pica [% assenyalant la taula] .
+*CHI:	aigua 0que pica [% "auaapica"] .
+*CHI:	pcf [% "aiaai"] .
+*PAR:	li donem ?
+*QUI:	si .
+*PAR:	te , sou uns fans de l' aigua que pica [% mentre posa aigua a un got] .
+*CHI:	te [% estira la ma per agafar el got d' aigua] .
+*MAR:	son uns fans , i en beuen , eh !
+*CHI:	si , papa , pica .
+*MAR:	si que n' hi ha , si !
+*PAR:	si que n' hi ha mes .
+*PAR:	xxx .
+*MAR:	no , que abans xxx no sabiem si n' hi havia .
+*PAR:	xxx si que n' hi havia .
+*QUI:	0 .
+%act:	fa com que se'n va , amb la cartera a l' esquena
+*CHI:	el quim va d' excursio !
+*MAR:	que el quim se'n va d' excursio ?
+*CHI:	si .
+*MAR:	i el guillem .
+*CHI:	no .
+*CHI:	pcf [% "autxua"] .
+*MAR:	que fa el guillem , on va ?
+*CHI:	al parc .
+*MAR:	al parc ?
+*MAR:	apa , adeu , doncs !
+*CHI:	pcf [% "abutxu" , s' allunya fora de l' habitacio] .
+@Comment:	g , q i m estan a una habitacio , drets , m te un xarop a les mans
+*MAR:	xxx no esta amagat , pero ha de prendre el xarop encara .
+*QUI:	pcf [% "hum" , rebutjant el xarop] !
+*CHI:	ah !
+*QUI:	pcf [% "hum"] !
+*MAR:	quim , quim , que no caigui , que no caigui [% li va a donar una cullerada de xarop] .
+*CHI:	ah !
+*QUI:	pcf [% "hum"] !
+*MAR:	quim , que no .
+*QUI:	no !
+*MAR:	ja ho se que no esta bo , pero te l' has de prendre [% li dona una cullerada] .
+*MAR:	tu que vols ?
+*CHI:	pcf [% "oala"] .
+*MAR:	que vols ?
+*MAR:	eh ?
+*MAR:	que en vols ?
+*QUI:	ai , no es bo ?
+*CHI:	si .
+*MAR:	0 .
+%act:	li dona una altra cullerada a g
+*QUI:	ai , em fa mal a la panxa !
+*MAR:	si , bueno , pero te l' has de prendre [% se'n va de l' habitacio] .
+*QUI:	no vine !
+*MAR:	espera que vaig a guardar'ho , eh !
+*MAR:	perque vindre despres !
+*QUI:	vine !
+*MAR:	que vols ?
+*QUI:	vine aqui !
+*MAR:	ja vinc !
+@Comment:	g i r estan a una habitacio , g esta dret i r esta asseguda sobre el llit
+*ROS:	tinc mal , quin mal que tinc aqui [% tocant'se una ma] !
+*ROS:	m' ho cures , si us plau ?
+*CHI:	0 .
+%act:	li posa la boca sobre la ma
+*CHI:	no hi ha mal .
+*ROS:	ui , frega , frega , que em fa mal , frega !
+*CHI:	0 .
+%act:	li fa un peto
+*ROS:	ja esta curat ?
+*CHI:	si .
+*ROS:	bueno , ja esta .
+*ROS:	xxx .
+*CHI:	0 .
+%act:	se'n va cap a un raco
+*ROS:	guillem , mira la maria rosa , mira guillem .
+*ROS:	mira quines mans mes fredes , toca , toca guillem !
+*ROS:	xulo [% aquesta paraula no existeis en catala , es una'castellanada' , be de chulo] !
+*ROS:	xulo !
+*ROS:	guillem , guillem , mira quines mans mes fredes , mira quina cara mes calenta [% es posa les mans sobre la cara] .
+*ROS:	veus ?
+*ROS:	tinc la cara calenta i les mans fredes .
+*ROS:	mira , toca !
+*ROS:	0 .
+%act:	pica de mans , com descoratjada
+*ROS:	no vol !
+*ROS:	guillem !
+*ROS:	toca la cara , mira que calenta la tinc !
+*ROS:	ai , que calentona que tinc la cara , toca , toca , ja veuras !
+*QUI:	no .
+*ROS:	me'n vaig , me'n vaig ?
+*CHI:	si .
+*ROS:	a casa meva ?
+*ROS:	si ?
+*ROS:	apa , adeu !
+*ROS:	adeu , quim , un peto !
+*QUI:	pcf [% "hum" , gira la cara quan s' anava] .
+*ROS:	ai no em fas cap peto [% despres de fer'li un peto a q] ?
+*CHI:	no !
+*ROS:	bueno , adeu [% fa que se'n va] .
+*ROS:	adeu guillem !
+*CHI:	adeu !
+*ROS:	adeu !
+*ROS:	no em fas cap peto ?
+*CHI:	no !
+*MAR:	ah , no em fas cap peto ?
+*CHI:	si .
+*ROS:	va , doncs , home , corre , que me'n vaig !
+*CHI:	0 .
+%act:	li dona un peto a r
+*ROS:	vols que me'n vagi ?
+*ROS:	em quedo ?
+*CHI:	si .
+*ROS:	bueno , doncs em quedo .
+*ROS:	pero tu toca la cara , mira que calenta !
+*ROS:	es calenta , oi ?
+*CHI:	si .
+*ROS:	i les mans , mira !
+*ROS:	com estan les mans ?
+*CHI:	aigua [% "auaua"] .
+*ROS:	tens set ?
+*CHI:	si .
+*ROS:	aigua si us plau .
+*QUI:	aigua si us plau [% "aua i us plau"] .
+*ROS:	aigua si us plau , on es l' aigua ?
+*CHI:	pcf [% "get"] .
+*ROS:	0 .
+%act:	agafa una ampolla d' aigua
+*ROS:	te !
+*ROS:	pero que no caigui al terra , eh !
+*CHI:	que no caigui al terra .
+*ROS:	al tanto [% li posa aigua a un got] !
+*ROS:	al tanto , al tanto !
+*CHI:	0 .
+%act:	beu aigua d' un got
+*ROS:	a poc a poc !
+*ROS:	ja esta ?
+*CHI:	0 [= diu si amb el cap] .
+*ROS:	a veure les ungles !
+*ROS:	si les tens llargues ?
+*CHI:	0 .
+%act:	li ensenya un dit
+@Comment:	p arriba a l' habitacio
+*CHI:	estisores ?
+*ROS:	no , no , ara xxx , ara no !
+*QUI:	mira qui ha vingut !
+*ROS:	que ha vingut ?
+*QUI:	el pare .
+*CHI:	estisores [% corrent cap a p] ?
+*PAR:	estisores ?
+*PAR:	no se , noi !
+*CHI:	on es [/?] 0son 0les estisores ?
+*PAR:	no se , te les he donat ara fa un moment , guillem .
+*CHI:	on es [/?] 0son 0les estisores ?
+@Comment:	g , q , r i p estan a una sala drets , i hi ha un gos
+*PAR:	deixa <el ninet> [/?] el nino aquest !
+*ROS:	<que vols per a berenar> [>] ?
+*PAR:	va [<] !
+*PAR:	anem [% xiula] .
+*PAR:	deixa el nino !
+*PAR:	anem !
+*PAR:	no te'l prendra , no !
+*PAR:	au , xxx !
+*PAR:	anem !
+*CHI:	anem , au !
+*PAR:	0 [= xiula] .
+*PAR:	anem a fer pipi , au !
+*PAR:	va anem , anem .
+*QUI:	ah [% mentre el gos corre per anar al carrer] .
+@Comment:	p i el gos se'n van d' escena , g te unes tisores a les mans
+*ROS:	que vols per a berenar ?
+*QUI:	0 .
+%act:	fa com que el vol pegar
+*ROS:	pcf [% "xt" , com renyant'los] .
+*ROS:	no us baralleu , eh !
+*ROS:	que vols per a berenar ?
+*QUI:	si te pego una xxx [% la xxx es "futada"] !
+*CHI:	estisores [% mentre ensenya les tisores] .
+*ROS:	per a que son les estisores ?
+*CHI:	del guillem .
+*ROS:	i que fa el guillem amb les tisores ?
+*ROS:	<que talles> [>] ?
+*CHI:	<ara tallo> [<] .
+*ROS:	que talles ?
+*QUI:	0 [=! riu] .
+*ROS:	et talles les ungles ?
+*CHI:	si .
+*ROS:	ah !
+*ROS:	que vols per a berenar ?
+*QUI:	pcf [% "ajaja" , mentre es tira a terra] .
+*CHI:	0 .
+%act:	es posa a sobre de q
+*ROS:	arre , caballo !
+*QUI:	pcf [% "ie" , mentre tira a g a terra] !
+*CHI:	pcf [% "auuu , auuu"] .
+*ROS:	escolta'm que et dic !
+*CHI:	pcf [% "aia" , i empenta a q] .
+*ROS:	es mes bruto !
+*QUI:	ah [% i pega g] !
+*ROS:	apa !
+*QUI:	0 [=! riu] .
+*ROS:	escolta'm un moment , xxx , si no m' enfado !
+*ROS:	que vols per a berenar ?
+*CHI:	pcf [% "tota"] .
+*ROS:	que vols , un bocata ?
+*QUI:	0 .
+%act:	li va tirant coses a g
+*CHI:	0 .
+%act:	s' hi torna
+*ROS:	quim [% mentre l' estira cap a ella] .
+*ROS:	de que vols el bocata ?
+*CHI:	xoris [% "txutxitxo" , diu xorico que es una 'castellanada'] .
+*ROS:	de xoris [% tambe diu "xorico" en comptes de xoris] ?
+*CHI:	si .
+*ROS:	doncs , va , anem a ajudar , ajuda'm a fer el bocata , va , ajuda'm si us plau !
+@Comment:	r , g i q estan a la cuina , r treu menjar de la nevera , i prepara el menjar
+*CHI:	dolc .
+*ROS:	pernil dolc .
+*CHI:	pernil dolc [% "penil dolc"] .
+*ROS:	i pa amb tomaquet .
+*CHI:	pa amb tomaquet [% "pato tata"] .
+*ROS:	i sal .
+*CHI:	i sal [% "i tal"] .
+*ROS:	i oli .
+*CHI:	i oli .
+*ROS:	xxx , que bo [% la xxx es "uhm"] !
+*CHI:	xxx <que bo> [>] [% la xxx es "uhm"] !
+*ROS:	<ensenya'li> [<] a la maria rosa com es bo , ensenya'li !
+*CHI:	pcf [% "uhm"] !
+*ROS:	que bo !
+*QUI:	0 .
+%act:	li vol fer un cop de peu a g
+*ROS:	aqui amb aquests peus !
+*QUI:	oh [% i riu] !
+*QUI:	te doy una patada !
+*ROS:	si li dones una patada , t' embolico els peus , te'ls embolico !
+*ROS:	te'ls lligo !
+*CHI:	pcf [% "arirora , arirara" , corre cap a q com volent'lo amenacar amb les tisores] .
+*ROS:	guillem !
+*CHI:	pcf [% "utatata , utatata" , mentre persegueix a q] .
+*ROS:	ai , me cago en dena [% diu "ai , mecasundena" , mentre agafa a g i el deixa anar] .
+*ROS:	on vas ?
+*CHI:	pcf [% "cua"] .
+*ROS:	mira quin bocata , ostres que bo !
+*CHI:	es guillem [% "e im"] .
+*CHI:	es 0del guillem [% "e im"] .
+*ROS:	es del guillem , i tant !
+*CHI:	i tant !
+*ROS:	que es del guillem !
+*CHI:	guillem .
+*QUI:	pcf [% "urakarakaka"] .
+*CHI:	ho tallo ?
+*CHI:	espera !
+*ROS:	no tallis , no esperis , no !
+*CHI:	0 .
+%act:	intenta tallar a q i a e
+*INV:	no , no , no , no !
+*INV:	<mala peca> [>] !
+*ROS:	guillem [<] !
+*ROS:	no a mi no em tallis !
+*CHI:	pcf [% "aiaia"] .
+*ROS:	escolta , te'l menjaras tot ?
+*INV:	guillem , si em talles , eh !
+*ROS:	que te'l menjaras tot el bocata ?
+*CHI:	pcf [% "aiato"] .
+*ROS:	que te'l menjaras tot el bocata ?
+*CHI:	pcf [% "aiato"] .
+*ROS:	escolta'm <te'l menjaras> [>] tot el bocata ?
+*CHI:	no [<] !
+*ROS:	no ?
+*CHI:	si .
+*ROS:	i que et diu la maria rosa ?
+*CHI:	mastega si us plau [% "akea i u plau"] !
+*ROS:	mastega si us plau !
+*ROS:	pero mastega , eh !
+*CHI:	0 .
+%act:	obre un cubell de la brossa i mira dins
+*ROS:	au , va te !
+*CHI:	pcf [% "aaiae" , mentre es dirigeix cap a la taula on r esta preparant l' entrepa] .
+*INV:	i de que li fas el bocata ?
+*ROS:	digues'li a la maria rosa de que es el bocata , digues'hi !
+*INV:	de que es el teu bocata ?
+@End

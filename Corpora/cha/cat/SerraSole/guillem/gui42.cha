@@ -1,0 +1,883 @@
+@UTF8
+@PID:	11312/c-00028100-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , MAR mare Mother , AVI avia Grandmother , PAR pare Father , ROS rosa Adult , INV examinador Investigator
+@ID:	cat|Serra|CHI|3;6.11||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|AVI|||||Grandmother|||
+@ID:	cat|Serra|PAR|||||Father|||
+@ID:	cat|Serra|ROS|||||Adult|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	dinar familiar , els adults parlen entre ells , situacio possiblement anterior al dia de gravacio , fins el frame 3188
+*INV:	ai mira mira que fa el guillem .
+*CHI:	0 .
+%act:	menja pastel i queda amb les mans ben brutes
+*QUI:	0 .
+%act:	fa moneries menjant pastel
+*MAR:	guillem .
+*CHI:	au [% gemega] !
+*QUI:	0 [=! tarareja] .
+@Comment:	adults continuen parlant
+*CHI:	0 .
+%act:	s' abraca a la seva mare i li fa petons
+*MAR:	es que de mare no hay mas que una .
+@Comment:	tall a la cinta
+*CHI:	0 [=! canta una canco] .
+*MAR:	una altra , a veure .
+*CHI:	0 [=! canta] .
+*MAR:	i ara la de xocolata .
+*CHI:	0 [=! canta] .
+*QUI:	0 [=! canta de lluny] .
+*AVI:	molt be .
+*CHI:	0 .
+%act:	juga amb la seva mare
+*CHI:	ara faig una veu com aquella .
+*MAR:	pum@c .
+*CHI:	jo ara faig .
+*CHI:	ara faig xxx .
+*MAR:	nyam@c .
+*CHI:	aixi no .
+*CHI:	ara aixi [% "aixins"] .
+*CHI:	ja ho veuras .
+*MAR:	nyam@c .
+*CHI:	no .
+*CHI:	no .
+*CHI:	ara xxx [% canta] .
+*MAR:	0 [=! canta] .
+*CHI:	no aquesta no .
+*CHI:	la de +/.
+*MAR:	0 [=! canta] .
+*CHI:	no aquella .
+*MAR:	aquesta pero amb una altra lletra , que diu [% canta] .
+*CHI:	jo se una altra .
+*MAR:	a veure .
+*CHI:	xxx .
+*CHI:	com es canta ?
+*MAR:	quan el pare no te pa +...
+*CHI:	ah si !
+*CHI:	0 [=! canta i s' inventa la lletra] .
+*MAR:	s' ho inventa tot aquest nen .
+*MAR:	s' ho inventa tot .
+*MAR:	s' ho inventa tot .
+*CHI:	0 .
+%act:	juga amb la seva mare
+*MAR:	i la maria rosa ?
+*MAR:	on es la teva maria rosa ?
+*MAR:	on es ?
+*MAR:	i la teva maria rosa ?
+*CHI:	se li ha quedat la noia .
+*CHI:	l' amiga d' ella xxx .
+*MAR:	mira un dia no se ahir o abans d' ahir la maria rosa li diu +...
+*CHI:	ei !
+*CHI:	mira .
+*CHI:	se li ha quedat .
+*CHI:	mira se li ha quedat .
+*MAR:	ai s' ha quedat .
+*MAR:	la maria del mar s' ha quedat .
+*MAR:	no se de que discutien [% parla amb els adults] +/.
+*CHI:	xxx .
+*CHI:	dona'm l' amic del kooman .
+*MAR:	a mi que m' expliques de l' amic del kooman .
+*MAR:	jo no el tinc .
+*CHI:	eh !
+*CHI:	on esta ?
+*MAR:	te , aqui .
+*MAR:	a sobre la taula .
+@Comment:	tall a la cinta , frame 3188 , g assegut al terra de la cuina menjant galetes
+*PAR:	donem'li doncs a ton germa ?
+*CHI:	no .
+*PAR:	no ?
+*CHI:	tinc molta gana .
+*PAR:	te molta gana ?
+*PAR:	la meitat per tu i la meitat pel teu germa , eh guillem ?
+*CHI:	no .
+@Comment:	p i m parlen entre ells
+*PAR:	va guillem .
+*PAR:	vine a endrecar la bici .
+*CHI:	jo no puc .
+*PAR:	no pots ?
+*PAR:	per que ?
+*PAR:	tens feina ?
+*CHI:	perque mira [% ensenya la galeta] .
+*CHI:	no i no puc .
+*PAR:	no pots ?
+*PAR:	per que estas menjant xocolata amb galetes ?
+*CHI:	0 [= no respon] .
+*PAR:	eh ?
+*CHI:	0 [= fa que si amb el cap] .
+*PAR:	i quan t' ho hagis acabat de menjar , que faras ?
+*PAR:	endrecaras la bici ?
+*CHI:	0 [= fa que si amb el cap] .
+*PAR:	si ?
+*CHI:	si .
+*CHI:	pero sino no .
+*CHI:	0 [= mira la camara i riu] .
+*MAR:	me'n dones guillem ?
+*CHI:	que ?
+*MAR:	eh ?
+*CHI:	0 .
+%act:	li dona galeta
+*MAR:	molt guapo .
+*MAR:	eh , no te'n vagis tu [% al pare] .
+*INV:	que t' agrada la xocolata guillem ?
+*CHI:	0 [= fa que si amb el cap] .
+*INV:	si ?
+*INV:	i les galetes tambe t' agraden ?
+*MAR:	on has dinat guillem avui ?
+*CHI:	que ?
+*MAR:	no has dinat ?
+*CHI:	no .
+*MAR:	no ?
+*MAR:	i el fetge aquest qui se l' ha menjat ?
+*CHI:	el quim tot .
+*MAR:	tot el quim ?
+*MAR:	ah ai ara !
+*MAR:	ara li preguntare .
+*MAR:	anem cap alla .
+*CHI:	no .
+*MAR:	ah per que ?
+*MAR:	que m' has dit una mentida ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	em sembla que si , i molt grossa ademes .
+*MAR:	tan grossa , tan grossa (.) que et cauran les dents .
+*CHI:	hala !
+*MAR:	hala , hala , i escolta que feieu mentres dinaveu ?
+*CHI:	un dia me compraras galetes de xocolata ?
+*MAR:	un dia ?
+*MAR:	per que vols galetes de xocolata ?
+*CHI:	perque [/?] perque en roger en menja tota l' estona .
+*CHI:	que li va comprar la seva mare .
+*MAR:	quin roger ?
+*CHI:	el roger fuig .
+*MAR:	fuig no .
+*CHI:	puig .
+*MAR:	ah .
+*MAR:	fuig , que es aixo de fuig ?
+*MAR:	que se'n va , que s' escapa el roger ?
+*CHI:	quin roger ?
+*MAR:	el fuig [% diu rient] .
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	i quins son els teus amics de classe ?
+*CHI:	0 .
+%act:	fa una mueca amb la galeta a la boca
+*MAR:	ai , a veure si t' has fet mal .
+*MAR:	quins son els teus amics ?
+*CHI:	les nenes xxx la meva amiga pero les nenes no .
+*MAR:	per que ?
+*MAR:	no t' agraden les nenes ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	ostres .
+*CHI:	perque ella no es la meva amiga ella .
+*MAR:	per que , no es maca ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	i no t' agrada cap nena , cap nena , cap nena ?
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	en el quim li agrada la nuria .
+*MAR:	i a tu ?
+*CHI:	humm [% continua menjant la galeta] .
+*MAR:	cap nena ?
+*MAR:	nomes nens ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	quins nens ?
+*CHI:	el roger puig .
+*MAR:	puig , molt be .
+*CHI:	i el fernandez i l' adria .
+*MAR:	el guillem fernandez i l' adria .
+*CHI:	i el xxx alcanyiz .
+*MAR:	que be eh ?
+@Comment:	tall a la cinta
+*MAR:	em vas dir que si .
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	no ?
+*MAR:	si a mi em vas dir que si .
+*CHI:	era l' esperanza .
+*MAR:	ai l' esperanza , es veritat .
+*MAR:	a tu t'agrada l' esperanza ?
+*CHI:	0 .
+%act:	es menja la galeta i la mira
+*MAR:	quina manera de menjar la galeta es aquesta ?
+@Comment:	m parla amb r , tall a la cinta
+*MAR:	un conte d'aquells que tu saps .
+*MAR:	d'aquell +...
+*MAR:	quin es el del +...
+*MAR:	del pandi , el conte del pandi .
+*CHI:	quin pandi ?
+*MAR:	quin pandi .
+*MAR:	aquell conte que tens del pandi que esta malalt o el pandi que +...
+*CHI:	0 .
+%act:	mira la cara riu i fa marranades amb la saliva
+*MAR:	fas marranades ?
+*CHI:	0 .
+%act:	continua fent marranades
+*MAR:	que heu fet aquest mati ?
+*MAR:	que us heu quedat aqui casa ?
+*MAR:	ai !
+*CHI:	0 .
+%act:	li cau la galeta
+*MAR:	que us heu quedat aqui casa o heu anat a passejar ?
+*CHI:	au !
+*MAR:	ai !
+*MAR:	heu anat a passejar ?
+*CHI:	si .
+*MAR:	a on ?
+*CHI:	al parc ?
+*MAR:	a quin parc , al d' aprop o al de lluny ?
+*CHI:	al d' aprop .
+*MAR:	i heu jugat ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	a que ?
+*CHI:	hi havia un nen que i jo vaig veure cavalls i el quim tambe .
+*CHI:	dos cavalls .
+*CHI:	dos cavalls marrons i marrons .
+*MAR:	marrons i marrons ?
+*MAR:	com els dupond i dupont ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	que eren dos cavalls iguals ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	esta be , i que heu pujat en els gronxadors ?
+*CHI:	0 [= fa que si amb el cap] .
+*MAR:	si ?
+*MAR:	i a on mes ?
+*CHI:	no se mes .
+*MAR:	us heu emportat els pals i les galledes ?
+*CHI:	0 .
+%act:	fa que no amb el cap i continua menjant la galeta
+*MAR:	algun dia que faci molta calor anirem a la piscina de xxx , i tu et banyaras eh ?
+*CHI:	0 [= fa que si amb el cap] .
+*ROS:	no tindras por ?
+*CHI:	0 [= fa que no] .
+*CHI:	0 .
+%act:	passa la ma per la cara de la seva mare
+*MAR:	no em facis aixo , eh ?
+*MAR:	guillem !
+*MAR:	www .
+%exp:	parla amb la rosa
+*CHI:	0 [=! riu] .
+*MAR:	si , jo no ho entenc que et mengis una galeta guillem .
+*MAR:	no ho entenc .
+*CHI:	se m' ha trencat [% somica] .
+*MAR:	quan esta a dintre la boca tambe es trenca , i encara mes petitona .
+*MAR:	mira ja no et costara tant de mastegar .
+*CHI:	que ?
+*MAR:	eh ?
+*MAR:	com la mare quan et dona la carn aixi a trossets .
+*MAR:	ja no costa tant de mastegar , eh ?
+*MAR:	dema potser anirem a torroella si no plou , que et sembla ?
+*CHI:	0 .
+%act:	fa mueques i gestos amb els bracos
+*MAR:	que vol dir aixo , que et sembla be o que et sembla malament ?
+*CHI:	0 .
+%act:	continua fent mueques
+*MAR:	eh ?
+*MAR:	0 [=! riu] .
+*CHI:	0 [=! riu] .
+*INV:	em sembla que no li agrada , es quedara aqui el guillem , eh que si ?
+*MAR:	no vinguis tu .
+*MAR:	te quedes aqui casa , eh ?
+*MAR:	ens esperes que tornem .
+*CHI:	0 [= fa que no amb el cap] .
+*MAR:	que va passar l' altre dia a torrelles amb aquell coet que va tirar el pare ?
+*CHI:	que va fer fuh@c i el va tirar [% fa moure el brac] .
+*MAR:	i que va passar llavors ?
+*CHI:	llavors va donar'li un altre .
+*CHI:	un altre .
+*CHI:	un altre .
+*CHI:	i no .
+*CHI:	i va dir xxx oi ?
+*MAR:	si , pero que es va encendre , que es va encendre ?
+*CHI:	va engegar .
+*CHI:	va engegar i piu@c .
+*CHI:	psss@c .
+*MAR:	i es va fer foc .
+*CHI:	va engegar i psss@c .
+*MAR:	te'n recordes del foc ?
+*INV:	es va fer foc ?
+*MAR:	vam calar foc , un susto !
+@Comment:	frame 3427
+*MAR:	i com el vam apagar aquell foc ?
+*MAR:	vam haver d' avisar als bombers .
+*CHI:	amb l' aigua .
+*MAR:	amb una galleda i amb galledes , eh ?
+@Comment:	m i r parlen entre elles
+*MAR:	doncs un susto , eh guillem ?
+*MAR:	i el guillem deia ara no podrem anar a dinar a cal frare perque estem apagant foc .
+@Comment:	m i r tornen a parlar
+*CHI:	0 [=! tarareja] .
+*CHI:	0 .
+%act:	agafa el brac de la seva mare
+*CHI:	a veure que tens aqui al brac ?
+*MAR:	quin foc vam fer , eh quin susto ?
+*MAR:	quin susto !
+*MAR:	que fas ?
+*CHI:	es que miro a veure si tens una xxx .
+*CHI:	ah !
+*CHI:	no .
+*CHI:	si .
+*CHI:	tens una xxx .
+*CHI:	tens una .
+*MAR:	cura'm , cura'm , cura'm que estic malalta .
+*CHI:	a veure .
+*CHI:	oh quina peladeta .
+*CHI:	ja estas .
+*CHI:	va .
+*CHI:	ara una miqueta .
+*CHI:	0 [= fa mueques] .
+*MAR:	estas grabant ara ?
+*MAR:	doncs va , explica'ns una altra coseta , corre .
+*MAR:	escolta'm , avui has vist la pel'licula de la heidi ?
+*CHI:	0 [= fa que si] .
+*MAR:	i que passava avui amb la clara ?
+*CHI:	que es va acabar .
+*MAR:	que vols dir que es va acabar ?
+*CHI:	es va acabar i prou .
+*MAR:	i prou .
+*CHI:	i van fer uns altres dibuixos .
+*MAR:	ah !
+*MAR:	i a tu quins son els que mes t' agraden de dibuixos ?
+*CHI:	la clementina +...
+*CHI:	0 [= pensa] .
+*ROS:	el tintin .
+*CHI:	el tintin .
+*CHI:	i uns dibuixos .
+*CHI:	<uns dibuixos> [>] .
+*MAR:	<i com> [<] es diu aquella que cantava coli coll , coll , aquella canco que cantaven que hem vist avui tambe .
+*MAR:	com se diu ?
+*MAR:	ai no me'n recordo .
+*CHI:	ja ho veuras quan facin aquells dibuixos .
+*CHI:	ja ho veuras .
+*MAR:	ah , ja m' hi fixare , ja m' hi fixare , eh .
+*MAR:	es que he badat una mica .
+*CHI:	coli coli no .
+*MAR:	no , coli , coli , no .
+*MAR:	per que mo em cantes una canco ?
+*CHI:	ah !
+*ROS:	perque no en sap cap .
+*MAR:	apa , si en sap moltes .
+*ROS:	apa !
+*MAR:	fum , fum , fum .
+*CHI:	si .
+*CHI:	hummm .
+*CHI:	una que diu vine vine sol solet i vine vine sol solet .
+*CHI:	en se dos de sol solets .
+*MAR:	a veure .
+*CHI:	si tu no vens +...
+*CHI:	aixi no me'n recordo .
+*MAR:	ah , si no te'n recordes , malament .
+*MAR:	i n' hi ha alguna que te'n recordis ?
+*CHI:	vine vine sol solet per sant jordi per sant jordi vine vine sol solet per sant jordi que tinc fred .
+*MAR:	molt be !
+*MAR:	i aquella que cantaves l' altre dia de xocolata , xocolata , com es ?
+*CHI:	xxx .
+*CHI:	ai !
+*MAR:	bon profit .
+*CHI:	0 [=! canta la canco de la xocolata] .
+*CHI:	a on les vas veure aquestes ?
+*MAR:	aquestes que ?
+*CHI:	aquestes sabates .
+*MAR:	a una botiga , a la mateixa botiga que vaig comprar les del quim , doncs he comprat les teves .
+*CHI:	0 [= fa soroll amb les dents] .
+*MAR:	t' agraden molt ?
+*CHI:	0 [= continua amb el soroll] .
+*MAR:	no facis aixo .
+*CHI:	0 [= continua] .
+*MAR:	no ho facis aixo .
+*MAR:	0 .
+%act:	li tapa la boca
+*CHI:	0 .
+%act:	riu i s' aixeca
+*CHI:	vull +...
+*CHI:	vull d' aixo d' aqui .
+*MAR:	ah , compte .
+*MAR:	no , guillem que aixo es oli .
+*MAR:	no .
+*MAR:	compte , compte que aixo es trenca .
+*MAR:	no .
+*CHI:	si .
+*MAR:	no .
+*CHI:	per que ?
+*MAR:	que no , que aixo no es per jugar .
+*CHI:	per que ?
+*MAR:	perque no .
+*CHI:	per que ?
+*CHI:	per que ?
+*MAR:	aquesta gent em matara si no els dono dinar .
+*INV:	tranqui , ja esta .
+*CHI:	no te deixo passar .
+@Comment:	tall a la cinta
+*MAR:	molt rebe !
+*MAR:	a tu t' agrada l' enciam ?
+*CHI:	que ?
+*MAR:	tu saps la canco de la plata d' enciam ?
+*MAR:	eh ?
+*CHI:	0 [= fa que no] .
+*MAR:	una plata d' enciam +/.
+*CHI:	ah si !
+*CHI:	una plata d' enciam ben amanida ben amanida una plata d' enciam ben amanida amb oli i sal .
+*CHI:	donarem un tros de pa a qui li toqui donarem un tros de pa a qui li toqui tocara .
+*CHI:	a mi i a la mare .
+*MAR:	a tu i a la mare , bravo !
+*CHI:	ja esta .
+*MAR:	ja esta , cuca ?
+*MAR:	i espera , que mes .
+*MAR:	que mes dic ?
+*MAR:	quina tonteria mes se'm pot acudir ?
+*CHI:	que ?
+*ROS:	que ?
+*MAR:	cafe .
+*ROS:	i com t' ha tallat el cabell la maria rosa ?
+*CHI:	aixi per aqui [% fa l'accio de tallar] .
+*MAR:	doncs digues amb unes tisores , ves .
+*CHI:	amb unes tisores .
+*ROS:	i de que vas tu ?
+*CHI:	quin dia farem allo ?
+*CHI:	allo d' aixo ?
+*CHI:	aixo ?
+*CHI:	eh ?
+*CHI:	quin dia ?
+*ROS:	el que ?
+*CHI:	aixo .
+*MAR:	que es aixo ?
+*CHI:	mare quin dia ho farem aixo ?
+*CHI:	eh mare !
+*MAR:	que ?
+*CHI:	quin dia ho farem aixo ?
+*MAR:	que vol dir aixo ?
+*CHI:	aixo .
+*CHI:	aixo i aixo .
+*CHI:	i amb aixo [% assenyalant uns coberts de dins un calaix] .
+*MAR:	no t' entenc .
+*CHI:	quin dia ho farem amb aixo ?
+*MAR:	doncs mira dema , eh ?
+*CHI:	no .
+*CHI:	avui .
+*MAR:	es que ara no ho necessito jo aixo .
+*CHI:	va avui .
+*CHI:	avui .
+*CHI:	avui .
+*CHI:	avui .
+*CHI:	i avui amb aixo [% ho repeteix varies vegades tot cantant] .
+*ROS:	doncs avui agafa'ho .
+*ROS:	tot aixo ?
+*CHI:	mare amb aixo [% porta coberts cap a la seva mare] .
+@Comment:	tall a la cinta , q esta assegut pintant
+*INV:	que fas quim ?
+*INV:	que pintes una casa quim ?
+*INV:	eh quim ?
+*INV:	psss@c .
+*INV:	quim soler i xxx .
+*QUI:	l' estic copiant <com el xxx> [/?] com el de les muntanyes .
+*INV:	quim soler .
+*QUI:	0 .
+%act:	continua pintant
+*CHI:	0 .
+%act:	juga amb una pilota
+*CHI:	oh !
+*QUI:	que em veus ?
+*INV:	si , tocant'te el nas et veig .
+*QUI:	0 .
+%act:	continua pintant
+@Comment:	tall a la cinta , q i g juguen amb peces a la sala
+*PAR:	a veure .
+*PAR:	veus van agafades aixi .
+*PAR:	veus ja esta .
+*CHI:	i aixo ?
+*PAR:	aixo +/.
+*AVI:	espera , llavors i n' hi ha un altre .
+*AVI:	aixo deu ser del quim .
+*AVI:	les bombones del quim .
+*AVI:	on son les bombones del quim ?
+*AVI:	ah mira , aqui , aqui .
+*AVI:	i una altra cosa d' aquestes .
+*CHI:	eh .
+*CHI:	me l' infles ?
+*CHI:	me l' infles ?
+*AVI:	i aixo que no hi has ficat aixo ?
+*AVI:	el mando , el mando , un a cada costat .
+*PAR:	de mando el policia ja en porta un a la ma .
+*AVI:	ah , ah !
+*AVI:	i aquestes coses que son per tapar ?
+*AVI:	aqui hi ha un altre +...
+*AVI:	un altre +/.
+*CHI:	i un senyor per mi ?
+*CHI:	i un senyor ?
+*CHI:	per mi .
+*AVI:	hi ha mes butano aqui .
+*PAR:	un senyor .
+*AVI:	aquell altre butano on va ?
+*PAR:	deu ser aquest , a veure .
+*PAR:	va disfressem un senyor ara , el guarnim ?
+*PAR:	aixo es una altra historia .
+*PAR:	aquest veus va aqui , veus ?
+*PAR:	i llavors +...
+*PAR:	ah no !
+*PAR:	xxx .
+*CHI:	un .
+*PAR:	una cosa de color +/.
+*AVI:	si , aquest porta un senyor .
+*AVI:	i el teu ja el porta aixo , tu ?
+*AVI:	el teu ja el porta per parlar ?
+*AVI:	aixo es per parlar , no ?
+*PAR:	molt be quim aixo [% li dona un helicopter] +/.
+*QUI:	el meu porta un .
+*AVI:	si , pero aqui a la ma diu que +...
+*AVI:	ton pare , veus , si es aquest , el porta aquest , el senyor aquest .
+*AVI:	que hi has ficat tu , aquest senyor li has ficat aixo !
+*AVI:	no ?
+*QUI:	ah !
+*QUI:	jo no li havia ficat .
+*AVI:	qui li ha posat aixo ?
+*CHI:	ah !
+*CHI:	es aixi [% "aixins"] .
+*CHI:	es +/.
+*QUI:	ja esta volant .
+*PAR:	aqui hi ha d'anar'hi una altra cosa guillem .
+*PAR:	hi falta +...
+*PAR:	mira veus <hi falta aixo d'aqui> [>] .
+*QUI:	<esta rodant aquest xxx> [<] .
+*MAR:	els megafonos aquests els porta .
+*QUI:	mare vull mirar al pare .
+*QUI:	vull mirar al pare .
+*QUI:	vull mirar al pare .
+*AVI:	aquest porta aixo .
+*AVI:	el que va de blanc porta aixo a la ma .
+*AVI:	veus ?
+*ROS:	quim , guillem , a sopar .
+*AVI:	i aqui hi has de buscar una boleta aqui , veus ?
+*CHI:	aqui .
+*AVI:	veus aquest porta aixo i +/.
+*ROS:	guillem !
+*CHI:	aqui .
+*CHI:	aqui !
+*ROS:	segur ?
+*QUI:	pues mira al guillem pentinat .
+*QUI:	aixo va aqui !
+*CHI:	aixo va aixi [% jugant amb les peces] .
+*PAR:	aixo +/.
+*MAR:	va seieu aqui , va quim .
+*QUI:	xxx ah !
+*QUI:	es aixi [% "aixins"] .
+*QUI:	va ara posa el tintin .
+*MAR:	ni ho somiis .
+*QUI:	si .
+*QUI:	si !
+*QUI:	pare .
+*QUI:	pare poses el tintin ?
+*CHI:	poses el tintin ?
+*ROS:	que no veus que estan fent aixo el pare i l' avia ?
+*CHI:	mira [% li ensenya una peca al pare] .
+*AVI:	estem muntant aixo .
+*QUI:	va posa el tintin .
+*CHI:	posa el tintin pare .
+*CHI:	posa [>] .
+*QUI:	posa [<] el tintin .
+*CHI:	posa el +/.
+*PAR:	quin tintin ?
+*QUI:	el tintin .
+*PAR:	el tintin a on ?
+*QUI:	a la tele .
+*QUI:	com es diu +...
+*QUI:	tintin al llac ?
+*CHI:	dels taurons .
+*QUI:	el tintin al llac dels taurons .
+*PAR:	ah , esta be .
+*QUI:	pero no el poses .
+*PAR:	voleu que el posi ?
+*QUI:	si .
+*QUI:	si vull que el posis .
+*AVI:	la pel'licula .
+*ROS:	guillem vine .
+*CHI:	la pel'licula dels llacs dels tintins .
+*QUI:	la pel'licula del llac dels tintins [% riu] .
+*ROS:	es del llac dels +...
+*ROS:	dels +/.
+*QUI:	va que no ens la poses ?
+*ROS:	escolta que comencem a sopar , ara s' aixeca el pare home .
+*ROS:	xxx obre .
+@Comment:	cau una cosa
+*ROS:	ai deu meu !
+*AVI:	no passa res .
+*CHI:	ai deu meu !
+*AVI:	es que quan se senten +/.
+*QUI:	pero crema una mica [% escup el menjar] .
+*ROS:	doncs noi per una mica no et xxx la boca , eh .
+*ROS:	va tornem'hi .
+*ROS:	tornem'hi .
+*ROS:	bufa .
+*CHI:	el llac del tintin [>] .
+*QUI:	ah [<] .
+*CHI:	mira es diu <el tin> [>] .
+*QUI:	el [<] +...
+*CHI:	<el dels> [/?] el llac dels tintins .
+*QUI:	el llac dels tintins .
+*CHI:	el llac dels tintins .
+*CHI:	el llac dels tintins [% canta] .
+*CHI:	un bon xxx [% "ibrubins"] el van xxx [% "gerenar"] com un trosset de xxx [% "pau"] .
+*PAR:	no t' inventis guillem .
+*ROS:	xxx tu no saps aquesta canco , i tu ?
+*QUI:	xxx [% amb la boca plena de menjar] .
+*CHI:	jo jo jo .
+*CHI:	me l' he xxx [% "empallat"] .
+*ROS:	tu te l' has xxx [% "empallat"] ?
+*CHI:	0 [= fa que si] .
+*QUI:	0 .
+%act:	empipa GUI
+*INV:	que diu , jo me l' he +/.
+*QUI:	ah !
+*ROS:	xxx [% "empallat"] en comptes d'inventat .
+*INV:	inventat ?
+@Comment:	g i q es barallen
+*PAR:	ei ei ei !
+*ROS:	ei no ens barallem home .
+*PAR:	que no us poso el tintin , eh ?
+*CHI:	que no ens poses el tintin pare ?
+*PAR:	si us baralleu no +/.
+*CHI:	que ens el poses ?
+*INV:	guillem , guillem .
+*PAR:	si us baralleu no .
+*QUI:	va posa'l .
+*ROS:	obre la boca noi .
+*PAR:	quin ?
+*ROS:	el llac de no se que .
+*ROS:	que tu te la saps de memoria .
+*CHI:	el llac del tintin xxx [% "unperundebin"] .
+%com:	g canturreja fent rimar els mots
+*CHI:	el llac dels taurons com uns orellons .
+*CHI:	el llac dels tintins en deien xxx [% "pinpins"] .
+*ROS:	qui te l' ha ensenyat aquesta canco ?
+*QUI:	el llac dels taurons no tenen la burra .
+*ROS:	tu te l' has ensenyat ?
+*CHI:	0 [= fa que si amb el cap] .
+*QUI:	ara el tintin .
+*QUI:	ara el tintin .
+*QUI:	ara el tintin .
+*ROS:	tu que guillem , tu te l' has que ?
+*ROS:	tu que ?
+*PAR:	s' ha de rebobinar eh per aixo .
+*PAR:	s' ha de rebobinar .
+*ROS:	guillem , tu que ?
+*ROS:	guillem soler .
+*CHI:	que ?
+*ROS:	tu que ?
+*CHI:	me l' he ensenyat .
+*ROS:	tu te l' has ensenyat ?
+*QUI:	se l' ha inventat .
+*ROS:	se l' ha inventat ?
+*CHI:	si me l' he inventat .
+*CHI:	aquesta es la meva .
+*ROS:	si , la que vulguis .
+*QUI:	l' olga toca els botons amb la sabata .
+*ROS:	i tu amb el nas .
+*AVI:	veus aquest es el que porta aixo blanc , i llavors <porta els punys blancs> [>] .
+*INV:	<que comenca la projeccio> [<] ?
+*PAR:	encara no .
+*AVI:	on son els punyets aquests ?
+*CHI:	que ?
+*ROS:	escolta la boqueta aquesta esta buida noi ?
+*AVI:	i la gorra la porta blava .
+*CHI:	la gorra xxx .
+*ROS:	senyor soler com tens la boca ?
+*CHI:	0 [= obre la boca] .
+*QUI:	0 [= fa que no] .
+*ROS:	doncs vinga .
+*ROS:	va que es refreda .
+*INV:	sempre surt amb la boca plena .
+*CHI:	aixo per que es ?
+*AVI:	aquest es el policia que va dret .
+@Comment:	p i a continuen parlant
+*ROS:	quim tu no et fa vergonya eh ?
+*ROS:	pots agafar tota la truita .
+*ROS:	guillem escolta , aquesta boca si no la xxx tanco la tele .
+*QUI:	tanco la tele .
+*AVI:	ara .
+*ROS:	i ara si aixo es una peca que .
+*QUI:	tintin .
+*QUI:	el llac del tintin .
+*CHI:	el trec a veure la tele .
+*CHI:	piu@c .
+*ROS:	mira el quim es fara mes gran .
+*CHI:	i jo tambe .
+*ROS:	tu no , m' estranya amb la lentitud que dus fill .
+*ROS:	mastega .
+*CHI:	uau@c !
+*ROS:	quim que tenies molta set ?
+*ROS:	ara te'n vaig a posar mes .
+*ROS:	vale ?
+*ROS:	mira tinc la cullera preparada .
+*QUI:	0 .
+%act:	pica la taula
+*PAR:	ei !
+*AVI:	que teniu cosa en alguna banda ?
+*CHI:	i aquest tros ?
+*QUI:	eh la tele ha fet fiu@c .
+*PAR:	vol dir que s' ha acabat .
+*CHI:	mira xxx .
+*AVI:	ah , a veure aixo .
+*ROS:	nois les boques .
+*AVI:	ah caram , aquest no porta cap gorra , es aixo que porten al cap .
+@Comment:	adults parlen entre ells
+*CHI:	per que no engegues la tele ?
+*QUI:	si .
+*QUI:	ara la vaig a engegar .
+*QUI:	mira [% posa a g una cosa al cap] .
+*ROS:	que el despentines , ostres , amb lo guapo que esta .
+*QUI:	es un xxx [% fa cares rares] .
+*ROS:	va quim .
+*CHI:	mira ho fa com mi .
+*CHI:	mira .
+*CHI:	mira ho fa com mi .
+*QUI:	0 .
+%act:	escup el menjar
+*ROS:	quim !
+*CHI:	mira ho fa com mi .
+*ROS:	com mi no , no es diu com mi .
+*QUI:	dejame [% riu i fa gestos] .
+*QUI:	mira .
+*QUI:	mira es veu .
+*QUI:	es veu .
+*ROS:	beu aigua .
+*CHI:	0 .
+%act:	beu aigua
+*QUI:	s' ha de xxx .
+*QUI:	s' ha de xxx .
+*PAR:	s' ha de rebobinar .
+*QUI:	s' ha de rebobinar .
+*QUI:	bobinar [% vol pujar a la taula] .
+*ROS:	quim seu que estas sopant , eh ?
+*QUI:	no .
+*PAR:	quim que no poso ni tintins [>] .
+*QUI:	tintin [<] .
+*PAR:	ni tintons .
+@Comment:	g i q es posen a riure
+*QUI:	<ni tintons> [>] .
+*CHI:	<ni tintons> [<] .
+*CHI:	ni tintin ni tintons .
+*QUI:	0 .
+%act:	escup el menjar
+*ROS:	no quim , que es la meitat de l' altre .
+*ROS:	beu aigua .
+@Comment:	PAR i INV parlen
+*CHI:	vull a passar una penyora xxx [% canta i s' inventa les paraules] .
+*ROS:	va .
+*QUI:	no vull menjar .
+*ROS:	noi doncs aixo es de no menjar .
+*QUI:	aixo es de que esta cru .
+*CHI:	un dia que digui que en podre menjar d' aixo ?
+*ROS:	si en vols te' n dono .
+*CHI:	vale .
+*CHI:	jo no en vull .
+*ROS:	ah , ja m' estranyava a mi .
+*CHI:	mira maria rosa .
+*CHI:	quan sigui gran ho voldre .
+*CHI:	vale ?
+*ROS:	que no ets gran encara ?
+*CHI:	no .
+*ROS:	doncs si sempre em dius que si .
+*QUI:	jo menjaria un culet fred .
+*CHI:	xxx .
+*ROS:	doncs tu sempre em dius que ets gran .
+*QUI:	com ?
+*ROS:	en guillem sempre em diu que es gran i ara diu que es petit .
+*QUI:	0 [=! riu] .
+@Comment:	q i g es comencen a barallar
+*CHI:	que me despentines .
+*CHI:	ara posem aqui lo que xxx .
+*QUI:	i ens despentinem .
+*ROS:	vale , vale , vale , prou , prou .
+*PAR:	ei !
+*ROS:	eh prou !
+*ROS:	despres et pentinare , vale , un altre cop i et posare colonia perque feies molta olor .
+*ROS:	va .
+*CHI:	aquest ho ha fet primer .
+@Comment:	tall a la cinta , comenca la pellicula
+*INV:	es la de sempre , no ?
+*CHI:	mira xxx .
+*CHI:	mira .
+*ROS:	no l' he vist mai aquesta pel'licula .
+*CHI:	mira .
+*CHI:	mira .
+*ROS:	no l' he vist mai .
+*CHI:	mira com +...
+*QUI:	oi que no estan dintre la peixera ?
+*PAR:	no .
+*ROS:	beu aigua .
+*QUI:	la perla .
+*CHI:	xxx [% te la boca plena] .
+*QUI:	uf !
+*QUI:	uf !
+*CHI:	corren de pressa .
+*QUI:	aquell esta una mica gordet , eh .
+*ROS:	hum !
+*ROS:	i l' altre molt prim eh ?
+*QUI:	aquest s' entrebanca .
+*QUI:	mira .
+*QUI:	pum@c !
+*CHI:	xxx .
+*ROS:	te quim , beu una mica d' aigua .
+*ROS:	beu aigua .
+*ROS:	noi [% li dona aigua] .
+@Comment:	els adults parlen entre ells
+*QUI:	em tornare boig .
+*QUI:	veus com ara diu que es tornara boig ?
+*QUI:	veus com s' hi ha tornat ?
+*QUI:	xxx .
+*ROS:	guillem .
+*QUI:	ara sortira el tauro .
+*ROS:	guillem , la boca que te tanco la tele , eh ?
+*CHI:	0 [= fa que si amb el cap i mou la boca] .
+*ROS:	tu ?
+*CHI:	et dic que si .
+*ROS:	doncs no la mous .
+*QUI:	aixo es xxx aixi endarrera com el pare [% li toca el cabell] .
+*INV:	oita .
+*ROS:	escolta'm la boca aquesta que es mogui eh .
+*QUI:	que es aixo ?
+*QUI:	pum@c .
+*QUI:	es poden fer mal al peu .
+*ROS:	com esta aquesta boca guillem ?
+*QUI:	tot el rato es fa la ma .
+*QUI:	el peu .
+*QUI:	a tot arreu .
+*CHI:	chu@c chu@c .
+*QUI:	li ha dit vindrem i podrem .
+*QUI:	piu@c !
+@Comment:	adults parlen entre ells
+*QUI:	0 .
+%act:	fa l' avio
+*CHI:	li fa bigoti .
+*INV:	es un descarat aquest .
+*INV:	capita haddock es diu ?
+*PAR:	el que <es es> [/?] es una mica passota .
+*QUI:	i per que no mires la tele ?
+@Comment:	tall a la cinta
+*CHI:	xxx els reis que el van portar .
+*MAR:	si , ja ja , una cinta , un cassette d' aquells que s'escolta .
+*ROS:	i com es diu aquesta canco [>] ?
+*MAR:	<com es diu> [<] ?
+*ROS:	com es diu el nom de la canco ?
+*CHI:	que ?
+*ROS:	com es diu el nom de la canco ?
+*CHI:	no se .
+*CHI:	jo no se .
+*CHI:	potser xxx .
+*ROS:	doncs noi , que fas que no li preguntes ?
+*MAR:	si la canco mes bonica del mon o alguna cosa aixi no ?
+*MAR:	quines cancons hi ha que t' agraden molt ?
+*MAR:	que tu vols comprar ?
+*CHI:	la +...
+*CHI:	aquella .
+*ROS:	i quina es aquella ?
+*ROS:	que et fa mal el cap ?
+*CHI:	0 [= fa que no] .
+*ROS:	doncs per que t' arrepenges ?
+@Comment:	tall a la cinta , frame 4078
+*CHI:	has tancat la tele [% enfadat] .
+*INV:	i que passa , tu la vols ?
+*CHI:	si .
+*QUI:	posa'la on estava .
+*PAR:	la tanco eh ?
+*PAR:	ara mateix perque ara ja haurieu de ser al llit .
+*INV:	per que no vols que tanqui la tele el pare ?
+*PAR:	ei , escolta .
+@End

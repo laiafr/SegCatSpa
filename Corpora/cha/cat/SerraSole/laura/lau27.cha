@@ -1,0 +1,758 @@
+@UTF8
+@PID:	11312/c-00028110-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Laura Target_Child , IMM imma Sister , MAR mare Mother
+@ID:	cat|Serra|CHI|2;2.13||||Target_Child|||
+@ID:	cat|Serra|IMM|||||Sister|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@Comment:	l i I estan a terra jugant amb els barrufets , I esta treient els ninos d' una galleda , l s' ho mira
+*CHI:	pcf [% "cueta , cueta , cueta" , mira dins la galleda i a I alternativament , intenta agafar algun nino] .
+*IMM:	que vols [= mira dins la galleda] ?
+*CHI:	pcf [% "cueta" , posa la ma dins la galleda] .
+*IMM:	que vols [= va treien ninos] ?
+*CHI:	pcf [% "cueta" , segueix buscant dins la galleda] .
+*IMM:	que es la xxx [% "que es la cueta"] ?
+*CHI:	pcf [% "cueta xxx" , mira dins la galleda] .
+*CHI:	0 .
+%act:	apropa la galleda cap a ella i remena els ninos
+*CHI:	pcf [% "da" , va treient ninos de la galleda] .
+*CHI:	pcf [% "ia" , va treient ninos] .
+*IMM:	0 .
+%act:	pren la galleda a l
+*CHI:	pcf [% "ia quia" , mira cap a la galleda i s' aixeca] .
+*IMM:	0 .
+%act:	atanca la galleda
+*CHI:	si xxx [= esta d' esquena a la camera , agafa el telefon] .
+*IMM:	no .
+*IMM:	te , te [= li dona alguna cosa per a que deixi el telefon] .
+*CHI:	hum [= vacil'lacio , deixa l' auricular] !
+*CHI:	te , te [= te una cullera a la ma , vol donar menjar a I] .
+*IMM:	0 [= fa veure que menja] .
+*CHI:	pcf [% "aem" , seu a terra] .
+*CHI:	pcf [% "aae" , simula escurar el menjar d' un plat de juguet] .
+*IMM:	0 [= ensenya un barrufet a l] .
+*CHI:	te , te [= li dona mes menjar] .
+*IMM:	0 .
+%act:	continua ensenyant'li el barrufet per a que li dongui menjar a ell
+*CHI:	te [= dona menjar al barrufet] .
+*IMM:	0 [= fa soroll amb la boca i moneries amb el barrufet] .
+*CHI:	0 [=! riu] .
+*IMM:	pcf [% "nya" , mou el barrufet com si parles] .
+*CHI:	pcf [% "nya" , repeteix] .
+*CHI:	si [% "zi"] .
+*CHI:	boca .
+*CHI:	a veure [% "a vere" , agafa al barrufet pel cap] .
+*CHI:	nyam@c [% "aam"] .
+*IMM:	mira , veus .
+*IMM:	la boca oberta [= li ensenya el barrufet i obre la boca] .
+*CHI:	0 [= obre la boca imitant I] .
+*CHI:	si [% "zi"] .
+*CHI:	nyam@c [% "aam" , com si es menges el barrufet] .
+*CHI:	pcf [% "oue" , gira el cap i mira cap a l' esquerra per veure d' on ve un soroll] .
+*IMM:	0 .
+%act:	posa el plat entre les cames de l i dabant el barrufet
+*CHI:	te , te [= dona menjar al barrufet] .
+*CHI:	hum [= mou el barrufet] !
+*IMM:	0 .
+%act:	ajuda a l a col'locar be el barrufet i l' aguanta mentres l li dona menjar
+*CHI:	boca oberta [% "boca ouerta" , toca el barrufet] .
+*IMM:	boca oberta [= fa veure que obre la boca del barrufet] .
+*CHI:	te [= dona menjar al barrufet] .
+*CHI:	espera't , espera't [% "iat , iat" , escura el plat] .
+*CHI:	espera't , espera't [% "iat , iat" , s' incorpora i deixa el plat a terra] .
+*CHI:	0 .
+%act:	agafa la galleda i mira a dins
+*CHI:	pcf [% "pa , pa" , mira dins la galleda] .
+*CHI:	0 .
+%act:	deixa la galleda i torna a seure , agafa el plat i la cullera
+*IMM:	0 .
+%act:	atanca el barrufet a l
+*CHI:	pcf [% "eei" , escura el plat] .
+*CHI:	te [= dona menjar al barrufet] .
+*CHI:	boca oberta [% "oca verla" , agafa el barrufet i li mira la boca] .
+*CHI:	nyam@c .
+*CHI:	&obe [= mira la boca del barrufet] .
+*CHI:	cau , cau , cau !
+*IMM:	oi que cau ?
+*CHI:	no !
+*CHI:	te [= dona menjar al barrufet] .
+*CHI:	te .
+*CHI:	pcf [% "eeu" , s' apropa a I] .
+*CHI:	te [= dona menjar a I] .
+*CHI:	nyam@c [= dona menjar a I] .
+*CHI:	oberta [% "beta"] ?
+*CHI:	<nyam@c> [>] [= assenyala la boca de I] .
+*IMM:	<nyam@c> [<] [= obre la boca] .
+*CHI:	oberta [% "beta" , dona menjar a I] .
+*CHI:	te .
+@Comment:	del frame 1123 al 1137 , l va donant menjar a I tot dient te
+*CHI:	pcf [% "ula" , continua donant menjar a I] .
+*CHI:	te .
+*CHI:	ja esta , ja esta [% "nta , aeta" , deixa el plat i la cullera a terra] .
+*IMM:	xxx aqui [= posa el plat i la cullera dins la galleda] .
+*IMM:	mira .
+*IMM:	mira el tontin [= ensenya un nino a l] .
+*CHI:	0 [= mira a I] .
+*IMM:	el catalanitos .
+*IMM:	mira el catalanitos .
+*CHI:	aqui [= agafa un nino] .
+*CHI:	hola !
+*CHI:	pcf [% "condondondonudo" , fa parlar al nino] .
+*CHI:	aquest [% "aque" , agafa un altre nino] .
+*CHI:	tintin [= mira el nino] .
+*CHI:	pcf [% "iguato sigopatitoti" , fa saltar el nino tot tararejant] .
+*IMM:	mira la maya [= agafa el nino de l' abella maya] .
+*CHI:	maya !
+*CHI:	pcf [% "ato ato" , agafa un altre nino] .
+*CHI:	hola [= simula una interaccio entre el nino que ha agafat i el que ja tenia] !
+*CHI:	maya [= agafa l' abella] !
+*CHI:	hola maya [= simula que el nino que te a la ma saluda a la maya] !
+*CHI:	hola maya !
+*IMM:	hola , hola [= agafa l' abella i un altre nino] !
+*CHI:	ah [= I li ha tocat la cama amb un nino] !
+*CHI:	espera't [% "etat" , s' aixeca] .
+*CHI:	si [% "zi" , va cap a la galleda on estan els altres ninos] ?
+*IMM:	mira el zipi zape .
+*CHI:	pcf [% "ta"] .
+*CHI:	te [= dona a I un barrufet] .
+*CHI:	obre [% "ble" , dona menjar al barrufet] .
+*IMM:	0 .
+%act:	atanca el barrufet a l
+*CHI:	obre [% "oble" , atanca la cullera a la boca de I] !
+*IMM:	0 [= obre la boca] .
+*CHI:	nyam@c [= posa la cullera a la boca de I] .
+*IMM:	0 .
+%act:	apreta les dents i no li deixa treure la cullera
+*CHI:	hummm [= esforcant'se en treure la cullera fins que ho aconsegueix] !
+*CHI:	obre , obre [% "oble , oble" , dona menjar al barrufet] .
+*IMM:	0 .
+%act:	mou el barrufet com si menges
+*CHI:	obre , obre [% "oble , oble" , dona menjar a I] .
+*IMM:	hummm [= que bo] !
+*IMM:	ai la guagua [= mira a la camera i despres a l] !
+*CHI:	0 [= mira la camera] .
+*IMM:	ui !
+*IMM:	ai la guagua [= mira a l] !
+*CHI:	xxx [= sons innintel'ligibles] .
+*IMM:	ara tu .
+*IMM:	mira aixi .
+*IMM:	mira aixi , aixi [= dona menjar a l] .
+*CHI:	nyan@c [% "aaa" , obre la boca] .
+*CHI:	0 [=! riu] .
+@Comment:	del frame 1217 al 1221 , I introdueix la cullera en la boca de l pero abans de que pugui tancarla la treu , varies vegades , l va dient aaa i riu
+*IMM:	va , obre la boca .
+*CHI:	nyam@c [% "aa" , obre la boca] .
+*CHI:	pcf [% "va" , agafa el plat i la cullera] .
+*CHI:	pcf [% "avava"] .
+*IMM:	ara mira .
+*IMM:	aiaiai [= agafa una peca de la galleda i la llenca a l' aire] !
+*CHI:	0 [=! riu] .
+*CHI:	pcf [% "auo"] .
+*IMM:	ara vine aqui [= agafa una altra peca] .
+@Comment:	I i l van llencant peces alternativament mentre criden i riuen
+*CHI:	pcf [% "aava vo"] .
+*CHI:	pcf [% "ngue" , simula deixar una peca en la galleda pero abans de deixar'la caure l' enretira per a que no l' agafi I] .
+*CHI:	pcf [% "uego" , deixant caure la peca] .
+*IMM:	0 [=! riu] .
+*CHI:	pcf [% "ta gue"] .
+*CHI:	no , no , no [= no vol que I agafi una peca] .
+*CHI:	no [% "na"] .
+*CHI:	no [= atura la ma de I que esta intentant llencar una peca] .
+*CHI:	pcf [% "ta"] .
+*CHI:	si [= mira a I] .
+*IMM:	0 [= mira a terra] .
+*CHI:	pcf [% "ets"] .
+*CHI:	te , te , te , te [= agafa un barrufet i li dona a I] .
+*CHI:	te , te , te [= continua oferint el barrufet a I] .
+*IMM:	te , te , te [= repeteix , agafa el barrufet] .
+*CHI:	ja esta , ja esta [% "iets , ieats" , manipulant el plat i la cullera] .
+@Comment:	del frame 1264 al 1295 , l remena les joguines de la galleda sense dir res
+*CHI:	no [= remena els juguets] .
+*CHI:	pcf [% "da de"] .
+*CHI:	no .
+*CHI:	pcf [% "unateta"] .
+*CHI:	que es [% "ques"] ?
+@Comment:	se senten crits
+*CHI:	0 [= s' atura a escoltar] .
+*IMM:	mira , mira , mira [= manipula alguna cosa que no es veu] .
+*CHI:	0 .
+%act:	s' apropa a I
+*CHI:	pcf [% "ui"] .
+*IMM:	ui [= repeteix] !
+*CHI:	pcf [% "muy"] .
+*IMM:	espera't , espera't .
+*IMM:	si (.) espera't , espera't .
+*CHI:	oi [= mira amb sorpresa el que fa I] !
+*IMM:	espera't , espera't , espera't .
+*IMM:	iu !
+*CHI:	pcf [% "papa"] .
+*CHI:	0 .
+%act:	agafa el plat
+*CHI:	emma .
+*CHI:	emma , emma .
+*IMM:	si ?
+*CHI:	emma !
+*CHI:	pcf [% "tarnose"] .
+*CHI:	ja esta , ja esta [% "ta , nta" , deixa el plat a terra] .
+*CHI:	emma [= reclama la seva atencio] !
+*CHI:	pcf [% "ta" , li ensenya el plat i la cullera] .
+*CHI:	no [= I ha agafat una peca] .
+*CHI:	pcf [% "ta"] .
+*CHI:	te [= dona menjar a I] .
+*CHI:	te .
+*CHI:	nyam@c [% "aaa" , demanat'li que obri la boca] .
+*IMM:	0 [= no li fa cas] .
+*CHI:	emma , te , te .
+*IMM:	0 [= per fi obre la boca] .
+*CHI:	nyam@c [% "aaam" , mentre posa la cullera a la boca de I] .
+*IMM:	0 [= fa veure que menja] .
+*CHI:	nyam@c [% "am" , dona menjar a I] .
+*CHI:	te .
+*IMM:	0 .
+%act:	apropa la galleda de les joguines
+*CHI:	va [= deixa el plat i es disposa a remenar les joguines] !
+*CHI:	0 [= parrafada inintel'ligible] .
+*IMM:	espera't [= enretira l de la galleda] .
+*CHI:	emma .
+*IMM:	que ?
+*CHI:	espera't [% "eat"] .
+*IMM:	espera't , espera't , espera't .
+*IMM:	ui [= ensenya una peca a l i la fa sonar donant'li copets] !
+*CHI:	pcf [% "eeo" , intenta aturar I i agafar la peca] .
+*IMM:	espera't , espera't [= remena joguines que hi ha per terra] .
+*CHI:	0 .
+%act:	s' aixeca i s' apropa a I
+@Comment:	remenen les joguines
+*CHI:	pcf [% "papa" , agafa un io'io] .
+*CHI:	0 .
+%act:	torna a seure on estava
+*IMM:	espera't que t' ensenyare [= li agafa el io'io] .
+*CHI:	emma [= vol el io'io] !
+*IMM:	0 .
+%act:	ensenya a l com es fa
+*CHI:	0 [= emet sons de sorpresa] .
+*IMM:	0 .
+%act:	seu a terra i torna a enrotllar el fil
+*CHI:	auaua@c <io'io> [/?] .
+*CHI:	pcf [% "po" , intenta agafar la corda] .
+*IMM:	espera't .
+*IMM:	el uaua@c <io'io> [/?] .
+*CHI:	ja esta [% "ta"] .
+*IMM:	no , no esta .
+*CHI:	dona'm , dona'm [% "te , te" , allarga la ma , vol el io'io] .
+*CHI:	dona'm [% "te"] .
+*CHI:	auaua@c <io'io> [/?] .
+*IMM:	te .
+*IMM:	ara agafa .
+*IMM:	agafa per aqui [= li col'loca el io'io] .
+*IMM:	a veure [= acompanya la ma de l per a moure el io'io] .
+*IMM:	iu [= ha caigut el io'io] !
+*CHI:	0 [=! riu] .
+*IMM:	ara , va [= recull el io'io] .
+*CHI:	pcf [% "ui" , I li atanca el io'io] .
+*CHI:	pcf [% "ea" , intenta fer funcionar el io'io pero li cau] .
+*IMM:	ui [= recull el io'io] !
+*CHI:	0 [=! riu] .
+*IMM:	0 .
+%act:	li ensenya com ho ha de fer
+*CHI:	dona'm [% "te" , allarga la ma , vol el io'io] .
+*IMM:	ara em deixes a mi .
+*IMM:	0 .
+%act:	fa anar el io'io
+*CHI:	0 [=! riu] .
+*CHI:	dona'm [% "te" , allarga la ma , vol el io'io] .
+*CHI:	pcf [% "nga" , intenta fer anar el io'io] .
+*IMM:	0 .
+%act:	seu a terra i remena les joguines
+*CHI:	0 .
+%act:	intenta fer anar el io'io
+*CHI:	ui [= intenta enrotllar la corda] !
+*CHI:	pumba@c [% "bumbaa" , li ha caigut el io'io] !
+*CHI:	pcf [% "ia" , seu al costat de I] .
+*CHI:	emma .
+*IMM:	0 .
+%act:	juga amb els ninos
+*CHI:	emma , emma [= cridant i tocant a I] !
+*IMM:	que [>] ?
+*CHI:	<pcf [% "ea"]> [<] .
+*IMM:	0 .
+%act:	agafa el io'io
+*CHI:	emma , emma [= mirant el io'io] !
+*IMM:	te [= li dona el io'io] .
+*CHI:	emma .
+*IMM:	que vols [= ho diu tres cops] ?
+*CHI:	pcf [% "qui" , mirant el io'io] .
+*IMM:	si [= allarga la i] .
+*CHI:	pcf [% "qui"] .
+*CHI:	no , no .
+*IMM:	no pots ?
+*CHI:	si [= dona el io'io a I] .
+*CHI:	pcf [% "eu um"] .
+*CHI:	dona'm [% "te" , allarga la ma per agafar el io'io] .
+*CHI:	pcf [% "iess" , pot voler dir ja esta] .
+*CHI:	pcf [% "pa" , s' aixeca] .
+*CHI:	pcf [% "uuh" , deixa rodar el io'io] .
+*IMM:	alla [= ha caigut el io'io] .
+*IMM:	sota la cadira [= assenyala] .
+*CHI:	0 .
+%act:	va a buscar el io'io
+*CHI:	pcf [% "e e" , ensenya el io'io a I] .
+*CHI:	emma .
+*CHI:	emma &mi +...
+*CHI:	cucu@c [= seu al costat de I] !
+*IMM:	jo ?
+*CHI:	pcf [% "ateta" , fa un gest amb els bracos incitant a I a agafar el io'io] .
+@Comment:	tall a la cinta , frame 1528
+*IMM:	0 .
+%act:	ensenya a l com s'ha de fer anar el io'io
+*IMM:	aqui [= assenyala el terra mentres fa rodar el io'io] .
+*CHI:	aua@c <io'io> [/?] !
+*CHI:	avaaa@c <io'io> [/?] [= vol agafar el io'io] !
+*IMM:	te , te [= enrotlla la corda] .
+*CHI:	dona'm [% "te" , allargant la ma] .
+*IMM:	mira , mira .
+*IMM:	aixi , aixi [= fa una demostracio] .
+*IMM:	mira , espera't .
+*IMM:	espera't , espera't [= fa una altra demostracio] .
+*CHI:	molt be [% "aau be"] .
+*CHI:	molt be , molt be [% "o be , o be" , aplaudeix] .
+*CHI:	el aua@c <io'io> [/?] [% "o aua@c" , agafa el io'io] .
+*CHI:	pcf [% "iea"] .
+*IMM:	espera't .
+*CHI:	el uaua@c <io'io> [/?] [% "o uaua@c"] .
+*CHI:	uaua@c <io'io> [/?] [= dona tombs i enrotlla la corda per a que I no li prengui] .
+*IMM:	xxx tota ?
+*CHI:	no [= s' allunya de I] .
+*IMM:	no estara [= s' atanca a l] .
+*CHI:	no [= apreta el io'io entre les mans] .
+@Comment:	del frame 1547 al 1557 l corre cap al sofa , I la persegueix , seuen al sofa , I s' aixeca i torna a jugar amb les peces que hi ha a terra , l tambe s' aixeca i intenta fer anar el ioio
+*CHI:	molt be [% "o be" , fa rodar el io'io] !
+*IMM:	molt be [% "o be , repeteix l' expressio de l i aprofita per prendre'li el io'io] !
+*CHI:	dona'm [% "te" , allarga la ma] .
+*IMM:	espera't .
+*IMM:	ara be [= demostracio] .
+*CHI:	molt be , molt be , molt be [% "mo be , o be , o be" , aplaudeix] !
+*CHI:	el uaua@c <io'io> [/?] [% "e uaua@c"] !
+*CHI:	pcf [% "i" , allarga les mans per agafar el io'io] ?
+*CHI:	emma .
+*IMM:	mira , te [= dona a l una pulsera de plastic] .
+*CHI:	no , no .
+*CHI:	dona'm [% "te" , deixa caure la pulsera , vol el io'io] .
+*CHI:	emma .
+*CHI:	pcf [% "oea"] .
+@Comment:	tall a la cinta frame 1576 , l esta en un raco de l' habitacio , I te el io'io i el fa anar fent un soroll , l va cap i I s' agafa a les seves cames
+*CHI:	emma [= intenta agafar el io'io] .
+*IMM:	xxx xxx xxx .
+*IMM:	0 .
+%act:	col'loca el io'io a terra i l' arrossega estirant la corda
+*IMM:	un .
+*CHI:	dos .
+*CHI:	ja !
+*IMM:	espera't , espera't , espera't .
+*IMM:	mira , mira [= fa girar el io'io a l' aire] .
+*CHI:	el uaua@c <io'io> [/?] [= intenta agafar el io'io] .
+*CHI:	ja esta [% "iat"] .
+*IMM:	espera't .
+*CHI:	pcf [% "i" , intenta col'locar el io'io a terra com a fet I per a fer'lo rodar] .
+*CHI:	ui !
+*CHI:	no !
+*IMM:	aixi [= l' ajuda] .
+*IMM:	va .
+*CHI:	0 .
+%act:	estira la corda
+*IMM:	molt be !
+*CHI:	0 .
+%act:	fa rodar el io'io a l' aire
+*IMM:	aixi .
+*IMM:	va .
+*IMM:	vigila , vigila el piano .
+*IMM:	ui [= agafa el io'io i s' allunya del piano] !
+*CHI:	0 .
+%act:	segueix I tot rient i fent crits inintel'ligibles
+*IMM:	ui !
+*IMM:	agafa'l , agafa'l .
+*CHI:	0 [=! riu] .
+@Comment:	del frame 1616 al1626 , I te el io'io penjant , cada cop que l intenta agafarlo l' estira , l va rient i dient ui , canvi de context frame 1627 , l te un auricular de joguina trencat i intenta encaixar les dues peces separades
+*IMM:	mira , mira , mira [= agafa l' auricular] .
+*IMM:	diguim ?
+*IMM:	mira , mira .
+*IMM:	veus ?
+*IMM:	tu aquest [= ofereix a l una de les parts de l' auricular] .
+*IMM:	quin vols ?
+*IMM:	aquest o aquest ?
+*CHI:	no .
+*CHI:	aquest [= deixa caure la part de l' auricular que te a la ma] .
+*IMM:	quin vols ?
+*CHI:	es igual [% "ae gual"] .
+*IMM:	mira , mira , mira .
+*IMM:	aixi , aixi [= encaixa les dues peces] .
+*CHI:	ja esta [% "ta"] .
+*CHI:	xxx [= va a buscar el io'io] .
+*IMM:	que ?
+*CHI:	pcf [% "iaa"] .
+*IMM:	te , te , te el telefon .
+*IMM:	mira , aixi .
+*IMM:	digui , digui .
+@Comment:	tall a la cinta frame 1653 , l mira com I col'loca el io'io per a ferlo rodar per terra
+*IMM:	va , vinga !
+*CHI:	pcf [% "e mot eat" , intenta estirar la corda] .
+*IMM:	no .
+*IMM:	espera't , espera't , espera't .
+*IMM:	ara no .
+*IMM:	ara l' emma [= agafa el io'io] .
+*IMM:	surt !
+*IMM:	no toquis !
+*CHI:	pcf [% "aamome" , intenta agafar el io'io] .
+*CHI:	pcf [% "aaei" , cridant] .
+*CHI:	0 .
+%act:	aconsegueix el io'io
+@Comment:	sona el piano
+*IMM:	escolta .
+*IMM:	que se sent ?
+*IMM:	el piano !
+*CHI:	si .
+*IMM:	que es aixo que se sent ?
+*CHI:	d' alli [= assenyala la paret] .
+*IMM:	ja .
+*CHI:	emma .
+*CHI:	pcf [% "ada ata xxx" , assenyala la cadira] .
+*IMM:	si , un altre xxx , si [% "si , un altre colom , si"] .
+*IMM:	0 .
+%act:	s' atanca a l i intenta agafar li el io'io
+*CHI:	ai emma !
+@Comment:	del frame 1638 al 1686 , l emet verbalitzacions curtes i inintelligibles
+*CHI:	emma .
+*CHI:	pcf [% "ata ata" , deixa el io'io a terra] .
+*IMM:	mira , tu agafes aixo .
+*IMM:	mira , aixi [= col'loca el io'io de forma que rodi a l' estirar de la corda] .
+*IMM:	va .
+*CHI:	molt be [>] [% "mo be" , estirant la corda] !
+*IMM:	<molt be> [<] !
+*CHI:	molt be [% "o be" , torna a col'locar el io'io] .
+*IMM:	ara aixi .
+*IMM:	ara aixi .
+*IMM:	ara (.) fes aixi [= li ensenya com ho ha de fer] .
+*IMM:	aixi , aixi .
+*CHI:	0 [=! riu] .
+*CHI:	ui !
+*CHI:	emma !
+*IMM:	ui !
+*IMM:	tornem'hi ?
+*IMM:	ui [= col'loca el io'io] !
+*IMM:	quieta !
+*IMM:	no toquis !
+*CHI:	0 [=! riu] .
+*CHI:	ui !
+*CHI:	ai !
+*IMM:	ui , ui !
+*CHI:	pcf [% "pa pa oiaa" , mirant com I estira la corda] .
+*CHI:	0 .
+%act:	segueix I
+*IMM:	0 .
+%act:	enrotlla la corda
+*CHI:	el uaua@c <io'io> [/?] [% "o uaua@c"] .
+*CHI:	pcf [% "ei"] .
+*CHI:	el ua@c <io'io> [/?] [% "e ua@c"] .
+*IMM:	0 .
+%act:	fa rodar el io'io
+*CHI:	0 .
+%act:	riu i salta intentant agafar'lo
+*CHI:	el uaua@c , el uaua@c [% "o uaua@c , o uaua@c" , vol el io'io] .
+*IMM:	va , agafa'l .
+*CHI:	0 .
+%act:	intenta agafar'lo tot rient
+*CHI:	pcf [% "aa ee"] .
+*IMM:	0 .
+%act:	deixa que l agafi el io'io
+*CHI:	meva , meva .
+*CHI:	ja esta [% "e ta"] .
+*CHI:	emma !
+*CHI:	pcf [% "e tato a ta xxx" , deixa el io'io a terra i intenta arrossegar'lo] .
+*CHI:	pcf [% "ea asta" , dona el io'io a I] .
+*IMM:	si [= col'loca el io'io] .
+*CHI:	xxx aqui eh [% "as aqui eh"] ?
+*IMM:	si , va [= dona la corda a l] .
+@Comment:	del frame 1756 al 1763 , l estira la corda del io'io , I la segueix , quan arriben a l' extrem de l' habitacio l surt per la porta
+*IMM:	vinga !
+@Comment:	tall a la cinta , l i I estan al costat de la porta , I te el io'io , l intenta agafarlo
+*CHI:	emma !
+*IMM:	0 [= xiula] .
+*CHI:	pcf [% "ea"] .
+*CHI:	pcf [% "aa" , agafa el io'io] .
+*CHI:	xxx .
+*IMM:	que et caura [= mira a la camera] ?
+*IMM:	no , no , espera't , queda't [= cobreix el cap de l amb la ma i l' acosta cap a ella] +...
+@Comment:	tall a la cinta frame 1780 , l i I juguen a saltar una rutlla que hi ha a terra
+*IMM:	mira .
+*IMM:	a veure .
+*IMM:	aqui , aqui .
+*CHI:	0 [=! riu] .
+*IMM:	un , dos , tres [= dona dos salts] .
+*IMM:	ara tu .
+*IMM:	salta .
+*IMM:	salta aixo .
+*CHI:	0 .
+%act:	passa per sobre la rutlla
+*IMM:	molt be !
+@Comment:	l i I van saltant alternativament del frame 1787 al 1805
+*IMM:	mira , aixi [= salta] .
+*CHI:	no [= es deixa caure sobre el sofa] !
+*IMM:	salta aixo .
+*CHI:	0 .
+%act:	agafa el io'io i passa de I
+*CHI:	pcf [% "iut" , juga amb el io'io] .
+*IMM:	no .
+*IMM:	aixo no [= li pren el io'io] .
+*IMM:	va , fem un quina ma es ?
+*CHI:	0 .
+%act:	salta sobre la rutlla
+*IMM:	no .
+*CHI:	0 .
+%act:	agafa l' auricular
+*IMM:	mira laura .
+*IMM:	fem un quina ma es .
+*IMM:	laura !
+*IMM:	quina ma es [= amaga les mans darrera l' espatlla] ?
+*CHI:	quina [= agafa la ma dreta de I] !
+*CHI:	no [= a la ma de I no hi ha res] !
+*CHI:	0 .
+%act:	fa una volta al voltant de I
+*IMM:	0 .
+%act:	aprofita per canviar'se el io'io de ma
+*CHI:	dona'm , dona'm [% "te , te"] .
+*CHI:	dona'm [% "te"] .
+*MAR:	hola !
+*IMM:	ara ho agafes i +...
+*IMM:	en quina ma es ?
+*IMM:	0 .
+%act:	dona el io'io a l
+*CHI:	0 .
+%act:	juga amb el io'io
+*IMM:	va , dona'm .
+*CHI:	no !
+*IMM:	fes en quina ma es .
+*CHI:	0 .
+%act:	juga amb el io'io
+*IMM:	hola titi@c !
+*CHI:	hola titi@c [% "oaei titi"] !
+@Comment:	del frame 1859 al 1889 , l no fa cap verbalitzacio intelligible , nomes crits i rialles , I de quatre potes a terra porta a l a sobre l' espatlla
+*CHI:	ja esta [% "nta"] .
+*IMM:	ja esta ?
+*CHI:	si .
+*IMM:	0 .
+%act:	s' incorpora
+*CHI:	pcf [% "auue" , cau a terra] !
+*CHI:	pcf [% "teta aaii" , vol que I torni a adoptar la postura] .
+*IMM:	molt be [= s' ajup] .
+*CHI:	0 [=! riu] .
+*IMM:	com fan els cavalls ?
+*CHI:	xxx xxx [= baixa de l' espatlla de I] .
+*CHI:	xxx xxx [= intenta tornar a pujar] .
+*IMM:	ai que no pots !
+*IMM:	va , agafa't fort .
+*IMM:	agafa't fort .
+*CHI:	aua@c <io'io> [/?] [= mira sota el piano] .
+*IMM:	uaua@c <io'io> [/?] .
+*CHI:	emma eh [= es posa de quatre potes i vol que I pugi sobre] !
+*IMM:	xucuxua@c <soroll de cavall> [/?] [= es posa sobre l] .
+*IMM:	molt be !
+*IMM:	va !
+*IMM:	be !
+*IMM:	va [= fa caminar l] !
+*IMM:	pumba@c [% "bumba" , s' aixeca d' un salt] .
+*CHI:	pcf [% "oeu" , s' incorpora] !
+*CHI:	xxx xxx [= agafa la ma de I , vol que faci de cavall] .
+*CHI:	va !
+*CHI:	ximpan@c <intenta ser onomatopeia de cavall> [/?] .
+*IMM:	0 .
+%act:	es posa de quatre potes
+*CHI:	0 .
+%act:	puja sobre I
+*MAR:	0 .
+%act:	entra a l' habitacio
+*MAR:	que fas ?
+*CHI:	pcf [% "ta"] .
+*MAR:	aixo ?
+*MAR:	que podem jugar ?
+*MAR:	i qui es el cavall ?
+*CHI:	bopbop@c <trot del cavall> [/?] .
+@Comment:	del frame 1950 al 1958 , segueixen jugant sense emetre verbalitzacions , nomes rialles i crits
+*CHI:	el cul [= baixa de l' espatlla de I i s' aixeca la faldilla] !
+*IMM:	ara aixi , ara aixi .
+*IMM:	puja aqui , puja aqui .
+*CHI:	ui , ui , ui [= es toca la braga] !
+*IMM:	si .
+*IMM:	tens caca ?
+*CHI:	si .
+*IMM:	corre !
+*CHI:	no , no , no .
+*CHI:	no , no , no [% "na , na , na"] .
+*IMM:	no , no , no , no ?
+*IMM:	tens caca ?
+*CHI:	no .
+*IMM:	puja't les calsetes@c braga [/?] [= l' ajuda a pujar'se'les] .
+*CHI:	<xis , xis> [/?] aixi [% "xis"] ?
+*IMM:	aixi [= es posa de quatre potes] .
+*CHI:	aixi , aixi , aixi [% "aixi , xi , xi"] .
+*IMM:	aixi ?
+*CHI:	va [= seu sobre I] .
+@Comment:	del frame 1977 al 1988 , continuen jugant a cavall , I imita el cavall , l riu
+*IMM:	tornem'hi ?
+*CHI:	xxx aqui [= pressiona sobre el cap de I per a que quedi mes plana] .
+*IMM:	au [= es queixa de la pressio] !
+*CHI:	0 .
+%act:	s' acomoda sobre I
+*IMM:	tira't mes enrera .
+*CHI:	0 .
+%act:	ho fa
+*IMM:	ara !
+*IMM:	una miqueta mes endavant .
+*CHI:	0 .
+%act:	es col'loca mes enrera
+*IMM:	no .
+*IMM:	endavant , endavant .
+*CHI:	0 [=! riu] .
+*IMM:	no !
+*IMM:	surt !
+*CHI:	0 .
+%act:	baixa
+*IMM:	ara .
+*CHI:	0 .
+%act:	torna a pujar
+*IMM:	ara !
+*IMM:	agafa't fort , agafa't fort [= es mou] .
+*CHI:	hum [= satisfaccio] !
+*IMM:	ua [= esforcant'se per aixecar l] !
+*CHI:	agafa't fort [% "faet fort"] .
+*IMM:	agafa't fort .
+*IMM:	0 .
+%act:	comenca a trotar
+*CHI:	0 [=! riu] .
+*CHI:	0 .
+%act:	baixa
+*IMM:	pcf [% "aguaguaguagua" , fa una moneria a l] .
+*CHI:	0 [=! riu] .
+*CHI:	pcf [% "aguaaa" , repeteix] .
+*IMM:	ah bueno [= es treu les ulleres per a que l li toqui la cara] !
+*CHI:	pcf [% "uui" , toca la cara de I] .
+*CHI:	pcf [% "pa"] .
+*CHI:	pcf [% "aguaa" , demana les ulleres de I] .
+*IMM:	no , xxx no [% "no , agua no"] .
+*CHI:	pcf [% "ea i"] .
+*CHI:	aqui [% "qui" , toca la cara de I] .
+*IMM:	mira , aixi [= posa les ulleres a l] .
+*IMM:	ja esta [= li treu les ulleres] .
+*CHI:	no !
+*IMM:	no !
+*CHI:	ah [= es llenca sobre el sofa] !
+*CHI:	hum [= s' aixeca] !
+*IMM:	va , ballem .
+*CHI:	titotito@c titotito@c musica [/?] [= agafa les mans de I i dona bots] .
+*IMM:	titotito@c .
+*CHI:	titotito@c .
+@Comment:	del frame 2046 al 2059 , ballen tot tararejant
+*IMM:	mira aixi .
+*IMM:	mira .
+*IMM:	dona'm aquesta ma .
+*CHI:	0 [=! riu] .
+*IMM:	no , no ho fem +...
+*CHI:	0 .
+%act:	aixeca una cama
+*IMM:	ai que caus !
+*IMM:	treu !
+*IMM:	ai que caus !
+*CHI:	si (.) eh !
+*IMM:	ui !
+*IMM:	saps que ?
+*IMM:	que diu la pilar ?
+*IMM:	no ha dit que [= acaba la frasse a cau d' orella] +...
+*CHI:	0 [=! riu] .
+*CHI:	0 .
+%act:	es penja dels bracos de I amb el cap enrera
+*IMM:	saps que m' ha dit ?
+*IMM:	saps que m' ha dit ?
+*CHI:	pcf [% "atxa" , s' incorpora] .
+@Comment:	del frame 2090 al 2117 , I fa moneries a l , l no fa cap verbalitzacio intelligible
+*IMM:	que , fem una voltereta ?
+*CHI:	si [% "iii"] .
+*IMM:	si ?
+*IMM:	posa't , vinga posa't .
+*IMM:	un , dos , tres i (.) bum@c [= fa la voltereta a l] !
+*IMM:	ai !
+*IMM:	ai laura !
+*IMM:	i a santander que feiem rosquilles ?
+*CHI:	si [% "zi"] .
+*IMM:	feiem la croqueta ?
+*CHI:	si [% "sss"] .
+*IMM:	com se fa la croqueta ?
+*CHI:	0 .
+%act:	s' estira a terra
+*IMM:	fes la croqueta .
+*IMM:	mira aixi [= ensenya a l com es fa] .
+*IMM:	ja la faig jo la croqueta .
+*IMM:	surt [= s' atanca rodant a l] !
+*CHI:	pcf [% "aeoo" , es disposa a fer la croqueta] .
+*IMM:	surt !
+*IMM:	aixi .
+*IMM:	fes tu la croqueta .
+*IMM:	a veure , corre .
+@Comment:	del frame 2143 al 2161 , van fent la croqueta tot rodolant per terra , acaben assegudes cara a cara
+*CHI:	pcf [% "top" , ensenya alguna cosa a I] .
+*IMM:	mira , mira .
+*IMM:	a veure , juguem .
+*IMM:	titotito@c liruliru@c [= dona copets al cap de l amb l' objecte que l li ha donat] .
+*CHI:	0 [=! riu] .
+@Comment:	del frame 2169 al 2204 , l va corrent d' un lloc a l' altre de l' habitacio com si vulgues jugar a fet i amagar , hi acaben jugant
+*CHI:	eh emma [= surt de darrera el sofa i s' escapa corrent] !
+*IMM:	va laura !
+*IMM:	senta't , senta't .
+@Comment:	del frame 2208 al 2260 , continuen jugant a fet i amagar , I fa sorolls , l riu i fa exclamacions
+*CHI:	emma !
+*CHI:	emma !
+*CHI:	pcf [% "txuai"] ?
+*IMM:	doncs +...
+*IMM:	pcf [% "txobai"] ?
+*CHI:	si .
+*CHI:	pcf [% "toai"] .
+*IMM:	espera't laura , espera't .
+@Comment:	tall a la cinta frame 2069 , I de genollons , l puja a la seva espatlla
+*CHI:	pcf [% "tua" , baixa] .
+*IMM:	venga puja .
+*CHI:	pcf [% "dopi" , torna a pujar] .
+*IMM:	va , ara un tomb .
+*IMM:	0 .
+%act:	fa un tomb per darrera el sofa
+*CHI:	0 [=! riu] .
+*IMM:	tornem'hi ?
+*CHI:	si .
+*IMM:	altra volta ?
+*CHI:	si .
+*CHI:	va [= baixa] !
+*CHI:	tornem'hi [% "ornem'hi"] .
+*IMM:	tornem'hi ?
+*CHI:	si .
+*IMM:	va .
+*CHI:	0 .
+%act:	puja a l' espatlla de I
+*IMM:	ai !
+*CHI:	ai !
+*IMM:	aiuiuiai !
+*IMM:	agafa't fort .
+@Comment:	del frame 2290 al 2302 , juguen al cavall , l no diu res , tall a la cinta , I esta de genollons i l de'n peus al seu costat
+*IMM:	vols fer de cavall ?
+*CHI:	hola [= s' allunya de I] !
+*IMM:	va , fes de cavall .
+*IMM:	a veure .
+*IMM:	posa't com un cavall .
+*IMM:	a veure .
+*IMM:	va , posa't com un cavall .
+*IMM:	va !
+*CHI:	doncs [= es col'loca] +...
+*IMM:	molt be .
+*IMM:	aixi [= posa un barrufet sobre l' espatlla de l] .
+*IMM:	va , vinga !
+*CHI:	pcf [% "pa pa" , mira enrera per veure que te a l' espatlla] .
+*IMM:	no , aixi no .
+*CHI:	ai !
+@End

@@ -1,0 +1,428 @@
+@UTF8
+@PID:	11312/c-00028101-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Guillem Target_Child , QUI quim Brother , MAR mare Mother , INV Investigator
+@ID:	cat|Serra|CHI|3;7.16||||Target_Child|||
+@ID:	cat|Serra|QUI|||||Brother|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	estan al jardi berenant mentre miren un conte
+*QUI:	s' han de girar cap aqui .
+*MAR:	si pero , els indis no saben com es que surten .
+*MAR:	el pare no us el ha explicat mai ?
+*MAR:	vols seure tu , trasto [% a g] .
+*MAR:	el pare no us el ha explicat mai aquell de tintin a america ?
+*QUI:	mira el milu .
+*MAR:	si , si .
+*MAR:	seu [% a g] .
+*MAR:	si vols que l' expliqui seu .
+*MAR:	el tintin [% explica el conte] +...
+*MAR:	veus , aquest senyor li diu mans enlaire .
+*CHI:	a qui ?
+*MAR:	al tintin .
+*QUI:	i li tira el gerro .
+*MAR:	pero llavors el milu s' enfila a dalt <d' una> [/?] d' un armari +...
+*QUI:	que n' hi ha un gerro .
+*CHI:	que n' hi ha un gerro [% repeteix el que ha dit q] .
+*MAR:	i plaf@c !
+*QUI:	i dispara .
+*MAR:	llavors aquest dispara pero no toca al tintin .
+*QUI:	i tira en aqui .
+*CHI:	llavors veu passar un cargol i li tira un xxx .
+*MAR:	em sembla que has dit una cosa una mica estranya , eh .
+@Comment:	frame 4122
+*CHI:	<xxx xxx xxx> [>] .
+*QUI:	mira [<] .
+*CHI:	li tira una xxx enlaire .
+@Comment:	enraonen q i m
+*CHI:	eh !
+*CHI:	eh !
+*MAR:	que ?
+*CHI:	me'n compraras mes [% es refereix a coca'cola] ?
+*MAR:	si pero has d' anar en compte de que no et caigui .
+*QUI:	se n' ha begut una mica .
+*MAR:	si pero li ha caigut un got ple de coca'cola a terra .
+@Comment:	enraonen q i m , g comenca a donar salts tot dient ai
+*MAR:	guillem , vols venir .
+*CHI:	0 .
+%act:	s' asseu a taula
+@Comment:	m va explicant el conte mentre dona berenar a g , enraonen q i m
+*MAR:	llavors entra un senyor amb una pistola .
+*MAR:	bang@c bang@c bang@c .
+*CHI:	bang@c bang@c .
+*CHI:	i poing@c [% es dona un cop de puny ell mateix] .
+@Comment:	m va explicant el conte , enraonen q i m , g s' aixeca de la cadira
+*MAR:	escolta guillem , aixi va bastant malament , tu saps .
+*QUI:	pumba@c !
+*CHI:	li tirara +...
+*CHI:	pumba@c [% repeteix el pumba de q] !
+@Comment:	enraonen q i m , m va explicant el conte , g s' enfila sobre m
+*MAR:	aixi no puc guillem .
+*CHI:	www .
+%exp:	fa vocalitzacions
+@Comment:	tall a la cinta , ara estan asseguts a taula amb el pare tambe , q explica quelcom sobre rinoceronts
+*CHI:	oi que un dia +/.
+*QUI:	jo els vaig +/.
+*CHI:	jo !
+%com:	g al veure que no li fan cas comenca a cridar
+*MAR:	digues , digues [% a g] .
+*CHI:	un dia vaig anar a la piscina , em vaig tirar a l'aigua <i i com com el> [/?] com el tintin i vaig nadar <com com> [/?] com el +/.
+@Comment:	tall a la cinta , estan g i m estirats sobre uns matalassos al jardi , g s' aixeca i comenca a donar cops al gos
+*INV:	et mossegara , eh guillem , si el pegues .
+@Comment:	q i g juguen a tirarse sobre els matalassos , g torna amb el gos
+*CHI:	hola guapo [% al gos] .
+*CHI:	perrito .
+*CHI:	hola crio .
+*CHI:	xxx xxx xxx [% diu paraules sense sentit mentre toca el gos] .
+*CHI:	te fred .
+*CHI:	te [% tapa el gos amb una tovallola] .
+*MAR:	guillem !
+*MAR:	que no te fred el gos .
+@Comment:	el gos ho aguanta tot amb santa paciencia , g decideix tapar a m
+*MAR:	i jo tampoc .
+*MAR:	que no em &ta +/.
+*CHI:	&pis .
+*MAR:	guillem !
+@Comment:	enraonen q i e , g juga amb la tovallola
+*CHI:	alla voy .
+%com:	g no surt en imatge , em sembla que es llenca sobre m
+*QUI:	tinc una idea .
+*QUI:	tapem al gos ?
+*CHI:	si .
+@Comment:	q juga a toreros amb el gos , g riu
+*CHI:	xxx xxx el gos .
+@Comment:	el gos se'n va i g el persegueix per a torejarlo
+*CHI:	vamos .
+*CHI:	i vamos .
+*CHI:	i vamos .
+*CHI:	vamos torero .
+@Comment:	el gos ha marxat , g toreja l' aire amb la tovallola
+*CHI:	i vamos .
+*CHI:	vamos torero .
+*CHI:	alla voy .
+*CHI:	vamos torero .
+@Comment:	g , despres de fer un intent de tapar m , torna a perseguir el gos i li pega , el gos li ensenya les dents
+*INV:	et mossegara aquest gos al final .
+*INV:	et mossegara aquest gos , eh , guillem .
+*CHI:	0 .
+%act:	continua pegant al gos
+*INV:	et clavara una dentellada .
+@Comment:	g ara es llenca per sobre els matalassos crident
+*QUI:	guillem , tinc una idea .
+*QUI:	mira .
+*QUI:	jo vaig veure <que li dones> [/?] que li dono , eh , i tu el tapes per radera [% te quelcom a les mans] .
+*CHI:	vale .
+*QUI:	ara el vaig a obrir i me'l menjare jo .
+@Comment:	suposo que el que te q a les mans es una galeta , perque ara es el gos qui el persegueix mirantlo fixament a les mans
+*INV:	home , pobre gos .
+@Comment:	mentre el gos persegueix q , g persegueix el gos amb la tovallola
+*CHI:	guau@c [% intenta tapar al gos] .
+*QUI:	va , fica't a radera [% a g] .
+*QUI:	0 .
+%act:	dona la galeta al gos
+*QUI:	fica'l .
+*CHI:	0 .
+%act:	tapa al gos amb la tovallola
+@Comment:	riuen tots dos
+*QUI:	otra vez .
+*QUI:	va , fica't a radera .
+@Comment:	q fa veure que li dona la galeta al gos , g el tapa i q retira la galeta de la boca del gos , al final la cosa acabara malament
+*INV:	ai ai ai !
+*MAR:	feu'ho al reves quim .
+*MAR:	feu'ho al reves .
+*QUI:	aqui hi ha un cuc [% mira a terra] .
+*QUI:	vamos , vamos [% al gos] .
+*CHI:	xxx xxx un cuc [% mira on abans ha mira q] .
+@Comment:	continuen empipant al gos
+*QUI:	vine guillem .
+*QUI:	guillem .
+*QUI:	li faras tu , guillem , va , i jo el tapare .
+*QUI:	va guillem .
+*CHI:	no toquis [% al gos] .
+*QUI:	pero fes'li veure , eh , que no se'l mengi , eh .
+*QUI:	va , va .
+*QUI:	0 .
+%act:	intenta tapar al gos
+*CHI:	ele torero !
+*CHI:	ele !
+*MAR:	ai , casi quim .
+*CHI:	0 .
+%act:	pega al gos
+*INV:	no li peguis .
+*CHI:	vamos torero [% ensenyant la galeta al gos] .
+*QUI:	no tens que picar guillem .
+*CHI:	vamos torero .
+*CHI:	vamos torero .
+*MAR:	doneu'li ja .
+*INV:	doneu'li la galeta .
+*MAR:	dona'li ja guillem .
+*INV:	dona'li la galeta home .
+*CHI:	no en tenim cap .
+@Comment:	continuen empipant el gos
+*QUI:	tinc una idea guillem .
+*QUI:	tu l' agafes +...
+*QUI:	em sembla que es aixi .
+@Comment:	agafen la tovallola casdascun per una banda
+*QUI:	va , ara fiquem .
+@Comment:	persegueixen el gos , g continua pegantlo
+*INV:	no el peguis guillem home !
+@Comment:	ara empipen el gos amb una escombra , despres empipen m , van variant , tot en mig de crits i exclamacions , quan g es cansa d'empipar el gos amb l' escombra decideix ferli petons
+*INV:	pero guillem , no li facis petons si abans el pegues .
+@Comment:	tornen a empipar el gos
+*INV:	deixeu'lo estar .
+*INV:	que l' espanteu .
+@Comment:	so defectuos , frame 4582 fins 4591
+*INV:	aquest gos es amic vostre o no ?
+*INV:	es amic vostre o no ?
+*INV:	expliqueu'me si es amic vostre o no el gos .
+*INV:	es amic vostre o no el gos ?
+*QUI:	si .
+*CHI:	es amic vostre .
+*INV:	vostre ?
+*CHI:	si .
+*CHI:	ai gos !
+@Comment:	no es veu que li fa el gos a g , e intenta convencer als nens per a que deixin el gos en pau , tot es un garbuix d' imatges
+*QUI:	vull aigua .
+*INV:	que pica ?
+*CHI:	vull aigua .
+*MAR:	doncs a la nevera n' hi ha .
+*INV:	que pica ?
+*CHI:	0 [= fa que si amb el cap] .
+*CHI:	si , que pica .
+*MAR:	no n' hi ha de que pica .
+@Comment:	els nens comecen a correr pel jardi
+*QUI:	va guillem .
+*QUI:	guillem va .
+*QUI:	no te'n tens d' anar .
+@Comment:	es persegueixen
+*CHI:	no .
+*CHI:	jo me tinc que +...
+*CHI:	jo , quim .
+*CHI:	jo me tinc que amagar .
+*CHI:	i estic a [% es posa sota un matalas pero deixa el cap visible] +...
+*QUI:	jo et vaig descobrir .
+*QUI:	que es aixo ?
+*QUI:	una cabeza turca .
+*QUI:	no .
+*QUI:	guillem .
+*QUI:	estira't [% el vol tapar mes] .
+*CHI:	ai !
+*QUI:	estira't home .
+*QUI:	et tens que estirar (.) aqui sota .
+*CHI:	pero si me poses a sobre meu +...
+*QUI:	ja te tengo .
+@Comment:	g surt de sota el matalas i es persegueixen
+*QUI:	no !
+*QUI:	no tens tens que anar .
+@Comment:	g corre cap a m i es llenca sobre el matalas
+*CHI:	hola xxx [% la xxx es una paraula inventada] .
+@Comment:	q no para d' enraonar i cridar , g s' estira al costat de m
+*QUI:	me'n vaig a buscar el cordobes perque t' atropelli .
+*QUI:	a l' atac !
+*CHI:	0 .
+%act:	s' aixeca i mira q
+@Comment:	q torna sense res , es persegueixen
+*CHI:	0 [=! plora] .
+*MAR:	on t' has fet mal ?
+*CHI:	no .
+*CHI:	el quim m' ha fet mal .
+*MAR:	a on ?
+*CHI:	m' ha fet mal i m' he caigut jo i m' ha fet mal .
+*MAR:	a on ?
+*CHI:	aqui [% s' assenyala el pit] .
+*MAR:	a la teta ?
+*CHI:	si [% ho acompanya amb el cap] .
+*MAR:	0 .
+%act:	fa pessigolles a g
+*CHI:	0 [=! riu] .
+@Comment:	els nens tornen a perseguirse , frame 4746
+*CHI:	al ataque [% es llenca sobre q] .
+*CHI:	a l' atac .
+*CHI:	al ataque .
+*QUI:	a l' atac .
+@Comment:	fan veure que es barallen , q empeny g que cau sobre el matalas
+*MAR:	compte eh .
+*MAR:	t' has fet mal ?
+*CHI:	no .
+*CHI:	m' he fet mal al peu .
+*QUI:	a l' atac .
+@Comment:	la baralla comenca a pujar de to , g es queixa
+*MAR:	compte quim .
+*MAR:	compte .
+*MAR:	prou , prou que ara ja us feu mal .
+*MAR:	tombarella ara , va tombarella .
+*CHI:	0 .
+%act:	fa una tombarella
+*MAR:	ole !
+*MAR:	ara tombarella el quim .
+*QUI:	0 .
+%act:	fa una tombarella
+*MAR:	molt be !
+*QUI:	va , barallem'se .
+@Comment:	els nens fan tonteries , ara es llencen sobre m
+*CHI:	xxx xxx .
+*QUI:	no podeu amb mi .
+@Comment:	es persegueixen
+*CHI:	ara barallem'se .
+@Comment:	es llencen sobre el matalas
+*QUI:	a l' atac .
+@Comment:	continuen fent veure que es barallen , g es toca el nas
+*MAR:	que ha passat ?
+*MAR:	el nas ?
+*CHI:	si .
+*CHI:	el nas .
+*QUI:	va .
+*CHI:	xxx que no me facis [% "fagis"] mal , eh .
+*QUI:	0 .
+%act:	dona un cop a g
+*CHI:	ah !
+*CHI:	ara me fas mal aqui [% es toca el colze] .
+@Comment:	m fa mimos a g
+*CHI:	jo no jugo mes .
+*QUI:	vale , no et fare mal .
+@Comment:	tornen a barallarse
+*QUI:	va guillem .
+*QUI:	a l' atac .
+@Comment:	g agafa l' escombra
+*MAR:	no !
+*MAR:	no .
+*CHI:	al ataque .
+*QUI:	a l' atac .
+@Comment:	q empeny g que cau a terra
+*CHI:	ara m' has fet mal quim .
+*QUI:	a on [% "abon"] ?
+*CHI:	aqui [% es toca el genoll] .
+@Comment:	m fa moneries a q , despres tornen a barallarse
+*CHI:	al ataque [% marxa corrent] .
+*QUI:	guillem no !
+@Comment:	g torna i s' incorpora al joc de m i q , es barallen tots tres
+*CHI:	imbecil [% a q] .
+*MAR:	pero que dius aixo .
+@Comment:	es persegueixen , es llencen sobre m , riuen
+*MAR:	jo ja no jugo mes .
+*QUI:	va guillem .
+@Comment:	continuen llencantse sobre m
+*CHI:	jo tinc sed .
+*QUI:	veu al galet .
+*MAR:	jo tinc buit .
+@Comment:	g desapareix de la imatge va a beure , q es llenca sobre m
+*MAR:	ai !
+@Comment:	tall a la cinta , estan tots tres asseguts sobre un matalas
+*QUI:	va , fem guerra .
+*CHI:	0 .
+%act:	pega al gos
+*MAR:	deixa estar al gos guillem .
+*QUI:	que no fem guerra .
+@Comment:	fan veure que es barallen , enraonen q i e , continuen barallant'se
+*CHI:	a l' atac .
+*CHI:	al ataque [% mentre empipa al gos] .
+@Comment:	g empipa al gos tot fent vocalitzacions
+*MAR:	guillem !
+@Comment:	el gos s' aixeca i fuig
+*CHI:	barrera contra el gos [% persegueix el gos amb un matalas] .
+*MAR:	el gos se n' anira de casa i no tornara mai mes , guillem .
+@Comment:	continuen empipant el gos
+*MAR:	guillem !
+@Comment:	q vol fer una barricada amb el matalas per a que el gos no pugui passar
+*QUI:	va , ajuda'm guillem .
+*CHI:	xxx .
+*CHI:	posem aquest [% vol el matalas de m] .
+*MAR:	aquest es meu .
+*CHI:	es que sino no podem posar aqui i el gos sortira .
+*MAR:	s' anira per alla .
+@Comment:	frame 5025
+*QUI:	en necessitem un de molt llarg .
+*CHI:	xxx xxx xxx pasar per aqui i xxx xxx xxx .
+@Comment:	continuen empipant el gos , enraonen e i q , tall a la cinta , ara estan asseguts a terra mirant una formiga
+*MAR:	que segueix un cami ella , pobreta .
+*MAR:	treu la ma que segueix un cami ella [% a g] .
+*MAR:	ella ja sap on va .
+*QUI:	perque no ho mirem ?
+*MAR:	seguiu'la a veure [% "aviam"] fins on va , pero no la toqueu .
+*MAR:	no la toqueu perque sino no trobara la seva casa .
+*CHI:	jo la tocare .
+*MAR:	pero si tu la toques +/.
+*QUI:	no , que es morira .
+*MAR:	no ho veureu .
+@Comment:	g s' aixeca i marxa cridant a pegar al gos
+*MAR:	perque li fas aixo ?
+*CHI:	el que ?
+*MAR:	no la peguis .
+@Comment:	g continua perseguint el gos
+*INV:	deixa estar el gos , home .
+*INV:	deixa estar el gos .
+*INV:	no el peguis guillem .
+*INV:	perque el pegues al gos ?
+*CHI:	on esta la formigueta [% busca la formiga d' avans] ?
+*MAR:	mira'la .
+*MAR:	aqui .
+*CHI:	0 .
+%act:	posa el dit sobre la formiga
+*MAR:	no la toquis !
+*MAR:	ja esta , ja li has xxx el menjar .
+*CHI:	0 .
+%act:	torna a tocar la formiga
+*QUI:	no guillem !
+@Comment:	enraonen m i q , observen atentament la formiga , g tira saliva a la formiga
+*MAR:	guillem , perque ets tan marrano ?
+*MAR:	no tiris saliva .
+*MAR:	que la vols ofegar ?
+@Comment:	enraonen q i m
+*QUI:	<d' abon> [/?] d' on [% "d' abon"] l' ha agafat el menjar ?
+*CHI:	eh !
+*MAR:	que ?
+*CHI:	d' on [% "abon"] l' ha agafat el [/?] el menjar ?
+*MAR:	no ho se .
+*MAR:	potser era un trosset de pa que ha trobat (.) per terra .
+@Comment:	enraonen q i m , g vol tocar la formiga , q no li deixa
+*CHI:	pobrissona [% despres d' emprenyar'la li fa pena] .
+*QUI:	es petita , eh .
+*CHI:	es petita .
+*QUI:	vols que porti algun pare o alguna mare ?
+*CHI:	vols que porti [% anava a repetir el que ha dit q , com de costum] +/.
+*QUI:	ara vaig a agafar alguna .
+*QUI:	una petita .
+@Comment:	suposo que q busca una altra formiga , g es queda tocant la formiga
+*INV:	ja l' has matada ?
+*CHI:	0 [= mira a e somrient] .
+*MAR:	no , li ha pres el menjar .
+*QUI:	guillem , li has pres el menjar ?
+@Comment:	g va tocant la formiga , de vegades fa vocalitzacions inintel'ligibles , tall a la cinta , g es llenca sobre m
+*INV:	que et passa guillem ?
+*CHI:	xxx xxx xxx .
+*INV:	tens el singlot ?
+@Comment:	q comenca a tirar pinyes a e , g empipa altre cop al gos
+*CHI:	tonto [% al gos] .
+@Comment:	tall a la cinta , q i g maten formigues
+*CHI:	aixo ja xxx [% toca una formiga] .
+*CHI:	una altra gran .
+*INV:	les matareu totes les grans , eh .
+@Comment:	tall a la cinta , g juga amb el gos
+*CHI:	que xxx xxx [% al gos] .
+*CHI:	que xxx xxx .
+*QUI:	que en vols cap mes ?
+*QUI:	en vols cap mes de gran ?
+*CHI:	no .
+*CHI:	que jo estic molt cansat .
+*INV:	estat cansat guillem ?
+@Comment:	g esta estirat sobre un matalas que es mig repenja en una cadira
+*QUI:	jo treure la cadira , eh .
+*CHI:	no el treguis .
+*CHI:	no +/.
+*QUI:	eh guillem home , que et tens que estirar be , home .
+@Comment:	q va apartarse a e per a col'locar be matalas
+*QUI:	surt que posare mes aqui .
+*CHI:	si .
+*CHI:	posara +...
+*CHI:	pero +...
+*QUI:	ho posare mes be , home .
+*CHI:	imbecil [% al gos] .
+@Comment:	tall a la cinta , g esta estirat sobre el matalas , s'aixeca i va cap a q que esta mirant formigues
+*CHI:	perque xxx xxx .
+*CHI:	que estic cansat .
+@Comment:	tall a la cinta , g s' estira i s' aixeca del matalas , finalment s'estira al costat de m , hi ha diversos talls a la cinta , so defectuos , frame 5249
+*MAR:	perque tu no tens forat [% em sembla que es refereixen al forat de l' orella] .
+*CHI:	a veure si tens un forat .
+@Comment:	tall a la cinta , frame 5274 , so defectuos fins el final , Q i G comencen a barallar'se
+@End

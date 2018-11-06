@@ -1,0 +1,230 @@
+@UTF8
+@Begin
+@Languages:	cat, spa
+@Participants:	MIR Mireia Target_Child, MOT Mother, FAT Father
+@ID:	cat|change_me_later|MIR|2;1.14||||Target_Child|||
+@ID:	cat|change_me_later|MOT|||||Mother|||
+@ID:	cat|change_me_later|FAT|||||Father|||
+@Date:	24-DEC-1995
+@Location:	in the toy-room
+@Activities:	MIR is playing with her toys
+@Comment:	MOT is video-taping
+*MOT:	on t'has anat avui (.) Mimi (.) amb el papa ?
+*FAT:	on t'hem anat (.) Mimi (.) on t'hem anat ?
+*MIR:	al circ (.) al circ .
+*FAT:	al circ (.) molt bé .
+*MIR:	(ha)via un pallasso gran [= gan] .
+*FAT:	i tenia unes sabates ?
+*MIR:	botes .
+*FAT:	botes grans .
+*MIR:	a Mimi té botes petites .
+@New Episode
+*MIR:	pilotes !
+*MOT:	moltes pilotes ?
+*FAT:	i bolos .
+*MIR:	i bolos .
+*FAT:	i les tiraven enlaire les pilotes ?
+*MIR:	ara netejo aquí .
+%exp:	the floor of the toy-room
+*MOT:	ara netejes aquí ?
+*MOT:	ara netejo aquí .
+*MIR:	tu t'esperes aquí .
+%exp:	in the sitting-room
+*MOT:	jo què faig ?
+*MOT:	jo m'espero aquí (.) tu t'esperes aquí .
+*MIR:	tu mires .
+*MOT:	vale (.) tu mires .
+*MIR:	vale .
+*MOT:	què ?
+*MIR:	el rastrell .
+*MIR:	0 .
+%act:	scrapes the floor with a plastic rake
+*MIR:	fa aixís .
+*MIR:	mira .
+*MOT:	fa aixís (.) mira .
+*MOT:	què estás fent ?
+*MIR:	aquí .
+*MIR:	això fora .
+%act:	moves a doll out of her way
+*MOT:	això fora (.) vale .
+*MIR:	estic aquí (.) aquest costat .
+*MIR:	passo per aquí .
+*MOT:	passo per aquí .
+*MIR:	0 .
+%act:	moves a rope away with the rake
+*MIR:	això fora .
+%act:	moves away a hairband with the rake
+*MIR:	la meva diadema !
+*MOT:	la teva diadema .
+*MIR:	0 .
+%act:	picks up a tray
+*MIR:	això per posar pà .
+*MOT:	per posar pà (.) sí (.) per posar pà (.) sí .
+*MOT:	com t'agrada el pà a tu ?
+*MIR:	0 .
+%act:	drops the tray, the rake and a shovel
+*MIR:	xxx enciam [= ?] .
+*MOT:	eh ?
+*MIR:	enciam (.) enciam[= ?] !
+*MOT:	enciam ?
+*MIR:	enciam[= ?] !
+*MIR:	a Mimi te porta aquesta cadireta i a deixa a terra i tu mires .
+%act:	brings a footstool to MOT
+*MOT:	vale (.) la Mimi agafa aquesta cadireta i la deixa al terra i tu
+	mires (.) vale (.) jo miro (.) carinyo .
+*MOT:	jo què miro ?
+*MIR:	xxx .
+*MOT:	xxx .
+*MIR:	aquí (.) aquí .
+*MIR:	això és a pera [= pella] .
+%act:	picks up a plastic pear and fetches a basket with other pieces of fruit in it
+*MOT:	què és ?
+*MIR:	això és (.) això és a fruita [= fuita] .
+*MOT:	ah (.) sí (.) la fruita (.) la fruita (.) ah (.) i la pera (.) sí
+	senyor !
+*MIR:	0 .
+%act:	sits beside a chest where her toys are kept
+*MIR:	això també és a fruita .
+%act:	points to another piece of fruit
+*MIR:	això és a bagul .
+*MIR:	no és una fruita .
+*MIR:	és un bagul .
+*MOT:	això és un bagul (.) no és una fruita .
+*MIR:	au@i (.) ma punxat a rastrell aquest !
+%act:	rubs her leg
+*MOT:	t'ha punxat el rastrell aquí ?
+*MIR:	ara no .
+*MOT:	ara no (.) vale .
+*MIR:	0 .
+%act:	takes a book from the chest
+*MIR:	aquest va comprar .
+*MOT:	quí el va comprar ?
+*MIR:	a mama .
+*MOT:	ah sí !
+*MIR:	és gran .
+*MOT:	és nou ?
+*MIR:	és a Mimi (.) és petit .
+*MIR:	és a Mimi (.) és gran .
+*MIR:	és a Mimi (.) és petit .
+*MIR:	tinc un petit i un gran .
+*MOT:	tens un petit i un gran ?
+*MIR:	tu quan eres petita tenies molt gran .
+*MIR:	a Mimi era petita té molt grans .
+*MIR:	a Mimi ara gran (.) mira .
+*MOT:	la Mimi era gran ?
+*MIR:	0 .
+%act:	puts the tray on her head
+*MIR:	mira (.) mira .
+*MOT:	ui (.) qué gran !
+*MOT:	la Mimi era gran .
+*MOT:	què fas ?
+*MIR:	0 .
+%act:	knocks her head on the camera
+*MIR:	coco@c .
+*MOT:	coco ?
+*MOT:	no facis un coco !
+*MIR:	0 .
+%act:	knocks her head again on the camera
+*MIR:	coco@c .
+*MOT:	cuidado que es trencarà (.) no !
+*MIR:	mira (.) mira quin barret .
+%act:	puts the tray on her head
+*MOT:	ui (.) quin barret (.) quin barret !
+*MIR:	s'aguanta .
+*MOT:	s'aguanta ?
+%sit:	the tray falls from MIR's head
+*MOT:	pum !
+*MIR:	tu ta poses aquest barret .
+%act:	takes another tray and puts it on MOT's head
+*MOT:	tu te poses aquest barret .
+*MOT:	i tu (.) eh ?
+*MIR:	un altre .
+*MOT:	un altre (.) quin ?
+*MIR:	aquest (.) aquest .
+%act:	takes the tray off MOT's head and puts it on hers
+*MIR:	aquest s'aguanta .
+*MOT:	aquest s'aguanta .
+*MIR:	tu aquest .
+%act:	puts the other tray on MOT's head . MIR puts hers on the floor
+*MIR:	aquest a netejo aquí a terra .
+%act:	leaves the tray on the living-room floor
+*MOT:	totes les coses deixes aquí al terra ?
+*MIR:	això .
+*MOT:	no (.) tu ves al billar (.) mira quantes cosetes al billar .
+*MIR:	aquí hi ha moltes cosetes a billar .
+*MOT:	hi ha moltes cosetes al billar .
+*MIR:	a tiro aquí .
+*MIR:	a Mimi tira moltes cosetes aquí .
+%act:	throws one of her toys into the living-room
+*MOT:	no m'agrada que tiris coses a fora del billar .
+*MIR:	mira !
+*MOT:	què fas ?
+*MIR:	mira (.) faig així (.) mira .
+%act:	points to the step outside the toy-room
+*MOT:	faig així .
+*MIR:	mira que faig .
+%act:	throws another toy into the living-room
+*MOT:	pum !
+*MIR:	0 .
+%act:	fetches another toy and throws it into the living-room . She laughs
+*MOT:	bitxo (.) bitxo !
+*MOT:	què has fet (.) què has fet ?
+*MIR:	0 .
+%act:	throws another toy
+*MOT:	ui (.) què fas (.) què fas (.) què has fet ?
+*MIR:	fet així pum@o !
+*MOT:	no !
+*MIR:	tinc molt barret .
+*MIR:	tinc un barret per tu .
+%act:	picks up a very small hat
+*MOT:	un barret per mi ?
+*MIR:	mira (.) va bé aquest petit ?
+%act:	puts it on MOT's head
+*MOT:	va bé aquest petit ?
+*MOT:	no em va bé (.) aquest petit no em va bé !
+*MOT:	què fas ?
+*MIR:	mira (.) a pala i rastrell estan aquí .
+*MIR:	a pala està aquí .
+%act:	picks up the rake and the shovel
+*MOT:	la paleta i el rastrell estan aquí (.) sí .
+*MIR:	0 .
+%act:	throws another toy into the living-room
+*MOT:	ui (.) què fas (.) bitxo ?
+*MIR:	així pum@o !
+*MOT:	no (.) ho hauràs de tornar a ordenar (.) eh ?
+*MIR:	0 .
+%act:	licks the rake and the shovel
+*MOT:	no (.) la pala a la boca no (.) carinyo (.) que va per terra (.)
+	treu (.) treu (.) a la boca no .
+*MIR:	s'embruta per aquí (.) i per aquí (.) i per aquí .
+%act:	touches the floor with the rake and the shovel
+*MOT:	s'embruta per aquí (.) clar (.) es clar que sí que s'embruta .
+*MIR:	sí .
+*MIR:	està neta ?
+*MIR:	agafo un drap a cuina i netejo a pala i a rastrell .
+*MOT:	un drap de la cuina ?
+*MIR:	un drap a cuina .
+*MOT:	i netejes la pala i el rastrell ?
+*MOT:	bueno .
+*MIR:	0 .
+%act:	fetches a dish towel
+*MIR:	cucut@wp !
+*MOT:	hola !
+*MIR:	hola !
+*MOT:	quí ha vingut ?
+*MIR:	a Mimi a billar .
+%act:	cleans the shovel with the dish towel and licks it
+*MOT:	ara t'ho poses a la boca (.) un cop net ?
+*MOT:	però no m'agrada que t'ho posis a la boca (.) Mireia (.) no que
+	segueix estant brut !
+*MIR:	0 .
+%act:	leaves the toy-room
+*MOT:	on vas ?
+*MIR:	agafar (.) agafar pilotes .
+%act:	comes back with two balls and gives one to MOT
+*MIR:	tu aquesta .
+*MIR:	jugem a pilotes .
+*MIR:	es fa així .
+%act:	fetches a box and places it in front of her
+*MIR:	a tirar aquí .
+@End

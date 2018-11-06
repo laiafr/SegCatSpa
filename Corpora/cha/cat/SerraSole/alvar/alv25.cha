@@ -1,0 +1,689 @@
+@UTF8
+@PID:	11312/c-00028039-1
+@Begin
+@Languages:	cat
+@Participants:	CHI Alvar Target_Child , MAR mare Mother , INV Investigator
+@ID:	cat|Serra|CHI|2;1.22||||Target_Child|||
+@ID:	cat|Serra|MAR|||||Mother|||
+@ID:	cat|Serra|INV|||||Investigator|||
+@Comment:	a esta jugant al terra de l' habitacio , m esta darrera la porta de l' habitacio
+*MAR:	a veure , a veure , a veure , a veure ?
+*MAR:	on ets ?
+*CHI:	0 [=! riu] .
+*CHI:	0 .
+%act:	s' aboca per la porta rient
+*MAR:	ah [= sorpresa] !
+*CHI:	0 .
+%act:	s' amaga darrera la porta
+*MAR:	a veure , a veure , a veure , a veure ?
+*MAR:	on ets , on ets , on ets ?
+*MAR:	que no et veig !
+*CHI:	0 .
+%act:	surt darrera la porta
+*CHI:	0 .
+%act:	es llenca cap a m
+*MAR:	que no et veig !
+*MAR:	que no puc !
+*MAR:	0 .
+%act:	agafa a i l' abraca
+*CHI:	0 [=! riu] .
+*MAR:	cuidado que caus !
+@Comment:	a i m s' abracen
+*MAR:	hum !
+*MAR:	a veure , ves a veure la caseta .
+*CHI:	0 .
+%act:	aparta la bicicleta
+*MAR:	on esta la caseta ?
+*MAR:	a veure [% "aviam"] .
+*CHI:	0 .
+%act:	torna de quatre grapes darrera la porta
+*CHI:	aqui [% "qui"] !
+*CHI:	a caseta .
+*CHI:	ai [= es llenca a terra] !
+*MAR:	bsss@c bsss@c bsss@c [= crida a] !
+*CHI:	0 .
+%act:	torna de quatre grapes cap m i rient
+*MAR:	que ets un gatet ?
+*INV:	que fas el gat ?
+*MAR:	miau@c , miau@c , que fas el gatet ?
+*CHI:	miau@c .
+*CHI:	0 .
+%act:	surt de l' habitacio de quatre grapes de forma compassada
+*MAR:	que fa la carme ?
+*MAR:	que fas ?
+*MAR:	eh ?
+@Comment:	a va cap a la sala rient
+*CHI:	0 .
+%act:	seu a un sofa
+*CHI:	0 .
+%act:	saluda la camera rient i amb els dos bracos aixecats movent les mans
+*MAR:	que saludes ?
+*CHI:	0 .
+%act:	baixa rient del sofa
+*CHI:	0 .
+%act:	esgarrapa
+*MAR:	aquest nen no es un nen , es un gat .
+*CHI:	0 .
+%act:	el nen s' estira a terra rient
+*MAR:	que ha passat ?
+*CHI:	0 .
+%act:	torna a esgarrapar
+@Comment:	m i a en l' habitacio d' abans , m esta asseguda al llit , a esta de peu al costat de m , m eixuga el mocs d' a , a agafa la catifa del terra
+*MAR:	no , no , aixo no !
+*CHI:	pcf [% "mua , mua , mua"] .
+*MAR:	feia la granota .
+*CHI:	0 [= mira a m assegut] .
+*CHI:	si [% "tsi"] .
+*MAR:	eh ?
+*MAR:	embolicat amb l' alfombra ?
+*CHI:	si .
+*MAR:	la mama no vol que facis aixo , eh ?
+*CHI:	no .
+*MAR:	no .
+*CHI:	0 .
+%act:	torna a esgarrapar
+@Comment:	m s' aixeca i s' amaga darrera la porta de l' habitacio
+*MAR:	a veure , a veure si em veus per aqui ?
+*CHI:	0 .
+%act:	ve de la sala i mira darrera la porta m
+*CHI:	0 .
+%act:	surt rient
+*CHI:	0 [= mira pel forat de les frontisses] .
+*CHI:	0 .
+%act:	torna rient darrera la porta a mirar m
+*MAR:	hola !
+*MAR:	a veure si em veus per aqui ?
+*MAR:	buenas !
+*CHI:	0 .
+%act:	riu i torna a mirar pel mateix forat
+*CHI:	0 .
+%act:	sembla que se'n va pero torna a mirar pel forat , rient i cridant
+*MAR:	bsss@c bsss@c bsss@c !
+*CHI:	0 .
+%act:	torna darrera la porta rient i cridant
+*CHI:	ah !
+*MAR:	quin crit !
+*CHI:	0 [= torna a mirar pel forat] .
+*MAR:	hola !
+*CHI:	0 [= torna a mirar darrera la porta] .
+*CHI:	xxx xxx aqui [% "no , ara aqui" , o "estaba aqui"] .
+*CHI:	0 [= esta darrera la porta] .
+*CHI:	0 .
+%act:	surt darrera la porta
+*CHI:	0 .
+%act:	agafa la bicicleta , l' aixeca
+*CHI:	bruf@c [= esforcant'se] !
+*CHI:	0 .
+%act:	amaga la bicicleta darrera la porta
+*CHI:	0 .
+%act:	la torna a treure
+*CHI:	0 .
+%act:	es dona comte que m li tanca la porta
+*CHI:	eh , no , no [= obre la porta] !
+*CHI:	0 .
+%act:	rient torna a amagar la bicicleta
+@Comment:	m ajupida al costat de la llar de foc , apareix a darrera m
+*INV:	pensava que no xxx !
+*CHI:	0 [= mira la camera i despres m] .
+*MAR:	que fa la mama ?
+*CHI:	0 .
+%act:	es penja a l' esquena de m rient
+*MAR:	ay , ay , ay , ay !
+*CHI:	0 [=! riu] .
+*MAR:	que tinc una granota aqui darrera !
+*CHI:	0 [=! riu] .
+*MAR:	que tinc una granota aqui darrera !
+*CHI:	darrera granota [% "adeda ganota"] .
+*MAR:	una granota tinc .
+*CHI:	si , darrera granota [% "ti , adeda , anota" , es llenca sobre m] .
+*MAR:	ay , ay , ay , ay !
+*MAR:	quins crits , eh ?
+*CHI:	0 .
+%act:	va cap a terra
+*MAR:	0 .
+%act:	es gira , seu i assenyala unes peces del costat
+*MAR:	escolta , ensenya'li a la carme com saps fer una nave espacial .
+*CHI:	no [= mira a la camera segut , recolzat cap endarrera] .
+*MAR:	ensenya'li a la carme .
+*CHI:	no .
+*MAR:	veuras com li agradara que li ensenyis .
+*CHI:	0 .
+%act:	mira m balancejant'se sobre els peus i les mans
+*MAR:	unes peces [= gira el cap cap a les peces] .
+*CHI:	no .
+*MAR:	ensenya'li una nave espacial a la carme [= xiuxiuejant] .
+*CHI:	no no [= mira m i a la camera] .
+*MAR:	no ?
+*MAR:	d' aquelles tant maques que saps fer ?
+*MAR:	hum ?
+*CHI:	no , ah [= es llenca cap enrera amb les cames a l'aire , mirant al principi la camera] .
+*MAR:	oi quins disbarats [= riu] !
+*MAR:	oi quins disbarats .
+*CHI:	0 [= riu i es queda tirat panxa en l' aire] .
+*MAR:	fes una torre espacial [= li posa les peces a per que les agafi] .
+*MAR:	0 .
+%act:	acostat de costat les mira
+*CHI:	no .
+*MAR:	no la vols muntar ?
+*CHI:	no .
+*MAR:	aquella que hi havia abans que l' has trencat [= va posant les peces una al costat de l' altra] ?
+*MAR:	a veure , com ho feies ?
+*MAR:	com ho feies ?
+*MAR:	que no me'n recordo com ho feies , vale ?
+*CHI:	0 .
+%act:	es posa a quatre grapes , va cap a les peces i les llenca a'manotazos'
+*CHI:	0 [= mira la camera] .
+*MAR:	ui , quin disbarat !
+*CHI:	0 [=! riu] .
+*MAR:	estas fent un numero ara , eh ?
+*CHI:	0 .
+%act:	segueix tirant les peces que queden
+*CHI:	0 [=! riu] .
+*MAR:	ara estas fent un numero total .
+*CHI:	0 .
+%act:	s' aixeca amb peces a les mans i les llenca
+*CHI:	0 .
+%act:	torna per mes peces , les agafa , camina i les llenca lluny
+*CHI:	xxx , no [% "ore , no"] .
+*CHI:	0 .
+%act:	agafa unes peces i fa la mateixa operacio mirant despres la camera
+*CHI:	0 .
+%act:	el nen gateja fins el fons del menjador , agafa una peca que hi havia llencat abans , i la llenca cap a m rient
+*MAR:	jo no les vull les peces , jo no les vull .
+*MAR:	te , tu !
+*MAR:	munta una nave , va !
+*CHI:	0 .
+%act:	gateja
+*CHI:	no .
+*CHI:	0 .
+%act:	torna a agafar gatejant una altra peca , torna de peu al seu lloc , es seu , la llenca i cau al costat seu
+*MAR:	0 [=! riu] .
+*CHI:	0 .
+%act:	torna a agafar'la , la llenca i cau a prop seu , s' aixeca per agafar'la , l' agafa a quatre grapes
+*INV:	acabaras cansat , eh , alvar ?
+*CHI:	0 [= es mira la camera] .
+*CHI:	no .
+*INV:	no estas cansat ?
+*CHI:	0 .
+%act:	es dona la volta cap enrera i llenca la peca
+*CHI:	puc !
+*INV:	eh ?
+*CHI:	no .
+*CHI:	0 .
+%act:	agafa la peca , seu i la llanca cap endavant
+*INV:	que te'n vas al col'legi ara ?
+*CHI:	0 [= mira endavant] .
+*INV:	0 .
+%act:	s' aixeca , agafa la peca i la llenca
+*CHI:	si [% "ti"] .
+*INV:	te'n vas al col'legi ara ?
+*CHI:	0 .
+%act:	s' aixeca per agafar la peca
+*MAR:	escolta , i que demanaras al col'legi ?
+*MAR:	escolta , un iogurt amb que ?
+*CHI:	0 .
+%act:	ha agafat la peca , esta de peu
+*MAR:	alvar , un iogurt amb que ?
+*CHI:	0 .
+%act:	va caminant cap enrera amb la peca a la ma
+*MAR:	que et dona la victoria despres del iogurt , eh ?
+*CHI:	0 .
+%act:	llenca la peca cap endavant rient
+*MAR:	xxx xxx [= rient] .
+*MAR:	alvar escolta , escolta'm .
+*MAR:	0 .
+%act:	ajupida agafa a que esta de peu
+*CHI:	0 [= mira la camera] .
+*MAR:	<xxx xxx> [>] .
+*CHI:	iogurt [<] [% "gu"] .
+*MAR:	del iogurt , i despres del iogurt que et dona ?
+*CHI:	0 [= continua mirant la camera] .
+*CHI:	pa .
+*MAR:	pa ?
+*CHI:	si .
+*MAR:	i a vegades que et dona , a de mes de pa ?
+*MAR:	una &ga +...
+*CHI:	&lleta .
+*MAR:	una galleta , i a vegades et dona pa com ?
+*MAR:	pa &to +...
+*CHI:	&rrat .
+*MAR:	0 [=! somriu] .
+*CHI:	0 [=! somriu] .
+*MAR:	torrat , molt be , una torradeta et dona a vegades oi que si ?
+*CHI:	torradeta [% "tuaeta"] .
+*CHI:	0 [= no deixa de mirar la camera] .
+*MAR:	una torradeta te dona a vegades .
+*CHI:	0 .
+%act:	s' ajup intentant anar'se'n dels bracos de m , sense deixar de mirar la camera
+*CHI:	gneee@c !
+*MAR:	nkeee@c , nkeee@c , no et deixo anar , no et deixo anar , no et deixo anar , no et deixo anar .
+*CHI:	0 [=! riu] .
+*MAR:	0 [= riu i deixa anar a] .
+*CHI:	0 .
+%act:	s' en va corrent i torna corrent
+*CHI:	0 .
+%act:	encara va amb dues peces a les mans
+*CHI:	0 [= esta de peu] .
+*INV:	pero aixo no es una nave espacial .
+*MAR:	aixo es una &tonte +...
+*CHI:	&ria .
+*CHI:	0 .
+%act:	torna amb dues peces a les mans
+*INV:	eh ?
+*INV:	es divertit fer tonteries ?
+*CHI:	si [% "ti"] .
+*INV:	ja tens dos anys ?
+*CHI:	si [% "ti"] .
+*INV:	vols bufar espelmes ?
+*CHI:	alla .
+*CHI:	0 .
+%act:	assenyala endavant
+*INV:	a on ?
+*CHI:	0 .
+%act:	llenca una peca endavant
+*CHI:	alla .
+*MAR:	diga'li , qui va venir ?
+*CHI:	no .
+*CHI:	ah [= llenca la peca] !
+*MAR:	xxx va , cumpleanyos +...
+*CHI:	alla .
+*CHI:	0 .
+%act:	s' aixeca del terra agafant la peca
+*MAR:	oh ?
+*MAR:	com es la canconeta ?
+*CHI:	0 .
+%act:	esta segut al sofa picant amb una peca que te a la ma
+*MAR:	cumpleanyos [= cantant] +...
+*CHI:	feliz [% "feli" , enf l' i , es mira rient a la minyona que surt , aquesta li fa una caricia a la cara i a se'n riu amagant'se] .
+*MAR:	te deseamos +...
+*CHI:	a todos [= segueix picant amb la peca , com el ritme de la musica] .
+*MAR:	cumpleanyos +...
+*CHI:	a todos .
+*MAR:	0 [=! riu] .
+*MAR:	cumpleanyos +...
+*CHI:	0 .
+%act:	pica de mans amb la peca a les mans
+*CHI:	feli(z) .
+*MAR:	molt be .
+*MAR:	va , frere +...
+*MAR:	frege +...
+*CHI:	&jac [% "llac"] !
+*MAR:	frere +...
+*CHI:	&jac [% "llac"] !
+*MAR:	dormez +...
+*CHI:	&mez vous .
+*MAR:	dormez +...
+*CHI:	&mez vous !
+*MAR:	sonnen +...
+*CHI:	0 [=! s' en riu] .
+*MAR:	0 .
+%act:	li contesta rient tambe
+*MAR:	sonnen les +...
+*CHI:	&mez vous .
+*MAR:	no , sonnen <les matines> [>] .
+*CHI:	matines [<] [% "matina"] .
+*MAR:	sonnen les matines .
+*CHI:	xxx xxx [% "medu degti" , s' ho inventa , s' en riu] .
+*MAR:	gamberro ding dang dong .
+*CHI:	ding dang [% "di da"] .
+*MAR:	ding dang dong .
+*CHI:	dang dong [% "dan dom" , riu continuament] .
+*MAR:	ui ui ui ui quines tonteries que fa aquest nen !
+*CHI:	no .
+*MAR:	i qui va venir ?
+*CHI:	0 [= estossega] .
+*MAR:	i qui va venir el dia del teu cumpleanyos feliz ?
+*CHI:	0 [= segueix tossint] .
+*MAR:	qui va venir ?
+*MAR:	eh !
+*MAR:	qui hi havia el dia del cumpleanyos ?
+*CHI:	0 [= mira m] .
+*CHI:	nens .
+*MAR:	qui ?
+*CHI:	nens .
+*MAR:	quins nens ?
+*MAR:	qui va venir ?
+*MAR:	qui hi havia ?
+*MAR:	quins nens hi havien ?
+*MAR:	0 .
+%act:	segueix mirant atentament m segut al sofa i amb la peca
+*MAR:	que te van portar uns regalets , eh ?
+*MAR:	el +...
+*CHI:	tractor [% "doto"] .
+*MAR:	si (.) un tractor et van regalar , si senyor , si senyor .
+*MAR:	qui te'l va regalar +...
+*CHI:	el carlos [% "al lalo"] .
+*MAR:	si , el carlos +...
+*CHI:	en carlos [% "al lalos"] .
+*MAR:	el carlos i (.) qui mes hi havia ?
+*CHI:	el carlos [% "a lalos"] .
+*MAR:	aixo , aquest ja l' has dit !
+*CHI:	0 .
+%act:	manipula la peca amb la ma
+*MAR:	i no hi havia el llorenc , tambe ?
+*CHI:	si [% "txi"] !
+*MAR:	el llorenc i la +...
+*CHI:	violeta [% "ureta"] .
+*MAR:	la violeta .
+*MAR:	i qui mes hi havia ?
+*CHI:	0 .
+%act:	segueix manipulant l' objecte a sobre els bracos del sofa
+*MAR:	un altre nen que es deia llorenc tambe amb el seu germanet que es diu &ma +...
+*CHI:	&ti .
+*MAR:	aquest com no el coneixes gaire no t' en recordes , eh !
+*CHI:	si !
+*MAR:	i el ferran ?
+*MAR:	que no hi va ?
+*CHI:	0 .
+%act:	pica amb la peca al sofa
+*CHI:	si .
+*MAR:	si (.) tambe , oi que si [= enf l' i del primer si] ?
+*MAR:	i vam menjar un &pas +...
+*CHI:	&tel .
+*MAR:	un pastel , molt be .
+@Comment:	se sent riure e
+*CHI:	feliz [% "feli" , enf l' i] .
+*MAR:	cumpleanyos +...
+*CHI:	feliz [% "felis" , arrossega l' ultima lletra] .
+*CHI:	0 .
+%act:	pica de mans amb la peca
+@Comment:	m i a canten alhora
+*MAR:	feliz , te deseamos +...
+*CHI:	todos [= arrossega l' ultima lletra] .
+*CHI:	0 .
+%act:	continua picant de mans amb la peca
+*MAR:	cumpleanyos &fe +...
+*CHI:	bang@c , bang@c [= s' en riu] .
+*MAR:	feliz [= arrossega l' ultima lletra] .
+*MAR:	0 [=! s' en riu] .
+*CHI:	0 .
+%act:	s' aixeca del sofa i camina
+*MAR:	ensenya'li quants amb els ditets .
+*CHI:	0 .
+%act:	mira e mentre camina i li ensenya els dits
+*CHI:	xxx [% "ata"] !
+*INV:	no [= enf l' o] !
+*MAR:	0 .
+%act:	esta seguda a terra al costat de la llar de foc
+*CHI:	0 .
+%act:	va cap a m i li ensenya quelcom
+*CHI:	0 .
+%act:	aixeca el brac mirant cap a m
+*MAR:	aixi de grans , aixi +...
+*CHI:	si .
+*INV:	no , nos +...
+*MAR:	per pujar , per pujar on ?
+*CHI:	pujar toro .
+*MAR:	al toro , quin toro ?
+*MAR:	a quin toro vas pujar , eh ?
+*MAR:	a quin toro vas pujar ?
+*MAR:	que tira tots els nens a terra !
+@Comment:	a esta segut al terra del dormitori , amb una joguina a la ma
+*CHI:	si .
+*INV:	com ho fa per que caiguin a terra ?
+*CHI:	0 .
+%act:	manipula la peca fent'la sonar
+*CHI:	avi xxx cotxe [% "avi ai coxa"] .
+*CHI:	0 .
+%act:	aixeca la peca cap amunt amb les dues mans
+*INV:	que ?
+*CHI:	hi anire , mira [% "an nare mira"] .
+*CHI:	0 .
+%act:	s' aixeca del terra i va cap a e mostrant'li la peca
+*MAR:	la nave .
+*INV:	oi que maca !
+*CHI:	0 .
+%act:	torna cap a l' habitacio
+*MAR:	molt be , fes'la mes grossa !
+*INV:	ara si que m' agrada !
+*MAR:	mes grossa , mes grossa .
+@Comment:	a esta segut a terra manipulant la nau
+*CHI:	0 [= riu , mira la camera mentre manipula la nau] .
+*CHI:	no .
+*INV:	no va be ?
+*CHI:	no .
+*INV:	que passa ?
+*CHI:	0 [= te dues peces a la ma] .
+*MAR:	si que va be , si , enganxa be les peces .
+*CHI:	0 .
+%act:	torna a manipular les peces
+*CHI:	no [= les mira] .
+*MAR:	no pots !
+*CHI:	no .
+*MAR:	a veure , porta'les cap aqui , vine [% "a vera"] .
+*CHI:	0 .
+%act:	mira m i s' aixeca amb les peces
+*CHI:	0 .
+%act:	surt de l' habitacio content amb les peces enganxades
+*CHI:	aqui !
+*INV:	<ah , mira> [>] !
+*MAR:	<aqui esta> [<] .
+*CHI:	0 .
+%act:	a quatre grapes busca peces sota el llit
+*MAR:	on l' has llencat ?
+*CHI:	aqui , a sota .
+*CHI:	0 .
+%act:	busca a sota el llit
+*MAR:	busca'l , on es ?
+*MAR:	que si no no podras fer la nave espacial .
+*CHI:	0 .
+%act:	s' aixeca de sota el llit amb la peca a la ma
+*CHI:	aqui !
+*MAR:	ole !
+*CHI:	mama <es aqui> [>] [% "mama e qui"] .
+*MAR:	<escolta i el camio> [<] el camio a veure , on es el camio ?
+*CHI:	aqui sota .
+*MAR:	aqui sota , vols dir que esta aqui sota , no esta aqui darrera ?
+*CHI:	aqui darrera [% "aqui adeda"] .
+*CHI:	0 .
+%act:	mira darrera la porta i assenyala amb el dit
+*MAR:	ah !
+*MAR:	per que no el treus i li ensenyes a la carme , aquest camio tant rebonic ?
+*CHI:	0 .
+%act:	busca darrera la porta , treu un camio grandios amb gran esforc
+*INV:	ui que es gros !
+*CHI:	0 .
+%act:	arrossega el camio
+*CHI:	xxx [% "anot"] .
+*INV:	que maco !
+*CHI:	xxx [% "anot"] .
+*MAR:	el camio .
+*CHI:	si [% "ti"] .
+*CHI:	0 .
+%act:	torna cap enrera per agafar mes coses
+*MAR:	i que mes hi tens alla darrera la caseta , i que mes hi tens ?
+*CHI:	0 .
+%act:	torna amb dues peces a les mans
+*MAR:	que mes hi ha aqui a la caseta , aqui darrera la porta ?
+*CHI:	0 [= mira darrera la porta] .
+*MAR:	que mes hi ha ?
+*CHI:	caqueta !
+*MAR:	el taca'taca !
+*CHI:	si [% "tsi"] .
+*CHI:	0 .
+%act:	deixa les joguines al menjador i torna cap enrera
+*MAR:	ara , ensenya'li a la carme com es el taca'taca , que ella no ho sap aixo .
+*CHI:	0 .
+%act:	va cap a l' habitacio i agafa la bicicleta
+*CHI:	bicicleta [% "chiqueta"] .
+*INV:	bicicleta .
+*MAR:	la bicicleta del ferran , no es aquesta ?
+*CHI:	si aquesta , bicicleta [% "tsi aqueta , chiqueta"] .
+*CHI:	0 .
+%act:	treu la bicicleta cap el menjador
+*CHI:	0 .
+%act:	entra bufant cap a l' habitacio una altra vegada
+*MAR:	i que mes hi ha ?
+*CHI:	0 [= mira darrera la porta] .
+*CHI:	taca'taca [% "cataca"] .
+*CHI:	0 .
+%act:	surt amb un cotxe .caminador
+*MAR:	ole [>] !
+*INV:	<oi , que maco> [<] !
+*MAR:	i tens algo darrera del taca'taca , hi ha algo dintre ?
+*CHI:	0 .
+%act:	deixa el taca'taca i va corrent cap a l' habitacio
+*CHI:	no .
+*MAR:	no ?
+*CHI:	no .
+*CHI:	0 .
+%act:	agafa coses del terra i se'n torna anar
+*MAR:	les peces , posa'li les peces , aixo !
+*CHI:	aqui , a nonon@c [% "aqui , a non@c"] .
+*CHI:	0 .
+%act:	deixa les peces al camio
+*MAR:	al camion .
+*CHI:	0 [= contempla el camio] .
+*CHI:	si [% "tsi"] .
+*MAR:	molt be !
+*MAR:	posa'li mes cotxes al camio , posa'li cotxes al camio , corre !
+*CHI:	0 [= se la mira] .
+*CHI:	no .
+*MAR:	no ?
+*CHI:	a peces !
+*CHI:	0 .
+%act:	seu al costat del camio
+*CHI:	brum@c , brum@c !
+*CHI:	0 .
+%act:	s' aixeca i agafa la corda del camio
+*CHI:	esta trencada [% "ase cara"] .
+*MAR:	ja se t' ha trencat la corda a tu ?
+*CHI:	no .
+*CHI:	0 .
+%act:	estira la corda del camio
+*MAR:	anda !
+*MAR:	si que ha durat poc .
+*CHI:	ah !
+*MAR:	on es l' altre tros de corda ?
+*CHI:	no esta [% "no ta"] .
+*MAR:	no esta , ja ho veig .
+*CHI:	0 [= mira sota el camio] .
+*MAR:	aqui esta , espera't !
+*MAR:	0 .
+%act:	mira tambe sota el camio i l' aixeca
+*MAR:	s' ha embolicat aqui !
+*MAR:	la treiem d' aqui no ?
+*CHI:	si .
+*MAR:	eh ?
+*CHI:	0 [= continua mirant sota el camio] .
+*MAR:	i que farem , la traurem d' aqui ?
+*CHI:	si .
+*MAR:	i l' enganxarem amb l' altre vale ?
+*MAR:	que tambe es molt curta aquesta corda [>] .
+*CHI:	no [<] .
+*MAR:	no la pots estirar .
+*MAR:	no es pot estirar el camio amb aquesta corda tan curta alvar .
+*MAR:	que fem ?
+*MAR:	mare de deu alvar , quin desastre !
+*MAR:	ha quedat tot entortolligat aqui .
+*CHI:	0 .
+%com:	no para de mirar el camio per tots el costats
+*CHI:	xxx [% "guanate"] .
+*CHI:	0 .
+%act:	mira i toca la part de la'cabina' del camio
+*CHI:	bu@c [= enf l' u] !
+*CHI:	0 .
+%act:	es tira a terra , panxa en l' aire , amb els peus amunt repenjant'se a la porta
+*MAR:	eh , eh , eh , alvar !
+*MAR:	els peus a la porta no , que s' embruta , ja ho saps , s' embruta la porta amb les sabates .
+*MAR:	eh , que ja ho saps ?
+*MAR:	que em sents ?
+*MAR:	que em sents patufet ?
+*MAR:	mira , mira , mira que fara la mare , mira .
+*MAR:	veus ?
+*CHI:	0 .
+%act:	s' aixeca i va cap m
+*MAR:	aquesta corda que s' ha trencat , que fara la mare ?
+*MAR:	fara un nus aqui i aixi podras seguir estirant el camio .
+*MAR:	vale ?
+*CHI:	no .
+*CHI:	0 .
+%act:	agafa la corda i estira del camio
+*MAR:	ale , ja pots .
+*CHI:	aqui .
+*MAR:	abans de que s' enrotlli , aixi [% "aixins"] .
+*CHI:	0 .
+%act:	fa xocar el camio contra la porta
+*MAR:	ei !
+*MAR:	cuidado !
+*CHI:	aqui nonon@c [% "qui nono@c"] .
+*CHI:	0 .
+%act:	deixa el camio ben posat i tira la corda
+*MAR:	a dormir el poses ?
+*CHI:	si .
+*MAR:	a fer nonons@c .
+*CHI:	si .
+*MAR:	vols dir que es hora d' anar a fer nonons@c ja el camio ?
+*CHI:	0 .
+%act:	agafa la bicicleta
+*CHI:	no , si .
+*CHI:	la bicicleta aixi , nonon@c aqui [% "a chiqueta chi , no@c qui"] .
+*CHI:	0 .
+%act:	aparca la bicicleta al costat del camio
+*CHI:	bicicleta nonon@c aixi [% "chiqueta nonono@c chi"] .
+*MAR:	molt be .
+*MAR:	molt ordenat ets , ja m' agrada .
+*CHI:	0 .
+%act:	agafa el taca'taca i l' aparca al costat dels altres
+*CHI:	aqui [% "qui"] .
+*CHI:	0 .
+%act:	va darrera la porta
+*MAR:	que hi ha algo mes alla ?
+*CHI:	no .
+*MAR:	ja esta ?
+*CHI:	si .
+*MAR:	ja no hi ha res mes ?
+*CHI:	0 .
+%act:	surt de l' habitacio mirant
+*CHI:	no , no no mes aqui .
+*MAR:	no hi ha res mes aqui ?
+*MAR:	escolta , i el saltamobil ?
+*CHI:	alla .
+*MAR:	porta'l aqui i aparca'l tambe aqui .
+*MAR:	on es el saltamobil ?
+*CHI:	no esta [% "no ta"] .
+*MAR:	esta al teu cuarto .
+*CHI:	si [= corre a buscar'lo] .
+*MAR:	ves a buscar'lo corre .
+*CHI:	0 .
+%act:	torna amb un patinet i l' aparca tambe
+*MAR:	xxx xxx el saltamobil .
+*CHI:	alla .
+*MAR:	aixo que es ?
+*CHI:	bicicleta petita [% "chiqueta pitita"] .
+*MAR:	la bicicleta petita .
+*CHI:	0 .
+%act:	apareix amb el saltamobil i l' aparca darrera el patinet
+*INV:	que es maco !
+*CHI:	aqui , tots [% "qui tots"] .
+*MAR:	tots , molt be .
+*CHI:	aqui , en fila [% "a fira" , ho posa mes be] .
+*MAR:	en fila , molt be .
+*CHI:	hum !
+*CHI:	0 .
+%act:	puja damunt el saltamobil i salta
+*CHI:	xxx [% "lum"] .
+*MAR:	escolta , aixo sembla el toro del tibidabo ara que penso .
+*CHI:	si .
+*CHI:	0 .
+%act:	baixa del saltamobil
+*MAR:	esta fascinat amb aquell toro mecanic aquell del tibidabo [= es dirigeix a la carme] .
+*CHI:	0 .
+%act:	torna a pujar damunt
+*MAR:	i nomes xxx tan grans pensavem +/.
+*CHI:	ia [= cau cap enrera del cotxe] !
+*MAR:	ole !
+*MAR:	escolta , que et va explicar la mama ?
+*MAR:	que tens que menjar molt , eh ?
+*MAR:	per fer'te gran i poder pujar al toro .
+*CHI:	si .
+*MAR:	te'n recordes que t' ho explicava ahir la mama ?
+*MAR:	has de menjar molt , eh ?
+*CHI:	0 .
+%act:	continua amb el cotxe amunt
+*MAR:	la sopa i tot , tot , t' ho has de menjar .
+*MAR:	que si no no podras pujar al toro .
+*CHI:	ei !
+*CHI:	0 .
+%act:	es tira cap enrera i m riu
+@End
