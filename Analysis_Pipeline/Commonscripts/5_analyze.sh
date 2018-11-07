@@ -36,13 +36,13 @@ do
 
 
     # defines segmentation jobs
-    echo "$name-syllable-baseline-00 $tags syllable $separator wordseg-baseline -v -P 0" >> $jobs
-    echo "$name-syllable-baseline-10 $tags syllable $separator wordseg-baseline -v -P 1" >> $jobs
-    echo "$name-syllable-tprel $tags syllable $separator wordseg-tp -v -t relative" >> $jobs
-    echo "$name-syllable-tpabs $tags syllable $separator wordseg-tp -v -t absolute" >> $jobs
-    echo "$name-phone-dibs $tags phone $separator wordseg-dibs -v -t phrasal -u phone $tags" >> $jobs
-#    echo "$name-phone-puddle $tags phone $separator wordseg-puddle -v -j 5 -w 2" >> $jobs
-#    echo "$name-syllable-ag $tags syllable $separator wordseg-ag -vv -j 8" >> $jobs
+#    echo "$name-syllable-baseline-00 $tags syllable $separator wordseg-baseline -v -P 0" >> $jobs
+#    echo "$name-syllable-baseline-10 $tags syllable $separator wordseg-baseline -v -P 1" >> $jobs
+#    echo "$name-syllable-tprel $tags syllable $separator wordseg-tp -v -t relative" >> $jobs
+#    echo "$name-syllable-tpabs $tags syllable $separator wordseg-tp -v -t absolute" >> $jobs
+#    echo "$name-phone-dibs $tags phone $separator wordseg-dibs -v -t phrasal -u phone $tags" >> $jobs
+    echo "$name-phone-puddle $tags phone $separator wordseg-puddle -v -j 5 -w 2" >> $jobs
+    echo "$name-syllable-ag $tags syllable $separator wordseg-ag -vv -j 8" >> $jobs
 
     ((counter++))
     echo " done"
