@@ -177,6 +177,8 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/á/a/g' |
 		sed 's/é/e/g' |
 		sed 's/ë/e/g' |
+		sed 's/ë/e/g' |
+		sed 's/í/i/g' |
 		sed 's/í/i/g' |
 		sed 's/ó/o/g' |
 		sed 's/ú/u/g' |
@@ -202,8 +204,7 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/guo/gwo/g' |
 		sed 's/gui/gi/g' |
 		sed 's/gue/ge/g' |
-		sed 's/qui/ki/g' |
-		sed 's/que/ke/g' |
+		sed 's/qu/k/g' |
 		sed 's/cua/kwa/g' |
 		sed 's/cuo/kwo/g' |
 		sed 's/c/k/g' |
@@ -293,12 +294,16 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	sed 's/ $//' |
 	sed '/^ $/d'  |
 	sed '/^[ ]*$/d'  |
-	sed 's/^ //'  |
+	sed 's/^[ ]*//'  |
+	sed 's/[ ]*$//'  |
+	sed 's/^\///'  | #remove syllable boundary at the beginning of sentences
+	sed 's/ \// /g'  | #remove syllable boundary at the beginning of words
 	tr -s ' ' |
 	sed 's/ /\/#/g' |
 	sed 's/\/\//\//g' |
 	sed -e 's/\(.\)/\1 /g'  |
-	sed 's/\// ;esyll /g'|
+	sed 's/$/\/#/' | #add syll and word tag at end of sentence
+	sed 's/\// ;esyll /g'| #replace shorthand with true tags
 	sed 's/#/ ;eword /g' |
 	tr '_' ' ' |  #to deal with diphthongs
 	tr -s ' ' > ${RES_FOLDER}/${KEYNAME}-tags.txt
@@ -309,4 +314,4 @@ done
 echo $RES_FOLDER
 echo "done phonologize"
 
-rm ${RES_FOLDER}/${KEYNAME}-*.tmp
+#rm ${RES_FOLDER}/${KEYNAME}-*.tmp
