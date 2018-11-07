@@ -190,7 +190,8 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/9l/dl/g' |
 		sed 's/9n/dn/g' |
 		sed 's/rr/R/g' | # substitute the spanish rr by 5
-		sed 's/^r/R/g' | # substitue the initial r for R
+		sed 's/ r/ R/g' |# substitute word-initial r for R
+		sed 's/^r/R/g' | # substitute sentence-initial r for R
 		sed 's/sr/sR/g' |
 		sed 's/nr/nR/g' |
 		sed 's/lr/lR/g' |
@@ -211,8 +212,6 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/h//g' |
 		sed 's/ñ/N/g' |
 		sed 's/ü/w/g' |
-		sed 's/pie⌉/pie/g' |
-		sed 's/^pie⌉/pie/g' |
 		sed 's/au/aw/g' |
 		sed 's/eu/ew/g' |
 		sed 's/iu/iw/g' |
@@ -291,22 +290,17 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 
 	echo "removing blank lines"
 	sed '/^$/d' ${RES_FOLDER}/${KEYNAME}-outofperl.tmp |
+	sed 's/ $//' |
 	sed '/^ $/d'  |
 	sed '/^[ ]*$/d'  |
-	tr '_' ' ' |  #to deal with diphthongs
 	sed 's/^ //'  |
-	sed 's/^\///'  | #there aren't really any of these, this is just a cautionary measure
 	tr -s ' ' |
-	sed 's/ / ;esyll ;eword /g' |
-	sed 's/\// ;esyll /g'|
-	sed 's/;esyll ;esyll/;esyll/g' |
+	sed 's/ /\/#/g' |
+	sed 's/\/\//\//g' |
 	sed -e 's/\(.\)/\1 /g'  |
-	sed 's/ ; e w o r d/ ;eword /g' |
-	sed 's/ ; e s y l l/ ;esyll /g' |
-	tr -s ' ' |
-	sed 's/ $//' |
-	sed 's/ ;eword ;esyll/ ;esyll ;eword /g' |
-	sed 's/;eword ;esyll ;eword/;esyll ;eword/g' |
+	sed 's/\// ;esyll /g'|
+	sed 's/#/ ;eword /g' |
+	tr '_' ' ' |  #to deal with diphthongs
 	tr -s ' ' > ${RES_FOLDER}/${KEYNAME}-tags.txt
 
 
