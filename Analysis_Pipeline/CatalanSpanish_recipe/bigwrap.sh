@@ -16,9 +16,9 @@ ROOT="/scratch1/projects/wordseg-biling/SegCatSpa/"
 
 INPUT_CORPUS="$ROOT/Corpora/cha/" #where you have put the talkbank corpora to be analyzed
 PHONO_FOLDER="$ROOT/Corpora/phono/"
-CONCATENATED_FOLDER="$ROOT/Corpora/concat/"
-SPLIT_FOLDER="$ROOT/Corpora/split/"
-RES_FOLDER="$ROOT/Results/"
+CONCATENATED_FOLDER="$ROOT/Corpora/concat/spa_cat_match/"
+SPLIT_FOLDER="$ROOT/Corpora/split/spa_cat_match/"
+RES_FOLDER="$ROOT/Results/spa_cat_match/"
 
 
 #if running on oberon, do:
@@ -43,7 +43,7 @@ source activate wordseg
 
 	# The bilingual corpus is double size than the monolinguals, this step divides it in two parts, one called 0 and 1 called 1. 
 	# Then we select part zero to be the one that gets analyzed and move part 1 somewhere else where it won't get analyzed
-divide_half=2
+#divide_half=2
 #rm ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
 #mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/ ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
 #./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${divide_half}
@@ -56,7 +56,7 @@ divide_half=2
 
 	# Divide
 	# divide the big corpora in 10 parts to evaluate the robustness of the F-score
-divide_multiple=10
+#divide_multiple=10
 
 #for thispart in ${lang1}_${lang2} ${lang1}_${lang1} ${lang2}_${lang2} ; do
 #    ./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}/$thispart/100 ${SPLIT_FOLDER}/$thispart/100 ${divide_multiple}
@@ -66,18 +66,18 @@ divide_multiple=10
 	# Analyze
 
 	#analyze the folders prior to the split
-#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
 ./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1
 
-#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100
 ./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang2}_${lang2}/1 ${RES_FOLDER}/${lang2}_${lang2}/1
 
-#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100
 ./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1
 
 
 	#analyze the splits
-./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
 ./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1
 
 ./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100

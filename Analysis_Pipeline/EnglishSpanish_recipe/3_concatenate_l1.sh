@@ -15,6 +15,7 @@
 lang1=$1
 lang2=$2
 output=$3
+ref_file=$4
 
 echo  $lang1 $lang2 $output #just to check
 
@@ -55,7 +56,7 @@ n2files=`wc -l ${lang2_name}.txt | awk '{print $1}' `
 
 #get N of lines in each lang
 max1=`wc -l $(cat ${lang1_name}.txt) | grep "total" | awk '{print $1}' `
-max2=`wc -l ${output}/${lang2_name}_${lang2_name}/1/tags.txt | awk '{print $1}' `   # CRUCIAL DIFFERENCE HERE WRT SIMPLE CONCATENATE!!! THE MAX IS GIVEN BY THE EXTANT LANG2-LANG2 FILE
+max2=`wc -l $ref_file | awk '{print $1}' `   # CRUCIAL DIFFERENCE HERE WRT SIMPLE CONCATENATE!!! THE MAX IS GIVEN BY THE EXTANT LANG2-LANG2 FILE
 
 end=100
 
