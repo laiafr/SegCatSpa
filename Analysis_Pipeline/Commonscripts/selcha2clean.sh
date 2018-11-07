@@ -34,16 +34,16 @@ tr -d ','  |
 tr -d ':'  |
 tr -d '~'  |
 sed 's/&=[^ ]*//g' | 
-sed 's/&[^ ]*//g' |  #delete words beginning with & ##IMPORTANT CHOICE COULD HAVE CHOSEN TO NOT DELETE SUCH NEOLOGISMS/NONWORDS
-sed 's/\[[^[]*\]//g' | #delete comments
-#sed 's/([^(]*)//g' | #IMPORTANT CHOICE -- UNCOMMENT THIS LINE AND COMMENT OUT THE NEXT TO DELETE MATERIAL NOTED AS NOT PRONOUNCED
-sed 's/(//g' | sed 's/)//g' | #IMPORTANT CHOICE -- UNCOMMENT THIS LINE AND COMMENT OUT THE PRECEDING TO REMOVE PARENTHESES TAGGING UNPRONOUNCED MATERIAL
+#sed 's/&[^ ]*//g' |  #delete words beginning with & ##IMPORTANT CHOICE COULD HAVE CHOSEN TO DELETE SUCH NEOLOGISMS/NONWORDS by uncommenting this
+sed 's/\[.*\]//g' | #delete comments
+sed 's/([^(]*)//g' | #IMPORTANT CHOICE -- UNCOMMENT THIS LINE AND COMMENT OUT THE NEXT TO DELETE MATERIAL NOTED AS NOT PRONOUNCED
+#sed 's/(//g' | sed 's/)//g' | #IMPORTANT CHOICE -- UNCOMMENT THIS LINE AND COMMENT OUT THE PRECEDING TO REMOVE PARENTHESES TAGGING UNPRONOUNCED MATERIAL
 sed 's/xxx//g' |
 sed 's/www//g' |
 sed 's/XXX//g' |
 sed 's/yyy//g' |
 sed 's/0*//g' | 
-sed 's/[^ ]*@s:[^ ]*//g' | #delete words tagged as being a switch into another language
+#sed 's/[^ ]*@s:[^ ]*//g' | #delete words tagged as being a switch into another language
 #sed 's/[^ ]*@o//g' | #delete words tagged as onomatopeic
 sed 's/@[^ ]*//g' | #delete tags beginning with @ IMPORTANT CHOICE, COULD HAVE CHOSEN TO DELETE FAMILIAR/ONOMAT WORDS
 sed "s/\'/ /g"  |
