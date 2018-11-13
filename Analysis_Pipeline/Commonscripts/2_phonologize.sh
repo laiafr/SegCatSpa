@@ -178,6 +178,8 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 		sed 's/é/e/g' |
 		sed 's/ë/e/g' |
 		sed 's/ë/e/g' |
+		sed 's/í/i/g' ||
+		sed 's/ï�/i/g' |
 		sed 's/í/i/g' |
 		sed 's/í/i/g' |
 		sed 's/ó/o/g' |
