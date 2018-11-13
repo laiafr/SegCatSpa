@@ -12,8 +12,8 @@
 lang1="spa"
 lang2="cat"
 
-#ROOT="/scratch1/projects/wordseg-biling/SegCatSpa/"
-ROOT="~/Dropbox/SegCatSpa/"
+ROOT="/scratch1/projects/wordseg-biling/SegCatSpa/"
+#ROOT="~/Dropbox/SegCatSpa/"
 
 INPUT_CORPUS="$ROOT/Corpora/cha/" #where you have put the talkbank corpora to be analyzed
 PHONO_FOLDER="$ROOT/Corpora/phono/"
@@ -23,15 +23,15 @@ RES_FOLDER="$ROOT/Results/spa_cat_match/"
 
 
 #if running on oberon, do:
-#module load anaconda/3
-#source activate wordseg
+module load anaconda/3
+source activate wordseg
 
 
 #########################################
 
 	# Create Database
 	# Turn the cha-like files into a single clean file per type
-#./../Commonscripts/1_selAndClean.sh ${INPUT_CORPUS}/${lang1} ${PHONO_FOLDER}/${lang1}
+./../Commonscripts/1_selAndClean.sh ${INPUT_CORPUS}/${lang1} ${PHONO_FOLDER}/${lang1}
 #./../Commonscripts/1_selAndClean.sh ${INPUT_CORPUS}/${lang2} ${PHONO_FOLDER}/${lang2}
 
 	# Phonologize
