@@ -10,6 +10,7 @@ Icon?
 */*/*/*/.DS_Store
 Corpora/concat/
 Corpora/split/
+Corpora/phono/
 Manuscript/
 Results/
 Analysis_Pipeline/CatalanSpanish_recipe/cat.txt
