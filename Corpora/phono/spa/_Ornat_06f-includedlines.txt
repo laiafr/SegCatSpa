@@ -1,0 +1,118 @@
+*PAD:	la entiendes ? 9843_10498
+*MAD:	0 [% desde fuera] qué ? 10498_12250
+*PAD:	qué si la entiendes tú ? 12250_13625
+*MAD:	0 [% llega a la cocina] a_ver , qué dices , María ? 13625_15355
+*MAD:	xxx no ? 22038_24453
+*PAD:	muy bien . 24453_25171
+*PAD:	quieres salir ? 31881_33208
+*PAD:	dónde vas a tomar la tarta ? 39661_40903
+*PAD:	ahí , o nos sentamos todos en los silloncillos ? 40903_43145
+*PAD:	eh ? 43145_44578
+*PAD:	nos sentamos todos en los silloncillos ? 44578_46493
+*PAD:	y encendemos las velas ? 46493_47753
+*PAD:	qué prefieres ? 47753_50540
+*MAD:	www [= habla con Papá] . 50540_54621
+*MAD:	ponte de pie que vamos a soplar las velas hija . 54621_58520
+*MAD:	venga . 58520_60950
+*MAD:	son un poco feas las velas . 60950_63303
+*MAD:	porque no había hoy velas . 63303_66016
+*MAD:	por eso son un poco distintas . 68496_71386
+*MAD:	pero no importa . 71386_72930
+*MAD:	venga una , dos (.) y a soplar las velas . 72930_76790
+*MAD:	venga a soplar . 76790_77713
+*MAD:	para que se apaguen . 77713_78658
+*MAD:	más ! 79518_80011
+*MAD:	más . 81588_82596
+*MAD:	bien , la otra . 84238_86115
+*MAD:	un añito . 86115_87528
+*MAD:	dos añitos , bien ! 89065_91936
+*MAD:	otra vez ? 94873_95488
+*PAD:	otra vez ? 95488_96345
+*MAD:	bueno la última vez eh . 96345_96951
+*MAD:	y luego cantamos el cumpleaños feliz y luego comemos tarta , vale ? 96951_99855
+*MAD:	tú vas a comer tarta ? 102896_103720
+*MAD:	claro , venga . 109558_111880
+*MAD:	sopla tu bien , sopla bien mi niña . 113246_116170
+*MAD:	claro que quema , pero sopla bien . 116760_119273
+*MAD:	bien . 120683_122153
+*MAD:	⌊un añito⌋ . 123215_123605
+*MAD:	un añito , venga ! 123605_124413
+*MAD:	más . 125806_126713
+*MAD:	sopla más fuerte . 129063_130053
+*MAD:	bien ! 131438_133573
+*MAD:	dos añitos ! 134798_135571
+*MAD:	dos añitos , cuántos años tiene mi niña ? 136430_138415
+*MAD:	no , otra vez no . 139108_140306
+*MAD:	cuántos añitos tiene mi niña . 140306_142180
+*MAD:	do:s ! 143925_144691
+*MAD:	y ahora le vamos a cantarte cumpleaños feliz . 144691_146970
+*MAD:	cumpleaños [% cantando] +... 148038_149443
+*MAD:	ay ! 149443_150420
+*MAD:	es que si se ha quemado todo el pelo . 150420_151675
+*MAD:	me cague en la mar . 151675_154183
+*MAD:	por eso decía que quemaba . 154183_155248
+*MAD:	te has chamuscado bien María . 157240_160896
+*MAD:	María , cantamos el cumpleaños feliz ? 164245_166805
+*MAD:	te lo cantamos Papá y yo ? 178425_179611
+*MAD:	venga , Papá vamos a cantárselo ! 180436_182076
+*MAD:	cumple⌈años feliz⌉ , cumpleaños feliz . 182076_189031
+*MAD:	⌈te deseamos⌉ ⌈todos⌉ , ⌈cumpleaños feliz⌉ . 190148_192050
+*MAD:	⌈bien⌉ ! 198608_199865
+*PAD:	⌊bien⌋ ! 199865_200161
+*MAD:	bravo ! 203251_204675
+*MAD:	te canto otra ? 204675_206048
+*MAD:	es una chica excelente , es una chica excelente , es una chica excelente [% cantando] ! 207640_214406
+*MAD:	y siempre lo será [% cantando] ! 214406_215783
+*MAD:	y siempre lo será [% cantando] . 215783_217878
+*MAD:	bien: ! 218623_219526
+*MAD:	feliz , feliz en tu día [% cantando] +... 221705_239261
+*MAD:	yay [: ya] ! 239261_239903
+*MAD:	cuál quieres ahora ? 242306_243790
+*MAD:	yo qué tengo ? 249111_251301
+*MAD:	las zapatillas de Papá . 251301_252126
+*MAD:	te canto otra ? 252126_257260
+*MAD:	cuál ? 258605_259125
+*MAD:	cumpleaños ⌈feliz⌉ , ⌈cumpleaños feliz⌉ , te des⌈eamos todos⌉ , cumpleaños fe⌈liz⌉ [% cantando] . 262711_277585
+*MAD:	bravo ! 279656_280353
+*MAD:	bueno , vamos a comer tarta , vale ? 280353_284181
+*MAD:	la partimos María ? 285381_286645
+*MAD:	la tarta de tu cumpleaños ? 286645_288210
+*MAD:	⌊xxx⌋ . 322825_323230
+*PAD:	que se ha acabado la cinta ? 323230_323635
+*PAD:	qué_tal está ? 326113_326876
+*MAD:	buena . 328478_329343
+*PAD:	buena . 329343_330218
+*MAD:	tú quieres un pedacito de tarta Marieta ? 330218_333293
+*PAD:	no vas a probar la tarta de tu cumple(años) ? 334571_336670
+*MAD:	mira , que es de chocolate , quieres un cachito de chocolate ? 339263_340845
+*MAD:	cómo es esa nena , María ? 375438_378908
+*MAD:	antes le estabas durmiendo . 394855_395576
+*MAD:	ven pequeñita@q . 395576_396183
+*MAD:	⌊tarta⌋ . 403958_404510
+*MAD:	quieres un poquito ? 405570_406678
+*MAD:	a_ver si te gusta . 409671_410760
+*MAD:	es de chocolate . 411375_412086
+*MAD:	no le gusta . 412865_414710
+*MAD:	anda ya te va a gustar . 414710_416703
+*MAD:	xxx . 416703_420256
+*MAD:	esto es de Papá , no toques . 422246_423008
+*MAD:	si , la carta es tuya . 431451_432878
+*MAD:	es el champán de Mamá para celebrar tu cumpleaños . 438388_440996
+*PAD:	me tienes contento . 448038_450863
+*MAD:	María , quién te ha regalado este vestido que llevas ? 462258_465770
+*MAD:	ay qué susto , qué susto , qué susto ! 471660_472446
+*MAD:	ay qué susto , qué susto ! 472871_475141
+*MAD:	quién te ha regalado ese vestido ? 476038_476980
+*PAD:	caca ? 478546_479945
+*PAD:	leche ! 479945_480618
+*MAD:	te lo ha regalado Papá . 491556_492253
+*MAD:	te lo ha traído de Hungría . 492253_493116
+*PAD:	Paca que no es Paca fue Papá . 497405_499490
+*MAD:	arre caballito arre burro ay [% cantando] ! 520538_525123
+*MAD:	esa nena quiere tarta ? 536415_538223
+*MAD:	y esa nena ? 539711_540346
+*MAD:	esta nena quiere tarta ? 544036_545721
+*MAD:	tú quieres tarta ? 546650_547816
+*MAD:	esa nena es muy pequeña y no puede tomar tarta . 557656_560938
+*MAD:	se sienta mal . 560938_563386
+*MAD:	tienes que tomar biberón . 563386_566075

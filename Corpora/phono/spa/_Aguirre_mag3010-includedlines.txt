@@ -1,0 +1,657 @@
+*MOT:	espérate que ?
+*MOT:	ya está arreglado ?
+*MOT:	venga .
+*MOT:	www .
+*MOT:	qué ?
+*MOT:	el qué ?
+*MOT:	no funciona ?
+*MOT:	espérate qué digo , dices ?
+*MOT:	oye [x 3] .
+*MOT:	si es que no se oye , no funciona .
+*MOT:	déjalo aquí .
+*MOT:	eh , vale ?
+*MOT:	en casa de la abuela sí funciona ?
+*MOT:	y aquí no ?
+*MOT:	eh ?
+*MOT:	en Andorra lo he compra(d)o .
+*MOT:	eh ?
+*MOT:	no , no lo subas .
+*MOT:	ay , ay , que hace mucho ruido .
+*MOT:	oye Magín y las llaves estas ?
+*MOT:	qué decías de las llaves ?
+*MOT:	qué pasa con las llaves ?
+*MOT:	que no funcionan ?
+*MOT:	por_qué ?
+*MOT:	en el acuario sí y aquí no ?
+*MOT:	no , seguro ?
+*MOT:	a_ver ?
+*MOT:	sí , venga .
+*MOT:	ay qué risa !
+*MOT:	sácamelas que me hacen cosquillas !
+*MOT:	aquí en la barriguita .
+*MOT:	nos vamos a jugar a la cama tú y yo mejor ?
+*MOT:	no , no está roto .
+*MOT:	ya no está roto .
+*MOT:	que nos vamos allí a la habitación mejor tú y yo ?
+*MOT:	qué ?
+*MOT:	ahora , ves ?
+*MOT:	ya está .
+*MOT:	te vas ?
+*MOT:	no le des más , no le des más que lo estropeas !
+*MOT:	como que no !
+*MOT:	ven que vamos a , vámonos a la cama .
+*MOT:	ven , vamos a jugar a la cama .
+*MOT:	no lo abras !
+*MOT:	que no .
+*MOT:	ven vamos a jugar en la ca(ma) .
+*MOT:	venga , vamos aquí tu y yo .
+*MOT:	no nos dormimos ?
+*MOT:	seguro ?
+*MOT:	seguro que no nos vamos a dormir ?
+*MOT:	oye , te acuerdas de lo bien que te lo has pasado jugando y montando en los caballitos ?
+*MOT:	con Violeta ?
+*MOT:	con una niña que se llamaba Claudia .
+*MOT:	a que era amiguita tuya , eh ?
+*MOT:	y qué bien ibas con ella , a que sí !
+*MOT:	Claudia , seguro que está todavía allí .
+*MOT:	Claudia .
+*MOT:	y qué_tal te lo has pasado ?
+*MOT:	a que no es Claudia ?
+*MOT:	que qué_tal te lo has pasado ?
+*MOT:	Usquía .
+*MOT:	no , su mamá la decía , Claudia .
+*MOT:	no te acuerdas ?
+*MOT:	oye , y dónde te has montado ?
+*MOT:	dónde vas ?
+*MOT:	aquí a tocar la virgencita ?
+*MOT:	y eso ?
+*MOT:	una ?
+*MOT:	una broma !
+*MOT:	ah , es una broma eso ?
+*MOT:	sí .
+*MOT:	una papelera !
+*MOT:	&+jejeje .
+*MOT:	qué ?
+*MOT:	qué pasa con la Concha ?
+*MOT:	eh ?
+*MOT:	Concha Piquer está en su casa .
+*MOT:	ah no , se ha muerto , Concha Piquer se ha muerto .
+*MOT:	sí , porque era muy viejecita .
+*MOT:	sí .
+*MOT:	ahora ya no está .
+*MOT:	dónde qué ?
+*MOT:	se murió .
+*MOT:	se murió en su casa .
+*MOT:	sí .
+*MOT:	le echaba a la cama su papá ?
+*MOT:	a Concha Piquer ?
+*MOT:	sí , también .
+*MOT:	cuando no se quería dormir su papá le echaba a la cama .
+*MOT:	ahora se duerme sola ya .
+*MOT:	tu te vas a dormir solo ?
+*MOT:	sí ?
+*MOT:	y no me vas a contar un cuento antes de dormir ?
+*MOT:	eh ?
+*MOT:	te sabes el cuento de los tres cerditos ?
+*MOT:	déjalo ahí , sí , eso xxx .
+*MOT:	sí me gusta .
+*MOT:	déjalo aquí .
+*MOT:	oye , quieres que te cuente el cuento de los tres cerditos ?
+*MOT:	mira , eran tres cerditos que eran muy pequeñitos , muy pequeñitos .
+*MOT:	y entonces , y entonces iban a constru(irse) iban a hacer , a hacerse una casita .
+*MOT:	en el campo .
+*MOT:	sí .
+*MOT:	es que no tenían casita .
+*MOT:	no .
+*MOT:	y entonces dijeron: vamos a hacernos una casita .
+*MOT:	y entonces había uno que era muy vago , muy vago .
+*MOT:	y entonces se hizo una casita con cuatro cañas así colocadas .
+*MOT:	y dijo , pues ya está la casita .
+*MOT:	ya está la casita , ya he terminado .
+*MOT:	y ya cuando hizo las cuatro cañas .
+*MOT:	eh ?
+*MOT:	xxx .
+*MOT:	qué haces , eh ?
+*MOT:	qué haces ?
+*MOT:	ah , colocando la casita .
+*MOT:	y .
+*MOT:	eh ?
+*MOT:	ah , eres un cerdo !
+*MOT:	sí .
+*MOT:	voy .
+*MOT:	ya estoy en la casita .
+*MOT:	y tú ?
+*MOT:	ahí están ?
+*MOT:	en la casita ?
+*MOT:	a_ver Violeta , ven aquí , métete en la casita que es muy de noche y te tienes que dormir .
+*MOT:	la han metido en la camita ?
+*MOT:	quién ?
+*MOT:	tú ?
+*MOT:	sí ?
+*MOT:	la cuidas tú ?
+*MOT:	muy bien atendida las tienes , verdad ?
+*MOT:	a_ver , te has hecho caca ?
+*MOT:	se duerme contigo Violeta ?
+*MOT:	a_ver , venga , aquí .
+*MOT:	xxx , vamos a apagar la luz .
+*MOT:	así , a apagar la luz , vale ?
+*MOT:	los cerditos ?
+*MOT:	están en en su casita .
+*MOT:	sí dónde .
+*MOT:	ah , bueno .
+*MOT:	ése se se metió metió en la casita de cañas .
+*MOT:	en la casita de cañas se metió ése .
+*MOT:	y después el otro el otro cerdito se hizo una casita con ramas y trozos de madera así colocados .
+*MOT:	y tardó un poquito más , ves ?
+*MOT:	pero ya también enseguida , bueno , se echó a dormir .
+*MOT:	y entonces el el otro cerdito , el otro cerdito era muy trabajador .
+*MOT:	y cogió y se y se fue a buscar ladrillos , se fue a buscar cemento .
+*MOT:	hizo [x 3] el cemento y con los ladrillos &+pum &+pum &+pum los fue colocando y los otros dos cerditos mientras le veían trabajando y estaban tumbados al sol y le decían , vaya un tonto mira como trabaja y nosotros aquí tomando el sol !
+*MOT:	adiós , cerdito .
+*MOT:	va a buscar a su mamá el cerdito , verdad ?
+*MOT:	la mamá del cerdito dónde está ?
+*MOT:	pues , pues (.) es que ya eran un poquito grandes y ya no estaba su mamá con ellos .
+*MOT:	se habían quedado solitos .
+*MOT:	dónde ?
+*MOT:	ah bueno , bueno entonces luego llegaba su mamá , verdad ?
+*MOT:	y les llevaba a su casita .
+*MOT:	y ya no había problemas , verdad , eh ?
+*MOT:	ya no se va quién ?
+*MOT:	no , ya no se va su mamá del cerdito .
+*MOT:	y ya se mete su mamá del cerdito ?
+*MOT:	sí ?
+*MOT:	ah , claro , entonces el tercer cerdito ya estaba terminando la casa ahí con todos los ladrillos y entonces ya llegó su mamá y le dice; ahí va cerdito qué casa más buena has hecho y a los otros les dijo , pues vaya una casa que habéis hecho , ya veréis como venga el lobo !
+*MOT:	esta casa se va a caer .
+*MOT:	y dijeron los otros cerditos , qué se va a caer !
+*MOT:	y se echaron todos a dormir .
+*MOT:	entonces llegó el lobo , por la noche , sabes ?
+*MOT:	a la casa del cerdito , del cerdito que tenía la casa de caña .
+*MOT:	y empezó a soplar &+fffff !
+*MOT:	eh ?
+*MOT:	no soplo la tuya ?
+*MOT:	no .
+*MOT:	a_ver , me soplas tú ?
+*MOT:	te metes a la cabaña ?
+*MOT:	adónde ?
+*MOT:	ya hemos llega(d)o .
+*MOT:	a casa estamos ?
+*MOT:	oye , y entonces el lobo .
+*MOT:	sabes que le sopló la casa al otro cerdito .
+*MOT:	al otro cerdito &+ffff !
+*MOT:	y se cayó la casa !
+*MOT:	y el cerdito salió corriendo , y el lobo corriendo detrás de los cerditos .
+*MOT:	y sabes lo que hicieron los cerditos ?
+*MOT:	se fueron corriendo a la casa del [x 3] otro cerdito , ése que estaba con su mamá que había hecho la casa de ladrillo .
+*MOT:	y entonces le [x 2] abrió la puerta y entraron corriendo y ya se pusieron los tres cerditos ahí ya con su mamá dentro de la casa de ladrillo .
+*MOT:	y el lobo corriendo detrás y empezó a soplar &+fffff !
+*MOT:	pero como la casa que había hecho el cerdito de ladrillos era una casa muy fuerte muy fuerte pues no se caía .
+*MOT:	y entonces el lobo no podían entrar a comerse a los cerditos .
+*MOT:	y se tuvo que marchar .
+*MOT:	se fue por ahí .
+*MOT:	por ahí por el bosque .
+*MOT:	ha cogido el lobo a Blancanieves ?
+*MOT:	sí ?
+*MOT:	es un brujo el lobo ?
+*MOT:	sí , le llamaba pollo su mamá ?
+*MOT:	al cerdito ?
+*MOT:	pero bueno !
+*MOT:	&+amamama .
+*MOT:	&+amama .
+*MOT:	&+mamamama .
+*MOT:	qué lobos ?
+*MOT:	yo ?
+*MOT:	tú ?
+*MOT:	yo soy 0 lobo .
+*MOT:	uy , qué susto , no !
+*MOT:	qué ?
+*MOT:	qué casa me presta la abuela ?
+*MOT:	esta casa ?
+*MOT:	esta casa de aquí donde estamos ?
+*MOT:	y por_qué lo sabes tú ?
+*MOT:	eh ?
+*MOT:	quién te lo ha dicho a ti que esta casa me la presta la abuela ?
+*MOT:	sí ?
+*MOT:	de quién es esta casa ?
+*MOT:	ah !
+*MOT:	no es , no es nuestra ?
+*MOT:	no ?
+*MOT:	no , nuestra casa está ahí .
+*MOT:	dónde está nuestra casa ?
+*MOT:	muy lejos .
+*MOT:	muy lejos está ?
+*MOT:	muy lejos está , eh ?
+*MOT:	sí .
+*MOT:	y te gusta estar aquí en esta casa , eh Magín ?
+*MOT:	se va , sí .
+*MOT:	Magín te gusta estar en esta casa ?
+*MOT:	sí ?
+*MOT:	o en la nuestra .
+*MOT:	dónde te gusta a ti estar , eh ?
+*MOT:	en tu casa tuya ?
+*MOT:	aquí no quieres estar ?
+*MOT:	nos vamos a Madrid ?
+*MOT:	a nuestra casita ?
+*MOT:	y allí no está el mar ni la playa .
+*MOT:	quieres ir a la playa ?
+*MOT:	eh ?
+*MOT:	claro , nos lo pasamos muy bien en la playa , verdad ?
+*MOT:	está muy fría el agua , verdad ?
+*MOT:	el agua de la playa está muy fría .
+*MOT:	claro .
+*MOT:	porque todavía no hace mucho calor .
+*MOT:	luego en verano ya no está fría .
+*MOT:	xxx .
+*MOT:	venga que te tienes que dormir ya !
+*MOT:	está escondido el reloj ?
+*MOT:	sí ?
+*MOT:	se mueve en el verano el reloj ?
+*MOT:	sí .
+*MOT:	ha movido una campanada ?
+*MOT:	y cómo es eso ?
+*MOT:	quieres ver el reloj ?
+*MOT:	y dónde está ?
+*MOT:	ah , el reloj está allí .
+*MOT:	que vamos a dormir ya , venga .
+*MOT:	ahora nos dormíamos ya Magín , que es muy tarde .
+*MOT:	sí ?
+*MOT:	ah , qué sueño !
+*MOT:	ay brujito !
+*MOT:	estás preocupado ?
+*MOT:	por_qué estás preocupado ?
+*MOT:	eh ?
+*MOT:	porque estás ?
+*MOT:	encerrado ?
+*MOT:	y dónde estás encerrado ?
+*MOT:	en el &+mi , anda que tienes un rollo ?
+*MOT:	dónde estás encerrado ?
+*MOT:	y qué es el minorario@c ?
+*MOT:	ah , en la casa de Pepito ?
+*MOT:	&+ia , &+ia &+o ?
+*MOT:	a_ver cómo cantas esa canción !
+*MOT:	muy bien .
+*MOT:	y cómo hacía el perrito ?
+*MOT:	&+guau , &+guau .
+*MOT:	&+ia &+ia .
+*MOT:	&+o .
+*MOT:	ven .
+*MOT:	sí , ven .
+*MOT:	no [x 3] .
+*MOT:	ya no te puedes poner ninguno porque ya te lo he puesto .
+*MOT:	que ya te lo he puesto !
+*MOT:	oye , quieres que nos vayamos a los caballitos ?
+*MOT:	bueno , pues te tienes que portar ahora bien y esperar a mamá , eh ?
+*MOT:	eh ?
+*MOT:	la de los caballitos ?
+*MOT:	pues estará allí !
+*MOT:	sí , estará en los caballitos porque su mamá trabajaba ahí , donde los caballitos !
+*MOT:	a_ver , espera [x 2] .
+*MOT:	ya , muy bien !
+*MOT:	espera , mete .
+*MOT:	la amiga Lusia ?
+*MOT:	quién es ésa ?
+*MOT:	Claudia !
+*MOT:	Claudia se llamaba esa niña .
+*MOT:	allí .
+*MOT:	sí .
+*MOT:	ha venido más tarde Claudia ?
+*MOT:	sí .
+*MOT:	no , porque ya te he puesto uno .
+*MOT:	ése te le pongo mañana .
+*MOT:	ven [x 2] .
+*MOT:	eh ?
+*MOT:	no te pongo ése ?
+*MOT:	por_qué ?
+*MOT:	cómo vas a estar meado si te lo acabo de poner !
+*MOT:	qué ?
+*MOT:	qué ?
+*MOT:	que no te mojo nada .
+*MOT:	y dónde he puesto yo tus botas ?
+*MOT:	ven que te pongo éstas que no sé dónde están las otras .
+*MOT:	es que no sé dónde están las otras y éstas son muy bonitas .
+*MOT:	como que no .
+*MOT:	mira , te hacen juego .
+*MOT:	ahora las buscamos , es que no se dónde están las botas azules .
+*MOT:	pero las tengo que buscar; Magín !
+*MOT:	venga , ahora me tengo yo que arreglar para poder bajar a los caballitos , vale ?
+*MOT:	si no , no podemos bajar !
+*MOT:	a_ver , ven !
+*MOT:	la basura se abre ?
+*MOT:	sí ?
+*MOT:	y se monta ?
+*MOT:	muy bien !
+*MOT:	muy bien !
+*MOT:	sí ?
+*MOT:	ah ?
+*MOT:	qué [x 2] eres ?
+*MOT:	y tienes pico ?
+*MOT:	sí ?
+*MOT:	Oquico ?
+*MOT:	sí ?
+*MOT:	uno avión ?
+*MOT:	sí ?
+*MOT:	vale .
+*MOT:	tienes hambre ?
+*MOT:	no tienes ?
+*MOT:	no tienes ?
+*MOT:	no tienes un avión ?
+*MOT:	vaya hombre !
+*MOT:	así no vale ?
+*MOT:	quieres agua ?
+*MOT:	ven .
+*MOT:	ven que te doy agua .
+*MOT:	oye , qué me dices Magín ?
+*MOT:	Zipi Zape se asusta con la basura ?
+*MOT:	sí ?
+*MOT:	y se va ?
+*MOT:	muy bien .
+*MOT:	eso me acabas de decir , verdad ?
+*MOT:	Zipi Zape se asusta con la basura .
+*MOT:	ah !
+*MOT:	vas a barrer ?
+*MOT:	pero como me ayuda este niño , qué bien , madre .
+*MOT:	qué bien !
+*MOT:	qué bien !
+*MOT:	ya está bien limpito ?
+*MOT:	ven ayúdame , ven !
+*MOT:	ven Magín .
+*MOT:	ayúdame aquí !
+*MOT:	qué vas a fregar ahora ?
+*MOT:	vas a dejar esto limpito ?
+*MOT:	muy bien !
+*MOT:	qué pasa mi amor ?
+*MOT:	ya lo tengo cerrado ?
+*MOT:	ya lo tienes cerrado .
+*MOT:	ya lo tienes cerrado , has dicho ?
+*MOT:	eh ?
+*MOT:	anda , ponte , échate ahí !
+*MOT:	ahí !
+*MOT:	oye y esto qué es ?
+*MOT:	que se te está saliendo el pis ?
+*MOT:	cómo que no ?
+*MOT:	estás empapa(d)o .
+*MOT:	mira cómo se está poniendo la cama .
+*MOT:	espera , espera que te cambie .
+*MOT:	a_ver , ya .
+*MOT:	ay , quema(d)illo .
+*MOT:	pringue ?
+*MOT:	ahí .
+*MOT:	espera [x 2] .
+*MOT:	ya está !
+*MOT:	a_ver , esto lo vamos a quitar .
+*MOT:	dónde está el (em)papa(d)o ?
+*MOT:	que tú , tú , estás empapa(d)o , aquí , en el +//.
+*MOT:	en la camisetilla estás empapa(d)o .
+*MOT:	espérate que te voy a echar el +/.
+*MOT:	dónde tienes una pupa , chiquitín ?
+*MOT:	sí ?
+*MOT:	a_ver qué te pongo , una camisetita ?
+*MOT:	qué cantas ?
+*MOT:	ven .
+*MOT:	muy bien !
+*MOT:	muy bien .
+*MOT:	muy bien !
+*MOT:	está muy sucia , espera que te voy a poner otra limpita .
+*MOT:	sube .
+*MOT:	ven .
+*MOT:	ven .
+*MOT:	sube .
+*MOT:	a_ver , pa(ra) (a)bajo .
+*MOT:	ésta .
+*MOT:	sí .
+*MOT:	qué te he comprado ?
+*MOT:	ésta te he compra(d)o ?
+*MOT:	ah , que qué te ha comprado Loli ?
+*MOT:	pero si Loli está muy lejos está en Madrid .
+*MOT:	tú crees que te ha comprado algo ?
+*MOT:	quieres que vayamos a Madrid a_ver qué te ha comprado ?
+*MOT:	sí ?
+*MOT:	bueno , luego nos vamos a Madrid .
+*MOT:	sí .
+*MOT:	está por lo menos ?
+*MOT:	está por lo menos , dónde ?
+*MOT:	está por lo menos en su casita ?
+*MOT:	&+yoyyo .
+*MOT:	&+uhhh .
+*MOT:	quieres un bibe ?
+*MOT:	pues ahora mismo te lo hago .
+*MOT:	canastas , voy a_ver si está el bibe ya ?
+*MOT:	vale , espera .
+*MOT:	vamos a_ver .
+*MOT:	qué dices ?
+*MOT:	qué dices de los marineros ?
+*MOT:	eh ?
+*MOT:	y los marineros no ?
+*MOT:	no qué ?
+*MOT:	ah , que quieres [x 2] ponerte lo de marinero ?
+*MOT:	lo de marinero no ?
+*MOT:	por_qué ?
+*MOT:	cómo que no !
+*MOT:	por_qué ?
+*MOT:	no te gusta ?
+*MOT:	sí .
+*MOT:	que sí .
+*MOT:	que vas muy guapo .
+*MOT:	anda , ven .
+*MOT:	si vas muy guapo .
+*MOT:	y todos dicen , qué guapo vas Magín !
+*MOT:	a que sí !
+*MOT:	a que te dicen eso ?
+*MOT:	sí .
+*MOT:	a que te dicen eso , chiquitín !
+*MOT:	te dicen , mamaíta .
+*MOT:	&+ah .
+*MOT:	un tiburón .
+*MOT:	un tiburón .
+*MOT:	viene un tiburón ?
+*MOT:	y qué te hace el tiburón ?
+*MOT:	te ataca las patorritas ?
+*MOT:	te ataca las patorritas ?
+*MOT:	qué te hace el tiburón ?
+*MOT:	eso hace un tiburón ?
+*MOT:	oye , tiburón [x 2] que tú sí que eres un tiburón .
+*MOT:	ven tiburón malote .
+*MOT:	te visto .
+*MOT:	&+guau &+guau dice el tiburón .
+*MOT:	empuja la piernecita !
+*MOT:	a_ver , ven aquí !
+*MOT:	a_ver .
+*MOT:	a_ver .
+*MOT:	hala , muy bien .
+*MOT:	qué es eso , eh ?
+*MOT:	ah , son pedorretas ?
+*MOT:	ven , ven , ven siéntate aquí .
+*MOT:	eh ?
+*MOT:	espada , espadota .
+*MOT:	qué ?
+*MOT:	ahora está arregla(d)o ?
+*MOT:	déjalo .
+*MOT:	claro , lo ha arreglado mamá .
+*MOT:	quieto .
+*MOT:	eh ?
+*MOT:	lo estropeas ?
+*MOT:	no , no lo estropees .
+*MOT:	que no !
+*MOT:	que no porque me enfado .
+*MOT:	no lo toques !
+*MOT:	mira .
+*MOT:	oye .
+*MOT:	vas a ser bueno ?
+*MOT:	no .
+*MOT:	y me qué ?
+*MOT:	a sí ?
+*MOT:	porque eres un tiburón me lo vas a romper ?
+*MOT:	no hombre , no .
+*MOT:	ah , me vas a comprar uno nuevo ?
+*MOT:	y con qué dinerito ?
+*MOT:	anda entonces , menuda [x 2] compra que me haces .
+*MOT:	si es con mi dinero !
+*MOT:	sí , me gusta .
+*MOT:	me gusta mucho ir a la playa .
+*MOT:	y a ti ?
+*MOT:	pero está nublado hoy .
+*MOT:	vamos a bajar a jugar con la arena , aunque esté nublado , eh ?
+*MOT:	el qué estropeas ?
+*MOT:	los marineritos ?
+*MOT:	y eso ?
+*MOT:	una broma ?
+*MOT:	ése lo has estropeado tú .
+*MOT:	el de la broma .
+*MOT:	ése marinerito .
+*MOT:	uy , qué lío tiene esto !
+*MOT:	no quieres qué ?
+*MOT:	que le de la mano ?
+*MOT:	a quién ?
+*MOT:	ah , que se den la mano los marineritos .
+*MOT:	y tú no quieres que se den la mano ?
+*MOT:	y eso por_qué ?
+*MOT:	no me ayudes .
+*MOT:	no me ayudes , que te estoy poniendo +/.
+*MOT:	&+chuss , que te estoy poniendo bien el cordón !
+*MOT:	mira .
+*MOT:	mira .
+*MOT:	oye .
+*MOT:	vamos a buscar a +"/.
+*MOT:	a quién vamos a ir a buscar ?
+*MOT:	al primo Angel .
+*MOT:	te acuerdas del primo Angel ?
+*MOT:	está en Calpe el primo Angel , verdad ?
+*MOT:	pero ya se van a Madrid , también .
+*MOT:	hoy nos vamos todos a Madrid .
+*MOT:	tú quieres que nos vayamos a Madrid ?
+*MOT:	sí ?
+*MOT:	sí , si nos vamos .
+*MOT:	nos vamos a ir hoy , pero vamos a bajar un ratito a la playa primero , sabes ?
+*MOT:	nos vamos a la playa y después de la playa nos vamos a Madrid .
+*MOT:	y después ?
+*MOT:	adónde ?
+*MOT:	a Marós ?
+*MOT:	dónde es eso ?
+*MOT:	no , no toques ahí , hombre !
+*MOT:	ay [x 3] !
+*MOT:	oye , vas a empezar a comer lechuguita ?
+*MOT:	eh ?
+*MOT:	está muy buena la lechuguita Magín .
+*MOT:	ahí va !
+*MOT:	ya está .
+*MOT:	a_ver , venga , a levantar .
+*MOT:	vamos a hacer la maletita .
+*MOT:	Chiqui , tienes sueño ?
+*MOT:	qué ?
+*MOT:	los marineros no ?
+*MOT:	son tontos ?
+*MOT:	por_qué ?
+*MOT:	porque van ahí todo el rato cogidos de la manita ?
+*MOT:	sí .
+*MOT:	pobrecitos .
+*MOT:	pobrecitos marineritos .
+*MOT:	no los llames feos .
+*MOT:	por_qué ?
+*MOT:	no son feos hombre !
+*MOT:	uy !
+*MOT:	te dan susto ?
+*MOT:	uy , qué ojos pones .
+*MOT:	uy , qué ojos pones .
+*MOT:	es cieguecito mi niño ?
+*MOT:	pobrecito .
+*MOT:	mira , se ha nublado .
+*MOT:	ves , se ha nublado .
+*MOT:	no hace sol hoy , en la playa .
+*MOT:	ves ?
+*MOT:	no hace nada de sol .
+*MOT:	hay muchas nubes , ves ?
+*MOT:	las quitamos , las nubes ?
+*MOT:	a ti que te gusta ?
+*MOT:	claro , verdad ?
+*MOT:	es mejor que haga sol .
+*MOT:	qué haces ?
+*MOT:	no [x 3] .
+*MOT:	la madre que te trajo .
+*MOT:	qué haces ?
+*MOT:	venga , que nos vamos a ir a la playa .
+*MOT:	bueno , te sientas .
+*MOT:	da lo mismo .
+*MOT:	yo te quito esto .
+*MOT:	hala , ya te puedes sentar , venga .
+*MOT:	y te metes , vale ?
+*MOT:	a_ver cómo te metes ?
+*MOT:	qué , mi cielo ?
+*MOT:	vale .
+*MOT:	uy , qué es eso ?
+*MOT:	has oído un ruido ?
+*MOT:	has sido tú ?
+*MOT:	o ha sido un trueno ?
+*MOT:	ah , ah bribón !
+*MOT:	vaya ruido que has hecho , eh ?
+*MOT:	a_ver , a_ver , que vamos a recoger todo .
+*MOT:	oye , que a_ver qué pasa con las llaves , que has perdido unas , eh ?
+*MOT:	a que sí ?
+*MOT:	has perdido unas llaves .
+*MOT:	sí , la otra .
+*MOT:	a_ver dónde está la otra .
+*MOT:	la has tira(d)o por ahí ?
+*MOT:	aquí está la bolsita .
+*MOT:	vente aquí , ven , ven !
+*MOT:	vamos a recoger la carpeta .
+*MOT:	a_ver , xxx la carpeta .
+*MOT:	ah , estupendo , muy bien .
+*MOT:	que nos vamos a Madrid !
+*MOT:	que te creías que era +//.
+*MOT:	que no era verdad ?
+*MOT:	es verdad mira , nos vamos .
+*MOT:	que no pierdas la llave , eh !
+*MOT:	sí ?
+*MOT:	ya se ha ido por el camino ?
+*MOT:	sí ?
+*MOT:	otro qué ?
+*MOT:	otro campieto@c ?
+*MOT:	y qué es eso , qué es otro campieto@c ?
+*MOT:	tú sí que eres campieto@c .
+*MOT:	tú sí que eres campietillo@c .
+*MOT:	&+illo &+illo .
+*MOT:	oye , dónde está la llave ?
+*MOT:	pues dámela , dámela que tengo que meter eso , anda , Magín .
+*MOT:	me oyes ?
+*MOT:	no , no espero nada .
+*MOT:	dame la llave , anda .
+*MOT:	ah , eso quisiera yo saber .
+*MOT:	a_ver dónde está la llave ?
+*MOT:	qué has hecho con ella ?
+*MOT:	muy bien .
+*MOT:	muy bien !
+*MOT:	ay , las dos , bien , bien !
+*MOT:	vamos a meter una aquí .
+*MOT:	y la otra la dejamos aquí , a_ver .
+*MOT:	y ahora vamos a meter ésta .
+*MOT:	que la sacó mamá anoche .
+*MOT:	no saques nada !
+*MOT:	son mi(s) [*] campaíto(s) [: campanitas] [*] .
+*MOT:	no [x 3] que estoy recogiendo .
+*MOT:	ven aquí .
+*MOT:	cuida(d)o [x 3] , que te vas a dar en algún la(d)o .
+*MOT:	cómo que &+cancan ?
+*MOT:	&+can &+cangón , &+cangán &+cangón .
+*MOT:	bueno , te la , la dejamos ahí puesta .
+*MOT:	a_ver .
+*MOT:	por si acaso te manchas .
+*MOT:	que , bueno !
+*MOT:	que no saques nada , hombre !
+*MOT:	que , bueno .
+*MOT:	que no saques nada , hombre !
+*MOT:	qué combi ?
+*MOT:	quieres pintar en un papel ?
+*MOT:	te has hecho daño ?
+*MOT:	quieres pintar en un papel , Magín ?
+*MOT:	ha [* he] hecho redondo .
+*MOT:	has hecho redondo ?
+*MOT:	ése es el sol .
+*MOT:	te has hecho caca ?
+*MOT:	ahora te cambio .
+*MOT:	qué es lo que no tengo ?
+*MOT:	no tengo dinero ?
+*MOT:	pobrecita mamá , si no tiene dinero !
+*MOT:	ahora me lo buscas ?
+*MOT:	vale .
+*MOT:	vas a comprar dinero ?
+*MOT:	el dinero se compra , también ?
+*MOT:	Magín , se compra con el dinero , pero el dinero no se compra .
+*MOT:	ah sí , se compra .

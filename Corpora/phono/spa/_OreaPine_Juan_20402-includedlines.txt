@@ -1,0 +1,441 @@
+*FAT:	venga .
+*FAT:	ahora voy .
+*FAT:	&=q vale ?
+*FAT:	&=q qué has hecho ?
+*FAT:	&=q ya has sacado todo ?
+*FAT:	a ver .
+*FAT:	espera [x 2] .
+*FAT:	&=q qué te he dicho ?
+*FAT:	&=q qué te he dicho ?
+*FAT:	oye .
+*FAT:	&=q y este cuento ?
+*FAT:	&=q quién te lo ha regalado ?
+*FAT:	&=q quién te ha regalado este cuento ?
+*FAT:	&=q no te acuerdas ?
+*FAT:	pues te lo ha regalado aquí el menda .
+*FAT:	te lo he regalado yo .
+*FAT:	te lo ha regalado Papá .
+*FAT:	&=q y cómo se llama este libro ?
+*FAT:	&=q no lo sabes ?
+*FAT:	mira .
+*FAT:	es la granja de Maisy .
+*FAT:	ven aquí .
+*FAT:	vamos a ver .
+*FAT:	&=q dónde está Maisy ? [+ COR]
+*FAT:	mira dónde está Maisy .
+*FAT:	< a@x a@x > [//] espera [x 4] .
+*FAT:	< a@x> [//] espera [x 3] .
+*FAT:	a:quí .
+*FAT:	&=q ahí ?
+*FAT:	a ver .
+*FAT:	aquí está el huerto &=q no ?
+*FAT:	cuidado .
+*FAT:	estás pisando cosas .
+*FAT:	ten cuidado .
+*FAT:	madre+mía .
+*FAT:	ah &=q el tractor ?
+*FAT:	venga .
+*FAT:	a:quí .
+*FAT:	ah .
+*FAT:	&=q Maisy lleva la carreta ? [+ COR]
+*FAT:	&=q el carrito este ?
+*FAT:	pero si va en un tractor no puede llevar un carrito , Juan .
+*FAT:	&=q cómo puede ser eso ?
+*FAT:	mira .
+*FAT:	&=q quién está aquí ?
+*FAT:	mu@o .
+*FAT:	&=q lleva ahí la vaca ?
+*FAT:	mira .
+*FAT:	aquí está su amigo Coco el cocodrilo .
+*FAT:	+" hola , Maisy .
+*FAT:	+" hola , Maisy .
+*FAT:	+" soy Coco el cocodrilo .
+*FAT:	son amigos .
+*FAT:	mira .
+*FAT:	y Periquillo el pajarito .
+*FAT:	oh [x 2] .
+*FAT:	Periquillo .
+*FAT:	no te caigas .
+*FAT:	+" hola , Maisy .
+*FAT:	+" soy Coco el cocodrilo .
+*FAT:	+" &=q quieres que juguemos al escondite ?
+*FAT:	&=q sí ?
+*FAT:	&=q van a jugar al escondite ?
+*FAT:	< a ver > [/] a ver .
+*FAT:	a ver .
+*FAT:	van a jugar todos .
+*FAT:	mira .
+*FAT:	la ardilla .
+*FAT:	va a jugar el cocodrilo .
+*FAT:	va a jugar el pájaro .
+*FAT:	y va a jugar Maisy .
+*FAT:	&=q vale ?
+*FAT:	&=q sí ?
+*FAT:	a ver .
+*FAT:	la ardilla se va a esconder .
+*FAT:	no mires &=q &-eh ?
+*FAT:	< no mires > [/] no mires , Maisi .
+*FAT:	< no mires > [/] no mires .
+*FAT:	la ardilla se va a esconder .
+*FAT:	ya está escondida .
+*FAT:	ahora se esconde el pajarito .
+*FAT:	no mires .
+*FAT:	no mires , Maisy .
+*FAT:	< no mires no mires > [/] no mires .
+*FAT:	ya está .
+*FAT:	ahora se esconde el cocodrilo .
+*FAT:	no mires .
+*FAT:	no mires , Maisy .
+*FAT:	no mires .
+*FAT:	ya está .
+*FAT:	ya se ha escondido el cocodrilo .
+*FAT:	ya está , Maisy .
+*FAT:	&=q dónde estamos ?
+*FAT:	&=q a ver ?
+*FAT:	pero bueno .
+*FAT:	que es Maisy la que tiene que buscar .
+*FAT:	toma .
+*FAT:	toma .
+*FAT:	coge a Maisy .
+*FAT:	&=q dónde estás , cocodrilo ?
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q cómo [//] qué dice Maisy ?
+*FAT:	&=q a ver qué dice ?
+*FAT:	&=q y busca ?
+*FAT:	&=q dónde busca ?
+*FAT:	&=q busca < por aquí > [/] por aquí a ver ?
+*FAT:	mira a ver si está ahí .
+*FAT:	&=q no está ahí Maisy ?
+*FAT:	&=q está ahí ?
+*FAT:	pero bueno .
+*FAT:	has descubierto el cocodrilo .
+*FAT:	oye , Maisy .
+*FAT:	&=q y dónde está la ardilla ?
+*FAT:	mira a ver si la ves por aquí .
+*FAT:	mira a ver si ves a la ardilla .
+*FAT:	< di le > [/] di le +...
+*FAT:	&=q dónde +..?
+*FAT:	&=q está ahí la ardilla ?
+*FAT:	mira a ver , Maisy , si está ahí dentro .
+*FAT:	mira a ver si está ahí la ardilla .
+*FAT:	&=e oh !
+*FAT:	ahí está la ardilla .
+*FAT:	&=q ah , no ?
+*FAT:	&=q y esta quién es ?
+*FAT:	oh .
+*FAT:	+" soy una flor .
+*FAT:	a ver si vemos a Pajarilla .
+*FAT:	&=q dónde estás , Pajarilla ?
+*FAT:	esa es la ardilla .
+*FAT:	ten cuidado .
+*FAT:	no pises ahí .
+*FAT:	lo@o [x 3] .
+*FAT:	+" me voy a esconder .
+*FAT:	ah .
+*FAT:	pero bueno .
+*FAT:	si se esconde también Maisy &=q dónde [//] quién va a buscar los ?
+*FAT:	&=q el cocodrilo ? [+ ADS]
+*FAT:	&=q dónde estás , cocodrilo ?
+*FAT:	pero [x 2] &=q el cocodrilo también se esconde ?
+*FAT:	< a ver > [/] a ver .
+*FAT:	opale@i .
+*FAT:	mírala dónde están escondidas las dos .
+*FAT:	< Maisy y > [//] &=q Flor se llama la ardilla ?
+*FAT:	pero no metas al cocodrilo que si no no vamos a poder sacar lo .
+*FAT:	&=q se llama Flor la ardilla ?
+*FAT:	&=q sí ?
+*FAT:	pero bueno .
+*FAT:	hola .
+*FAT:	oye .
+*FAT:	no hemos econtrado a Pajarilla .
+*FAT:	&=q dónde está Pajarilla ?
+*FAT:	no .
+*FAT:	ese es el cocodrilo .
+*FAT:	mira a ver si ves por ahí a Pajarilla .
+*FAT:	mira a ver si la ves por ahí .
+*FAT:	no .
+*FAT:	ahí no está .
+*FAT:	Pajarilla está escondida .
+*FAT:	uy@i .
+*FAT:	está < por aquí > [/] por aquí .
+*FAT:	no .
+*FAT:	ahí no está .
+*FAT:	mira a ver si la ves a Pajarilla .
+*FAT:	no .
+*FAT:	mira a ver si la ves .
+*FAT:	no .
+*FAT:	ahí tampoco está .
+*FAT:	&=q < pero no la > [/] pero la ves o no la ves ?
+*FAT:	no .
+*FAT:	tampoco está .
+*FAT:	mira [x 2] .
+*FAT:	se lo ve por ahí un pie .
+*FAT:	&=e Pajarilla !
+*FAT:	ahí estabas .
+*FAT:	sí .
+*FAT:	se esconde .
+*FAT:	adiós .
+*FAT:	adiós , Pajarillo .
+*FAT:	&=q se ha escondido ?
+*FAT:	pero bueno .
+*FAT:	< si se > [/] si se esconde +//.
+*FAT:	ya no está . [+ ADS]
+*FAT:	&=q la ardilla se llama Flor ?
+*FAT:	aquí .
+*FAT:	es de la gallina que está aquí .
+*FAT:	mira .
+*FAT:	está aquí comiendo .
+*FAT:	y el pato está aquí .
+*FAT:	mira .
+*FAT:	el gato .
+*FAT:	la oveja .
+*FAT:	el cerdo .
+*FAT:	están todos ahí .
+*FAT:	mira .
+*FAT:	los caballos también aquí duermen un poquito .
+*FAT:	duermen aquí .
+*FAT:	aquí duermen los caballos y la vaca .
+*FAT:	está la carretilla .
+*FAT:	y aquí está para tener la cebada donde comen los caballos .
+*FAT:	está aquí .
+*FAT:	< está aquí > [/] está aquí .
+*FAT:	mira .
+*FAT:	ahí están los patitos .
+*FAT:	Juan .
+*FAT:	esos pedorretes@f .
+*FAT:	&=q dónde están los amigos de Maisy ?
+*FAT:	&=q qué lleva Maisy ?
+*FAT:	pero no metas ahí los huevos .
+*FAT:	hombre .
+*FAT:	la cesta de los huevos aquí .
+*FAT:	que lleva Maisy .
+*FAT:	< a ver > [/] a ver .
+*FAT:	vamos a hacer un corral .
+*FAT:	mira .
+*FAT:	aquí .
+*FAT:	en el corral .
+*FAT:	mira .
+*FAT:	y aquí en el corral ponemos +...
+*FAT:	al caballo .
+*FAT:	y a la vaca .
+*FAT:	dentro del corral para que no se vayan trotando hasta que no sea su momento .
+*FAT:	el caballo xxx . [+ NON]
+*FAT:	juju@o .
+*FAT:	yupi@o .
+*FAT:	están aquí escondidos .
+*FAT:	pero bueno .
+*FAT:	lo vas a volver a meter otra vez .
+*FAT:	pues vaya juego más aburrido , Juan .
+*FAT:	no [x 2] .
+*FAT:	< así se rompe > [/] así se rompe .
+*FAT:	me voy a enfadar , Juan .
+*FAT:	te he dicho que no lo metas más por ahí .
+*FAT:	ya no se mete más .
+*FAT:	&=q vale ?
+*FAT:	vale .
+*FAT:	te obsesionas .
+*FAT:	no lo metas más , hombre .
+*FAT:	se puede jugar con todo el cuento .
+*FAT:	ten cuidado .
+*FAT:	mira [/] mira .
+*FAT:	ya está roto .
+*FAT:	eso es .
+*FAT:	despacito para no romper lo .
+*FAT:	a:sí .
+*FAT:	ten cuidado con eso qué está roto ya .
+*FAT:	claro .
+*FAT:	porque ahí está el corral .
+*FAT:	&=q ves ?
+*FAT:	ahí [x 2] [/] hay un ternerito ahí .
+*FAT:	oy@i .
+*FAT:	y un elefante .
+*FAT:	hay un elefante también .
+*FAT:	no lo habíamos visto .
+*FAT:	en la granja de Maisy hay un elefante .
+*FAT:	mira .
+*FAT:	&=q y aquí sabes lo que hay ?
+*FAT:	mira lo que hay .
+*FAT:	una ventana .
+*FAT:	cucuru@o .
+*FAT:	y aquí hay una puerta .
+*FAT:	cucurucucu@o .
+*FAT:	sí .
+*FAT:	pero por la puerta < no puede entrar > [/] no puede entrar +/.
+*FAT:	claro .
+*FAT:	no .
+*FAT:	por el corral tampoco que lo estropeas todo .
+*FAT:	ay@i , Juan .
+*FAT:	ten cuidado , por+favor .
+*FAT:	mira .
+*FAT:	siéntate aquí .
+*FAT:	&=q quieren comida los animales ? [+ COR]
+*FAT:	venga .
+*FAT:	vamos a ver .
+*FAT:	mira .
+*FAT:	aquí hay un saco de comida para la gallina .
+*FAT:	toma .
+*FAT:	toma .
+*FAT:	para la gallina .
+*FAT:	aquí esta es la gallina .
+*FAT:	pero hombre .
+*FAT:	esa es la gallina de Meisi .
+*FAT:	se llama Pajarilla .
+*FAT:	&=q más comida ?
+*FAT:	mira .
+*FAT:	aquí está el pasto para la vaca y para los caballos .
+*FAT:	mira .
+*FAT:	el biberón .
+*FAT:	el biberón .
+*FAT:	&=q van juntos ?
+*FAT:	&=q no van juntas ?
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	aquí están las zanahorias plantadas .
+*FAT:	y aquí ya cuando se han hecho grandes y se pueden coger .
+*FAT:	están por debajo .
+*FAT:	mira los gusanorros@f .
+*FAT:	&=q dónde está el gusano ?
+*FAT:	mira .
+*FAT:	hay un gusano ahí .
+*FAT:	mira .
+*FAT:	y aquí hay más .
+*FAT:	mira .
+*FAT:	aquí hay más .
+*FAT:	&=q se va a cambiar ahí Pajarilla ?
+*FAT:	< a ver > [/] a ver .
+*FAT:	&=q dónde está Pajarilla ? [+ ADS]
+*FAT:	&=q la has encontrado ?
+*FAT:	pero bueno .
+*FAT:	xxx .
+*FAT:	será una mano .
+*FAT:	&=q dónde están todos los amigos de Maisy ?
+*FAT:	flatan [//] falta Flor .
+*FAT:	&=q dónde está Flor ?
+*FAT:	&=q dónde está Flor ?
+*FAT:	anda .
+*FAT:	pues si estaba nadando ahí .
+*FAT:	< a ver > [/] a ver .
+*FAT:	vamos a ver qué viene en el librito de Maisy .
+*FAT:	+" un día en la granja de Maisy .
+*FAT:	a ver .
+*FAT:	vamos a ver .
+*FAT:	mira .
+*FAT:	+" Maisy y sus amigos tienen mucho trabajo en la granja . 
+*FAT:	mira .
+*FAT:	+" primero Maisy ordeña la vaca .
+*FAT:	+" Flor ayuda a dar de comer a los animales .
+*FAT:	+" zanahorias para el caballo .
+*FAT:	+" un hueso para el perro .
+*FAT:	+" lechugas para el conejo .
+*FAT:	+" y heno para la vaca .
+*FAT:	+" Pepo da de comer a los animales .
+*FAT:	+" zanahorias para el caballo .
+*FAT:	+" un hueso para el perro .
+*FAT:	+" lechugas para el conejo .
+*FAT:	+" y heno para la vaca .
+*FAT:	+" Pepo limpia los animales .
+*FAT:	mira .
+*FAT:	ahí está Pepo .
+*FAT:	+" limpia la cuadra la conejera la xxx y el redil .
+*FAT:	+" Rodrigo se llama el cocodrilo .
+*FAT:	+" Rodrigo recoge frutas y hortalizas .
+*FAT:	+" manzanas zanhorias fresas judías y peras .
+*FAT:	y ya falta la mitad .
+*FAT:	&=q qué más tiene que hacer Maisy ?
+*FAT:	tiene que dar de comer a los corderos .
+*FAT:	recoger la miel .
+*FAT:	regar las hortalizas .
+*FAT:	poner paja en la cuadra .
+*FAT:	madre+mía .
+*FAT:	qué día más ocupado .
+*FAT:	adiós [x 2] , Maisy .
+*FAT:	que tienes mucho trabajo .
+*FAT:	madre+mía .
+*FAT:	cuánto trabajo tiene .
+*FAT:	mira las ventanas aquí .
+*FAT:	&=e mira [x 2] !
+*FAT:	los búhos .
+*FAT:	mira .
+*FAT:	el conejo come zanahorias .
+*FAT:	&=q lo ves ?
+*FAT:	&=q y aquí ?
+*FAT:	&=q < quién duerme aquí > [/] quién duerme aquí ?
+*FAT:	ah .
+*FAT:	&=e las gallinas !
+*FAT:	xxx las gallinas el maiz . [+ NON]
+*FAT:	hala@i .
+*FAT:	y el perrucho .
+*FAT:	mira .
+*FAT:	aquí están las manzanas .
+*FAT:	fíjate .
+*FAT:	todas las manzanas .
+*FAT:	es un pájaro+carpintero .
+*FAT:	mira el pájaro+carpintero .
+*FAT:	hace tu@o .
+*FAT:	con el pico pica .
+*FAT:	así .
+*FAT:	luego hace gujuju@o .
+*FAT:	< a ver > [/] a ver .
+*FAT:	y aquí está la colmena de miel .
+*FAT:	mm@i .
+*FAT:	mira cuántas abejas .
+*FAT:	ss@o .
+*FAT:	y aquí hay una lechuga .
+*FAT:	< y debajo > [//] mira lo que hay debajo de la lechuga .
+*FAT:	&=q qué hay ?
+*FAT:	&=e caracoles !
+*FAT:	&=q le cantamos una canción ?
+*FAT:	&=q qué le cantamos ?
+*FAT:	a ver .
+*FAT:	&=q qué canción le cantamos ?
+*FAT:	xxx .
+*FAT:	&=q qué más ?
+*FAT:	&=q qué más ?
+*FAT:	< ese caracol > [//] atención [x 2] .
+*FAT:	que a ese caracol le ha tocado un +...
+*FAT:	señoras y señores .
+*FAT:	señoras y señores .
+*FAT:	&=q cómo sigue ?
+*FAT:	en el +...
+*FAT:	muy bien .
+*FAT:	sí .
+*FAT:	ahí hay muchas flores .
+*FAT:	sí .
+*FAT:	&=q las que tienes en el culo ?
+*FAT:	sí .
+*FAT:	son muy bonitas &=q no ?
+*FAT:	&=q eres un perrucho ?
+*FAT:	&=q nos vamos a duchar ?
+*FAT:	sí .
+*FAT:	un poquito .
+*FAT:	&=q por qué no ?
+*FAT:	&=q &-eh , Juan ?
+*FAT:	< &=q por qué no vamos a jugar > [//] digo &=q por qué no nos vamos a duchar ?
+*FAT:	&=q &-eh ?
+*FAT:	vámo nos a duchar .
+*FAT:	que si jugamos un poquito luego nos duchamos .
+*FAT:	ya hemos jugado .
+*FAT:	te parecerá poco &=q no ?
+*FAT:	un poquito ito@x [/] .
+*FAT:	oye .
+*FAT:	&=q quieres que hagamos una construcción ?
+*FAT:	ah .
+*FAT:	no .
+*FAT:	que es muy tarde .
+*FAT:	&=q sabes qué hora es ?
+*FAT:	es casi la hora de acostar se ya .
+*FAT:	hala@i .
+*FAT:	y todavía < no hemos > [//] no nos hemos ni duchado .
+*FAT:	y no hemos ni cenado .
+*FAT:	< madre+mía > [/] madre+mía .
+*FAT:	&=q cómo ?
+*FAT:	&=q cómo dices ?
+*FAT:	< &=q te llevas > [//] pero si nos vamos a duchar , Juan .
+*FAT:	hoy toca ducha .
+*FAT:	&=q bañera ?
+*FAT:	pero si hemos hecho un trato , Juan .
+*FAT:	hemos dicho que primero jugábamos y luego nos duchábamos .
+*FAT:	y si no era baño .
+*FAT:	venga .
+*FAT:	vamos .

@@ -1,0 +1,569 @@
+*FAT:	< a ver > [/] a ver .
+*FAT:	tráe te la sillita blanca .
+*FAT:	ya verás que vas a estar mucho más cómodo .
+*FAT:	&=q a ver ?
+*FAT:	&=q conduciendo ? [+ ADS]
+*FAT:	< es que no sé si vas a > [//] claro .
+*FAT:	es que no sé si vas a pasar si la pones tan delante .
+*FAT:	ahora sí .
+*FAT:	&=q lo ves ?
+*FAT:	0 .
+*FAT:	jo@i qué tos .
+*FAT:	ahora te traigo yo (.) un volante .
+*FAT:	a ver .
+*FAT:	a ver si encuentro un volante por aquí .
+*FAT:	claro .
+*FAT:	para el coche . [+ ADS]
+*FAT:	mira este .
+*FAT:	no .
+*FAT:	lo tienes que sujetar tú con las manos .
+*FAT:	hala@i qué bien .
+*FAT:	&=q a dónde vas ?
+*FAT:	&=q vas a un pueblo ?
+*FAT:	&=q a qué pueblo vas ?
+*FAT:	&=q donde viven las gallinas y los profesores ? [+ ADS]
+*FAT:	&=q y los monstruos buenos ? [+ ADS]
+*FAT:	&=q y los esqueletos ? [+ ADS]
+*FAT:	&=q y los Mayas ? [+ ADS]
+*FAT:	&=q y los Barbuchis@f ? [+ ADS]
+*FAT:	&=q ahí viven todos ?
+*FAT:	&=q y los coches viven en ese pueblo ?
+*FAT:	&=q y las mangueras ? [+ ADS]
+*FAT:	&=q todos esos viven en ese pueblo al que vas ?
+*FAT:	&=q a ver cómo conduces ?
+*FAT:	ah .
+*FAT:	aquí tiene ahí una cosita pequeña y en el otro lado no &=q no ?
+*FAT:	&=q verdad ?
+*FAT:	< pero porque > [//] &=q sabes por qué ?
+*FAT:	porque esa cosita sólo tiene una .
+*FAT:	mm@i .
+*FAT:	claro .
+*FAT:	&=q no funciona ? [+ ADS]
+*FAT:	oh .
+*FAT:	&=q no funciona la radio ?
+*FAT:	pero hombre .
+*FAT:	enciénde la a ver si funciona .
+*FAT:	enciénde la radio a ver si funciona .
+*FAT:	+" hola , buenas+tardes .
+*FAT:	+" bienvenidos a nuestro programa de hoy .
+*FAT:	+" hola , buenas+tardes .
+*FAT:	+" bienvenidos a nuestro programa de hoy . [+ SNG]
+*FAT:	+" estamos aquí reunidos para hablar del coche de Juan .
+*FAT:	+" el coche de Juan es un coche verde que funciona perfectamente .
+*FAT:	+" y ahora un poquillo de música .
+*FAT:	&=q quieres un volante rojo ?
+*FAT:	no lo sé .
+*FAT:	&=q cómo se llama el otro volante ? [+ COR]
+*FAT:	tiene [/] tiene puerta y todo &=q &-eh ?
+*FAT:	tienes que echar la silla para atrás para salir .
+*FAT:	&=q ves ?
+*FAT:	sí .
+*FAT:	un barquito .
+*FAT:	lo has pisado , sí .
+*FAT:	un poco .
+*FAT:	pero no pasa nada .
+*FAT:	&=q no ?
+*FAT:	&=q quieres que lo arregle ?
+*FAT:	a ver .
+*FAT:	< ven aquí > [/] ven aquí .
+*FAT:	siéntate , anda .
+*FAT:	aquí en el suelo .
+*FAT:	a ver si te sabes esta historia .
+*FAT:	siéntate .
+*FAT:	mocosón .
+*FAT:	uy@i si tienes mocos .
+*FAT:	de verdad .
+*FAT:	&=q me das ese papel ?
+*FAT:	está allí .
+*FAT:	mira lo .
+*FAT:	&=q me lo coges ?
+*FAT:	a ver .
+*FAT:	a ver si te acuerdas de esto .
+*FAT:	un día el ratón quiso ir a navegar .
+*FAT:	cogió su barca .
+*FAT:	la echó en el agua .
+*FAT:	y se metió en ella .
+*FAT:	&=q pero sabes qué pasó ?
+*FAT:	que no había nada de viento .
+*FAT:	entonces el ratón dijo viento@q .
+*FAT:	+" ven aquí y sopla para que pueda navegar .
+*FAT:	y vino el viento del oeste y sopló muy fuerte .
+*FAT:	&=q cómo sopló ?
+*FAT:	y el ratón y el barco salieron volando por los aires .
+*FAT:	y fueron a parar a lo más alto de una alta +... [+ SNG]
+*FAT:	uy@i .
+*FAT:	casa .
+*FAT:	a ver qué hacemos (.) como casa .
+*FAT:	&=q qué utilizamos como casa ?
+*FAT:	primero la casa .
+*FAT:	luego los árboles .
+*FAT:	vamos a coger esto como casa .
+*FAT:	&=q sí ?
+*FAT:	&=q hacemos esto como si fuera una casa ?
+*FAT:	tú coges el ratón y la barca .
+*FAT:	< y fueron a parar > [//] mira .
+*FAT:	aquí está la casa .
+*FAT:	y hace pic@o .
+*FAT:	encima la barca y encima el ratón .
+*FAT:	&=q y el ratón qué dice ?
+*FAT:	no@q .
+*FAT:	+" esto no es lo que quería .
+*FAT:	viento@q .
+*FAT:	+" ven aquí y arregla este jaleo .
+*FAT:	y viene el viento del este y sopla muy [/] muy fuerte .
+*FAT:	a ver cómo sopla .
+*FAT:	< más fuerte > [/] más fuerte todavía .
+*FAT:	&=q a ver cómo soplas ?
+*FAT:	tan fuerte sopla que el ratón la barca y la casa salen volando por los aires . [+ SNG]
+*FAT:	y van a parar a lo más alto de un alto +... [+ SNG]
+*FAT:	&=q te acuerdas ?
+*FAT:	de un alto árbol . [+ SNG]
+*FAT:	&=q no te acuerdas del cuento ?
+*FAT:	mira .
+*FAT:	ahí está el árbol la casa el barco &=q y arriba ?
+*FAT:	+" oh viento . [+ SNG]
+*FAT:	+" mira lo que has hecho . [+ SNG]
+*FAT:	viento@q . [+ SNG]
+*FAT:	+" ven aquí y arregla este jaleo de una vez . [+ SNG]
+*FAT:	y entonces viene el viento del sur y sopla muy [x 4] fuerte . [+ SNG]
+*FAT:	&=q a ver cómo sopla ?
+*FAT:	y el ratón la barca la casa y el árbol +/. [+ SNG]
+*FAT:	salen volando por los aires .
+*FAT:	&=q y sabes a dónde van ?
+*FAT:	&=q a dónde ?
+*FAT:	&=q y esto qué es ?
+*FAT:	&=q una +..?
+*FAT:	a lo más alto de una alta montaña .
+*FAT:	allí en la punta se queda el árbol .
+*FAT:	< y al lado del > [//] y encima del árbol la casa .
+*FAT:	y encima de la casa el barco .
+*FAT:	y encima del barco el ratón .
+*FAT:	el ratón muy triste dice “oh , viento” . [+ SNG]
+*FAT:	+" mira lo que has hecho . [+ SNG]
+*FAT:	+" yo sólo quería navegar . [+ SNG]
+*FAT:	anda@q .
+*FAT:	+" ven y arregla este jaleo . [+ SNG]
+*FAT:	y viene el viento del norte y sopla muy [x 2] fuerte . [+ SNG]
+*FAT:	y mira lo que pasa .
+*FAT:	que la montaña el árbol la casa el barco y el ratón salen volando por los aires . [+ SNG]
+*FAT:	y mira lo que pasa .
+*FAT:	la montaña cae en medio del lago y se hunde .
+*FAT:	y se convierte en una isla al quedar se hundida .
+*FAT:	el árbol cae < en la > [/] en la isla y se queda plantado .
+*FAT:	y al plantar se florece .
+*FAT:	la casa cae junto al árbol en la isla también .
+*FAT:	y al quedar se quieta la casa se abre una ventanita y se asoma una linda ratoncita y dice “oh , qué lugar tan bonito para vivir” .
+*FAT:	y la barca cae junto a la isla .
+*FAT:	chuf@o .
+*FAT:	y el ratón dentro de la barca .
+*FAT:	y como en ese momento sopla una leve brisa el barco empieza a navegar alrededor de la isla .
+*FAT:	y cuando pasa por enfrente de donde estaba la ratoncita dice adiós@q .
+*FAT:	+" adiós [x 2] .
+*FAT:	y colorín+colorado este cuento +...
+*FAT:	ahora me lo cuentas tú .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q ahora eso amarillo < hay que meter> [/] hay que meter lo también en el cuento ?
+*FAT:	&=q eso amarillo qué es ?
+*FAT:	&=q el gigante de hierro ?
+*FAT:	&=q sí ?
+*FAT:	&=q es muy bueno , verdad ?
+*FAT:	oye .
+*FAT:	no me has contado la película antes .
+*FAT:	me la estabas contando cuando [/] cuando estábamos haciendo las camas pero no me la has terminado de contar .
+*FAT:	&=q me la cuentas ahora ?
+*FAT:	a ver .
+*FAT:	&=q cómo era ?
+*FAT:	&=q con un pájaro ? [+ ADS]
+*FAT:	iba por los aires .
+*FAT:	&=q y se encontró < con un > [/] con un pájaro ? [+ ADS]
+*FAT:	&=q tú [/] tú piensas que es así “el gigante de hierro” ?
+*FAT:	a ver .
+*FAT:	&=q qué más pasó ?
+*FAT:	&=q se hunde la barca ?
+*FAT:	&=q y qué le pasa al niño ?
+*FAT:	&=q se dobla ?
+*FAT:	&=q sí ?
+*FAT:	&=q y aparece el gigante de hierro para salvar lo ?
+*FAT:	&=q es este ?
+*FAT:	mira .
+*FAT:	&=q este es ?
+*FAT:	&=q a la barca la salva ?
+*FAT:	&=q y al niño ?
+*FAT:	mm@i .
+*FAT:	&=q y son amigos ?
+*FAT:	&=q le lleva el niño ?
+*FAT:	&=q porque pesa mucho ?
+*FAT:	pero el gigante de hierro es muy fuerte .
+*FAT:	un día juega con el niño a que el niño monta en un coche .
+*FAT:	&=q te acuerdas ?
+*FAT:	y entonces el gigante de hierro les da vueltas y vueltas .
+*FAT:	fu@o .
+*FAT:	&=q te acuerdas ?
+*FAT:	y el niño se marea .
+*FAT:	&=q te acuerdas ?
+*FAT:	&=q y qué más pasa con el gigante de hierro ?
+*FAT:	&=q se lo lleva volando ?
+*FAT:	&=q se ha encontrado con una ratita ?
+*FAT:	&=q y qué hacen ?
+*FAT:	&=q a la cazuela ?
+*FAT:	pero bueno .
+*FAT:	una ratita en la cazuela .
+*FAT:	pero bueno .
+*FAT:	&=q un caballo ?
+*FAT:	&=q es un coche con un caballo ?
+*FAT:	mm@i .
+*FAT:	sí .
+*FAT:	le falta una .
+*FAT:	toma .
+*FAT:	aquí .
+*FAT:	ya verás .
+*FAT:	se lo pones aquí .
+*FAT:	tú verás .
+*FAT:	tú verás .
+*FAT:	un coche .
+*FAT:	&=q qué pasa ?
+*FAT:	&=q te gusta mi coche ?
+*FAT:	&=q tú qué haces ?
+*FAT:	pero bueno .
+*FAT:	pero yo no sé si quiero que monte eso ahí .
+*FAT:	porque es que ya no es un coche .
+*FAT:	ahora es un avión .
+*FAT:	&=q lo ves ?
+*FAT:	&=q y eso qué es ?
+*FAT:	< es un amigo > [/] es un amigo mío .
+*FAT:	ah .
+*FAT:	&=q eso es para los aviones ?
+*FAT:	&=q si no no vuelan ?
+*FAT:	mm@i .
+*FAT:	&=q funciona ? [+ ADS]
+*FAT:	&=q dónde está el motor ?
+*FAT:	&=q está ahí el motor ?
+*FAT:	&=q un señor y lo fabrica ?
+*FAT:	&=q viene ?
+*FAT:	a ver .
+*FAT:	viene un señor y lo fabrica . [+ ADS]
+*FAT:	pero bueno .
+*FAT:	&=q pero qué estás haciendo ?
+*FAT:	&=q el señor que fabrica el motor ?
+*FAT:	pero bueno .
+*FAT:	mira .
+*FAT:	ya he hecho el motor .
+*FAT:	aquí y aquí .
+*FAT:	pues vaya .
+*FAT:	fabrica motores para que no vuelen aviones y para volar él .
+*FAT:	le falta un poquito el timón aquí .
+*FAT:	aquí .
+*FAT:	es un gran avión , sí .
+*FAT:	ya está .
+*FAT:	pequeñito .
+*FAT:	a ver .
+*FAT:	uno porque es pequeño y otro porque es grande no encontramos el adecuado .
+*FAT:	mira .
+*FAT:	este es Sisebuto .
+*FAT:	gs@o .
+*FAT:	es un avión carraca .
+*FAT:	jo@i .
+*FAT:	en ese avión pequeño cuánta gente va &=q no ?
+*FAT:	qué suerte , &=q no ?
+*FAT:	&=q se lo ha quitado una oreja al avión ?
+*FAT:	&=q lo fabrica un señor ? [+ COR]
+*FAT:	que venga aquí ahora el señor ese a fabricar .
+*FAT:	mira .
+*FAT:	le sientas aquí .
+*FAT:	y desde aquí él ya controla bien todo el avión .
+*FAT:	oh .
+*FAT:	que se lleva el motor .
+*FAT:	&=e socorro !
+*FAT:	y ahora +//.
+*FAT:	&=q has encontrado un avión muy grande ?
+*FAT:	&=q cómo se llama ese señor ?
+*FAT:	claro .
+*FAT:	oye .
+*FAT:	no has terminado de contar me la película , Juan .
+*FAT:	del gigante de hierro .
+*FAT:	&=q entonces son amigos ?
+*FAT:	&=q y dónde viven ?
+*FAT:	&=q viven en Cambrils ?
+*FAT:	pero bueno .
+*FAT:	&=q quién vive en Cambrils ?
+*FAT:	&=q el gigante de hierro y el niño ?
+*FAT:	&=q los papás , el gigante de hierro y el niño ? [+ ADS]
+*FAT:	ay@i , perdón [x 2] .
+*FAT:	perdón [x 3] .
+*FAT:	mira .
+*FAT:	el gigante de hierro pequeñito .
+*FAT:	0 .
+*FAT:	oh [x 2] .
+*FAT:	es un poco lapa este gigante de hierro .
+*FAT:	pero bueno .
+*FAT:	que viene el gigante de hierro grande .
+*FAT:	su papá .
+*FAT:	así xxx la siesta . [+ NON]
+*FAT:	mira .
+*FAT:	una dos y tres . [+ SNG]
+*FAT:	se levanta .
+*FAT:	uh@i .
+*FAT:	&=q quién fabrica otro gigante de hierro ?
+*FAT:	&=q el gigante fabrica otro gigante ?
+*FAT:	&=q por qué ?
+*FAT:	&=q son amigos , no ?
+*FAT:	&=q en dónde ?
+*FAT:	&=q en el cogotillo ?
+*FAT:	&=q ahí ?
+*FAT:	&=q ahí a corderetas ?
+*FAT:	&=q aquí ?
+*FAT:	a corderetas .
+*FAT:	todos los días una nave &=q &-eh ?
+*FAT:	podríamos hacer otra cosa .
+*FAT:	otra cosa .
+*FAT:	&=q una nave ? [+ ADS]
+*FAT:	&=q una nave tú quieres ?
+*FAT:	todos los días .
+*FAT:	una nave , venga .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	uh@i .
+*FAT:	ya está .
+*FAT:	toma .
+*FAT:	&=q más grande ?
+*FAT:	ya está .
+*FAT:	&=q más grande ?
+*FAT:	&=q más grande ya ?
+*FAT:	vamos a diseñar las nuevas naves del futuro .
+*FAT:	tuturu@o .
+*FAT:	mira una nave .
+*FAT:	espera un momento .
+*FAT:	a ver si podemos hacer la de otra forma .
+*FAT:	a ver .
+*FAT:	espera un momento .
+*FAT:	lo fabrica el señor que hace los motores &=q no ?
+*FAT:	mira qué nave .
+*FAT:	viernes vírgula virgen enano verde . [+ SNG]
+*FAT:	espera [x 3] .
+*FAT:	espera [x 2] . [+ SNG]
+*FAT:	espera [x 2] . [+ SNG]
+*FAT:	espera . [+ SNG]
+*FAT:	espera [x 3] , por+favor .
+*FAT:	paciencia , por+favor .
+*FAT:	por+favor , paciencia .
+*FAT:	paciencia , por+favor . [+ SNG]
+*FAT:	señoras y señores . [+ SNG]
+*FAT:	en el +... [+ SNG]
+*FAT:	paciencia , por+favor . [+ SNG]
+*FAT:	señoras y señores . [+ SNG]
+*FAT:	en el +... [+ SNG]
+*FAT:	salud .
+*FAT:	xxx .
+*FAT:	no sabemos .
+*FAT:	déjame las piezas amarillas , Juan .
+*FAT:	que le vamos a poner aquí dos patas amarillosas@f .
+*FAT:	trae .
+*FAT:	no .
+*FAT:	las otras .
+*FAT:	necesito más .
+*FAT:	necesito más .
+*FAT:	muy bien .
+*FAT:	gracias , xxx . [+ NON]
+*FAT:	mira ahora .
+*FAT:	oh .
+*FAT:	mira .
+*FAT:	las patas amarillosas@f estas .
+*FAT:	mira .
+*FAT:	&=q &-eh ?
+*FAT:	&=q esta es la nave espacial grande que tú querías ?
+*FAT:	pues aquí la tienes .
+*FAT:	para ti es .
+*FAT:	&=q y este es el inventor ?
+*FAT:	&=q el que lo fabrica ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q este es el que lo fabrica ?
+*FAT:	&=q y cómo se llama ese señor ?
+*FAT:	0 .
+*FAT:	ay@i madre .
+*FAT:	la primera esdrújula que dice y tiene que estar mal dicha .
+*FAT:	&=q el Señor Fábrico ?
+*FAT:	es una nave+espacial impresionante &=q &-eh ?
+*FAT:	&=q quieres poner las escaleras ?
+*FAT:	a ver .
+*FAT:	trae .
+*FAT:	a ver .
+*FAT:	aquí la podemos poner .
+*FAT:	&=q a ver ?
+*FAT:	déjame .
+*FAT:	&=q a ver ?
+*FAT:	vale , vaya .
+*FAT:	&=q me dejas probar a poner la escalera ?
+*FAT:	bueno .
+*FAT:	pues venga .
+*FAT:	pon la donde quieras .
+*FAT:	si lo quitas se estropea .
+*FAT:	se desarma la nave .
+*FAT:	ah , bueno .
+*FAT:	pues haz lo que quieras .
+*FAT:	&=q una escalera muy larga ?
+*FAT:	&=q una escalera muy larga muy grande y azul ?
+*FAT:	toma .
+*FAT:	más piezas azules .
+*FAT:	toma .
+*FAT:	aquí tienes más piezas azules .
+*FAT:	cariño .
+*FAT:	si quieres una escalera azul sólo hay estas piezas azules .
+*FAT:	&=q comprendes ?
+*FAT:	esas son grandes .
+*FAT:	esas no son pequeñas .
+*FAT:	&=q las grandes también las quieres ?
+*FAT:	pues hay que deshacer toda la nave entonces .
+*FAT:	pues oye .
+*FAT:	pues no me pidas que te haga naves &=q &-eh ?
+*FAT:	si luego las deshaces .
+*FAT:	toma .
+*FAT:	aquí tienes todas las piezas .
+*FAT:	haz lo que quieras .
+*FAT:	pues mira .
+*FAT:	un zigzag .
+*FAT:	un zigzag .
+*FAT:	mira .
+*FAT:	zigzag@o [x 6] .
+*FAT:	venga .
+*FAT:	pon tú el siguiente aquí .
+*FAT:	pon el siguiente aquí .
+*FAT:	mira .
+*FAT:	el siguiente sería así .
+*FAT:	así .
+*FAT:	y luego encima iría este así .
+*FAT:	y el siguiente iría aquí .
+*FAT:	que va a hacer falta una pieza grande .
+*FAT:	da me una grande .
+*FAT:	no .
+*FAT:	grande .
+*FAT:	no azul .
+*FAT:	amarilla o roja .
+*FAT:	pero tiene que ser grande .
+*FAT:	esa .
+*FAT:	muy bien .
+*FAT:	&=q ves [/] ves ?
+*FAT:	va esta así .
+*FAT:	y ahora este va a:sí .
+*FAT:	&=q qué has hecho ?
+*FAT:	&=q una u@l ?
+*FAT:	&=q una nave ? [+ ADS]
+*FAT:	mm@i .
+*FAT:	con escaleras que es lo que tú querías .
+*FAT:	una nave con escaleras .
+*FAT:	&=q y ahora a poner escaleras ?
+*FAT:	aquí .
+*FAT:	mira .
+*FAT:	la puedes poner así .
+*FAT:	&=q te gusta así ?
+*FAT:	o la quieres poner aquí .
+*FAT:	mira .
+*FAT:	así .
+*FAT:	mira .
+*FAT:	así .
+*FAT:	mira qué bien está ahí .
+*FAT:	&=q no te gusta ahí ?
+*FAT:	&=q son de cemento ?
+*FAT:	qué barbaridad .
+*FAT:	&=q por aquí suben quiénes ?
+*FAT:	&=q los dedos ? [+ ADS]
+*FAT:	&=q sí que la conozco ?
+*FAT:	hombre .
+*FAT:	sí que lo conozco , sí .
+*FAT:	&=q cómo se llama ?
+*FAT:	&=q cómo se llama ? [+ ADS]
+*FAT:	Sisebuto . [+ ADS]
+*FAT:	< cuánto tiempo > [/] cuánto tiempo sin ver te .
+*FAT:	&=q cómo se llama ese ?
+*FAT:	&=q cómo se llama ese ?
+*FAT:	Leonio .
+*FAT:	pero bueno .
+*FAT:	ya veo que tienes a Sisebuto y a Leonio &=q &-eh ?
+*FAT:	como en los viejos tiempos .
+*FAT:	eso cómo va a volar .
+*FAT:	madre+mía .
+*FAT:	pero si es un mazacote .
+*FAT:	abstracto .
+*FAT:	&-eh , cuidado .
+*FAT:	vaya .
+*FAT:	parece un dragón geométrico .
+*FAT:	esto no vuela ni aunque le pongamos un motor a propulsión .
+*FAT:	ni aunque se lo pongamos , amigo mío , volará .
+*FAT:	porque es un armatoste .
+*FAT:	un mamotreto .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	pero mueve la cola este dragón geométrico .
+*FAT:	y ahora mira cómo vuela .
+*FAT:	0 .
+*FAT:	no puede volar más .
+*FAT:	es pequeñito el vuelo que tiene .
+*FAT:	mira .
+*FAT:	ya verás .
+*FAT:	se pone aquí y vuela hasta aquí .
+*FAT:	mira .
+*FAT:	&=q qué pasa ?
+*FAT:	hay gente que vuela poco y gente que vuela mucho .
+*FAT:	este vuela poco .
+*FAT:	hay que asumir lo .
+*FAT:	a lo mejor podría llamar a tu amigo Fábrico .
+*FAT:	y a lo mejor se lo ocurre alguna idea (.) para que vuele un poco más este dragón geométrico .
+*FAT:	&=q ese es Fábrico ?
+*FAT:	claro .
+*FAT:	si lo pones delante de la boca y le dices dragón@q .
+*FAT:	+" echa fuego .
+*FAT:	pues el dragón echa fuego y lo quema sin querer .
+*FAT:	claro .
+*FAT:	por eso se pone en el lado y dice dragón@q .
+*FAT:	+" echa fuego .
+*FAT:	y ahora ya .
+*FAT:	ffs@o .
+*FAT:	ffs@o .
+*FAT:	&-eh .
+*FAT:	pero bueno .
+*FAT:	pero si es un dragón bueno .
+*FAT:	pero si es un dragón geométrico .
+*FAT:	los dragones geométricos lo único que son un poco más complejos .
+*FAT:	pero nada más .
+*FAT:	&-eh .
+*FAT:	&=q qué haces ?
+*FAT:	&=q quieres hacer un dragón malo ?
+*FAT:	o+sea que deshacemos también este &=q no ?
+*FAT:	pero lo haces tú el dragón .
+*FAT:	&=q a ver cómo lo haces ?
+*FAT:	no .
+*FAT:	yo ya estoy cansado de hacer y deshacer cosas .
+*FAT:	digamos que subimos aquí para que juegues tú .
+*FAT:	no para que juegue yo .
+*FAT:	0 .
+*FAT:	había alguna más , sí .
+*FAT:	mira .
+*FAT:	ahí tienes uno amarillo .
+*FAT:	sí .
+*FAT:	cógelo .
+*FAT:	no .
+*FAT:	tú cógelo . [+ ADS]
+*FAT:	mandarín .
+*FAT:	que eres un chino+mandarín .
+*FAT:	sí .
+*FAT:	eres un chino+mandarín .
+*FAT:	o un pajarito mandón .
+*FAT:	sí eres , sí .
+*FAT:	mira .
+*FAT:	ya verás < como dices > [//] como [/] como hablas en mandarín .
+*FAT:	di mandarina .
+*FAT:	&=q ves cómo hablas en mandarín ?
+*FAT:	tú eres un chino+mandarín de la mandarina .
+*FAT:	voy a ver qué hora es .
+*FAT:	porque a lo mejor hay que ir se a la Glorietifolia .
+*FAT:	oye .
+*FAT:	tenemos que preparar nos ya .
+*FAT:	con eso a la Glorietifolia creo que no [/] no va a ser buena idea &=q &-eh ?
+*FAT:	&=q sabes por qué ?
+*FAT:	porque eso se nos va a perder o se nos va a romper .
+*FAT:	o hace ruido ahí en medio de la sesión .
+*FAT:	vamos a vestir nos para ir a la Glorieti .
+*FAT:	oye .
+*FAT:	&=q sabes que la bruja Glorietifolia es muy amiga de los papás ?
+*FAT:	&=q no lo sabes ?
+*FAT:	y cuenta unos cuentos +...

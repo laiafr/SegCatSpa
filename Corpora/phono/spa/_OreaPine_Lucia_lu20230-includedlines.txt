@@ -1,0 +1,525 @@
+*FAT:	&=q un café me va a preparar Lucía ?
+*MOT:	toma .
+*FAT:	bueno .
+*FAT:	www .
+*MOT:	uy@i , Lucía .
+*MOT:	esto es muy complicado .
+*MOT:	aquí .
+*MOT:	míra la .
+*MOT:	este modelo no es exactamente el mismo , hija .
+*MOT:	&=q o sí ?
+*MOT:	ah sí .
+*MOT:	sí .
+*MOT:	qué bien .
+*MOT:	mira , Lucía .
+*MOT:	qué monada .
+*MOT:	mira .
+*MOT:	se pone aquí , cielo .
+*MOT:	&=q y e(s)te ?
+*MOT:	ay@i .
+*MOT:	nos faltan un montón de cosas .
+*MOT:	hay que sacar lo .
+*MOT:	ah , no .
+*MOT:	que yo las guardé .
+*MOT:	0 .
+*MOT:	uy@i .
+*MOT:	0 .
+*FAT:	0 .
+*MOT:	bueno .
+*MOT:	esto es una pasada .
+*MOT:	xxx .
+*FAT:	&=q por qué ?
+*FAT:	&=q hay muchas cosas ?
+*MOT:	sí .
+*MOT:	qué gracia .
+*FAT:	&=q es tu cocina , Lucía ?
+*FAT:	&=e cómo que yo no quepo !
+*FAT:	&=q no es para mí ?
+*FAT:	pero sí me puedes poner un café .
+*FAT:	&=q verdad ?
+*FAT:	&=q un café y un desayuno ?
+*FAT:	a ver .
+*MOT:	mira .
+*MOT:	< se lo preparas > [//] se lo preparas aquí , Lucía .
+*MOT:	mira .
+*MOT:	aquí se lo preparas .
+*MOT:	aquí .
+*MOT:	&=q ves ?
+*MOT:	y aquí lo calientas .
+*FAT:	sí , por+favor .
+*FAT:	con leche .
+*FAT:	&=q &-eh ?
+*FAT:	que no se te olvide .
+*FAT:	con leche , por+favor .
+*FAT:	con café , sí .
+*FAT:	con un poquito de café .
+*FAT:	&=q has visto qué día hace , Mother ?
+*MOT:	buenísimo .
+*FAT:	jo@i .
+*FAT:	pero es raro esto .
+*MOT:	sí: .
+*FAT:	con leche .
+*FAT:	&=q &-eh ?
+*FAT:	aquí .
+*FAT:	muy bien .
+*FAT:	aquí .
+*FAT:	muy bien .
+*FAT:	gracias .
+*FAT:	&=q y ahora me haces < una tor@x > [//] unas tostadas ?
+*FAT:	por+favor .
+*FAT:	xxx .
+*FAT:	xxx .
+*FAT:	venga .
+*FAT:	vamos para allá , Lu .
+*FAT:	&=q a ver ese [//] esas tostadas cómo [x 2] vienen ?
+*FAT:	&=q y las tostadas ?
+*FAT:	ah .
+*FAT:	&=e un café !
+*FAT:	m@i .
+*FAT:	me falta un poquito de azucar en este café .
+*FAT:	Lucía .
+*FAT:	ve a por azúcar .
+*MOT:	xxx .
+*FAT:	sí .
+*FAT:	un poquito de azúcar , Lucía .
+*MOT:	si ya está el azúcar .
+*FAT:	ah .
+*FAT:	muy bien .
+*FAT:	pues corre .
+*FAT:	que me pongo una cucharadita .
+*FAT:	a ver: .
+*FAT:	un poquito más .
+*FAT:	gracias , Lu .
+*FAT:	a ver ahora .
+*FAT:	m@i .
+*FAT:	ahora está buenísimo .
+*MOT:	sí .
+*MOT:	ya tiene una naranja ahora .
+*FAT:	&=q una cuchara para Papá ?
+*FAT:	muy bien .
+*FAT:	&=q esta rosa+pink ?
+*FAT:	gracias , Lu .
+*FAT:	no .
+*MOT:	sí .
+*FAT:	&=q qué quieres ?
+*MOT:	la naranja+orange .
+*FAT:	gracias , Lucía .
+*FAT:	Lucía .
+*FAT:	por+favor .
+*FAT:	me puedes preparar unos espaguetis ?
+*MOT:	uy@i .
+*MOT:	qué bien .
+*MOT:	&=q tiene azúcar ?
+*MOT:	gracias .
+*MOT:	el azúcar: .
+*MOT:	qué bien .
+*MOT:	&=q un azúcar ?
+*MOT:	< &=q le preparas > [//] .
+*MOT:	&=q le preparas un café a Elsa ?
+*MOT:	a ella otro .
+*FAT:	&=q es para Luz ?
+*FAT:	&=q y mis espaguetis , Lucía ?
+*MOT:	sí .
+*FAT:	los míos con tomate .
+*FAT:	con tomate .
+*FAT:	con tomate .
+*MOT:	ah .
+*MOT:	&=q lo estás calentando ?
+*MOT:	ah .
+*MOT:	muy bien .
+*FAT:	&=q los espaguetis ?
+*FAT:	mm@i .
+*FAT:	&=q y el tomate ?
+*FAT:	sí , tomate .
+*FAT:	entonces la cocina perfecta , &=q no ?
+*FAT:	www .
+*MOT:	www .
+*FAT:	&=q están calientes los espaquetis con tomate ? [+ COR]
+*FAT:	&=q y nos los vas a traer ?
+*FAT:	venga , por+favor .
+*FAT:	uy@i .
+*FAT:	&=q de qué color son estos ?
+*MOT:	&=q qué ?
+*MOT:	&=q qué color ?
+*MOT:	muy bien .
+*MOT:	muy bien .
+*FAT:	muy bien .
+*FAT:	ejem@i .
+*MOT:	&=q se ha caído ?
+*FAT:	&=q quién no cabe ?
+*FAT:	&=e anda !
+*FAT:	el botecito de antes .
+*FAT:	&=q qué quieres ?
+*FAT:	&=q arrimar te ?
+*FAT:	este .
+*MOT:	no .
+*FAT:	ah , &=q no ?
+*MOT:	&=q está rico ?
+*FAT:	0 .
+*FAT:	&=q cómo se pide ?
+*MOT:	&=q ponemos más café ?
+*MOT:	ss@i .
+*MOT:	ya .
+*FAT:	&=q es naranja orange@s ?
+*FAT:	&=q orange@s ?
+*FAT:	ah .
+*FAT:	bueno .
+*MOT:	ah no .
+*FAT:	&=q qué pasa ?
+*MOT:	estoy pensando que mañana +...
+*FAT:	0 .
+*MOT:	los cambios que hay , tío .
+*MOT:	xxx .
+*MOT:	por+favor .
+*MOT:	ya .
+*MOT:	www .
+*MOT:	www .
+*FAT:	&=q la ?
+*MOT:	www .
+*MOT:	0 .
+*FAT:	ah , &=q sí ?
+*MOT:	claro .
+*MOT:	está sola .
+*FAT:	ah .
+*FAT:	es verdad .
+*FAT:	www .
+*FAT:	un quesito .
+*MOT:	www .
+*FAT:	si no lo está ya , &=q no ?
+*MOT:	sí .
+*MOT:	&=q un quesito ?
+*FAT:	&=q cómo se pide , Lucía .
+*MOT:	&=e toma !
+*MOT:	ja@i .
+*MOT:	&=q estamos jugando a las verdades o a las mentiras ?
+*MOT:	o+sea .
+*MOT:	&=q este es de verdad ?
+*MOT:	pues a ver .
+*MOT:	hay que llevar se los juguetitos allí entonces , Lucía .
+*MOT:	no podemos mezclar verdad y mentira que es un lío .
+*MOT:	esto es para jugar .
+*MOT:	&=q vale ?
+*MOT:	es para jugar .
+*MOT:	es tuyo .
+*MOT:	sí .
+*MOT:	que se vuelca .
+*MOT:	ss@i .
+*MOT:	ya .
+*MOT:	pues ve te a preparar lo a la cocina .
+*MOT:	ve te ahí .
+*MOT:	lo preparas y lo calientas .
+*MOT:	y luego le echas tomate y queso rayado .
+*MOT:	&=q vale ?
+*FAT:	ahora arroz .
+*MOT:	&=q esto estaba grabando , Father ?
+*FAT:	esto está grabando .
+*FAT:	sí .
+*FAT:	&=q a dónde ir en el dosmil+uno ?
+*FAT:	www .
+*MOT:	ay@i .
+*FAT:	www .
+*FAT:	www .
+*FAT:	&=q qué te apetece hacer hoy , Mother ?
+*MOT:	no lo sé .
+*MOT:	de momento leer un poco el periódico .
+*FAT:	www .
+*MOT:	www .
+*FAT:	he ido a comprar un roscón y no tenían sueltos .
+*MOT:	ay@i qué pena .
+*FAT:	de todas maneras eran de bote .
+*FAT:	&=q el qué ?
+*FAT:	&=q que si está oscuro ? [+ COR]
+*FAT:	no .
+*MOT:	no .
+*FAT:	hay mucha luz .
+*FAT:	&=q qué querías ?
+*FAT:	&=q encender la lámpara ?
+*FAT:	no .
+*FAT:	no la enciendas , Lucía .
+*MOT:	no hace falta .
+*FAT:	hoy no hace falta .
+*FAT:	bueno .
+*FAT:	pues si la quieres encender enciénde la pero no porque esté oscuro .
+*MOT:	&=q aupa qué ?
+*MOT:	&=q qué pasa ?
+*MOT:	no me gusta nada que estés ahí porque está lleno de cristales enanos .
+*FAT:	dios+mio .
+*FAT:	avanza peligrosamente .
+*MOT:	no , Lucía .
+*MOT:	mi+amor .
+*MOT:	ten cuidado que es cristal roto .
+*FAT:	no es que está roto .
+*FAT:	hay un cristal roto , Lucía .
+*FAT:	y eso es muy peligroso .
+*FAT:	&=q tú no te has quedado como con un poco de hambre ?
+*MOT:	sí .
+*MOT:	pero no voy a comer más .
+*MOT:	&=q qué quieres ?
+*FAT:	Lucía .
+*FAT:	a las chucherías .
+*FAT:	más por+favor , Lucía .
+*FAT:	no pidas así las cosas .
+*MOT:	0 .
+*MOT:	&=q qué , Lucía ?
+*MOT:	&=q qué pasa ?
+*MOT:	&=q qué ?
+*MOT:	no se va a tocar esto .
+*MOT:	esto no se toca .
+*MOT:	no se toca .
+*MOT:	no se toca , hija .
+*MOT:	además aquí hay cristales .
+*MOT:	pequeñita .
+*MOT:	te vas a pinchar .
+*MOT:	pincha esto , mi+amor .
+*MOT:	pupa .
+*MOT:	venga .
+*MOT:	baja y haz me unos +...
+*MOT:	vamos a montar la cocinita .
+*MOT:	ven .
+*MOT:	vamos a montar la cocinita .
+*MOT:	corre .
+*MOT:	mira .
+*MOT:	a ver .
+*MOT:	faltan cosas por hacer .
+*MOT:	espera .
+*MOT:	a ver .
+*MOT:	&=q cómo vamos ?
+*MOT:	falta el gri:fo .
+*MOT:	xxx .
+*MOT:	mira , Lucía .
+*MOT:	nos falta el grifo del agua .
+*MOT:	xxx .
+*FAT:	&=q tú te sigues ya , Mother ?
+*MOT:	sí .
+*MOT:	voy a montar le esto .
+*MOT:	pero esto no puedo montar lo .
+*FAT:	&=q qué le pasa ?
+*FAT:	&=q el qué ?
+*MOT:	que no [x 2] lo consigo enganchar .
+*MOT:	xxx .
+*MOT:	eso es .
+*MOT:	y ahora abre el grifo .
+*MOT:	así .
+*MOT:	el tapón a ver .
+*MOT:	tiene hasta tapón el fregadero .
+*MOT:	mira .
+*MOT:	puedes tapar [x 2] esto .
+*MOT:	mira .
+*MOT:	así .
+*MOT:	para llenar lo de agua .
+*MOT:	tapas .
+*MOT:	tapas aquí .
+*MOT:	tapas esto aquí y ahora abres el grifo .
+*MOT:	sí .
+*MOT:	sí , hija .
+*MOT:	sí .
+*MOT:	puedes poner también una taza .
+*MOT:	&=q dónde están las tazas ?
+*MOT:	mira .
+*MOT:	se pueden poner aquí también .
+*MOT:	aquí .
+*MOT:	&=q ves ?
+*MOT:	tienes una estantería ahí .
+*MOT:	a es que esto está xxx con una tapa . [+ NON]
+*MOT:	mira , Lucía .
+*MOT:	esta cucharita se puede poner aquí .
+*MOT:	mira .
+*MOT:	esto es la sal y el azúcar .
+*MOT:	xxx .
+*FAT:	0 .
+*MOT:	este .
+*MOT:	este [x 2] es la sal .
+*MOT:	la sal .
+*MOT:	y este (.) es el azúcar .
+*MOT:	&=q vale ?
+*MOT:	y ahora trae los platitos que se van a +...
+*MOT:	cuando los friegues los pones aquí para escurrir .
+*MOT:	vas a por los platitos .
+*MOT:	corre .
+*MOT:	están en la mesa .
+*MOT:	tráe los todos .
+*MOT:	los friegas y luego los escurres ahí arriba .
+*MOT:	a la pila .
+*MOT:	sí .
+*MOT:	ese a la pila .
+*MOT:	muy bien .
+*MOT:	&=q dónde está la bandeja , Lucía ?
+*MOT:	aquí .
+*MOT:	un plato a lavar .
+*MOT:	cuando lo hayas lavado +...
+*MOT:	ss@i .
+*MOT:	lo lavas con agua .
+*MOT:	ff@o .
+*MOT:	y este también a lavar .
+*MOT:	espera .
+*MOT:	vamos a poner la hora .
+*MOT:	son las tres+menos+cinco .
+*MOT:	&=q estos ya están ?
+*MOT:	vale .
+*MOT:	ya sólo nos faltan estos mandos (.) de la cocina , Lucía .
+*FAT:	coge las cosas que las has tirado todas .
+*MOT:	pon le ahí .
+*MOT:	pon le ahí .
+*MOT:	no .
+*MOT:	al revés .
+*MOT:	así .
+*FAT:	&=q xxx es eso ? [+ NON]
+*MOT:	esto es el salero .
+*MOT:	< y esto es el > [//] no .
+*MOT:	eso es la azúcar y esto es la sal .
+*MOT:	&=q y los platos ?
+*MOT:	&=q se ha caído por ahí los platos , Lucía ?
+*MOT:	había platos aquí escurriendo .
+*MOT:	&=q te acuerdas ?
+*MOT:	&=q dónde está ?
+*MOT:	mira .
+*MOT:	está detrás .
+*MOT:	el rosa está lavándo se .
+*MOT:	ah , no .
+*MOT:	el rosa no está .
+*MOT:	pues ve te a buscar el rosa que falta .
+*MOT:	está ahí en la mesa , Lucía .
+*MOT:	este es aquí .
+*MOT:	esto no lo entiendo porque no encaja .
+*MOT:	aquí .
+*FAT:	&=q no encaja ?
+*MOT:	pues aquí .
+*MOT:	a escurrir .
+*MOT:	arriba .
+*MOT:	pon los tú .
+*MOT:	corre .
+*MOT:	muy bien .
+*MOT:	así [x 3] .
+*MOT:	no sé .
+*MOT:	cuidado .
+*MOT:	no lo tires .
+*MOT:	así [x 2] .
+*MOT:	así está bien , Lucía .
+*MOT:	ya está .
+*MOT:	escurriendo .
+*MOT:	este es el horno . [+ ADS]
+*MOT:	muy bien .
+*MOT:	hija .
+*MOT:	lo que no entiendo es lo del xxx . [+ NON]
+*MOT:	es el horno , sí .
+*MOT:	toma .
+*MOT:	esta tacita < en la bal@x > [/] en la balda .
+*MOT:	no , en la balda .
+*MOT:	eso es .
+*MOT:	así .
+*MOT:	a ver .
+*MOT:	este aquí .
+*MOT:	&=q a ver ?
+*MOT:	&=q te las pongo yo ?
+*MOT:	no [x 2] .
+*MOT:	no se quita , hija .
+*MOT:	que se estropea , Lucía .
+*MOT:	a lavar . [+ ADS]
+*MOT:	y luego lo pones aquí a escurrir .
+*MOT:	mira , Lucía .
+*MOT:	déja me un momento .
+*MOT:	que hay que meter lo de la bandeja de los cubiertos .
+*MOT:	hala@i .
+*MOT:	< a ver > [/] a ver .
+*MOT:	que no sé porque razón aquí no tenemos .
+*MOT:	&-eh , Lucía .
+*MOT:	este aquí .
+*MOT:	vamos a poner la pegatina .
+*MOT:	&=q para qué serán estos dos cachitos ?
+*MOT:	&=q para el reloj serán ?
+*MOT:	a ver .
+*MOT:	vamos a poner esto .
+*MOT:	para decorar la cocina .
+*MOT:	mira .
+*MOT:	a ver .
+*MOT:	ya , hija .
+*MOT:	es que eso está un poco mal .
+*MOT:	aquí tienes una mesita , Lucía .
+*MOT:	&=q la has visto ?
+*MOT:	bueno , di , Lucía .
+*MOT:	&=q qué ?
+*MOT:	anda .
+*MOT:	uy@i .
+*MOT:	no se despega , tía .
+*MOT:	nada .
+*MOT:	que no se despega .
+*MOT:	que no es adhesivo .
+*MOT:	que no es adhesivo .
+*FAT:	qué xxx . [+ NON]
+*MOT:	es cartón nada más .
+*MOT:	&=q qué pasa ?
+*MOT:	&=q se ha caído ?
+*FAT:	&=q el qué ?
+*FAT:	&=q ah ?
+*FAT:	&=q que se te ha caído ?
+*MOT:	vaya .
+*FAT:	&=q el qué ?
+*FAT:	&=q ah ?
+*FAT:	&=q que se te ha caído ?
+*FAT:	vaya , hombre .
+*FAT:	se me ha caído .
+*FAT:	hola .
+*FAT:	hola , Lucía .
+*FAT:	hola .
+*FAT:	&=q qué es eso ?
+*FAT:	&=q un carrito ? [+ ADS]
+*FAT:	&=q libros ?
+*MOT:	&=q tu carrito +..?
+*MOT:	ah .
+*FAT:	yo no le he entendido .
+*MOT:	yo tampoco .
+*FAT:	&=q a ver , Lucía ?
+*FAT:	&=q qué quieres decir ?
+*FAT:	0 .
+*FAT:	&=q Patricia y Susana qué ?
+*MOT:	no .
+*MOT:	Susana era el lobo para asustar a Patricia .
+*FAT:	&=q era eso ?
+*FAT:	&=q es eso lo que ha dicho ?
+*MOT:	&=q a ver , Lucía ?
+*FAT:	sí .
+*FAT:	pero ese ya nos lo has contado muchas veces .
+*FAT:	ese ya no .
+*MOT:	&=q y lo de Patricia qué era ?
+*FAT:	&=q qué es lo de Patricia y Susana ?
+*MOT:	&=q y Susana ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué es ?
+*MOT:	&=q qué es Patricia y Susana ?
+*FAT:	&=q qué es Patricia y Susana ?
+*MOT:	&=q y el malo ?
+*FAT:	bueno , Lucía .
+*FAT:	te hemos entendido a medias .
+*FAT:	yo te he entendido que Patricia quería asustar .
+*FAT:	no que Susana quería asustar a Patricia .
+*FAT:	&=q es así ?
+*MOT:	sí .
+*MOT:	fuera de aquí , malo [x 2] .
+*FAT:	fuera de aquí .
+*MOT:	fuera de aquí .
+*FAT:	y le dijo eso &=q verdad ?
+*FAT:	&=q es eso , Lucía ?
+*FAT:	uy@i .
+*FAT:	qué alta .
+*FAT:	pumba@o .
+*MOT:	o+sea .
+*MOT:	que Susana se disfrazó de lobo para asustar a Patricia .
+*FAT:	ah , es eso .
+*MOT:	y le dijo “lobo , malo , fuera de aquí” .
+*MOT:	&=q no ?
+*FAT:	&=q es eso ?
+*FAT:	&=e bien !
+*FAT:	dios+mío .
+*FAT:	cómo te explicas , hija .
+*FAT:	qué alta estás .
+*MOT:	hala@i , qué arriba .
+*MOT:	ten cuidado no te caigas hacia atrás &=q &-eh , Lu ?
+*MOT:	eso es peligroso .
+*MOT:	ya .
+*MOT:	cuidado , bonita .
+*MOT:	malo , fuera de aquí . [+ ADS]
+*FAT:	uy@i , Lucía .
+*MOT:	xxx te vas a caer . [+ NON]
+*MOT:	saca el pie .
+*MOT:	antes de subir te saca el pie de abajo .
+*FAT:	&=q el qué ?

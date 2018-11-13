@@ -1,0 +1,472 @@
+*MAR:	0 .
+*MAR:	no .
+*MAR:	eso .
+*MAR:	las dos cosas .
+*MAR:	venga , venga tu no mires .
+*MAR:	0 [= se'l mira] .
+*MAR:	venga come , come que no te vas a hacer fuerte .
+*MAR:	0 [= mira e , somrient] .
+*MAR:	venga .
+*MAR:	0 .
+*MAR:	0 .
+*MAR:	venga coge [= referint'se al menjar] .
+*MAR:	0 [= asseñala amb el cap el menjar i agafa el pernil del plat] .
+*MAR:	si , ahora te doy mas yogur [= tallant un tros de pernil] .
+*MAR:	corre .
+*MAR:	allí [= asseñalant amb el cap a un altre costat del salo] .
+*MAR:	ya verás como si [= dient si amb el cap , mentre li dona un tros de pernil] .
+*MAR:	en que piensas ?
+*MAR:	venga come .
+*MAR:	no [= agafant pa del plat] .
+*MAR:	te has hecho pupa@c , un coscorrón [= tocant'li el cap] .
+*MAR:	oi@c !
+*MAR:	muy bien [= fent si amb el cap] !
+*MAR:	0 .
+*MAR:	un poquito , no , eh ?
+*MAR:	no quieres pan ?
+*MAR:	bueno , lo dejo .
+*MAR:	dejalo ahí encima .
+*MAR:	xxx xxx no ves que se cae [= ficant la ma sota de la cullera] .
+*MAR:	0 .
+*MAR:	eso no es nada , Edu .
+*MAR:	toma , abre la boca [= oferint'li pernil] .
+*MAR:	venga [= ficant'li el pernil a la boca] .
+*MAR:	así , así , poquito .
+*MAR:	venga , que te vas a comer la cuchara .
+*MAR:	venga , Edu .
+*MAR:	0 .
+*MAR:	te toca esto , te toca esto , Edu .
+*MAR:	no te acuerdas ya ?
+*MAR:	venga [= apartant'li el pernil de la boca] .
+*MAR:	muy bien [= apropant'li pernil] .
+*MAR:	has dicho un poquito y ya esta [= li ofereix pernil] .
+*MAR:	venga se bueno .
+*MAR:	vamos al patito , vamos a_ver el pato ?
+*MAR:	y me llevo el plato [= agafant'lo] .
+*MAR:	me lo llevo [= li ofereix pernil una altra vegada] .
+*MAR:	0 .
+*MAR:	que feo eres [= mentre se'n va] .
+*MAR:	0 .
+*MAR:	ya has acabado , venga límpiate corre .
+*MAR:	límpiate y a jugar [= li ofereix un tovallo] .
+*MAR:	que ?
+*MAR:	que ?
+*MAR:	te lo quito [= apropant'se e] .
+*MAR:	toma los coches .
+*MAR:	no los quieres ?
+*MAR:	0 .
+*MAR:	donde esta ?
+*MAR:	voy a buscarlo .
+*MAR:	0 .
+*MAR:	ya te veo .
+*MAR:	sal .
+*MAR:	no se rompe cariño .
+*MAR:	dejalo ahí .
+*MAR:	ves a por un lápiz corre .
+*MAR:	para dibujar .
+*MAR:	ves a por un lápiz y dibuja .
+*MAR:	ven , mira ven .
+*MAR:	eh , no te subas ahí cariño .
+*MAR:	Edu mira .
+*MAR:	xxx , oye [% "xut , oye" , al veure com e fica un peu al prestatge] !
+*MAR:	que te caes [= apropant'se per agafar'lo] .
+*MAR:	vamos a por un lápiz y dibujamos , eh [= baixant'lo] ?
+*MAR:	le enseñas a la Magda como dibujas .
+*MAR:	venga [= anant cap al altre costat] .
+*MAR:	mira Edu [= tornant al salo] .
+*MAR:	xxx , xxx , xxx <no dejalo , no> [>] [% les xxx volen dir "xu"] .
+*MAR:	que esta en la galería .
+*MAR:	están los trastos , verdad que si cariño ?
+*MAR:	corre cierra .
+*MAR:	cierra , toma , mira toma [= li ofereix un paper] .
+*MAR:	corre , ven .
+*MAR:	a donde vas a dibujar aquí ?
+*MAR:	toma , ven [= li ofereix un llapis , deixant el paper a terra] .
+*MAR:	0 .
+*MAR:	Edu , la otra mano .
+*MAR:	tienes daño en la mano ?
+*MAR:	a_ver que te has hecho ?
+*MAR:	te has hecho daño , a_ver [= intentant cridar'li l' atencio] .
+*MAR:	xxx , xxx , a_ver el daño [% les xxx volen dir "xi"] .
+*MAR:	si no tienes nada .
+*MAR:	quien te lo ha hecho ?
+*MAR:	de hacer dibujo .
+*MAR:	con la otra mano , Edu !
+*MAR:	eso que es ?
+*MAR:	pintar [= rient] ?
+*MAR:	que cómodo , eh !
+*MAR:	Edu , acostado no se escribe !
+*MAR:	Edu , no , no , no , mira que te haces daño .
+*MAR:	lo haces en la cama .
+*MAR:	que te das en la espalda y te haces daño .
+*MAR:	no .
+*MAR:	no , que esta acostado el papa .
+*MAR:	que esta costado el papa .
+*MAR:	lo haces en la cama grande .
+*PAR:	Edu [= cridant'lo] .
+*MAR:	ven , ven que cierro la puerta .
+*PAR:	hola .
+*MAR:	mira quien viene por ahí , Edu [= tocant'li el mento] .
+*PAR:	0 .
+*PAR:	no me das un besito [= mirant darrera de la porta] ?
+*PAR:	no le das un beso a tu padre ?
+*MAR:	ya se ha ido .
+*MAR:	se ha ido .
+*MAR:	ah , al lavabo .
+*MAR:	que esta haciendo en el lavabo ?
+*MAR:	oye , no abras ahora Edu .
+*MAR:	espera , cariño .
+*MAR:	que tonto se pone !
+*MAR:	no ahí no , Edu , que te haces daño .
+*MAR:	Edu .
+*MAR:	no , Edu así no , que te vas a hacer daño en la garganta [= dirigint'se cap e] .
+*MAR:	que te haces daño en la garganta .
+*MAR:	no .
+*MAR:	xxx , xxx , deja la cortina , Edu [% la primera xxx vol dir "chi"] .
+*MAR:	el bolso de la Magda , Edu .
+*MAR:	xxx [% "xui" , apropant'se e] !
+*MAR:	no seas malo , eh , eso no se hace cariño .
+*MAR:	ay , ahora el papa !
+*MAR:	xxx , xxx , no esa no Edu , esa no [% les xxx volen dir "xui"] .
+*MAR:	hale , relajate .
+*MAR:	mira , aquí se dibuja mejor [= apropant'li un full] .
+*MAR:	mira , esto que es Edu ?
+*MAR:	no has hecho la boca [= asseñalant el paper] .
+*MAR:	no le has hecho la boca .
+*MAR:	donde esta la boca ?
+*MAR:	así !
+*MAR:	ahora otra aquí [= asseñalant el paper] .
+*MAR:	el papa viene Edu .
+*MAR:	mira ya esta aquí .
+*PAR:	que pasa Edu ?
+*MAR:	0 [= mira e] .
+*PAR:	que haces ?
+*PAR:	eh [= ajupint'se al costat de e] ?
+*MAR:	dibujando una muñeca .
+*PAR:	ven aquí , dame un besito va [= obrint els bracos] .
+*PAR:	hoy no me das un beso cariño ?
+*PAR:	a_ver que zapatos .
+*PAR:	anda , a_ver !
+*PAR:	ay , que zapatitos !
+*PAR:	a_ver , enséñaselos a papa .
+*PAR:	venga levanta .
+*PAR:	ven [= movent la ma] .
+*PAR:	a_ver si son como los del papa .
+*PAR:	que ?
+*MAR:	que esta dibujando .
+*PAR:	vas a dibujar la muñeca ?
+*PAR:	<me das un> [<] beso o que ?
+*PAR:	me das un beso ?
+*PAR:	di ?
+*PAR:	oye ojo .
+*PAR:	0 .
+*PAR:	un besito xxx .
+*PAR:	0 .
+*PAR:	dame un besito , ven [= intentat agafar'lo] .
+*PAR:	anda ven , dame un besito .
+*PAR:	la mano ?
+*PAR:	dale un besito a tu papa .
+*PAR:	0 .
+*PAR:	dame un besito .
+*MAR:	0 .
+*MAR:	0 .
+*MAR:	venga dale un besito a papa , corre .
+*MAR:	que tonto estas hoy , eh !
+*MAR:	que no le quieres dar un beso , eh ?
+*PAR:	si que me lo da .
+*PAR:	venga va que me voy .
+*PAR:	Edu que me voy cariño .
+*PAR:	no me voy ?
+*PAR:	eh ?
+*PAR:	me voy o que ?
+*PAR:	di ?
+*PAR:	0 .
+*PAR:	venga dame un besito , no ?
+*PAR:	eh ?
+*PAR:	me das un besito o que ?
+*PAR:	di ?
+*PAR:	no ?
+*PAR:	pues me voy .
+*PAR:	me voy , eh ?
+*PAR:	me voy o que [= donant'li un cop al cul] ?
+*PAR:	di [= donant'li en el cul] ?
+*PAR:	ven , ven dame un besito , ven .
+*PAR:	0 .
+*PAR:	hale , dame un besito .
+*PAR:	mira la Magda .
+*PAR:	la Magda te va a hacer una foto dándole un besito a papa , venga .
+*PAR:	dando un besito a tu padre [= intenta incorporar e] .
+*PAR:	0 .
+*PAR:	0 .
+*PAR:	uh !
+*PAR:	0 .
+*PAR:	eso le haces al papa , eh [= agafant'li la cara] ?
+*PAR:	si , estas enfadado [= agafant'li la cara] ?
+*PAR:	estas enfadado , verdad ?
+*PAR:	a que si .
+*PAR:	0 .
+*PAR:	dame un besito [= posant la cara] .
+*MAR:	no dices que te duele la mano , Edu ?
+*MAR:	que tienes daño ?
+*PAR:	tienes daño en la manita ?
+*PAR:	uy , no te pintes que te ensucias .
+*PAR:	venga , dame un besito .
+*PAR:	no hay manera , cuando dice que no es que no .
+*PAR:	quien es tonta ?
+*PAR:	ya no vas a venir conmigo mas al coche .
+*PAR:	anda , vete por ahí .
+*MAR:	no le digas eso que se cabrea .
+*MAR:	no , no lo rompas cariño , no .
+*PAR:	tu lo quieres ver cabreado ?
+*PAR:	lo quieres ver cabreado ?
+*PAR:	oye , xxx , eh [% "oye , txo , eh"] ?
+*PAR:	yo no te quiero ya , eh !
+*PAR:	lo sabes ?
+*PAR:	te vas por ahí , chaval .
+*PAR:	venga hombre , quiero a la tata@c .
+*PAR:	uy , oye , oye [= cridant] !
+*MAR:	Edu .
+*MAR:	si que te quiere cariño , si , que si .
+*PAR:	nada .
+*MAR:	venga hombre .
+*PAR:	no lo quiero ni ver .
+*PAR:	y me voy .
+*PAR:	feo .
+*PAR:	venga dame un besito , si quieres que te quiera .
+*PAR:	venga que yo quiero al niño , ven .
+*PAR:	tu deja al niño tranquilo , eh .
+*PAR:	ven aquí cariño ven .
+*PAR:	dale un besito a tu papa [= apropant'se e] .
+*PAR:	pobrecito mi niño hombre [= agafant'lo en bracos] .
+*PAR:	pobrecito el , hombre [= enxovant'lo a la seva falda] .
+*PAR:	xxx verdad [= mirant e] ?
+*PAR:	ya no te enfadas , a que no , eh ?
+*PAR:	a que no te enfadas ya ?
+*PAR:	dame un besito venga , va .
+*PAR:	0 .
+*PAR:	venga dame un besito tu [= retirant la ma de e dels ulls] .
+*PAR:	un besito y un abrazo venga .
+*PAR:	venga un abracito a tu papa , venga .
+*PAR:	venga un abrazo , no !
+*PAR:	venga ya no te digo mas nada , va .
+*PAR:	0 .
+*PAR:	hale , ya no esta enfadado el papa .
+*PAR:	ya te quiere , vale ?
+*PAR:	eh , me das un besito [= aixecant'lo per mirar'li la cara] ?
+*PAR:	un besito a tu papa .
+*PAR:	un besito [= tocant'li la cara] ?
+*PAR:	venga va , que te quiero mas que la tata@c , eh !
+*PAR:	vale [= donant'li un peto] ?
+*PAR:	me das un besito ?
+*PAR:	venga dame un besito [= posant la cara] .
+*PAR:	ya no xxx , ya no esta enfadado el papa [= mirant e] .
+*PAR:	ya te ha dicho papa que te quiere , no [= acaricia el cap de e] ?
+*PAR:	que mala leche tienes , eh gacho@c ?
+*PAR:	lo rompes todo , eh [= tocant'li la cara] ?
+*PAR:	ay !
+*MAR:	0 .
+*MAR:	0 [= mira a p i e] .
+*PAR:	xxx no .
+*PAR:	0 .
+*PAR:	este niño , Ramoncín .
+*MAR:	ya , tss@c [= agafant la ma de e] !
+*PAR:	0 .
+*PAR:	toma .
+*MAR:	0 [=! riu] .
+*MAR:	0 .
+*MAR:	al suelo [= baixant'lo dels seus bracos] .
+*PAR:	no , dejalo , dejalo tranquilo .
+*PAR:	si esta jugando conmigo .
+*MAR:	no , conmigo , conmigo [= agafant'lo en bracos] .
+*PAR:	madre mía de mi vida , oye esto es demasiado .
+*MAR:	no le das un beso al papa , hoy ?
+*PAR:	nada , no xxx .
+*MAR:	no se lo quieres dar , por que ?
+*PAR:	porque no me quiere .
+*PAR:	dice que esta enfadado con el papa y ya esta .
+*PAR:	estas enfadado con el papa [= apropant'se a e] ?
+*PAR:	0 .
+*PAR:	que guapo , ay [= tocant'li les galtes] !
+*MAR:	0 [= riu , agafant'li la ma] .
+*PAR:	ey@c , a la mama también .
+*MAR:	mira se va el papa , dile adiós .
+*MAR:	dile adiós .
+*PAR:	un besito [= apropant'se a e] .
+*MAR:	0 .
+*MAR:	pobrecito [= acaricia la esquena de e] .
+*PAR:	le doy un besito a la mama , Edu ?
+*PAR:	le doy un besito a la mama yo , di ?
+*PAR:	uy , como esta !
+*MAR:	0 .
+*MAR:	ya esta , buf@c !
+*PAR:	vale ya esta , no te enfades , ya esta .
+*PAR:	vale ?
+*PAR:	0 .
+*PAR:	0 .
+*MAR:	0 .
+*MAR:	que cara pone .
+*MAR:	ya esta , venga [= riu] .
+*MAR:	a jugar [= traient'li la ma del seu cabell] .
+*PAR:	dale un besito a la mama , cariño .
+*PAR:	dale un besito a la mama , Edu .
+*PAR:	0 .
+*PAR:	dale un besito a la mama y otro al papa , venga .
+*PAR:	le va a llevar luego la mama , con el papa al coche ?
+*PAR:	eh ?
+*MAR:	xxx al coche ?
+*PAR:	te vas a venir en el coche ?
+*PAR:	pues dame un besito , que me voy .
+*PAR:	y un abrazo , un abrazo fuerte , Edu .
+*PAR:	un abracito a tu papa .
+*MAR:	ahora ya no , tanto no .
+*PAR:	que no me va +...
+*PAR:	que no me +...
+*PAR:	que no me +...
+*MAR:	dile , conformate con eso .
+*PAR:	que no me da un abracito mi niño , porque tu lo digas .
+*PAR:	dale un abracito a tu papa , Edu .
+*PAR:	0 .
+*PAR:	dale un abracito al papa , vida mía .
+*MAR:	que no .
+*PAR:	me voy tu .
+*PAR:	0 [= surt de la imatge] .
+*MAR:	ahora nos vamos a ir de paseo , verdad , cariño ?
+*MAR:	0 .
+*PAR:	y la Tamara donde esta ?
+*MAR:	mira [= intentant aixecar'lo] .
+*MAR:	en gimnasia rítmica [= mirant a p] .
+*MAR:	eh , eh , bajate , corre .
+*MAR:	subete , subete [= intentant posar'lo de peu] .
+*MAR:	y el lápiz ?
+*MAR:	mira lo que has hecho con el papel [= asseñalant cap al paper] .
+*MAR:	mira que has hecho con el papel .
+*MAR:	y ahora no puedes escribir , uh ?
+*MAR:	ya no puedes ?
+*MAR:	mira [= aixecant'se i dirigint'se cap al paper] .
+*MAR:	0 .
+*MAR:	lo abro [= mirant e] .
+*MAR:	hala [= mirant e] !
+*PAR:	xxx , xxx , xxx , oye [% "txo , txo , txo , oye" , crida] .
+*MAR:	0 .
+*MAR:	Edu xxx .
+*PAR:	Edu , xxx , Edu [% "edu , txo , edu" , apropant'se cap a on estan e i m] .
+*PAR:	no te enfades cariño .
+*PAR:	no me hagas enfadar , Edu .
+*PAR:	no me hagas enfadar , venga hombre .
+*PAR:	0 .
+*PAR:	ya esta , eh ?
+*PAR:	ya no te enfadas mas , eh ?
+*PAR:	ya no te enfadas mas , verdad ?
+*PAR:	0 .
+*PAR:	ya no te enfadas mas , eh , ya esta .
+*PAR:	0 .
+*PAR:	vámonos al coche ?
+*PAR:	te vienes con el papa ?
+*PAR:	venga pues no te enfades , eh ?
+*PAR:	ya no te enfadas ?
+*PAR:	venga dale un abrazo a papa y un beso que me voy .
+*PAR:	mas fuerte , mas fuerte , mas fuerte .
+*MAR:	has dicho que me voy .
+*PAR:	no , que se viene conmigo [= mirant a m] .
+*PAR:	venga mas fuerte que a nadie .
+*PAR:	ay mi niño [= donant'li uns copets al cul i somrient] !
+*PAR:	ahora yo , eh [= mirant e] ?
+*PAR:	has visto ?
+*PAR:	que vas a salir por ahí [= asseñalant la camera] .
+*PAR:	verás tu cuando te veas [= aixecant'se] .
+*MAR:	0 .
+*MAR:	te pica el ojo [= mirant e] ?
+*PAR:	bueno , ala hasta luego [= se'n va] .
+*MAR:	ahora viene , va a ir a por el coche que esta aparcado .
+*MAR:	0 .
+*MAR:	va a ir a por el coche , Edu .
+*MAR:	esta aparcado el coche .
+*PAR:	0 .
+*PAR:	Edu , Edu , tss@c , espera voy a traer el coche que esta en el vado , eh .
+*PAR:	cojo las llaves , vale [= dirigint'se cap al salo] ?
+*PAR:	cojo las llaves , voy a buscarlo y cuando yo pique bajas para abajo , vale ?
+*PAR:	que voy a traer el coche .
+*MAR:	que va a por el coche , cariño [= agafant'lo per la cintura] .
+*PAR:	la pizarra que escriba en la pizarra que el sabe [= sortint del salo] .
+*MAR:	quieres la pizarra , eh ?
+*MAR:	quieres escribir en la pizarra ?
+*MAR:	si no se va !
+*MAR:	no se va .
+*MAR:	0 .
+*MAR:	que no se va el papa .
+*MAR:	que va a por el coche , ahora viene .
+*MAR:	0 .
+*MAR:	anda Edu ven , ven conmigo , ven .
+*MAR:	venga ven , ven conmigo , cariño [= intentant aixecar'lo] .
+*MAR:	oye , deja la xxx , escúchame [= intenta calmar'lo i que s' aixequi] .
+*MAR:	0 .
+*MAR:	quieres pintar en la pizarra , eh ?
+*MAR:	no , no quiere nada .
+*MAR:	Eduardo , que va a pensar la Magda que eres muy malo .
+*MAR:	eh ?
+*MAR:	que va a decir que eres muy malo .
+*MAR:	uy !
+*MAR:	0 .
+*MAR:	quieto !
+*MAR:	0 .
+*MAR:	que te muerdo la barriguita , eh ?
+*MAR:	venga , va .
+*MAR:	0 .
+*MAR:	venga , va [= passejant'lo i acariciant'lo] .
+*MAR:	mira , mira .
+*MAR:	mira lo que tiene la Magda [= asseñalant la camera] .
+*MAR:	dile algo .
+*MAR:	0 .
+*MAR:	0 .
+*MAR:	te cojo ?
+*MAR:	0 .
+*MAR:	xxx llora .
+*MAR:	0 .
+*MAR:	xxx , ay , se me ha caido el papel !
+*MAR:	0 [= mira e] .
+*MAR:	se ha caido .
+*MAR:	me lo coges tu [= mirant e] ?
+*MAR:	no lo coges ?
+*MAR:	quien lo coge [= mirant e] ?
+*MAR:	mira , mira , mira la luz que tiene [= mirant la camera] .
+*MAR:	mira la luz que tiene la foto , mira tiene una luz .
+*MAR:	se enciende y se apaga .
+*MAR:	la has visto ?
+*MAR:	no la has visto ?
+*MAR:	0 .
+*MAR:	nos vamos con el coche del papa [= xiuxiuejant'li] .
+*MAR:	venga va .
+*MAR:	coge tu chaqueta , coge tu chaqueta .
+*MAR:	no llevas la chaqueta ?
+*MAR:	por que ?
+*MAR:	hace frío .
+*MAR:	hace frío en la calle .
+*MAR:	no quieres la chaqueta ?
+*MAR:	0 .
+*MAR:	uy , uy mira lo que te has hecho en la mano , Edu [= asseñalant'li la ma] !
+*MAR:	de pintura [= asseñalant'se un llavi] .
+*MAR:	has visto ?
+*MAR:	ahora que ?
+*MAR:	no !
+*MAR:	ves , pintura .
+*MAR:	tu quieres leche .
+*MAR:	ahora te doy leche cariño [= baixant'lo a terra] .
+*MAR:	sienta aquí , que voy a traer la leche .
+*MAR:	0 .
+*MAR:	0 .
+*MAR:	ah si !
+*MAR:	es de la nevera , Edu .
+*MAR:	sal cariño .
+*MAR:	si cariño , si .
+*MAR:	quieres leche ?
+*MAR:	vete allí Edu y me esperas , no ?
+*MAR:	no quieres ?
+*MAR:	tss@c , tss@c , donde vas ?
+*MAR:	te quieres ir a la salita de aquí ?
+*MAR:	vente aquí , Edu .
+*MAR:	vente aquí , aquí no se ve cariño .
+*MAR:	bueno , tendrás que venirte aquí .
+*MAR:	0 .
+*MAR:	que es lo que me has dicho Edu ?
+*MAR:	que has dicho ?
+*MAR:	0 .

@@ -1,0 +1,729 @@
+*TI2:	&=q que la abra ?
+*TI2:	&=q así ?
+*TI2:	&=q a Papá ?
+*TI2:	&=q que se la dé a Papá ?
+*FAT:	ábrela .
+*TI2:	&=q ábrela ?
+*FAT:	ah .
+*FAT:	vuela .
+*FAT:	&=q vuela ?
+*FAT:	&=q vuela ?
+*FAT:	&=q la barca vuela ?
+*FAT:	no .
+*FAT:	la barca no vuela .
+*FAT:	&=q qué hace la barca , Juan ?
+*FAT:	&=q qué hace la barca ?
+*FAT:	la barca navega .
+*FAT:	&=q por dónde ?
+*FAT:	&=q por dónde navega ?
+*FAT:	claro .
+*FAT:	en el agua de la piscina .
+*FAT:	&=q y quién va dentro de la barca ?
+*FAT:	&=q el barco ?
+*FAT:	&=q y quién va en el barco ?
+*FAT:	&=q la barca ?
+*FAT:	&=q y quién conduce la barca ?
+*FAT:	&=q dónde están los señores ?
+*FAT:	anda .
+*FAT:	cógelos que los veamos .
+*FAT:	a ver cómo navega la barca .
+*FAT:	&=q no puedes coger los señores ?
+*TI2:	están aquí , Juan .
+*FAT:	están aquí .
+*TI2:	míralos .
+*FAT:	&=q la señora ?
+*MOT:	hola , Juan .
+*MOT:	&=q pero qué pasa , loqueras ?
+*MOT:	&=q qué haces ?
+*MOT:	&=q qué haces , Juan ?
+*FAT:	&=q qué hay , Juan ?
+*FAT:	&=q qué haces ?
+*MOT:	&=q qué es eso , Juan ?
+*MOT:	&=q qué estás haciendo ?
+*FAT:	&=q qué van a pescar ?
+*MOT:	&=q cómo que sólo una mano ?
+*MOT:	&=q qué vas a hacer ?
+*TI2:	que va a conducir sólo con una mano .
+*MOT:	ah .
+*MOT:	que va a conducir sólo con una mano .
+*TI2:	0 .
+*MOT:	pero este ya no se puede poner a conducir .
+*MOT:	no .
+*TI2:	0 .
+*MOT:	&=q así ?
+*FAT:	pero bueno .
+*FAT:	&=q qué haces , Juan ?
+*FAT:	&=q qué haces ?
+*FAT:	&=q qué pasa con la barca ?
+*FAT:	&=q ves cómo dice ?
+*FAT:	&=q sólo una mano , Juan ?
+*MOT:	&=q ese se puede poner ahí , Juan ?
+*MOT:	&=q dónde lo quieres poner ?
+*MOT:	&=q dónde es ahí ?
+*TI2:	a ver si se puede .
+*FAT:	oye , Juan .
+*FAT:	&=q has estado en la guardería hoy ?
+*FAT:	&=q y qué has hecho ?
+*FAT:	&=q con Raquel y Celia has estado hoy ? [+ COR]
+*FAT:	&=q y qué has hecho en la guardería ?
+*FAT:	&=q está Juan ahí ?
+*FAT:	&=q sí ?
+*FAT:	&=q y qué hace ?
+*FAT:	&=q jugar ? [+ COR]
+*FAT:	mira .
+*FAT:	vete allí [//] ahí .
+*FAT:	donde está el tío .
+*FAT:	y cuéntale lo que has hecho en la guardería hoy , anda .
+*FAT:	< dile quién es Raquel > [/] dile quién es Raquel .
+*FAT:	&=e uy@i !
+*FAT:	&=q < quién es Raquel > [/] quién es Raquel ?
+*FAT:	&=q con Teo también ?
+*MOT:	Teo está aquí (.) conduciendo .
+*FAT:	oye .
+*FAT:	podríamos bajar algún cuento .
+*FAT:	el cuento de Teo tiene un montón de perros y personajes .
+*MOT:	sí .
+*MOT:	claro .
+*MOT:	&=q hacemos una casa ? [+ COR]
+*MOT:	venga .
+*MOT:	que te ayude Jose que hace unas casas muy bonitas contigo .
+*MOT:	&=q vale ?
+*FAT:	venga .
+*FAT:	dile a Jose que te ayude , anda .
+*MOT:	< díselo a yo@x > [//] pídeselo a Jose .
+*FAT:	corre .
+*MOT:	pídeselo a Jose .
+*TI1:	tiene que ser espontáneo .
+*TI1:	no tiene que ser obligado .
+*TI2:	< eso no > [/] eso no es una casa .
+*MOT:	claro es+que le ha puesto el techo con la barquita .
+*FAT:	una casa barquil .
+*MOT:	escondido . [+ ADS]
+*FAT:	&=q con ?
+*MOT:	escondido .
+*TI1:	enano .
+*MOT:	&=q te ayudo yo ?
+*MOT:	pero es+que a mí me salen un poco mal .
+*TI2:	venga .
+*TI2:	vamos a hacerle una one@s casa .
+*TI1:	vamos a hacerle una one@s casa a Juan .
+*TI1:	venga .
+*TI1:	vamos a hacerla entre los tíos .
+*TI1:	venga .
+*TI2:	venga .
+*TI2:	vamos .
+*TI2:	una one@s casa .
+*TI1:	&=q one@s casa ?
+*TI1:	&=q one@s home@s casa ?
+*TI1:	hacemos una one@s casa .
+*TI1:	pero la vamos a hacer entre los tres .
+*TI2:	venga .
+*TI1:	tú dámelas .
+*TI2:	tú también ayuda .
+*TI2:	Juan .
+*TI2:	pues si .
+*TI2:	tú también .
+*TI2:	&=q no ?
+*FAT:	oye , Juan .
+*FAT:	&=q y qué quieres que haya en la casa ?
+*FAT:	&=q qué quieres que haya ?
+*TI2:	tejado .
+*FAT:	no se lo digas .
+*FAT:	&=q y qué más ?
+*TI2:	&=q qué mas ?
+*TI2:	no .
+*TI2:	&=q pero qué cosas quieres que tenga la casa ?
+*TI1:	&=q una one@s casa ?
+*TI1:	&=q hacemos una one@s o una two@s casa ?
+*TI2:	&=q pero < qué quieres > [//] qué cosas quieres que tenga la casa ?
+*FAT:	&=q < por [x 2] dónde entran los por dónde entrantan@x > [//] por dónde entran los señores , Juan ?
+*FAT:	en la casa .
+*TI2:	por +...
+*TI1:	&=q qué es esto , Juan ?
+*TI1:	&=q qué es esto ?
+*TI1:	&=q una puerta ?
+*TI1:	muy bien .
+*FAT:	un puente ha dicho .
+*TI1:	ah un puente .
+*FAT:	claro es+que si no tiene +...
+*FAT:	claro .
+*TI1:	< está bien > [/] está bien .
+*TI1:	ahora verás que no es puente .
+*FAT:	voy a ir a por un cuento .
+*TI1:	&=q otro perrito piloto ?
+*TI1:	oye , tío .
+*TI1:	me estás tirando las piezas .
+*TI1:	aquí no se puede hacer una one@s casa así .
+*TI2:	dí que sí .
+*MOT:	que tiene que caber el barco está diciendo .
+*TI2:	&=q que no cabe en el barco ?
+*TI1:	&=q la barca xxx de Juan ? [+ NON]
+*TI1:	&=e la barca !
+*TI2:	&=q < y aquí > [/] y aquí , Juan ?
+*TI2:	&=q cabe aquí ?
+*TI2:	sí que entra .
+*TI2:	entra bien .
+*TI2:	&=q no ?
+*TI2:	espera [x 3] , Juan .
+*TI2:	vamos a hacerlo de otra forma .
+*TI2:	bajamos un poco la puerta .
+*TI1:	no: .
+*TI1:	pero tiene que ser ahí como si fuese un: +...
+*TI1:	o sí .
+*TI1:	hacemos un puente levadizo .
+*TI1:	&=q no ?
+*TI1:	claro .
+*TI1:	&=q quién es ?
+*TI1:	&=q xxx verde ? [+ NON]
+*TI1:	&=e Caperucita !
+*TI1:	roja .
+*TI1:	&=q esta es Caperucita_Roja ?
+*TI1:	pues se lo ha ido el color &=q &-eh ?
+*TI1:	xxx .
+*TI1:	&=q de qué color es ?
+*TI1:	pero míralo .
+*TI1:	&=q de qué color es ?
+*TI1:	verde , claro .
+*TI1:	claro que sí .
+*TI1:	&=q y esto de qué color es ?
+*TI1:	&=q esto de qué color es , enano ?
+*TI1:	esto .
+*TI1:	muy bien .
+*TI1:	&=q y esto ?
+*TI1:	&=e muy bien !
+*TI1:	&=q y [x 2] esto de qué color es ?
+*TI1:	míralo bien .
+*MOT:	tiene un serio problema con los colores .
+*TI1:	no .
+*TI1:	ha acertado tres .
+*TI1:	ha acertado tres de cuatro .
+*TI1:	repetimos .
+*TI1:	vamos a hacerlo bien .
+*TI1:	Juan .
+*TI1:	&=q de qué color es ?
+*TI1:	&=e bien !
+*TI1:	&=q de qué color es ?
+*TI1:	míralo bien .
+*TI1:	&=e bien !
+*TI1:	&=q de qué color es ?
+*TI1:	y el último y el más difícil .
+*TI1:	cha@o .
+*TI1:	&=q de qué color es ?
+*TI1:	0 .
+*TI1:	rojo .
+*FAT:	oye .
+*FAT:	vaya casa que están haciendo los tíos .
+*TI1:	rojo [x 2] .
+*TI1:	eso es .
+*FAT:	&=q has visto qué casa está haciendo tío Nando ?
+*TI1:	eso más que una casa parece una prisión .
+*TI2:	ahora hacemos las ventanas .
+*FAT:	oye , Juan [x 2] .
+*FAT:	&=q < qué te parece > [/] qué te parece si como premio les cuentas un cuento a los tíos por haberte hecho la casa ?
+*FAT:	&=q sí ?
+*FAT:	&=q les cuentas un cuento ?
+*MOT:	uno que te sabes tú muy bien .
+*FAT:	Jose [x 3] .
+*TI1:	&=q qué ?
+*FAT:	ven .
+*FAT:	mira .
+*FAT:	&=q les vas a contar el cuento a los tíos ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q sí ?
+*TI1:	xxx .
+*FAT:	&=q se lo cuentas tú a ellos ?
+*TI2:	cuénta melo .
+*TI2:	que yo no me lo sé , tío .
+*FAT:	a ver .
+*FAT:	a ver cómo dice .
+*FAT:	&=q quién es este ?
+*FAT:	el señor que conduce una camioneta . [+ COR]
+*TI2:	muy bien .
+*TI1:	&=q y esto qué es ?
+*FAT:	&=q qué es esto , Juan ?
+*FAT:	&=q una +..?
+*FAT:	&=q una +..?
+*TI1:	una mu@o .
+*TI2:	eso es .
+*TI2:	sí .
+*FAT:	una vaca .
+*FAT:	que tenía una sed (.) terrible .
+*FAT:	&=q entonces qué hizo la vaca ?
+*TI1:	&=q fue adónde ?
+*TI1:	no se ve .
+*FAT:	&=q cómo ?
+*FAT:	+" con la farola dice .
+*FAT:	cruzó la carretera .
+*FAT:	sin mirar a un lado y a otro porque tenía mucha sed .
+*FAT:	y fue a beber al lago .
+*FAT:	pero resulta que < por ese > [//] en ese lugar pasaba una camioneta que no frenaba demasiado de bien .
+*FAT:	&=q y entonces qué pasó , Juan ?
+*FAT:	iih@o pum@o .
+*FAT:	hubo un golpe tremendo .
+*TI1:	momendo@c no .
+*FAT:	pero afortunadamente al hombre no le pasó nada .
+*FAT:	y la vaca no +...
+*FAT:	no murió .
+*FAT:	pero la camioneta quedó completamente +...
+*TI1:	escacharada .
+*TI1:	bien .
+*TI1:	muy bien .
+*FAT:	escacharada .
+*TI1:	muy bien .
+*FAT:	el hombre no se achantó y cogió sus +...
+*FAT:	herramientas .
+*FAT:	y recompuso la camoneta con la +...
+*FAT:	&=q y qué salió ?
+*TI1:	un coche+vaca .
+*FAT:	y la cosa no quedó mal .
+*FAT:	lo que pasa que iba muy despacio .
+*FAT:	todos los coches se ponían muy nerviosos y decían pi@o [x 2] . 
+*FAT:	y él contestaba mu:@o .
+*FAT:	claro .
+*FAT:	y con productos de leche no estaba mal .
+*FAT:	pero la leche sabía demasiado a +...
+*FAT:	&=e muy bien !
+*FAT:	gasolina .
+*FAT:	y lo peor de todo era que la vaca estaba muy (.) triste .
+*TI1:	triste .
+*FAT:	porque ahora sólo tenía dos patas y antes tenía cuatro patas . 
+*FAT:	y ahora le sucedía que aveces se lo pinchaba una rueda y antes nunca se lo había pinchado una pata .
+*FAT:	así que el hombre decidió irse al campo .
+*FAT:	claro .
+*FAT:	iban tan despacio que llegaron de noche .
+*FAT:	al llegar de noche escucharon +...
+*FAT:	el aullido del lobo .
+*TI2:	&=q quién es el que decía eso ?
+*FAT:	&=q quién decía eso , Juan ?
+*FAT:	&=q quién decía eso ?
+*TI1:	sí [x 2] .
+*FAT:	y vieron una cosa terrible .
+*FAT:	vieron a un lobo atacando a una cabra .
+*FAT:	no se asustaron y la vaca echó de allí al lobo de una pitada .
+*FAT:	&=q cómo le hizo ?
+*FAT:	mu@o [x 2] .
+*FAT:	y el lobo se fue .
+*FAT:	entonces el hombre sacó de nuevo sus herramientas y recompuso más o menos como pudo a la vaca y a la +...
+*FAT:	cabra .
+*FAT:	inventando la primera vacabra@f de la historia .
+*FAT:	y la cosa resultó muy bien .
+*FAT:	porque ahora la vaca ya era feliz .
+*FAT:	&=q y cómo hacía la vaca ?
+*FAT:	mu:be:@o .
+*TI1:	be:mu:@o .
+*TI1:	eso es .
+*FAT:	y daba una leche (.) excelente .
+*FAT:	con la que se hacía un queso +...
+*FAT:	excelente .
+*TI1:	también excelente .
+*FAT:	que se vendía a un precio +...
+*TI1:	también .
+*FAT:	excelente .
+*FAT:	con todo ese dinero compraron una camioneta (.) excelente . 
+*FAT:	y la vacabra@f iba cómodamente sentada de copiloto .
+*FAT:	y entonces empezaron a recorrer el mundo .
+*FAT:	< y me cuentan que hoy iban > [//] &=q sabes por dónde hoy iban ?
+*FAT:	por Colombia .
+*FAT:	y estaban parando ahora para tomarse un cafe .
+*TI1:	por Colombia .
+*TI1:	al lado de xxx , Juan . [+ NON]
+*FAT:	y colorín+colorado .
+*FAT:	&=q ahora otro ?
+*FAT:	&=q el del ratón y +/?
+*FAT:	tengo otro .
+*FAT:	a lo mejor te apetece ver este otro que tengo .
+*FAT:	&=q quieres verlo ?
+*FAT:	&=q sí ?
+*FAT:	a ver .
+*FAT:	espera .
+*FAT:	ahora , sí .
+*TI1:	xxx .
+*TI1:	&=q cómo hace la vacabra@f ?
+*TI1:	be:mu:@o .
+*FAT:	mira .
+*FAT:	Teo .
+*FAT:	vamos a ver .
+*FAT:	ahora Juan , sí .
+*FAT:	mira .
+*FAT:	&=q dónde está Teo ?
+*FAT:	&=q qué es eso ?
+*MOT:	se lo sabe ya la historia esa &=q &-eh ?
+*TI1:	&=q eso qué es ?
+*FAT:	es un perro &=q no ?
+*TI1:	&=q cómo se llama ?
+*FAT:	un perro .
+*FAT:	es+que en la guardería .
+*MOT:	&=q y dónde está Teo , cariño ?
+*FAT:	&=q dónde está Teo ?
+*MOT:	&=q dónde está Teo ?
+*MOT:	a ver .
+*MOT:	&=q quién es Teo ?
+*MOT:	enséñale el principio del libro .
+*TI1:	a ver .
+*TI1:	&=q Teo es +..?
+*TI1:	te vamos a enseñar quién es Teo .
+*FAT:	es este &=q no ?
+*TI1:	sí .
+*TI1:	Teo es este .
+*TI1:	hay que buscar a Teo .
+*TI1:	&=q dónde está Teo aquí ?
+*TI1:	sí .
+*TI1:	un coche nuevo .
+*FAT:	mira .
+*FAT:	&=q qué va a hacer la señora ?
+*TI1:	Nando .
+*FAT:	va a cruzar la calle &=q no ?
+*TI2:	nos vamos a pirar .
+*TI1:	hemos quedado a las seis .
+*FAT:	mira .
+*FAT:	&=q y este quién es ?
+*FAT:	un niño .
+*FAT:	&=q y esta quién es ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q esta quién es ?
+*FAT:	una señora .
+*FAT:	sí .
+*FAT:	otra señora .
+*FAT:	claro .
+*FAT:	mira .
+*FAT:	&=q y esta que es ?
+*FAT:	un perro .
+*FAT:	&=q al lado quién hay ?
+*FAT:	un +...
+*FAT:	un niño .
+*FAT:	no .
+*FAT:	no es Teo .
+*FAT:	&=q Teo dónde está ?
+*FAT:	está aquí .
+*FAT:	claro .
+*FAT:	anda .
+*FAT:	&=q y Teo dónde está ahora ?
+*FAT:	con niños .
+*FAT:	&=q sí: ?
+*FAT:	no: .
+*FAT:	mira dónde está .
+*FAT:	está aquí .
+*FAT:	claro .
+*FAT:	oye .
+*FAT:	&=q y dónde +/?
+*FAT:	&=q mira a ver qué hay aquí ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q qué es eso ?
+*FAT:	tijeras .
+*MOT:	0 .
+*FAT:	&=q y para qué sirven las tijeras ?
+*FAT:	&=q para cortar qué ?
+*FAT:	&=q qué le cortamos a Juan con las tijeras ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué le cortamos a Juan ?
+*FAT:	las +...
+*FAT:	las uñas .
+*FAT:	claro .
+*FAT:	y también le cortamos +...
+*FAT:	&=q qué le cortamos a Juan con las tijeras ?
+*FAT:	la cabeza .
+*MOT:	0 .
+*FAT:	el pelo .
+*FAT:	el pelo de la cabeza .
+*FAT:	te lo he cortado hace dos días , Juan .
+*FAT:	mira .
+*FAT:	&=q qué hay aquí ?
+*FAT:	una mariposa .
+*FAT:	&=q y qué hace la mariposa ?
+*FAT:	&=q qué hace la mariposa ?
+*FAT:	&=q que hace ?
+*FAT:	&=q corre ?
+*FAT:	&=q nada ?
+*FAT:	&=q qué hace la mariposa ?
+*FAT:	peces , sí .
+*FAT:	&=q qué hacen los peces ?
+*FAT:	nadan . [+ COR]
+*FAT:	&=q y la mariposa qué hace ?
+*FAT:	vuela .
+*FAT:	claro .
+*FAT:	mira .
+*FAT:	&=q y qué hay aquí ?
+*FAT:	un perro .
+*FAT:	&=q y qué hace el perro ?
+*FAT:	sí .
+*FAT:	< pero com@x > [//] fíjate .
+*FAT:	&=q qué está haciendo aquí con las hojas ?
+*FAT:	&=q está guardando las hojas ?
+*FAT:	las está guardando .
+*FAT:	&=q y dónde las pone ?
+*FAT:	anda .
+*FAT:	&=q las pone aquí en el carro ?
+*FAT:	&=q sí ?
+*FAT:	qué bien .
+*FAT:	oye .
+*FAT:	&=q y dónde está Teo ?
+*MOT:	a ver .
+*MOT:	mira bien .
+*MOT:	&=q dónde está Teo ?
+*MOT:	&=q quién era Teo ?
+*FAT:	&=e muy bien !
+*MOT:	&=e eso !
+*FAT:	claro .
+*FAT:	&=q otro perro hay ?
+*FAT:	&=q sí ?
+*FAT:	oye .
+*FAT:	&=q y qué hacen los niños ?
+*FAT:	corren .
+*FAT:	pero: &=q por dónde corren ?
+*MOT:	&=q qué es esto ?
+*MOT:	&=q por dónde están yendo ?
+*MOT:	&=q por dónde van ?
+*FAT:	por las escaleras .
+*MOT:	por las escaleras .
+*FAT:	muy bien .
+*FAT:	pero qué listo es este chaval &=q &-eh ?
+*FAT:	< a ver > [/] a ver .
+*FAT:	pero bueno .
+*FAT:	otro perro .
+*MOT:	otro perro .
+*MOT:	pero cuántos perros hay en este libro .
+*MOT:	&=q y quién más hay ahí ?
+*MOT:	a ver .
+*FAT:	&=q dónde está Teo ?
+*MOT:	< a ver > [/] a ver .
+*MOT:	&=q quién es Teo ?
+*MOT:	ahí .
+*FAT:	muy bien .
+*MOT:	&=q y qué hacen ?
+*MOT:	&=q qué están comiendo ?
+*MOT:	están comiendo .
+*MOT:	pero se están poniendo las botas .
+*FAT:	&=q y esta niña qué hace ?
+*FAT:	&=q se asoma ?
+*FAT:	xxx .
+*MOT:	y [//] mira .
+*MOT:	&=q y ese nene dónde está ?
+*MOT:	&=q dónde está ?
+*MOT:	&=q sí ?
+*MOT:	&=q y qué hace ?
+*FAT:	come . [+ COR]
+*MOT:	&=q come ?
+*MOT:	&=q pero y dónde come ?
+*MOT:	&=q qué es esto ?
+*MOT:	la leche sí .
+*FAT:	la leche .
+*MOT:	&=q pero y dónde está la leche ?
+*MOT:	&=q en un vaso ?
+*MOT:	&=q es un vaso eso ?
+*MOT:	&=q qué es ?
+*MOT:	&=q un ?
+*FAT:	gri@x [/] grifo .
+*MOT:	&=q un grifo ?
+*FAT:	no .
+*MOT:	mira .
+*MOT:	como lo tenía Juan cuando era pequeñito .
+*MOT:	&=q qué es esto ?
+*MOT:	un +...
+*MOT:	&=q qué es ?
+*MOT:	sí , leche .
+*MOT:	se la bebe con un biberón .
+*FAT:	mira .
+*FAT:	aquí lo está bebiendo .
+*FAT:	fíjate qué bien bebe el niño la leche con el biberón , Juan .
+*FAT:	mira .
+*FAT:	&=e uy@i !
+*FAT:	&=q y qué están haciendo aquí los niños ?
+*FAT:	no .
+*FAT:	fíjate .
+*FAT:	ya no comen .
+*FAT:	ahora están haciendo otra cosa .
+*FAT:	&=q qué están haciendo ?
+*FAT:	hacen el gatito .
+*FAT:	claro .
+*MOT:	no .
+*MOT:	+" hace castillos ha dicho .
+*FAT:	&=q hace castillos ?
+*FAT:	no .
+*FAT:	están limpiando el suelo .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	< con unas > [//] con unos trapos .
+*FAT:	&=q lo ves ?
+*FAT:	están limpiando el suelo .
+*FAT:	claro .
+*FAT:	fíjate .
+*FAT:	&=q y qué hace aquí la mamá ?
+*FAT:	&=q qué hace la mamá ?
+*FAT:	&=q con quién habla ?
+*FAT:	esto es díficil para él .
+*FAT:	< pero bueno > [//] pero bueno .
+*MOT:	mira .
+*MOT:	&=q y aquí qué tienen ?
+*MOT:	&=q qué es esto ?
+*FAT:	se han puesto unas sábanas , Juan .
+*FAT:	y parecen fantasmas .
+*FAT:	sí: .
+*MOT:	&=q es este ?
+*MOT:	sí .
+*FAT:	sí .
+*FAT:	está ahí escondido .
+*MOT:	ahí se asoma .
+*FAT:	oye .
+*FAT:	mira .
+*FAT:	&=q y estos niños qué hacen ?
+*FAT:	&=q < van en coches > [/] van en coches ?
+*FAT:	&=q sí ?
+*FAT:	&=q hay más coches ?
+*FAT:	&=q cuántos hay ?
+*FAT:	&=q uno y seis ?
+*FAT:	mira .
+*FAT:	la nena está corriendo , Juan .
+*FAT:	&=q y ahora qué hace ?
+*FAT:	sí .
+*FAT:	y ahora viene esta corriendo .
+*FAT:	a ver .
+*FAT:	uy .
+*FAT:	fíjate .
+*FAT:	&=q qué están haciendo ahora ?
+*FAT:	&=q < dónde está Teo > [/] dónde está Teo ?
+*FAT:	&=q dónde está , Juan ?
+*FAT:	otras tijeras , sí . [+ COR]
+*FAT:	&=q qué hacen con las tijeras ?
+*FAT:	cortar . [+ ADS]
+*FAT:	&=q el qué cortan ahora ?
+*FAT:	mira lo que están cortando .
+*FAT:	cotan papel .
+*FAT:	&=q y qué hacen con el papel ?
+*FAT:	fíjate .
+*FAT:	&=q hacen +..?
+*FAT:	muñecos .
+*FAT:	sí .
+*FAT:	hacen muñecos de papel .
+*FAT:	uy@i .
+*FAT:	y mira .
+*FAT:	&=q qué es eso ?
+*FAT:	&=q qué es eso ?
+*FAT:	no: .
+*FAT:	no es un grifo .
+*FAT:	es un +...
+*FAT:	no .
+*FAT:	es un +...
+*FAT:	es que está muy mal el dibujo .
+*FAT:	es un teléfono .
+*FAT:	anda .
+*FAT:	mira lo que pasa .
+*FAT:	mira .
+*FAT:	lo tienen aquí .
+*MOT:	&=q a qué juegan ahí , Juan ?
+*MOT:	&=q dónde están jugando ?
+*MOT:	&=q con barcos ?
+*MOT:	&=q y dónde los ponen a navegar ?
+*MOT:	&=q dónde es ahí ?
+*MOT:	&=q qué es esto ?
+*MOT:	&=q qué es esto , cariño ?
+*MOT:	muchos barcos .
+*MOT:	&=q y dónde van navegando ?
+*MOT:	mira .
+*MOT:	&=q por dónde ?
+*MOT:	&=q qué es esto ?
+*MOT:	&=q qué es esto de aquí ?
+*MOT:	&=q un ángel ?
+*MOT:	&=q una ?
+*MOT:	mira [x 3] .
+*MOT:	&=q y qué han echado aquí también ?
+*MOT:	mira .
+*MOT:	con los barcos .
+*MOT:	&=q a quién echan ?
+*MOT:	&=e un pez !
+*MOT:	un pez que nada .
+*FAT:	&=q ha dicho un pece , no ?
+*MOT:	0 .
+*MOT:	&=q y dónde nada ?
+*MOT:	en la +...
+*MOT:	como Juan .
+*MOT:	&=q dónde se baña Juan ?
+*MOT:	en la bañera .
+*MOT:	mira .
+*MOT:	lo echan al pez en la bañera .
+*MOT:	pobre .
+*MOT:	&=q y ahora qué va a pasar ?
+*MOT:	están todos jugando .
+*MOT:	&=q a que sí ?
+*MOT:	están todos jugando .
+*MOT:	&=q ahora tú ?
+*MOT:	a ver qué más cosas hay ahí .
+*MOT:	mira .
+*MOT:	&=q qué es esto ?
+*MOT:	&=q qué es esto de aquí ?
+*MOT:	&=q qué es eso , Juan ?
+*MOT:	&=q una servilleta ?
+*MOT:	vale .
+*MOT:	una toalla .
+*MOT:	para limpiarse luego .
+*MOT:	&=q y esto ?
+*MOT:	una pelota . [+ COR]
+*MOT:	&=q y esto ?
+*MOT:	un oso .
+*MOT:	&=q pero sabes qué es el oso ?
+*MOT:	tiene forma de oso .
+*MOT:	pero es jabón para lavarse .
+*MOT:	jabón para lavarse los niños en la bañera .
+*MOT:	claro .
+*MOT:	pero como están jugando ahora todavía no lo echan .
+*MOT:	claro .
+*MOT:	no lo echan .
+*MOT:	&=q pasamos la hoja a ver qué hay aquí ?
+*MOT:	ah .
+*MOT:	&=q qué ha pasado aquí ?
+*MOT:	mira .
+*MOT:	Juan .
+*MOT:	mira .
+*MOT:	&=q qué hacen todos ?
+*MOT:	mira .
+*MOT:	&=q qué es esto de aquí ?
+*MOT:	&=q qué ha pasado por aquí ?
+*MOT:	&=q qué ha pasado ?
+*MOT:	&=q qué es esto ?
+*MOT:	&=q qué ha pasado ahí ?
+*MOT:	ah .
+*MOT:	el pez .
+*MOT:	claro .
+*MOT:	el pez que estaba en la bañera .
+*MOT:	y ahora don@x [//] no está en la bañera .
+*MOT:	&=q ahora dónde está ?
+*MOT:	&=q pero dónde está el pez ?
+*MOT:	si no está aquí , Juan .
+*MOT:	me has engañado .
+*MOT:	ah sí .
+*MOT:	está por ahí .
+*MOT:	ahí hay agua .
+*MOT:	mira .
+*MOT:	se ha salido +...
+*FAT:	es que parece un pez .
+*MOT:	se ha salido el agua de la bañera y mira por dónde va ya .
+*MOT:	escaleras abajo .
+*MOT:	&=q y quién se ha mojado ?
+*MOT:	&=q el perro se ha mojado ?
+*MOT:	madre+mía .
+*MOT:	la que han montado estos chicos .
+*MOT:	&=q y aquí qué hay ?
+*FAT:	+" collar perro dice .
+*MOT:	está aquí el perro: .
+*MOT:	&=q y qué lleva el perro ?
+*MOT:	&=q qué lleva el perro en la boca ?
+*MOT:	&=q qué es esto ?
+*MOT:	no .
+*MOT:	&=q en la boca qué lleva ?
+*MOT:	lle@x [//] tiene una servilleta encima .
+*MOT:	sí .
+*MOT:	&=q y aquí ?
+*MOT:	&=q en la boca qué lleva ?
+*MOT:	&=q qué es eso ?
+*MOT:	un cuento lleva en la boca .
+*MOT:	&=q y qué hace ?
+*MOT:	mira .
+*MOT:	&=q qué hace Teo ?
+*MOT:	&=q qué está haciendo Teo ?
+*MOT:	está pintando . [+ COR]
+*MOT:	&=q y aquí ?
+*MOT:	&=q y este nene qué hace ?
+*MOT:	el nene pequeñito de la casa .
+*MOT:	&=q qué está haciendo ?
+*MOT:	lee un cuento .
+*MOT:	y [x 2] mira .
+*MOT:	&=q qué hace el papá ?

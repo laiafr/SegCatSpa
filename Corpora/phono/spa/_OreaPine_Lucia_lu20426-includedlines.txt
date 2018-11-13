@@ -1,0 +1,185 @@
+*FAT:	&=q qué es ?
+*FAT:	&=q y qué hace esta señora ?
+*FAT:	Lulú .
+*MOT:	&=q la trompeta ?
+*FAT:	&=e Lulú !
+*FAT:	&=q me enseñas el libro o no ?
+*FAT:	&=q un león ?
+*FAT:	a ver .
+*FAT:	&=q dónde ?
+*FAT:	Lucía .
+*FAT:	&=q me enseñas el libro (.) de la señora ?
+*FAT:	&=q quién es esta señora ?
+*FAT:	< que tiene > [/] &=q qué tiene en la mano ?
+*FAT:	&=q de qué ?
+*FAT:	no , naranja orange@s .
+*FAT:	un zumo de naranja &=q verdad ?
+*FAT:	uy@i este .
+*FAT:	&=q quién es ?
+*FAT:	&=q es tu hermanito ?
+*FAT:	&=q por qué ?
+*FAT:	&=q es malo el [x 2] nene ?
+*FAT:	uy@i .
+*FAT:	&=q y esta ?
+*FAT:	&=q quién es ?
+*FAT:	&=q es Papa ?
+*FAT:	si Papá no tiene esta barrigota .
+*FAT:	&=q quién es ?
+*FAT:	&=q Papá es este pequeñito ?
+*FAT:	&=q y Lucía es esta ?
+*FAT:	sí .
+*FAT:	es esta .
+*FAT:	que se parece .
+*FAT:	que tiene un zumo de naranja en la mano .
+*FAT:	&=q tú qué ?
+*FAT:	&=q pedorreta ?
+*FAT:	oye .
+*FAT:	&=q y estos de aquí quiénes son ?
+*FAT:	&=q quiénes son ?
+*FAT:	&=q qué hácen ?
+*FAT:	&=q no me quieres enseñar el libro , Lucía ?
+*FAT:	vale .
+*FAT:	pues nada .
+*FAT:	adiós .
+*FAT:	Papá se va a comer un plátano (.) con [/] con un (.) yogur con miel .
+*FAT:	&=q el qué ?
+*FAT:	&=q qué es esto ?
+*FAT:	no es tuyo .
+*FAT:	es de Papá .
+*FAT:	claramente , además .
+*FAT:	&=q qué [x 2] quieres ?
+*FAT:	&=q cómo se pide ?
+*FAT:	&=q de Mamá ?
+*FAT:	es de Papá .
+*FAT:	0 .
+*MOT:	&=q está rico ?
+*FAT:	hoy había fútbol .
+*MOT:	ah era hoy &=q no ?
+*MOT:	de la Copa_de_Europa &=q no ?
+*FAT:	mm@i .
+*FAT:	&=q qué es ?
+*FAT:	&=q dónde ?
+*FAT:	&=q ahí ?
+*FAT:	&=q qué forma tiene eso ?
+*FAT:	&=q qué forma es ?
+*FAT:	mm@i .
+*FAT:	casi .
+*FAT:	&=q y este ?
+*FAT:	&=q y este ?
+*FAT:	&=q y esta ?
+*FAT:	&=q y esta ?
+*FAT:	no lo sabe .
+*FAT:	hipopótamo .
+*MOT:	sí lo sabe decir &=q &-eh ?
+*FAT:	&=q qué le hace ?
+*FAT:	&=q qué pasa ?
+*FAT:	&=q que tengo que mirar ?
+*MOT:	&=q está +..?
+*MOT:	&=q está soplando ?
+*FAT:	no .
+*FAT:	no sé qué quiere decir .
+*FAT:	&=q sujetando ?
+*FAT:	&=q el qué ?
+*FAT:	el casco .
+*FAT:	&=q del hipopótamo ?
+*FAT:	&=e uy@i !
+*FAT:	&=q qué tiene ahí ?
+*FAT:	&=q por qué es malo ?
+*FAT:	tiene unas gafas . [+ COR]
+*FAT:	&=q y este de aquí ?
+*FAT:	&=q una tortuga ?
+*FAT:	anda@i .
+*FAT:	&=q de qué color ?
+*FAT:	Lucía [x 2] .
+*FAT:	no .
+*FAT:	no se hace eso .
+*FAT:	Lulú .
+*FAT:	pues venga .
+*FAT:	&=q donde hay un kleenex@f ?
+*FAT:	hay que coger un kleenex@f .
+*FAT:	mira .
+*FAT:	aquí .
+*FAT:	toma .
+*FAT:	pon .
+*FAT:	corre .
+*FAT:	&=q cómo que no ?
+*FAT:	&=q cómo que no ?
+*FAT:	hola .
+*FAT:	Lucía .
+*FAT:	&=q me enseñas el cuento ?
+*FAT:	&=q y a Mamá ?
+*FAT:	&=q se lo enseñamos a Mamá ?
+*MOT:	&=q a ver ?
+*MOT:	sí .
+*MOT:	&=q cual es ?
+*MOT:	&=q cuál es ?
+*MOT:	&=q ese cuál es ?
+*MOT:	&=q cómo se llama ?
+*MOT:	&=q y qué es ?
+*MOT:	&=q un +..?
+*MOT:	no .
+*MOT:	este no .
+*MOT:	&=q éste qué es ?
+*MOT:	muy bien .
+*MOT:	un cuadrado .
+*MOT:	&=q y este ?
+*MOT:	una estrella .
+*MOT:	&=q y este ?
+*MOT:	no .
+*MOT:	&=q este qué es ?
+*MOT:	no .
+*MOT:	el triángulo es este .
+*MOT:	&=q y este qué es ?
+*MOT:	no .
+*MOT:	este es un redondel .
+*FAT:	un círculo .
+*MOT:	es un circulo .
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho el golpe ?
+*FAT:	&=q cómo te has hecho el coscorrón ?
+*MOT:	la pupa .
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho la pupa ?
+*FAT:	uy@i .
+*FAT:	se ha ido Lucía .
+*MOT:	se ha ido .
+*FAT:	bueno .
+*FAT:	así aprovechamos para jugar con su libro .
+*MOT:	um@i .
+*MOT:	&=q qué libro más bonito ?
+*FAT:	hala@i , Mother .
+*FAT:	&=q por qué no aprietas el círculo naranja orange@s ?
+*MOT:	a ver .
+*MOT:	el círculo naranja orange .
+*MOT:	hala@i .
+*MOT:	qué bien .
+*FAT:	hala@i .
+*FAT:	qué divertido .
+*MOT:	como no está Lucía es genial .
+*FAT:	qué bien .
+*FAT:	cuando no está Lucía jugamos con sus juguetes .
+*FAT:	anda@i .
+*MOT:	si está aquí .
+*FAT:	se ha vuelto a ir .
+*FAT:	corre .
+*FAT:	vamos a dar le ahora a la estrella azúl blue@s .
+*MOT:	estrella azul blue@s .
+*MOT:	aqui está .
+*FAT:	qué divertido .
+*MOT:	anda .
+*FAT:	uy@i .
+*FAT:	pero si está Lucía .
+*FAT:	Lucía .
+*FAT:	&=q cómo te has hecho la pupa ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q nos lo vas a decir o no ?
+*FAT:	&=q quién ha sido ?
+*MOT:	&=q quién ha sido , Lu ?
+*FAT:	&=q quién ha sido el de la pupa , Lucía ?
+*MOT:	&=q quién te ha hecho < la pupa > [//] el morado , Lucía ?
+*FAT:	bueno .
+*FAT:	nada .
+*MOT:	&=q quién te ha hecho el morado , Lu ?
+*FAT:	pues nada .
+*FAT:	hale@i .
+*FAT:	adiós: .

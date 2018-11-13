@@ -1,0 +1,789 @@
+*MOT:	más (.) qué? 713_1046
+*MOT:	qué? 4475_5696
+*MOT:	a ver (.) qué has hecho? 6503_8246
+*MOT:	huy qué bonito! 8246_8616
+*MOT:	más. 8616_11401
+*MOT:	más. 30656_41766
+*MOT:	qué? 44736_45456
+*MOT:	qué (.) qué estás haciendo? 47335_48060
+*MOT:	el qué? 49680_50420
+*MOT:	una torre? 51146_51646
+*MOT:	y cuántas piernas tiene? 52358_54038
+*MOT:	muchas. 56746_57393
+*MOT:	hala! 62381_62890
+*MOT:	qué le ha pasado? 62890_63925
+*MOT:	qué? 66156_66781
+*MOT:	más. 88990_90976
+*MOT:	hala! 92903_101983
+*MOT:	se ha roto! 103071_103558
+*MOT:	quién lo ha roto (.) Mendía? 105103_106560
+*MOT:	sí? 107148_108075
+*MOT:	oye (.) te acuerdas de lo que has visto en la playa? 115058_124163
+*MOT:	qué has visto en la playa? 127160_127991
+*MOT:	castillos? 130104_130893
+*MOT:	y quién hacía los castillos? 132236_134766
+*MOT:	quién los hacía? 135168_135610
+*MOT:	y qué más has visto allí? 136780_138136
+*MOT:	el qué? 139696_140585
+*MOT:	eso no sé lo que es. 144396_145520
+*MOT:	y velas. 146951_147623
+*MOT:	verdá [: verdad]? 148195_149386
+*MOT:	veías velas. 149386_149771
+*MOT:	y barcos? 149771_151950
+*MOT:	los veías (.) los barcos [=! ríe]? 154651_156763
+*MOT:	y agua. 156763_157785
+*MOT:	y peces.
+*MOT:	y cómo hacen los peces? 160690_162046
+*MOT:	nadan? 162416_163451
+*MOT:	y Mendía qué hacía? 163451_164443
+*MOT:	en la piscina? 165771_166390
+*MOT:	el que? 167286_168473
+*MOT:	nadaba Mendía? 170426_171450
+*MOT:	sí? 172008_172493
+*MOT:	y qué más has visto? 174416_175281
+*MOT:	a ver? 175281_176143
+*MOT:	qué más cosas. 176143_176580
+*MOT:	ardillas. 176580_177103
+*MOT:	ardillas (.) eso era lo que decías (.) sí: . 178725_179760
+*MOT:	más? 185205_190266
+*MOT:	más piezas? 191561_192280
+*MOT:	más piezas. 193655_194435
+*MOT:	más. 205550_212323
+*MOT:	de qué color son las piezas (.) Mendía? 216500_221891
+*MOT:	esa que tienes (.) en la mano? 221891_226031
+*MOT:	de qué color es? 229606_230560
+*MOT:	eh? 232068_233338
+*MOT:	qué estás haciendo (.) Mendía? 275780_282036
+*MOT:	qué haces? 283913_284771
+*MOT:	qué haces? 285610_286338
+*MOT:	qué? 288671_289006
+*MOT:	qué haces? 289961_291006
+*MOT:	qué hace Mendía? 291006_294083
+*FAT:	eh? 294990_295841
+*MOT:	una torre? 296441_297220
+*MOT:	qué bonita! 297220_300960
+*MOT:	y qué alta! 300960_301688
+*MOT:	más? 301688_306710
+*MOT:	huy qué bien! 314868_319665
+*MOT:	que ya casi terminas. 319665_321513
+*MOT:	no hay más (.) están en tu habitación. 324580_326428
+*MOT:	quieres más piezas? 326428_332391
+*MOT:	hala (.) qué grande! 343726_344836
+*MOT:	qué bonita [<]! 346106_346681
+*MOT:	quieres más? 347263_347901
+*MOT:	le decimos a papá que nos las traiga? 347901_349026
+*MOT:	eh? 350585_351541
+*MOT:	sí? 352015_352850
+*FAT:	Mendía (.) qué estás haciendo? 352850_366963
+*FAT:	una torre? 370203_371023
+*FAT:	y de qué color es? 371023_373521
+*MOT:	es de Mendía la torre? 375233_376240
+*FAT:	sí? 377311_378073
+*FAT:	huy! 381593_382411
+*FAT:	huy (.) que se rompe! 382411_383151
+*FAT:	qué le pasa a la torre? 391206_394663
+*FAT:	ay! 407991_409081
+*FAT:	quieres poner las piezas? 409081_411898
+*FAT:	sí:? 413110_414655
+*FAT:	no no no. 420035_420538
+*FAT:	no? 421628_422113
+*FAT:	ése tiene que ser? 422113_422616
+*FAT:	de qué color es esa pieza? 422616_423508
+*FAT:	es de Mendía (.) pero de qué color es? 424835_426546
+*FAT:	ay! 432253_433145
+*FAT:	qué ha pasao [: pasado]? 433145_434551
+*FAT:	qué ha pasao [: pasado]? 437643_440995
+*FAT:	qué está haciendo Mendía? 456498_460708
+*FAT:	qué está haciendo? 461780_463206
+*FAT:	hala! 485203_485910
+*FAT:	es grande (.) o es pequeña la torre? 485910_487073
+*FAT:	cómo es? 487890_488616
+*FAT:	cómo es? 490053_491461
+*FAT:	es grande? 491461_492015
+*FAT:	no es grande? 492753_493628
+*FAT:	qué? 524528_525730
+*FAT:	te gusta lo que estás haciendo? 525730_527166
+*FAT:	quieres hacer más? 529458_530848
+*FAT:	no? 533670_534241
+*FAT:	te ayuda papá? 534241_535818
+*FAT:	qué has hecho? 553110_555695
+*FAT:	qué has hecho? 555695_558191
+*FAT:	no (.) vamos a jugar (.) Mendía. 562116_563028
+*FAT:	quieres pintar? 563028_563543
+*FAT:	no quieres pintar? 564401_565530
+*FAT:	leemos un cuento? 566208_568183
+*FAT:	es que no funciona. 572466_574208
+*FAT:	de quién son e [//] (.) de quién son esos vídeos? 574208_583615
+*FAT:	todos? 587026_588401
+*FAT:	y qué está haciendo Mendía? 589421_594056
+*FAT:	qué está haciendo Mendía con los vídeos? 596438_599136
+*FAT:	qué hay ahí? 652288_652921
+*FAT:	qué hay en el dibujo (.) Mendía? 652921_654265
+*FAT:	por qué subes encima de papá? 657200_660960
+*FAT:	qué quieres (.) ver la tele? 662516_663775
+*FAT:	pero sin no funciona (.) mira. 663775_664248
+*FAT:	mira (.) no funciona (.) Mendía. 664248_665940
+*FAT:	está rota (.) la tele. 665940_669175
+*FAT:	mira. 669175_670716
+*FAT:	mira (.) no (.) no funciona. 670716_672885
+*FAT:	le das tú al botón? 674201_674930
+*FAT:	a ver (.) da tú al botón. 676238_678318
+*FAT:	quién da al botón? 685235_698561
+*FAT:	ya está? 708210_709285
+*FAT:	no: . 710085_710991
+*FAT:	no va (.) no funciona. 710991_714850
+*FAT:	mamá? 718385_719680
+*FAT:	quieres que lo ponga mamá? 719680_720798
+*FAT:	mamá está descansando ahora. 722058_723248
+*FAT:	está durmiendo durmiendo [=! susurra]. 723248_727880
+*FAT:	está durmiendo. 730626_731385
+*FAT:	qué quieres ver? 732031_737893
+*FAT:	a ver. 737893_740233
+*FAT:	quieres sentarte xxx de papá? 740233_743106
+*FAT:	esto es de Mendía? 746416_746946
+*FAT:	sí? 746946_748120
+*FAT:	no funciona (.) mira. 763700_765140
+*FAT:	no hace nada (.) el mando. 765140_767608
+*FAT:	no podemos verla (.) la tele. 767608_774448
+*FAT:	no quieres pintar un poquito (.) en lugar de ver la tele? 774448_777063
+*FAT:	jugamos con la plastilina? 780066_780691
+*FAT:	sí? 782055_782795
+*FAT:	dónde está la plastilina (.) a ver? 782795_784135
+*FAT:	dónde está la plastilina (.) Mendía? 786748_787406
+*FAT:	está aquí? 794713_796010
+*FAT:	y qué quieres hacer ahora con la plastilina? 797226_802411
+*FAT:	a ver. 802411_803781
+*FAT:	qué pasa? 805356_806273
+*FAT:	te has hecho daño? 807455_808913
+*FAT:	te duele? 811400_812015
+*FAT:	qué es eso? 832515_833338
+*FAT:	qué es? 833338_836350
+*FAT:	a guardar? 840538_843115
+*FAT:	a ver (.) dónde lo guardamos? 844646_844996
+*FAT:	aquí? 845615_846353
+*FAT:	y quién abr [//] (.) quién va a brir el bote? 846353_848181
+*FAT:	quién lo va a abrir? 849948_851533
+*FAT:	Mendía lo va a abrir? 853258_854803
+*MOT:	mejor papá? 858498_859571
+*FAT:	hala (.) cuánta plastilina! 863998_865055
+*FAT:	la dejamos abierta? 865055_870488
+*FAT:	no? 881410_882176
+*FAT:	no juego con ella? 882176_882850
+*FAT:	qué quieres hacer? 885518_886275
+*FAT:	cerdito? 891343_894843
+*FAT:	eso no es un cerdito. 894843_895863
+*FAT:	qué es? 896950_897820
+*FAT:	qué animal es éste? 897820_898491
+*FAT:	qué animal es? 900218_901143
+*FAT:	es un +... 901880_902700
+*FAT:	es un conejo. 903881_904826
+*FAT:	sí: . 906740_907478
+*FAT:	y lo sabes. 907478_908350
+*FAT:	no se come. 908350_911501
+*FAT:	qué estás haciendo? 911501_924196
+*FAT:	qué estás haciendo (.) Mendía? 924196_926626
+*FAT:	qué estás haciendo? 926626_930841
+*FAT:	qué estás? 932783_933351
+*FAT:	qué es eso que tienes en la mano? 934355_947440
+*FAT:	qué es? 949930_951480
+*FAT:	qué es? 953066_953830
+*FAT:	qué tienes ahí dibujado? 956031_958250
+*FAT:	qué busca la nena por ahí abajo? 969628_972300
+*FAT:	mmm? 975491_976648
+*FAT:	qué hay en el suelo? 991591_995330
+*FAT:	qué estás buscando? 995330_996218
+*FAT:	qué estás cogiendo del suelo (.) Mendía? 998081_998955
+*FAT:	no la comas. 1013451_1020633
+*FAT:	Mendía. 1020633_1023301
+*FAT:	oye! 1023301_1025196
+*FAT:	te está diciendo papá que la plastilina no se come! 1025196_1026869
+*FAT:	Mendía. 1026869_1029171
+*FAT:	que guardamos la plastilina y no jugamos con ella. 1029171_1031251
+*FAT:	quieres jugar con la plastilina? 1031251_1034461
+*FAT:	guardamos la plastilina (.) Mendía? 1036041_1041645
+*FAT:	no la guardamos? 1042740_1043506
+*FAT:	te la quieres seguir comiendo? 1044260_1045166
+*FAT:	pero la plastilina no se come (.) no se come Mendía. 1046591_1049766
+*FAT:	es caca. 1051846_1052365
+*FAT:	es caca y no se come. 1053321_1053773
+*FAT:	la guardamos la plastilina? 1058251_1061101
+*FAT:	no:? 1061790_1062445
+*FAT:	qué quieres hacer? 1064056_1065830
+*FAT:	el conejito? 1067041_1067508
+*FAT:	lo vas a hacer tú? 1068216_1068853
+*FAT:	a ver (.) cómo lo haces? 1071030_1076763
+*FAT:	Mendía (.) que te hemos dicho que +... 1085450_1098795
+*FAT:	oye (.) oye. 1098795_1101788
+*FAT:	qué estás haciendo tú? 1101788_1103676
+*FAT:	eso es lo que estás haciendo (.) sí. 1104885_1107063
+*FAT:	trasto. 1107063_1110098
+*FAT:	a ver. 1111118_1117123
+*FAT:	a limpiarte. 1117745_1119133
+*FAT:	venga (.) qué tiene aquí papá (.) a ver? 1126290_1127915
+*FAT:	qué tiene aquí papá (.) a ver? 1131188_1131858
+*FAT:	una bola? 1133970_1135026
+*FAT:	de qué color es la bola que tiene papá? 1135550_1136050
+*FAT:	es de Mendía la bola? 1141446_1142255
+*FAT:	no: (.) es de papá. 1143510_1144548
+*FAT:	sí: . 1145790_1146796
+*FAT:	esta bola es de papá: . 1148125_1148825
+*FAT:	no es de papá? 1149561_1150435
+*FAT:	más qué? 1154525_1155686
+*FAT:	más qué? 1156118_1156538
+*FAT:	qué quieres que haga? 1157275_1158248
+*FAT:	más qué? 1158935_1159806
+*FAT:	más qué? 1161620_1162440
+*FAT:	otra bola? 1163618_1164891
+*FAT:	una bola? 1173508_1176961
+*FAT:	qué la [: le] ha pasao [: pasado] a la bola? 1177501_1178638
+*FAT:	qué le ha pasado a la bola (.) Mendía? 1178638_1182161
+*FAT:	qué está haciendo la nena ahora? 1190503_1197245
+*FAT:	qué está haciendo Mendía? 1198891_1200563
+*FAT:	Mendía (.) quieres que pintemos? 1201995_1204518
+*FAT:	no quieres pintar? 1207168_1208628
+*FAT:	quieres que leamos un cuento? 1209613_1211506
+*FAT:	no: (.) tampoco? 1211978_1213046
+*FAT:	a ver. 1213046_1230385
+*FAT:	a ver qué hace Mendía. 1230385_1232403
+*FAT:	estás apretando mucho? 1232403_1237011
+*FAT:	aprietas? 1238401_1239558
+*FAT:	te ha salido el conejito? 1243531_1246703
+*FAT:	que te haga +/? 1253358_1254363
+*FAT:	bola qué? 1254363_1255191
+*FAT:	menudo morro que tenemos. 1260158_1260978
+*FAT:	qué te pasa? 1260978_1262291
+*FAT:	qué pasa? 1262291_1263241
+*FAT:	a ver (.) por qué te enfadas (.) Mendía? 1264420_1264823
+*FAT:	por qué te enfadas? 1264823_1266495
+*FAT:	a ver? 1266495_1268256
+*FAT:	por qué te has enfadado? 1268256_1268975
+*FAT:	por qué te has enfadado? 1270200_1274023
+*FAT:	no te tienes que enfadar por eso. 1274023_1276873
+*FAT:	no pasa nada. 1278516_1279690
+*FAT:	sólo estamos jugando con la plastilina. 1279690_1281783
+*FAT:	claro. 1284070_1284855
+*FAT:	está un poco pasadilla (.) parece (.) la plastilina ésta. 1287290_1297565
+*FAT:	de tanto jugar con ella. 1297565_1302160
+*FAT:	hala. 1303841_1304850
+*FAT:	hala hala (.) qué? 1305950_1306958
+*FAT:	hala (.) qué? 1306958_1309101
+*FAT:	qué? 1318038_1319565
+*FAT:	qué te pasa? 1319565_1320090
+*FAT:	qué estás pensando? 1320090_1322030
+*FAT:	qué quieres hacer? 1322030_1322835
+*FAT:	a guardar? 1324296_1325115
+*FAT:	venga (.) lo guardamos. 1326373_1326860
+*FAT:	no quieres guardarla (.) o sí quieres guardarla? 1329375_1332156
+*FAT:	no: . 1336366_1337221
+*FAT:	hay que guardarla aquí. 1337221_1337893
+*FAT:	porque [//] (.) aquí cuál está guardada? 1337893_1339880
+*FAT:	pues la guardamos la plastilina blanca. 1339880_1340523
+*FAT:	claro. 1343646_1344586
+*FAT:	y ésa ahí (.) claro. 1345945_1346841
+*FAT:	la tapamos? 1349253_1351033
+*FAT:	la tapa Mendía? 1353370_1354308
+*FAT:	al revés (.) claro que sí. 1358671_1360126
+*FAT:	a guardar a guardar? 1368115_1369433
+*FAT:	vale (.) Mendía. 1373493_1374493
+*FAT:	papá no hace nada. 1374493_1375106
+*FAT:	se queda quieto. 1375106_1375743
+*FAT:	está guardado? 1384968_1385791
+*FAT:	lo ha guardado muy bien Mendía? 1385791_1387215
+*FAT:	no: ? 1391038_1391793
+*FAT:	a ver. 1393936_1394496
+*FAT:	uno (.) otro. 1394496_1396686
+*FAT:	muy bien. 1396686_1399150
+*FAT:	muy bien. 1400838_1401225
+*FAT:	lo vas a volver a cerrar otra vez[>]? 1404045_1404425
+*FAT:	cuatro. 1410055_1410641
+*FAT:	hala! 1413628_1414278
+*FAT:	vemos el cuento de los conejitos? 1414278_1415081
+*FAT:	quieres ver el cuento de los conejos (.) Mendía? 1416575_1418320
+*FAT:	sí: ? 1419560_1420380
+*FAT:	a ver. 1424273_1425258
+*FAT:	venga. 1441193_1442163
+*FAT:	los conejitos. 1442163_1442600
+*FAT:	a ver (.) lo abrimos? 1444683_1454301
+*FAT:	quieres verlos? 1457276_1458043
+*FAT:	por dentro? 1458043_1458528
+*FAT:	sí: ? 1459685_1460376
+*FAT:	a ver. 1460376_1461648
+*FAT:	a ver. 1461648_1463358
+*FAT:	vamos a buscar cositas (.) vale? 1463358_1465408
+*FAT:	quieres buscar cosas? 1467048_1467935
+*FAT:	a ver. 1470165_1471175
+*FAT:	la puerta (.) ésa es la puerta. 1473286_1474978
+*FAT:	abrimos la puerta? 1475883_1477183
+*FAT:	sí: ? 1477851_1478456
+*FAT:	la abre Mendía? 1478456_1479141
+*FAT:	a ver. 1480878_1481750
+*FAT:	a ver. 1483940_1484661
+*FAT:	hala (.) qué hay en la puerta [<]! 1484661_1485546
+*FAT:	hay globos! 1486201_1487325
+*FAT:	sí: . 1488746_1489285
+*FAT:	y cuántos globos hay? 1489285_1489571
+*FAT:	bueno (.) no lo va a saber. 1491095_1491465
+*FAT:	hay muchos. 1491465_1492570
+*FAT:	hay tres. 1492570_1492960
+*FAT:	hay tres. 1496250_1496741
+*FAT:	a ver (.) qué más [>] hay? 1497411_1498406
+*FAT:	a ver (.) qué más hay? 1499846_1500383
+*FAT:	qué más vemos por aquí [>]? 1500383_1501173
+*FAT:	patitos? 1502060_1503608
+*FAT:	sí: ? 1504415_1505113
+*FAT:	ah (.) plátanos (.) los plátanos. 1505113_1506100
+*FAT:	claro. 1506100_1507116
+*FAT:	qué hay ahí? 1514973_1517823
+*FAT:	platos? 1519281_1519873
+*FAT:	cuántos platos hay? 1520708_1522013
+*FAT:	hay cinco. 1523358_1524083
+*FAT:	cinco platos. 1525961_1527218
+*FAT:	qué hay ahí? 1528648_1530240
+*FAT:	no: (.) están los cubiertos. 1531366_1533428
+*FAT:	ahí qué hay? 1537736_1538626
+*FAT:	bollos? 1539785_1540555
+*FAT:	bueno (.) bollos hay ahí. 1541525_1542868
+*FAT:	a ver (.) qué más cosas podemos encontrar por aquí? 1542868_1545640
+*FAT:	a ver (.) busca más cositas. 1547680_1549578
+*FAT:	hay más. 1558298_1559670
+*FAT:	qué está haciendo? 1562331_1569613
+*FAT:	qué está haciendo este conejo? 1569613_1570436
+*FAT:	es un nene? 1571323_1572313
+*FAT:	y qué está viendo? 1572313_1576926
+*FAT:	la tele? 1578701_1579906
+*FAT:	a ver. 1592265_1597960
+*FAT:	miramos a ver qué hay en la mesa? 1600836_1606838
+*FAT:	sí: ? 1608596_1609375
+*FAT:	a ver (.) qué hay en la mesa? 1609375_1610695
+*FAT:	no: ? 1611635_1612451
+*FAT:	es de Mendía la mesa? 1614273_1616338
+*FAT:	y un pez [<]? 1617760_1619023
+*FAT:	un pez. 1619521_1620893
+*FAT:	hay dos peces ahí? 1621550_1622893
+*FAT:	sí: ? 1623395_1624470
+*FAT:	de qué color es el pez [>]? 1625023_1625861
+*FAT:	es rojo (.) claro. 1627168_1628846
+*FAT:	eso qué es? 1630136_1631296
+*FAT:	un pajarito. 1631966_1632988
+*FAT:	y qué hace el pajarito? 1632988_1634820
+*FAT:	estaba volando el pajarito? 1635336_1637011
+*FAT:	otro pajarito más? 1639496_1640488
+*FAT:	más cosas? 1647836_1648893
+*FAT:	pasamos la página? 1650605_1651678
+*FAT:	venga. 1652873_1653705
+*FAT:	qué: ? 1654358_1655310
+*FAT:	la puerta. 1655310_1655733
+*FAT:	y qué hay detrás de la puerta? 1655733_1657460
+*FAT:	la mochila de Mendía? 1660965_1662113
+*FAT:	hala! 1673403_1674075
+*FAT:	qué están haciendo aquí los conejitos? 1674075_1675731
+*FAT:	están jugando. 1675731_1676691
+*FAT:	claro. 1677981_1679038
+*FAT:	las pelotas. 1679930_1680813
+*FAT:	botan. 1683230_1683885
+*FAT:	tres pelotas! 1684856_1685996
+*FAT:	son de Mendía las tres pelotas? 1687443_1688971
+*FAT:	sí: ? 1690426_1691246
+*FAT:	seguro? 1691246_1691890
+*FAT:	seguro que son tuyas? 1693210_1694720
+*FAT:	no serán de ellos? 1694720_1697370
+*FAT:	es de los conejitos? 1698458_1699833
+*FAT:	no: ? 1701090_1702196
+*FAT:	son de Mendía todas las pelotas? 1702788_1704248
+*FAT:	se las dejas a los conejos para que jueguen? 1705755_1707685
+*FAT:	no se las dejas para que jueguen? 1708373_1709970
+*FAT:	juegas tú con ella? 1712308_1712828
+*FAT:	sí: ? 1713883_1715175
+*FAT:	pero si se las dejas juegas más (.) o no? 1716501_1718571
+*FAT:	no: ? 1719430_1721053
+*FAT:	sí (.) luego la recogemos (.) vale? 1731015_1732261
+*FAT:	vas a practicar submarinismo? 1740721_1745968
+*FAT:	quién lo va a recoger? 1753046_1753938
+*FAT:	Mendía. 1754888_1756333
+*FAT:	y qué está recogiendo? 1756333_1757068
+*FAT:	plastilina. 1758526_1759616
+*FAT:	y de qué color es la plastilina que está recogiendo? 1759616_1761161
+*FAT:	me la das a mí? 1763058_1766983
+*FAT:	no Mendía? 1769458_1770651
+*FAT:	me la das? 1770651_1775818
+*FAT:	qué has hecho con ella? 1777243_1778856
+*FAT:	no me has dado nada? 1778856_1779675
+*FAT:	qué ha pasao [: pasado] con la plastilina? 1779675_1782556
+*FAT:	dónde se ha ido? 1782556_1783481
+*FAT:	dónde está la plastilina? 1783481_1787003
+*FAT:	aquí? 1788971_1790591
+*FAT:	se ha caído aquí? 1791143_1792688
+*FAT:	en el suelo? 1800801_1802551
+*FAT:	la guardo? 1810420_1811061
+*FAT:	qué hace Mendía? 1811703_1818796
+*FAT:	qué está haciendo Mendía? 1818796_1821095
+*FAT:	Mendía (.) a dónde vas? 1821095_1823541
+*FAT:	no (.) están durmiendo (.) déjales que descansen. 1826780_1829111
+*FAT:	déjales que duerman a los pobres perritos. 1831243_1833015
+*FAT:	qué estás haciendo? 1845411_1851561
+*FAT:	Mendía (.) qué estás haciendo? 1851561_1854363
+*FAT:	qué estás haciendo (.) guardándola? 1855958_1857716
+*FAT:	sí: ? 1859460_1860313
+*FAT:	qué quieres (.) poner otro? 1865916_1868418
+*FAT:	pero si no funciona la tele. 1869703_1871116
+*FAT:	la tele no funciona. 1872893_1874720
+*FAT:	huy (.) se abre solo. 1874720_1883960
+*FAT:	qué ha pasao [: pasado]? 1912055_1912841
+*FAT:	se ha roto. 1913946_1915070
+*FAT:	quién lo ha roto? 1915070_1915530
+*FAT:	oh! 1917250_1917823
+*FAT:	se ha ido? 1917823_1918490
+*FAT:	y quién lo ha roto? 1920236_1921711
+*FAT:	Mendía? 1922968_1924360
+*FAT:	me lo das? 1924360_1927058
+*FAT:	Mendía (.) me lo das? 1927966_1928568
+*FAT:	que lo arreglo yo luego? 1928568_1929360
+*FAT:	se lo das a papá? 1930315_1931991
+*FAT:	está roto? 1934508_1936198
+*FAT:	venga (.) Mendía (.) dámelo. 1937305_1940456
+*FAT:	que lo vas a romper de verdad. 1941796_1942956
+*FAT:	lo arregla papá? 1944855_1945680
+*FAT:	a ver. 1947433_1955430
+*FAT:	a ver. 1955430_1972048
+*FAT:	está roto (.) sí: . 1974578_1976150
+*FAT:	que no hay forma de ponerlo (.) además. 1976150_1978666
+*FAT:	está roto ya (.) o no? 1978666_1988626
+*FAT:	o ya no está roto? 1988626_1989801
+*FAT:	ya está arreglado? 1991576_1992820
+*FAT:	no: . 1999665_2000068
+*FAT:	no se ve. 2000068_2000921
+*FAT:	lo vas a abrir otra vez? 2002163_2004685
+*FAT:	guardamos las películas (.) Mendía en su sitio? 2004685_2013871
+*FAT:	las colocamos? 2013871_2015481
+*FAT:	no: ? 2017040_2018475
+*FAT:	no quieres colocar las películas en su sitio? 2018475_2021450
+*FAT:	qué es lo que tiene Mendía en la mano? 2055960_2061733
+*FAT:	qué es lo que tiene Mendía [<]? 2061733_2066594
+*FAT:	películas (.) tiene? 2069301_2071330
+*FAT:	no (.) ése no: . 2079145_2080770
+*FAT:	ése sí: ? 2088583_2089363
+*FAT:	venga. 2089363_2091020
+*FAT:	a ver. 2091020_2094190
+*FAT:	qué está haciendo Mendía? 2094190_2095483
+*FAT:	está Mendía abriendo la caja? 2095483_2097206
+*FAT:	éste? 2101533_2102241
+*FAT:	qué hago con él? 2102890_2103721
+*FAT:	qué hago con él (.) Mendía? 2104491_2105966
+*FAT:	lo pongo ahí? 2106915_2108296
+*FAT:	qué guardo? 2111266_2112070
+*FAT:	qué morro! 2112960_2113981
+*FAT:	pues si lo has sacado tú. 2113981_2114988
+*FAT:	guárdalo tú. 2114988_2115916
+*FAT:	lo guarda papá? 2117686_2118690
+*FAT:	pero si lo ha sacao [: sacado] Mendía. 2119628_2120600
+*FAT:	me ayudas a guardarlo? 2123400_2126116
+*FAT:	sí? 2127410_2128468
+*FAT:	dónde los guardo? 2128468_2129053
+*FAT:	a ver? 2129053_2130761
+*FAT:	me dices dónde los guardo? 2130761_2131400
+*FAT:	dónde quieres que los guarde? 2132475_2133130
+*FAT:	venga (.) que me ayudas a guardarlos. 2141575_2142921
+*FAT:	claro. 2145360_2145928
+*FAT:	ya están guardados todos? 2145928_2159896
+*FAT:	Mendía los ha guardado? 2165631_2166806
+*FAT:	a ver. 2168180_2169310
+*FAT:	a sentar? 2172493_2173131
+*FAT:	dónde nos sentamos (.) a ver? 2173848_2174576
+*FAT:	nos sentamos aquí (.) dónde? 2175725_2177020
+*FAT:	en el sofá? 2177020_2178171
+*FAT:	nos sentamos en el sofá? 2179650_2182903
+*FAT:	papá qué? 2184010_2184696
+*FAT:	qué quieres? 2186876_2188065
+*FAT:	la tele? 2188705_2189815
+*FAT:	pero si no funciona (.) Mendía. 2189815_2190665
+*FAT:	mira (.) no funciona. 2192018_2193108
+*FAT:	mira. 2193108_2197303
+*FAT:	vas a ver como no funciona. 2197303_2198818
+*FAT:	lo ves (.) como no funciona? 2203420_2204713
+*FAT:	no funciona. 2204713_2208156
+*FAT:	dibujamos un poquito? 2214361_2216515
+*FAT:	no quieres dibujar? 2218238_2219293
+*FAT:	has dibujado hoy mucho en el colegio? 2220246_2221740
+*FAT:	qué quieres guardar (.) a ver? 2223230_2225485
+*FAT:	hay nenes? 2227980_2229510
+*FAT:	qué está haciendo el nene? 2230700_2231436
+*FAT:	está bebiendo. 2232646_2233733
+*FAT:	y este otro qué está haciendo? 2235443_2236601
+*FAT:	qué está haciendo? 2238905_2239435
+*FAT:	éste bebe. 2240381_2241433
+*FAT:	éste está comiendo. 2243028_2243495
+*FAT:	qué se está comiendo? 2246088_2247093
+*FAT:	qué está comiendo? 2249025_2250015
+*FAT:	está comiendo una manzana [=! susurra]. 2251490_2253068
+*FAT:	a ti te gustan las manzanas (.) Mendía? 2254811_2257106
+*FAT:	sí te gustan. 2258888_2259808
+*FAT:	eres un poco mentirosilla. 2261450_2262673
+*FAT:	qué: ? 2264033_2267890
+*FAT:	y qué ha [//] (.) qué hace este nene de aquí? 2269378_2270875
+*FAT:	está durmiendo (.) claro. 2273080_2274675
+*FAT:	y éste otro? 2274675_2276591
+*FAT:	no: (.) está bajando por el tobogán. 2278278_2280560
+*FAT:	está jugando. 2281750_2282318
+*FAT:	claro. 2283383_2284451
+*FAT:	más? 2291730_2292901
+*FAT:	más qué? 2292901_2295376
+*FAT:	más qué? 2296411_2297770
+*FAT:	pasamos la página? 2297770_2298508
+*FAT:	a ver. 2299783_2300470
+*FAT:	halá (.) están en el colegio (.) como tú esta mañana! 2300470_2302933
+*FAT:	son números. 2307746_2308850
+*FAT:	uno (.) el uno (.) claro. 2315191_2317605
+*FAT:	qué: ? 2319268_2320426
+*FAT:	qué: ? 2323123_2323861
+*FAT:	qué es eso? 2323861_2324631
+*FAT:	el nene? 2325776_2326881
+*FAT:	a ver (.) Mendía (.) hay pajaritos aquí (.) en el dibujo? 2333950_2343958
+*FAT:	no hay pajaritos? 2346995_2347731
+*FAT:	a ver. 2348443_2349895
+*FAT:	ahí hay? 2351491_2352561
+*FAT:	cuántos pajaritos hay? 2352561_2353251
+*FAT:	no: (.) hay dos. 2354005_2355346
+*FAT:	y qué están haciendo? 2356920_2357693
+*FAT:	están volando? 2358580_2359723
+*FAT:	sí: ? 2360643_2361688
+*FAT:	a ver. 2370503_2374340
+*FAT:	hay alguna estrella en el dibujo? 2374340_2375340
+*FAT:	seguro que no hay estrellas? 2376835_2378743
+*FAT:	a ver (.) búscala. 2378743_2381543
+*FAT:	a ver (.) dónde hay estrellas? 2381543_2386240
+*FAT:	eso no es una estrella (.) eso es el sol. 2390285_2392075
+*FAT:	te gusta el sol? 2393521_2394745
+*FAT:	te gusta el sol o no te gusta el sol? 2396603_2397571
+*FAT:	no te gusta el sol? 2398073_2399100
+*FAT:	a ver [=! susurra]. 2411976_2416995
+*FAT:	qué es esto?
+*FAT:	que hay aquí? 2426045_2427891
+*FAT:	es el sol. 2429533_2431295
+*FAT:	eso es una estrella? 2432935_2434101
+*FAT:	sí: ? 2436045_2436766
+*FAT:	se pone ahí? 2443088_2443876
+*FAT:	de qué color es? 2444765_2446563
+*FAT:	es amarillo. 2448403_2449495
+*FAT:	eso qué es? 2452413_2453183
+*FAT:	sí (.) es de Mendía (.) pero (.) qué es? 2454160_2456150
+*FAT:	es una tortuga? 2459088_2460028
+*FAT:	y de qué color es? 2461118_2462645
+*FAT:	es verde! 2466383_2467071
+*FAT:	qué está haciendo Mendía? 2467071_2474841
+*FAT:	a ver. 2495178_2517445
+*FAT:	Mendía (.) qué estás haciendo? 2517445_2519203
+*FAT:	estás haciendo eso? 2521016_2522593
+*FAT:	estás con el sol? 2522593_2524838
+*FAT:	lo estás colocando o qué? 2525761_2528108
+*FAT:	me siento? 2535888_2536476
+*FAT:	no quieres que esté de pie? 2537398_2540048
+*FAT:	no: ? 2541023_2542076
+*FAT:	me lo das? 2551551_2552155
+*FAT:	para qué? 2553411_2554148
+*FAT:	para qué me lo das? 2554148_2554736
+*FAT:	qué tengo que hacer? 2555780_2556631
+*FAT:	qué quieres que haga? 2556631_2558680
+*FAT:	lo pongo yo? 2573871_2574736
+*FAT:	aquí lo pongo? 2576933_2577591
+*FAT:	así: ? 2577591_2579246
+*FAT:	tenemos mucho morro. 2579246_2582370
+*FAT:	es un pez? 2584936_2585788
+*FAT:	así: ? 2595031_2596221
+*FAT:	así? 2598103_2598925
+*FAT:	la concha. 2613380_2614940
+*FAT:	dónde está? 2614940_2615441
+*FAT:	la buscamos? 2615441_2615943
+*FAT:	a ver (.) dónde está? 2616846_2617791
+*FAT:	está aquí? 2620406_2621296
+*FAT:	la has encontrado? 2622081_2623361
+*FAT:	así? 2630801_2631526
+*FAT:	al revés? 2636895_2637476
+*FAT:	así? 2637476_2638495
+*FAT:	si me dices que es al revés (.) por qué no lo pones tú al revés? 2639526_2640400
+*FAT:	la estrella (.) falta. 2647628_2648833
+*FAT:	dónde está? 2650413_2651098
+*FAT:	está aquí en la caja? 2653010_2654123
+*FAT:	a ver. 2654503_2655126
+*FAT:	a ver si está en la caja. 2655126_2656636
+*FAT:	no: (.) aquí no está. 2656636_2658698
+*FAT:	aquí no está la estrella. 2658698_2662385
+*FAT:	no está aquí (.) Mendía. 2662385_2665556
+*FAT:	nos falta la estrellita. 2665556_2668138
+*FAT:	no está: . 2670355_2672581
+*FAT:	ésa si está (.) pero la otra estrellita no está. 2673853_2676561
+*FAT:	ése es el pez. 2678678_2679865
+*FAT:	y éste qué es? 2679865_2680638
+*FAT:	el sol. 2681613_2682163
+*FAT:	y éste? 2682163_2682851
+*FAT:	no es una estrella (.) es una concha. 2684526_2686310
+*FAT:	sí: . 2687716_2688335
+*FAT:	eso sí es una estrella. 2691135_2691790
+*FAT:	éste no (.) éste no es una estrella. 2694320_2696550
+*FAT:	no (.) es una concha. 2698580_2699806
+*FAT:	es una estrella. 2703125_2703786
+*FAT:	falta la estrella. 2707191_2708735
+*FAT:	claro que falta la estrella. 2708735_2709876
+*FAT:	sí: . 2711853_2712571
+*FAT:	qué es eso? 2714166_2714586
+*FAT:	una pelota? 2715625_2716313
+*FAT:	es tuya? 2718515_2719603
+*FAT:	son todas +/? 2721670_2722303
+*FAT:	todas las pelotas son tuyas? 2722303_2722721
+*FAT:	conejitos? 2723543_2724818
+*FAT:	qué son eso (.) las orejas del conejo? 2725840_2727638
+*FAT:	no son las orejas del conejo? 2728608_2730301
+*FAT:	es tuyo? 2731376_2732516
+*FAT:	seguro? 2734300_2735293
+*FAT:	no es del conejito el balón? 2735756_2736388
+*FAT:	cuidado. 2753306_2754171
+*FAT:	a guardar? 2762646_2763331
+*FAT:	a ver (.) dónde la guardamos? 2764648_2765416
+*FAT:	la guardamos en la bolsa? 2765416_2766206
+*FAT:	la guardamos aquí? 2767071_2769090
+*FAT:	no se come (.) Mendía. 2770385_2771220
+*FAT:	Mendía (.) no se muerde. 2773485_2773918
+*FAT:	no se muerde. 2773918_2776951
+*FAT:	Mendía. 2779216_2782558
+*FAT:	Mendía. 2782990_2784683
+*FAT:	sácatelo de la boca (.) anda. 2788571_2789480
+*FAT:	Mendía (.) me lo das? 2793976_2794863
+*FAT:	dámelo (.) anda. 2795918_2797125
+*FAT:	es tuyo? 2798278_2799436
+*FAT:	pues si te lo metes en la boca va a dejar de ser tuyo. 2799436_2800946
+*FAT:	dámelo. 2803981_2804551
+*FAT:	no se come (.) Mendía. 2805370_2806646
+*FAT:	Mendía. 2812080_2812648
+*FAT:	eso no se muerde. 2812648_2813658
+*FAT:	Mendía (.) sácatelo de la boca. 2813658_2816621
+*FAT:	sácatelo de la boca. 2820948_2822573
+*FAT:	que te puedes hacer púpa (.) venga. 2822573_2824321
+*FAT:	dámelo (.) anda. 2830470_2832233
+*FAT:	me lo das? 2832686_2833211
+*FAT:	no: (.) en la boca no. 2835041_2835776
+*FAT:	son tuyos (.) pero no se meten en la boca. 2840540_2841628
+*FAT:	porque metiéndotelos en la boca te puedes hacer púpa. 2841628_2843961
+*FAT:	sí: (.) te puedes hacer púpa. 2845688_2847838
+*FAT:	me lo das? 2849566_2850623
+*FAT:	eh (.) fuera de la boca! 2850623_2852165
+*FAT:	Mendía (.) me voy a enfadar. 2854235_2856890
+*FAT:	me voy a enfadar (.) Mendía. 2858688_2859330
+*FAT:	qué quieres que guarde? 2874928_2875705
+*FAT:	lo guardamos (.) aquí? 2876221_2878138
+*FAT:	quieres guardar el cuento? 2880586_2881788
+*FAT:	amarillo (.) sí: (.) es un triángulo amarillo [>]. 2884220_2886685
+*FAT:	eso es naranja. 2888448_2889103
+*FAT:	azul. 2892506_2893528
+*FAT:	sí: (.) y verde [<]. 2894138_2895161
+*FAT:	no (.) éste es verde. 2896275_2896676
+*FAT:	éste no es azul (.) es verde. 2896676_2897581
+*FAT:	sí: . 2898876_2899746
+*FAT:	no (.) eso es rojo. 2904176_2905313
+*FAT:	qué buscas? 2909271_2910930
+*FAT:	más figuritas? 2910930_2911820
+*FAT:	eh (.) no no: (.) los libros no se rompen (.) Mendía! 2915006_2917923
+*FAT:	Mendía (.) los libros no se rompen. 2920668_2921791
+*FAT:	no se rompen los libros. 2921791_2924423
+*FAT:	qué quieres hacer ahora? 2932758_2934116
+*FAT:	no: ? 2935145_2936730
+*FAT:	a ver. 2936730_2937990
+*FAT:	qué vas a hacer? 2937990_2940790
+*FAT:	qué es esto? 2940790_2946291
+*FAT:	qué es? 2948063_2948955
+*FAT:	Mendía (.) qué es? 2948955_2950348
+*FAT:	me vas a atacar pero no me vas a decir qué es? 2950348_2955630
+*FAT:	a guardar (.) venga (.) a guardar. 2957210_2958550
+*FAT:	qué ha pasao [: pasado]? 2972313_2973595
+*FAT:	te has dao [: dado] en la mesa? 2976053_2977831
+*FAT:	te has hecho púpa? 2978771_2979793
+*FAT:	qué te ha pasado? 2980615_2981960
+*FAT:	qué te pasa? 2981960_2984638
+*FAT:	te has hecho púpa? 2984638_2986315
+*FAT:	dónde te duele? 2986953_2988781
+*FAT:	dónde te duele (.) Mendía? 2991261_2991900
+*FAT:	cómo que no! 3001953_3002596
+*FAT:	eso me lo has hecho tú a mí! 3002596_3003521
+*FAT:	vamos! 3003521_3005895
+*FAT:	es un globo. 3018920_3020270
+*FAT:	es un muñequito. 3021091_3023858
+*FAT:	eso es un globo. 3027648_3028675
+*FAT:	esto? 3031856_3033630
+*FAT:	peces? 3034315_3035591
+*FAT:	quién hizo estos peces? 3036481_3037676
+*FAT:	quién hizo los peces? 3038628_3039903
+*FAT:	quién dibujó los peces? 3041431_3042783
+*FAT:	pececitos en dónde? 3043823_3045215
+*FAT:	aquí? 3046458_3047295
+*FAT:	y cómo son (.) grandes o pequeños? 3047295_3049240
+*FAT:	son grandes? 3054136_3055293
+*FAT:	son pequeños? 3057020_3061901
+*FAT:	sí son pequeños? 3063151_3064133
+*FAT:	hay nenenes? 3066048_3067036
+*FAT:	qué es eso? 3071078_3072053
+*FAT:	qué es? 3074503_3075488
+*FAT:	bicicleta (.) sí: . 3077700_3079513
+*FAT:	hala (.) qué dibujo! 3083528_3087090
+*FAT:	sí: . 3089230_3090406
+*FAT:	a ver. 3094121_3095543
+*FAT:	qué animal es éste? 3095543_3096548
+*FAT:	qué animal es? 3097665_3098830
+*FAT:	mira. 3104078_3104950
+*FAT:	son manzanas. 3105908_3106726
+*FAT:	sí: . 3108393_3108980
+*FAT:	y qué está haciendo el nene? 3109970_3110815
+*FAT:	está cogiendo manzanas? 3114455_3115650
+*FAT:	para qué coge manzanas? 3118413_3118951
+*FAT:	para comérselas? 3118951_3120735
+*FAT:	qué es? 3124883_3125720
+*FAT:	un perro? 3126791_3127050
+*FAT:	qué está haciendo el perrito éste? 3133871_3135385
+*FAT:	qué está haciendo? 3137805_3138756
+*FAT:	está +/? 3140285_3141176
+*FAT:	es un perrito (.) y qué está haciendo? 3141176_3142496
+*FAT:	está pintando. 3144841_3146225
+*FAT:	esto no es un perrito? 3147600_3148680
+*FAT:	esto qué es? 3148680_3149486
+*FAT:	no lo es? 3157676_3158295
+*FAT:	éste sí.
+*FAT:	pero qué está haciendo este perrito? 3169448_3170728
+*FAT:	qué está haciendo este perrito (.) Mendía? 3172510_3174371
+*FAT:	la que estás montando [=! susurra]. 3179576_3180988
+*FAT:	ya. 3180988_3185478
+*FAT:	es un nene [>]. 3192023_3192660
+*FAT:	esto qué es? 3194538_3195528
+*FAT:	es un payaso? 3197181_3198026
+*FAT:	el cerdo? 3214346_3215531
+*FAT:	es esto un cerdo? 3216536_3217681
+*FAT:	y qué tiene aquí el cerdo? 3218666_3219523
+*FAT:	una flor? 3221706_3222340
+*FAT:	sí: (.) me estás tirando muchos papeles encima (.) y no sé qué
+*FAT:	qué es? 3250181_3251305
+*FAT:	un nene? 3253455_3254265
+*FAT:	quieres pintar? 3266801_3267538
+*FAT:	dónde están las pinturas? 3267538_3269678
+*FAT:	mamá las tiene? 3271563_3272620
+*FAT:	no: (.) no las tiene mamá. 3273845_3275453
+*FAT:	dónde están? 3277823_3278506
+*FAT:	las tiene papá las pinturas? 3278908_3279931
+*FAT:	sí: (.) seguro? 3281218_3281963
+*FAT:	a ver (.) dónde tiene papá las pinturas? 3281963_3284425
+*FAT:	ah (.) las pinturitas. 3287696_3288700
+*FAT:	claro. 3290376_3291615
+*FAT:	qué va a pintar (.) la nena? 3291615_3305681
+*FAT:	qué vas a pintar? 3305681_3308296
+*FAT:	qué me has dado? 3323203_3326160
+*FAT:	qué me has dado (.) Mendía? 3326160_3330280
+*FAT:	la guardo? 3335841_3336785
+*FAT:	a ver. 3338595_3351593
+*FAT:	qué esá pintando la nena? 3351593_3353821
+*FAT:	qué está pintando Mendía? 3355733_3356256
+*FAT:	qué pintas? 3358936_3359726
+*FAT:	qué quieres decir (.) que no te he entendido nada? 3372558_3374130
+*FAT:	pez? 3380485_3380833
+*FAT:	no hay ningún pez. 3381291_3382096
+*FAT:	no: ? 3383691_3384326
+*FAT:	a ver? 3384326_3388366
+*FAT:	eh? 3388786_3389120
+*FAT:	Mendía. 3389673_3390548
+*FAT:	Mendía (.) no seas cursi. 3391451_3394808
+*FAT:	te vas a hacer púpa. 3394808_3396515
+*FAT:	a ver (.) estos moquitos (.) dónde están. 3399973_3400966

@@ -1,0 +1,87 @@
+*PAD:	que te alejes . 1046_2480
+*PAD:	que te vayas un poco más lejos . 2480_4141
+*PAD:	ahora qué estás haciendo ? 4141_8039
+*PAD:	Mamá , dile a María que se vaya a merendar la niña ya estoy harto de ella , venga . 8039_23608
+*MAD:	María . 23608_25253
+*MAD:	quieres merendar ? 25253_27803
+*PAD:	quita hija , quita de ahí encima que eres muy pesada . 27803_30598
+*PAD:	guarrona que eres una guarrona . 72021_80661
+*PAD:	entonces que va a hacer María , va a merendar aquí Mamá ? 82981_98293
+*MAD:	sí , va a merendar ahora mismo . 98293_101196
+*PAD:	bueno , menos mal . 101196_102606
+*PAD:	se está durmiendo , me parece . 102606_120218
+*PAD:	que te estás durmiendo . 121813_123853
+*PAD:	que te estás durmiendo . 126218_127520
+*PAD:	sí te estás durmiendo . 129193_130486
+*PAD:	se está durmiendo Mamá , tiene el dedo en la boca . 131560_136265
+*MAD:	tiene el dedo en la boca todo el día , no se está durmiendo carajo . 136265_139543
+*PAD:	quita quita quita no te echas encima hombre ! 145738_147138
+*PAD:	quítate . 147138_150111
+*PAD:	no pongas la cara ahí encima . 150111_152406
+*PAD:	te quieres estar quieta ? 154380_159343
+*PAD:	qué dices ? 165603_167628
+*PAD:	qué te pasa ahora ? 178516_183723
+*PAD:	y por_qué estás haciendo lo que haces ? 188443_191755
+*PAD:	por_qué te chupas el dedo ? 193940_195020
+*PAD:	eh ? 196008_196580
+*PAD:	y por_qué te tocas la nariz y la oreja ? 197596_199788
+*PAD:	eso está bonito ? 201605_205076
+*PAD:	a:h ! 206116_207125
+*PAD:	qué bonito está ! 207125_209693
+*PAD:	no me da la gana , déjame a mí . 214101_215605
+*PAD:	qué estás haciendo , Mamá ? 241993_242986
+*MAD:	la merienda de María . 242986_246153
+*MAD:	por ? 246153_248553
+*PAD:	no para cortar y luego ver si se enrolla porque +... 248553_252708
+*MAD:	está en la bolsa de la playa . 255293_257005
+*MAD:	sí: . 261038_261769
+*MAD:	de la playa . 261769_263251
+*PAD:	qué te has encontrado ? 291688_293405
+*PAD:	una pistola ? 297080_297696
+*PAD:	unas gafas ? 309475_317211
+*MAD:	xxx . 317778_319670
+*PAD:	vaya pues . 320706_336546
+*PAD:	has saca(d)o en un momento: un colgante , la espada , la pistola , las gafas . 337321_345705
+*MAD:	0 [% llega con la merienda] . 345705_352205
+*MAD:	xxx . 356083_359271
+*MAD:	María , si es que está dentro de la bolsa . 364373_366026
+*MAD:	toma . 368290_369870
+*PAD:	a quién le has hecho una foto ? 389388_390791
+*PAD:	y cómo he salido ? 392005_393528
+*PAD:	por_qué ? 395603_396825
+*PAD:	y tú cómo estás saliendo ? 404646_407630
+*PAD:	eh ? 410480_411211
+*PAD:	ah ! 412263_412816
+*PAD:	tú estás saliendo buena , no ? 412816_414081
+*MAD:	María , ven a cenar . 414081_425321
+*MAD:	no , venga que ya te lo he puesto aquí . 426761_428186
+*MAD:	venga yo me siento a tu lado . 428186_429851
+*MAD:	y te cuento una cosa . 429851_435208
+*PAD:	qué te ha dicho Mamá ? 435208_436090
+*MAD:	y te cuento una cosa . 436090_437971
+*MAD:	quieres que te cuente una cosa , un secreto ? 439538_441075
+*MAD:	María no me hagas enfadar . 443986_448146
+*PAD:	te estás esperando Mamá . 475570_476371
+*PAD:	María , venga . 476371_477370
+*MAD:	está un poco caliente . 477370_478748
+*PAD:	ya . 484936_485983
+*PAD:	y la silla de Mamá cómo está ? 485983_490143
+*MAD:	oye , que vas a hacer ahora ? 490143_492975
+*MAD:	cuéntamelo . 492975_493711
+*MAD:	el qué ? 496538_497688
+*MAD:	qué le pasa ? 500015_501741
+*MAD:	por_qué ? 507741_508821
+*MAD:	toma . 511790_517046
+*MAD:	abre los ojos y cierra la boca . 517046_518455
+*MAD:	digo al revés . 518455_519271
+*MAD:	me voy a enfadar y va a ser peor , María . 519271_530653
+*MAD:	si luego si no podemos hacer lo que quieres es por tu culpa . 530653_534820
+*MAD:	abre la boca ! 534820_535718
+*MAD:	0 [% le pega] . 540105_541521
+*PAD:	lo va a tirar . 541521_543243
+*MAD:	levántate , levántate ahora que te vas a manchar la patada [% en voz alta] . 543243_548785
+*PAD:	no está llorando . 552528_553098
+*PAD:	está haciendo una sirena . 553098_554048
+*PAD:	María , esa sirena es de qué , de bomberos ? 554048_560831
+*MAD:	0 [% le va a limpiar la boca . le deja la servilleta en la boca y María se calla] anda , mira como se ha calla(d)o . 560831_564051
+*MAD:	si se ha calla(d)o . 564051_567480

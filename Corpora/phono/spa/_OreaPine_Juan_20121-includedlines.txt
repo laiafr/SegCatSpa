@@ -1,0 +1,548 @@
+*FAT:	&=q quieres ver a Juan ?
+*FAT:	pero cómo le dices adiós si todavía no le has dicho ni hola .
+*MOT:	esta tarde cuando estaba jugando conmigo que quería ver a Javier .
+*FAT:	&=q ah , sí ?
+*MOT:	digo “pero bueno” .
+*MOT:	&=q quieres ver a Juan ?
+*MOT:	espera .
+*MOT:	ahora te lo pone Papá .
+*MOT:	ahora te lo pone Papá para que lo veas .
+*MOT:	&=q sí ?
+*MOT:	&=q quieres ?
+*FAT:	oye , Juan .
+*MOT:	&=q y me vas a contar cosas de la guarde ?
+*FAT:	claro .
+*MOT:	venga .
+*MOT:	a ver .
+*MOT:	&=q qué has hecho hoy ?
+*MOT:	has hecho pis .
+*MOT:	muy bien .
+*MOT:	&=q y qué más ?
+*MOT:	&=q qué más has hecho en la guarde ?
+*MOT:	&=q qué ?
+*MOT:	&=q lavar las manos ? [+ ADS]
+*MOT:	&=q sí ?
+*MOT:	&=q cuándo ?
+*MOT:	&=q cuando ibas a qué ?
+*MOT:	cuando ibas a comer , cariño . [+ COR]
+*MOT:	&=q has comido salchichas hoy ?
+*MOT:	a ver si es verdad .
+*MOT:	< has comido > [/] has comido +//.
+*MOT:	creo que no has comido salchichas .
+*MOT:	&=q sí ?
+*MOT:	ah , vale .
+*MOT:	pues yo aquí no tengo anotado que hayas comido salchichas .
+*MOT:	a lo mejor me he confundido .
+*MOT:	me he confundido .
+*MOT:	seguro .
+*MOT:	y aquel barquito .
+*MOT:	navegó .
+*MOT:	bueno .
+*MOT:	&=q y qué mas cosas has hecho en la guarde ?
+*MOT:	a ver .
+*MOT:	eso es por la mañana .
+*MOT:	te has lavado las manos .
+*MOT:	has comido .
+*MOT:	&=q y qué más ?
+*MOT:	&=q y qué más has comido a parte de las salchichas ?
+*MOT:	a ver .
+*MOT:	&=q qué más has comido a parte de las salchichas ?
+*MOT:	&=e yogur !
+*MOT:	goyur@c .
+*MOT:	&=q yogur de fresa ?
+*MOT:	&=q sí ?
+*MOT:	&=e qué rico !
+*MOT:	&=q y qué más ?
+*MOT:	&=q y qué más ?
+*MOT:	&=q sopa ?
+*MOT:	&=q sopa no ?
+*MOT:	&=q qué más has comido ?
+*MOT:	&=q fideos has comido también ?
+*MOT:	&=q fideos tampoco ?
+*MOT:	tampoco has comido hoy fideos .
+*MOT:	me estás engañando .
+*MOT:	me estás engañando de mala mamera .
+*MOT:	&=q has comido salchichas ?
+*MOT:	&=q sí ?
+*MOT:	a ver .
+*MOT:	vamos a ir poniendo el babero .
+*MOT:	&=q vale ?
+*MOT:	&=q qué tiene ese babero ?
+*MOT:	&=q cómo ?
+*MOT:	&=q pero cómo se llama esa flor ?
+*MOT:	&=q tulipanes ?
+*MOT:	toplanes@c .
+*MOT:	tulipanes son .
+*FAT:	voy .
+*MOT:	ahora te viene a ver Papá .
+*FAT:	está con el ordenador Papá .
+*MOT:	eso .
+*MOT:	está con el ordenador .
+*FAT:	di me .
+*MOT:	espera [x 3] que está eso sucio , Father .
+*MOT:	porque no quiero que se te estropee más ya ese ordenador .
+*MOT:	ya veo ya [/] .
+*MOT:	traigo el trabajo hasta la cocina ya .
+*FAT:	Juan Apellido .
+*MOT:	a cenar .
+*FAT:	Juan Apellido .
+*FAT:	&=q qué has hecho en la guarde ?
+*FAT:	&=q cuénta melo ?
+*MOT:	si me lo está contando a mí .
+*FAT:	&=q se lo has contado a Mamá ya ?
+*MOT:	claro .
+*MOT:	verdad , Juan .
+*FAT:	pero entonces .
+*MOT:	&=q a que me lo estabas contando a mí , cacharrito ?
+*FAT:	&=q pues entonces qué hago yo ?
+*FAT:	oye .
+*FAT:	&=q < me bajo > [//] quieres que baje algún juguete ?
+*FAT:	&=q alguno de los muñecos ?
+*FAT:	&=q sí ?
+*MOT:	&=q quieres salchichas ?
+*MOT:	tenemos pescado del que te gusta a ti .
+*MOT:	len::gua::do .
+*MOT:	pero si te encanta .
+*MOT:	vale .
+*MOT:	porque no sabes lo que es .
+*MOT:	&=q a que no ?
+*MOT:	claro .
+*MOT:	bueno .
+*MOT:	a ver .
+*MOT:	cuénta me más cosas .
+*MOT:	&=q qué más has hecho en la guarde ?
+*MOT:	&=q has hecho caca ?
+*MOT:	a ver .
+*MOT:	&=q no o sí ?
+*MOT:	&=q has hecho caca en el orinal ?
+*FAT:	oye , Juan .
+*FAT:	&=q le vas a decir a Javier que Mamá está malita ?
+*FAT:	&=q sí ?
+*FAT:	&=q se lo vas a decir ?
+*FAT:	cuéntale que Mamá está malita .
+*MOT:	&=q la mamá y el niño ?
+*MOT:	&=q has visto que ya está puesto esto ?
+*FAT:	&=q que está puesto el qué ?
+*MOT:	la cortina .
+*FAT:	ah .
+*FAT:	no la he visto .
+*FAT:	&=q quieres llamar Julia a la hermanita ?
+*MOT:	&=q no quieres llamar la Julia ?
+*FAT:	&=q a quién quieres mucho ?
+*FAT:	&=q ah , sí ?
+*MOT:	&=q se cae el niño ? [+ COR]
+*MOT:	pero hombre .
+*MOT:	no pasa nada .
+*MOT:	que lo estarás colocando mal .
+*MOT:	seguro que lo estás colocando +//.
+*MOT:	a ver .
+*MOT:	yo te ayudo .
+*MOT:	&=q a ver qué le pasa al niño ?
+*MOT:	se cae porque mira hay que subir le un poco más las piernecitas .
+*MOT:	&=q ves ?
+*MOT:	ya está .
+*FAT:	ese lenguado , &-eh ?
+*MOT:	te lo estoy quitando las espinas .
+*FAT:	&=q sabías que el lenguado tiene espinas , Juan ?
+*FAT:	&=q sí lo sabías ?
+*FAT:	&=q has hecho un tren ?
+*MOT:	no sé si es@x [/] estoy descolocando algo la cámara .
+*FAT:	&=q quién llama ?
+*FAT:	&=q va Papá ?
+*MOT:	bueno .
+*MOT:	mira .
+*MOT:	ya está , Juan .
+*MOT:	bueno .
+*MOT:	ya están todas las espinas sacadas .
+*FAT:	uh@i .
+*FAT:	pero bueno .
+*MOT:	toma .
+*MOT:	cuchillo .
+*FAT:	&=q quién come ?
+*FAT:	come [x 2] el niño .
+*FAT:	corre que se enfría .
+*FAT:	mm@i .
+*FAT:	está muy bueno calentito .
+*FAT:	a que está bueno el lenguado .
+*MOT:	está buenísimo .
+*FAT:	toma el tenedor .
+*FAT:	&=q sentamos a los señores aquí ?
+*FAT:	el niño .
+*FAT:	el papá .
+*FAT:	&=q y este quién es ?
+*FAT:	&=q está bueno el pescado ?
+*FAT:	oye .
+*FAT:	cuéntale a Javier dónde vamos mañana .
+*FAT:	no .
+*FAT:	mañana no vamos a la guarde .
+*FAT:	mañana no hay guarde , cariño .
+*MOT:	mañana es sábado , Juan .
+*MOT:	y los sábados no se va a la guarde ni los papás van a trabajar .
+*MOT:	&=q y mañana nos vamos a dónde ?
+*FAT:	vamos a ver a los +...
+*FAT:	a: +...
+*FAT:	no .
+*FAT:	a Los_Avis no .
+*FAT:	a los abue@x +...
+*FAT:	los abuelos .
+*FAT:	anda .
+*FAT:	que llevamos todo el día diciéndo lo .
+*FAT:	&=q y ahora no te acuerdas ?
+*FAT:	&=q y qué vamos a ver allí ?
+*FAT:	&=q cómo ?
+*MOT:	&=q un tejado ?
+*FAT:	sí .
+*FAT:	un tejado .
+*FAT:	no sé a qué te da lo del tejado .
+*FAT:	vamos a ver a la prima .
+*FAT:	a [//] &=q cómo se llama la prima ?
+*FAT:	&=q y cómo se llama el tío que vive en el pueblo ?
+*FAT:	no .
+*FAT:	el tío .
+*FAT:	&=q cómo se llama el tío ?
+*FAT:	Filo .
+*FAT:	&=q y la tía ?
+*FAT:	Gonzala .
+*FAT:	muy bien .
+*FAT:	con el pescado y todo .
+*FAT:	< es que es que > [/] es que te voy a comer .
+*FAT:	di le a Javier que te estás portando muy bien estos días .
+*FAT:	dí selo .
+*FAT:	qué cosa más bonita .
+*FAT:	&=q has estado con Mamá hoy (.) jugando por la tarde ?
+*FAT:	&=q y a qué has jugado ?
+*FAT:	que no me lo has contado ?
+*FAT:	&=q a qué hemos jugado , Juan ?
+*MOT:	&=q con qué hemos estado jugando ?
+*MOT:	con los niños &=q verdad ?
+*MOT:	en el parque .
+*MOT:	hemos estado comiendo todos en el parque .
+*FAT:	mira .
+*FAT:	aquí hay unos clic .
+*FAT:	&=q tenía una espina ?
+*FAT:	da mela .
+*FAT:	mm@i .
+*FAT:	mira la .
+*FAT:	pero bueno .
+*FAT:	pero bueno esta espina .
+*FAT:	&=q qué se ha creído ?
+*FAT:	dí selo “pero bueno , espina” .
+*FAT:	será melocotona@f .
+*FAT:	muy bien , Juan .
+*FAT:	que ha sacado la espina solo .
+*FAT:	&=q está bueno el pescado ?
+*MOT:	&=q había un espina ?
+*MOT:	&=q te ha dejado Mamá una espina ahí ?
+*FAT:	ha sido sin querer .
+*FAT:	&=q a que ha sido sin querer ?
+*MOT:	pero hombre .
+*MOT:	yo creía que las había sacado todas .
+*FAT:	era una espina secreta .
+*MOT:	ya veo , ya [/] .
+*MOT:	si yo no la he visto .
+*FAT:	no me lo puedo creer .
+*FAT:	&-eh .
+*FAT:	tienes otra espina ahí , cariño .
+*MOT:	que no te puedes creer el qué .
+*FAT:	la unica vez que grabamos fregando y resulta que friegas tú . [+ ADD]
+*FAT:	para la posteridad .
+*MOT:	para que se vea quién friega últimamente .
+*FAT:	deja las espinas .
+*FAT:	&=q y el cuchillo ?
+*FAT:	&=q quién lo coge el cuchillo ?
+*FAT:	&=q otro pescado ?
+*FAT:	pero bueno .
+*FAT:	&=q quieres más ?
+*MOT:	&=q quieres más pescados ?
+*MOT:	a lo mejor quiere un cachito del mío cuando acabe .
+*FAT:	oye , Juan .
+*FAT:	&=q tienes +//?
+*FAT:	ya .
+*FAT:	xxx más . [+ NON]
+*FAT:	no te preocupes .
+*FAT:	tienes una flatulencia fatal &=q &-eh ?
+*FAT:	para [/] para tus amigos y vecinos .
+*FAT:	te tiras unos pedos que parecen turbulencias .
+*FAT:	&=q ah , no ?
+*FAT:	&=q cómo hacen las turbulencias ?
+*FAT:	a ver .
+*FAT:	&=e turbulencia !
+*FAT:	&=q el cuchillo de quién es ?
+*MOT:	&=e turbulencias !
+*FAT:	mañana nos vamos muy prontito a casa de los abuelos .
+*FAT:	nos vamos (.) a las seis y media .
+*FAT:	&=q te parece bien ?
+*FAT:	ahora tengo que guardar el coche .
+*FAT:	porque < cuando el coche > [//] cuando guarde el coche tengo que meter la cuna de viaje (.) en el maletero .
+*FAT:	&=q &-eh ?
+*FAT:	y mientras te cuento yo el cuento Mamá hace el equipaje de Juan .
+*FAT:	cuántas cosas .
+*MOT:	entonces mañana no me voy a poder duchar por la mañana . [+ ADD]
+*FAT:	sí , hombre .
+*FAT:	tú y yo .
+*FAT:	nos vamos a las siete .
+*FAT:	no pasa nada .
+*MOT:	vale .
+*MOT:	&=q a mis hermanos que les has dicho ?
+*MOT:	&=q a las seis y media ?
+*FAT:	sí .
+*FAT:	pero ellos se irán a las ocho .
+*FAT:	&=q dónde está el niño ?
+*FAT:	&=q y qué hace ?
+*FAT:	&=q le damos un poquito ?
+*MOT:	te caliento este otro pescado para ti &=q verdad ?
+*FAT:	vale .
+*MOT:	un poquito .
+*FAT:	ay@i .
+*FAT:	jolines , Juan .
+*FAT:	&=q todo el lenguado te vas a comer ?
+*FAT:	< es que es que > [/] es que está bueno &=q &-eh ?
+*FAT:	está bueno .
+*FAT:	&=q a que sí ?
+*MOT:	&=q vas a querer pan ?
+*FAT:	pero Juan .
+*FAT:	te lo graba la cámara ese pedorrete que te has tirado .
+*MOT:	&=q vas a querer pan ?
+*FAT:	&=q ha sido Javier el que se ha tirado el pedo ?
+*FAT:	ah .
+*FAT:	&=q has sido tú ?
+*FAT:	&=q para Javier ?
+*FAT:	&=q sí ?
+*FAT:	madre+mía .
+*FAT:	pero él no lo va a oler .
+*FAT:	te aviso .
+*MOT:	&=q ya vas a acabar ?
+*FAT:	podemos comer nosotros .
+*MOT:	pues venga .
+*MOT:	siéntate para acá .
+*FAT:	el cuchillo se ha quedado ahí .
+*FAT:	&=q y después del pescado qué le damos a este señor melón ?
+*FAT:	&=q un poquito de jamón ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q un poquito de jamón ?
+*FAT:	no hay jamón ahí .
+*FAT:	&=q no ?
+*MOT:	no .
+*MOT:	me lo he comido yo por la mañana .
+*MOT:	mm@i .
+*MOT:	pues si abres el pavo nos lo llevamos .
+*FAT:	&=q está dormido Sul ? [+ ADS]
+*FAT:	&=q cómo ?
+*FAT:	ahora [/] ahora despierta .
+*FAT:	claro .
+*FAT:	en cuanto vea que hay comida despierta Sul .
+*FAT:	sí .
+*FAT:	mucho .
+*FAT:	duerme profundamente .
+*FAT:	mira .
+*FAT:	duerme así .
+*MOT:	ten .
+*FAT:	&=e ah !
+*FAT:	&=e hala@i !
+*MOT:	&=e menuda lonchita !
+*FAT:	qué cara ha puesto .
+*MOT:	mira .
+*MOT:	las salchichas a lo mejor podríamos llevar nos las también .
+*FAT:	hombre .
+*FAT:	está bueno el pescado &=q &-eh ?
+*FAT:	vamos .
+*FAT:	es que no respiras , amigo .
+*MOT:	venga , Father .
+*MOT:	acérca te .
+*FAT:	< ya voy > [/] ya voy .
+*FAT:	jolines , Juan .
+*FAT:	no dices nada .
+*FAT:	&=q te lo has comido todo ?
+*FAT:	a ver .
+*FAT:	&=q me das el tenedor ?
+*FAT:	pero eso es para mañana , Juan .
+*FAT:	&=q has oído ?
+*FAT:	para el cumple de mañana &=q &-eh ?
+*FAT:	claro .
+*FAT:	el cumpleaños de la abuela . [+ COR]
+*MOT:	jo@i cómo huele , amiguito .
+*MOT:	se ha caído algo , Father .
+*FAT:	sí [x 2] .
+*FAT:	&=q está bueno el pavo , Juan ?
+*FAT:	di algo para la posteridad .
+*FAT:	&=q está bueno ?
+*FAT:	&=q sí ?
+*FAT:	&=q no le vas a dar un poco a los niños ?
+*FAT:	< al Ojo_Morado > [/] al Ojo_Morado .
+*FAT:	que yo creo que tiene hambre , &-eh ?
+*FAT:	el pobre lleva [/] lleva muy mal lo de tener el ojo morado , &-eh ?
+*FAT:	se lo vamos a tener que curar un día .
+*FAT:	&=q a que sí ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q se lo curamos un día ?
+*FAT:	&=q le ponemos una tirita un día ?
+*FAT:	&=q a ver si se lo cura ?
+*MOT:	&=q sí ?
+*FAT:	&=q un día le ponemos una tirita ?
+*FAT:	estos silencios +//.
+*FAT:	&=q a ver ?
+*MOT:	qué grande .
+*FAT:	hala@i .
+*FAT:	sí que es grande .
+*FAT:	&=q y qué vas a hacer con ese trozo ?
+*FAT:	a ver .
+*MOT:	Juan .
+*MOT:	di algo .
+*MOT:	hola .
+*FAT:	déja le que está muy contento comiendo él solo .
+*FAT:	&=q luego qué vas a querer de postre ?
+*FAT:	&=q un poco de fruta ?
+*MOT:	un poquito de leche a lo mejor .
+*FAT:	&=q un poquito de leche ?
+*MOT:	que hace mucho que no tomas .
+*FAT:	&=q qué has encontrado ?
+*FAT:	&=q qué tiene ?
+*FAT:	&=q la nariz ?
+*FAT:	&=q qué tiene ?
+*FAT:	a ver .
+*FAT:	xxx .
+*FAT:	la nariz no .
+*FAT:	pero si tienes un moco ahí en la nariz , pedorro .
+*FAT:	&=q no tienes mocos ?
+*FAT:	&=q qué hay ?
+*FAT:	a ver .
+*FAT:	que te lo has quitado y te lo has dejado en la manga .
+*FAT:	no me lo puedo creer .
+*FAT:	cómo puedes ser tan gorrino .
+*FAT:	con cámaras y todo grabando tus movimientos .
+*FAT:	oye .
+*FAT:	y mañana vas a montar en el burro .
+*FAT:	&=q sí ?
+*FAT:	&=q y vamos a ir a coger aceitunas también ?
+*FAT:	&=q sí ?
+*FAT:	pues eso le dices al abuelo que te lleve .
+*FAT:	os vais los dos .
+*FAT:	que te vaya enseñando el oficio .
+*FAT:	qué bárbaro .
+*FAT:	pero bueno .
+*FAT:	pero bueno .
+*FAT:	&=q ya estás acabando ?
+*FAT:	&=q te lo estás comiendo todo ?
+*FAT:	pero [x 3] .
+*FAT:	tenías hambre .
+*FAT:	&=q &-eh , amigo ?
+*FAT:	este Juan Apellido .
+*FAT:	ya está .
+*MOT:	madre+mía , Juan .
+*MOT:	la verdad es que hoy está de un comilón .
+*MOT:	no , cariño .
+*MOT:	sorpresas una al día .
+*MOT:	&=q vale ?
+*FAT:	ya voy yo .
+*MOT:	&=e Juan , cariño !
+*FAT:	&=q qué pasa ?
+*MOT:	se ha hecho pis .
+*MOT:	pero hombre , Juan .
+*FAT:	&=q hoy no hay colores ?
+*FAT:	&=q tiene un pato ? [+ COR]
+*FAT:	&=q qué ?
+*FAT:	&=q dónde está Papá ?
+*MOT:	&=q está detrás ? [+ ADS]
+*FAT:	0 .
+*FAT:	hace la tontería él .
+*FAT:	< sale yo > [//] salgo yo .
+*FAT:	qué bonito .
+*FAT:	&=q de qué color es el pato ?
+*MOT:	amarillo y azul .
+*MOT:	muy bien .
+*FAT:	sí , señor .
+*MOT:	&=q y el babero de qué color es ?
+*FAT:	&=q pero qué pasa ?
+*FAT:	culito veo culito quiero .
+*FAT:	&=q quieres agua con Mamá ?
+*FAT:	a ver .
+*FAT:	venga .
+*FAT:	un poquito de agua .
+*FAT:	tu vaso azul lo ha utilizado Mamá (.) cuando ha estado malita .
+*FAT:	&=q le has contado a Javier que Mamá ha estado malita ?
+*FAT:	&=q quién ha estado +//?
+*FAT:	&=q < dónde estaba > [/] dónde estaba cuando estaba malita ?
+*FAT:	estaba en la cama .
+*FAT:	&=q y qué cara tenía ?
+*FAT:	así .
+*FAT:	&=q qué cara tenía ?
+*FAT:	tenía una cara buf@i . [+ ADS]
+*FAT:	buf@i .
+*FAT:	de susto .
+*FAT:	así [/] tenía una cara así .
+*FAT:	&=q qué cara tenía ?
+*FAT:	a ver .
+*MOT:	no es verdad .
+*MOT:	no seáis mentirosos .
+*FAT:	tenía una cara así .
+*MOT:	no es verdad .
+*FAT:	< esa cara tenía > [/] esa cara tenía exactamente cuando estaba malita en la cama mamá .
+*FAT:	esa cara tenía .
+*FAT:	esa [x 6] .
+*FAT:	cierra la boca que te van a entrar moscas .
+*MOT:	pero di qué le pasaba .
+*MOT:	no pongas caras y di qué le pasaba a Mamá .
+*FAT:	&=q pero < qué te pasaba > [//] qué le pasaba a Mamá ?
+*FAT:	a ver .
+*MOT:	&=q qué le pasaba a Mamá .
+*FAT:	que estaba +...
+*FAT:	estaba malita .
+*MOT:	&=q pero qué tenía ?
+*MOT:	&=q me dolía la cabeza ?
+*MOT:	&=q o la barriga ?
+*FAT:	le dolía la barriga .
+*FAT:	la barriga . [+ ADS]
+*FAT:	y no podía +...
+*FAT:	no podía comer .
+*FAT:	y también le dolía +...
+*MOT:	&=q el codo ?
+*FAT:	el codo , sí .
+*FAT:	y un tornillo que tiene aquí dentro .
+*FAT:	< con un para@x > [/] con un paracaídas .
+*MOT:	no es verdad .
+*FAT:	&=q ah ?
+*FAT:	&=q nunca te ha contado Mamá que tiene aquí un tornillo con un paracaídas ?
+*FAT:	&=q y que dentro de un caracol que tiene una chimenea de la que sale humo de color verde azulado ?
+*FAT:	&=q no ?
+*FAT:	&=q sí te lo ha contado ?
+*FAT:	pues si no te lo ha contado esta noche dentro de cinco minutos cuando nos vayamos a dormir te lo cuenta Papá .
+*FAT:	&=q vale ?
+*FAT:	te caes de sueño ya , cariño .
+*FAT:	&=q le decimos adiós a Javier y nos vamos a dormir ?
+*FAT:	di le adiós a Javier .
+*FAT:	que nos tenemos que ir a dormir que mañana vamos a casa de los abuelos .
+*FAT:	no quieres ir a casa de los abuelos .
+*FAT:	sí .
+*FAT:	lo que no quieres es ir a dormir .
+*FAT:	&=q a que no ?
+*FAT:	a ver .
+*FAT:	tienes mucho sueño .
+*FAT:	mira [x 2] .
+*FAT:	mira qué sueño tiene Juan .
+*FAT:	mira .
+*FAT:	&=q a que tiene sueño Juan ?
+*FAT:	ah .
+*FAT:	lo que ha dicho este melón .
+*FAT:	venga .
+*FAT:	tíra le un beso a Javier .
+*FAT:	tíra le un beso .
+*FAT:	no .
+*FAT:	si voy a apagar la cámara sólo .
+*FAT:	venga .
+*FAT:	tíra le un beso .
+*FAT:	&=q ah , no ?
+*FAT:	&=q le digo yo adiós ?
+*FAT:	adiós [x 2] .
+*FAT:	se lo dices tú .
+*FAT:	&=q no se lo dices tú ?
+*FAT:	melón de la melonería .
+*FAT:	ay@i qué sueño , madre+mía .
+*FAT:	&=q nos dormimos aquí ?
+*FAT:	&=q sí ?
+*FAT:	&=q nos dormimos aquí ?
+*FAT:	venga .
+*FAT:	apoya aquí la cabeza y a dormir .
+*FAT:	0 .
+*FAT:	&=q quién ronca ?
+*FAT:	di le adiós a Javier .
+*FAT:	buenas +...

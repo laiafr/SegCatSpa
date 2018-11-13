@@ -1,0 +1,219 @@
+*FAT:	pero bueno .
+*FAT:	&=q no has cenado ?
+*FAT:	&=q qué has cenado , Lucía ?
+*FAT:	Lulú .
+*FAT:	&=q qué has cenado ?
+*FAT:	&=q pollito chicken@s ?
+*FAT:	&=q gallina +..?
+*FAT:	&=q casa +..?
+*FAT:	&=q casa +..?
+*FAT:	no .
+*FAT:	eso es house@s .
+*MOT:	ventana .
+*FAT:	&=q ventana ?
+*FAT:	&=q es que se lo he dicho en desorden o qué ?
+*FAT:	&=q Rocío te enseña ?
+*MOT:	y también cuentas .
+*MOT:	&=q a que sí , Lucía ?
+*FAT:	&=q ah sí ?
+*FAT:	a ver .
+*FAT:	&=q cómo ?
+*FAT:	&=q cómo cuentas ?
+*FAT:	pollito chicken@s gallina +...
+*FAT:	++ hen@s .
+*FAT:	casa +...
+*FAT:	++ house@s y pluma +...
+*FAT:	++ pen@s .
+*FAT:	&=q no se lo sabe así ella ?
+*MOT:	&=q cuentas en inglés , Lucía ?
+*FAT:	&=q y six@s ?
+*FAT:	Lucía .
+*FAT:	one@s two@s +/.
+*FAT:	bueno .
+*FAT:	&=q te sientas ?
+*FAT:	&=q qué pasa , Lucía ?
+*FAT:	&=q qué pasa ?
+*FAT:	&=q &-eh ?
+*MOT:	&=q vas a saltar ahora , Lucía ?
+*MOT:	la última &=q &-eh ?
+*MOT:	oye , carota .
+*MOT:	ay@i , Lucía .
+*MOT:	cómo vas a querer pan .
+*MOT:	ven .
+*MOT:	que te voy a xxx . [+ NON]
+*MOT:	un xxx pero un poco pequeño . [+ NON]
+*FAT:	bueno .
+*MOT:	no .
+*MOT:	que conste que no te voy a dar .
+*MOT:	&=q de este ?
+*MOT:	&=q de este ?
+*MOT:	a ver si te gusta , Lucía .
+*MOT:	&=q te gusta ?
+*FAT:	&=q no hay nada (.) de comer ?
+*MOT:	sí .
+*MOT:	puré de primero .
+*FAT:	&=q lo pongo y lo traigo ?
+*MOT:	&=q de este ?
+*MOT:	un poquito &=q verdad ?
+*MOT:	vas a coger te una esquinita de estas .
+*MOT:	&=q vale ?
+*MOT:	&=q así ?
+*MOT:	y te pongo un montadito .
+*MOT:	&=q vale ?
+*MOT:	&=q es feo ?
+*MOT:	no .
+*MOT:	no es feo , hombre .
+*FAT:	&=q el qué es feo ?
+*FAT:	esto es tuyo .
+*MOT:	gracias .
+*FAT:	&=q te vale así ?
+*MOT:	toma , Lucía .
+*FAT:	&=q es para mí ?
+*FAT:	&=q para quién es ?
+*FAT:	Lucía .
+*FAT:	&=q qué has hecho hoy en el colegio ?
+*FAT:	&=q has cantado en el colegio hoy ?
+*FAT:	no .
+*FAT:	despacito [x 2] .
+*MOT:	oye [x 2] .
+*MOT:	despacio .
+*FAT:	la mitad .
+*FAT:	eso es .
+*FAT:	hoy es primavera ya .
+*MOT:	&=q empieza hoy o mañana ?
+*FAT:	hoy .
+*FAT:	es primavera , Lucía .
+*FAT:	no .
+*FAT:	es primavera .
+*FAT:	y van a salir todas las flores del jardín .
+*FAT:	todas [x 3] .
+*FAT:	sí .
+*FAT:	sí [x 2] y sí .
+*FAT:	&=q Lucía qué había cenado ?
+*MOT:	puré .
+*FAT:	está bueno .
+*FAT:	se ha acaba::do . [+ COR]
+*FAT:	no .
+*FAT:	no se ha acabado todavía .
+*FAT:	está tomándo lo papá .
+*FAT:	&=q más quesito ?
+*MOT:	&=q el último ?
+*MOT:	&=q es el último ?
+*FAT:	Lucía .
+*FAT:	&=q me cuentas una cosa ?
+*FAT:	anda .
+*FAT:	cuénta me una cosa .
+*FAT:	anda .
+*FAT:	&=q lo ponemos aquí ?
+*FAT:	&=q el qué ?
+*MOT:	&=q el perro viene ?
+*FAT:	&=q viene el perro ?
+*FAT:	&=q cual ?
+*FAT:	&=q el negro black@s ?
+*FAT:	&=q cuál es ese perro ?
+*FAT:	&=q por qué qué susto , Lucía ?
+*FAT:	Lucía .
+*FAT:	&=q cierras más la puerta fuerte [x 2] ?
+*FAT:	vale .
+*FAT:	no [x 3] .
+*FAT:	corre .
+*FAT:	ven aquí a sentar te con nosotros , Lucía .
+*FAT:	&=q más de qué , mi+amor ?
+*FAT:	&=q de queso ?
+*FAT:	&=q qué hace ahí ese queso ?
+*FAT:	&=q qué hace ahí ese queso , Lucía ?
+*FAT:	&=q no llegas ?
+*FAT:	a ver .
+*FAT:	coge la escalera .
+*FAT:	a ver si llegas .
+*FAT:	&=q no llegas tampoco ?
+*FAT:	bueno .
+*FAT:	corre .
+*FAT:	siénta te aquí .
+*FAT:	&=q &-eh ?
+*FAT:	&=q yo sí llego ?
+*FAT:	&=q es una foto mágica ?
+*FAT:	&=q estaba Elsa ahí ? [+ COR]
+*FAT:	&=q quién es ?
+*FAT:	mira .
+*FAT:	así .
+*FAT:	&=q quién es ?
+*FAT:	&=q y qué hace Lulú ?
+*FAT:	di le cositas a Lulú .
+*FAT:	sí .
+*FAT:	&=q Lulú es mala ?
+*FAT:	&=q por qué es mala ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q por qué es mala Lucía ?
+*FAT:	uy@i [x 3] .
+*FAT:	venga .
+*FAT:	pon te aquí , Lucía , con nosotros .
+*FAT:	&=q vale ?
+*FAT:	venga .
+*FAT:	&=e no [x 4] !
+*FAT:	que lo rompes , Lucía .
+*FAT:	venga , Lucía .
+*FAT:	siénta te aquí .
+*FAT:	&=q qué es esto ?
+*FAT:	mira .
+*FAT:	mm@i .
+*FAT:	a ver .
+*FAT:	una vaca .
+*FAT:	&=q qué son ?
+*FAT:	&=q son vacas ?
+*FAT:	&=q cómo hacen las vacas ?
+*FAT:	mm@i .
+*MOT:	&=q y qué hace eso aquí ?
+*FAT:	publicidad .
+*FAT:	chuletón [//] &=q siguen vendiendo el chuletón de Ávila ? [+ ADD]
+*FAT:	&=q qué es eso , Lucía ?
+*FAT:	&=q unos tomates también ?
+*FAT:	no .
+*FAT:	no .
+*FAT:	a tirar no , Lucía .
+*FAT:	mm@i .
+*FAT:	pues me enfado .
+*FAT:	si te he dicho que no lo tires .
+*FAT:	cuidado [x 3] , Lucía .
+*MOT:	&=q está lloviendo ?
+*FAT:	no .
+*FAT:	poner lo bien .
+*FAT:	no .
+*FAT:	no se ha roto .
+*FAT:	pero no lo toques .
+*FAT:	&=q vale ?
+*FAT:	que no se rompa .
+*FAT:	no .
+*FAT:	&=q Lulú ?
+*FAT:	&=q te traes aquí el puzle y me enseñas a ver que cosas has aprendido ?
+*FAT:	mm@i .
+*FAT:	venga .
+*FAT:	&=q quieres una aceituna ?
+*FAT:	&=q y por qué ?
+*MOT:	no hay , Lucía .
+*FAT:	&=q por qué , Lulú ?
+*MOT:	no hay , cielo .
+*FAT:	&=q hay ?
+*FAT:	&=q se las ha acabado todas mamá ?
+*FAT:	ay@i Mamá .
+*FAT:	que no nos dejas ninguna aceituna .
+*FAT:	di le “no nos dejas ninguna aceituna” .
+*FAT:	&=q &-eh ?
+*FAT:	no .
+*FAT:	eso no , Lucía .
+*FAT:	eso no hay que hacer lo .
+*FAT:	no .
+*FAT:	vamos a ver a Mujer y a Hombre .
+*FAT:	&=q vale ?
+*FAT:	mm@i .
+*FAT:	no .
+*FAT:	esto se guarda hasta mañana .
+*FAT:	&=e Lucía !
+*FAT:	&=q qué haces en [//] ahí de pie ?
+*FAT:	venga .
+*FAT:	baja te .
+*FAT:	&=e Lucía !
+*FAT:	bája te .
+*MOT:	muy mal .
+*MOT:	&=q &-eh , Lucía .
+*FAT:	< muy mal > [/] muy mal .

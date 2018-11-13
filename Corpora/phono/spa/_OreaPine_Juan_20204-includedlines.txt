@@ -1,0 +1,238 @@
+*FAT:	&=q a ver , Juan ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué vas a hacer ?
+*FAT:	&=q vas a cocinar tortilla ?
+*FAT:	&=q pero para quién es esa tortilla , Juan ?
+*FAT:	&=q es para el oso ?
+*FAT:	&=q no era para el elefante ?
+*FAT:	&=q pero quién se la va a dar al elefante ?
+*FAT:	&=q quién se la va a dar ?
+*FAT:	&=q &-eh ?
+*FAT:	al elefante .
+*FAT:	Wilbur .
+*FAT:	el elefante es Wilbur .
+*FAT:	se la va a dar el Oso_Perezoso o se la va a dar Juan .
+*FAT:	bueno .
+*FAT:	pues sienta a Juan Oso contigo .
+*FAT:	los dos juntos le dáis .
+*FAT:	&=q le hace falta un tenedor ?
+*FAT:	&=q te hace falta un tenedor ?
+*FAT:	&=q sí ?
+*FAT:	para el elefante .
+*FAT:	< a ver > [/] a ver .
+*FAT:	toma .
+*FAT:	&=q le vas a dar la tortilla con el tenedor (.) al elefante ?
+*FAT:	&=q &-eh ?
+*FAT:	la tiene Wilbur .
+*FAT:	mira a ver .
+*FAT:	deberías sentar te en la silla .
+*FAT:	como hace Papá .
+*FAT:	&=q quitamos esto y a lo mejor es más cómodo ?
+*FAT:	&=q sí ?
+*FAT:	así .
+*FAT:	y ahora la tortilla está aquí .
+*FAT:	&=q le gusta la tortilla a Wilbur ?
+*FAT:	&=q sí le gusta ?
+*FAT:	te vas a caer .
+*FAT:	&=q Juan también quiere comer ?
+*FAT:	&=q o es Wilbur el que quiere comer ?
+*FAT:	&=q es Juan el que quiere comer ?
+*FAT:	&=q tú también quieres comer ? [+ COR]
+*FAT:	pero bueno .
+*FAT:	pues venga .
+*FAT:	&=q los dos juntos ?
+*FAT:	&=q qué parece ?
+*FAT:	&=q una pelota ?
+*FAT:	pero si es una tortilla .
+*FAT:	&=q es una pelota ?
+*FAT:	&=q y qué juegas ?
+*FAT:	&=q con el oso a la pelota ?
+*FAT:	&=q ah , sí ?
+*FAT:	&=q le pinchas con el tenedor ?
+*FAT:	ten cuidado .
+*FAT:	oye .
+*FAT:	a ver si le vas a hacer una pupa como la que tienes tú .
+*FAT:	&=q a ver qué pupa tienes ?
+*FAT:	&=q y dónde te la has hecho ?
+*FAT:	&=q en la hierba ? [+ COR]
+*FAT:	&=q en la guardería ?
+*FAT:	&=q jugando hoy en la guardería ?
+*FAT:	&=q se ha hecho pupa el oso también ?
+*FAT:	pobre oso .
+*FAT:	&=q y es muy grave o es pequeñita la pupa ?
+*FAT:	ah .
+*FAT:	es pequeñita . [+ COR]
+*FAT:	bueno .
+*FAT:	porque si fuera muy grande habría que pinchar le .
+*FAT:	no hay que pinchar le . [+ ADS]
+*FAT:	qué suerte tiene .
+*FAT:	&=q &-eh ?
+*FAT:	&=q te has hecho otra pupa ahora ?
+*FAT:	vaya , hombre .
+*FAT:	oye .
+*FAT:	&=q y qué pasa ?
+*FAT:	&=q que te has hecho daño con el tenedor ?
+*FAT:	pero bueno .
+*FAT:	&=q qué se ha creído ese tenedor ?
+*FAT:	&=q qué hacemos con el tenedor ?
+*FAT:	&=q lo guardamos ?
+*FAT:	venga .
+*FAT:	déjalo en el lavadero .
+*FAT:	&=q dónde está el lavadero ?
+*FAT:	&=q dónde friega Papá los platos ?
+*FAT:	no [x 8] .
+*FAT:	&=q dónde friega Papá los platos ?
+*FAT:	pues eso es .
+*FAT:	muy bien .
+*FAT:	&=q se acabó ? [+ ADS]
+*FAT:	&=q y ahora preprara Papá la cena para que cene Juan ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q prepara Papá la cena ?
+*FAT:	&=q el oso va a cenar ya ?
+*FAT:	&=q quién le va a dar de cenar ?
+*FAT:	&=q el elefante le da ?
+*FAT:	qué bien .
+*FAT:	qué suerte tiene .
+*FAT:	&=q no ?
+*FAT:	&=q tiene hambre ?
+*FAT:	&=q y Juan también tiene hambre ?
+*FAT:	&=q tú también ?
+*FAT:	vete allí .
+*FAT:	corre .
+*FAT:	ayúda le al elefante a dar de comer .
+*FAT:	que no sé si sabe .
+*FAT:	corre .
+*FAT:	Papá necesita una sartén para hacer < la comi@x > [//] la cena de Juan .
+*FAT:	a ver esa sartén que necesito .
+*FAT:	así .
+*FAT:	&=q esta sartén te parece bien (.) para hacer la cena ?
+*FAT:	&=q sí ?
+*FAT:	ya verás qué cena más rica va a hacer Papá .
+*FAT:	pescado y tortilla .
+*FAT:	qué bien , &=q &-eh ?
+*FAT:	&=q tiene espinas el pescado ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q tiene espinas ?
+*FAT:	&=q sí ?
+*FAT:	&=q y la tortilla ?
+*FAT:	&=q la tortilla tiene espinas también ?
+*FAT:	&=q la tortilla no ?
+*FAT:	venga .
+*FAT:	anda .
+*FAT:	vete para allá .
+*FAT:	que voy a cocinar .
+*FAT:	hay que tener cuidado con el cable .
+*FAT:	sí .
+*FAT:	&=e ah !
+*FAT:	que hay que tener cuidado con el cable ha dicho Papá .
+*FAT:	que se rompe .
+*FAT:	vale .
+*FAT:	&=q sí ?
+*FAT:	la culpa es de Papá porque no tiene que haber ningún cable colgando .
+*FAT:	mira .
+*FAT:	&=q quieres ver a Juan ?
+*FAT:	&=q sí ?
+*FAT:	pues venga .
+*FAT:	siéntate en la silla .
+*FAT:	aquí .
+*FAT:	siéntate aquí .
+*FAT:	y ahora vemos a Juan .
+*FAT:	< a ver > [/] a ver .
+*FAT:	y al oso también &=q &-eh ?
+*FAT:	cógelo .
+*FAT:	&=q a ver quién sale ?
+*FAT:	cuidado .
+*FAT:	a ver si te vas a caer .
+*FAT:	mira a ver quién sale .
+*FAT:	&=q y quién más ?
+*FAT:	&=q y quién más ?
+*FAT:	no .
+*FAT:	mira .
+*FAT:	sale el elefante .
+*FAT:	sale el oso .
+*FAT:	la yaya no sale .
+*FAT:	no .
+*FAT:	no sale .
+*FAT:	no .
+*FAT:	la yaya no sale .
+*FAT:	no .
+*FAT:	&=q sale Juan ?
+*FAT:	&=q sí ?
+*FAT:	&=q y qué tiene Juan ?
+*FAT:	el oso . [+ ADS]
+*FAT:	&=q quién es ese oso ?
+*FAT:	a ver .
+*FAT:	&=q cómo se llama ?
+*FAT:	no es Elmer .
+*FAT:	Elmer es un elefante de colores .
+*FAT:	este es el Oso +...
+*FAT:	Perezoso .
+*FAT:	&=q y el elefante cómo se llama ?
+*FAT:	Wilbur . [+ ADS]
+*FAT:	porque es el primo de El@x +...
+*FAT:	el primo de E@x +...
+*FAT:	El@x +...
+*FAT:	++ mer@x .
+*FAT:	Wilbur es el primo de Elmer .
+*FAT:	y tú eres un pestañitas .
+*FAT:	que me das mucho aire .
+*FAT:	ay@i .
+*FAT:	cuánto aire me da Juan .
+*FAT:	&=q ha cenado ya el oso ?
+*FAT:	&=q sí ?
+*FAT:	&=q ha cenado ya Wilbur ?
+*FAT:	&=q sí ?
+*FAT:	&=q le toca cenar a Juan ya ?
+*FAT:	&=q sí ?
+*FAT:	venga , pues .
+*FAT:	vamos a hacer un poquito de pescado .
+*FAT:	ahora le toca .
+*FAT:	claro .
+*FAT:	ahora le toca cenar a Juan .
+*FAT:	&=q subes tú (.) a la silla ?
+*FAT:	muy bien .
+*FAT:	&=e muy bien !
+*FAT:	< a ver > [/] a ver .
+*FAT:	oye .
+*FAT:	un día tenemos que hacer un dibujo para los Avis .
+*FAT:	&=q sí ?
+*FAT:	&=q sí ?
+*FAT:	claro .
+*FAT:	voy a quitar ya esto .
+*FAT:	&=q vale ?
+*FAT:	ay@i qué sueño tiene Juan .
+*FAT:	por+favor .
+*FAT:	bueno .
+*FAT:	ya estoy preparando la cena .
+*FAT:	es muy de noche . [+ COR]
+*FAT:	muy de noche .
+*FAT:	&=q se van a ir a dormir contigo hoy ?
+*FAT:	&=q sí ?
+*FAT:	&=q tienen sueño ya ?
+*FAT:	pregúnta les a ver si tienen sueño .
+*FAT:	&=q qué dicen ?
+*FAT:	&=q sí ?
+*FAT:	&=q sí tienen sueño ?
+*FAT:	&=q se van a dormir al suelo ?
+*FAT:	pobrecitos .
+*FAT:	&=q en el suelo duermen ?
+*FAT:	pues cogerán frío .
+*FAT:	&=q dónde duerme Juan ?
+*FAT:	Juan duerme en la cama &=q verdad ?
+*FAT:	&=q sí ?
+*FAT:	entonces .
+*FAT:	si Juan duerme en la cama &=q por qué duermen ellos en el suelo ?
+*FAT:	cogerán frío .
+*FAT:	&=q los subimos ?
+*FAT:	&=q los tumbamos en la silla ?
+*FAT:	&=q sí ?
+*FAT:	&=q en esta silla los ponemos ?
+*FAT:	&=q o los ponemos contigo aquí arriba ?
+*FAT:	uy@i .
+*FAT:	ya se está haciendo la cena .
+*FAT:	ya salta el pescado .
+*FAT:	&=q no quieres +..?
+*FAT:	&=q no quieres +..?
+*FAT:	ah .
+*FAT:	&=q no quieres el elefante y el oso ?
+*FAT:	pobrecitos .

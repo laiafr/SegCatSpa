@@ -1,0 +1,381 @@
+*MOT:	Irene tiene veintitres meses y catorce días .
+*MOT:	venga Irene tienes que hablar mucho .
+*MOT:	a_ver dile al vídeo que hiciste hoy .
+*MOT:	0 &=rie .
+*MOT:	tienes que decírselo al vídeo (.) anda que te estoy grabando (.) dile que hiciste hoy ?
+*MOT:	no (.) tan lejos no .
+*MOT:	los juguetes (.) vale (.) venga .
+*MOT:	pero dile al vídeo que hiciste hoy (.) anda (.) dile donde estuviste con papa (.) sientate aquí que te vea el vídeo .
+*MOT:	estuviste en el parque .
+*MOT:	y que hiciste (.) a quien viste ?
+*MOT:	uy (.) y que dijo Ana ?
+*MOT:	donde está Lucía (.) <si (.) dijo eso> [% con tono interrogativo] (.) y tu que dijiste ?
+*MOT:	nada (.) bueno [/] bueno (.) venga .
+*MOT:	ahora dile al vídeo (.) <quien es este> [% con tono musical] ?
+*MOT:	a_ver (.) y dile lo que hace Epi ?
+*MOT:	y que mas ?
+*MOT:	y Epi [/] Epi come rosquillas ?
+*MOT:	seguro (.) por que no ?
+*MOT:	mm ?
+*MOT:	oye [/] oye [/] oye (.) de quien es esa rosquilla ?
+*MOT:	<ah (.) la come Irene (.) eh> [=! sonriendo] !
+*MOT:	que es eso ?
+*MOT:	bah (.) díselo tu .
+*MOT:	díselo tu al vídeo .
+*MOT:	tu le tienes que decir al vídeo lo que son las cositas .
+*MOT:	a_ver (.) <que es esto> [= rosquilla] [% poniendo voz infantil] ?
+*MOT:	díselo .
+*FAT:	que es eso que traes en la mano (.) Irene ?
+*MOT:	<ah: (.) la> [% riendo] +//.
+*FAT:	y quien te dio la rosquilla ?
+*FAT:	quien te dio la rosquilla ?
+*FAT:	ay: (.) y [/] y <donde la> [//] de donde la traías tu ?
+*FAT:	donde [/] donde fuimos a por la rosquilla ?
+*FAT:	y quien te la dio en San Rafael ?
+*MOT:	<ah (.) Ricardo (.) es que no la habíamos entendido al principio (.) ah (.) Ricardo (.) <Guitarro era Ricardo> [>]> [% riendo] !
+*FAT:	ah (.) Ricardo (.) claro [/] <claro Ricardo (.) si (.) Ricardo (.) claro (.) te la dio Ricardo (.) si señor (.) <Ricardo claro> [//] (.) claro Ricardo> [<] .
+*FAT:	ahora la come Irene (.) si .
+*MOT:	vamos a ver lo que hay aquí (.) cariño .
+*MOT:	esta manta que es <magica> [% con tono musical] !
+*MOT:	mira como suena (.) a_ver .
+*MOT:	cuéntame cuantas cositas hay aquí ?
+*MOT:	bueno .
+*MOT:	no (.) <a mi> [/] <a mi> [//] (.) a mama .
+*MOT:	deja el vídeo (.) olvidalo (.) cuéntaselo a mama !
+*MOT:	la tiramos ?
+*MOT:	trae (.) yo la tiro .
+*MOT:	trae yo la tiro (.) trae .
+*FAT:	<porque está rota> [>] .
+*FAT:	<trae [/] trae (.) Irene trae [/] trae (.) eso no puede salir de la habitación> [>] !
+*MOT:	<no (.) <Irene no> [/] Irene no puede salir de la habitación> [<] (.) nada de salir de la habitación .
+*MOT:	venga ahora dile a mama todas las cosas que hay en esa man:ta: [% con tono musical] (.) para que se la +//.
+*MOT:	un flotador .
+*MOT:	que mas +//.
+*MOT:	y eso que es (.) que suena ?
+*MOT:	a_ver (.) ah [% sorpresa] (.) que es eso que suena ?
+*MOT:	el pajarín [: pájaro] .
+*MOT:	el elefante (.) si (.) es el elefante .
+*MOT:	<es Dumbo> [% con tono de sorpresa] (.) es Dumbo ese elefante ?
+*MOT:	es Dumbo (.) si ?
+*MOT:	y que mas cosas tiene la manta ?
+*MOT:	mm [% afirmando] .
+*MOT:	ah (.) una mariposa .
+*MOT:	a_ver que hay .
+*MOT:	un espejo !
+*MOT:	a_ver que cara mas guapa hay ahí (.) a_ver .
+*MOT:	no en el espejo (.) a_ver que cara tan guapa hay en el espejo (.) a ver .
+*MOT:	<ay (.) ay> [% con tono de alegría] !
+*MOT:	que mas (.) a_ver (.) enséñame mas cosas que hay en la manta .
+*MOT:	muy bien !
+*MOT:	que mas ?
+*MOT:	para que es esa llave (.) Irene ?
+*MOT:	ah (.) claro (.) para abrir esa casa .
+*FAT:	0 &=rie .
+*MOT:	y que hay dentro de esa casa (.) quien vive ahí ?
+*MOT:	ah (.) si (.) pero dentro de la casa que hay ?
+*MOT:	una estrella (.) fijate: !
+*MOT:	<muy bien> [/] muy bien !
+*MOT:	a_ver (.) que mas cositas hay ?
+*MOT:	que es eso cariño ?
+*MOT:	no (.) lo puedes quitar tu .
+*MOT:	suave (.) no seas bruta (.) pitufa .
+*MOT:	a_ver como lo quitas tu .
+*MOT:	ay !
+*MOT:	uy !
+*MOT:	<que hiciste> [/] (.) que hiciste (.) eh ?
+*MOT:	vale la vuelta (.) a_ver como le das la vuelta .
+*MOT:	pero dime que hiciste ?
+*MOT:	quitaste eso ?
+*MOT:	bueno [/] bueno .
+*MOT:	<ya la arreglaste> [>] ?
+*MOT:	ahora vas a quitar ese ?
+*MOT:	ay (.) ay (.) socorro !
+*MOT:	0 [=! quitando algo y riendo] .
+*MOT:	ya marchó el pajarín [: pájaro] (.) mira .
+*MOT:	si: [% con tono musical] !
+*MOT:	mm [% afirmando] .
+*MOT:	no se como lo quieres poner .
+*MOT:	anda y ahí que hay ?
+*MOT:	una osita (.) que es una osita o un osito ?
+*MOT:	y por que es una osita ?
+*MOT:	<ah (.) porque tiene un vestido amarillo> [% riendo] ?
+*MOT:	y porque tiene un lazo (.) precioso (.) como +//.
+*MOT:	el lazo es de color azul ?
+*MOT:	mm [% afirmando] (.) que otra cosa hay ahí al lado de la osita ?
+*MOT:	ah (.) que comoda está !
+*MOT:	ahí donde el coche (.) <que estás haciendo hija> [//] que estás haciendo ahí [>] tan comoda ?
+*MOT:	<ya salió Irene de la manta> [% riendo] .
+*MOT:	pero no me enseñaste una cosa muy guapa que hay en la manta y que sirve para hacer música .
+*MOT:	estoy vien:do (.) una cosa que sirve para hacer música .
+*MOT:	que es eso ?
+*MOT:	<ay (.) un tambor (.) claro> [% riendo] (.) eso es lo que sirve para hacer música !
+*MOT:	y como suena el tambor ?
+*MOT:	brnn@o brnn@o brnn@o .
+*MOT:	y ahora <estoy vien:do> [/] (.) <estoy viendo> [/] estoy viendo (.) una flor !
+*MOT:	donde ?
+*MOT:	eso no es una flor .
+*MOT:	eso si es <una flor> [% con tono musical] !
+*MOT:	y ahora <estoy viendo> [/] estoy viendo (.) un sol que se ríe .
+*MOT:	mm ?
+*MOT:	que riñe quien ?
+*MOT:	ah (.) <que guiña el ojo> [% riendo] (.) a_ver !
+*MOT:	donde está el sol que se ríe .
+*MOT:	ahí (.) y como guiña el ojo (.) a_ver (.) dile al vídeo como guiña el ojo Jesus (.) dile al +/.
+*MOT:	<así (.) guiña el ojo Jesus (.) hija> [% riendo] .
+*MOT:	0 &=rie .
+*MOT:	que mas estoy viendo (.) a_ver (.) ahora dime tu lo que estás viendo .
+*MOT:	una que ?
+*MOT:	una que (.) no te entiendo !
+*MOT:	mira (.) Irene no tiene dientes ahora !
+*MOT:	ah (.) si !
+*MOT:	que estás viendo cariño ?
+*MOT:	una que ?
+*MOT:	ah (.) una mariposa !
+*MOT:	ya se donde está !
+*MOT:	de que color es la mariposa ?
+*MOT:	0 &=rie .
+*MOT:	oye por que no metes a: (.) a Epi en la jaula del pájaro a ver que pasa ?
+*MOT:	quien va a llorar ?
+*MOT:	por que ?
+*MOT:	mira [<] [//] díselo <a &+ja> [//] el pájaro .
+*MOT:	por que va a llora ?
+*MOT:	uy (.) uff !
+*MOT:	que pasó ?
+*MOT:	Irene rompió la nariz ?
+*MOT:	como quien hija ?
+*MOT:	como quien rompiste la nariz ?
+*MOT:	como la mama de Loli [?] .
+*MOT:	que [=! gritando] ?
+*MOT:	ay (.) el teléfono (.) a_ver como habla Epi por teléfono ?
+*MOT:	haff@o (.) <Irene vas a romperte la crisma> [% riendo] !
+*MOT:	a_ver tienes que mirar al vídeo (.) si no +...
+*MOT:	rospiste [: rompiste] la crisma ?
+*MOT:	mira al vídeo sino papa no te puede ver .
+*MOT:	a_ver como habla Epi por teléfono .
+*MOT:	0 &=rie .
+*FAT:	0 &=rie .
+*MOT:	no (.) pero yo quiero que hable Epi !
+*MOT:	a_ver como habla Epi por teléfono (.) a_ver .
+*MOT:	ah (.) es Dumbo ?
+*MOT:	como se llama eso que tienes en la mano ?
+*MOT:	si (.) pero eso [/] eso que tienes en la mano (.) que es lo que tienen los elefantes en la cara (..) que es <muy largo> [/] muy largo .
+*MOT:	una +...
+*MOT:	como se llama ?
+*MOT:	una +...
+*MOT:	<una nariz> [% con tono interrogativo] (.) no !
+*MOT:	casi [/] casi (.) <como se llama> [>] ?
+*MOT:	una trompeta (.) <no (.) parecido> [% riendo] .
+*MOT:	<la nariz del elefante> [% con tono musical] +...
+*MOT:	<se llama> [<] [% con tono musical] ?
+*MOT:	trompa (.) no trompeta (.) trompa !
+*MOT:	que es una trompeta (.) Irene ?
+*MOT:	<<no lo sabes> [/] no lo sabes> [% con tono musical] .
+*MOT:	que es una trompeta ?
+*MOT:	el saxo [: saxofón] (.) es una trompeta .
+*MOT:	ah (.) y <como hace> [/] como hace ?
+*MOT:	tuturu_tututu@o .
+*MOT:	que ponga música ?
+*MOT:	ay [<] (.) dejaste ahí a Epi (.) allí solito .
+*MOT:	<coge a Epi> [<] [/] coge a Epi que vamos a ir a bañarnos y a cenar (.) así que (.) a ver .
+*MOT:	que ?
+*MOT:	no (.) no vamos a ver fotos ahora (.) hija .
+*MOT:	no ahora fotos no (.) escuchame ahora tenemos que ir a cenar .
+*MOT:	escuchame Irene (.) un rato .
+*MOT:	recoge a Epi y la manta y luego te enseño las fotos y te (.) preparo (.) el baño .
+*MOT:	eso es .
+*MOT:	hala (.) que le pasó a Epi ?
+*MOT:	y que rompió ?
+*MOT:	<rompió la crisma (.) eh> [% riendo] ?
+*FAT:	0 &=rie .
+*MOT:	venga [>] .
+*MOT:	y ahora la manta .
+*MOT:	vale (.) muy bien (.) sientate ahí que te voy a enseñar las fotos .
+*MOT:	<no (.) mirando al otro lado (.) date la vuelta> [% tono musical] .
+*MOT:	no (.) mas la vuelta (.) tienes que mirar a papi .
+*MOT:	eso es (.) vale (.) pero ponte mirando a papi .
+*MOT:	eso es .
+*MOT:	a ver para allá .
+*MOT:	a ver (.) para allí .
+*MOT:	a ver (.) vamos a ver (.) tu no las puedes tocar las manitas (.) eh ?
+*MOT:	quien está aquí ?
+*MOT:	y quien mas ?
+*MOT:	y que están haciendo todos ?
+*MOT:	mm .
+*MOT:	y aquí ?
+*MOT:	y aquí que está haciendo mami ?
+*MOT:	y que soplaba ?
+*MOT:	que ?
+*MOT:	<ahora que viene> [//] que viene ahora ?
+*MOT:	el que ?
+*MOT:	el que de Cuci ?
+*MOT:	ahora Robert (.) Roberto .
+*MOT:	que hay ahí ?
+*MOT:	buscamos ahora a Robert (.) <que es eso> [//] dime que hay ahí ?
+*MOT:	y quien está ?
+*MOT:	y que está haciendo ahí Irene ?
+*MOT:	estás en la arena (.) y que tienes los zapatos puestos ?
+*MOT:	como estás ?
+*MOT:	ah (.) es verdad <estás descalzada> [>] .
+*MOT:	ay (.) no se donde están las alpargatas vamos a mirar .
+*MOT:	bueno ya está (.) eh (.) ahora vamos a cenar .
+*MOT:	a quien quieres ver entonces ?
+*MOT:	a ver .
+*MOT:	ahí está la playa .
+*MOT:	mira (.) visto a Robert .
+*MOT:	visto Robert ?
+*MOT:	eh (.) las guardo ?
+*MOT:	venga las guardo .
+*MOT:	<eh (.) que Irene no puede poner los deditos> [% tono musical] .
+*MOT:	si [/] si [/] si .
+*MOT:	eh ?
+*MOT:	donde está quien ?
+*MOT:	que es eso ?
+*MOT:	otras fotos (.) y que fotos son esas ?
+*MOT:	a_ver (.) sacala !
+*MOT:	<no se si podrás> [% riendo] .
+*MOT:	uh [% con asombro] !
+*MOT:	son unas fotos bonitas ?
+*MOT:	a_ver que fotos son (.) <díselo al vídeo> [//] explicale al vídeo que hay en esas fotos .
+*MOT:	ahí (.) <desde ahí> [/] desde ahí <diles lo que hay> [//] dile al vídeo lo que hay .
+*MOT:	en esa está Irene con el sombrero (.) y <en la otra foto> [//] en esta foto de aquí quien está ?
+*MOT:	y como era Irene ahí ?
+*MOT:	que haces ?
+*MOT:	que haces ?
+*MOT:	donde la vas a guardar ?
+*MOT:	donde la vas a guardar ?
+*MOT:	y ahora que vas hacer ?
+*MOT:	a_ver si las guardaste ?
+*MOT:	anda pues si las guardaste !
+*FAT:	no sirven esas fotos ?
+*MOT:	si .
+*MOT:	no [% chascando la lengua negando] !
+*MOT:	es la caja de las fotos ?
+*MOT:	en donde en la caja ?
+*MOT:	espera [/] espera [/] espera (.) no [/] no las puedes guardar tu porque las rompes .
+*MOT:	abre tu la caja y yo las guardo (.) vale ?
+*MOT:	abre tu la caja y yo las guardo .
+*MOT:	uy !
+*MOT:	donde estaba ?
+*MOT:	marchó ?
+*MOT:	mm [% con tono musical] .
+*MOT:	no [/] no faltaba nadie (.) no viste el buho ?
+*MOT:	a_ver dime que dice el buho ?
+*MOT:	suave [/] suave [/] suave ya viste que el otro día lo rompiste (.) eh ?
+*MOT:	suave (.) que dice el buho ?
+*MOT:	eh [=! sonriendo] (.) que hizo ?
+*MOT:	tengo sueño .
+*MOT:	ay (.) ay (.) ay (.) espera [/] espera que te lo hace mami (.) que lo vas a romper .
+*MOT:	a_ver (.) que dice el buho ?
+*MOT:	y ahora ?
+*MOT:	abrir los ojos (.) desperte !
+*MOT:	y ahora mira (.) que dice ?
+*MOT:	a_ver que mas animalitos hay ?
+*MOT:	la osita (.) que hace la osita ?
+*MOT:	ay (.) suave lo vas a romper !
+*MOT:	oh (.) oh !
+*MOT:	ves [/] ves !
+*MOT:	a_ver (.) enséñame que mas animalinos [: animalitos] hay cariño ?
+*MOT:	a_ver que mas animales hay (.) a_ver ?
+*MOT:	ese ?
+*MOT:	que mueve el mono ?
+*MOT:	las manos (.) si .
+*MOT:	y toca la nariz con las manos (.) si (.) es verdad .
+*MOT:	y toca la nariz .
+*FAT:	<no lo rompas Irene> [>] !
+*MOT:	<ay (.) ay (.) ay (.) que lo rompes> [<] !
+*MOT:	uy (.) uy (.) uy (.) eres un poco bruta (.) eh (.) Pitufa .
+*MOT:	vale [/] vale [/] vale (.) sígueme con otro animal .
+*MOT:	espera que &+pa parecía que lo ibas a romper (.) eh ?
+*MOT:	pon bien las manitas (.) así .
+*MOT:	a_ver (.) otro animal cariño .
+*MOT:	oy (.) se ha acaba(d)o (.) pero a ver que otros animales hay ?
+*MOT:	y eso ?
+*MOT:	y que hace el perro (.) hija ?
+*MOT:	abre la boca (.) a_ver ?
+*MOT:	está un poco duro para ti verdad .
+*MOT:	a_ver .
+*MOT:	<no (.) no abre la boca que hace> [% riendo] ?
+*MOT:	si .
+*MOT:	<que es lo que hace> [>] ?
+*MOT:	abre la luenga [: lengua] [*] ?
+*MOT:	<saca la luenga [: lengua] [*]> [% riendo] .
+*MOT:	a_ver (.) y el conejín que hace ?
+*MOT:	mueve las orejas ?
+*MOT:	a_ver (.) ponlo aquí que te vea mami (.) a_ver .
+*MOT:	tira eso o no ?
+*MOT:	si (.) mueve las orejas !
+*MOT:	no (.) la mano no .
+*MOT:	mm ?
+*MOT:	a_ver que mas hay ?
+*MOT:	bueno el mono ya lo vimos .
+*MOT:	ahí algún otro aquí (.) a_ver .
+*MOT:	eso que es ?
+*MOT:	y que hace el hipopótamo ?
+*MOT:	Meca (.) eso que es ?
+*MOT:	y que hace el gochín ?
+*MOT:	que hace el gochín .
+*MOT:	y el hipopótamo ?
+*MOT:	abre los dientes (.) si .
+*MOT:	a quien come ?
+*MOT:	<oy (.) Dios mío que nos quiere comer a Irene (.) <no puede ser> [/] no puede ser> [% con otro tono de voz] !
+*MOT:	hipopótamo .
+*MOT:	no puedes comer a Irene .
+*MOT:	muy bien (.) defiéndete !
+*MOT:	y <a_ver> [/] a_ver (.) y ahí algún otro aquí ?
+*MOT:	el buho que ya lo vimos y la osita que mueve las piernas .
+*MOT:	dime .
+*MOT:	a_ver que mas .
+*MOT:	y se acabó (.) y aquí hay una letra que conoces tu .
+*MOT:	no: (.) ahí no !
+*MOT:	no: (.) a_ver gordi (.) que letra es esa ?
+*MOT:	ah (.) bueno .
+*MOT:	0 [=! gritando] .
+*MOT:	bueno vamos a ir a preparar la cena y el baño (.) eh (.) vale ?
+*MOT:	no (.) ahora no !
+*MOT:	<<vas a resbalar> [/] vas a resbalar> [<] y te vas a caer !
+*MOT:	que quieres (.) uy !
+*MOT:	la foto de Lucía ?
+*MOT:	para que ?
+*MOT:	no .
+*MOT:	ahora &+tendre +//.
+*MOT:	es que no se cual es la de Lucía .
+*MOT:	esa que está ahí arriba ?
+*MOT:	esta es la foto de Lucía ?
+*MOT:	uy (.) uy (.) uy !
+*MOT:	entonces ?
+*MOT:	mira a_ver (.) a_ver que es eso (.) déjamelo ver (.) que hay ahí ?
+*FAT:	Irene !
+*MOT:	Irene (.) mira lo que te dice papa (.) ven (.) mira ven (.) no se lo que te dice papa .
+*FAT:	coge las fotos y ponte ahí (.) donde estabas (.) en la alfombra .
+*MOT:	donde está la de Lucía (.) no lo se ?
+*MOT:	no se cual es la de Lucía (.) cariño .
+*MOT:	esta es ?
+*MOT:	cual [>] ?
+*MOT:	esto no tiene nada (.) vale .
+*MOT:	cual es la que buscas tu ?
+*MOT:	esta pequeñita de mama ?
+*MOT:	esta &+peque +/.
+*MOT:	sientate en la alfombra donde papa .
+*MOT:	no [/] no donde papi .
+*MOT:	toma .
+*MOT:	<das vueltas como un perrin [: perro]> [% riendo] .
+*MOT:	en la alfombra Irene (.) eso no es la alfombra .
+*MOT:	pero mira para papa .
+*MOT:	0 &=rie .
+*MOT:	así .
+*MOT:	ojo no las saques eh (.) que no las puedes sacar !
+*MOT:	las enseña mami ?
+*MOT:	a_ver (.) quien es esta ?
+*MOT:	mama cuando era pequeñita (.) y esta ?
+*MOT:	Cuqui (.) <y mira aquí> [% con tono de sorpresa] .
+*MOT:	donde está [<] ?
+*MOT:	esa quien es ?
+*MOT:	mira (.) y aquí que hay ?
+*MOT:	es una playa (.) no lo ves ?
+*MOT:	no (.) aquí no está Cuqui .
+*MOT:	quien te parece que es ?
+*MOT:	Pina (.) xxx (.) <si lo sabe tu abuela> [% riendo] (.) no es Tita_Tina !
+*MOT:	no la madre de Lore <aquí no está> [/] (.) aquí no está .
+*MOT:	bueno (.) hala (.) las viste eh !
+*MOT:	mira [/] mira [/] mira (.) puf !
+*MOT:	venga no que nos vamos a bañar .

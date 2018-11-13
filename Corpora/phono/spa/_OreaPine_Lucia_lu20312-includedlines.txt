@@ -1,0 +1,264 @@
+*FAT:	&=q has dibujado en la mesa ?
+*FAT:	&=q un caballo ?
+*FAT:	a ver .
+*FAT:	&=q dónde está el caballo ?
+*FAT:	&=q a ver qué has dibujado ?
+*FAT:	un gallo .
+*FAT:	&=q qué es eso ?
+*FAT:	&=q una gallina ?
+*FAT:	&=q cómo es la gallina ?
+*FAT:	&=q quíquiriquí@o hace la gallina ?
+*FAT:	andá@i .
+*FAT:	&=q y dónde está ?
+*FAT:	&=q está en un parque ?
+*FAT:	&=q con niños ?
+*FAT:	&=q sí ?
+*FAT:	hala@i .
+*FAT:	&=q y a ver cómo coloreas ?
+*FAT:	no [x 2] .
+*FAT:	ya sé que es tuya , Lucía .
+*FAT:	despacito sin salir se .
+*FAT:	&=q &-eh ?
+*FAT:	vale .
+*FAT:	&=q qué hay ?
+*FAT:	&=q una cuchara ?
+*FAT:	&=q qué es esto , Lu ?
+*FAT:	&=q qué es ?
+*FAT:	&=q a ver la gallina dónde está ?
+*FAT:	&=q está aquí la gallina ?
+*FAT:	&=q qué está haciendo la gallina ?
+*FAT:	hala@i .
+*FAT:	&=q qué son estos ?
+*FAT:	&=q cuántos globos hay ?
+*FAT:	&=q muchos ?
+*FAT:	&=q cuántos son muchos , Lu ?
+*FAT:	a ver .
+*FAT:	&=q seis globos hay ?
+*FAT:	&=q y de qué los pintamos ?
+*FAT:	a ver .
+*FAT:	corre .
+*FAT:	coge un color .
+*FAT:	y los vamos pintando .
+*FAT:	&=q quieres ?
+*FAT:	no pinta .
+*FAT:	no pinta el blanco sobre el blanco , Lucía .
+*FAT:	no se ve .
+*FAT:	tienes que coger un color +/.
+*FAT:	a ver qué color puedes coger .
+*FAT:	&=q este ?
+*FAT:	a ver .
+*FAT:	&=q cómo se coge el lápiz ?
+*FAT:	&=q cómo se coge bien , Lucía ?
+*FAT:	a ver .
+*FAT:	no .
+*FAT:	así no .
+*FAT:	no .
+*FAT:	se coge así .
+*FAT:	mira .
+*FAT:	así .
+*MOT:	&=q ese es naranaja orange@s ? [+ COR]
+*FAT:	muy bien .
+*FAT:	a ver cómo se coge así .
+*FAT:	&=q una a@l quieres que te dibuje ?
+*FAT:	a ver .
+*FAT:	&=q cómo quieres la a@l de grande ?
+*FAT:	&=q aquí te la dibujo ?
+*FAT:	y tú la recoloreas &=q &-eh ?
+*FAT:	muy bien .
+*FAT:	&=q una ?
+*FAT:	&=q una U@l ahora ?
+*FAT:	&=q del mismo color ?
+*FAT:	&=q n@l ?
+*FAT:	&=q una I@l ?
+*FAT:	&=q y@l o I@l ?
+*MOT:	0 .
+*FAT:	mira .
+*FAT:	&=q cómo quieres la I@l ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q una I@l ?
+*FAT:	aquí en el globo .
+*FAT:	&=q vale ?
+*MOT:	anda .
+*MOT:	es verdad .
+*FAT:	ahora la va a colorear Lucía .
+*MOT:	tú [x 2] .
+*MOT:	tú solita .
+*MOT:	&=q quién ha hecho esto ?
+*MOT:	muy mal .
+*MOT:	muy bien .
+*FAT:	uy@i .
+*FAT:	no se la ha tomado toda .
+*MOT:	toda no se la toma Lucía .
+*FAT:	no .
+*FAT:	ahora tienes que colorear tú la U@l y después yo te dibujo otra .
+*FAT:	primero hay que colorear la , Lucía .
+*FAT:	&=q dónde está la a@l ?
+*FAT:	&=q es esa ?
+*FAT:	pues venga .
+*FAT:	coloréa la de rojo red@s .
+*FAT:	&=q no ?
+*FAT:	&=q este no ?
+*FAT:	mira .
+*FAT:	aquí tienes uno [//] un rojo que sí te pinta ?
+*FAT:	sí .
+*MOT:	no se pinta en la mesa .
+*FAT:	Lucía , no .
+*FAT:	no se pinta en la mesa , mi+amor .
+*MOT:	mira .
+*MOT:	con este .
+*MOT:	tienes que pintar lo en ese lado .
+*MOT:	ahí .
+*MOT:	muy bien .
+*MOT:	no [x 2] .
+*MOT:	en la mesa no .
+*MOT:	Lucía .
+*MOT:	&=e la mesa no se pinta !
+*MOT:	hombre .
+*MOT:	se pinta aquí .
+*MOT:	muy mal , Lucía .
+*MOT:	muy mal .
+*MOT:	oh [x 2] .
+*FAT:	&=q qué pasa , Lucía ?
+*FAT:	&=q quieres que vaya contigo ?
+*FAT:	te estaba cogiendo un regalito .
+*FAT:	xxx .
+*FAT:	&=q vale ?
+*MOT:	0 .
+*FAT:	corre .
+*FAT:	vamos todos allí y lo abrimos todos juntos .
+*FAT:	&=q vale ?
+*FAT:	corre .
+*FAT:	vamos a abrir lo con Mamá .
+*FAT:	vamos , Lu .
+*FAT:	venga .
+*FAT:	son colores .
+*FAT:	corre .
+*FAT:	ve te a tu sitio (.) y lo abrimos los colores .
+*FAT:	&=q vale ?
+*FAT:	venga .
+*FAT:	siénta te .
+*FAT:	vamos a sentar nos , Lu .
+*FAT:	venga .
+*FAT:	a ver: .
+*FAT:	uy@i .
+*FAT:	&=q qué es esto ?
+*FAT:	&=q lo abro ?
+*FAT:	a ver: .
+*FAT:	toma .
+*FAT:	sáca lo tú (.) de la bolsa .
+*FAT:	vamos a llevar nos el vaso porque ya no hay leche .
+*FAT:	&=q quién se ha bebido la leche ?
+*FAT:	&=q tú qué has hecho ?
+*FAT:	&=q &-eh ?
+*FAT:	sí .
+*FAT:	lo estás haciendo muy bien , Lu .
+*FAT:	venga .
+*FAT:	mira .
+*FAT:	por aquí .
+*FAT:	&=q qué hay ahí , Lucía ?
+*FAT:	&=q qué hay en esa bolsa ?
+*FAT:	no .
+*FAT:	mira .
+*FAT:	&=q qué es eso ?
+*FAT:	&=q cómo se pide ?
+*FAT:	sí .
+*FAT:	mira .
+*FAT:	coge ese [x 2] cuaderno .
+*FAT:	a ver qué es , Lu .
+*FAT:	corre [x 2] .
+*FAT:	saca el cuaderno .
+*FAT:	porque vamos a colorear el cuadernito .
+*FAT:	muy bien .
+*FAT:	a ver .
+*FAT:	&=q qué es eso , Lucía ?
+*FAT:	venga .
+*FAT:	pues sáca lo y lo vemos todos .
+*FAT:	a ver .
+*FAT:	toma , Lucía .
+*FAT:	vamos a guardar el puzle .
+*FAT:	&=q guardamos el puzle ?
+*FAT:	vale .
+*FAT:	&=q cómo [//] qué tal pinta ?
+*FAT:	&=q pinta bien ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué es eso , Lucía ?
+*FAT:	no .
+*FAT:	&=q dónde está el cuaderno que nos han regalado ?
+*FAT:	&=q dónde está ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q dónde está el cuaderno ?
+*FAT:	y pintamos sobre el cuaderno nuevo .
+*FAT:	&=q &-eh , Lucía ?
+*FAT:	&=q dónde está el cuaderno ?
+*FAT:	&=q dónde está el cuaderno nuevo , Lucía ?
+*FAT:	mira .
+*FAT:	está ahí .
+*FAT:	pása melo .
+*FAT:	ese .
+*FAT:	a ver .
+*FAT:	hala@i .
+*FAT:	mira .
+*FAT:	esto es para dibujar (.) la familia .
+*FAT:	a ver .
+*FAT:	vamos haciendo lo que nos dice el libro .
+*FAT:	mira .
+*FAT:	aquí tenemos que dibujar a ver una familia .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	&=q a quién dibujo primero ?
+*FAT:	&=q a quién dibujo ?
+*FAT:	dibujo a mamá: .
+*FAT:	&=q le hacemos el pelo a Mamá ?
+*FAT:	&=q dibujo a Papá ?
+*FAT:	0 .
+*FAT:	&=q dibujo a quién ahora ?
+*FAT:	&=q &-eh , Lucía ?
+*FAT:	&=q a quién dibujamos ahora ?
+*FAT:	&=q a Lulú ?
+*FAT:	&=q este ?
+*FAT:	corre .
+*FAT:	ahora lo tienes que colorear tú , Lucía .
+*FAT:	venga .
+*FAT:	tú .
+*FAT:	&=q no quieres dibujar lo tú ?
+*FAT:	&=q y [x 2] qué dibujo ?
+*FAT:	&=q un sol ?
+*FAT:	&=q una luna también ?
+*FAT:	&=q y qué dibujo ?
+*FAT:	no .
+*FAT:	ya lo he hecho .
+*FAT:	&=q ahora el qué , Lucía ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q ahora qué ?
+*FAT:	&=q qué dibujo ahora , Lucía ?
+*FAT:	ya la he dibujado .
+*FAT:	&=q los estás colocando ?
+*FAT:	&=q los lápices ?
+*FAT:	hala@i .
+*FAT:	qué bien colocados .
+*FAT:	&=q verdad Lucía ?
+*FAT:	&=q no cabe ?
+*FAT:	a ver .
+*FAT:	&=q pinto un sol ?
+*FAT:	un sol morado .
+*FAT:	&=q el qué ?
+*FAT:	&=q el qué ?
+*FAT:	&=q el qué , Lucía ?
+*FAT:	&=q otro sol ?
+*FAT:	ya .
+*FAT:	&=q qué hago con este ?
+*FAT:	Lucía .
+*FAT:	&=q qué más hago ahora ?
+*FAT:	&=q qué ?
+*FAT:	&=q esto qué ?
+*FAT:	&=q y qué hago con esto ?
+*FAT:	no .
+*FAT:	ya he pintado dos soles .
+*FAT:	&=q el qué quieres que pinte ?
+*FAT:	&=q el qué ?
+*FAT:	&=q qué quieres que pinte acá ?
+*FAT:	&=q me traes un café+con+leche , Lucía ?
+*FAT:	&=q un plato ?
+*FAT:	oye .
+*FAT:	&=q me traes por+favor un café+con+leche ?
+*FAT:	sí .

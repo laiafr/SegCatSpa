@@ -1,0 +1,508 @@
+*MOT:	&=q a quién dices hola , Juan ?
+*MOT:	&=q a Javier le dices hola ?
+*MOT:	di le qué estás haciendo .
+*MOT:	&=q desayunando ?
+*MOT:	&=q ahora se desayuna ?
+*MOT:	&=q o se merienda ?
+*MOT:	ahora se merienda .
+*MOT:	y di le qué es eso que tienes en la mano .
+*MOT:	&=q qué es eso que tienes ahí en la mano ?
+*MOT:	&=q no ?
+*MOT:	oye .
+*MOT:	dí le dónde está Papá .
+*MOT:	di le a Javier dónde está Papá .
+*MOT:	toma , cariño .
+*MOT:	en una isla . [+ COR]
+*MOT:	&=q cómo ?
+*MOT:	hay una isla , &=q verdad ? [+ ADS]
+*MOT:	&=q y dónde la hemos visto (.) la isla ?
+*MOT:	&=q en el cuento ? [+ ADS]
+*MOT:	&=q en el cuento grande ese ?
+*MOT:	&=q pero cómo se llama ese libro ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q cómo se llama ese libro ?
+*MOT:	a ver .
+*MOT:	&=q cómo se llama ese libro que tiene la isla ?
+*MOT:	a ver .
+*MOT:	que voy a coger una silla .
+*MOT:	sí .
+*MOT:	ahí está Papá .
+*MOT:	a ver .
+*MOT:	&=q ya te has echado eso por toda la cara ?
+*MOT:	&=q cómo se llama esa isla ?
+*MOT:	&=q cómo se llama ?
+*MOT:	Las_Palmas .
+*MOT:	&=q a que sí ?
+*MOT:	&=q y vamos a ir nosotros ?
+*MOT:	&=q vamos a ir nosotros ?
+*MOT:	&=q &-eh ?
+*MOT:	pero &=q y un poquito de manzana qué te parece ?
+*MOT:	mm@i .
+*MOT:	&=e qué rica !
+*MOT:	a que está buena .
+*MOT:	uf@i .
+*MOT:	si hay manzana a lo mejor hay sorpresa .
+*MOT:	&=q cómo ?
+*MOT:	ah .
+*MOT:	una sorpresa naranja y blanca .
+*MOT:	Javier no sabe qué es la sorpresa .
+*MOT:	&=q se lo vas a decir o [/] o le vas a tener en suspense hasta el final ?
+*MOT:	&=q en suspense va a estar ?
+*MOT:	&=q va a estar esperando hasta el final ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q se lo vas a decir luego cuando te la dé Mamá ?
+*MOT:	pero para eso tendrás que comer te toda la manzana .
+*MOT:	muy bien .
+*MOT:	y todo el yogur . [+ ADS]
+*MOT:	muy bien .
+*MOT:	hay que comer se también el yogur .
+*MOT:	&=q qué ?
+*MOT:	Juan .
+*MOT:	que eso no se echa por la cara .
+*MOT:	sólo se echa en los labios .
+*MOT:	en los labios .
+*MOT:	&=q dónde están los labios de Juan ?
+*MOT:	&=q dónde están los labios de Juan ?
+*MOT:	los labios son estos de aquí .
+*MOT:	ahí se echa .
+*MOT:	ahí .
+*MOT:	muy bien .
+*MOT:	hala@i .
+*MOT:	ya está .
+*MOT:	ahora déja selo a Mamá .
+*MOT:	que se lo vas a gastar .
+*MOT:	déja selo aquí a Mamá .
+*MOT:	eso sólo se echa una vez y luego ya no se echa más .
+*MOT:	&=q te gusta cómo sabe ?
+*MOT:	no sé dónde me has echado la tapadera .
+*MOT:	&=q &-eh ?
+*MOT:	&=q te gusta cómo sabe ?
+*MOT:	pero ya está .
+*MOT:	y por la cara no .
+*MOT:	es por los labios .
+*MOT:	ahí .
+*MOT:	en los labios .
+*MOT:	&=q qué quieres ?
+*MOT:	de ahí no se puede coger nada porque sabes que todo se rompe (.) si se coge .
+*MOT:	&=q a ver ?
+*MOT:	di me .
+*MOT:	&=q qué ?
+*MOT:	&=q cómo ?
+*MOT:	&=q dónde está Mamá ?
+*MOT:	ah .
+*MOT:	ahí hay un cuadro en el que está Mamá .
+*MOT:	< y ahí hay otro > [/] .
+*MOT:	y ahí otro en el que está Papá .
+*MOT:	&=q y qué hace Papá ?
+*MOT:	&=q qué está haciendo ?
+*MOT:	&=q está [//] pero está haciendo cuentos ?
+*MOT:	&=q qué está haciendo ?
+*MOT:	&=q está en una isla ?
+*MOT:	ahí no estaba en una isla .
+*MOT:	ahí estaba aquí .
+*MOT:	< en el > [/] en el castillo que vemos en Guadalajara .
+*MOT:	mira .
+*MOT:	&=q ves ?
+*MOT:	ahí en ese castillo estaba Papá trabajando .
+*MOT:	y ahora está en una isla trabajando .
+*MOT:	en la cara no se echa .
+*MOT:	que luego < te queda > [/] te repega .
+*MOT:	sí .
+*MOT:	pero el labio después de comer .
+*MOT:	si ahora estás comiendo es una tontería que te eches porque se te quita .
+*MOT:	bueno .
+*MOT:	entonces .
+*MOT:	vamos a ir nosotros a ir a ver a Papá .
+*MOT:	&=q y dónde vamos a montar para ir a ver a Papá ?
+*MOT:	en un avión . [+ ADS]
+*MOT:	&=q &-eh ?
+*MOT:	en un avión +//.
+*MOT:	&=q en un avión chiquitito y en un helicóptero ? [+ ADS]
+*MOT:	&=q sí ?
+*MOT:	&=q y hasta dónde vamos ?
+*MOT:	&=q al campo ? [+ ADS]
+*MOT:	vamos a ver el campo por abajo chiquitito [x 2] .
+*MOT:	y vamos a ver el mar abajo chiquitito [x 2] .
+*MOT:	y vamos a ver las nubes < muy cerca > [/] muy cerca .
+*MOT:	&=q vale ?
+*MOT:	lo has abierto , sí . [+ COR]
+*MOT:	uh@i .
+*MOT:	&=q a ver ?
+*MOT:	uy@i .
+*MOT:	cachis .
+*MOT:	que lo tiras .
+*MOT:	a ver .
+*MOT:	< deja ese > [/] deja ese que se ha caído al suelo .
+*MOT:	déjalo .
+*MOT:	&=q te lo vas a comer ?
+*MOT:	&=q sí ?
+*MOT:	vale .
+*MOT:	oye , Juan .
+*MOT:	&=q qué has hecho hoy en la guarde ?
+*MOT:	&=q has hecho caca ?
+*MOT:	muy bien .
+*MOT:	&=q y qué más ?
+*MOT:	&=q qué te han enseñado ?
+*MOT:	&=q habéis visto cosas grandes y pequeñas ?
+*MOT:	&=q sí , verdad ?
+*MOT:	&=q y has cantado una canción ?
+*MOT:	< a ver > [/] a ver .
+*MOT:	cánta me alguna de las que hayas cantado .
+*MOT:	&=q el enanito salta ?
+*MOT:	esa yo no me la sé .
+*MOT:	me la tienes que enseñar .
+*MOT:	pero no sé cuál es .
+*MOT:	la del enanito que salta .
+*MOT:	&=q pero cómo se canta ?
+*MOT:	a ver .
+*MOT:	cánta la .
+*MOT:	&=q cómo ?
+*MOT:	sigue .
+*MOT:	&=q qué más ?
+*MOT:	ah .
+*MOT:	esa es otra .
+*MOT:	venga .
+*MOT:	cánta la .
+*MOT:	termína la .
+*MOT:	caracol < col@x col@x > [/] .
+*MOT:	&=q cómo ?
+*MOT:	&=q Papá también canta ?
+*MOT:	la cara no . [+ ADS]
+*MOT:	sólo los labios .
+*MOT:	a ver .
+*MOT:	pero espérate a terminar de comer .
+*MOT:	me lo vas a gastar &=q &-eh ?
+*MOT:	&=e uh@i !
+*MOT:	&=q qué has hecho ?
+*MOT:	pero Juan_de_las_Calzas .
+*MOT:	&=q y dónde se ha ido ?
+*MOT:	aquí .
+*MOT:	está rica &=q &-eh ?
+*MOT:	&=q a que sí ?
+*MOT:	&=q cómo ?
+*MOT:	&=q es zanahoria ? [+ ADS]
+*MOT:	sí .
+*MOT:	suena como la zanahoria .
+*MOT:	&=q a que sí ?
+*MOT:	&=q pero qué te gusta más ?
+*MOT:	&=q la zanahoria o la manzana ?
+*MOT:	&=q te gusta más la zanahoria ?
+*MOT:	&=q y de qué color es la zanahoria ?
+*MOT:	&=q es naranja ?
+*MOT:	&=q y la manzana ?
+*MOT:	&=q amarilla ? [+ ADS]
+*MOT:	&=q y qué color te gusta más ?
+*MOT:	&=q el naranja o el amarillo ?
+*MOT:	&=q el naranja ?
+*MOT:	&=q por qué ?
+*MOT:	a ver .
+*MOT:	&=q qué más cosas hay naranjas ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q hay un pez naranja ?
+*MOT:	&=q se llama +..? [+ ADS]
+*MOT:	&=q Carolina ?
+*MOT:	&=q quién es Carolina ?
+*MOT:	&=q la niña de su mamá ? [+ COR]
+*MOT:	&=q y qué hace esa niña ?
+*MOT:	&=q es de tu guarde ?
+*MOT:	&=q sí ?
+*MOT:	&=q hay en tu guarde una niña que se llama Carolina ?
+*MOT:	&=q &-eh ?
+*MOT:	Juan .
+*MOT:	&=q no ?
+*MOT:	&=q y entonces ?
+*MOT:	a ver .
+*MOT:	&=q qué me contabas de Carolina (.) que no lo he entendido ?
+*MOT:	en la cara no , Juan . [+ COR]
+*MOT:	&=q ese chiquitito ?
+*MOT:	vale .
+*MOT:	es verdad .
+*MOT:	parece una oveja . [+ ADS]
+*MOT:	&=q una oveja no ? [+ ADS]
+*MOT:	&=q una oveja o una abeja ?
+*MOT:	&=q una oveja de las que dicen be@o ?
+*MOT:	&=q de esas ?
+*MOT:	&=q esas ?
+*MOT:	&=q o de las que hacen bs@o ?
+*MOT:	&=q cuáles ?
+*MOT:	esa [/] esa es la abeja .
+*MOT:	que es chiquitita [x 2] y vuela .
+*MOT:	y hace bs@o .
+*MOT:	y luego hay otras que son las ovejas que son las que tienen lanita .
+*MOT:	y son más grandes .
+*MOT:	las del pastor Raúl .
+*MOT:	&=q te acuerdas del cuento del pastor Raúl ?
+*MOT:	&=q qué le pasa al pastor Raúl ?
+*MOT:	&=q tiene mucho sueño y se queda dormido ?
+*MOT:	&=q y qué pasa ?
+*MOT:	&=q qué hacen las ovejas ?
+*MOT:	hacen be@o .
+*MOT:	&=q y qué le hacen ?
+*MOT:	le hacen cosquillitas a Raúl .
+*MOT:	< porque está > [//] Raúl es [/] es pastor (.) y se queda dormido en la hierba .
+*MOT:	&=q a que sí ?
+*MOT:	y entonces las ovejas se acercan y le hacen cosquillitas .
+*MOT:	a que sí .
+*MOT:	&=q y luego Raúl qué hace ?
+*MOT:	&=q se levanta y se va adónde ?
+*MOT:	se va a la calle .
+*MOT:	&=q y se lleva a las ovejas ?
+*MOT:	no [x 3] .
+*MOT:	no se lleva a las ovejas .
+*MOT:	&=q cómo ?
+*MOT:	come hierba .
+*MOT:	&=q quién come hierba ?
+*MOT:	&=q el pastor Raúl o las ovejas ?
+*MOT:	&=q las ovejas comen hierba ?
+*MOT:	&=q quieres hierba ?
+*MOT:	&=q tú vas a comer también hierba ?
+*MOT:	&=q tú comes hierba , Juan ?
+*MOT:	no [x 4] &=q &-eh ?
+*MOT:	&=q tú comes hierba ?
+*MOT:	&=q qué [x 2] comes tú ?
+*MOT:	a ver .
+*MOT:	&=q qué cosas comes ?
+*MOT:	uy@i .
+*MOT:	&=q qué cosas comes , Juan ?
+*MOT:	&=q no me lo dices ?
+*MOT:	&=q &-eh ?
+*MOT:	a ver .
+*MOT:	di me qué cosas comes .
+*MOT:	&=q comes pera ?
+*MOT:	&=q quieres pera ?
+*MOT:	< &=q te parto un cachito > [//] ahora cuando te termines esta manzana te parto un cachito de pera .
+*MOT:	&=q vale ?
+*MOT:	&=q sí ?
+*MOT:	&=q te apetece ?
+*MOT:	&=q &-eh ?
+*MOT:	a ver < eso ese > [//] esa boquita .
+*MOT:	a ver .
+*MOT:	abre la bocota .
+*MOT:	&-eh .
+*MOT:	&=q qué hace Juan ?
+*MOT:	hala@i qué bocado .
+*MOT:	di me , Juan .
+*MOT:	&=q qué pica ?
+*MOT:	&=q pica la abeja ?
+*MOT:	venga .
+*MOT:	que ya estamos terminando .
+*MOT:	y ahora voy a por un poquito < de pu@x > [//] de pera .
+*MOT:	&=q vale ?
+*MOT:	Juan .
+*MOT:	no hagas guarrerías , por+favor .
+*MOT:	pero qué bobarato@f eres .
+*MOT:	&=q un barco velero ?
+*MOT:	< mira la vela > [/] mira la vela .
+*MOT:	la vela aquí está .
+*MOT:	la vela .
+*MOT:	hala@i .
+*MOT:	uy@i .
+*MOT:	así parece un dinosaurio .
+*MOT:	&=q a que parece un dinosaurio ?
+*MOT:	&=q y así qué parece ?
+*MOT:	una montaña .
+*MOT:	así parece una montaña .
+*MOT:	chan@o .
+*MOT:	una montañota .
+*MOT:	a ver .
+*MOT:	ahora < cuando termines > [/] cuando termines de comer te [/] te das otra vez .
+*MOT:	pero por+favor no te des a cada minuto .
+*MOT:	una montaña es esto .
+*MOT:	mira .
+*MOT:	una montaña .
+*MOT:	nos vamos a comer la montaña ahora mismo .
+*MOT:	&=q vale ?
+*MOT:	oh .
+*MOT:	que nos comemos la montaña .
+*MOT:	voy a por pera .
+*MOT:	uh@i .
+*MOT:	mm@i .
+*MOT:	qué buena .
+*MOT:	venga va .
+*MOT:	espera [x 2] .
+*MOT:	hala@i qué rica .
+*MOT:	está buenísima .
+*MOT:	pruéba la .
+*MOT:	me has dicho que querías pera &=q no ?
+*MOT:	claro .
+*MOT:	se te ha caído un trozo &=q no ?
+*MOT:	sí .
+*MOT:	&=q qué haces ?
+*MOT:	&=q qué haces , amiguito ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q cómo ?
+*MOT:	&=q estás tirando la pera ?
+*MOT:	no puede ser .
+*MOT:	no estás tirando la pera &=q no ?
+*MOT:	&=q a que está rica la pera ?
+*MOT:	mm@i .
+*MOT:	la he subido .
+*MOT:	mira qué sol hay .
+*MOT:	sí .
+*MOT:	&=q no hace sol ahora ?
+*MOT:	&=q tú crees que no ?
+*MOT:	pues yo veo que sigue el sol allí .
+*MOT:	hombre .
+*MOT:	está medio metidito detrás de una nube .
+*MOT:	pero ahí está el sol .
+*MOT:	mira lo .
+*MOT:	&=q no lo ves tú ?
+*MOT:	&=q no está ?
+*MOT:	pero Juan .
+*MOT:	&=q por dónde miras ?
+*MOT:	a ver .
+*MOT:	&=q miras por el cielo ?
+*MOT:	sí .
+*MOT:	mira .
+*MOT:	allí donde hay nubes está el sol .
+*MOT:	&=q lo ves ?
+*MOT:	oh .
+*MOT:	&=q quién me ha mordido ?
+*MOT:	&=q quién me ha mordido ?
+*MOT:	&=q tú ?
+*MOT:	tú eres un cacharrito pequeño .
+*MOT:	&=q qué pasa ?
+*MOT:	&=q qué ha pasado ?
+*MOT:	a ver .
+*MOT:	&=q qué ha pasado ?
+*MOT:	&=q qué ha pasado ahí ?
+*MOT:	un poquito .
+*MOT:	uh@i .
+*MOT:	que me vuelves a morder otra vez .
+*MOT:	pero qué pasa contigo , cacharrillo pequeño .
+*MOT:	ah .
+*MOT:	me he librado por los pelos &=q &-eh ?
+*MOT:	Juan .
+*MOT:	&=q cómo se llaman los señores de la tele ? [+ COR]
+*MOT:	&=q cómo se llaman ?
+*MOT:	&=q Más_y_Más@f ?
+*MOT:	&=q quiénes son esos ?
+*MOT:	que yo esos no los conozco .
+*MOT:	&=q que los ves en la guarde ?
+*MOT:	&=q no ?
+*MOT:	a ver .
+*MOT:	da me más pistas .
+*MOT:	que no sé cuáles son .
+*MOT:	&=q quiénes son los señores de la tele ?
+*MOT:	&=q Más_y_más@f ?
+*MOT:	&=q pero quiénes son esos ?
+*MOT:	&=q en qué tele has visto tú a Más_y_Más@f ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q dónde ?
+*MOT:	&=q en el cuadro ?
+*MOT:	&=q allí están Más_y_más@f ?
+*MOT:	allí yo veo elefantes .
+*MOT:	&=q &-eh ?
+*MOT:	&=q en aquel cuadro tú qué ves ?
+*MOT:	&=q señoras y señores ? [+ ADS]
+*MOT:	estamos mirando distinto cuadro &=q &-eh ?
+*MOT:	&=q allí es de noche ?
+*MOT:	sí .
+*MOT:	está oscureciendo .
+*MOT:	puede ser una puesta de sol o una salida de sol .
+*MOT:	no lo sabemos exactamente .
+*MOT:	&=q te da mucho sol ?
+*MOT:	ah .
+*MOT:	&=q y te deslumbra los ojos ?
+*MOT:	< a ver > [/] a ver que te vea .
+*MOT:	venga , Juan .
+*MOT:	Juan , cariño .
+*MOT:	oye .
+*MOT:	ahí no se ponen &=q &-eh ?
+*MOT:	ahí no se pinta sobre [/] sobre la mesa .
+*MOT:	que se estropea así .
+*MOT:	Juan , por+favor .
+*MOT:	no hagas guarrerías .
+*MOT:	no .
+*MOT:	vale .
+*MOT:	&=e vale , Juan !
+*MOT:	venga va .
+*MOT:	&=q qué haces ?
+*MOT:	&=q pintas una señora y un señor ?
+*MOT:	&=q y una habitación ?
+*MOT:	&=q y qué más pintas ?
+*MOT:	a ver .
+*MOT:	&=q y una moto también ?
+*MOT:	&=q de quién es esa moto ?
+*MOT:	&=q de Joan es ?
+*MOT:	o+sea que también pintas a Joan .
+*MOT:	&=q dónde vamos a ir ahora , Juan ?
+*MOT:	&=q qué has hecho ?
+*MOT:	ay@i , no .
+*MOT:	< que así est@x > [//] que así se estropea , Juan .
+*MOT:	vale .
+*MOT:	ya está .
+*MOT:	así se estropea todo .
+*MOT:	así < no te lo > [/] no te lo puedo dar para eso &=q &-eh ?
+*MOT:	&=q qué has hecho ?
+*MOT:	mira cómo nos hemos quedado toda la silla .
+*MOT:	todo pringado .
+*MOT:	y tú < te estás > [//] debes estar quedándo te bueno .
+*MOT:	de sucio .
+*MOT:	&=e ah !
+*MOT:	pero Juan .
+*MOT:	venga , cacharrito .
+*MOT:	&=q no qué ?
+*MOT:	&=q no quieres más ?
+*MOT:	venga .
+*MOT:	Mamá se come un trozo y tú otro .
+*MOT:	termína te este .
+*MOT:	&=q vale ?
+*MOT:	el último .
+*MOT:	el último .
+*MOT:	&=q vas a querer sorpresa ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q no quieres sorpresa ?
+*MOT:	ah , vale .
+*MOT:	pues entonces ya [x 2] &=q me llevo el plato ?
+*MOT:	no hay sorpresa &=q &-eh ?
+*MOT:	si te comes este sí .
+*MOT:	&=q no quieres ?
+*MOT:	este sólo .
+*MOT:	&=q no quieres sorpresa ?
+*MOT:	vale .
+*MOT:	&=q qué pasa ?
+*MOT:	&=q quieres sorpresa ?
+*MOT:	&=q pues te doy el trocito de pera que has dejado ?
+*MOT:	&=q vale ?
+*MOT:	toma .
+*MOT:	venga .
+*MOT:	cóme lo con un yogur .
+*MOT:	&=q vale ?
+*MOT:	sí , ahora .
+*MOT:	cuando terminemos el yogur y la pera .
+*MOT:	&=q vale ?
+*MOT:	hay que comer se esa [/] esa pera y el yogur .
+*MOT:	&=q vale ?
+*MOT:	&=e sin hacer guarrerías , Juan !
+*MOT:	&=q quieres la pera ?
+*MOT:	si quieres sorpresa tienes que comer te la pera .
+*MOT:	&=q y el yogur ?
+*MOT:	&=q qué pasa con él ?
+*MOT:	venga .
+*MOT:	vamos a comer la con el yogur .
+*MOT:	&=q vale ?
+*MOT:	abre la boca .
+*MOT:	&=e &-eh [x 5] !
+*MOT:	no hagas guarrerías , hombre .
+*MOT:	&=e vale , Juan !
+*MOT:	&=e Juan !
+*MOT:	&=e vale ya !
+*MOT:	&=e vale ya !
+*MOT:	no me hace gracia .
+*MOT:	sabes que no me hace gracia .
+*MOT:	&=q quién es malo ?
+*MOT:	toma .
+*MOT:	abre la boca .
+*MOT:	Juan .
+*MOT:	ya vale .
+*MOT:	ya vale &=q &-eh ?
+*MOT:	&=e ya vale , Juan !
+*MOT:	&=e oye !
+*MOT:	&=e que te quedas sin sorpresa !
+*MOT:	&=q &-eh ?
+*MOT:	que no .
+*MOT:	que no me puedes tirar del jersei .
+*MOT:	bueno .
+*MOT:	&=q vas a querer comer o qué ?
+*MOT:	0 .

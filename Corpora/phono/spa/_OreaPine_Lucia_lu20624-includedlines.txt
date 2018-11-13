@@ -1,0 +1,494 @@
+*MOT:	floor . [+ COR]
+*MOT:	suelo floor . [+ COR]
+*MOT:	puerta door .
+*MOT:	ventana window y puerta door [: floor] .
+*MOT:	casa house .
+*MOT:	y suelo floor@s .
+*MOT:	floor@s .
+*MOT:	xxx .
+*MOT:	no sé si cabe .
+*MOT:	anda .
+*MOT:	si no tengo leche .
+*MOT:	no sé si cabe Micky .
+*FAT:	no , Lucía .
+*FAT:	no .
+*FAT:	no .
+*FAT:	que se estropea la mesa , mi+amor .
+*MOT:	es+que además mira cómo está por ahí , &=q eh ?
+*FAT:	quepo , Lucía . [+ COR]
+*FAT:	aquí quepo yo . [+ COR]
+*FAT:	cabe Micky y quepo yo . [+ COR]
+*MOT:	y toma [x 3] .
+*MOT:	y dame [x 3] .
+*MOT:	ayer estaba [//] estuve leyendo el articulillo este de los de Marks_and_Spencer .
+*FAT:	ah .
+*FAT:	&=q y qué ?
+*MOT:	la gente (.) que se queda más tirada que tirada .
+*FAT:	si , &=q no ?
+*MOT:	luego los empleados entre [//] muchos de ellos entre cincuenta o cuarentas cincuentas estaban antes en < lo que > [//] lo que había ahí antes de Marks_and_Spencer .
+*FAT:	&=q que era ?
+*FAT:	otros grandes establecimientos de estos &=q no ?
+*MOT:	sí .
+*MOT:	era Celso_García .
+*FAT:	eso es .
+*MOT:	entonces son gente ya que llevan en la profesión treinta años . [+ ADD]
+*FAT:	claro .
+*MOT:	y con cincuenta pues no es fácil recolocar se .
+*MOT:	y que no les habian avisado ni nada .
+*FAT:	&=q que se enteraron por la prensa entonces ?
+*MOT:	sí .
+*MOT:	por el periódico .
+*FAT:	&=q yo ahí ?
+*FAT:	&=q por qué si estoy muy bien aquí donde estoy ?
+*FAT:	toma .
+*FAT:	yo sí tengo cuchara .
+*FAT:	son iguales .
+*FAT:	parece que no tiene fiebre &=q eh ?
+*MOT:	pues es verdad .
+*MOT:	y moquitos de momento tampoco .
+*FAT:	Lucía .
+*FAT:	mira .
+*FAT:	pues hay que acabar lo , &=q verdad ?
+*FAT:	&=q quién va a venir hoy ?
+*MOT:	qué faena para la boda .
+*MOT:	hace la combinación horrible para una boda .
+*FAT:	viento y lluvia .
+*MOT:	sobre todo el viento es horrible .
+*MOT:	www .
+*MOT:	lo malo es que tenga un traje muy de verano .
+*MOT:	&=q en qué iglesia es ?
+*MOT:	no lo sabemos &=q no ?
+*FAT:	&=q estamos invitados a la iglesia ?
+*MOT:	sí , hombre .
+*MOT:	lo que hay duda es al revés .
+*MOT:	pero eso nunca pasa .
+*FAT:	&=q ah sí ?
+*MOT:	www .
+*MOT:	www .
+*FAT:	&=q dónde está la silla ?
+*FAT:	anda .
+*FAT:	es verdad .
+*FAT:	&=q ha soplado el viento y se ha caído la silla ?
+*FAT:	después la ponemos bien .
+*FAT:	&=q vale ?
+*MOT:	sí .
+*MOT:	porque queda muy cutre , &=q verdad ?
+*MOT:	a que está muy fea así caída , Lucía .
+*MOT:	&=q se ha manchado ?
+*MOT:	&=q lo has manchado tú ? [+ COR]
+*MOT:	vaya .
+*MOT:	&=q la mesa de la cocina qué es ?
+*MOT:	&=q del tamaño de esta también ?
+*FAT:	uhum@i exacta .
+*MOT:	&=q igual ?
+*FAT:	pero yo prefiero poner ahí la de fuera .
+*FAT:	que desmontar la cocina .
+*FAT:	no [x 3] .
+*FAT:	< no quiero > [//] no quiero .
+*MOT:	sí pero lo malo es+que pesa muchísimo la de afuera .
+*MOT:	mejor .
+*MOT:	porque así nos vale el mantel de trazos amarillos .
+*FAT:	www .
+*FAT:	no , Lucía .
+*FAT:	no .
+*FAT:	&=q no has comido nada ?
+*FAT:	no ha comido hoy nada .
+*MOT:	&=q no ha desayunado antes ?
+*FAT:	no .
+*MOT:	&=q no has desayunado antes , Lucía ?
+*FAT:	&=q no quieres más ?
+*FAT:	&=q te lo doy yo un poquito ?
+*FAT:	0 .
+*FAT:	&=q y tú qué ?
+*MOT:	&=q te vas a bajar ?
+*MOT:	sí .
+*MOT:	oy@i , pequeñina .
+*FAT:	&=q que va adónde ?
+*FAT:	al caballo gris que va a París .
+*FAT:	< al paso al paso > [//] al paso .
+*FAT:	< al trote al trote > [//] al trote .
+*FAT:	< al galope al galope > [//] al galope .
+*FAT:	no .
+*MOT:	con eso ya +...
+*FAT:	vale .
+*FAT:	caballito gris que vas a París .
+*FAT:	< al paso al paso > [//] al paso .
+*FAT:	< al trote al trote > [//] al trote .
+*MOT:	hay que hacer el galope muy alto .
+*FAT:	< al galope al galope > [//] al galope .
+*FAT:	no [x 6] .
+*FAT:	la última era la otra , pequeñaja .
+*FAT:	que eres un poco carota .
+*FAT:	no .
+*FAT:	no .
+*FAT:	&=q quién ?
+*FAT:	yo no soy carota .
+*FAT:	tú sí que eres carota .
+*FAT:	porque me has dicho la última antes .
+*FAT:	no .
+*FAT:	y lo sabes .
+*FAT:	a ver .
+*FAT:	&=q < quién viene hoy > [//] quién viene hoy ?
+*FAT:	a ver .
+*FAT:	&=q Rosa y Fernando ?
+*FAT:	&=q y quién más ?
+*FAT:	&=q Claudia va a venir también ?
+*FAT:	&=q con quién ?
+*FAT:	&=q y con quién más ?
+*FAT:	&=q qué Marta ?
+*FAT:	muy bien .
+*FAT:	&=q y Javier ?
+*FAT:	&=q y Paula ?
+*FAT:	&=q y María ?
+*FAT:	&=q todos van a venir ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q María también va a venir ?
+*FAT:	&=q y a qué vamos a jugar ?
+*FAT:	&=q &-eh , Lucía ?
+*FAT:	&=q vamos a jugar a algo con ellos ?
+*FAT:	&=q a qué vamos a jugar ?
+*FAT:	&=q a [x 3] hacer un cumpleaños ? [+ COR]
+*FAT:	&=q de quién ?
+*FAT:	&=q el cumpleaños de Rosa ?
+*FAT:	&=q qué le vas a regalar ?
+*FAT:	&=q cómo ?
+*FAT:	&=q cómo es el regalito de Rosa ?
+*FAT:	&=q qué regalito le vamos a dar a Rosa ?
+*FAT:	&=q de fresa ?
+*FAT:	&=q un regalito de limón ?
+*FAT:	qué regalito más raro , Mother .
+*FAT:	&=q cómo es un regalito de limón ?
+*MOT:	un regalito de comer .
+*MOT:	&=q verdad , Lucía ?
+*MOT:	para variar .
+*FAT:	&=q quieres hacer le un regalito de comer ?
+*FAT:	&=q a Rosa ?
+*FAT:	&=q un pastel vas a hacer ?
+*FAT:	hala@i .
+*FAT:	un pastel va a hacer Lucía .
+*FAT:	&=q cómo es el pastel ?
+*FAT:	a ver .
+*MOT:	tenemos que aprender a hacer pasteles , Lucía .
+*FAT:	a que sí .
+*FAT:	&=q vamos a hacer un pastelito para cuando vengan Rosa y Fernando ?
+*FAT:	vale .
+*FAT:	&=q y a Fernando qué le vamos a decir ?
+*FAT:	&=q un regalo también le vamos a dar ?
+*FAT:	&=q el qué ?
+*FAT:	&=q hacemos un regalo para Fernando ?
+*FAT:	&=q así ?
+*FAT:	vale .
+*FAT:	no .
+*FAT:	agu::jerito . [+ COR]
+*FAT:	dice abujerito .
+*FAT:	agujerito . [+ COR]
+*MOT:	como todos los niños .
+*FAT:	agugugugu@x . [+ COR]
+*FAT:	no es abububu@c .
+*FAT:	es agu::jerito . [+ COR]
+*FAT:	a ver .
+*FAT:	bueno .
+*FAT:	a ver .
+*FAT:	vamos a hacer un agujerito aquí .
+*FAT:	y ahora aquí .
+*FAT:	pin@o [x 3] .
+*FAT:	&=q y qué pasaba por le agujerito ?
+*FAT:	&=q la cabeza de Lucía ?
+*FAT:	ay@i .
+*FAT:	como cuando nació .
+*MOT:	sí .
+*MOT:	yo también lo estaba recordando exactamente .
+*FAT:	ti:@o .
+*FAT:	y ahora dices “Hola soy Lucía” .
+*FAT:	venga .
+*FAT:	ay@i .
+*FAT:	podíamos hacer un guiñol hoy .
+*FAT:	&=q escribimos < una un una > [//] una obra de teatro de guiñol ?
+*FAT:	&=q cuántos personajes tenemos ?
+*MOT:	muchos .
+*FAT:	&=q tenemos muchos personajes ?
+*FAT:	&=e vale !
+*MOT:	tenemos todos .
+*MOT:	porque me los traje todos para aquí .
+*FAT:	&=q sí ?
+*FAT:	a ver .
+*FAT:	&=q qué tenemos ?
+*FAT:	podemos escribir el de Caperucita .
+*FAT:	pero en+vez+de Caperucita_Roja nos inventamos otro .
+*FAT:	&=q vale ?
+*FAT:	&=q nos inventamos un cuento ?
+*FAT:	&=q y se lo hacemos a Rosa y a Fernando ?
+*FAT:	y [x 2] Paula tenía que hacer unos papeles .
+*FAT:	Javier otros y Marta Apellido otros .
+*FAT:	&=q vale ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q escribimos una [x 2] obra de teatro ?
+*MOT:	están El_Gato_Con_Botas .
+*MOT:	el leñador .
+*MOT:	Caperucita_Roja .
+*MOT:	el lobo .
+*MOT:	El_Hada_Pintiparada .
+*FAT:	&=q el lobo es muy malo ?
+*FAT:	&=q y si lo hacemos todo al revés ?
+*FAT:	que la mala sea el hada y el lobo es el bueno .
+*FAT:	el lobo era un lobo bueno .
+*MOT:	nos inventamos un cuento .
+*FAT:	nos inventamos un cuento .
+*MOT:	con esos personajes .
+*FAT:	con esos personajes .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	&=q Mamá qué personaje va a ser ?
+*FAT:	a cada uno le tenemos que caracterizar .
+*FAT:	&=q vale , Lucía ?
+*FAT:	tu@x [x 6] .
+*MOT:	pero tiene que haber expectadores también .
+*MOT:	no podemos estar todos ahí .
+*FAT:	a ver .
+*MOT:	Rosa y Fernando son expectadores .
+*FAT:	Rosa y Fernando expectadores .
+*FAT:	y los niños también .
+*MOT:	Paula y María .
+*FAT:	claro .
+*FAT:	aunque Paula podría actuar un poquito .
+*FAT:	uy@i , Lucía .
+*FAT:	&=q dónde está tu pañuelo ?
+*FAT:	mira .
+*FAT:	está aquí .
+*FAT:	está aquí tu pañuelo .
+*FAT:	toma .
+*FAT:	para cuando tengas moquitos .
+*FAT:	a ver .
+*FAT:	&=q y [x 2] cómo era el cuento ?
+*FAT:	no .
+*FAT:	&=q cómo era el cuento , Lucía ?
+*FAT:	hoy es el cumpleaños de un niño .
+*MOT:	vale .
+*FAT:	y de+repente le regalaban una tarta .
+*MOT:	< de la niña > [//] de la niña .
+*MOT:	que es Caperucita .
+*FAT:	&=q vale que a la niña le regalaban una tarta ?
+*MOT:	y así cantamos la canción .
+*FAT:	vale .
+*FAT:	vamos a bajar nos .
+*FAT:	uapa@i .
+*FAT:	&=q dónde ha dicho que va ?
+*MOT:	ha traer una silla .
+*FAT:	hola [x 2] .
+*FAT:	&=q para qué te has traído aquí tu silla , Lucía ?
+*FAT:	&=q &-eh ?
+*FAT:	pero si este no es el periódico de hoy .
+*FAT:	&=q qué hace este periódico aquí , Lucía ?
+*FAT:	&=q me traes el otro periódico ?
+*FAT:	&=q no quieres que leamos el períodico juntos ?
+*FAT:	&=q quieres que leamos un cuento ?
+*FAT:	no .
+*FAT:	nos lo tenemos que inventar el cuento .
+*FAT:	lo tenemos que escribir .
+*FAT:	&=q vale ?
+*FAT:	vale .
+*FAT:	ah .
+*FAT:	y lo grabamos .
+*FAT:	qué bueno .
+*FAT:	los lápices , Lucía . [+ COR]
+*FAT:	sí , hombre .
+*FAT:	seguro que eso sí .
+*FAT:	&=q para qué es todo esto ?
+*FAT:	&=q y esto ?
+*FAT:	muy bien .
+*FAT:	&=q qué quieres ?
+*FAT:	&=q pintar tú ?
+*FAT:	&=q yo ?
+*MOT:	no .
+*MOT:	escribir el cuento le has dicho .
+*FAT:	&=q &-eh ?
+*MOT:	le has dicho escribir el cuento .
+*FAT:	ah .
+*FAT:	vale .
+*FAT:	venga .
+*FAT:	vamos a ver , Lucía .
+*FAT:	este perrito .
+*FAT:	&=q de qué color lo dibujamos ?
+*FAT:	&=q de qué color lo dibujamos ?
+*FAT:	venga .
+*FAT:	vamos a coger un color .
+*FAT:	venga .
+*FAT:	coge tú el que más te guste .
+*FAT:	&=q este ?
+*FAT:	venga .
+*FAT:	pues vamos a ver .
+*FAT:	&=q cómo lo dibujamos ?
+*FAT:	a ver .
+*FAT:	no .
+*FAT:	primero tú y después yo .
+*FAT:	&=q vale ?
+*FAT:	&=q qué hacemos ?
+*FAT:	&=q las orejas primero ?
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	la otra oreja .
+*FAT:	mira .
+*FAT:	aquí están las orejas .
+*FAT:	esta y esta .
+*FAT:	&=q vale ?
+*FAT:	xxx .
+*FAT:	no hay que salir se .
+*FAT:	&=q &-eh , Lucía ?
+*FAT:	&=q ahora yo ?
+*FAT:	mira .
+*FAT:	hay que hacer lo despacito .
+*FAT:	con mucha paciencia .
+*FAT:	&=q a que sí , Lucía ?
+*FAT:	todo [x 2] .
+*FAT:	venga .
+*FAT:	ahora tú la otra oreja como yo .
+*FAT:	todo [x 2] .
+*FAT:	con mucha paciencia .
+*FAT:	no .
+*FAT:	< ahora tú > [//] ahora tú .
+*FAT:	sí .
+*FAT:	yo ya he hecho una .
+*FAT:	ahora te toca a ti la otra .
+*FAT:	&=q vale , Lucía ?
+*FAT:	venga .
+*FAT:	cada uno un poquito .
+*FAT:	nos podíamos traer aquí su [x 2] mesa .
+*FAT:	no .
+*FAT:	tú sigue .
+*MOT:	xxx .
+*FAT:	con mucha paciencia .
+*FAT:	a ver .
+*FAT:	vamos a coger otro color .
+*FAT:	a ver .
+*FAT:	cóge lo tú .
+*FAT:	&=q por qué no le@x +...
+*FAT:	a ver .
+*FAT:	&=q sacamos todos los lapiceros a los que hay que sacar les la punta ?
+*FAT:	los que no pinten vamos a dejar los aquí fuera para sacar les punta .
+*FAT:	venga .
+*FAT:	más .
+*FAT:	a ver .
+*FAT:	&=q este pintaba o no ?
+*FAT:	pues venga .
+*FAT:	sáca lo fuera también .
+*FAT:	a ver .
+*FAT:	&=q cuántos más , Lucía ?
+*FAT:	venga .
+*FAT:	&=q también lo sacamos (.) aquí ?
+*FAT:	a ver .
+*FAT:	&=q qué más ?
+*FAT:	ese no es un lapicero .
+*FAT:	eso es una cera .
+*FAT:	a que sí es una cera ese .
+*FAT:	ese no hace falta sacar lo .
+*FAT:	no , Lucía .
+*FAT:	no hace falta porque este sí pinta .
+*FAT:	venga .
+*FAT:	con este vamos a pintar el rabito del perro .
+*FAT:	toma .
+*FAT:	no .
+*FAT:	más , Lucía .
+*FAT:	&=q ahora yo ?
+*FAT:	sin salir se .
+*FAT:	a que no hay que salir se , Lucía .
+*FAT:	vale .
+*FAT:	&=q en este ?
+*FAT:	es+que este ya está dibujado .
+*FAT:	a ver .
+*FAT:	&=q qué más ?
+*MOT:	ah , vale .
+*MOT:	este es negro .
+*FAT:	hay que sacar las puntas , &=q verdad ?
+*MOT:	sí .
+*MOT:	&=q tenemos por ahí el sacapuntas de chupachús ?
+*MOT:	mejor .
+*FAT:	ah .
+*FAT:	&=q ese funciona ?
+*MOT:	supongo .
+*MOT:	&=q no ?
+*FAT:	vale .
+*MOT:	a ver si va a ver el chupachús y se lo va a querer comer .
+*FAT:	corre .
+*FAT:	muy bien .
+*FAT:	corre .
+*FAT:	que pinta .
+*FAT:	pinta muy bien ese .
+*FAT:	a ver .
+*FAT:	las patitas .
+*FAT:	se ha hecho meticulosa &=q eh ?
+*FAT:	no , tú .
+*FAT:	pero Lucía .
+*FAT:	si no has dibujado casi nada .
+*FAT:	venga .
+*FAT:	un poquito más .
+*MOT:	en los dibujos que tenía en la guardería nos se salía , &=q &-eh ? [+ ADD]
+*MOT:	eran rayitas así más +...
+*MOT:	pero no se salía .
+*FAT:	mira (.) la oreja que acaba de hacer .
+*MOT:	no se sale .
+*MOT:	&=q no ?
+*FAT:	tch@i .
+*FAT:	&=q ahora yo ?
+*FAT:	la nariz .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	ahora tú el ojo .
+*FAT:	&=q no quieres un ojo ?
+*FAT:	pues vaya rollo , Lucía .
+*FAT:	si no quieres dibujar +...
+*MOT:	0 .
+*MOT:	a ver .
+*MOT:	&=q qué pintamos ?
+*MOT:	&=q pinto el martillo ?
+*MOT:	&=q pinto aquí esta arandelita ?
+*MOT:	0 .
+*MOT:	espera [x 2] .
+*MOT:	que voy a terminar .
+*MOT:	espera .
+*MOT:	sí .
+*MOT:	ahora así .
+*FAT:	&=q yo qué tengo que hacer ahora ?
+*FAT:	&=q qué tengo que hacer , Lucía ?
+*MOT:	uy@i .
+*MOT:	se caen .
+*FAT:	&=q yo qué tengo que hacer , Lu ?
+*MOT:	&=q uno ?
+*MOT:	a ver .
+*MOT:	&=q cuál quieres ?
+*MOT:	vale .
+*MOT:	no .
+*MOT:	ese no .
+*MOT:	ese no tiene punta .
+*MOT:	este no tiene punta .
+*MOT:	no vale .
+*MOT:	hay que sacar le punta .
+*MOT:	pon lo allí con los de sacar punta .
+*MOT:	corre .
+*FAT:	&=q este sí tiene ? [+ COR]
+*FAT:	este no tiene punta , Lucía .
+*FAT:	mira .
+*MOT:	es para ahí .
+*MOT:	para sacar .
+*FAT:	pon lo aquí con los otros de sacar les punta .
+*FAT:	corre .
+*FAT:	pon lo aquí .
+*FAT:	&=q sí tiene ?
+*FAT:	vamos a ver si pinta .
+*FAT:	a ver .
+*FAT:	&-eh Mother .
+*FAT:	sí pinta un poco .
+*MOT:	&=q sí pinta ?
+*FAT:	mira .
+*FAT:	es una cremallera esta , &=q verdad ?
+*FAT:	a ver .
+*FAT:	&=q le haces tú las ruedas aquí al cordero ?
+*FAT:	a ver .
+*FAT:	me apetece estar aquí con ella .
+*FAT:	le ponemos aquí la mesita y que se ponga a dibujar .
+*FAT:	a pintar .
+*MOT:	es+que ya tiene la de ahí abajo .
+*MOT:	es+que si llenamos eso de cosas (.) es peor .
+*FAT:	de pie nunca , &=q verdad ?
+*FAT:	ah .
+*FAT:	de rodillas y sentadita también , &=q verdad ?
+*FAT:	a ver .

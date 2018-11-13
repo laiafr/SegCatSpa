@@ -1,0 +1,464 @@
+*FAT:	&=q cómo se dice ?
+*MOT:	&=q cómo se pide (.) el quesito ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q &-eh Lucía ?
+*MOT:	+" &=q por+favor , mamá , me das un quesito ?
+*MOT:	a ver , tú .
+*FAT:	es algo parecido .
+*FAT:	&=q qué quieres ?
+*FAT:	&=q esto ?
+*FAT:	&=q cómo se pide ?
+*FAT:	avor@c qué .
+*MOT:	+" &=q me das un plato ? [+ COR]
+*FAT:	toma , Lucía .
+*FAT:	trae Lucía .
+*FAT:	trae .
+*FAT:	&=e uy@i !
+*FAT:	bueno .
+*MOT:	&=e uy@i !
+*FAT:	&=q no puedes ?
+*MOT:	www .
+*MOT:	tú no tienes ni Reyes , &=q no ?
+*FAT:	&=q quieres ande+ande+ande@c ?
+*FAT:	a ver .
+*MOT:	&=e muy bien !
+*FAT:	&=q qué más ?
+*FAT:	ande ande ande que es la noches [<] buena .
+*FAT:	en el portal de Belén +//.
+*FAT:	hay estrellas sol y luna +//.
+*FAT:	son los de Decathlon .
+*FAT:	que ayer compramos .
+*MOT:	ya los tienen , entonces .
+*FAT:	claro .
+*MOT:	nos falta envolverlo .
+*FAT:	nos falta envolverlos .
+*FAT:	y tú tienes los míos .
+*FAT:	venga cuenta .
+*MOT:	ya está .
+*FAT:	&=q no me los vas a contar ?
+*MOT:	tch@i .
+*FAT:	hala@i , carota .
+*MOT:	ni un poco .
+*FAT:	&=q qué me van a traer los Reyes ?
+*FAT:	Lucía , &=q qué te van a traer los Reyes_Magos .
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué te van a traer los Reyes_Magos ?
+*FAT:	&=q le has pedido algo a los Reyes_Magos ?
+*FAT:	claro .
+*FAT:	les tienes que pedir algo +...
+*FAT:	unos juguetes a los Reyes_Magos .
+*FAT:	que vienen pasado+mañana .
+*MOT:	&=q qué les vas a pedir Lucía ?
+*FAT:	ay@i , te podías informar si hay Cabalgata en Algete , < o en > [/] o en +/.
+*MOT:	San_Agustín no [<] www .
+*FAT:	San_Agustín [>] , &=q vale ?
+*FAT:	y vamos luego por la tarde .
+*FAT:	&=q vamos a ver los Reyes_Magos , Lucía ?
+*FAT:	&=q vale ?
+*MOT:	ayer había dos Reyes_Magos en El_Corte_Inglés , con una pinta de amuerma(d)os .
+*MOT:	así desperrama(d)os (.) en los tronos , pero aburridísimos , serios , sin nadie (.) alrededor .
+*MOT:	un montón de padres desenfrenados comprando regalos , y ni un niño estaba .
+*FAT:	pasando de los Reyes_Magos .
+*MOT:	sí , totalmente .
+*MOT:	era deprimente .
+*MOT:	&-eh , mi: [/] mi hermana Helena dice que: [/] que Patricia ya se empieza a coscar de que parece que hay muchos Reyes_Magos por ahí dispersos .
+*FAT:	&=q ah sí ?
+*MOT:	dice , “&=q pero estos son los mismos de ayer de:” .
+*FAT:	de Alcampo , qué bueno .
+*FAT:	claro , si es que el don de la ubicuidad , por eso son magos . [+ ADD]
+*MOT:	ayer por la radio era buenísimo .
+*MOT:	había un programa por la mañana que decía .
+*MOT:	preguntaba el locutor .
+*MOT:	+" &=q por qué dicen que los Reyes_Magos de Oriente en vez de decir los Reyes (.) mm (.) Bondadosos o no sé qué que era otra de las cualidades que .
+*MOT:	es que yo no sé la historia , &=q no ?
+*MOT:	pero , “&=q por qué se les llama al final Magos en vez de Buenos o Bondadosos o tal (.) o generosos o tal” ?
+*MOT:	y decía el locutor .
+*MOT:	+" magos , es que tienen que ser magos .
+*MOT:	+" porque vamos a ver .
+*MOT:	+" para estar en cinco mil hogares solamente en Madrid , a la vez .
+*MOT:	+" y viajando a más rápido que la velocidad de la luz . [+ ADD]
+*MOT:	+" para dar le tiempo en seis horas de la noche .
+*MOT:	+" a repartir todos los regalos .
+*MOT:	+" y después , no solamente viajan a la velocidad de la luz , sino que encima llevan , suponiéndote que un kilo de juguetes por niño , llevan no sé cuántas toneladas .
+*MOT:	+" o sea , que son maguísimos .
+*FAT:	cuidado .
+*FAT:	&=q te quitas el babero , Lucía ?
+*FAT:	&=q te lo quita Papá ?
+*FAT:	&=q te lo quita: Mamá ?
+*FAT:	Lucía: .
+*FAT:	hay que quitar se el babero .
+*FAT:	bueno , pues ya está .
+*FAT:	&=q no te acabas la leche , Lu ?
+*FAT:	toma .
+*FAT:	bueno .
+*FAT:	arrégla te que yo me tengo que espabilar .
+*MOT:	sí , ya .
+*FAT:	&=q está preparada ya la ropita de Lucía ?
+*MOT:	no , espera un segundo porque como ella siempre va con mayas .
+*FAT:	&=q vamos a vestir nos , Lucía ?
+*FAT:	sí: .
+*FAT:	hay que vestir se que hay que ir a la guardería .
+*MOT:	ayer te dieron otro japi .
+*MOT:	&=q &-eh ?
+*MOT:	carota .
+*MOT:	muchos japis llevas tú .
+*FAT:	&=q por qué te dieron un japi ayer , Lucía , en la guardería ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q por hacer pis en el orinal ?
+*MOT:	no .
+*MOT:	en el váter .
+*FAT:	&=q en el váter ?
+*FAT:	&=q haces pis en el váter ?
+*FAT:	&=q y cómo lo pides ?
+*MOT:	memé@c .
+*MOT:	memé@c por+favor pis .
+*MOT:	a ver tú .
+*MOT:	a ver tú , Lu .
+*MOT:	a ver tú , Lu: .
+*FAT:	no [x 2] .
+*FAT:	no te quites las zapatillas , Lucía .
+*MOT:	a ver .
+*FAT:	no , Lucía .
+*FAT:	no .
+*MOT:	di lo tú , “memé@c , por+favor , pis” .
+*MOT:	&=q &-eh , Lu ?
+*FAT:	uy@i .
+*FAT:	esto no se hace en la mesa , Lucía .
+*MOT:	no: .
+*MOT:	eso es una porquería .
+*FAT:	&=q venga ?
+*MOT:	ay@i se lo caen los pinquis .
+*FAT:	venga .
+*FAT:	oye .
+*FAT:	que yo me tengo que ir .
+*FAT:	a ver .
+*FAT:	ven , Lucía .
+*MOT:	&=q paro esto ?
+*FAT:	sí .
+*FAT:	pumba@i .
+*MOT:	pon te .
+*MOT:	siénta te .
+*MOT:	sentadita .
+*MOT:	unas fotos . [+ COR]
+*MOT:	sí .
+*MOT:	a ver , Lucía .
+*MOT:	&=q sabes que Álex ya no va a venir ?
+*MOT:	&=q sabes que va a venir otra chica nueva ?
+*MOT:	&=q cómo se llama la chica nueva ?
+*MOT:	Míriam .
+*MOT:	y: , &=q qué vas a merendar ?
+*MOT:	&=q un yogur quieres merendar ?
+*MOT:	ahora cuando llamemos a Juana te vas a poner .
+*MOT:	&=q vale ?
+*MOT:	le vas a decir hola a Juana .
+*MOT:	&=q vale ?
+*MOT:	espera [x 2] .
+*MOT:	sienta +...
+*MOT:	siénta te .
+*MOT:	tiene el balcón más luz .
+*MOT:	&=q por qué no ?
+*MOT:	&=q qué es ?
+*MOT:	&=q qué es eso ?
+*MOT:	&=q la pizarra ?
+*MOT:	el qué .
+*MOT:	&=q es tu pizarra ?
+*MOT:	&=q sí ?
+*MOT:	&=q no es tuya ?
+*MOT:	&=q de quién es ?
+*MOT:	&=q es de mamá ?
+*MOT:	vale .
+*MOT:	&=q vas a ir al súper ?
+*MOT:	&=q vas al súper ?
+*MOT:	&=q yo no quepo ?
+*MOT:	vas a comprar yogures .
+*MOT:	muy bien .
+*MOT:	&=e hala@i , qué rápida !
+*MOT:	&=q ya ?
+*MOT:	uy@i , gracias .
+*MOT:	&=q el qué ?
+*MOT:	&=q patatas ? [+ COR]
+*MOT:	vale .
+*MOT:	&=e hala@i !
+*MOT:	qué rápido !
+*MOT:	&=q ya has llegado ?
+*MOT:	el caballo .
+*MOT:	se mueve .
+*MOT:	quieto@q &=q verdad ?
+*MOT:	&=q qué es ?
+*MOT:	&=e muy bien !
+*MOT:	&=q un kilo ?
+*MOT:	muy bien .
+*MOT:	&=q ahora qué vas a comprar ?
+*MOT:	lechuga . [+ COR]
+*MOT:	vale .
+*MOT:	&=e hala@i !
+*MOT:	&=q ya ?
+*MOT:	&=q qué es ?
+*MOT:	gracias .
+*MOT:	la lechuga . [+ COR]
+*MOT:	lechuga , muy bien .
+*MOT:	&=q un kilo de lechuga ?
+*MOT:	&=q y ahora qué ?
+*MOT:	&=e oy@i !
+*MOT:	&=e ua:@i !
+*MOT:	&=e ua:@i !
+*MOT:	&=q qué compras ?
+*MOT:	&=q qué es ?
+*MOT:	&=q qué es ?
+*MOT:	&=e un kilo de patatas !
+*MOT:	&=e qué bien !
+*MOT:	aquí .
+*MOT:	a guardar .
+*MOT:	pues trae (.) unos: tomates .
+*MOT:	&=q Papá no ?
+*MOT:	&=q tomates ?
+*MOT:	&=q no le gustan ? [+ COR]
+*MOT:	se mueve , sí .
+*MOT:	&=q tomates ?
+*MOT:	muy bien .
+*MOT:	ahora vas a traer un repollo .
+*MOT:	&=q ya has llegado ?
+*MOT:	el caballo . [+ COR]
+*MOT:	gracias .
+*MOT:	&=q qué es ?
+*MOT:	no: .
+*MOT:	era un repollo .
+*MOT:	&=q no te acuerdas ?
+*MOT:	repollo . [+ COR]
+*MOT:	vale .
+*MOT:	ahora unos filetes .
+*MOT:	vale .
+*MOT:	se mueve el caballo .
+*MOT:	es tuyo , sí .
+*MOT:	&=q qué es ?
+*MOT:	&=e muy bien !
+*MOT:	carne y arroz .
+*MOT:	ahora (.) huevos .
+*MOT:	venga: Lucía .
+*MOT:	saca el pie .
+*MOT:	corre .
+*MOT:	sí puedes .
+*MOT:	sí .
+*MOT:	venga .
+*MOT:	saca el pie .
+*MOT:	apóya te en la cocina .
+*MOT:	apóya te ahí en la cocina .
+*MOT:	corre .
+*MOT:	apóya te ahí .
+*MOT:	0 .
+*MOT:	claro .
+*MOT:	&=q ves (.) que puedes ?
+*MOT:	&=q qué es ?
+*MOT:	&=q qué es ?
+*MOT:	una docena de huevos .
+*MOT:	muy bien .
+*MOT:	&=q ahora qué vas a traer ?
+*MOT:	&=q quesitos ?
+*MOT:	&=q tu pie no se engancha ? [+ COR]
+*MOT:	no: .
+*MOT:	no hay que enganchar lo , &=q verdad ?
+*MOT:	&=q te duele ?
+*MOT:	no Lucía .
+*MOT:	puedes tú solita .
+*MOT:	a ver .
+*MOT:	arre borriquito (.) arre [/] .
+*MOT:	&=q no ?
+*MOT:	bueno .
+*MOT:	&=e muy bien !
+*MOT:	&=e muy bien !
+*MOT:	otra técnica de bajar se &=q verdad ?
+*MOT:	se mueve .
+*MOT:	&=q qué es ?
+*MOT:	&=e muy bien !
+*MOT:	quesitos .
+*MOT:	caja de quesitos .
+*MOT:	y ahora vas a comprar (.) leche .
+*MOT:	vale .
+*MOT:	crispis@f .
+*MOT:	no .
+*MOT:	con el caballito al súper .
+*MOT:	no [x 3] .
+*MOT:	< no se toca > [/] no se toca .
+*MOT:	no se toca , Lucía .
+*MOT:	no .
+*MOT:	no se toca , Lucía < no se toca no se toca > [/] .
+*MOT:	no: Lucía .
+*MOT:	venga .
+*MOT:	con el caballito al súper .
+*MOT:	corre .
+*MOT:	&=q ya no quieres ir al súper ?
+*MOT:	&=q quieres que llamemos a Juana ?
+*MOT:	y le dices hola@q .
+*MOT:	&=q sabes con quién está Juana ?
+*MOT:	&=q &-eh ?
+*MOT:	no: .
+*MOT:	no .
+*MOT:	&=q con quién está Juana ?
+*MOT:	no: .
+*MOT:	no: .
+*MOT:	&=q con Lucía ?
+*MOT:	no .
+*MOT:	no chupes eso , Lu .
+*MOT:	&=q sabes con quién está Juana ?
+*MOT:	&=q con quién ?
+*MOT:	con Lucía no .
+*MOT:	&=q sabes con quién está ?
+*MOT:	&=q con quién ?
+*MOT:	no .
+*MOT:	está con Guillermo .
+*MOT:	y está con Marta .
+*MOT:	claro .
+*MOT:	Patricia y Susana están en su casita .
+*MOT:	&=q quién viene mañana ?
+*MOT:	no , los Reyes +...
+*MOT:	los Reyes_Magos .
+*MOT:	&=q qué has pedido a los Reyes_Magos ?
+*MOT:	&=q Marta ?
+*MOT:	&=q qué has pedido ?
+*MOT:	&=q juguetes ?
+*MOT:	&=q no ?
+*MOT:	&=q qué has pedido a los Reyes_Magos ?
+*MOT:	&=q qué has pedido a los Reyes_Magos , Lucía ?
+*MOT:	&=q no has pedido nada ?
+*MOT:	si , hay agua .
+*MOT:	&=q no hay agua ?
+*MOT:	&=q &-eh ?
+*MOT:	sí tiene .
+*MOT:	sí .
+*MOT:	&=q te pongo ?
+*MOT:	&=q fría ?
+*MOT:	vale .
+*MOT:	fría , &=q vale ?
+*MOT:	&=q es mucho ?
+*MOT:	&=q sí ?
+*MOT:	uy@i .
+*MOT:	uy@i , Lucia .
+*MOT:	está regular , &=q &-eh ?
+*MOT:	uy@i .
+*MOT:	&=q qué has hecho en el cole , Lu ?
+*MOT:	&=q sí ?
+*MOT:	&=q y has jugado ?
+*MOT:	&=q no ?
+*MOT:	&=q qué has hecho ?
+*MOT:	&=q mandarina ?
+*MOT:	&=q bailarina ?
+*MOT:	xxx .
+*MOT:	&=q el qué ?
+*MOT:	&=q el qué cosa ?
+*MOT:	&=q has cantado ?
+*MOT:	&=q villancicos ?
+*MOT:	&=q has bailado ?
+*MOT:	&=q has aprendido: colores ?
+*MOT:	ya has aprendido los colores .
+*MOT:	&=q quién había en la guardería , Lucía ?
+*MOT:	&=q no quieres ?
+*MOT:	&=q no me lo quieres contar ?
+*MOT:	&=q qué has comido ?
+*MOT:	&=q qué has comido ?
+*MOT:	vale .
+*MOT:	me lo quedo yo .
+*MOT:	&=q qué has comido , Lu ?
+*MOT:	en la guarde .
+*MOT:	&=q no qué ?
+*MOT:	&=q en el ?
+*MOT:	había un ratoncito chiquito .
+*MOT:	+" chiquito .
+*MOT:	&=q la de Ande_Ande ?
+*MOT:	ande+ande+ande la Marimorena .
+*MOT:	ande [x 3] .
+*MOT:	campana sobre campana y sobre campana una .
+*MOT:	asóma te a la ventana .
+*MOT:	verás al niño en la cuna .
+*MOT:	Belén (.) campanas de Belén que los ángeles tocan .
+*MOT:	&=q qué nuevas nos traéis ?
+*MOT:	recogido su rebaño .
+*MOT:	&=q a dónde vas pastorcillo ?
+*MOT:	voy a llevar al Portal requesón , manteca y vino .
+*MOT:	Belén (.) campanas de Belén que los ángeles tocan .
+*MOT:	&=q qué nuevas nos traéis ?
+*MOT:	ahora tú .
+*MOT:	Susanita tiene un ratón .
+*MOT:	&=q no ?
+*MOT:	0 .
+*MOT:	0 .
+*MOT:	jeje@i .
+*MOT:	&=q cuál es el pulgar ?
+*MOT:	&=q y el índice ?
+*MOT:	este . [+ COR]
+*MOT:	&=q y el: corazón ?
+*MOT:	&=q y el anular ?
+*MOT:	el anular .
+*MOT:	&=e muy bien !
+*MOT:	&=q y el meñique ?
+*MOT:	&=e muy bien: !
+*MOT:	ahora tú .
+*MOT:	jeje@i .
+*MOT:	pero mira cómo beben los peces en el río .
+*MOT:	pero mira cómo beben por ver al Dios nacido .
+*MOT:	beben y beben y vuelven a beber .
+*MOT:	los peces en el río por ver a Dios nacer .
+*MOT:	la Virgen se está peinan:do .
+*MOT:	uy@i .
+*MOT:	la orejita del gato .
+*MOT:	no .
+*MOT:	no es amarillo yellow@s .
+*MOT:	&=q de qué color es el gato ?
+*MOT:	bueno .
+*MOT:	rojo red@s .
+*MOT:	&=q de qué color es el gato ?
+*MOT:	es naranja .
+*MOT:	no , es naranja orange@f .
+*MOT:	amari(ll)o (y)ello(w)@f ?
+*MOT:	uy@i que se escapa .
+*MOT:	se escapa .
+*MOT:	< déja lo > [/] deja lo .
+*MOT:	déja lo ahí , Lu .
+*MOT:	que vamos a merendar .
+*MOT:	&=q &-eh ?
+*MOT:	&=q me traes del súper (.) un bizcocho ?
+*MOT:	de chocolate .
+*MOT:	tráe te del súper Colacao que falta .
+*MOT:	eh:@i la del Guri_Guri .
+*MOT:	con el Guri_Guri_Guri .
+*MOT:	que llevaba una caña .
+*MOT:	&=q qué hora es , Luz ?
+*MOT:	&=q qué hora es ?
+*MOT:	&=q qué hora es ?
+*MOT:	&=q qué pasa ?
+*MOT:	&=q qué pasa ?
+*MOT:	&=q qué hora es ?
+*MOT:	&=q a qué hora viene Papá ?
+*MOT:	&=q quieres que te haga un Cola_Cao ?
+*MOT:	&=q qué prefieres un Cola_Cao o un yogur ?
+*MOT:	&=q qué prefieres Cola_Cao o yogur ?
+*MOT:	&=q qué quieres ?
+*MOT:	&=q qué quieres ?
+*MOT:	di me tú .
+*MOT:	&=q Cola_Cao ?
+*MOT:	&=q no quieres ?
+*MOT:	&=q por qué ?
+*MOT:	&=q no quieres Cola_Cao ?
+*MOT:	&=q qué quieres ?
+*MOT:	&=q un yogur ?
+*MOT:	ah bueno pues no te doy nada .
+*MOT:	0 .
+*MOT:	0 .
+*MOT:	cu+cu .
+*MOT:	xxx .
+*MOT:	0 .
+*MOT:	&=q a mirar ?
+*MOT:	&=e uh:@i !
+*MOT:	que te caes . [+ COR]
+*MOT:	&=q verdad ?
+*MOT:	&=q para atrás te caes ?
+*MOT:	&=q o para alante ? [+ COR]
+*MOT:	para atrás .
+*MOT:	para un lado .
+*MOT:	cu+cu .
+*MOT:	con el guri+guri+gu +...
+*MOT:	auh@i .
+*MOT:	auh@i .
+*MOT:	ojos .
+*MOT:	nariz .
+*MOT:	boca .

@@ -1,0 +1,614 @@
+*MOT:	Magín , escucha una cosa .
+*MOT:	ven aquí , Magín .
+*MOT:	ahí no ?
+*MOT:	ven aquí , ven .
+*MOT:	ven tesoro .
+*MOT:	ven .
+*MOT:	ven chiquitino .
+*MOT:	qué le dices ?
+*MOT:	quítate Carlos , dice ?
+*MOT:	qué te hace Carlos ?
+*MOT:	yo no sé a quién le ha oído eso de decir +/.
+*MOT:	a los niños y le da por decir eso .
+*MOT:	hola , sí .
+*MOT:	hola sí se dice .
+*MOT:	ven .
+*MOT:	oye , dónde vas ?
+*MOT:	pero no te vayas , Curri .
+*MOT:	un besito a mamá .
+*MOT:	un besito a mamá .
+*MOT:	adiós .
+*MOT:	qué ha pasado chiquitín .
+*MOT:	moja ?
+*MOT:	te has hecho daño ?
+*MOT:	moja [*] con agua .
+*MOT:	y pupa , también te has hecho pupa ?
+*MOT:	pobrecito mío !
+*MOT:	ven .
+*MOT:	xxx .
+*MOT:	espera .
+*MOT:	ven .
+*MOT:	vamos a darle agua .
+*MOT:	ven .
+*MOT:	cuidado !
+*MOT:	eh ?
+*MOT:	cuchara .
+*MOT:	venga , vamos .
+*MOT:	mira Pompello .
+*MOT:	xxx ven .
+*MOT:	ven , cielo .
+*MOT:	quieres el bibe ?
+*MOT:	espera , a_ver si +//.
+*MOT:	quema un poco .
+*MOT:	espera .
+*MOT:	vamos a enfriarlo .
+*MOT:	espera que lo enfrío .
+*MOT:	eh ?
+*MOT:	pesca(d)ito no .
+*MOT:	mira como está el pesca(d)ito .
+*MOT:	ven .
+*MOT:	ahora te doy el bibe , que quema .
+*MOT:	que quema , mientras el pesca(d)ito .
+*MOT:	toma .
+*MOT:	claro , quema el bibe .
+*MOT:	espera un poquito .
+*MOT:	venga .
+*MOT:	te comes el pesca(d)ito y ahora te doy el bibe .
+*MOT:	ven .
+*MOT:	ven Magín .
+*MOT:	qué le dices a Pompe(llo) ?
+*MOT:	ven .
+*MOT:	vamos .
+*MOT:	le dices a Pompe(llo) vamos ?
+*MOT:	qué ?
+*MOT:	los nenes .
+*MOT:	dónde vas cielo ?
+*MOT:	aquí ?
+*MOT:	aquí ?
+*MOT:	ven .
+*MOT:	mira que flor más bonita hay ahí .
+*MOT:	otra flor .
+*MOT:	mira las nenas .
+*MOT:	has visto a las nenas ?
+*MOT:	esa nena es nueva .
+*MOT:	ven Magín .
+*MOT:	dónde vas ?
+*MOT:	qué ?
+*MOT:	qué dices ?
+*MOT:	otra flor .
+*MOT:	está aquí , sí .
+*MOT:	otra flor .
+*MOT:	anda , ven .
+*MOT:	eh ?
+*MOT:	qué dices ?
+*MOT:	qué ?
+*MOT:	qué bonitas !
+*MOT:	gracias ?
+*MOT:	anda , ven .
+*MOT:	me dices gracias y resulta que me lo das tú .
+*MOT:	si te tengo que decir gracias yo .
+*MOT:	qué quieres ?
+*MOT:	es de la nena .
+*MOT:	son chucherías de la nena , Magín .
+*MOT:	son suyas .
+*MOT:	son de la nena , Curri .
+*MOT:	oye , oye , ten cuidado que éste te las quita .
+*MOT:	quieres tú ?
+*MOT:	eh ?
+*MOT:	uno ?
+*MOT:	es éste el huevo ?
+*MOT:	a_ver que te va a dar un cachito de huevo .
+*MOT:	www .
+*MOT:	pero si te acaba de dar un cachito .
+*MOT:	otro cachito ?
+*MOT:	venga a_ver que te va a dar otra cosa y ya no más .
+*MOT:	venga , un cachito y ya .
+*MOT:	ya está , que la vas a dejar sin nada a la niña , tanto pedirla .
+*MOT:	venga .
+*MOT:	hale , vamos a quitar el papel .
+*MOT:	esto es para un rato , que tú lo masticas , lo masticas y no te dura nada .
+*MOT:	venga .
+*MOT:	uy , que se cae la nena .
+*MOT:	vamos , amor .
+*MOT:	vamos , cielo .
+*MOT:	mira , mira una pelota .
+*MOT:	vamos .
+*MOT:	le das la manita a mamá ?
+*FAT:	dónde está el pepino ?
+*FAT:	y la luna , dónde está ?
+*FAT:	y la lombriz , dónde está ?
+*FAT:	qué es eso ?
+*FAT:	cuántas hay ?
+*FAT:	cuántas hay ?
+*FAT:	una .
+*FAT:	dos .
+*FAT:	tres .
+*FAT:	qué es esto ?
+*FAT:	cuántas hay ?
+*MOT:	cuántas estrellas .
+*FAT:	qué es esto ?
+*FAT:	esto ?
+*FAT:	lápiz .
+*MOT:	al lápiz le llama pinta algunas veces .
+*FAT:	pinta el lápiz .
+*FAT:	y el pez .
+*FAT:	dónde está el pez ?
+*FAT:	dónde está ?
+*FAT:	en el +"/.
+*FAT:	qué es esto ?
+*FAT:	dónde está el pez ?
+*FAT:	en el a +"/.
+*FAT:	está en el agua .
+*FAT:	es agua , hijo .
+*FAT:	eso son peces .
+*FAT:	ahí , mira .
+*FAT:	mira .
+*MOT:	oye , mira [x 2] .
+*FAT:	qué es esto ?
+*FAT:	el pipi@o .
+*FAT:	cuántos hay ?
+*FAT:	uno y dos .
+*FAT:	y esto qué son ?
+*FAT:	cuántas hay ?
+*FAT:	una .
+*FAT:	dos .
+*FAT:	tres zanahorias .
+*FAT:	muy bien .
+*FAT:	tres zanahorias hay .
+*FAT:	otra zanahoria .
+*FAT:	dos pipis@o , tres zanahorias .
+*FAT:	sube .
+*FAT:	y tres .
+*FAT:	cuántas hay ?
+*FAT:	cuántas hay ?
+*FAT:	cuántas ?
+*FAT:	tres .
+*FAT:	dos y +"/.
+*FAT:	tres .
+*FAT:	y peces cuántos hay ?
+*FAT:	uno .
+*FAT:	dos .
+*FAT:	tres .
+*FAT:	cuatro .
+*FAT:	lápices , cuántos hay ?
+*FAT:	y qué hace el lápiz ?
+*FAT:	pinta [<] .
+*MOT:	Curri [>] , Curri , que te vas a hacer pupa !
+*FAT:	pinta el lápiz .
+*FAT:	venga .
+*FAT:	ay va !
+*FAT:	qué es esto ?
+*MOT:	xxx .
+*FAT:	y esto ?
+*FAT:	y esto ?
+*FAT:	el pepino , ves ?
+*FAT:	y esto ?
+*FAT:	el cho +"/.
+*FAT:	chorizo .
+*FAT:	y éste ?
+*FAT:	y éste ?
+*FAT:	y éste ?
+*MOT:	el pepino .
+*FAT:	y éste ?
+*FAT:	chorizo .
+*FAT:	bien .
+*FAT:	y éste ?
+*FAT:	bien .
+*FAT:	muy bien .
+*FAT:	xxx .
+*FAT:	www .
+*MOT:	que te caes !
+*MOT:	qué ?
+*MOT:	qué ?
+*MOT:	qué pasa , Magín ?
+*MOT:	www .
+*MOT:	ah , el avión .
+*MOT:	qué ?
+*MOT:	www .
+*FAT:	dónde está el avión , nene ?
+*FAT:	dónde está ?
+*FAT:	aquí ?
+*FAT:	dos y +"/.
+*MOT:	quito ?
+*MOT:	bueno , que te los vas a poner tú un poquito .
+*MOT:	toma .
+*MOT:	toma el otro .
+*MOT:	cuida(d)o .
+*MOT:	cuida(d)o .
+*MOT:	cuidado !
+*MOT:	pero , póntelos tú .
+*MOT:	tú , en el suelo .
+*MOT:	venga .
+*MOT:	cuidado .
+*MOT:	a_ver ?
+*MOT:	muy bien !
+*MOT:	venga , el otro .
+*MOT:	zapatos no ?
+*MOT:	pero , Magín .
+*MOT:	bueno .
+*MOT:	cuidadito .
+*MOT:	trae .
+*MOT:	anda .
+*MOT:	dámelos .
+*MOT:	cuidadito .
+*MOT:	así .
+*MOT:	(l)a bobo [: globo] se van [*] ?
+*MOT:	qué ?
+*FAT:	a guardar .
+*MOT:	a guardar o a bañar bobo [: globo] ?
+*FAT:	al agua ?
+*MOT:	agua bobo [: globo] , dice ?
+*MOT:	al agua bobo [: globo] ?
+*MOT:	eh ?
+*MOT:	qué pasa , Curri ?
+*MOT:	que viene papi ?
+*MOT:	que viene papi , dice .
+*MOT:	qué dice ?
+*MOT:	gracias ?
+*FAT:	más .
+*FAT:	otro .
+*FAT:	amiguitos .
+*MOT:	www .
+*FAT:	mira un tiburón , nene .
+*FAT:	un tiburón .
+*MOT:	uy , qué malo !
+*MOT:	un t(ib)urón .
+*MOT:	a bañar el tiburón ?
+*FAT:	la moto .
+*FAT:	un barco .
+*FAT:	dile a mamá qué es esto .
+*FAT:	el paraguas .
+*MOT:	el paraguas .
+*MOT:	www .
+*FAT:	adiós nene .
+*MOT:	adiós papá .
+*MOT:	mira , fuegos artificiales .
+*MOT:	eh ?
+*MOT:	qué rico .
+*MOT:	a_ver como tienes esto .
+*MOT:	oye , rompe , rompe .
+*MOT:	el pollo está ahí fuera , Magín .
+*MOT:	qué es eso ?
+*MOT:	llora , igual dice .
+*FAT:	el caracol .
+*MOT:	es un caracol , Magín .
+*MOT:	ah , otro paraguas .
+*FAT:	ah , mira caen gotas .
+*FAT:	que llora , mira .
+*FAT:	que llora .
+*MOT:	<otro caracol> [>] .
+*FAT:	<otro caracol> [<] .
+*MOT:	qué ?
+*MOT:	y eso qué es ?
+*FAT:	el botón .
+*MOT:	ah , el botón .
+*FAT:	el botón de la chaqueta .
+*MOT:	ah , que mira .
+*MOT:	que tiene muchos botones .
+*MOT:	otro está roto .
+*MOT:	es que se ha roto el cuento .
+*MOT:	mira , mira , el tiburón por detrás .
+*FAT:	que va el tiburón .
+*MOT:	a_ver que lo corto esto un poco .
+*MOT:	el tatón [: caracol] ?
+*MOT:	dónde está el tatón [: caracol] ?
+*MOT:	ay !
+*MOT:	que hay ahí chiquitito .
+*MOT:	mira , Magín , ha visto estos caracoles pequeñitos .
+*MOT:	ot(r)o tatón [: caracol] pequeñito .
+*MOT:	www .
+*FAT:	www .
+*MOT:	se cayó la abuela ?
+*MOT:	se quema , sí .
+*MOT:	arrea , se cayó la abuela , dice .
+*MOT:	se cayó , hijo .
+*MOT:	al agua fría ?
+*MOT:	al agua fría se cayó ?
+*MOT:	al mar .
+*MOT:	al mar , mira .
+*MOT:	te acuerdas tú del mar , hijo .
+*MOT:	ah , otro paraguas .
+*MOT:	www .
+*MOT:	qué haces , Magín ?
+*MOT:	no !
+*MOT:	no me lo tires !
+*MOT:	no me lo tires !
+*MOT:	es que me lo tiras , hombre .
+*MOT:	pero qué haces ?
+*MOT:	qué pasa ?
+*MOT:	que estás cansado ?
+*MOT:	eh ?
+*MOT:	ven , que te miro a_ver si tienes caca .
+*MOT:	no tienes caca ?
+*MOT:	a_ver .
+*MOT:	sí tiene .
+*MOT:	y por_qué me dices que no tienes ?
+*MOT:	ven , que te voy a subir a limpiar .
+*MOT:	bueno , vamos a terminar de recoger esto y ahora te subo a limpiar .
+*MOT:	que te caes ?
+*FAT:	que se cae ?
+*MOT:	venga , sube .
+*MOT:	sube .
+*MOT:	sube .
+*MOT:	deja eso .
+*MOT:	a sentar ?
+*MOT:	ven .
+*MOT:	ponte aquí .
+*MOT:	ven .
+*MOT:	no quieres ahora ?
+*MOT:	xxx caballito .
+*MOT:	ven .
+*MOT:	caballito no .
+*MOT:	xxx .
+*MOT:	que se cae .
+*MOT:	déjalo ahí .
+*MOT:	no lo toques .
+*MOT:	ven .
+*MOT:	no quieres que te haga arre , arre ?
+*MOT:	pero móntate aquí xxx como antes .
+*MOT:	déjalo aquí .
+*MOT:	déjalo aquí , cielo .
+*MOT:	déjalo , Curri .
+*MOT:	ya está , Curri .
+*MOT:	no puedo ?
+*MOT:	no puedes ?
+*MOT:	eh ?
+*MOT:	ay ?
+*MOT:	no puedes ?
+*MOT:	eh ?
+*MOT:	no puedes ?
+*MOT:	que no puede , papá .
+*MOT:	no puede .
+*MOT:	que dice que no puedo [*] .
+*FAT:	no se abre , es así .
+*FAT:	no se abre .
+*MOT:	qué dice ?
+*MOT:	sí se abre .
+*FAT:	que no se abre .
+*MOT:	qué dices , Magín ?
+*MOT:	qué dices ?
+*MOT:	el bolso ?
+*MOT:	qué ?
+*MOT:	por_qué ?
+*MOT:	pero por_qué quieres que coja el bolso ?
+*MOT:	di .
+*MOT:	por_qué quieres que coja el bolso ?
+*MOT:	qué ?
+*MOT:	pero si no hay nadie , tesoro .
+*MOT:	Mario no está .
+*MOT:	no está Mario .
+*MOT:	ni otro Mario , ni Mario .
+*MOT:	el bolso ya lo llevo , ya .
+*MOT:	xxx .
+*MOT:	está aquí ?
+*MOT:	ven , vamos que hace mucho ruido esa máquina .
+*MOT:	vamos .
+*MOT:	qué ?
+*MOT:	está aquí Mario ?
+*MOT:	vamos al sotanito a jugar un poco ?
+*MOT:	porque es muy pronto todavía , cielo .
+*MOT:	luego salen a la piscina .
+*MOT:	ven .
+*MOT:	vamos a casita .
+*MOT:	están en casita y luego salen a la piscina .
+*MOT:	mira .
+*MOT:	mira quién está ahí , Magín .
+*MOT:	mira quién está ahí , con la ropa .
+*MOT:	ven .
+*MOT:	ven , tesoro .
+*MOT:	otra moto , sí .
+*MOT:	ese es el cartero .
+*MOT:	ese es el cartero con la moto .
+*MOT:	ven , ven para acá que hace mucho calor .
+*MOT:	ven .
+*MOT:	vamos a_ver si nos traen cartas .
+*MOT:	ven , Curri .
+*MOT:	ven , cielito .
+*MOT:	qué ?
+*MOT:	ven , cielo .
+*MOT:	ven .
+*MOT:	el cartero .
+*MOT:	mira .
+*MOT:	mira el cartero .
+*MOT:	vamos a casita que aquí no hay nadie .
+*MOT:	vamos a jugar en casa .
+*MOT:	claro , no hay nadie .
+*MOT:	ven .
+*MOT:	vamos a jugar en casa .
+*MOT:	Mario tampoco está .
+*MOT:	ven , que te pinchas con esto .
+*MOT:	se mete en los ojitos .
+*MOT:	anda , sube .
+*MOT:	qué ?
+*MOT:	qué dices ?
+*MOT:	no pinchan ?
+*MOT:	anda , ven sube .
+*MOT:	abanta@p ?
+*MOT:	hala , cierra la puerta Curri .
+*MOT:	venga , no des ahí .
+*MOT:	cierra la +/.
+*MOT:	a la calle no .
+*MOT:	ven aquí .
+*MOT:	ven Magín .
+*MOT:	que no salgas a la calle .
+*MOT:	deja la puerta .
+*MOT:	a la calle vamos ?
+*MOT:	ven .
+*MOT:	qué pasa ?
+*MOT:	que no quieres que se cierre la puerta .
+*MOT:	que a la calle , no , que hace mucho calor .
+*MOT:	ven a casa .
+*MOT:	no !
+*MOT:	no , a calle no vamos .
+*MOT:	qué ?
+*MOT:	oye .
+*MOT:	qué quieres ?
+*MOT:	eh ?
+*MOT:	llamar al timbre .
+*MOT:	mira , llama a éste .
+*MOT:	es que está floja .
+*MOT:	qué pasa Magín ?
+*FAT:	se ha apagado ?
+*FAT:	la luz .
+*MOT:	es que está floja la bombilla , sí .
+*MOT:	ven .
+*MOT:	ven , Magín .
+*FAT:	qué se ha apagado ?
+*FAT:	y qué es esto ?
+*FAT:	luz .
+*FAT:	y los bichos ?
+*FAT:	y la luna ?
+*MOT:	está allí la luna ?
+*MOT:	dónde está ?
+*MOT:	eh ?
+*MOT:	no veo ?
+*MOT:	no veo ?
+*MOT:	no ves la luna , Magín ?
+*MOT:	la cabeza no .
+*FAT:	en la cabeza no ?
+*MOT:	te ha dado papá en la cabeza ?
+*FAT:	en la cabeza no , que estás estudiando ?
+*MOT:	a quién llamas ?
+*MOT:	ah !
+*MOT:	a Lara .
+*MOT:	mira el avión .
+*MOT:	mira .
+*MOT:	qué ?
+*MOT:	qué está ahí el qué ?
+*MOT:	lampo [: relámpago] .
+*FAT:	el avión .
+*FAT:	a quién llamas ?
+*MOT:	a Lala [: Lara] .
+*MOT:	está durmiendo , Lara .
+*FAT:	mira , mira , se enciende .
+*FAT:	se ha encendido .
+*MOT:	se ha encendido .
+*MOT:	ven .
+*MOT:	mira .
+*MOT:	mira el avión ese .
+*MOT:	&+pallallo ?
+*MOT:	qué es eso de &+pallallo , cielo ?
+*MOT:	ah , la luz esa de ahí .
+*MOT:	aquí tenemos que cortar esto .
+*MOT:	ven .
+*MOT:	pupa ?
+*MOT:	ven .
+*MOT:	qué te ha hecho papá ?
+*MOT:	qué te hace ?
+*MOT:	te ha quitado la almohada .
+*MOT:	te ha quitado la almohada ?
+*MOT:	pídesela .
+*MOT:	pídesela a papá .
+*MOT:	uy , va .
+*MOT:	ya se la has quitado ?
+*FAT:	xxx .
+*MOT:	xxx la araña ?
+*MOT:	www .
+*MOT:	xxx Magín .
+*MOT:	qué quieres ?
+*MOT:	te visto ?
+*MOT:	cuidado , que te vas a hacer pupa .
+*MOT:	mírala , allí .
+*MOT:	mírala .
+*MOT:	xxx mosquitos , con las pastillas xxx .
+*MOT:	qué vas a hacer ?
+*MOT:	zapatos vas a coger ?
+*MOT:	ya .
+*MOT:	qué tesoro ?
+*MOT:	qué ?
+*MOT:	no cojas .
+*MOT:	mira .
+*MOT:	ay , qué rico !
+*MOT:	me dice no cojas .
+*MOT:	como siempre que le digo que no coja la grabadora me dice no cojas .
+*FAT:	tienes caca ?
+*MOT:	quieres ?
+*FAT:	quieres caca ?
+*MOT:	el pake@p .
+*FAT:	quiere caca .
+*FAT:	vamos al váter .
+*FAT:	que lo vas a hacer , ahí en el dodo ?
+*FAT:	ahí te vas a echar la plasta ?
+*FAT:	plasta .
+*FAT:	en el culo , el dodotis .
+*FAT:	te vas a echar ahí la plasta .
+*FAT:	ahí .
+*FAT:	ahí .
+*FAT:	qué es eso ?
+*FAT:	sube .
+*MOT:	mamá la quita luego , verdad ?
+*MOT:	y le deja limpito .
+*FAT:	una .
+*FAT:	dos y +/.
+*MOT:	pues sí , como la empieces tú a manejar me la vas a romper ahora que me la han arreglado .
+*MOT:	que no la rompas .
+*MOT:	es que además , éste no es su cacharro , el suyo yo no sé qué fue de él .
+*MOT:	me lo perdió Clara .
+*MOT:	mira que me lo ha cogido poco , pues los días que me lo cogió me lo perdió .
+*MOT:	xxx .
+*MOT:	eh ?
+*MOT:	porque se rompe .
+*MOT:	ahí quieta .
+*MOT:	no .
+*MOT:	no la cojas .
+*MOT:	pero si tienes un montón de cosas para coger .
+*MOT:	mira .
+*MOT:	mira tus zapatos como hacen .
+*MOT:	los zapatos +/.
+*MOT:	qué ?
+*MOT:	te los pongo ?
+*MOT:	esperate , que te visto .
+*MOT:	te vas a venir con nosotros , Magín ?
+*MOT:	oh , pequeñito .
+*MOT:	qué ?
+*MOT:	quieres caca ?
+*MOT:	levanta ?
+*MOT:	ay !
+*MOT:	vaya dos !
+*FAT:	tienes caca .
+*MOT:	ten cuidado con los zapatos , que te vas a caer .
+*MOT:	esto no es chicle , es globo (.) y +/.
+*MOT:	ah , es verdad .
+*MOT:	el globo está aquí .
+*MOT:	mira .
+*MOT:	pero está roto .
+*MOT:	no , se ha deshinchado .
+*MOT:	esto era de Clara , mira .
+*MOT:	Evita xxx xxx Elisa , Camila .
+*MOT:	xxx de las americanas .
+*MOT:	sí .
+*MOT:	hincharon un globo y pusieron todas el nombre .
+*MOT:	un globo , ufu@o dice , como +/.
+*MOT:	pero es que no se puede hinchar porque es que está desinflado ya y tiene +/.
+*MOT:	qué ?
+*MOT:	qué ?
+*MOT:	di a papá que te lo hinche .
+*MOT:	corre .
+*MOT:	hínchalo dice ?
+*MOT:	eh , Magín ?
+*MOT:	qué le dices a papá , Magín ?
+*MOT:	hínchalo .
+*FAT:	sí , hínchalo .
+*FAT:	dónde están los que le compramos ayer ?
+*FAT:	pero dónde están los de ayer ?
+*FAT:	dónde están los globos de ayer , Mari Carmen ?
+*MOT:	xxx hay un montón en mi bolso .
+*FAT:	venga , súbelo .
+*FAT:	tienes caca ?
+*FAT:	tiene caca ?
+*FAT:	espera que ahora los va a subir mamá .
+*FAT:	otro bobo [: globo] .
+*FAT:	va a subir los globos .
+*MOT:	www .
+*FAT:	cógelo aquí .
+*FAT:	www .
+*FAT:	te afeito , nene ?
+*FAT:	sácala .
+*FAT:	sácala así , mira .
+*FAT:	sí .
+*FAT:	eh ?
+*FAT:	sácala así , mira .
+*FAT:	tú , la tuya .
+*FAT:	esto de quién es ?
+*FAT:	de quién es ?
+*FAT:	sácala .

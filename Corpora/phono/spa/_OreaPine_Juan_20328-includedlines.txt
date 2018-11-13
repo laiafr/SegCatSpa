@@ -1,0 +1,268 @@
+*FAT:	&=q una cabanilla@x ?
+*FAT:	&=q que vive en el fuego ?
+*FAT:	vive en el fuego .
+*FAT:	no lo sabía .
+*FAT:	&=q y cómo se llama ?
+*FAT:	ya .
+*FAT:	&=q pero quién vive ahí ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q quién vive ahí , Juan ?
+*FAT:	&=q una iglesia ?
+*FAT:	&=q y esa es la torre ?
+*FAT:	pero bueno .
+*FAT:	&=q y qué tiene la torre de la iglesia ?
+*FAT:	&=q qué tiene ?
+*FAT:	&=q una escalera para vivir los señores ? [+ ADS]
+*FAT:	&=q o para que suban los señores que viven allí ?
+*FAT:	&=q va a encender el fuego el niño ?
+*FAT:	&=q una cola para que vivan los reyes ? [+ ADS]
+*FAT:	pero bueno .
+*FAT:	cuántas cosas tienes &=q &-eh ?
+*FAT:	&=q una rana ?
+*FAT:	&=q un lobo feroz ? [+ ADS]
+*FAT:	&=q y qué hace el lobo ?
+*FAT:	&=q a quién ?
+*FAT:	&=q se va a comer a la gallina ?
+*FAT:	vamos a hacer una gallina .
+*FAT:	&=q quieres hacer un árbol gigante ?
+*FAT:	&=q quieres hacer un gigante ?
+*FAT:	&=q y cómo se hace ?
+*FAT:	&=q a ver ?
+*FAT:	&=q grande ? [+ ADS]
+*FAT:	vaya .
+*FAT:	tú lo haces grande y yo hago pequeñito .
+*FAT:	&=q y se van en fila cómo parecen ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q y si los ponemos en fila qué parecen ?
+*FAT:	&=q como si fueran cómo ?
+*FAT:	es que antes has dicho xxx . [+ NON]
+*FAT:	&=q vestido de azul ? [+ ADS]
+*FAT:	&=q qué es eso ?
+*FAT:	sí , mira .
+*FAT:	aquí hay más azul .
+*FAT:	mira .
+*FAT:	aquí hay más .
+*FAT:	estás < en tu > [/] en tu época monocromo .
+*FAT:	&=q un lobo ? [+ ADS]
+*FAT:	&=q y qué hace el lobo ?
+*FAT:	&=q aúlla ?
+*FAT:	&=q tiene una cola ? [+ ADS]
+*FAT:	&=q y qué hace la cola ?
+*FAT:	&=q y qué hace la cola del lobo ?
+*FAT:	&=q así ? [+ ADS]
+*FAT:	&=q así sonaba la cola ? [+ ADS]
+*FAT:	&=q se mueve la cola ?
+*FAT:	pero bueno .
+*FAT:	&=q quién te enseñará a ti esas cosas ?
+*FAT:	&=q no tiene cabeza ? [+ ADS]
+*FAT:	&=q quién no tiene cabeza ?
+*FAT:	&=q quién no tiene cabeza , Juan ?
+*FAT:	&=q la rana no tiene cabeza ?
+*FAT:	&=q esa rana no tiene cabeza ?
+*FAT:	&=q esa es la comida del lobo ?
+*FAT:	0 .
+*FAT:	&=q tú crees que es un dragón ?
+*FAT:	más [/] más bien parece un avión .
+*FAT:	&=q no ?
+*FAT:	&=q no parece un avión ? [+ ADS]
+*FAT:	vaya , hombre .
+*FAT:	yo creía que parecía un avión .
+*FAT:	&=q parece un murciélago ?
+*FAT:	oh [x 2] .
+*FAT:	&=q qué haces ?
+*FAT:	&=q qué has hecho ?
+*FAT:	pero que no te veo , Juan .
+*FAT:	&=q en su caballito ? [+ COR]
+*FAT:	&=q tiene un caballito el lobo ?
+*FAT:	pero bueno .
+*FAT:	&=q el qué ?
+*FAT:	pues no lo sabemos .
+*FAT:	&=q la quieres ?
+*FAT:	&=q quieres que haga otra ?
+*FAT:	venga .
+*FAT:	voy a hacer otra igual para tener un caballito para lobos .
+*FAT:	mira .
+*FAT:	ya verás qué bien .
+*FAT:	&=q y ahora le vamos a hacer la cabeza al caballito ?
+*FAT:	&=q quieres ?
+*FAT:	a:hí .
+*FAT:	muy bien .
+*FAT:	ya está .
+*FAT:	el caballito para lobos .
+*FAT:	&=q quieres que el señor sea rojo ?
+*FAT:	&=q puede ser azul ?
+*FAT:	mira .
+*FAT:	azul .
+*FAT:	aquí tengo uno .
+*FAT:	mira .
+*FAT:	&=q azul no ? [+ ADS]
+*FAT:	&=q tiene que ser rojo ?
+*FAT:	vaya hombre .
+*FAT:	&=q pues es que sabes qué pasa , Juan ?
+*FAT:	&=q te digo lo que pasa ?
+*FAT:	pues que todas las piezas rojas las he utilizado para el caballito .
+*FAT:	&=q lo ves ?
+*FAT:	todas las piezas +//.
+*FAT:	&=q quién hace pis y caca ?
+*FAT:	&=q el caballito ?
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	&=q es muy feo ?
+*FAT:	venga .
+*FAT:	pues haz un lobito o un lobo y lo ponemos aquí encima .
+*FAT:	venga .
+*FAT:	haz un lobo .
+*FAT:	&=q yo hago un dragón rojo y bueno ?
+*FAT:	pues entonces tengo que deshacer el caballo .
+*FAT:	&=q lo deshago ?
+*FAT:	&=q y puede tener más colores el dragón ?
+*FAT:	todo rojo .
+*FAT:	&=q no puede tener colores verdes ?
+*FAT:	&=q un poquito no ?
+*FAT:	un poquito de verde &=q no ?
+*FAT:	&=q una pata de burro ? [+ ADS]
+*FAT:	&=q sí ?
+*FAT:	uy@i que te caes .
+*FAT:	mira .
+*FAT:	aquí tienes patas .
+*FAT:	pero &=q es que sabes lo que pasa ?
+*FAT:	que no se sujeta bien .
+*FAT:	espera te a ver .
+*FAT:	espérate a ver si podemos arreglar lo .
+*FAT:	entonces el dragón no puede ser verde .
+*FAT:	< va a tener que > [//] digo no puede ser rojo .
+*FAT:	va a tener que ser verde porque no tengo piezas rojas .
+*FAT:	le falta una pata &=q verdad ?
+*FAT:	< a lo mejor > [//] &=q la quieres roja ?
+*FAT:	mira .
+*FAT:	pues so@x [//] yo sólo tengo estas piezas .
+*FAT:	&=q tú crees que caben ahí ?
+*FAT:	&=q estás seguro ?
+*FAT:	&=q &-eh , Juan Apellido ?
+*FAT:	&=q estás seguro ?
+*FAT:	hala@i qué bien .
+*FAT:	mira .
+*FAT:	aquí tienes otro dragón .
+*FAT:	pero me gusta más ese .
+*FAT:	te lo cambio .
+*FAT:	&=q me lo cambias ?
+*FAT:	&=q no ?
+*FAT:	me gusta el rojo .
+*FAT:	hala@i qué bien .
+*FAT:	montado encima .
+*FAT:	hala@i qué bien .
+*FAT:	qué bonito queda .
+*FAT:	ah .
+*FAT:	que se cae .
+*FAT:	qué bonito queda &=q &-eh ?
+*FAT:	mira . [+ ADS]
+*FAT:	es el dragón que está subido encima de su caballo .
+*FAT:	que también es un dragón el caballo .
+*FAT:	&=q sí ?
+*FAT:	&=q pero el dragón lo vamos a poner en la cabaza ?
+*FAT:	&=q < no lo ponemos mejor > [/] &-eh no lo ponemos mejor en otro sitio ?
+*FAT:	aquí &=q verdad ?
+*FAT:	< a ver > [/] a ver .
+*FAT:	aquí .
+*FAT:	pero [/] pero qué bonito .
+*FAT:	&=q quién monta , Juan ?
+*FAT:	&=q y se llama Juan ?
+*FAT:	+" hola , soy Juan y tengo dos dragones amigos .
+*FAT:	+" el dragón rojo grande y bueno .
+*FAT:	+" y el dragón verde que es el caballito .
+*FAT:	+" ahora nos vamos a dar una vuelta .
+*FAT:	oh .
+*FAT:	ya veo ya [/] .
+*FAT:	que se escacharra todo .
+*FAT:	ya está .
+*FAT:	ya está .
+*FAT:	vaya susto .
+*FAT:	&=q aquí ?
+*FAT:	&=q lo pongo aquí ?
+*FAT:	mira a ver si quieres poner le esa azul que hay ahí detrás .
+*FAT:	pero Juan Apellido .
+*FAT:	&=q y dónde lo vamos a poner eso ?
+*FAT:	&=q en la cabeza del dragón ?
+*FAT:	&=q pero cómo vas a poner ese avión murciélago en la cabeza del dragón ?
+*FAT:	se caerá todo .
+*FAT:	hala@i qué bien .
+*FAT:	hala@i qué bien .
+*FAT:	< qué bar@x > [/] qué barbaridad .
+*FAT:	sí .
+*FAT:	y trae esas piezas azules y ya terminamos de poner las también &=q no ?
+*FAT:	tiene una cola . [+ ADS]
+*FAT:	sí .
+*FAT:	aquí .
+*FAT:	< a ver > [/] a ver .
+*FAT:	con cuidado .
+*FAT:	así .
+*FAT:	para que esté +/.
+*FAT:	&=e tiene dos patas ! [+ ADS]
+*FAT:	&=e hombre !
+*FAT:	una con un calcetín rojo y la otra con un calcetín +...
+*FAT:	&=q y una rayita +..?
+*FAT:	mira qué bien .
+*FAT:	qué bonito nos ha quedado .
+*FAT:	todo .
+*FAT:	está ahí el niño yo creo .
+*FAT:	&=q lo has encontrado ? [+ COR]
+*FAT:	con cuidado &=q &-eh ?
+*FAT:	hala@i .
+*FAT:	hala@i .
+*FAT:	&=q por qué no lo pones aquí ?
+*FAT:	&=q por qué no lo pones aquí de pie ?
+*FAT:	mira .
+*FAT:	así .
+*FAT:	oh [x 2] .
+*FAT:	aquí está muy bien .
+*FAT:	ahí no se cae .
+*FAT:	sí .
+*FAT:	qué bien &=q &-eh ?
+*FAT:	tuturú@o .
+*FAT:	uy@i .
+*FAT:	uy@i que me caigo .
+*FAT:	oy@i que se cae este dragón .
+*FAT:	no te creas tú que está para muchas aventuras .
+*FAT:	mira .
+*FAT:	está el dragón verde .
+*FAT:	luego está el dragón rojo .
+*FAT:	y el pájaro murciélago amarillo .
+*FAT:	&=e qué montón !
+*FAT:	mira .
+*FAT:	allí hay más piezas , Juan .
+*FAT:	&=q qué haces ?
+*FAT:	&=q le vas a poner un asiento al señor ?
+*FAT:	mira .
+*FAT:	trae esas dos piezas que hay allí lejos .
+*FAT:	allí al lado de la puerta .
+*FAT:	ahí al lado de la puerta .
+*FAT:	mira a ver allí .
+*FAT:	a ver si podemos hacer con estas piezas un asiento al señor .
+*FAT:	hala@i qué bien .
+*FAT:	cuántas hay .
+*FAT:	mira .
+*FAT:	a ver si con estas podemos hacer le un asiento .
+*FAT:	ay@i [x 3] .
+*FAT:	con cuidado .
+*FAT:	ay@i [x 3] .
+*FAT:	a ver .
+*FAT:	&=q dónde le quieres hacer el asiento ?
+*FAT:	&=q dónde ?
+*FAT:	&=q en las alas del dragón ? [+ COR]
+*FAT:	uf@i .
+*FAT:	no tenemos tantas piezas , Juan Apellido .
+*FAT:	mira a ver si con esto tienes bastante .
+*FAT:	&=q así ?
+*FAT:	mira .
+*FAT:	mira .
+*FAT:	aquí .
+*FAT:	mira así .
+*FAT:	pero si me has dicho que aquí no lo hiciera , cachirulo .
+*FAT:	oye .
+*FAT:	&=q nos vamos a tender la ropa ?
+*FAT:	que ha terminado la lavadora .
+*FAT:	hala@i qué bien .
+*FAT:	&=q o te quieres quedar aquí tú mientras yo tiendo la ropa ?
+*FAT:	&=q te quedas mientras tiendo la ropa ?
+*FAT:	venga .
+*FAT:	ahora vengo .

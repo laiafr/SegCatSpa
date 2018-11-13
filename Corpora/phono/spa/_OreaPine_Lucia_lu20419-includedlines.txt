@@ -1,0 +1,212 @@
+*MOT:	&=q hay un Jaime en tu cole ?
+*MOT:	&=q sí ?
+*MOT:	qué barbaridad .
+*MOT:	tienes una cantidad de +...
+*FAT:	&=q quién es Jaime ?
+*FAT:	&=q hay un Jaime aquí , Lucía ?
+*FAT:	&=q dónde está ?
+*FAT:	&=q &-eh ?
+*FAT:	hola , Lulú .
+*FAT:	hoy hay cocido para cenar .
+*MOT:	Jaime .
+*FAT:	vale ?
+*FAT:	&=q te sientas , Lucía ?
+*FAT:	a ver .
+*FAT:	anda pero si tienes las zapatillas rosas .
+*FAT:	&=q dónde está Carlos ?
+*FAT:	&=q en el suelo ?
+*FAT:	pues venga a buscar lo .
+*FAT:	&=e Lulú !
+*FAT:	&=q y Jaime ?
+*FAT:	uy@i , Carlos .
+*FAT:	corre .
+*FAT:	siénta telo ahí .
+*FAT:	y te sientas tú con él .
+*FAT:	&=q aquí lo ponemos ?
+*FAT:	hola [x 2] , Carlos .
+*FAT:	Lucía te va a dar de comer sopa .
+*FAT:	&=q te acerco la silla ?
+*FAT:	ah .
+*MOT:	&=q no ?
+*MOT:	a lo mejor es que no tiene hambre .
+*FAT:	&=q no tiene hambre Carlos ?
+*MOT:	&=q queso ?
+*MOT:	< pues no > [/] pues no hay otro , hija .
+*FAT:	este es el queso de Papá .
+*FAT:	&=q a que sí , Lucía ?
+*FAT:	&=q un qué , Lucía ?
+*FAT:	&=q quieres un poco de garbanzos ?
+*FAT:	&=q te gustan los garbanzos ?
+*MOT:	pues no lo sé .
+*MOT:	la verdad .
+*MOT:	< a ver > [/] a ver si te gustan los garbanzos .
+*FAT:	gar::ban::zo . [+ COR]
+*FAT:	&=q te gusta , Lu ?
+*MOT:	qué bien .
+*FAT:	&=q y Carlos toma garbanzos ?
+*FAT:	&=q no ?
+*FAT:	&=q qué cena Carlos ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q cena mano ?
+*FAT:	&=q qué es lo que come Carlos ?
+*FAT:	Lucía .
+*FAT:	&=q qué es lo que come Carlos ?
+*FAT:	&=q no come nada Carlos ?
+*MOT:	&=q no ?
+*MOT:	&=q no tiene hambre ?
+*MOT:	espera [x 2] .
+*MOT:	mira .
+*MOT:	es para ti .
+*MOT:	cóge los .
+*MOT:	no .
+*MOT:	de ahí .
+*FAT:	no .
+*FAT:	uno a uno , Lucía .
+*FAT:	Lucía .
+*FAT:	&=q qué has hecho en el colegio hoy ?
+*FAT:	cuenta .
+*FAT:	&=q &-eh ?
+*FAT:	&=q te han puesto un japi@f hoy en el colegio ?
+*FAT:	&=q hoy no te han puesto japi@f ?
+*FAT:	&=q por qué ?
+*FAT:	&=q no has hecho nada bueno ?
+*FAT:	&=q y has aprendido alguna canción ?
+*FAT:	&=q cual ?
+*MOT:	&=q el cocodrilo ?
+*FAT:	&=q cómo es ?
+*FAT:	a ver .
+*FAT:	&=q cómo es la canción del cocodrilo ?
+*FAT:	eso no es ninguna canción .
+*FAT:	eso es un baile .
+*FAT:	&=q es un baile o una canción ?
+*FAT:	&=q un baile ? [+ COR]
+*MOT:	&=q un baile ? [+ COR]
+*MOT:	&=q otra vez ?
+*FAT:	me voy a poner esto aquí .
+*FAT:	&=q vale , Mother ?
+*MOT:	vale .
+*MOT:	despacito , Lucía .
+*MOT:	&=q sí ?
+*FAT:	&=q de qué ?
+*FAT:	&=q más de qué , Lu ?
+*FAT:	&=q más +..?
+*MOT:	más albóndigas no .
+*MOT:	son garbanzos .
+*FAT:	garbanzos , Lucía .
+*FAT:	puse se lo tienes que pedir a +/.
+*MOT:	&=q sopa ?
+*FAT:	&=q cómo se pide la sopa ?
+*FAT:	&=q le pedimos a Mother que te traiga un platito con sopa y le ponemos garbanzos ?
+*FAT:	&=q no los quieres con sopa ?
+*FAT:	como Papá .
+*FAT:	mira .
+*FAT:	Papá los toma con sopa .
+*FAT:	voy a traer un platito o algo .
+*MOT:	y tráe te la sal , &=q vale ?
+*MOT:	espera que te va a traer Papá un plato .
+*FAT:	0 .
+*MOT:	no , Father .
+*FAT:	&=q qué ?
+*MOT:	que le vamos a poner sopa .
+*FAT:	&=q sopa ?
+*MOT:	&=q quieres sopa ?
+*FAT:	Lucía .
+*FAT:	&=q ha ido Juan a buscar te hoy a la guardería ?
+*FAT:	&=q no ?
+*FAT:	&=q quién ha ido ?
+*FAT:	ah , muy bien .
+*FAT:	&=q y qué has hablado con Rosa por teléfono ?
+*MOT:	&=q ah sí ?
+*MOT:	&=q ha hablado ella ?
+*FAT:	sí .
+*MOT:	&=q cuando ?
+*FAT:	ahora .
+*FAT:	hemos llamado a Rosa , &=q verdad ?
+*MOT:	&=q ahora , sí ?
+*FAT:	mm@i .
+*FAT:	Lucía .
+*FAT:	está quemando mucho .
+*MOT:	tienes que soplar fuerte .
+*FAT:	hay que soplar .
+*MOT:	sopla [x 2] .
+*MOT:	muy bien .
+*MOT:	así .
+*MOT:	no .
+*MOT:	un poquito más .
+*MOT:	sí .
+*FAT:	se llaman fideos (.) estos que son pequeñitos .
+*FAT:	< los fideos pequeñitos se llaman > [//] los espaguetis pequeños se llaman fideos .
+*FAT:	Lucía .
+*FAT:	no hay que hacer tanto ruido .
+*FAT:	es que sopla y se cae .
+*FAT:	Lucía .
+*FAT:	no hay que expresar así tampoco la satisfacción de la sopa .
+*MOT:	mm@i .
+*MOT:	qué bien .
+*FAT:	no [x 2] .
+*FAT:	no soples .
+*FAT:	ya [x 3] está bien .
+*FAT:	ya no hace falta soplar más .
+*MOT:	se cae .
+*FAT:	bueno .
+*FAT:	&=q y qué has hecho esta tarde ?
+*FAT:	a ver .
+*FAT:	cuenta .
+*FAT:	&=q has estado jugando con el puzle ?
+*FAT:	&=q y con Elsa ?
+*FAT:	&=q y qué hacías ?
+*FAT:	jo@i .
+*FAT:	es que así no hay conversación posible .
+*MOT:	joe@i Lucía .
+*FAT:	&=q dónde estaban las jirafas , Lulú ?
+*FAT:	&=q en una tele ?
+*FAT:	&=q qué jirafas eran ?
+*FAT:	Lucía .
+*FAT:	&=q y qué mas has visto en la tele ?
+*FAT:	&=q el qué ?
+*MOT:	elefantes .
+*FAT:	&=q elefantes ?
+*MOT:	oye , Lucía .
+*MOT:	despacito .
+*MOT:	no te pongas así toda atacada .
+*FAT:	&=q vamos a ver a Marta y a Hilario después ?
+*FAT:	&=q qué quieres mucho o poco ?
+*FAT:	no te digo a ti , pequeñaja .
+*FAT:	le digo a Mamá .
+*FAT:	bueno , Lulú .
+*FAT:	&=q qué mas nos cuentas ?
+*FAT:	&=q estaba hoy Alonso en la guardería ?
+*FAT:	&=q y qué habéis hecho ?
+*FAT:	&=q habéis jugado a la pelota ?
+*FAT:	&=q no ?
+*FAT:	&=q habéis montado en el triciclo ?
+*FAT:	&=q qué habéis hecho ?
+*MOT:	&=q dibujar ?
+*MOT:	&=q pintar ?
+*MOT:	ah , plastelina [: plastilina] hoy .
+*FAT:	&=q y qué habéis hecho ?
+*FAT:	&=q unas figuras de plastilina ?
+*MOT:	mira .
+*MOT:	tiene las uñas verdes .
+*FAT:	espera , Lucía .
+*FAT:	espera [x 2] , bonita .
+*MOT:	en el plato &=q verdad ?
+*FAT:	sí , espera que no es tan fácil , hija .
+*FAT:	parece que sí le gusta la sopa del cocido .
+*MOT:	el otro día no le gustaba la sopa porque tenía alcachofas &=q &-eh ?
+*FAT:	&=q sí ?
+*MOT:	sí .
+*FAT:	aquí está el fideo .
+*FAT:	se ha acabado el fi +/.
+*FAT:	corre .
+*FAT:	a la pila , Lucía .
+*FAT:	&=q no ?
+*FAT:	&=q lo dejamos aquí ?
+*FAT:	o te lo llevas a la pila .
+*MOT:	&=q a la pila con Carlos ?
+*FAT:	tú sola .
+*MOT:	&=q volando ? [+ ADS]
+*FAT:	ya .
+*FAT:	para .
+*MOT:	no , volando .
+*MOT:	deja la que corra .

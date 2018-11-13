@@ -1,0 +1,425 @@
+*FAT:	hola , Lucía .
+*FAT:	&=q cogemos un cuento , Lucía ?
+*FAT:	&=q y lo vemos (.) mientras se hacen los espaguetis ?
+*FAT:	a ver .
+*FAT:	&=q vemos este cuento ?
+*FAT:	a ver .
+*FAT:	&=q cuál es este ?
+*FAT:	&=q este no ?
+*FAT:	&=q cuál quieres , Lucía ?
+*FAT:	&=q este ?
+*FAT:	&=q este de quiénes son ?
+*FAT:	&=q quiénes son ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q son los perritos ?
+*FAT:	&=q cómo se llaman ?
+*FAT:	&=q los dálamatas ?
+*FAT:	&=q y cuántos son ?
+*FAT:	a ver .
+*FAT:	&=q cómo se llama este ?
+*FAT:	0 .
+*FAT:	muy bien .
+*FAT:	a ver .
+*FAT:	&=e uy@i !
+*FAT:	&=q quién es ?
+*FAT:	&=q y qué está haciendo ?
+*FAT:	&=q qué hace ?
+*FAT:	&=q qué hace Roger ?
+*FAT:	&=q qué está haciendo Roger , Lucía ?
+*FAT:	&=q qué está haciendo ?
+*FAT:	a ver .
+*FAT:	ti@o [x 7] .
+*FAT:	ti@o [x 7] .
+*FAT:	&=q qué está haciendo ?
+*FAT:	&=q &-eh , Lucía ?
+*FAT:	a ver .
+*FAT:	&=q este quién es ?
+*FAT:	&=q y qué mira ?
+*FAT:	la ventana .
+*FAT:	&=q y a quién ve ?
+*FAT:	&=q &-eh ?
+*FAT:	anda .
+*FAT:	mira .
+*FAT:	&=q quiénes son todos estos ?
+*FAT:	&=q &-eh , Lu ?
+*FAT:	&=q quiénes son ?
+*FAT:	&=q quiénes son todos esos perritos ?
+*FAT:	&=q &-eh , Lucía ?
+*FAT:	cuénta me .
+*FAT:	&=q quiénes son ?
+*FAT:	&=q son amiguitos de Pongo ?
+*FAT:	&=q o qué ?
+*FAT:	&=q son amiguitos ?
+*FAT:	anda .
+*FAT:	mira .
+*FAT:	&=q qué es este ?
+*FAT:	&=q y este ?
+*FAT:	&=q y este ?
+*FAT:	&=q y este ?
+*FAT:	&=q cuántos perros hay ?
+*FAT:	a ver .
+*FAT:	vamos a contar los .
+*FAT:	muy bien .
+*FAT:	&=e toma ya !
+*FAT:	&=q y esta niña ?
+*FAT:	uy@i .
+*FAT:	&=q qué tiene ?
+*FAT:	&=q qué tiene en la boca ?
+*FAT:	&=q qué va chupando ?
+*FAT:	&=q un caramelo ?
+*FAT:	ah , muy bien .
+*FAT:	&=q y esta señora ?
+*FAT:	&=q y esta señora , Lucía ?
+*FAT:	&=q está montando en la bicicleta ?
+*FAT:	muy bien .
+*FAT:	&=q quieres otro pan ?
+*FAT:	&=q y cómo se pide ?
+*FAT:	&=q y qué es , el último ?
+*FAT:	vale .
+*FAT:	toma .
+*FAT:	&=q cómo se dice ?
+*FAT:	muy bien , Lucía .
+*FAT:	0 .
+*FAT:	es grande &=q verdad ?
+*FAT:	&=q y para quién es ?
+*FAT:	&=q para ti ?
+*FAT:	&=q y a mí me das un poquito ?
+*FAT:	&=q y a Mamá ?
+*FAT:	&=q tampoco le damos ?
+*FAT:	&=q y a Roger ?
+*FAT:	&=q le damos un poquito a Roger ?
+*FAT:	pin@o [x 5] .
+*FAT:	a ver .
+*FAT:	&=q quiénes son estas ?
+*FAT:	&=q es Anita ?
+*FAT:	&=q y qué está haciendo Anita ?
+*FAT:	&=q está de paseo ?
+*FAT:	&=q con quién ?
+*FAT:	&=q con Anita ?
+*FAT:	bueno .
+*FAT:	&=q y por dónde van ?
+*FAT:	&=q un paseo por dónde ?
+*FAT:	&=q por la calle ?
+*FAT:	muy bien .
+*FAT:	uy@i .
+*FAT:	mira .
+*FAT:	&=q qué está haciendo ahora Roger ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué hace ?
+*FAT:	&=q el qué ?
+*FAT:	&=q durmiendo ?
+*FAT:	&=q porque tiene el ojito cerrado ?
+*FAT:	no .
+*FAT:	está poniéndo se el abrigo &=q verdad ?
+*FAT:	&=q está poniéndo se el abrigo ?
+*FAT:	muy bien .
+*FAT:	&=q y ahora dónde están ?
+*FAT:	en el parque .
+*FAT:	&=q y qué están haciendo ?
+*FAT:	&=q están debajo del árbol ?
+*FAT:	&=q y qué hace Anita ?
+*FAT:	a ver .
+*FAT:	&=q esta es Perdita ?
+*FAT:	&=q y qué está haciendo Anita ?
+*FAT:	&=q sostiene el libro ? [+ COR]
+*FAT:	y lo está leyendo &=q verdad ?
+*FAT:	&=q está leyendo un libro ?
+*FAT:	&=q muchos [x 2] espaguetis , Lucía ?
+*FAT:	&=q estamos poniendo los espaguetis en la cacerola mientras cocinamos un poquito , Lucía ?
+*FAT:	&=q &-eh ?
+*FAT:	hala@i .
+*FAT:	a cocinar .
+*FAT:	ya lo sé .
+*FAT:	&=q me traes un café+con+leche tú ?
+*FAT:	&=q no ?
+*FAT:	bueno .
+*FAT:	&=q qué tiempo ponemos el reloj ?
+*FAT:	vamos a poner ocho minutos .
+*FAT:	&=q vale ?
+*FAT:	para que se hagan bien los espaguetis .
+*FAT:	no , Lucía .
+*FAT:	ese era el último .
+*FAT:	&=q te acuerdas que dijimos que ese era el último ?
+*FAT:	era el último .
+*FAT:	&=q quieres una pasa ?
+*FAT:	&=q no quieres pasas ?
+*FAT:	&=q no ?
+*FAT:	ah .
+*FAT:	te voy a poner una salchicha .
+*FAT:	&=q vale ?
+*FAT:	&=q qué quieres ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué quieres ?
+*FAT:	&=q pasas quieres ?
+*FAT:	&=q a ver dónde están las pasas ?
+*FAT:	&=q cuántas ?
+*FAT:	uy@i .
+*FAT:	si ya no quedan casi , Lucía .
+*FAT:	mira .
+*FAT:	sólo quedan estas .
+*FAT:	uy@i .
+*FAT:	&=q ya no quedan más ?
+*FAT:	a ver .
+*FAT:	&=q qué más hay , Lucía ?
+*FAT:	cuenta .
+*FAT:	&=q te has comido todas las pasas ?
+*FAT:	&=q dónde están ahora ?
+*FAT:	&=q están en la boca ?
+*FAT:	a ver .
+*FAT:	&=q y aquí qué hay ?
+*FAT:	a ver .
+*FAT:	tienes un poquito de fiebre , hija .
+*FAT:	no .
+*FAT:	no hay más .
+*FAT:	no .
+*FAT:	no hay , mi+amor .
+*FAT:	&=q el qué hay ?
+*FAT:	&=q el qué hay ?
+*FAT:	&=q el qué ?
+*FAT:	&=q el qué quieres ?
+*FAT:	&=q estrellas ?
+*FAT:	&=q dónde están las estrellas ?
+*FAT:	&=q en la nevera ?
+*FAT:	&=q estrellas ?
+*FAT:	&=q qué son estrellas ?
+*FAT:	&=q qué son (.) estrellas ?
+*FAT:	&=q qué quieres ?
+*FAT:	&=q un quesito ?
+*FAT:	no sé lo que son estrellas , Lucía .
+*FAT:	&=q qué son las estrellas ?
+*FAT:	&=q quieres más pan ?
+*FAT:	no .
+*FAT:	pero hay que tomar espaguetis ahora con salchicha , Lucía .
+*FAT:	&=q no quieres ?
+*FAT:	&=q y si se lo damos a los perritos ?
+*FAT:	&=q y a Perdita ?
+*FAT:	&=q y a Roger y a Pongo ?
+*FAT:	&=q y a: Lucía ?
+*FAT:	carota@f .
+*FAT:	carota@f , Lucía .
+*FAT:	&=q cómo quieres los espaguetis ?
+*FAT:	&=q con tomate ?
+*FAT:	&=q y con qué más ?
+*FAT:	&=q con pan ?
+*FAT:	Lucía .
+*FAT:	ya no hay más pan .
+*FAT:	no .
+*FAT:	no llores .
+*FAT:	no .
+*FAT:	no te podemos dar más pan que tienes que tomar espaguetis .
+*FAT:	Lucía , no .
+*FAT:	no llores .
+*FAT:	&=q la pasa ?
+*FAT:	&=q dónde está ?
+*FAT:	a ver .
+*FAT:	ya no está .
+*FAT:	&=q está aquí en la tripita ahora ?
+*FAT:	&=q dónde está la pasa ?
+*FAT:	a ver , venga .
+*FAT:	vamos a dar le vuelta a los espaguetis para que estén ya .
+*FAT:	< ya rápido ya rápido > [/] ya rápido .
+*FAT:	&=q vale ?
+*FAT:	a ver , espaqueti , si te das prisa .
+*FAT:	mientras tanto vamos a hacer las salchichas .
+*FAT:	a ver: , salchicha , al plato de Lucía .
+*FAT:	un poquito de salchicha .
+*FAT:	a ver: .
+*FAT:	&=q quieres tu cuchara ?
+*FAT:	&=q dónde está ?
+*FAT:	&=q para coger las salchichas ?
+*FAT:	&=q y dónde está tu cuchara , Lucía ?
+*FAT:	ah .
+*FAT:	&=q allí con los crispis ?
+*FAT:	espera .
+*FAT:	vamos a coger la cuchara de Lucía .
+*FAT:	&=q para las salchichas ?
+*FAT:	venga .
+*FAT:	vamos a poner aquí la cuchara .
+*FAT:	&=q esta ?
+*FAT:	toma , Lucía .
+*FAT:	tu cuchara .
+*FAT:	venga .
+*FAT:	&=q guardamos el libro ?
+*FAT:	&=q dónde tienes pupa ?
+*FAT:	&=q en el babero ?
+*FAT:	ya está , bonita .
+*FAT:	ya está .
+*FAT:	&=q espaguetis ?
+*FAT:	ya están viniendo los espaguetis de Lucía con mucho tomate .
+*FAT:	&=q vale ?
+*FAT:	&=q con tomate ?
+*FAT:	&=q con esto ?
+*FAT:	&=q y quieres un poquito de queso encima del tomate ?
+*FAT:	venga .
+*FAT:	vamos a poner queso .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	este de aquí .
+*FAT:	a ver: , Lulú .
+*FAT:	&=q qué es eso ?
+*FAT:	para los espaguetis &=q verdad ?
+*FAT:	&=q qué , Lucía ?
+*FAT:	&=q a cenar ?
+*FAT:	&=q qué estás haciendo ?
+*FAT:	&=q quieres poner espaguetis con tomate ?
+*FAT:	a ver .
+*FAT:	a ver , Lucía .
+*FAT:	&=e uy@i !
+*FAT:	Lucía , no .
+*FAT:	si todavía no tienes los espaguetis .
+*FAT:	&=q lo guardamos ?
+*FAT:	no: .
+*FAT:	que se va a caer todo .
+*FAT:	mira .
+*FAT:	vamos a poner lo aquí .
+*FAT:	mira .
+*FAT:	ya están los espaguetis .
+*FAT:	a ver .
+*FAT:	espaguetis buscan a una niña .
+*FAT:	&=q dónde está esta niña ?
+*FAT:	a ver .
+*FAT:	que levante la mano la niña que se va a comer los espaguetis .
+*FAT:	no .
+*FAT:	no la veo .
+*FAT:	&=q dónde está ?
+*FAT:	no .
+*FAT:	no la veo .
+*FAT:	&=q dónde está esa niña que se ha perdido ?
+*FAT:	me voy a comer yo los espaguetis .
+*FAT:	no .
+*FAT:	Papá se los va a comer todos .
+*FAT:	ah , sí .
+*FAT:	está ahí la niña de los espaguetis .
+*FAT:	vamos a dar le unos buenos espaguetis con tomate .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	los espaguetis .
+*FAT:	&=q cuánto tomate ponemos ?
+*FAT:	mucho [x 3] .
+*FAT:	a ver .
+*FAT:	vamos a cortar lo todo bien .
+*FAT:	&=q vale ?
+*FAT:	así [x 3] .
+*FAT:	hala@i .
+*FAT:	&=e cuántos espaguetis , Lucía !
+*FAT:	&=q le pongo tomate ?
+*FAT:	muy bien .
+*FAT:	&=q cuánto ?
+*FAT:	&=q así ?
+*FAT:	&=q y quesito ?
+*FAT:	&=q quesito no quieres , no ?
+*FAT:	uy@i .
+*FAT:	cuidado que quema .
+*FAT:	quema mucho .
+*FAT:	&=q &-eh , Lu ?
+*FAT:	&=q vamos a soplar ?
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q quieres que lo pruebe Papá primero ?
+*FAT:	&=q dónde está ?
+*FAT:	&=q está en la foto ?
+*FAT:	&=q y qué hace ?
+*FAT:	&=q está cocinando ? [+ COR]
+*FAT:	&=q el qué está cocinando ?
+*FAT:	&=q está cocinando leche ?
+*MOT:	está cenando .
+*FAT:	&=e ah !
+*FAT:	&=q cenando ?
+*FAT:	&=q leche con galletas ?
+*FAT:	&=q y qué más ?
+*FAT:	mm@i .
+*FAT:	&=q se ha tomado cuántas galletas Lucía ?
+*FAT:	no: .
+*FAT:	&=q te has tomado dos ?
+*FAT:	&=q te has tomado muchas ?
+*MOT:	te lo está pidiendo .
+*FAT:	no: , Lucía .
+*FAT:	ya te has tomado dos , mi+amor .
+*FAT:	no , mi+amor .
+*FAT:	te has tomado dos ya .
+*FAT:	te va a doler la tripita .
+*FAT:	&=q es Lucía ?
+*FAT:	corre .
+*FAT:	di le algo .
+*FAT:	corre .
+*FAT:	di le algo más .
+*FAT:	cuénta le una cosa .
+*FAT:	&=q eso le cuentas ?
+*FAT:	y a ver .
+*FAT:	&=q te han puesto un japi@f en el cole ?
+*FAT:	&=q dónde ?
+*FAT:	&=q en la frente ?
+*FAT:	&=q y por qué te han puesto un japi@f ?
+*FAT:	&=q y por qué te ha puesto Rocío un japi@f , Lucía ?
+*FAT:	&=q por portar te bien ?
+*FAT:	&=q o por estar jugando con los nenes ?
+*FAT:	vaya .
+*FAT:	&=q y qué has estado , con los Abus@f ?
+*FAT:	&=q con quién has estado esta tarde ?
+*FAT:	&=q y qué has hecho ?
+*FAT:	&=q has estado jugando con el puzle ?
+*FAT:	&=q y qué animales había en el puzle ?
+*FAT:	a ver .
+*FAT:	muy bien .
+*FAT:	el oso+panda lo ha aprendido esta tarde .
+*MOT:	&=q ah , sí ?
+*FAT:	sí .
+*FAT:	&=q quién más había ?
+*MOT:	una cebra .
+*FAT:	&=q una cebra ?
+*FAT:	&=q y qué hacía la cebra ?
+*FAT:	&=q quieres más leche ?
+*FAT:	vale .
+*FAT:	píde sela a Mamá .
+*FAT:	corre .
+*MOT:	vale .
+*FAT:	&=q cómo se pide ?
+*FAT:	muy bien .
+*FAT:	&=q y qué se dice ?
+*MOT:	de+nada .
+*MOT:	de+nada .
+*FAT:	please@s .
+*MOT:	no .
+*FAT:	Lucía .
+*FAT:	&=q cómo era la canción de < soy un chino > [/] soy un chino+mandarín ?
+*FAT:	< de la era > [/] de la era del Japón pon@x [x 2] [/] .
+*FAT:	a ver .
+*FAT:	&=q cómo es ?
+*MOT:	coleta .
+*FAT:	&=q ah es mi coleta ?
+*FAT:	&=q como la de +..?
+*FAT:	ah hoy no lleva Mother coleta .
+*FAT:	sí .
+*MOT:	sí que lleva .
+*FAT:	&=q no tiene coleta del chino+mandarín ?
+*FAT:	&=q cómo es la canción del chino+mandarín ?
+*MOT:	yo te ayudo , Lucía .
+*MOT:	< de la era > [/] de la era del Japón pon@x [x 2] [/] .
+*MOT:	< y me gusta > [/] y me gusta el coletín tin@x [x 2] [/] .
+*FAT:	< soy un chino > [/] soy un chino mandarón rin@x [x 2] [/] . 
+*MOT:	si vas a por un cafetín tin@x [x 2] .
+*MOT:	una china me tiró del coletín tin@x [x 2] [/] .
+*MOT:	oye chino si te quieres deviertir tir@x [x 2] [/] .
+*FAT:	&=q no quieres que te tire de la coleta ?
+*MOT:	&=q mucho [x 2] qué ?
+*FAT:	&=q te vas con Mamá ?
+*MOT:	a ver , Lucía .
+*MOT:	< a ver > [/] a ver Lucía .
+*MOT:	al pasar por un cafetín tin@x [x 2] [/] .
+*MOT:	una china me tiró del coletín tin@x [x 2] [/] .
+*MOT:	oye chino si te quieres deviertir tir@x [x 2] [/] .
+*MOT:	< yo te tiro > [/] yo te tiro el coletín tin@x [x 2] [/] .
+*FAT:	toma .
+*FAT:	la leche de Lucía .
+*FAT:	aao@o .
+*MOT:	&=q quieres ?
+*MOT:	al pasar por un cafetín tin@x [x 2] [/] .
+*MOT:	una china me tiró del coletín tin@x [x 2] [/] .
+*MOT:	oye chino si te quieres deviertir tir@x [x 2] [/] .
+*MOT:	< yo te tiro > [/] te tiro el coletín tin@x [x 2] [/] .
+*MOT:	&=q tienes pupa ?
+*MOT:	&=q dónde , hija ?
+*MOT:	no: .
+*MOT:	no es ninguna pupa .
+*MOT:	no es pupita .
+*MOT:	&=q quieres pis ?

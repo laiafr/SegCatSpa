@@ -1,0 +1,240 @@
+*MOT:	mira qué guay .
+*MOT:	uh@i .
+*MOT:	es que si tuvieran helio irían hacia arriba .
+*MOT:	pero no tienen helio .
+*MOT:	tienen oxígeno .
+*MOT:	toma .
+*MOT:	tú [x 2] .
+*MOT:	si quieres tú .
+*MOT:	ahora xxx tres . [+ NON]
+*MOT:	< este también > [/] coge este también .
+*MOT:	así .
+*MOT:	los tres para arriba .
+*MOT:	yupi@i .
+*MOT:	hala@i .
+*MOT:	< pero claro no es > [//] hala@i qué bien .
+*MOT:	uy@i .
+*MOT:	van por encima de la cabeza de Juan .
+*MOT:	por debajo .
+*MOT:	mm@i .
+*MOT:	es que ese es más pequeño .
+*MOT:	xxx .
+*FAT:	&=q “mira doblado” dice ?
+*FAT:	&=q o qué dice ?
+*FAT:	&=q qué tienes ?
+*FAT:	ah .
+*FAT:	&=e es morado !
+*FAT:	&=q el hilo que tienes ahí es morado ?
+*FAT:	&=q cómo dices ?
+*FAT:	&=q toma +..?
+*FAT:	&=q qué es esto ?
+*FAT:	&=q un globo ? [+ ADS]
+*FAT:	mira [x 3] lo que hace Papá .
+*FAT:	mira cómo bota y rebota .
+*FAT:	&=q tú pones a volar los globos ? [+ ADS]
+*FAT:	&=q sí ?
+*FAT:	&=q dónde está Mamá ?
+*FAT:	&=q quieres que lo ponga a volar así ?
+*FAT:	pero ponte ahí .
+*FAT:	&=q así ?
+*FAT:	&=q pongo el globo ahí a volar ?
+*FAT:	así .
+*FAT:	mira .
+*FAT:	así .
+*FAT:	&=q había una feria ? [+ ADS]
+*FAT:	&=q dónde ?
+*FAT:	&=q dónde había una feria , Juan ?
+*FAT:	&=q había caballitos ? [+ ADS]
+*FAT:	&=q en la feria ?
+*FAT:	pero ya hace mucho tiempo , &=q no ?
+*FAT:	&=q cuándo fue eso ?
+*FAT:	&=q así eran los caballitos ?
+*FAT:	&=q o así era el globo ?
+*FAT:	&=q así era el globo ? [+ ADS]
+*FAT:	&=q y de qué color era ?
+*FAT:	&=q naranja y verde ? [+ ADS]
+*FAT:	&=q y amarillo ? [+ ADS]
+*FAT:	poin@o .
+*FAT:	&=q tiene la cola amarilla el amarillo ?
+*FAT:	&=q tiene un hilito amarillo ?
+*FAT:	&=q qué no se hace ?
+*FAT:	&=q los dos juntos ?
+*FAT:	&=q quieres que tenga los dos juntos ?
+*FAT:	&=q o que los ponga a botar los dos juntos ?
+*FAT:	no se puede .
+*FAT:	&=q ves ?
+*FAT:	&=q qué pasa ?
+*FAT:	rebota .
+*FAT:	mira [x 3] .
+*FAT:	rebota .
+*FAT:	< poin@o poin@o > [/] poin@o .
+*FAT:	&=q qué hace el tuyo ?
+*FAT:	&=q una película había ?
+*FAT:	&=q una película de Egipto ?
+*FAT:	&=q del Príncipe_de_Egipto ?
+*FAT:	&=q sí ?
+*FAT:	&=q esa película viste ?
+*FAT:	&=q esa película viste ?
+*FAT:	&=q y te gustó ?
+*FAT:	pero no te pongas fuera de la manta , Juan .
+*FAT:	venga .
+*FAT:	coge el helicóptero si quieres .
+*FAT:	cariño .
+*FAT:	pero así no te veo .
+*FAT:	&=q sabes ?
+*FAT:	así no te veo .
+*FAT:	porque así si estoy haciendo cosas yo por aquí te puedo ver .
+*FAT:	así .
+*FAT:	pues aquí estoy viéndo te .
+*FAT:	pero bueno [x 3] .
+*FAT:	qué bonito ha quedado el helicóptero con todas las pegatinas puestas .
+*FAT:	&=q &-eh ?
+*FAT:	&=q y qué bonito ha quedado el helicóptero , verdad , con el ganchito puesto también ?
+*MOT:	&=q < qué esta@x > [//] de qué estabas hablando de películas , Juan ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q de El_Príncipe_de_Egipto ?
+*MOT:	&=q y qué pasó en esa película ?
+*MOT:	&=q a ver ?
+*MOT:	cuénta nos .
+*MOT:	había caballos . [+ ADS]
+*MOT:	&=q y qué más ?
+*MOT:	carros . [+ ADS]
+*MOT:	&=q y qué más ?
+*MOT:	señores . [+ ADS]
+*MOT:	&=q cómo se llamaban los dos señores ?
+*MOT:	uno se llamaba (.) Mo@x +...
+*MOT:	Moi@x +...
+*MOT:	Moisés .
+*MOT:	&=q y el otro ?
+*MOT:	Ram@x +...
+*MOT:	sés@x . [+ ADS]
+*MOT:	sí .
+*MOT:	&=q y quién más había ?
+*MOT:	&=q qué más había ?
+*MOT:	a ver .
+*MOT:	un encantador de serpientes .
+*FAT:	un encantador de serpientes .
+*MOT:	&=q también salía un encantador de serpientes ?
+*MOT:	&=q sí ?
+*MOT:	había fuego . [+ ADS]
+*MOT:	&=q y qué más ?
+*MOT:	&=q qué más ?
+*MOT:	&=q qué más ?
+*MOT:	&=q qué más , Juan ?
+*FAT:	había el mar .
+*MOT:	ah , el mar .
+*MOT:	&=q te acuerdas el mar ?
+*MOT:	cuando se abre para que pasen .
+*FAT:	había también mucha gente .
+*FAT:	había las pirámides .
+*FAT:	los templos .
+*FAT:	había ovejas .
+*MOT:	&=q ovejas que se llaman corderos ?
+*FAT:	&=q y qué más había ?
+*FAT:	ca@x [//] había un ca@x +...
+*FAT:	sí .
+*FAT:	y también había un camello .
+*FAT:	&=q te acuerdas del camello ?
+*MOT:	mm@i .
+*MOT:	que es más grande que un caballo .
+*FAT:	y luego había un señor que tenía una +...
+*FAT:	muy larga .
+*FAT:	&=q de color +..?
+*FAT:	blanco .
+*MOT:	oye .
+*MOT:	&=q y dónde vistes esa película , Juan ?
+*MOT:	&=q &-eh , Juan ?
+*MOT:	&=q dónde vistes esa película ?
+*MOT:	&=q en un cine ? [+ COR]
+*MOT:	&=q en qué cine ?
+*MOT:	&=q a ver en qué cine ?
+*FAT:	&=q se come el helicóptero ?
+*FAT:	&=q y ahora se mete en el helicóptero ?
+*MOT:	cuidado [x 3] .
+*FAT:	cuidado que se rompe .
+*MOT:	quíta lo que se rompe , Juan .
+*MOT:	no tires .
+*FAT:	desengancha lo .
+*FAT:	pon el helicóptero más cerca , Juan .
+*FAT:	< más cerca de la alfombra > [/] más cerca de la alfombra .
+*FAT:	al revés .
+*MOT:	a ver .
+*MOT:	yo te ayudo .
+*FAT:	ahí .
+*MOT:	ahí está .
+*MOT:	se habrá quedado debajo de la alfombra .
+*MOT:	mira a ver .
+*FAT:	mira a ver si se ha escondido ahí debajo .
+*FAT:	al revés .
+*FAT:	al otro lado .
+*MOT:	no .
+*MOT:	< para la otra parte > [/] para la otra parte .
+*MOT:	coloca bien la alfombra como estaba .
+*MOT:	estira la alfombra hacia allá , Juan .
+*MOT:	que estará debajo .
+*FAT:	< al revés > [/] al revés .
+*MOT:	< así no > [/] así no .
+*FAT:	al revés .
+*MOT:	al revés .
+*MOT:	hacia allá .
+*FAT:	no cariño , no .
+*FAT:	< extiende bien la > [/] extiende bien la alfombra y ya verás cómo aparece el dinosaurio .
+*FAT:	extiénde la .
+*FAT:	pon la bien .
+*FAT:	como estaba antes .
+*MOT:	así .
+*FAT:	un poquito más .
+*FAT:	mira .
+*FAT:	coge de aquí de las puntas y lléva la para allá .
+*FAT:	e@x [/] eso es .
+*FAT:	de ahí .
+*FAT:	extiénde la bien .
+*FAT:	déja la bien pegadita al suelo .
+*FAT:	qué difícil &=q &-eh ?
+*FAT:	mira .
+*FAT:	ya falta muy poco .
+*FAT:	ya verás .
+*FAT:	venga .
+*FAT:	sigue haciéndo lo ahí .
+*MOT:	a ver .
+*MOT:	venga .
+*MOT:	Mamá te ayuda .
+*MOT:	&=q vale ?
+*FAT:	&=q te ayuda Mamá ?
+*MOT:	una ayudita .
+*MOT:	mira .
+*MOT:	hala@i .
+*MOT:	mira quién aparece por aquí .
+*MOT:	el dinosaurio .
+*MOT:	a ver .
+*MOT:	vamos a colocar la bien así .
+*MOT:	&=q vale ?
+*MOT:	hala@i , otro .
+*MOT:	< ese era > [//] ese salía en la peli .
+*MOT:	&=q te acuerdas ?
+*MOT:	era la Emi .
+*MOT:	la viejecita .
+*MOT:	&=q y ese era ?
+*MOT:	a ver .
+*MOT:	&=q ese era ?
+*MOT:	Alagar .
+*MOT:	este yo creo que era Alagar .
+*MOT:	sí , mira .
+*MOT:	el tiranosaurio .
+*MOT:	este era Alagar .
+*MOT:	no se comen .
+*MOT:	se llevaban muy bien .
+*MOT:	&=q vas a dormir ?
+*MOT:	hala@i .
+*MOT:	un dinosaurio < en una > [//] en un helicóptero .
+*MOT:	no va a poder subir .
+*MOT:	que los dinosaurios pesan mucho .
+*FAT:	&=q a ver , Juan ?
+*FAT:	&=q cómo queda ?
+*FAT:	&=q a ver , Juan ?
+*FAT:	uh@i [x 2] .
+*FAT:	bueno .
+*FAT:	esto se acaba .
+*FAT:	&=q lo ha echado al mar ?
+*FAT:	&=q o lo has hecho mal ? [+ COR]
+*MOT:	Juan .

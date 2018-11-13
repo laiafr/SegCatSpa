@@ -1,0 +1,322 @@
+*MOT:	+" no está nada bien .
+*MOT:	+" que con las manos te toques los pies .
+*MOT:	+" no cojas la comida con la mano .
+*MOT:	&=q qué está cogiendo ?
+*MOT:	claro .
+*MOT:	no hay que hacer lo .
+*MOT:	no hay que coger los con la mano .
+*MOT:	&=q a que no ?
+*MOT:	eso .
+*MOT:	y el tenedor .
+*MOT:	+" ni la ropa te debes quitar .
+*MOT:	+" y tu cuerpo desnudo dejar .
+*MOT:	+" pero si los dos años aún no has cumplido .
+*MOT:	+" todo te está permitido .
+*MOT:	+" sacar la lengua .
+*MOT:	+" es muy feo .
+*MOT:	+" y es de mala educación .
+*MOT:	+" sorber los mocos con pasión .
+*MOT:	+" no está nada bien .
+*MOT:	+" que con las manos te toques los pies .
+*MOT:	+" no cojas la comida con la mano .
+*MOT:	+" pero si los dos años aún no has cumplido .
+*MOT:	+" todo esto te está permitido .
+*MOT:	&=q otra vez ?
+*MOT:	+" sacar la lengua .
+*MOT:	+" es muy feo .
+*MOT:	la lengua no porque se la has arrancado tú ya .
+*MOT:	ya no tiene lengua .
+*FAT:	&=q cuál es el teléfono de www ?
+*MOT:	www .
+*MOT:	+" y es de mala educación .
+*MOT:	+" sorber los mocos con pasión .
+*MOT:	+" no está nada bien .
+*MOT:	+" que con las manos te toques los pies .
+*MOT:	+" no cojas la comida con la mano .
+*MOT:	+" porque te llamarán (.) marrano .
+*MOT:	+" ni la ropa te debes quitar .
+*MOT:	+" y tu cuerpo desnudo dejar .
+*MOT:	+" pero si los dos años aún no has cumplido .
+*MOT:	+" todo te está permitido .
+*MOT:	ay@i .
+*MOT:	< que mama > [//] &=q qué te está haciendo Mamá ?
+*FAT:	Lucía .
+*FAT:	&=q cogemos los colores ?
+*MOT:	&=q el qué ?
+*MOT:	&=q el cuento ?
+*MOT:	un nene con gafas .
+*MOT:	una nena .
+*MOT:	una nena con un lazo .
+*MOT:	un nene .
+*MOT:	ya .
+*MOT:	ot(r)a vez .
+*FAT:	a ver si te lo cuenta ella , Mother .
+*MOT:	a ver .
+*MOT:	&=q qué pasa aquí ?
+*MOT:	vale .
+*FAT:	a ver .
+*FAT:	&=q qué me cuentas tú ?
+*FAT:	&=q le das esto a Mamá ?
+*FAT:	venga .
+*MOT:	gracias .
+*FAT:	a ver cómo saltas , Lucía .
+*FAT:	&=q aquí ?
+*FAT:	0 .
+*FAT:	Lucía .
+*FAT:	&=q dónde están tus colores , Lucía ?
+*FAT:	y dibujamos un poquito .
+*FAT:	&=q no quieres ?
+*FAT:	&=q qué quieres hacer ?
+*FAT:	&=q a saltar ? [+ ADS]
+*FAT:	&=q a ver cómo saltas ?
+*FAT:	patapum@o .
+*FAT:	este es la [/] la cámara .
+*FAT:	&=q es Lucía ?
+*FAT:	sí: .
+*FAT:	Lucía .
+*FAT:	< &=q jugamos con lo del > [//] .
+*FAT:	venga .
+*FAT:	vamos a sacar las piezas del puzle .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q dejamos aquí el cuento ?
+*FAT:	&=q &-eh ?
+*MOT:	la del grande que es el divertido .
+*FAT:	&=q el grande es el diver@f ?
+*MOT:	el de las letras .
+*FAT:	este .
+*FAT:	&=q vale ?
+*FAT:	a ver .
+*FAT:	vamos a poner lo .
+*FAT:	no .
+*FAT:	pero aquí .
+*FAT:	vamos a poner lo aquí , Lu .
+*FAT:	sí .
+*FAT:	pero espera .
+*FAT:	a ver .
+*FAT:	&=q el qué ?
+*FAT:	&=q quieres saltar ?
+*FAT:	mi cremallera .
+*FAT:	no [x 3] .
+*FAT:	pupa no , Lucía .
+*FAT:	qué calentita al fuego .
+*FAT:	&=q &-eh , Lucía ?
+*FAT:	no .
+*FAT:	por+favor .
+*FAT:	pupa , no .
+*FAT:	uy@i .
+*FAT:	uy@i .
+*FAT:	me has chupado .
+*FAT:	no .
+*FAT:	no me chupes , Lu .
+*FAT:	hala@i .
+*FAT:	&=q y la z@l , Lucía ?
+*FAT:	&=q dónde está la z@l ?
+*MOT:	haz el puzle todo .
+*MOT:	con ella .
+*FAT:	&=q sí ?
+*FAT:	ah .
+*FAT:	&=q que lo haga yo ?
+*MOT:	sí .
+*FAT:	a ver , Lucía .
+*FAT:	vamos a hacer el puzle .
+*FAT:	&=q esta cuál es ?
+*FAT:	muy bien .
+*FAT:	&=q esta cuál es ?
+*FAT:	&=q g@l de qué ?
+*FAT:	muy bien .
+*FAT:	&=q y esto qué es ?
+*FAT:	w@l .
+*FAT:	&=q esta qué es ?
+*FAT:	&=q la I@l de qué ?
+*FAT:	&=q de +..?
+*FAT:	de: [//] la I@l de +...
+*FAT:	no: .
+*FAT:	&=q de uno ?
+*FAT:	no .
+*FAT:	venga .
+*FAT:	vamos a ver .
+*FAT:	&=q qué más ?
+*FAT:	a ver .
+*FAT:	saca la d@l .
+*FAT:	y la vaca .
+*FAT:	venga .
+*FAT:	vamos a poner la aquí y hacemos todo el puzle .
+*FAT:	&=q vale ?
+*FAT:	venga .
+*FAT:	uy@i .
+*FAT:	&=q esa cuál es ?
+*FAT:	&=q de qué ?
+*FAT:	muy bien .
+*FAT:	&=q y esa ?
+*FAT:	&=q de qué ?
+*FAT:	de kilo .
+*FAT:	muy bien .
+*FAT:	&=q y esta ?
+*FAT:	&=q j@l de qué ?
+*FAT:	o+sea la j@l y las uvas .
+*FAT:	&=q de qué es la j@l ?
+*FAT:	de Juana &=q verdad ?
+*FAT:	como la abuela .
+*FAT:	venga .
+*FAT:	vamos a poner la aquí también .
+*FAT:	a coger . [+ ADS]
+*FAT:	sí .
+*FAT:	&=q es la Zeta ?
+*FAT:	es un queso .
+*FAT:	sí .
+*FAT:	&=q y la m@l de qué ?
+*FAT:	&=q la m@l de +..?
+*FAT:	y de Mamá y de María .
+*FAT:	venga .
+*FAT:	vamos a poner la ahí también .
+*FAT:	corre .
+*MOT:	anda .
+*MOT:	es la Super_Bowl .
+*FAT:	sí .
+*FAT:	&=q es mañana , no ?
+*FAT:	&=q dice cuándo es ?
+*MOT:	es mañana sí .
+*MOT:	no lo dice .
+*MOT:	dice que es este fin de semana .
+*FAT:	sí .
+*FAT:	venga .
+*FAT:	vamos a poner aquí el queso .
+*FAT:	&=q no quieres poner el queso ?
+*FAT:	mira .
+*FAT:	&=q ponemos el queso con la q@l ?
+*FAT:	&=q la q@l de qué ?
+*FAT:	z@l de zapato .
+*FAT:	muy bien .
+*FAT:	uy@i .
+*FAT:	a ver .
+*FAT:	&=q así qué ?
+*FAT:	mira , Lucía .
+*FAT:	la gallina .
+*FAT:	mira .
+*FAT:	la gallina entra aquí .
+*FAT:	sí cabe .
+*FAT:	mira .
+*FAT:	ha cabido perfectamente .
+*FAT:	mira .
+*FAT:	&=q cuál es este ?
+*FAT:	&=q el avión con la +..?
+*FAT:	&=q con la a@l de qué ?
+*FAT:	a@l de avión y a@l de +..?
+*FAT:	de Anita .
+*FAT:	muy bien .
+*FAT:	venga .
+*FAT:	más .
+*FAT:	&=q ese de qué ?
+*FAT:	&=q ese de +..?
+*FAT:	no: .
+*FAT:	de Susana .
+*FAT:	muy bien .
+*FAT:	&=q son iguales ?
+*FAT:	&=q quiénes ?
+*FAT:	&=q quiénes son iguales ?
+*FAT:	&=q y cómo se quita el gordo este de los almohadones , Mother ? [+ ADD]
+*MOT:	los abres xxx . [+ NON]
+*FAT:	&=q y ya está ?
+*FAT:	&=q dónde está Lulu ?
+*MOT:	mejor no porque igual tienen una telita o algo .
+*FAT:	pues por eso .
+*FAT:	&=e uy@i !
+*FAT:	mira .
+*FAT:	está jugando al escondite .
+*FAT:	esto es un almohadón .
+*FAT:	lo vamos a hacer ahora , Mother .
+*MOT:	&=q el qué ?
+*FAT:	quitar esto .
+*FAT:	no: .
+*FAT:	es de Mamá .
+*FAT:	yo creo que habrá que hacer lo consiéndo lo .
+*FAT:	tiene aquí un fruncidito .
+*FAT:	&=q sábes ?
+*FAT:	&=q qué ?
+*FAT:	&=q este es tuyo ?
+*FAT:	venga .
+*FAT:	cóge lo .
+*FAT:	oye , Mother .
+*FAT:	estás un poco vagoneta .
+*MOT:	www .
+*FAT:	no [x 5] , Lucía .
+*FAT:	no hay que sacar lo .
+*FAT:	estos finitos no hay que sacar los .
+*FAT:	hay que sacar los gordos .
+*MOT:	www .
+*FAT:	ya .
+*FAT:	a ver , Lucía .
+*FAT:	sí .
+*FAT:	&=q te traes a Rita ?
+*FAT:	&=q dónde está Rita , Lucía ?
+*FAT:	&=q en el cuarto está ?
+*FAT:	&=q con quién esta ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q con los puzles ?
+*FAT:	&=q guardamos el otro puzle , Lucía ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q guardamos este puzle ?
+*FAT:	&=q y hacemos el de los animales ?
+*FAT:	venga .
+*FAT:	vamos a guardar lo bien [x 3] .
+*FAT:	que no se pierda ninguna ficha .
+*FAT:	&=q el qué ?
+*FAT:	la tapa está debajo de la caja .
+*FAT:	sí .
+*FAT:	&=q no lo guardas ?
+*FAT:	venga .
+*FAT:	&=q por qué no lo dejas encima de la otra mesa , Lucía ?
+*FAT:	y así puedes poner aquí las piezas .
+*FAT:	eso es .
+*MOT:	muy bien .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	&=q cuál hacemos ?
+*FAT:	pues venga .
+*FAT:	encúentra lo .
+*FAT:	&=q dónde está ?
+*FAT:	no lo encuentro . [+ COR]
+*FAT:	se dice .
+*FAT:	se dice no lo encuentro . [+ COR]
+*FAT:	pues venga , Lucía .
+*FAT:	&=q lo encuentro yo ?
+*FAT:	a ver .
+*FAT:	&=q dónde estás , caballo ?
+*FAT:	&=e uy@i !
+*FAT:	venga .
+*FAT:	vamos a hacer el cerdo .
+*FAT:	toma .
+*FAT:	venga .
+*FAT:	vamos a poner todas las pinturas .
+*FAT:	anda .
+*FAT:	mira dónde estaba .
+*FAT:	mira .
+*FAT:	lo tienes aquí debajo .
+*FAT:	a ver .
+*FAT:	muy bien .
+*FAT:	a ver .
+*FAT:	te falta la [x 2] pierna .
+*FAT:	&=q ves < la pierna > [//] la pata del caballo ?
+*FAT:	&=q dónde está la pata del caballo ?
+*FAT:	caramba .
+*FAT:	ya te lo sabes de memoria .
+*FAT:	&=q &-eh Lucía ?
+*FAT:	muy bien .
+*FAT:	hola , Lu .
+*FAT:	&=q y el cerdito ?
+*FAT:	vale .
+*FAT:	&=q dónde vas , Lucía ?
+*FAT:	&=q te haces pis ?
+*FAT:	espera .
+*FAT:	que voy contigo .
+*FAT:	&=q otra pieza ?
+*FAT:	&=q dónde está ?
+*FAT:	sí .
+*FAT:	hay que buscar la .
+*FAT:	venga .
+*FAT:	venga .
+*FAT:	&=q dónde está la otra pieza , Lucía ?
+*FAT:	&=q otra pieza falta ?
+*FAT:	&=q qué ?
+*FAT:	hola , Lu .

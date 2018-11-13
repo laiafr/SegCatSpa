@@ -1,0 +1,346 @@
+*MOT:	en un platito .
+*FAT:	&=q en un platito ?
+*MOT:	a ver .
+*MOT:	no .
+*MOT:	hay aquí .
+*MOT:	mira .
+*MOT:	en este , Lucía .
+*MOT:	en este .
+*MOT:	aquí .
+*MOT:	espera [x 2] .
+*MOT:	así .
+*MOT:	nos vamos allí .
+*MOT:	espera .
+*MOT:	ven [x 2] .
+*FAT:	bueno .
+*MOT:	&=q has ido al cole ?
+*MOT:	a ver .
+*MOT:	&=q qué has hecho en el cole ?
+*MOT:	&=q has estado con Rocío y Soco ?
+*MOT:	&=q y Mani ?
+*MOT:	&=q y qué más niños ?
+*MOT:	&=q Juan ?
+*MOT:	&=q Juan y Sofía ?
+*MOT:	&=q y quién más ?
+*MOT:	&=e y Nieves !
+*MOT:	anda .
+*MOT:	&=q Nieves es pequeñita ?
+*MOT:	&=q y Sofía es pequeñita ?
+*MOT:	hay una niña nueva .
+*MOT:	ya me está contando más niños .
+*MOT:	Nieves , Sofía .
+*FAT:	andá@i .
+*FAT:	&=q y qué más ?
+*MOT:	&=q y quién más ?
+*MOT:	&=e María y Mercedes !
+*FAT:	caramba .
+*FAT:	&=q qué son , amigas tuyas , Lu ?
+*FAT:	&=q de dónde ?
+*MOT:	&=q pero son pequeñitas ?
+*MOT:	&=q todas ?
+*MOT:	María , Mercedes , Sofía .
+*FAT:	&=q qué más ?
+*MOT:	Nieves , Juan .
+*MOT:	Sofía ya la he contado .
+*FAT:	&=q y qué hacían Sofía en la guardería , Lucía ?
+*FAT:	&=q &-eh ?
+*FAT:	&-eh .
+*FAT:	&=q de quién son las pasas ?
+*FAT:	bueno .
+*FAT:	pues yo me como el pollo (.) con [x 2] zanahorias .
+*MOT:	&=q y qué has hecho en el cole , Lucía ?
+*MOT:	&=q has pintado hoy también ?
+*MOT:	&=q con +..?
+*MOT:	&=q Jano@c ?
+*MOT:	&=q Alejandro ?
+*FAT:	&=q sí ?
+*MOT:	no tengo ni idea .
+*FAT:	&=q qué has pintado , con Alejandro ?
+*FAT:	&=q y qué pintabas ?
+*MOT:	&=q has pintado con Alejandro ?
+*MOT:	y Miguel también .
+*FAT:	&=q y qué pintabas , Lucía ?
+*MOT:	&=q pintabas con colores ?
+*MOT:	&=q y has hecho plastilina hoy o no ?
+*MOT:	mm@i .
+*MOT:	&=q y caca ?
+*MOT:	&=q has hecho caca ?
+*MOT:	&=q < en la > [//] en el cole o aquí ?
+*MOT:	&=q has cantado ?
+*MOT:	&=q cuál canción ?
+*FAT:	&=q cocodrilo ?
+*FAT:	&=q cuál es esa ?
+*MOT:	&=q < a ver > [/] a ver ?
+*MOT:	cocodrilo .
+*MOT:	&=q a ver ?
+*MOT:	esa es nueva .
+*MOT:	cocodrilo [x 2] .
+*MOT:	no .
+*MOT:	se caen .
+*FAT:	&=q y has estado con Juana hoy ?
+*FAT:	&=q te ha ido a buscar Juana a la guardería ?
+*FAT:	&=q sí ?
+*FAT:	&=q y cómo habéis venido ?
+*FAT:	mm@i .
+*FAT:	&=q muy bien habéis venido ?
+*MOT:	&=q en el autobús ?
+*FAT:	&=q te han dado un caramelo en el autobús , Lucía ?
+*FAT:	&=q qué señora te ha dado un caramelo ?
+*FAT:	no .
+*FAT:	a mí no me ha dado .
+*FAT:	porque no estaba .
+*FAT:	gracias , Lucía .
+*FAT:	&=q me lo como ?
+*FAT:	&=q le quito el [x 2] culito ?
+*FAT:	mm@i .
+*FAT:	qué buena está la pasa .
+*FAT:	eres una tragona , Lucía .
+*MOT:	&=q qué has comido en el cole , Lucía ?
+*MOT:	&=q qué has comido en el cole , Lu ?
+*MOT:	&=q &-eh ?
+*MOT:	&=q qué has comido en el colegio , Lucía ?
+*MOT:	Lucía .
+*MOT:	&=q qué has comido en el cole ?
+*MOT:	mm@i .
+*FAT:	no .
+*FAT:	no quiero más .
+*FAT:	quiero comer pollo .
+*FAT:	bueno , Lucía .
+*FAT:	&=q no nos dices nada hoy o qué ?
+*MOT:	Mercedes y María .
+*FAT:	&=q qué pasa con Mercedes y María ?
+*FAT:	mm@i .
+*FAT:	&=q te traes un cuento , Lu ?
+*FAT:	y lo leemos .
+*FAT:	&=q por qué no ?
+*MOT:	&=q entonces cuántos niños hay ahora en la guardería , Lucía ?
+*MOT:	&=q cuántos hay ?
+*FAT:	&=q hay muchos niños ?
+*MOT:	&=q swis ?
+*MOT:	Alonso .
+*MOT:	Juan .
+*MOT:	Miguel .
+*FAT:	Alejandro .
+*MOT:	no .
+*MOT:	cuatro , vamos .
+*MOT:	así es más o menos .
+*MOT:	muy bien .
+*MOT:	así , cuatro .
+*MOT:	&=q y hay una chica mayor [//] grande que se llama Loreto ?
+*MOT:	&=q sí ?
+*MOT:	&=q Loreto cómo es , grande o pequeña ?
+*FAT:	&=q sí ?
+*FAT:	Lu .
+*FAT:	&=q me traes un cuento tuyo ?
+*FAT:	pero bueno .
+*FAT:	&=q cómmo dices un no así ?
+*FAT:	di bueno@q .
+*FAT:	+" vale , Papá .
+*FAT:	&=q me traes un cuento ?
+*FAT:	pero +/.
+*FAT:	uy@i ese moco .
+*FAT:	hay un moco .
+*FAT:	a la captura del moco verde .
+*FAT:	ag@i .
+*FAT:	verde green@s .
+*FAT:	no .
+*FAT:	&=e no !
+*FAT:	&=e no !
+*FAT:	no , Lucía .
+*FAT:	no quiero (.) tu pasa .
+*FAT:	no .
+*FAT:	voy a tomar más pollo .
+*MOT:	no quiero , bonita .
+*FAT:	no [x 2] .
+*FAT:	más pasas no .
+*FAT:	bueno , las últimas .
+*FAT:	&=q vale ?
+*MOT:	uy@i .
+*MOT:	ten cuidado no te muerdas , chiquitina .
+*MOT:	ya .
+*MOT:	hay que masticar con cuidado , Lucía .
+*MOT:	no te muerdas .
+*FAT:	&=q te has hecho daño ?
+*FAT:	&=q dónde ?
+*FAT:	&=q dónde es aquí , Lucía ?
+*FAT:	&=q en la lengua ?
+*FAT:	&=q o en el labio ?
+*FAT:	&=q en la +..?
+*FAT:	&=q en la +..?
+*FAT:	lengua . [+ COR]
+*FAT:	&=q < por una > [/] por una ?
+*FAT:	&=q son las últimas ?
+*FAT:	uy@i .
+*FAT:	lengua .
+*FAT:	lengua [x 3] .
+*FAT:	0 .
+*FAT:	&=q qué hace Mamá ?
+*FAT:	&=q está durmiendo ?
+*FAT:	mu@o .
+*FAT:	&=q ya qué ?
+*FAT:	no , Lucía , mi+amor .
+*FAT:	que tú ya has cenado .
+*FAT:	&=e Lucía !
+*FAT:	&=q con eso te vale ?
+*FAT:	&=q no has cenado ya , Lucía ?
+*FAT:	mm@i .
+*FAT:	&=q Mamá está cansadita ?
+*FAT:	&=q por qué ?
+*FAT:	&=q está durmiendo ?
+*FAT:	&=q y por qué está durmiendo ?
+*FAT:	&=q &-eh , Lu ?
+*FAT:	&=q por qué está durmiendo Mamá ?
+*FAT:	&=q &-eh ?
+*FAT:	no .
+*FAT:	se ha acabado , Lucía .
+*FAT:	es de Papá .
+*FAT:	no .
+*FAT:	Lucía .
+*FAT:	&=q lo llevas a la pila ?
+*FAT:	&=q < qué te pasa > [/] qué te pasa , Lu ?
+*FAT:	&=q qué quieres ?
+*FAT:	&=q dónde estás , caballo ?
+*FAT:	&=q el culo de quién ?
+*FAT:	&=q a ver dónde está ?
+*FAT:	&=q dónde estás ?
+*FAT:	&=e este !
+*FAT:	ah .
+*FAT:	este no .
+*MOT:	búsca lo , Lucía .
+*FAT:	este no .
+*MOT:	da le tú la vuelta .
+*MOT:	da le la vuelta a las piezas .
+*FAT:	&=q sí ?
+*FAT:	muy bien .
+*FAT:	&=q ese es de la oveja también ?
+*FAT:	ha@i .
+*FAT:	pues haz la oveja .
+*FAT:	que ya tienes dos piezas .
+*FAT:	&=q hacemos el caballo después ?
+*MOT:	ahí [x 3] .
+*MOT:	a lo mejor es ahí .
+*MOT:	aquí [x 2] .
+*MOT:	da le la vuelta a estas piezas .
+*MOT:	da le la vuelta a estas .
+*MOT:	corre .
+*MOT:	a ver .
+*MOT:	esa no: .
+*MOT:	&=q esa es ?
+*MOT:	&=e sí !
+*MOT:	pero no es el culo .
+*MOT:	&=q &-eh , Lucía ?
+*MOT:	hay que buscar primero el culo .
+*MOT:	no .
+*MOT:	tienes que poner el culo primero .
+*MOT:	a ver si lo encuentras .
+*MOT:	primero , sí .
+*MOT:	&=q a ver dónde está ?
+*MOT:	es de la vaca .
+*MOT:	&=q a ver ?
+*MOT:	sí .
+*MOT:	muy bien .
+*MOT:	a ver .
+*MOT:	busca el culete del caballo .
+*MOT:	&=q y el culete del caballo ?
+*MOT:	&=q dónde está ?
+*MOT:	sí .
+*MOT:	parte del culete .
+*MOT:	a ver por aquí .
+*MOT:	a ver si está el culete por aquí .
+*MOT:	mira .
+*MOT:	el culete por aquí a ver si está .
+*FAT:	&=q hoy qué día es ?
+*FAT:	&=q es treinta+y+uno no ?
+*MOT:	hoy no es sábado .
+*MOT:	no , es miércoles .
+*MOT:	búsca le por aquí , Lucía .
+*MOT:	< muy bien muy bien muy bien > [/] muy bien .
+*MOT:	< muy bien muy bien > [/] muy bien .
+*MOT:	falta el cuello , sí .
+*MOT:	esa es de la oveja , sí .
+*MOT:	es de la oveja .
+*MOT:	&=e mira !
+*MOT:	&=q es ese ?
+*MOT:	no: .
+*MOT:	no es .
+*MOT:	sí , señora .
+*MOT:	falta otra ahí &=q verdad ?
+*MOT:	&=q a ver cuál es ?
+*MOT:	una chiquitita .
+*MOT:	no: .
+*MOT:	uy@i .
+*MOT:	qué potingues .
+*MOT:	muy bien .
+*MOT:	ahora falta la otra parte < de la cestita > [/] de la cestita de la comida del caballo .
+*MOT:	mira .
+*MOT:	no: .
+*MOT:	esa no es .
+*MOT:	no: .
+*MOT:	esta no es .
+*MOT:	no .
+*MOT:	esa es del cerdito .
+*MOT:	&-eh .
+*MOT:	mira .
+*MOT:	sí .
+*MOT:	sí que es esa .
+*MOT:	se rompe todo ahora , Lucía .
+*MOT:	&=q lo rompes ?
+*MOT:	no .
+*MOT:	eso no es del caballo .
+*MOT:	ese sí .
+*MOT:	uy@i .
+*MOT:	un león .
+*MOT:	uy@i .
+*MOT:	ya está .
+*MOT:	hale@i .
+*MOT:	a la cuna .
+*MOT:	no que es muy tarde , Lucía .
+*FAT:	el cerdito no .
+*FAT:	&=q lo has hecho entero , Lucía ?
+*FAT:	hala@i .
+*MOT:	el cerdito y a la cama luego .
+*MOT:	&=q vale ?
+*MOT:	a ver .
+*MOT:	toma .
+*MOT:	a ver .
+*MOT:	no .
+*MOT:	< falta mucho > [/] falta mucho del cerdito todavía .
+*MOT:	no .
+*MOT:	a ver .
+*MOT:	a ver .
+*MOT:	estira esto bien .
+*MOT:	no has acabado el cerdito , Lucía .
+*MOT:	venga .
+*MOT:	no .
+*MOT:	mm@i .
+*MOT:	venga [x 2] .
+*MOT:	a ver .
+*MOT:	sí cabe .
+*MOT:	sí , venga .
+*MOT:	así .
+*MOT:	así [x 4] .
+*MOT:	muy bien .
+*MOT:	porque está el mantel , hija .
+*MOT:	así .
+*MOT:	0 .
+*MOT:	&=e ya !
+*FAT:	&=q lo has hecho muy buen ?
+*FAT:	Lulú .
+*FAT:	&=q quién se va a dormir ?
+*MOT:	hala@i .
+*MOT:	venga .
+*MOT:	vamos a guardar las piezas aquí .
+*MOT:	a guardar .
+*MOT:	corre .
+*FAT:	uy@i , Lu .
+*FAT:	&=q eso es un moco ?
+*FAT:	venga , Lucía .
+*FAT:	recogiendo ya .
+*FAT:	venga .
+*FAT:	las piezas a la caja .
+*FAT:	espera que te llevas un poquito de arroz aquí .
+*FAT:	está sucio eso , Lucía .
+*FAT:	venga .
+*FAT:	adiós .
+*FAT:	todas .
+*FAT:	todas las piezas , Lucía .

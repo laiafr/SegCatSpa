@@ -1,0 +1,499 @@
+*FAT:	&=q qué estás , buscando la jirafa ?
+*FAT:	anda .
+*FAT:	ya lo has encontrado .
+*FAT:	xxx .
+*FAT:	pues debe de estar adentro también &=q no ?
+*FAT:	mira .
+*FAT:	desde aquí veo el culo del elefante .
+*FAT:	&=q lo ves tú ?
+*FAT:	0 .
+*FAT:	vamos a ver el cuento bien .
+*FAT:	ahí .
+*FAT:	sí .
+*FAT:	ahí .
+*FAT:	que aquí no tenemos sitio para ver lo .
+*FAT:	mira .
+*FAT:	mira .
+*FAT:	a ver dónde está el elfante xxx . [+ NON]
+*FAT:	es igual .
+*FAT:	&=q y la jirafa ?
+*FAT:	claro .
+*FAT:	claro .
+*FAT:	&=q ves ?
+*FAT:	mira .
+*FAT:	es que esto es un elefante y esto es una fotografía del elefante .
+*FAT:	&=q lo ves ?
+*FAT:	a ver .
+*FAT:	oye .
+*FAT:	&=q y la jirafa ?
+*FAT:	&=q a ver la jirafa ?
+*FAT:	déjamela ver .
+*FAT:	&=q no me la dejas ver ?
+*FAT:	no [x 5] .
+*FAT:	no llega al suelo .
+*FAT:	la jirafa tiene el cuello tan largo que solo come cosas de arriba de los árboles .
+*FAT:	ten cuidado .
+*FAT:	mira .
+*FAT:	&=q y qué hay aquí ?
+*FAT:	a ver .
+*FAT:	&=q qué hay aquí ?
+*FAT:	&=q a ver si son iguales ?
+*FAT:	&=q no ?
+*FAT:	no .
+*FAT:	mira .
+*FAT:	&=q y esto qué es ?
+*FAT:	&=q a ver si son iguales ?
+*FAT:	&=q no son iguales ?
+*FAT:	&=q tampoco son iguales ?
+*FAT:	vaya hombre .
+*FAT:	&=q no se parecen ?
+*FAT:	&=q sólo aquí con la jirafa ? [+ ADS]
+*FAT:	vaya hombre .
+*FAT:	&=q y aquí también ?
+*FAT:	sí que son iguales &=q &-eh ?
+*FAT:	&=q no son el mismo elefante ?
+*FAT:	&=q el elefante de Micky ?
+*FAT:	Dumbo .
+*FAT:	muy bien .
+*FAT:	claro .
+*FAT:	sí .
+*FAT:	como este que está aquí escondido que casi no se ve .
+*FAT:	&=q lo ves ?
+*FAT:	mira .
+*FAT:	aquí [x 2] .
+*FAT:	está aquí .
+*FAT:	&=q no la ves ?
+*FAT:	mira .
+*FAT:	así .
+*FAT:	&=q la ves ?
+*FAT:	claro .
+*FAT:	arriba está la cola .
+*FAT:	y las manos aquí se sujetan .
+*FAT:	&=q lo ves ?
+*FAT:	está camuflado .
+*FAT:	no se ve .
+*FAT:	no se ve casi .
+*FAT:	mm@i .
+*FAT:	mira .
+*FAT:	&=q qué película ?
+*FAT:	a ver .
+*FAT:	&=q cuál [//] qué película viste ayer ?
+*FAT:	ah .
+*FAT:	&=q el de los espíritus ?
+*FAT:	eso era el “cuento de navidad” .
+*FAT:	y el señor malo era Evenezer_Scrooge .
+*FAT:	eso es .
+*FAT:	y se [//] la película era “cuento de navidad” .
+*FAT:	&=q te gustó ?
+*FAT:	la vimos en el cine .
+*FAT:	sí .
+*FAT:	la película .
+*FAT:	sí .
+*FAT:	tienes bolsillos .
+*FAT:	y también tienes fiebre .
+*FAT:	por eso estos días estamos grabando poco .
+*FAT:	&=q a ver si tienes ?
+*FAT:	no tiene . [+ ADS]
+*FAT:	no .
+*FAT:	son de mentirijilla .
+*FAT:	mm@i .
+*FAT:	mira .
+*FAT:	espérate un momento .
+*FAT:	&=q entonces estabas diciendo que habías [/] habías visto la película en el cine ?
+*FAT:	&=q sí ?
+*FAT:	&=q qué película era ?
+*FAT:	uy@i , no .
+*FAT:	los osos no tienen cuernos .
+*FAT:	es un búfalo .
+*FAT:	parecen ciervos , sí .
+*FAT:	pero no son ciervos , no .
+*FAT:	son antílopes .
+*FAT:	&=q < no son > [/] no son antílopes ?
+*FAT:	&=q son ciervos ? [+ ADS]
+*FAT:	&=q no son antílopes ?
+*FAT:	son antílopes .
+*FAT:	mira .
+*FAT:	uy@i no .
+*FAT:	no es un oso+panda .
+*FAT:	son pumas .
+*FAT:	mira .
+*FAT:	parecen gatos .
+*FAT:	pumas .
+*FAT:	parecen gatos más grandes .
+*FAT:	&=q < quién te regalo > [/] quién te regaló este libro con estas fotos ?
+*FAT:	Joan .
+*FAT:	sí .
+*FAT:	qué suerte .
+*FAT:	&=q otro libro te regaló ?
+*FAT:	claro .
+*FAT:	te regaló dos juntos .
+*FAT:	sí .
+*FAT:	mira .
+*FAT:	un hipopótamo bañándo se , sí . [+ COR]
+*FAT:	&=q y esto ?
+*FAT:	parece un tigre .
+*FAT:	pero no es un tigre .
+*FAT:	es un leopardo .
+*FAT:	hala@i .
+*FAT:	&=q y esto ?
+*FAT:	loros . [+ ADS]
+*FAT:	sí .
+*FAT:	pero < estos son > [//] esto es una iguana .
+*FAT:	y resulta que este animal < tan feo > [/] tan feo o < tan bonito > [/] tan bonito depende cómo se mire pone huevos también como los pollitos .
+*FAT:	pero aquí de estos huevos no salen pollitos .
+*FAT:	salen iguanas .
+*FAT:	&=q qué te parece ?
+*FAT:	un oso+panda .
+*FAT:	&=q qué bonito es ?
+*FAT:	como el de Maisy &=q no ?
+*FAT:	mira .
+*FAT:	y esto es un canguro que está tomando el sol .
+*FAT:	eso es una avestruz .
+*FAT:	una avestruz .
+*FAT:	&=q un poto@c patatero ?
+*FAT:	vaya+por+dios .
+*FAT:	mira .
+*FAT:	&=q y eso ?
+*FAT:	un loro .
+*FAT:	&=q y esto ?
+*FAT:	&=q dónde está ?
+*FAT:	ahí .
+*FAT:	mm@i .
+*FAT:	mm@i .
+*FAT:	&=q se va a comer al pollito . [+ COR]
+*FAT:	&=q tú crees ?
+*FAT:	&=q ah sí ?
+*FAT:	y [x 2] el pollito qué va a hacer ?
+*FAT:	&=q se va a dejar ?
+*FAT:	va a decir oh .
+*FAT:	oh .
+*FAT:	+" cóme me .
+*FAT:	&=q tú crees que le va a decir al [/] al cocodrilo que le coma ?
+*FAT:	yo creo que el pollito va a abrir las alas y va a salir volando antes de que le coma .
+*FAT:	&=q no ?
+*FAT:	claro .
+*FAT:	y así el cocodrilo hará ah .
+*FAT:	pero no va a comer nada .
+*FAT:	&=q un elefante ?
+*FAT:	ahí va un elefante .
+*FAT:	sí .
+*FAT:	tururú@o .
+*FAT:	hala@i .
+*FAT:	una +...
+*FAT:	con la boca abierta .
+*FAT:	a lo mejor si ponemos el dedo se lo come .
+*FAT:	&=q tú crees ?
+*FAT:	&=q a ver ?
+*FAT:	pon [/] pon el dedo .
+*FAT:	a ver si se lo come .
+*FAT:	&=q no lo vas a poner el dedo ?
+*FAT:	no come &=q verdad ?
+*FAT:	es solo una foto .
+*FAT:	&=q y eso qué es ?
+*FAT:	un tucán .
+*FAT:	&=q qué bonito es ?
+*FAT:	eso es un águila+real .
+*FAT:	&=q qué te parece ?
+*FAT:	mira .
+*FAT:	un mono .
+*FAT:	sí .
+*FAT:	y esto es un manatí .
+*FAT:	por el agua .
+*FAT:	a que sí .
+*FAT:	es un animal muy +//.
+*FAT:	a una isla .
+*FAT:	&=q y en la isla que hay ?
+*FAT:	como ese mono . [+ ADS]
+*FAT:	claro .
+*FAT:	mira .
+*FAT:	sí .
+*FAT:	mira .
+*FAT:	aquí sí que hay un tigre .
+*FAT:	mira .
+*FAT:	sí .
+*FAT:	una serpiente .
+*FAT:	un poco fea .
+*FAT:	mira .
+*FAT:	aquí hay otra .
+*FAT:	otra serpiente .
+*FAT:	un huevo .
+*FAT:	también pone huevos la serpiente .
+*FAT:	&=q qué hacen ?
+*FAT:	no se cae , no .
+*FAT:	&=q qué hace ?
+*FAT:	&=q está encima del elefante la jirafa ? [+ COR]
+*FAT:	sí .
+*FAT:	son monos .
+*FAT:	mira .
+*FAT:	este es un gorila y este es un orangután .
+*FAT:	son monos .
+*FAT:	monos .
+*FAT:	no malos , no .
+*FAT:	son monos .
+*FAT:	hombre .
+*FAT:	no son muy guapos .
+*FAT:	no .
+*FAT:	pero hombre .
+*FAT:	tampoco son feos [x 2] .
+*FAT:	&=q son muy feos ?
+*FAT:	pero bueno .
+*FAT:	&=q no están mal , no ?
+*FAT:	vamos .
+*FAT:	&=q está subida la jirafa ?
+*FAT:	&=q sí ?
+*FAT:	&=q sube la escalera y sale un señor ?
+*FAT:	&=q y qué hace el señor ?
+*FAT:	&=q va a un teatro que es < muy grande > [/] muy grande y se hace una montaña ? [+ ADS]
+*FAT:	pero bueno .
+*FAT:	como nosotros .
+*FAT:	&=q que vamos a ir al teatro hoy ?
+*FAT:	&=q sí ?
+*FAT:	&=q vamos a ir al teatro ?
+*FAT:	&=q no quieres ir ?
+*FAT:	con Raquel .
+*FAT:	con Celia .
+*FAT:	con Lucía .
+*FAT:	sí .
+*FAT:	también viene Mamá y los Avis .
+*FAT:	&=q qué te parece ?
+*FAT:	todos al teatro .
+*FAT:	&=q qué te parece ?
+*FAT:	&=q está bueno ?
+*FAT:	&=q ya se ha curado ?
+*FAT:	&=q ya se ha curado ?
+*FAT:	&=q ha ido al médico también él ?
+*FAT:	&=q y ha tomado medicinas ?
+*FAT:	&=q sí ?
+*FAT:	&=q la medicina de naranja le tenemos que dar ?
+*FAT:	claro .
+*FAT:	&=q como la que tomas tú para que te baje la fiebre ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q < le damos la > [//] pero hay que poner le antes el termómetro &=q no ?
+*FAT:	porque si no no sabemos .
+*FAT:	&=q dónde se lo pone ?
+*FAT:	&=q ahí debajo del bracito ?
+*FAT:	&=q ahí ?
+*FAT:	&=q se lo pongo ?
+*FAT:	&=q se lo pongo yo ?
+*FAT:	&=q se lo pongo yo el termómetro ?
+*FAT:	&=q sí ?
+*FAT:	trae .
+*FAT:	trae que le vamos a poner el termómetro .
+*FAT:	mm@i .
+*FAT:	trae .
+*FAT:	no importa .
+*FAT:	tengo un termómetro para ellos .
+*FAT:	mira .
+*FAT:	mira [x 3] .
+*FAT:	no hace falta que +//.
+*FAT:	voy a dejar lo ahí .
+*FAT:	venga .
+*FAT:	no tardes .
+*FAT:	no tardes .
+*FAT:	&=q no sé dónde está el termómetro ?
+*FAT:	&=q qué ?
+*FAT:	mira .
+*FAT:	ven .
+*FAT:	que tengo aquí el termómetro .
+*FAT:	&=q el termómetro ?
+*FAT:	&=q lo has encontrado ?
+*FAT:	mira .
+*FAT:	siéntate aquí .
+*FAT:	&-eh .
+*FAT:	siéntate aquí .
+*FAT:	aquí .
+*FAT:	pero encima de la alfombra &=q &-eh ?
+*FAT:	a ver .
+*FAT:	&=q le ponemos el termómetro ?
+*FAT:	a ver .
+*FAT:	espera [x 3] .
+*FAT:	ya está .
+*FAT:	se lo ponemos aquí ahora .
+*FAT:	aquí .
+*FAT:	no .
+*FAT:	que esto no es para jugar .
+*FAT:	ahora que está Papá se lo pone .
+*FAT:	mira .
+*FAT:	espera [x 3] .
+*FAT:	espérate .
+*FAT:	ahora cuando sepamos la temperatura que tiene pues ya +/.
+*FAT:	a ver si suena .
+*FAT:	cuando suene .
+*FAT:	espérate .
+*FAT:	no toques nada .
+*FAT:	ya ha sonado .
+*FAT:	uy@i .
+*FAT:	hay que poner le una medicina .
+*FAT:	no [x 2] .
+*FAT:	no vayas tú a por una medicina .
+*FAT:	que no .
+*FAT:	vamos a poner le < una medicina > [/] una jeriniguillita en el culo .
+*FAT:	ps@o .
+*FAT:	ay@i .
+*FAT:	mira .
+*FAT:	ya está mejor .
+*FAT:	&=q es como ese ?
+*FAT:	&=q es como ese ?
+*FAT:	no .
+*FAT:	no es .
+*FAT:	no es .
+*FAT:	no .
+*FAT:	es un [/] un gorila .
+*FAT:	un orangután .
+*FAT:	y este es un elefante .
+*FAT:	mira el señor qué bien va montado aquí .
+*FAT:	va sentado ahí .
+*FAT:	&=q ah , sí ?
+*FAT:	&=q y qué parecen ?
+*FAT:	&=q cómo ?
+*FAT:	&=q parece una flor ?
+*FAT:	no .
+*FAT:	mira .
+*FAT:	es igual xxx señora . [+ NON]
+*FAT:	sí .
+*FAT:	&=q qué parece ?
+*FAT:	sí .
+*FAT:	juegan como [/] < como si > [/] como si +/.
+*FAT:	&=q tiene que estar así ?
+*FAT:	el otro día decía “van como si fuera un tren” .
+*FAT:	&=q no puedes ?
+*FAT:	&=q todos al agua ?
+*FAT:	está en una isla .
+*FAT:	&=q un queso ve en la isla ?
+*FAT:	sí .
+*FAT:	&=q no llega ?
+*FAT:	&=q quiere una escalera ?
+*FAT:	tengo yo las piezas aquí .
+*FAT:	pero xxx . [+ NON]
+*FAT:	&=q &-eh ?
+*FAT:	&=q con una escalera pequeñita ?
+*FAT:	&=q ya ?
+*FAT:	&=q así ?
+*FAT:	&=q un poco más ?
+*FAT:	&=q así ?
+*FAT:	&=q ya ?
+*FAT:	ya está la escalera .
+*FAT:	&=q qué le falta ?
+*FAT:	&=q qué te parece la escalera ?
+*FAT:	&=q tiene zapatillas ?
+*FAT:	&=q Gus tiene todo eso ?
+*FAT:	Gus_Laiyiar .
+*FAT:	también has visto una película del Cerdito_Valiente , sí .
+*FAT:	&=q y qué hacía el Cerdito_Valiente ?
+*FAT:	pintó al gato , sí .
+*FAT:	mira .
+*FAT:	ahí está la escalera .
+*FAT:	muy bien .
+*FAT:	esa sí .
+*FAT:	es que hay que poner algo para que se apoye porque si no +/.
+*FAT:	ahora sí .
+*FAT:	&=q ya ?
+*FAT:	&=q quieres que bajemos a desayunar , Juan ?
+*FAT:	&=q quieres que bajemos a desayunar ?
+*FAT:	Ma , por+favor .
+*FAT:	bajamos ahora a desayunar .
+*FAT:	ahora bajamos .
+*FAT:	&=q la has puesto ahí ? [+ COR]
+*FAT:	qué bonito , &=q &-eh ?
+*FAT:	ya están las azules ahí todas .
+*FAT:	&=q cómo ?
+*FAT:	&=q a Gus quieres hacer ?
+*FAT:	&=q sí ?
+*FAT:	< pues ya no > [//] &=q deshacemos la escalera ?
+*FAT:	&=q parece una nave espacial ?
+*FAT:	son un poco largas estas naves .
+*FAT:	hay que hacer las un poco más cortas .
+*FAT:	&=q te parece ?
+*FAT:	es que si no +/.
+*FAT:	claro .
+*FAT:	espera [x 2] .
+*FAT:	cachirulo@f .
+*FAT:	cachiporro@f .
+*FAT:	&=q cómo ?
+*FAT:	&=q ese es el culete ?
+*FAT:	&=q dos patas ?
+*FAT:	pero parece +//.
+*FAT:	parece que tiene tres , sí .
+*FAT:	Gus_Laiyiar .
+*FAT:	ajá@i .
+*FAT:	ya está .
+*FAT:	&=q y llega a una isla ?
+*FAT:	ya tenemos una nave+espacial .
+*FAT:	espera a ver .
+*FAT:	espera [x 3] .
+*FAT:	espera [x 3] .
+*FAT:	es una nave+espacial para Gus &=q verdad ?
+*FAT:	hala@i , así .
+*FAT:	&=q poner la aquí ?
+*FAT:	&=q la pongo aquí ?
+*FAT:	&=q ahora vuela ?
+*FAT:	ps@o .
+*FAT:	oh .
+*FAT:	a:quí .
+*FAT:	no lo sé .
+*FAT:	&=q y Gus va aquí ?
+*FAT:	&=q no va aquí ?
+*FAT:	&=q en lo alto ?
+*FAT:	pues será difícil que no se caiga .
+*FAT:	se ha roto la pata , sí . [+ ADS]
+*FAT:	pero se la voy a arreglar .
+*FAT:	sí .
+*FAT:	parece una torre en vez de una nave+espacial .
+*FAT:	&=q la quieres hacer más pequeñita ?
+*FAT:	pues venga .
+*FAT:	&=q para que quepa Gus ? [+ COR]
+*FAT:	&=q lo pongo en el suelo ?
+*FAT:	&=q la cara ?
+*FAT:	&=q no le pongo verde ?
+*FAT:	a ver .
+*FAT:	la pongo aquí .
+*FAT:	pero bueno .
+*FAT:	&=q y quién es ese ?
+*FAT:	&=q cómo ?
+*FAT:	&=q cómo se llama ?
+*FAT:	&=q cómo se llama ?
+*FAT:	&=q se ha hecho mayor ?
+*FAT:	pero bueno .
+*FAT:	se ha hecho mayor .
+*FAT:	se llama +...
+*FAT:	no .
+*FAT:	a ver .
+*FAT:	él se llamaba Si@x +...
+*FAT:	&=q y su amigo cómo se llamaba ?
+*FAT:	Sisebuto y Leonio .
+*FAT:	Sisebuto y Leonio .
+*FAT:	así .
+*FAT:	&=q van en un barco ?
+*FAT:	van en su barco .
+*FAT:	&=q le faltan los remos ? [+ COR]
+*FAT:	&=q esos son los remos ?
+*FAT:	a:quí .
+*FAT:	vale .
+*FAT:	&=q falta uno para Sisebuto ?
+*FAT:	&=q ya vuelan ?
+*FAT:	ah .
+*FAT:	sí [x 2] .
+*FAT:	&=q ya ha llegado .
+*FAT:	&=q van con Gus juntos todos ?
+*FAT:	hala@i qué bien .
+*FAT:	hala@i qué bien .
+*FAT:	&=q y ahora vuelan ?
+*FAT:	uy@i .
+*FAT:	no sé yo si esto puede volar .
+*FAT:	este armatoste .
+*FAT:	este mamotrero .
+*FAT:	faltaba lo más importante .
+*FAT:	sí .
+*FAT:	&=q vuela con ese motor ?
+*FAT:	&=q sí ?
+*FAT:	bueno .
+*FAT:	nos vamos a ir a desayunar .
+*FAT:	hay que desayunar un poquito , Juan .
+*FAT:	oye .
+*FAT:	oye .
+*FAT:	terminamos de montar y nos vamos a desayunar .
+*FAT:	y luego seguimos jugando .
+*FAT:	&=q vale ?
+*FAT:	&=q vale o no ?
+*FAT:	venga .
+*FAT:	falta muy poquito ya .

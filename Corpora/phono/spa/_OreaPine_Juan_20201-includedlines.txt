@@ -1,0 +1,564 @@
+*FAT:	vamos a buscar un color , sí .
+*FAT:	&=q pero dónde vas ?
+*FAT:	no .
+*FAT:	ahí no .
+*FAT:	ven aquí .
+*FAT:	aquí [x 2] .
+*FAT:	vamos a buscar lo aquí .
+*FAT:	ven .
+*FAT:	ven .
+*FAT:	oye .
+*FAT:	que te puedes caer .
+*MOT:	&=q cuál me has dicho tú ?
+*FAT:	&=q qué te había dicho ?
+*FAT:	vamos a ver los colores que tiene Mamá .
+*FAT:	mira .
+*FAT:	&=q este color qué color es ?
+*FAT:	&=q seguro ?
+*FAT:	mira .
+*MOT:	&=q ay@i dónde están ?
+*MOT:	ah .
+*MOT:	&=q que los vas a coger ?
+*FAT:	no .
+*FAT:	pero no se abre &=q &-eh ?
+*FAT:	los ovillos no se abren .
+*FAT:	mira .
+*FAT:	este es blanco y este es veige .
+*FAT:	veige .
+*FAT:	&=q ves que no es blanco ?
+*FAT:	mira .
+*FAT:	&=q ves el blanco ?
+*MOT:	toma .
+*MOT:	mira .
+*MOT:	tengo más .
+*FAT:	pero no se desarman &=q &-eh ?
+*MOT:	toma .
+*MOT:	< no se lo quita > [//] que no le quite la cosita que ahí está el número .
+*MOT:	&=q vale ?
+*FAT:	no .
+*FAT:	quita [x 3] , Juan .
+*MOT:	no se lo quita la [//] el dinero ese &=q &-eh ?
+*FAT:	pues lo ha quitado en [/] en varios .
+*FAT:	bueno .
+*FAT:	vamos a ver .
+*FAT:	mira este .
+*FAT:	&=q qué color es ese ?
+*FAT:	mira qué color es .
+*FAT:	&=q qué haces ?
+*FAT:	&=q tienes alfileres aquí ?
+*FAT:	cuidado [x 3] .
+*MOT:	creo que no .
+*FAT:	cuidado [x 2] .
+*FAT:	a ver .
+*FAT:	cuidado .
+*FAT:	venga .
+*FAT:	&=q qué color es ?
+*FAT:	es un ovillito .
+*FAT:	un ovillo , sí .
+*FAT:	&=q guardamos los colores ?
+*FAT:	pues ese yo creo que es un color naranja .
+*FAT:	&=q es azul ?
+*FAT:	vaya , hombre .
+*FAT:	tu madre diría que es verde .
+*MOT:	seguro .
+*FAT:	verde no &=q verdad ?
+*FAT:	&=q ese qué color es ?
+*FAT:	azul osucro &=q &-eh ?
+*FAT:	azul marino .
+*FAT:	es bonito .
+*FAT:	je@o [x 4] , truhán .
+*FAT:	truhán .
+*FAT:	que te estoy viendo .
+*FAT:	mira [x 2] .
+*FAT:	&=q y este qué color es ?
+*FAT:	verde alga .
+*FAT:	como las algas del mar .
+*FAT:	&=q te acuerdas de las algas del mar ?
+*FAT:	&=q te acuerdas del mar ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué había en el mar ?
+*FAT:	había olas .
+*FAT:	&=q de qué color eran las olas ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q de qué color eran ?
+*FAT:	&=q eran saladas ?
+*FAT:	mm@i .
+*FAT:	sabían saladas .
+*FAT:	oye .
+*FAT:	&=q a quién conociste en el mar ?
+*FAT:	que te hiciste muy amigo de ella .
+*FAT:	&=q a quién conociste en el mar ?
+*FAT:	a una niña que se llamaba +...
+*FAT:	y su papá se llamaba R@x +...
+*FAT:	y su mamá se llamaba +...
+*FAT:	Marijose .
+*FAT:	muy bien .
+*FAT:	Marijose , sí .
+*FAT:	&=q y qué te regalaron ?
+*FAT:	&=q qué te regalaron ?
+*FAT:	&=q qué es eso ?
+*FAT:	&=q una pulsera ?
+*FAT:	&=q y quién te la puso ?
+*FAT:	oye .
+*FAT:	&=q y en el mar qué más había ?
+*FAT:	había olas .
+*FAT:	no .
+*FAT:	pero no quites los números .
+*FAT:	había olas .
+*FAT:	&=q y qué más había en el mar ?
+*FAT:	&=q te acuerdas ?
+*FAT:	&=q había barcos ?
+*FAT:	&=q sí ?
+*FAT:	&=q y había peces ?
+*FAT:	&=q y había piedras ?
+*FAT:	&=q y < qué pescaba > [//] quién pescaba las piedras ?
+*FAT:	&=q cómo hacía Papá ?
+*FAT:	fu@o .
+*FAT:	se ponía las +...
+*FAT:	y entonces iba +...
+*FAT:	por debajo del mar .
+*FAT:	&=q cómo se dice nadar por debajo del mar ?
+*FAT:	bu@x +...
+*FAT:	buce@x +...
+*FAT:	buceando .
+*FAT:	Papá iba buceando .
+*FAT:	por debajo del mar .
+*FAT:	y cogía las piedras de colores .
+*FAT:	de muchos colores había .
+*FAT:	&=q te acuerdas ?
+*FAT:	había piedras de colores .
+*FAT:	azules .
+*FAT:	naranjas .
+*FAT:	con rallitas blancas .
+*FAT:	amarillas .
+*FAT:	negras .
+*FAT:	piedras brillantes .
+*FAT:	y las sacaba Papá y se las daba a Juan .
+*FAT:	&=q y Juan qué hacía con las piedras ?
+*FAT:	las tiraba . [+ ADS]
+*FAT:	cogía la más bonita y plum@o .
+*FAT:	la tiraba al agua .
+*FAT:	luego cogía otra y plum@o .
+*FAT:	la tiraba al agua .
+*FAT:	&=q quieres coger una ?
+*FAT:	&=q sí ?
+*FAT:	y hacía plum@o .
+*FAT:	y la tiraba al agua .
+*FAT:	&=e plum@o !
+*FAT:	y la tiraba al agua .
+*FAT:	y luego también &=q qué hacíamos alguna vez ?
+*FAT:	volábamos la +...
+*FAT:	&=q qué volábamos ?
+*FAT:	que estaba arriba en el cielo .
+*FAT:	&=q qué volábamos en verano ?
+*FAT:	que Juan lo volaba muy bien .
+*FAT:	una +...
+*FAT:	cometa .
+*FAT:	una cometa de color rosa y verde con una cola larga amarilla .
+*FAT:	y Juan lo cogía y hacía chi@o [x 3] .
+*FAT:	y la cometa hacía yui@o [x 4] .
+*FAT:	y daba vueltas y vueltas .
+*FAT:	&=q te acuerdas ?
+*FAT:	y un día la gente en la playa &=e bien@q !
+*FAT:	aplaudió a Juan .
+*FAT:	&=q sí ?
+*FAT:	y Papá también volaba la cometa .
+*FAT:	y luego también hacíamos +...
+*FAT:	&=q qué hacíamos con la arena ?
+*FAT:	hacíamos +...
+*FAT:	castillos .
+*FAT:	&=q y poníamos +..?
+*FAT:	murallas .
+*FAT:	y puertas .
+*FAT:	y caminos .
+*FAT:	hacíamos un montón de cosas .
+*FAT:	y torres .
+*FAT:	y casitas .
+*FAT:	&=q te acuerdas ?
+*FAT:	y también dibujábamos en la arena .
+*FAT:	&=q te acuerdas qué dibujábamos también ?
+*FAT:	&=q qué dibujábamos ?
+*FAT:	un sol .
+*FAT:	&=q y qué más ?
+*FAT:	0 .
+*FAT:	la luna .
+*FAT:	un coche .
+*FAT:	un señor tomando el sol (.) dibujábamos .
+*FAT:	una vez dibujamos un señor tumbado .
+*FAT:	una vez hicimos una cabeza grande .
+*FAT:	&=q de quién era aquella cabeza ?
+*FAT:	&=q te acuerdas ?
+*FAT:	sí .
+*FAT:	&=q y cómo se llamaba aquel señor ?
+*FAT:	chin +...
+*FAT:	&=e Chindasvinto !
+*FAT:	era un señor con una melena muy larga y unas barbas grandes llenas de caracolas .
+*FAT:	&=q sí ?
+*FAT:	y era un gigante .
+*FAT:	&=q te acuerdas ?
+*FAT:	era un gigante bueno .
+*FAT:	y contábamos muchos cuentos de Chindasvinto .
+*FAT:	&=q te acuerdas ?
+*FAT:	&=q sí ?
+*FAT:	&=q verdad ?
+*FAT:	que tenía un amigo que se llamaba Juan .
+*FAT:	< y que > [//] &=q y cómo iba Juan ?
+*FAT:	iba volando en avión .
+*FAT:	&=q a que sí ?
+*FAT:	&=q cómo volaba Juan ?
+*FAT:	y también Mamá leía un cuento todos los días .
+*FAT:	&=q qué cuento leía ?
+*FAT:	de un oso que le gustaba mucho la miel .
+*FAT:	&=q qué oso era ?
+*FAT:	era Winnie +...
+*FAT:	era Winnie_the_Pooh .
+*FAT:	&=q y su amigo ?
+*FAT:	Chris@x +...
+*FAT:	Christopher_Robin .
+*FAT:	y más amigos tiene Winnie_the_Pooh .
+*FAT:	&=q a que sí ?
+*FAT:	tiene más .
+*FAT:	uno que se llama Por@x +...
+*FAT:	otro que se llama Li@x +...
+*FAT:	otro que se llama Co@x +...
+*FAT:	Cone@x +...
+*FAT:	Conejo .
+*FAT:	otro que es un canguro y se llama Can@x +...
+*FAT:	y su hijo que se llama R@x +...
+*FAT:	Ruth .
+*FAT:	y además un [/] un animal rojo y saltarín que es muy fiero y que se llama Ti@x +...
+*FAT:	&=q qué hay aquí ?
+*FAT:	&=q qué hay ahí en esa caja ?
+*FAT:	cuidado [x 5] .
+*FAT:	no quites los números .
+*FAT:	mira [x 2] .
+*FAT:	cada hilo tiene un color .
+*FAT:	y cada color tiene un número .
+*FAT:	y así es más fácil +//.
+*FAT:	mira .
+*FAT:	&=q verás ?
+*FAT:	que te lo voy a enseñar .
+*FAT:	mira .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	aquí pone color ventiuno .
+*FAT:	entonces .
+*FAT:	espera .
+*FAT:	cuando Mamá borda y el color se lo acaba (.) va a la tienda y dice .
+*FAT:	+" me da por+favor el color ventiuno .
+*FAT:	&=q vale ?
+*FAT:	y entonces así lo mejor es no perder el color porque así estos hilos Mamá siempre tiene [//] sabe cuál puede comprar para continuar .
+*FAT:	&=q < dónde está el color > [/] dónde está < el color > [//] el número del color ?
+*FAT:	ahí .
+*FAT:	muy bien .
+*FAT:	venga .
+*FAT:	guárda lo en su sitio ahora .
+*FAT:	aprieta ahí .
+*FAT:	&=q no lo quieres guardar ?
+*FAT:	hombre .
+*FAT:	&=q y si se pierde qué pasa ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q y si se pierde qué pasa ?
+*FAT:	&=q cómo has dicho ?
+*FAT:	&=q lo cogerá Mamá ?
+*FAT:	sí .
+*FAT:	pero tienes que dejar lo ahí dentro para que lo pueda coger .
+*FAT:	si lo pierdes Mamá no lo puede encontrar .
+*FAT:	< muy bien muy bien > [/] muy bien .
+*FAT:	ay@i .
+*FAT:	&=q lo has sacado por el otro lado ?
+*FAT:	pero bueno .
+*FAT:	pero este niño tan travieso .
+*FAT:	oye [x 6] .
+*FAT:	pero bueno .
+*FAT:	&=q qué haces con el hilo ?
+*FAT:	mira .
+*FAT:	déjalo aquí .
+*FAT:	&=q es azul ?
+*FAT:	pero [x 3] .
+*FAT:	pero [x 10] bueno .
+*FAT:	&=q que estás haciendo con los números ?
+*FAT:	&=q que los vas a perder ?
+*FAT:	ay@i .
+*FAT:	&=q otro ?
+*FAT:	< pero bueno > [/] pero bueno .
+*FAT:	que lo vas a perder .
+*FAT:	oye .
+*FAT:	ponlo ahí dentro .
+*FAT:	venga .
+*FAT:	que si no Mamá +...
+*FAT:	ponlo ahí dentro .
+*FAT:	venga .
+*FAT:	&-eh .
+*FAT:	ponlo ahí dentro .
+*FAT:	ponlo ahí dentro .
+*FAT:	trae .
+*FAT:	&=q otra vez ?
+*FAT:	pero bueno .
+*FAT:	este bobillo .
+*FAT:	pero será posible .
+*FAT:	&=e Juan Apellido !
+*FAT:	méte lo ahí .
+*FAT:	tuturú@o .
+*FAT:	oye .
+*FAT:	&=q vamos a ver cómo ruedan los hilos ?
+*FAT:	mira .
+*FAT:	&=q ves la carretera que hay aquí ?
+*FAT:	mira .
+*FAT:	&=q otro ? [+ ADS]
+*FAT:	mira .
+*FAT:	&=q qué hacen los hilos ?
+*FAT:	&=q ruedan ? [+ COR]
+*FAT:	&=q < qué ha pasado qué ha pasado > [/] qué ha pasado , Juan ?
+*FAT:	&=q se te ha desabrochado la zapatilla ? [+ COR]
+*FAT:	&=q qué [/] qué quieres que haga ?
+*FAT:	&=q quieres que te la abroche ?
+*FAT:	&=q pero me vas a dar un beso a cambio ?
+*FAT:	&=q sí ?
+*FAT:	a ver qué beso me das .
+*FAT:	&=q qué beso me das ?
+*FAT:	&=q qué hay ahí ?
+*FAT:	pero [x 3] no lo pierdas .
+*FAT:	pero que se pierde .
+*FAT:	mira .
+*FAT:	mira [x 8] .
+*FAT:	&=q &-eh ?
+*FAT:	mira [x 4] .
+*FAT:	oye .
+*FAT:	que te lo abrocho si me das un beso .
+*FAT:	&=q a ver qué beso ?
+*FAT:	no .
+*FAT:	no se saca . [+ COR]
+*FAT:	no sale .
+*FAT:	no [x 2] .
+*FAT:	no sale .
+*FAT:	&=q a que no ?
+*FAT:	mira .
+*FAT:	no sale .
+*FAT:	venga .
+*FAT:	a ver .
+*FAT:	que lo va a tirar Papá .
+*FAT:	&=q lo tiras tú ?
+*FAT:	mira [x 3] .
+*FAT:	mira la xxx . [+ NON]
+*FAT:	mira [x 5] .
+*FAT:	a ver si lo sabes hacer tú .
+*FAT:	pero hombre .
+*FAT:	no saques el color .
+*FAT:	mete el número de color dentro .
+*FAT:	que si no no rueda bien .
+*FAT:	&=q a ver ?
+*FAT:	&=q qué color es este ?
+*FAT:	por+favor , Juan .
+*FAT:	&=q qué color es ese ?
+*FAT:	míralo bien .
+*FAT:	míralo bien a la luz .
+*FAT:	&=q qué color es ?
+*FAT:	azul .
+*FAT:	&=q y este a ver qué color es ?
+*FAT:	míralo bien .
+*FAT:	muy bien .
+*FAT:	&=q y este qué color es ?
+*FAT:	rojo [x 2] .
+*FAT:	me como a Juan .
+*FAT:	&=q qué haces ahora ?
+*FAT:	&=q quieres dejar los números ?
+*FAT:	&=q no los vas a dejar ?
+*FAT:	trae .
+*FAT:	ponlo en su sitio .
+*FAT:	oye .
+*FAT:	no .
+*FAT:	oye .
+*FAT:	a ver si vamos a tener que dejar de jugar con los ovillos .
+*FAT:	hay que dejar los números dentro .
+*FAT:	hay que tener cuidado porque se pueden romper .
+*FAT:	espérate .
+*FAT:	mira [x 2] [/] mira lo que vamos a hacer .
+*FAT:	ven .
+*FAT:	tranquilo .
+*FAT:	mira .
+*FAT:	despacito .
+*FAT:	mira , Juan .
+*FAT:	&=q qué estoy haciendo ?
+*FAT:	una torre . [+ ADS]
+*FAT:	ah .
+*FAT:	ese es veige .
+*FAT:	cuidado que se te cae .
+*FAT:	muy bien .
+*FAT:	&=q tú crees que podemos poner otro más ?
+*FAT:	pero se caerá .
+*FAT:	toma .
+*FAT:	ponlo .
+*FAT:	&=e hala@i !
+*FAT:	vamos a hacer otro .
+*FAT:	venga .
+*FAT:	&=q es veige ?
+*FAT:	&=q ese es veige ?
+*FAT:	venga .
+*FAT:	oye .
+*FAT:	pon el blanco ahí .
+*FAT:	y acabamos la torre .
+*FAT:	mira qué torre más alta .
+*FAT:	hombre .
+*FAT:	tendrá que ser en medio de los dos .
+*FAT:	ahí .
+*FAT:	&=q no ?
+*FAT:	&=q y ahora este ?
+*FAT:	ese es veige .
+*FAT:	no .
+*FAT:	pero no lo saques de ahí .
+*FAT:	no lo saques de ahí porque Mamá lo tiene ahí guardado por algo .
+*FAT:	mira qué torre tan bonita .
+*FAT:	pero bueno .
+*FAT:	chafardero .
+*FAT:	zarrapastroso .
+*FAT:	zarzaparillo@f .
+*FAT:	sandalio@f .
+*FAT:	&=e otro número que has quitado !
+*FAT:	pero bueno .
+*FAT:	< voy a tener > [/] voy a tener que llamar al señor de los números , &-eh ?
+*FAT:	a ver qué número has quitado ahora .
+*FAT:	pero bueno .
+*FAT:	el número diez .
+*FAT:	a ver .
+*FAT:	que te voy a ayudar a arreglar esto .
+*FAT:	&=q parece un jabón ? [+ COR]
+*FAT:	&=q un jamón ?
+*FAT:	&=q de comer ?
+*FAT:	pero bueno .
+*FAT:	&=q cuando tú has comido un jamón así ?
+*FAT:	venga .
+*FAT:	vamos a guardar los hilos .
+*FAT:	&=q cuándo has comido tú un jamón así ?
+*FAT:	a ver .
+*FAT:	&=q cuándo lo has comido ?
+*FAT:	que lo sepa yo .
+*FAT:	que no creo yo que hayas comido nunca un jamón así de raro .
+*FAT:	&=q cuándo has comido +//?
+*FAT:	&=q tienes los coches por ahí .
+*FAT:	trae los coches y los llevamos por la carretera .
+*FAT:	venga .
+*FAT:	venga .
+*FAT:	búsca los .
+*FAT:	muy bien .
+*FAT:	claro .
+*FAT:	no .
+*FAT:	pero la carretera es sin salir .
+*FAT:	< el camión también > [//] &=q ves ?
+*FAT:	el camión también va por la carretera .
+*FAT:	y este coche también .
+*FAT:	toma .
+*FAT:	ahí te voy dando coches .
+*FAT:	< por la carretera > [/] por la carretera .
+*FAT:	que no se salgan .
+*FAT:	&=q el tractor también ?
+*FAT:	&=q la excavadora no ?
+*FAT:	&=q el camión sí ?
+*FAT:	no [x 2] .
+*FAT:	sin salir .
+*FAT:	mira .
+*FAT:	esta es la carretera .
+*FAT:	mira .
+*FAT:	esta es la carretera .
+*FAT:	y por aquí también .
+*FAT:	&=q ves ?
+*FAT:	mira .
+*FAT:	por aquí hay otra carretera .
+*FAT:	mira .
+*FAT:	&=q ves ?
+*FAT:	y aquí hace una curva .
+*FAT:	mira .
+*FAT:	hace esta curva .
+*FAT:	mira .
+*FAT:	sigue por ahí .
+*FAT:	aquí hace otra curva .
+*FAT:	pi@o [x 3] .
+*FAT:	y sigue por ahí .
+*FAT:	&=q vale ?
+*FAT:	mira .
+*FAT:	el camión también va por la carretera .
+*FAT:	este camión grande .
+*FAT:	y la excavadora con él .
+*FAT:	bu@o .
+*FAT:	va muy despacio .
+*FAT:	entonces los demás coches tienen que adelantar le .
+*FAT:	pero hay que ir despacio &=q &-eh ?
+*FAT:	que si no podemos tener un accidente .
+*FAT:	&=q vale ?
+*FAT:	claro .
+*FAT:	hay que tener cuidado .
+*FAT:	&=q que va ? [+ ADS]
+*FAT:	&=q la excavadora no va por la carretera entonces ?
+*FAT:	ah sí .
+*FAT:	también .
+*FAT:	va con una sirena de esas de luz .
+*FAT:	&=q no ?
+*FAT:	pipu@o .
+*FAT:	porque va muy despacito .
+*FAT:	< y los coches van > [//] mira .
+*FAT:	unos van por aquí y otros van por aquí .
+*FAT:	el camión va por aquí .
+*FAT:	y estos dos en la misma calle .
+*FAT:	bu@o .
+*FAT:	&=q quién llama ?
+*FAT:	&=q qué haces ?
+*FAT:	&=q &-eh ?
+*FAT:	&=q qué haces ?
+*FAT:	&=q qué se ha roto ?
+*FAT:	&=q te ayudo ?
+*FAT:	trae .
+*FAT:	oye .
+*FAT:	&=q el camión lleva un coche ?
+*FAT:	a ver .
+*FAT:	&=q este ?
+*FAT:	&=q o este ?
+*FAT:	&=q así ?
+*FAT:	&=q ahí ?
+*FAT:	mira .
+*FAT:	y ese ahí .
+*FAT:	mira así qué bien .
+*FAT:	fíjate qué bien .
+*FAT:	&=q falta uno ?
+*FAT:	yo creo que este va mejor aquí .
+*FAT:	&=q ahí ?
+*FAT:	pero [x 4] si eso es un camión .
+*FAT:	&=q la excavadora lleva un coche ?
+*FAT:	&=q sí ?
+*FAT:	estoy intentando arreglar la que tiene todas las piezas sueltas .
+*FAT:	&=q ves ?
+*FAT:	está esta pieza suelta .
+*FAT:	esa .
+*FAT:	esta .
+*FAT:	se ha salido del tubo .
+*FAT:	uy@i .
+*FAT:	&=q quién viene ?
+*FAT:	&=q y qué haces aquí ?
+*FAT:	&=q con quién ?
+*FAT:	&=q juegas con Papá ?
+*FAT:	oy@i .
+*FAT:	un accidente .
+*FAT:	ha habido un accidente .
+*FAT:	el coche está del revés .
+*FAT:	toma .
+*FAT:	corre .
+*FAT:	vete con el camión a ver si les puedes ayudar .
+*FAT:	&=e tiru@o [x 6] !
+*FAT:	coge todos los coches y los cargas ahí en el camión para llevar los al taller .
+*FAT:	&=q caben ?
+*FAT:	&=q qué quiere decir mm@i ?
+*FAT:	&=q sí o no ?
+*FAT:	&=q no quiere llevar coches ?
+*FAT:	&=q el camión lleva la excavadora ?
+*FAT:	&=q y qué hace la excavadora ?
+*MOT:	hola , Juan .
+*MOT:	&=q qué haces ?
+*MOT:	&=q a qué juegas ?
+*MOT:	&=q con la excavadora ?
+*MOT:	&=q y qué hace la excavadora ?
+*MOT:	&=q trabaja ? [+ ADS]
+*MOT:	&=q y en qué ?
+*FAT:	enséña le a Mamá la carretera que tiene la alfombra .
+*FAT:	por ahí van los camiones .
+*FAT:	&=q verdad ?
+*FAT:	pero los camiones van por la derecha .
+*FAT:	< los ca@x > [/] hay que ir por la derecha porque si no se chocan .

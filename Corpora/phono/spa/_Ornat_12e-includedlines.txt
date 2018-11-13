@@ -1,0 +1,100 @@
+*PAD:	el qué ? 2823_4038
+*PAD:	sí . 8636_9308
+*PAD:	pues como tú te has vuelto , si no , no te veía . 13338_16898
+*PAD:	sabes ? 16898_17995
+*PAD:	claro . 17995_19008
+*PAD:	pues porque tú tienes mucho morro , sabes Tía ? 19008_24960
+*PAD:	ya . 29053_29703
+*PAD:	el tapón ? 30621_31596
+*MAD:	tienes que apretar para que salga , María . 78193_81903
+*MAD:	mira , lo pones así para abajo y haces . 90478_94036
+*MAD:	0 [% lo aprieta] . 94036_95486
+*MAD:	0 [% lo llena] espera , lo vamos a llenar mucho . 95486_101278
+*MAD:	0 [% lo llena] ahora dale la vuelta . 101278_105076
+*MAD:	aprieta . 105076_112610
+*PAD:	www [= habla con Mamá] . 112610_136681
+*PAD:	www [= habla con Mamá] . 137231_141808
+*MAD:	qué pantalones te vas a querer poner mañana [% a Papá] ? 149053_154905
+*PAD:	www [= hablan cobre las pantalones] . 154905_184673
+*MAD:	no , no pican . 186645_187958
+*PAD:	sabes por lo de picar ? 187958_188940
+*MAD:	⌊sí⌋ . 190165_190843
+*PAD:	porque por la(s) mañana(s) cuando se sienta encima de los xxx o algo así y le pican las peñas . 190843_196540
+*PAD:	se lo has contado a Mamá por_qué te pican las peñas ? 196540_198728
+*PAD:	por la mañana ? 198728_200191
+*PAD:	díselo anda , que no se lo sabe . 201080_202585
+*MAD:	por los pantalones de Papá , hija ? 206751_208603
+*PAD:	uy , que pie(s) má(s) feos . 211921_214213
+*MAD:	lávatelos bien , mi vida . 214213_215570
+*PAD:	es tan fea como María . 221773_227251
+*PAD:	bueno , bueno , bueno , que pie . 241698_243373
+*PAD:	que pie . 245321_246170
+*PAD:	qué bárbaro . 249418_250290
+*PAD:	que barbaridad . 250993_253296
+*PAD:	María +... 253296_258771
+*PAD:	María peñas . 274185_280838
+*PAD:	www [= habla con Mamá] . 280838_313941
+*PAD:	María , no te escondas que no te veo . 313941_316883
+*MAD:	dile a Papá , cántale a Papá la canción: “con las manos en las peñas” . 320955_324540
+*PAD:	no te sabes otra ? 346711_347730
+*PAD:	sabes que por la mañana no me deja cantar . 348881_357265
+*PAD:	sólo canta ella [% a Mamá] . 357265_358275
+*MAD:	xxx . 358275_363595
+*PAD:	dile a Mamá por_qué no me dejas cantar . 363595_365810
+*PAD:	anda . 365810_366218
+*MAD:	por_qué no le dejas cantar a Papá , hija ? 366218_368756
+*MAD:	no le deja María cantar a Papá ? 375170_377091
+*MAD:	por_qué le deja ? 377620_378636
+*MAD:	cómo canta Papá ? 378636_379738
+*MAD:	pero , cómo canta , hija ? 381130_382620
+*MAD:	sí: . 383541_384406
+*PAD:	y por_qué no me dejas cantar entonces ? 384406_386870
+*PAD:	no me mientas , no me dejas por las mañanas solo quieres cantar tú . 389853_392221
+*PAD:	cariño , no me dejas ningún día . 397861_400255
+*MAD:	ahora te dice que puedes cantar si quieres , vamos . 401845_404258
+*PAD:	puedo cantar ahora , mi amor ? 404258_405345
+*PAD:	canta tú que lo sabes mejor . 406646_408713
+*MAD:	de quién ha sido hoy el cumpleaños ? 417076_419216
+*MAD:	y tú la has ayudado a soplar las velas ? 420521_425240
+*MAD:	a qué sí ? 425240_425801
+*MAD:	um ? 425801_428743
+*PAD:	es porque Mabel se está poniendo un poquito bichorra , verdad ? 429680_433498
+*MAD:	xxx . 433498_437913
+*PAD:	&=rie . 437913_440928
+*MAD:	se está poniendo , qué ? 441603_442770
+*MAD:	no sé que es bicho pero suena poco feo . 442770_446665
+*PAD:	bichorra . 446665_448470
+*MAD:	y eso qué quiere decir ? 448470_449953
+*PAD:	es un bicho gordo . 449953_450688
+*PAD:	que es un bichorro . 452053_454070
+*MAD:	esta mañana cuando me estaba vistiendo y me dice María , Mamá estás gordísima . 454070_458223
+*PAD:	eso le has dicho a Mamá ? 461303_462096
+*PAD:	xxx ? 462096_463046
+*PAD:	eso no se le dice a Mamá que se ofende . 464326_466616
+*PAD:	Mamá está esbelta , no te equivoques nunca . 466616_472698
+*PAD:	el qué ? 474505_475418
+*PAD:	cómo ? 476855_478236
+*MAD:	Mamá está guapísima , siempre , María . 478236_480128
+*MAD:	te quieres poner el chandal rosa mañana ? 481960_483480
+*MAD:	te lo plancha este ? 483480_484546
+*MAD:	te apetece ? 485458_486276
+*PAD:	www [= habla con Mamá mientras María lo mira] . 486883_512985
+*PAD:	qué miras ? 512985_515951
+*MAD:	qué ? 515951_516559
+*PAD:	era a ella , que está mirando ? 516559_518741
+*PAD:	eh ? 518741_520136
+*PAD:	qué miras tanto ? 520136_521338
+*PAD:	qué estás mirando ? 521338_523845
+*PAD:	no , no . 526608_527403
+*PAD:	no disimules , me estabas mirando a mí . 527403_529210
+*MAD:	pero te has lavado bien ? 532063_535350
+*MAD:	te has lavado las manos , y los brazos , y la cara ? 535350_537310
+*MAD:	pues venga lávate . 537511_538671
+*MAD:	qué haces ahí parada ? 538671_539718
+*PAD:	te vas a qué ? 544336_545715
+*PAD:	a duchar ? 545715_546998
+*MAD:	eso es lo que voy a hacer , empezar a ducharte en ve(z) de bañarte . 546998_553088
+*PAD:	qué te parece si a partir de ahora te metemos en la bañera ? 553088_557963
+*PAD:	eh ? 559276_560723
+*PAD:	no sería mejor cariño ? 560723_562023
+*MAD:	no le gusta ni poquito . 562023_565048
