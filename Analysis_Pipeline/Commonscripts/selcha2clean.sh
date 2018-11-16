@@ -29,6 +29,7 @@ tr -d '\.' |
 tr -d '\?' |
 tr -d '!' |
 tr -d ';' |
+tr -d "⌉" |
 tr -d '\<' |
 tr -d '\>' |
 tr -d ','  |
@@ -38,6 +39,8 @@ tr -d '“' |
 tr -d '”' |
 tr -d '⌈' |
 tr -d '⌉' |
+tr -d "^?" |
+tr -d "^?" |
 grep -v "^\[-" | # IMPORTANT CHOICE -- deleting sentences that are code-switched
 sed 's/&=[^ ]*//g' | 
 #sed 's/&[^ ]*//g' |  #delete words beginning with & ##IMPORTANT CHOICE COULD HAVE CHOSEN TO DELETE SUCH NEOLOGISMS/NONWORDS by uncommenting this
@@ -62,6 +65,8 @@ sed 's/ $//g' |
 sed '/^$/d' |
 sed '/^ $/d' |
 sed 's/\^//g' |
+tr -d "[" |
+tr -d "]" |
 tr -d '\t' |
 awk '{gsub("\"",""); print}' > $ORTHO
 
