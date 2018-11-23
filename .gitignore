@@ -1,3 +1,6 @@
+Analysis_Pipeline/EnglishSpanish_recipe/fix.sh
+Analysis_Pipeline/EnglishSpanish_recipe/toremove/
+Corpora/cha/test/
 Analysis_Pipeline/*.numbers
 Analysis_Pipeline/.Rhistory
 Icon\r

@@ -300,11 +300,13 @@ for ORTHO in ${RES_FOLDER}/*ortholines.txt; do
 	sed 's/[ ]*$//'  |
 	sed 's/^\///'  | #remove syllable boundary at the beginning of sentences
 	sed 's/ \// /g'  | #remove syllable boundary at the beginning of words
+	sed 's/\/$//'  | #remove syllable boundary at the end of sentences
 	tr -s ' ' |
 	sed 's/ /\/#/g' |
 	sed 's/\/\//\//g' |
 	sed -e 's/\(.\)/\1 /g'  |
 	sed 's/$/\/#/' | #add syll and word tag at end of sentence
+	tr -s '\\' |
 	sed 's/\// ;esyll /g'| #replace shorthand with true tags
 	sed 's/#/ ;eword /g' |
 	tr '_' ' ' |  #to deal with diphthongs
