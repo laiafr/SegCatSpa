@@ -37,7 +37,7 @@ module load festival/2.4
 	# Phonologize
 	# turn transcriptions from orthographical to phonological
 	# ONLY ENGLISH NEEDS TO BE DONE; the script is the exact same as in exp. 1
-./../Commonscripts/2_phonologize.sh ${lang1}  ${PHONO_FOLDER}${lang1} #requires phonemizer
+#./../Commonscripts/2_phonologize.sh ${lang1}  ${PHONO_FOLDER}${lang1} #requires phonemizer
 
 
 	# Concatenate the corpora
@@ -62,33 +62,33 @@ module load festival/2.4
 	# Divide
 	# divide the big corpora in 10 parts to evaluate the robustness of the F-score
 	# as before,  ${lang2}_${lang2} is not done (it already exists)
-#divide_multiple=10
+divide_multiple=10
 
-#for thispart in ${lang1}_${lang2} ${lang1}_${lang1} ; do
-#    ./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}/$thispart/100 ${SPLIT_FOLDER}/$thispart/100 ${divide_multiple}
-#    ./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}/$thispart/1 ${SPLIT_FOLDER}/$thispart/1 ${divide_multiple}
-#done
+for thispart in ${lang1}_${lang2} ${lang1}_${lang1} ; do
+    ./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}/$thispart/100 ${SPLIT_FOLDER}/$thispart/100 ${divide_multiple}
+    ./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}/$thispart/1 ${SPLIT_FOLDER}/$thispart/1 ${divide_multiple}
+done
 
 	# Analyze
 
 
 
         #analyze the folders prior to the split
-#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
-#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1
 
-#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100
-#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1
 
 
         #analyze the splits
 #./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_split/
-#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1_split/
+./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1_split/
 
 #./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_split/
-#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1_split/
+./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1_split/
 
 
         # More analysis on the corpus
-#./../Commonscripts/6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} $reslang2 ${RES_FOLDER}/${lang1}_${lang2}
+./../Commonscripts/6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} $reslang2 ${RES_FOLDER}/${lang1}_${lang2}
 
