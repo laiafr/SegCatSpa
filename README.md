@@ -1,10 +1,7 @@
-# SegCatSpa
+# Modeling Bilingual Word Segmentation (SegCatSpa)
 
-Word segmentation project for the analysis of Bilingual corpora
+This project aims to model balanced bilinguals and monolinguals of 3 different languages, with language switching happening every other sentence, or every 100 sentences.  
 
-This project aims to test the performance of 5 different algorithms on word segmentation, in two artifically made bilingual corpora. 
-The first bilingual corpus includes a mix of 50% Catalan and 50% Spanish.
-The second bilingual corpora includes a mix of 50% English and 50% Spanish. 
+We test the performance of different algorithms on word segmentation that represent different coginitve strategies that infants could be brining into the word segmentation task.
 
-This repository contains the collected corpora from English, Catalan and Spanish. As well as all the steps to process the data wich are 
-descrived in the recipes of each langauge. 
+This repository contains the collected corpora from English, Catalan and Spanish which are also freely available in CHILDES https://childes.talkbank.org As well as all the steps to process the data wich are descrived in the recipes of each language.
