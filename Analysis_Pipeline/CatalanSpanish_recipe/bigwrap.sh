@@ -5,6 +5,7 @@
 # Mathieu Bernard
 # Laia Fibla 2017-01-19
 # Alex Cristia 2018-10-12
+# Alex 2020-02-03 add ana of whole biling
 
 ################# Variables ##############
 # Adapt this section with your absolute paths and other variables
@@ -50,6 +51,7 @@ source activate wordseg
 #./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${divide_half}
 #./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100 ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${divide_half}
 
+
 #mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/1-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1/.
 #mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/1-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100/.
 #mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/0-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/tags.txt
@@ -79,14 +81,17 @@ source activate wordseg
 
 	#analyze the splits
 #./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_split
-./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1_split
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1_split
 
 #./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100_split
-./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang2}_${lang2}/1 ${RES_FOLDER}/${lang2}_${lang2}/1_split
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang2}_${lang2}/1 ${RES_FOLDER}/${lang2}_${lang2}/1_split
 
 #./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_split
-./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1_split
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1_split
 
+# ADDED 2020-02-03 analyze the whole biling
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${RES_FOLDER}/${lang1}_${lang2}/1_whole
 
 	# More analysis on the corpus
 #./../Commonscripts/6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} ${CONCATENATED_FOLDER}${lang2}_${lang2} ${RES_FOLDER}/${lang1}_${lang2}
+
