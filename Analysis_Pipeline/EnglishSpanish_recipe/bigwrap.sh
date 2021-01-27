@@ -98,39 +98,32 @@ divide_multiple=10
 #./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${RES_FOLDER}/${lang1}_${lang2}/1_whole
 
 # ADDED 2021-01-27 train on 80% and test on 20%
-mkdir -p ${TRAIN_FOLDER}${lang1}_${lang1}/100
-mkdir -p ${TRAIN_FOLDER}${lang2}_${lang2}/100
-mkdir -p ${TRAIN_FOLDER}${lang1}_${lang2}/100
-mkdir -p ${TEST_FOLDER}${lang1}_${lang1}/100
-mkdir -p ${TEST_FOLDER}${lang2}_${lang2}/100
-mkdir -p ${TEST_FOLDER}${lang1}_${lang2}/100
+# spa-spa not needed because it's the same as in cat spa
+
+#mkdir -p ${TRAIN_FOLDER}${lang1}_${lang1}/100
+#mkdir -p ${TRAIN_FOLDER}${lang1}_${lang2}/100
+#mkdir -p ${TEST_FOLDER}${lang1}_${lang1}/100
+#mkdir -p ${TEST_FOLDER}${lang1}_${lang2}/100
 
 # first do the train/test split
-for j in ${CONCATENATED_FOLDER}${lang1}_${lang1}/100/*.txt; do 
-    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))  
-    k="$(basename -- $j)"  
-    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang1}/100/$k 
-    mv xx01 ${TEST_FOLDER}${lang1}_${lang1}/100/$k 
-done
+#for j in ${CONCATENATED_FOLDER}${lang1}_${lang1}/100/*.txt; do 
+#    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))  
+#    k="$(basename -- $j)"  
+#    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang1}/100/$k 
+#    mv xx01 ${TEST_FOLDER}${lang1}_${lang1}/100/$k 
+#done
 
-for j in ${CONCATENATED_FOLDER}${lang2}_${lang2}/100/*.txt; do 
-    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))  
-    k="$(basename -- $j)"  
-    mv xx00 ${TRAIN_FOLDER}${lang2}_${lang2}/100/$k 
-    mv xx01 ${TEST_FOLDER}${lang2}_${lang2}/100/$k 
-done
 
-for j in ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/*.txt; do 
-    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1)) 
-    k="$(basename -- $j)"  
-    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang2}/100/$k 
-    mv xx01 ${TEST_FOLDER}${lang1}_${lang2}/100/$k 
-done
+#for j in ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/*.txt; do 
+#    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1)) 
+#    k="$(basename -- $j)"  
+#    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang2}/100/$k 
+#    mv xx01 ${TEST_FOLDER}${lang1}_${lang2}/100/$k 
+#done
 
 # Launch analyses with separate train/test
-./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/100 ${TEST_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_split_tt
-#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang2}_${lang2}/100 ${TEST_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100_split_tt
-#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/100 ${TEST_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_split_tt
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/100 ${TEST_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_tt
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/100 ${TEST_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_tt
 
 
         # More analysis on the corpus

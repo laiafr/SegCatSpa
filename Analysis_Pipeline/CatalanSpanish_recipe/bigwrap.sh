@@ -126,9 +126,9 @@ source activate wordseg
 #done
 
 # Launch analyses with separate train/test
-./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/100 ${TEST_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_split_tt
-#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang2}_${lang2}/100 ${TEST_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100_split_tt
-#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/100 ${TEST_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_split_tt
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/100 ${TEST_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_tt
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang2}_${lang2}/100 ${TEST_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100_tt
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/100 ${TEST_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_tt
 
 	# More analysis on the corpus
 #./../Commonscripts/6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} ${CONCATENATED_FOLDER}${lang2}_${lang2} ${RES_FOLDER}/${lang1}_${lang2}
