@@ -122,8 +122,34 @@ divide_multiple=10
 #done
 
 # Launch analyses with separate train/test
-./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/100 ${TEST_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_tt
-./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/100 ${TEST_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_tt
+#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/100 ${TEST_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_tt
+#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/100 ${TEST_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_tt
+
+##### NOW REPEAT but switching every sentence
+mkdir -p ${TRAIN_FOLDER}${lang1}_${lang1}/1  
+mkdir -p ${TRAIN_FOLDER}${lang1}_${lang2}/1  
+mkdir -p ${TEST_FOLDER}${lang1}_${lang1}/1  
+mkdir -p ${TEST_FOLDER}${lang1}_${lang2}/1  
+
+# first do the train/test split
+for j in ${CONCATENATED_FOLDER}${lang1}_${lang1}/1/*.txt; do
+    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))
+    k="$(basename -- $j)"
+    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang1}/1/$k
+    mv xx01 ${TEST_FOLDER}${lang1}_${lang1}/1/$k
+done
+
+
+for j in ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/*.txt; do
+    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))
+    k="$(basename -- $j)"
+    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang2}/1/$k 
+    mv xx01 ${TEST_FOLDER}${lang1}_${lang2}/1/$k
+done
+
+# Launch analyses with separate train/test
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/1 ${TEST_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1_tt
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/1 ${TEST_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1_tt
 
 
         # More analysis on the corpus
