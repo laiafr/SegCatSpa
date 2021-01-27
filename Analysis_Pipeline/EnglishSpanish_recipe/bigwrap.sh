@@ -1,88 +1,97 @@
 #!/usr/bin/env bash
 
-# Wrapper to run SegEngSpa M2 Project Laia Fibla 2016-2017
+# Wrapper to run wordseg experiments - spa & eng version
 # Alex Cristia <alecristia@gmail.com> 2017-01-14
 # Mathieu Bernard
 # Laia Fibla 2017-01-19
+# Alex Cristia 2018-10-12
+# Alex 2020-02-03 add ana of whole biling
 
 ############ VARIABLES ##############
-# Here change the paths
-ORIG_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/Bernstein/berns_all/original_corpus/"
-PROCESSED_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/Bernstein/berns_all/adapted_corpus/"
-PROCESSED_FOLDER2="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/RES_corpus_"
-CONCATENATED_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/SegEngSpa/conc_"
-RES_FOLDER="/fhgfs/bootphon/scratch/lfibla/seg/results/Bernstein/segengspares_"
+# Adapt this section with your absolute paths and other variables
+
+lang1="eng"
+lang2="spa"
+
+ROOT="/scratch1/projects/wordseg-biling/SegCatSpa/"
+#ROOT="/Users/alejandrinacristia/Dropbox/SegCatSpa/"
+
+INPUT_CORPUS="$ROOT/Corpora/cha/" #where you have put the talkbank corpora to be analyzed
+PHONO_FOLDER="$ROOT/Corpora/phono/"
+CONCATENATED_FOLDER="$ROOT/Corpora/concat/${lang1}_${lang2}_match/"
+SPLIT_FOLDER="$ROOT/Corpora/split/${lang1}_${lang2}_match/"
+RES_FOLDER="$ROOT/Results/${lang1}_${lang2}_match/"
+ref_file="/scratch1/projects/wordseg-biling/SegCatSpa//Corpora/concat/spa_cat_match/cat_cat/1/tags.txt"
+reslang2="/scratch1/projects/wordseg-biling/SegCatSpa//Corpora/concat/spa_cat_match/spa_spa/"
+
+#if running on oberon, do:
+module load anaconda/3
+source activate wordseg
+module load festival/2.4
 #####################################
 
-# Matching phonology from English to Spanish to make language comparisons and create a bilingual corpus Eng Spa
-#./1_match_phones.sh ${ORIG_FOLDER} ${PROCESSED_FOLDER}
+	# Create Database
+	# Turn the cha-like files into a single clean file per type
+	# ONLY ENGLISH NEEDS TO BE DONE; the script is the exact same as in exp. 1
+#./../Commonscripts/1_selAndClean.sh ${INPUT_CORPUS}/${lang1} ${PHONO_FOLDER}/${lang1}
 
-# Cut the Bernstein coprus on small parts to be able to concatenate afterwards
-divide_in_small_parts=10
-#./2_cut_in_small_parts.sh ${PROCESSED_FOLDER} ${PROCESSED_FOLDER2}eng ${divide_in_small_parts}
-#mv ${PROCESSED_FOLDER2}eng/all/* ${PROCESSED_FOLDER2}eng
-#rm -r ${PROCESSED_FOLDER2}eng/all
+	# Phonologize
+	# turn transcriptions from orthographical to phonological
+	# ONLY ENGLISH NEEDS TO BE DONE; the script is the exact same as in exp. 1
+#./../Commonscripts/2_phonologize.sh ${lang1}  ${PHONO_FOLDER}${lang1} #requires phonemizer
 
-# Concantenate monolingual corpus each 4 and 100 lines
-#./3_concatenate_eng.sh ${PROCESSED_FOLDER2}eng ${CONCATENATED_FOLDER}eng
-#./3_concatenate_eng.sh ${PROCESSED_FOLDER2}spa ${CONCATENATED_FOLDER}spa_all/ 
-# I manually matched the spanish and english corpus in the amount of lines using "head -n 10000 ./conc_spa_all/100/gold.txt >> conc_spa/100/gold.txt"
-# I cut the first 10000 lines from the spanish corpus because the total english one is 10000. I called the res folder "conc_spa"
 
-#This step is to create an artificial bilingual coprus, here we are mixing each 4 and 100 lines
-#rm -r ${CONCATENATED_FOLDER}bil_all/100/*
-#rm -r ${CONCATENATED_FOLDER}bil_all/4/*
-#./3b_concatenate_bil.sh ${PROCESSED_FOLDER2} ${CONCATENATED_FOLDER}bil_all
+	# Concatenate the corpora
+	# the script is almost identical to the cat-spa version, except that it does NOT generate the lang2_lang2 version (since it already exists), and that it stops whent the lang1_lang1 corpus is of the same size as lang2_lang2
+#./3_concatenate_l1.sh ${PHONO_FOLDER}/${lang1}  ${PHONO_FOLDER}/${lang2} ${CONCATENATED_FOLDER} $ref_file
 
-# The bilingual copora is double size than the monolinguals, this step divides it in two parts
-# alternatively match them in the exact lines as the monolingual corpora using the head command
-divide_half=2
-#./4_cut_in_10.sh ${CONCATENATED_FOLDER}bil_all/4 ${CONCATENATED_FOLDER}bil_half/4 ${divide_half}
-#./4_cut_in_10.sh ${CONCATENATED_FOLDER}bil_all/100 ${CONCATENATED_FOLDER}bil_half/100 ${divide_half}
 
-# note, this step is just used with the big corpus!
-# Divide the big corpus in 10 parts to evaluate the robustness of the F-score
+	# The bilingual corpus is double size than the monolinguals, this step divides it in two parts, one called 0 and 1 called 1. 
+	# Then we select part zero to be the one that gets analyzed and move part 1 somewhere else where it won't get analyzed
+#divide_half=2
+#rm -r ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
+#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/ ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/
+#./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${divide_half}
+#./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100 ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${divide_half}
+
+#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/1-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1/
+#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/1-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/100/
+#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/0-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}/1/tags.txt
+#mv ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/0-tags.txt ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/tags.txt
+
+
+	# Divide
+	# divide the big corpora in 10 parts to evaluate the robustness of the F-score
+	# as before,  ${lang2}_${lang2} is not done (it already exists)
 divide_multiple=10
-#./4_cut.sh ${CONCATENATED_FOLDER}eng/4 ${CONCATENATED_FOLDER}eng_10/4 ${divide_multiple}
-#./4_cut.sh ${CONCATENATED_FOLDER}eng/100 ${CONCATENATED_FOLDER}eng_10/100 ${divide_multiple}
-#./4_cut_in_10.sh ${CONCATENATED_FOLDER}spa/100 ${CONCATENATED_FOLDER}spa_10/100 ${divide_multiple}
-#./4_cut_in_10.sh ${CONCATENATED_FOLDER}spa/4 ${CONCATENATED_FOLDER}spa_10/4 ${divide_multiple}
 
-#./4_cut_in_10.sh ${CONCATENATED_FOLDER}bil_half/4 ${CONCATENATED_FOLDER}bil_half_10/4 ${divide_multiple}
-#./4_cut_in_10.sh ${CONCATENATED_FOLDER}bil_half/100 ${CONCATENATED_FOLDER}bil_half_10/100 ${divide_multiple}
+#for thispart in ${lang1}_${lang2} ${lang1}_${lang1} ; do
+#    ./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}/$thispart/100 ${SPLIT_FOLDER}/$thispart/100 ${divide_multiple}
+#    ./../Commonscripts/4_cut.sh ${CONCATENATED_FOLDER}/$thispart/1 ${SPLIT_FOLDER}/$thispart/1 ${divide_multiple}
+#done
 
-# Analyze
-#rm -r ${RES_FOLDER}eng_10/4/*
-#rm -r ${RES_FOLDER}spa_10/4/*
-#rm -r ${RES_FOLDER}bil_half_10/4/*
-#./5_analyze.sh ${CONCATENATED_FOLDER}eng_10/4 ${RES_FOLDER}eng_10/4
-#./5_analyze.sh ${CONCATENATED_FOLDER}eng_10/100 ${RES_FOLDER}eng_10/100
-#./5_analyze.sh ${CONCATENATED_FOLDER}spa_10/4 ${RES_FOLDER}spa_10/4
-#./5_analyze.sh ${CONCATENATED_FOLDER}spa_10/100 ${RES_FOLDER}spa_10/100
+	# Analyze
 
-#./5_analyze.sh ${CONCATENATED_FOLDER}test/4 ${RES_FOLDER}test/4
-#./5_analyze.sh ${CONCATENATED_FOLDER}bil_half_10/4 ${RES_FOLDER}bil_half_10/4
-#./5_analyze.sh ${CONCATENATED_FOLDER}bil_half_10/100 ${RES_FOLDER}bil_half_10/100
-#echo ${RES_FOLDER}
 
-# Collapse results
-#rm ${RES_FOLDER}eng/results.txt
-#rm ${RES_FOLDER}spa/results.txt
-#rm ${RES_FOLDER}eng_10/4/results.txt
-#rm ${RES_FOLDER}eng_10/100/results.txt
-#rm ${RES_FOLDER}spa_10/4/results.txt
-#rm ${RES_FOLDER}spa_10/100/results.txt
-#rm ${RES_FOLDER}bil_half_10/4/results.txt
-#./6_collapse_results.sh ${RES_FOLDER}eng
-#./6_collapse_results.sh ${RES_FOLDER}spa
-#./6_collapse_results.sh ${RES_FOLDER}eng_10/4
-#./6_collapse_results.sh ${RES_FOLDER}eng_10/100
-./6_collapse_results.sh ${RES_FOLDER}spa_10/4
-#./6_collapse_results.sh ${RES_FOLDER}spa_10/100
-#./6_collapse_results.sh ${RES_FOLDER}bil_all
-./6_collapse_results.sh ${RES_FOLDER}bil_half_10/4
-echo "done collapsing results"
 
-# More analysis on the coprus
-#./_describe_gold.sh
-#./_compare_languages.sh
+        #analyze the folders prior to the split
+#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100
+#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1
+
+#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100
+#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1
+
+
+        #analyze the splits
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_split/
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang1}/1 ${RES_FOLDER}/${lang1}_${lang1}/1_split/
+
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_split/
+#./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1_split/
+
+# ADDED 2020-02-03 analyze the whole biling
+./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${RES_FOLDER}/${lang1}_${lang2}/1_whole
+
+        # More analysis on the corpus
+#./../Commonscripts/6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} $reslang2 ${RES_FOLDER}/${lang1}_${lang2}
+
