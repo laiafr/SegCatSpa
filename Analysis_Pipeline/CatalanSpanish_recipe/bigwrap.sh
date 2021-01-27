@@ -19,11 +19,11 @@ ROOT="/scratch1/projects/wordseg-biling/SegCatSpa/"
 
 INPUT_CORPUS="$ROOT/Corpora/cha/" #where you have put the talkbank corpora to be analyzed
 PHONO_FOLDER="$ROOT/Corpora/phono/"
-CONCATENATED_FOLDER="$ROOT/Corpora/concat/spa_cat_match/"
-SPLIT_FOLDER="$ROOT/Corpora/split/spa_cat_match/"
-TRAIN_FOLDER="$ROOT/Corpora/split/spa_cat_match_80pc/"
-TEST_FOLDER="$ROOT/Corpora/split/spa_cat_match_20pc/"
-RES_FOLDER="$ROOT/Results/spa_cat_match/"
+CONCATENATED_FOLDER="$ROOT/Corpora/concat/${lang1}_${lang2}_match/"
+TRAIN_FOLDER="$ROOT/Corpora/concat/${lang1}_${lang2}_match_80pc/"
+TEST_FOLDER="$ROOT/Corpora/concat/${lang1}_${lang2}_match_20pc/"
+SPLIT_FOLDER="$ROOT/Corpora/split/${lang1}_${lang2}_match/"
+RES_FOLDER="$ROOT/Results/${lang1}_${lang2}_match/"
 
 
 #if running on oberon, do:
@@ -104,21 +104,21 @@ source activate wordseg
 #mkdir -p ${TEST_FOLDER}${lang1}_${lang2}/100
 
 # first do the train/test split
-#for j in ${SPLIT_FOLDER}${lang1}_${lang1}/100/*.txt; do 
+#for j in ${CONCATENATED_FOLDER}${lang1}_${lang1}/100/*.txt; do 
 #    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))  
 #    k="$(basename -- $j)"  
 #    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang1}/100/$k 
 #    mv xx01 ${TEST_FOLDER}${lang1}_${lang1}/100/$k 
 #done
 
-#for j in ${SPLIT_FOLDER}${lang2}_${lang2}/100/*.txt; do 
+#for j in ${CONCATENATED_FOLDER}${lang2}_${lang2}/100/*.txt; do 
 #    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))  
 #    k="$(basename -- $j)"  
 #    mv xx00 ${TRAIN_FOLDER}${lang2}_${lang2}/100/$k 
 #    mv xx01 ${TEST_FOLDER}${lang2}_${lang2}/100/$k 
 #done
 
-#for j in ${SPLIT_FOLDER}${lang1}_${lang2}/100/*.txt; do 
+#for j in ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/*.txt; do 
 #    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1)) 
 #    k="$(basename -- $j)"  
 #    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang2}/100/$k 

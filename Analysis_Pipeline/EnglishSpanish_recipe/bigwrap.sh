@@ -6,6 +6,7 @@
 # Laia Fibla 2017-01-19
 # Alex Cristia 2018-10-12
 # Alex 2020-02-03 add ana of whole biling
+# Alex 2021-01-27 add separate train and test
 
 ############ VARIABLES ##############
 # Adapt this section with your absolute paths and other variables
@@ -23,6 +24,10 @@ SPLIT_FOLDER="$ROOT/Corpora/split/${lang1}_${lang2}_match/"
 RES_FOLDER="$ROOT/Results/${lang1}_${lang2}_match/"
 ref_file="/scratch1/projects/wordseg-biling/SegCatSpa//Corpora/concat/spa_cat_match/cat_cat/1/tags.txt"
 reslang2="/scratch1/projects/wordseg-biling/SegCatSpa//Corpora/concat/spa_cat_match/spa_spa/"
+
+TRAIN_FOLDER="$ROOT/Corpora/concat/${lang1}_${lang2}_match_80pc/"
+TEST_FOLDER="$ROOT/Corpora/concat/${lang1}_${lang2}_match_20pc/"
+
 
 #if running on oberon, do:
 module load anaconda/3
@@ -90,7 +95,43 @@ divide_multiple=10
 #./../Commonscripts/5_analyze.sh ${SPLIT_FOLDER}${lang1}_${lang2}/1 ${RES_FOLDER}/${lang1}_${lang2}/1_split/
 
 # ADDED 2020-02-03 analyze the whole biling
-./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${RES_FOLDER}/${lang1}_${lang2}/1_whole
+#./../Commonscripts/5_analyze.sh ${CONCATENATED_FOLDER}${lang1}_${lang2}_whole/1 ${RES_FOLDER}/${lang1}_${lang2}/1_whole
+
+# ADDED 2021-01-27 train on 80% and test on 20%
+mkdir -p ${TRAIN_FOLDER}${lang1}_${lang1}/100
+mkdir -p ${TRAIN_FOLDER}${lang2}_${lang2}/100
+mkdir -p ${TRAIN_FOLDER}${lang1}_${lang2}/100
+mkdir -p ${TEST_FOLDER}${lang1}_${lang1}/100
+mkdir -p ${TEST_FOLDER}${lang2}_${lang2}/100
+mkdir -p ${TEST_FOLDER}${lang1}_${lang2}/100
+
+# first do the train/test split
+for j in ${CONCATENATED_FOLDER}${lang1}_${lang1}/100/*.txt; do 
+    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))  
+    k="$(basename -- $j)"  
+    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang1}/100/$k 
+    mv xx01 ${TEST_FOLDER}${lang1}_${lang1}/100/$k 
+done
+
+for j in ${CONCATENATED_FOLDER}${lang2}_${lang2}/100/*.txt; do 
+    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1))  
+    k="$(basename -- $j)"  
+    mv xx00 ${TRAIN_FOLDER}${lang2}_${lang2}/100/$k 
+    mv xx01 ${TEST_FOLDER}${lang2}_${lang2}/100/$k 
+done
+
+for j in ${CONCATENATED_FOLDER}${lang1}_${lang2}/100/*.txt; do 
+    csplit $j $(( $(wc -l < $j ) * 8 / 10 + 1)) 
+    k="$(basename -- $j)"  
+    mv xx00 ${TRAIN_FOLDER}${lang1}_${lang2}/100/$k 
+    mv xx01 ${TEST_FOLDER}${lang1}_${lang2}/100/$k 
+done
+
+# Launch analyses with separate train/test
+./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang1}/100 ${TEST_FOLDER}${lang1}_${lang1}/100 ${RES_FOLDER}/${lang1}_${lang1}/100_split_tt
+#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang2}_${lang2}/100 ${TEST_FOLDER}${lang2}_${lang2}/100 ${RES_FOLDER}/${lang2}_${lang2}/100_split_tt
+#./../Commonscripts/5_analyze_tt.sh ${TRAIN_FOLDER}${lang1}_${lang2}/100 ${TEST_FOLDER}${lang1}_${lang2}/100 ${RES_FOLDER}/${lang1}_${lang2}/100_split_tt
+
 
         # More analysis on the corpus
 #./../Commonscripts/6_compare_languages.sh ${CONCATENATED_FOLDER}${lang1}_${lang1} $reslang2 ${RES_FOLDER}/${lang1}_${lang2}
