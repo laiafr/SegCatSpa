@@ -40,10 +40,10 @@ do
     echo "  train $train..."
 
     # defines segmentation jobs
-    echo "$name-syllable-tprel $tags,$train syllable $separator wordseg-tp -v -t relative " >> $jobs
-    echo "$name-syllable-tpabs $tags,$train syllable $separator wordseg-tp -v -t absolute " >> $jobs
-    echo "$name-phone-dibs $tags,$train phone $separator wordseg-dibs -v -t phrasal -u phone " >> $jobs
-    echo "$name-phone-puddle $tags,$train phone $separator wordseg-puddle -v  -w 2  " >> $jobs
+#    echo "$name-syllable-tprel $tags,$train syllable $separator wordseg-tp -v -t relative " >> $jobs
+#    echo "$name-syllable-tpabs $tags,$train syllable $separator wordseg-tp -v -t absolute " >> $jobs
+#    echo "$name-phone-dibs $tags,$train phone $separator wordseg-dibs -v -t phrasal -u phone " >> $jobs
+#    echo "$name-phone-puddle $tags,$train phone $separator wordseg-puddle -v  -w 2  " >> $jobs
     echo "$name-syllable-ag $tags,$train syllable $separator wordseg-ag -vv -j 8 " >> $jobs
 
     ((counter++))
